@@ -1,0 +1,11 @@
+.bootstrap/
+.python/
+.python-bin/
+.venv/
+.uv-cache/
+models/
+temp/
+outputs/
+references/
+__pycache__/
+*.log

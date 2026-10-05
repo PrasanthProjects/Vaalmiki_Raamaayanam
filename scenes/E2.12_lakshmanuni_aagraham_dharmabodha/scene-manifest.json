@@ -1,0 +1,182 @@
+[
+  {
+    "episode": "E2.12_lakshmanuni_aagraham_dharmabodha",
+    "scene": 1,
+    "part_id": "1",
+    "visual_description": "Recap, continuing directly from E2.11's ending — Kausalya has just declared she will die if Rama leaves.",
+    "story_text": "గత భాగం చివర్లో కౌసల్య, రాముడు వెళితే తాను మరణిస్తానని చెప్పింది. ఇక లక్ష్మణుడు ఆగలేకపోయాడు.",
+    "source_notes": "Bridge line.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.12_lakshmanuni_aagraham_dharmabodha",
+    "scene": 2,
+    "part_id": "2",
+    "visual_description": "[Lakshmana Visual Lock] finally breaking his silence with full, open fury — accusing Dasharatha directly of being ruled by lust in old age, and making an extreme, violent offer: to personally crush any opposition and even imprison or kill his own father to keep Rama on the throne.",
+    "story_text": "ఇప్పటిదాకా ఈ మాటలన్నీ వింటున్న లక్ష్మణుడు ఆగ్రహంతో \"అన్నయ్యా, నాన్నగారికి వృద్ధాప్యం వచ్చింది కాని కామం తీరలేదు, విషయసుఖాలకి లొంగి కైకేయతో హాయిగా కాలం గడుపుతున్నాడు. అపరాధం చెయ్యని నిన్ను అడవులకు పంపిస్తున్నారు, నువ్వేమో ధర్మము, పితృవాక్య పరిపాలన అని వెళ్ళిపోతున్నావు, అమ్మ ఇక్కడ ఇంత బాధపడుతోంది, చేతకానివాడిలా నువ్వు వెళ్ళిపోవడం ఎందుకు. నువ్వు ఒకసారి 'ఊ' అను, నేను నా అస్త్ర-శస్త్రాల చేత ఈ అయోధ్యలోని ఏనుగుల గుండాలని, పర్వతాల్ని పడేసినట్టు పడేస్తాను, భరతుడి పేరు చెప్పినవాడిని, భరతుడు రాజుగా కావాలన్న వాళ్ళని ఒక బాణంతో కొన్ని వందల మందిని చంపేస్తాను, ఇంతటి ధర్మాత్ముడైన కొడుకుని అడవులకు పంపిస్తున్న ఆ దశరథుడిని బంధించి కారాగృహంలో తోసేస్తాను, లేకపోతే చంపేస్తాను, నిన్ను రక్షించుకోలేకపోతే నీ పక్కన నేను ఉండి ఎందుకు, కావున నాకు అనుమతి ప్రసాదించు\" అని అన్నాడు.",
+    "source_notes": "This is genuinely extreme — Lakshmana is offering open rebellion, mass violence, and regicide against his own father, not a mild protest; play with full, unguarded rage, matching the \"angered cobra\" image from E2.11. This is the emotional ceiling of Lakshmana's character established so far, worth its full weight rather than softening the offer to imprison/kill Dasharatha.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.12_lakshmanuni_aagraham_dharmabodha",
+    "scene": 3,
+    "part_id": "3",
+    "visual_description": "[Kausalya Visual Lock] not rejecting Lakshmana's offer outright, instead presenting Rama with a direct ultimatum of her own — take her along, or she dies.",
+    "story_text": "లక్ష్మణుడి మాటలు విన్న కౌసల్య ఇలా పలికింది — \"రామా, నిన్ను విడిచి నేను ఉండలేను, ఉంటే నీతో పాటు నేను ఉండాలి, లేదా నువ్వు నాతో ఉండాలి. నీతో పాటు నేను అడవులకు వస్తే, నువ్వు ఏది తింటావో నాకు అదే పెట్టు, లేదంటే లక్ష్మణుడు చెప్పిన ఆలోచన గురించి ఆలోచించు. తండ్రి మాట బిడ్డ ఎలా వినాలో, తల్లి మాట కూడా అలానే వినాలి, తండ్రి అనుమతిచ్చాడు కనుక వెళతానంటున్నావు, కాని తల్లిగా నేను నీకు అనుమతిని ఇవ్వడంలేదు. ఒకవేళ నువ్వు నా మాట కాదని వెళితే నేను విషం తాగి చనిపోతాను, నువ్వు వెళ్ళడానికి వీలులేదు\" అని కౌసల్య అని పలికింది.",
+    "source_notes": "Kausalya's line \"a mother's word should be obeyed just as a father's\" is a real, pointed logical challenge, not simply grief — she is directly contesting the premise of Rama's entire justification; worth playing her as making an actual argument, matching Kaikeyi's own earlier \"reasonable objection\" register from E2.05, rather than pure emotional breakdown.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.12_lakshmanuni_aagraham_dharmabodha",
+    "scene": 4,
+    "part_id": "4",
+    "visual_description": "[Rama Visual Lock] responding to Kausalya first, with total gentleness — not dismissing her point but answering it directly through precedent: [flashback register: sage Khandu killing a cow at his father's command; Parashurama beheading his own mother Renuka at his father Jamadagni's command; King Sagara's 60,000 sons digging up the earth at their father's word] — each shown briefly as a self-contained legendary vignette.",
+    "story_text": "అప్పుడు రాముడు \"అమ్మా, నువ్వు చెప్పింది తప్పు అని నేను అనను. ఖండువు అని ఒక మహర్షి ఉండేవారు, ఆయన తండ్రి ఒకసారి పిలిచి గోవుని చంపమంటే, ఆ మహర్షి గోవుని చంపేశాడు. పరశురాముడిని ఆయన తండ్రి జమదగ్ని పిలిచి 'నీ తల్లి అయిన రేణుక శిరస్సు నరకు' మన్నాడు, పరశురాముడు నాన్న అడగకుండా తన తల్లి కుత్తుక కోసేశాడు. అలాగే మన వంశంలో పూర్వీకుడైన సగర చక్రవర్తి తన 60,000 కుమారులని పిలిచి ఈ భూమి మొత్తాన్ని తవ్వమంటే, తవ్వడం పాపం కదా అని వారు ఆలోచించలేదు, తండ్రి చెప్పాడని తవ్వేశారు. ఒకేసారి తల్లి మాట, తండ్రి మాట వినవలసి వస్తే, తండ్రి మాటకే గౌరవం ఇవ్వాలి, నేను ఇప్పుడు తల్లి మాట విని ఆగిపోతే, పూర్వం మన వంశంలో తండ్రి మాట విన్నవారు అవివేకులవుతారు, నేను వారి ప్రవర్తనని అవమానించకూడదు, అందుకని నేను ఇప్పుడు దశరథ మహారాజు మాట విని అడవులకు వెళతాను\" అన్నాడు.",
+    "source_notes": "These three precedent-legends (Khandu, Parashurama, Sagara's sons) are each genuinely dark examples — the text is citing extreme, even disturbing obedience-to-father stories to make its point, not gentle ones; render each flashback vignette briefly and clearly as its own self-contained beat rather than softening the content, since the weight of the argument depends on how extreme the precedents actually are.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.12_lakshmanuni_aagraham_dharmabodha",
+    "scene": 5,
+    "part_id": "5",
+    "visual_description": "Transition — Rama turning from his mother to address Lakshmana directly.",
+    "story_text": "తరువాత లక్ష్మణుడితో రాముడు ఇలా అన్నాడు —",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.12_lakshmanuni_aagraham_dharmabodha",
+    "scene": 6,
+    "part_id": "6",
+    "visual_description": "On-screen verse text.",
+    "story_text": "తవ లక్ష్మణ జానామి మయి స్నేహమనుత్తమమ్ | విక్రమం చైవ సత్యం చ తేజశ్చ సుదురాసదమ్ ॥",
+    "source_notes": "🔴 VERSE — Rama acknowledging Lakshmana directly: \"Lakshmana, I know your unmatched love for me, your valor, your truthfulness, and your fierce, unassailable strength.\"",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.12_lakshmanuni_aagraham_dharmabodha",
+    "scene": 7,
+    "part_id": "7",
+    "visual_description": "[Rama Visual Lock] speaking gently but firmly to Lakshmana, naming the real emotional cost of what he witnessed — his mother's distress at the very moment of taking leave.",
+    "story_text": "\"లక్ష్మణా, నువ్వు ఎంతటి పరాక్రమవంతుడివో నాకు తెలుసు, కాని నువ్వు అన్నటువంటి మాటల వలన, అమ్మ దగ్గర అనుమతి తీసుకొని అరణ్యవాసానికి వెళదామని వచ్చిన నాకు ఎంత ఇబ్బందిగా ఉన్నాయో చూశావా, సత్యమేదో, శాంతికి స్థానమేదో తెలుసుకోవడంలో అమ్మ తత్తరపడుతోంది\" అన్నాడు.",
+    "source_notes": "Rama's first concern in responding to Lakshmana's violent offer is not moral condemnation but a quieter observation — that the outburst itself has made an already-devastated mother's confusion worse; a subtle, specific point rather than generic disapproval.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.12_lakshmanuni_aagraham_dharmabodha",
+    "scene": 8,
+    "part_id": "8",
+    "visual_description": "On-screen verse text.",
+    "story_text": "ధర్మో హి పరమో లోకే ధర్మే సత్యం ప్రతిష్ఠితమ్ | ధర్మసంశ్రితమేతచ్చ పితుర్వచనముత్తమమ్ ॥",
+    "source_notes": "🔴 VERSE — the core statement of Rama's philosophy in this crisis: \"Dharma is supreme in this world; truth itself is founded on dharma; and this command of my father is rooted in dharma.\"",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.12_lakshmanuni_aagraham_dharmabodha",
+    "scene": 9,
+    "part_id": "9",
+    "visual_description": "[Rama Visual Lock] explaining the verse's logic plainly — dharma and satya cannot be separated or selectively chosen, they must be held together as one.",
+    "story_text": "\"ధర్మమునందు సత్యము ప్రతిష్ఠితమై ఉంటుంది, అందుకని ధర్మాన్ని విడిచిపెడితే సత్యధర్మములు రెండిటిని విడిచిపెట్టినట్టు అవుతుంది, ఒక ధర్మాన్నో, ఒక సత్యాన్నో పట్టుకోకూడదు, సత్యంతో కూడిన ధర్మాన్ని పట్టుకోవాలి\" అన్నాడు.",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.12_lakshmanuni_aagraham_dharmabodha",
+    "scene": 10,
+    "part_id": "10",
+    "visual_description": "On-screen verse text.",
+    "story_text": "త్వయా మయా చ వైదేహ్యా లక్ష్మణేన సుమిత్రయా | పితుర్నియోగే స్థాతవ్యమేష ధర్మః సనాతనః ॥",
+    "source_notes": "🔴 VERSE — Rama naming everyone bound by the same principle: \"You, I, Vaidehi [Sita], Lakshmana, Sumitra — all of us must abide by our father's command; this is the eternal dharma.\"",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.12_lakshmanuni_aagraham_dharmabodha",
+    "scene": 11,
+    "part_id": "11",
+    "visual_description": "[Rama Visual Lock] restating this plainly — Dasharatha, as head of the family, holds authority over all of them equally, and this is not a new or situational rule but an ancient, permanent one.",
+    "story_text": "\"అమ్మా, నీకొక ధర్మాన్ని చెప్పుతాను — నాన్నగారు నిన్ను, సుమిత్రని, నన్ను, లక్ష్మణుడిని, సీతని శాసించవచ్చు, మనమందరం దశరథుడు ఎలా చెప్తే అలా ప్రవర్తించాలి, ఆయనే కుటుంబానికి యజమాని, ఇది సనాతనమైన ధర్మము\" అన్నాడు.",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.12_lakshmanuni_aagraham_dharmabodha",
+    "scene": 12,
+    "part_id": "12",
+    "visual_description": "On-screen verse text.",
+    "story_text": "ధర్మార్థకామాః ఖలు తత్ర లోకే సమీక్షితా ధర్మఫలోదయేషు | తే తత్ర సర్వే స్యురసంశయం మే భార్యేవ వశ్యాభిమతా సుపుత్రా ॥",
+    "source_notes": "🔴 VERSE — the dharma-artha-kama teaching: Lakshmana, of the three human pursuits, holding fast to dharma alone brings the others (artha and kama) along with it, willingly, like a devoted wife and worthy son.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.12_lakshmanuni_aagraham_dharmabodha",
+    "scene": 13,
+    "part_id": "13",
+    "visual_description": "[Rama Visual Lock] explaining this in plain terms — dharma pursued alone yields artha and kama as natural consequences, but artha or kama pursued at dharma's expense leads only to ruin.",
+    "story_text": "\"లక్ష్మణా, ధర్మము, అర్థము, కామము అని మూడు పురుషార్థాలు ఉంటాయి, ఇందులో నువ్వు ధర్మం ఒక్కదాన్ని పట్టుకుంటే అది అర్థకామాలని తీసుకొచ్చేస్తుంది. ధర్మాన్ని వదిలి పట్టుకున్న అర్థం లోకద్వేషాన్ని తీసుకొస్తుంది, ధర్మాన్ని వదిలి పట్టుకున్న కామం పతనాన్ని తీసుకొస్తుంది. ధర్మం భార్యవంటిది — అందుకే మనం భార్యను కామపత్నిగా చూడము, ధర్మపత్నిగా చూస్తాము, ధర్మబద్ధమైన పత్ని వలన కలిగిన కామము వలననే అర్థము (శాస్త్రం ప్రకారం అర్థం అంటే ధనము కాదు, ధనాన్ని కర్మఫలం అంటారు, అర్థం అంటే కొడుకు అని) లభిస్తుంది\" అన్నాడు.",
+    "source_notes": "A substantial piece of embedded philosophy — the \"dharma is like a wife\" metaphor, and the specific point that artha here means \"a worthy son,\" not wealth (per the aside in the source itself) — worth full, unhurried delivery as a distinct teaching moment, matching the register of the Rama-virtue asides in E2.01.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.12_lakshmanuni_aagraham_dharmabodha",
+    "scene": 14,
+    "part_id": "14",
+    "visual_description": "[Rama Visual Lock] returning directly to Lakshmana's earlier violent offer, refusing it outright — a kingdom obtained through violence against dharma is not one he wants at any price.",
+    "story_text": "\"లక్ష్మణా, నువ్వు దశరథుడిని ఖైదు చేసి రాజ్యాన్ని తీసుకోమన్నావు, అది ధర్మబద్ధం కాని రాజ్యం, అందుకని ఆ రాజ్యం నాకు అక్కరలేదు, తండ్రి చెప్పిన మాట పాటించడం కొడుకుకి ధర్మం, అందుకని నేను అరణ్యానికి వెళ్ళడానికే నిశ్చయమయ్యాను\" అన్నాడు.",
+    "source_notes": "This is Rama's direct, explicit refusal of Lakshmana's regicide/rebellion offer from scene 2 — a clean, unambiguous close to that thread before the episode moves on; important not to let this line get lost in the surrounding philosophy, since it's the actual answer to the actual proposal Lakshmana made.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.12_lakshmanuni_aagraham_dharmabodha",
+    "scene": 15,
+    "part_id": "15",
+    "visual_description": "[Rama Visual Lock] turning practical — asking Lakshmana to have the coronation materials removed quickly, explaining his real concern is sparing Kaikeyi any doubt or lingering guilt, and noting, without bitterness, how deeply she once loved him equally with Bharata.",
+    "story_text": "\"అలాగే, నువ్వు నాకు పట్టాభిషేకం జరుగుతుందని సంతోషంగా తెచ్చినటువంటి ఈ సంభారములన్నిటిని ఇక్కడినుండి పంపెయ్యి, నేను అరణ్యాలకి తొందరగా వెళ్లకపోతే అమ్మ (కైకేయ) బాధపడుతుంది, అమ్మ మనసులో అనుమానం అనే దుఃఖము ఎప్పటికి రాకూడదు, అందుకని తొందరగా ఈ సంభారములన్నిటిని పంపెయ్యి. అమ్మ నన్నూ, భరతుడిని ఎన్నడూ వేరుగా చూడలేదు, మరి ఇంతగా నన్ను ప్రేమించిన అమ్మ, నిన్న రాత్రి నన్ను పిలిచి పట్టాభిషేకం చేస్తాను అన్న నాన్నగారు, ఇవ్వాళ తెల్లవారేసరికి నన్ను 14 సంవత్సరములు అరణ్యవాసం చెయ్యమన్నారు అంటే ఒకటి గుర్తుపెట్టుకో లక్ష్మణా\" అన్నాడు.",
+    "source_notes": "Rama still refers to Kaikeyi with unforced warmth (\"అమ్మ\") even here, and still credits her earlier, genuine love for him (the E2.04 scene) as real — he is not being naive, he is refusing to let the crisis retroactively poison a truth he witnessed himself; hold this as a deliberate, consistent character choice rather than denial.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.12_lakshmanuni_aagraham_dharmabodha",
+    "scene": 16,
+    "part_id": "16",
+    "visual_description": "On-screen verse text.",
+    "story_text": "సుఖదుఃఖే భయక్రోధౌ లాభాలాభౌ భవాభవౌ | యస్య కించిత్తథాభూతం ననుదైవస్య కర్మ తత్ ॥",
+    "source_notes": "🔴 VERSE — Rama's closing thought on this stretch: joy and sorrow, fear and anger, gain and loss, existence and non-existence — whatever happens of these, is surely fate's own doing.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.12_lakshmanuni_aagraham_dharmabodha",
+    "scene": 17,
+    "part_id": "17",
+    "visual_description": "[Rama Visual Lock] explaining plainly — fate governs from behind everything, and even a well-intentioned act can be blocked by fate's own design; this crisis, too, is fate's doing, not any one person's true fault.",
+    "story_text": "\"సుఖము అవని, దుఃఖము అవని, శుభము అవని, అశుభము అవని — వెనకనుండి శాసించేవాడు దైవం, దైవాన్ని తిరస్కరించి నువ్వు ఏమి చెయ్యలేవు, ఒక మంచిపని చేద్దామని అనుకుంటే దానికొక ప్రతిబంధకం రావడం కూడా దైవము చేసిన పనే\" అని రాముడన్నాడు.",
+    "source_notes": "This \"daivam\" (fate) framing is Rama's final word to Lakshmana in this episode — note it does not contradict his earlier dharma-discourse, but adds a layer: even the obstacle itself (Kaikeyi's demand) is part of a larger design beyond any one person's blame; end the episode here, before Lakshmana's reaction, which escalates further in the next episode.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.12_lakshmanuni_aagraham_dharmabodha",
+    "scene": 18,
+    "part_id": "18",
+    "visual_description": "End card.",
+    "story_text": "తర్వాత చూద్దాం — లక్ష్మణుడు ఈ మాటలకి ఎలా స్పందిస్తాడో.",
+    "source_notes": "Bridge line.",
+    "image": null,
+    "status": "image_pending"
+  }
+]

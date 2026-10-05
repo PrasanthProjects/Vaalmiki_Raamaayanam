@@ -1,0 +1,72 @@
+[
+  {
+    "episode": "E2.30_bharatuni_tirugu_prayanam",
+    "scene": 1,
+    "part_id": "1",
+    "visual_description": "Recap, continuing directly from E2.29's ending — Bharata has departed Kekaya at speed, told nothing of what's happened.",
+    "story_text": "గత భాగం చివర్లో భరతుడు ఏమీ తెలియకుండానే అయోధ్యకి బయలుదేరాడు. ఆయన ప్రయాణం ఇక్కడ చూద్దాం.",
+    "source_notes": "Bridge line.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.30_bharatuni_tirugu_prayanam",
+    "scene": 2,
+    "part_id": "2",
+    "visual_description": "An extended, rapid travel montage tracing Bharata's own long route home in the same vivid geographic detail as the messengers' journey — crossing the Sudama, Hladini, Shatadru, and Shilavaha rivers, past Shalya-kartana and Chaitraratha, across the Saraswati and Ganga, through Veeramatsya country, across the Kulinga river into the great forest, across the Bhagirathi, through Pragvata, across the Kutikoshtika river, past the villages of Dharmavardhana, Ranam, and Varuthi, through Ujjahasa, past Saraswati-tirtha, across the Uttanika river, through Hastiprishtika, across the Kutika river, through Kapivati, Ekashala, and Sthanumati, finally crossing the Gomati river to reach Ayodhya — eight full nights of continuous travel.",
+    "story_text": "ఆయన బయలుదేరి సుదామ, హ్లాదిని, శతద్రువు, శిలావాహ అనే నాలుగు నదులను దాటాడు, అక్కడినుండి శల్యకర్తన నగరాన్ని, చైత్రరథం నగరాన్ని దాటాడు, సరస్వతి, గంగా నదులను దాటాడు, తరువాత వీరమత్స్యం అనే దేశానికి వచ్చాడు, కులింగ నదిని దాటాడు, తరువాత మహారణ్యంలోకి ప్రవేశించాడు, అక్కడినుండి భాగీరథీ నదిని దాటాడు, తరువాత ప్రాగ్వాటము అనే పట్టణానికి చేరుకున్నాడు, తరువాత కుటికోష్టికము అనే నదిని దాటాడు, అక్కడినుండి ధర్మవర్ధనము, రణము, వరూథి అనే గ్రామాలు దాటాడు, తరువాత ఉజ్జహాసం అనే నగరంలోకి వచ్చాడు, తదనంతరం సరస్వతీ తీర్థం అనే గ్రామాన్ని దాటాడు, అక్కడ ఉత్తానికా అనే నదిని దాటాడు, అక్కడినుండి హస్తిపృష్టికము అనే గ్రామంలోకి ప్రవేశించి కుటికా నదిని దాటాడు, తరువాత కపివతీ అనే పట్టణానికి చేరుకున్నాడు, అక్కడినుండి ఏకశాల అనే గ్రామానికి వచ్చాడు, తరువాత స్థాణుమతీ అనే ఊరిని దాటాడు, తరువాత గోమతీ అనే నదిని దాటి ఒక ప్రయాణం చేసి అయోధ్యా పట్టణానికి చేరుకున్నాడు. తన తాతగారి దగ్గరినుండి బయలుదేరి అయోధ్యకి రావడానికి భరతుడికి 8 రాత్రుళ్ళు పట్టాయి.",
+    "source_notes": "Even more extensive than the messengers' route in E2.29 — worth its own dedicated, propulsive montage conveying real exhaustion and urgency across eight full nights, changing terrain and weather, a young prince pushing himself and his mount to the limit without knowing why; the specific place-names, again, are the text's own genuine geography and should not be trimmed to a vague \"he traveled far.\"",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.30_bharatuni_tirugu_prayanam",
+    "scene": 3,
+    "part_id": "3",
+    "visual_description": "[Bharata Visual Lock] arriving in Ayodhya at last, immediately struck by the city's visible grief — doors closing at the sight of him, no one appearing happy, a stark contrast to the joyful city he left behind in E2.04.",
+    "story_text": "ఆయన అయోధ్యకి రాగానే అక్కడున్న ప్రజల పరిస్థితిని చూసేసరికి ఆయన మనస్సు మరింత బరువయ్యింది, భరతుడిని చూడగానే అందరూ తలుపులు మూసేసి లోపలికి వెళ్ళిపోతున్నారు, ఎవరూ సంతోషంగా కనపడలేదు.",
+    "source_notes": "A deliberate, painful callback to the celebratory Ayodhya of E2.04's opening — the same streets, the same city, now closing its doors at the sight of the very prince whose coronation they once celebrated; render the contrast visually explicit if possible (similar framing/angles to the earlier celebration scenes, now emptied and shuttered).",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.30_bharatuni_tirugu_prayanam",
+    "scene": 4,
+    "part_id": "4",
+    "visual_description": "[Bharata Visual Lock] heading straight to Dasharatha's chambers, searching every room, finding no one happy there either; reasoning his father must be with Kaikeyi, and hurrying to her chambers instead.",
+    "story_text": "అప్పుడాయన తిన్నగా దశరథ మహారాజు మందిరానికి వెళ్ళాడు, దశరథుడి కోసం అన్ని గదులు వెతికాడు, అక్కడున్న వారెవరూ సంతోషంగా లేరు, రాజు ఇక్కడ లేకపోతే మా అమ్మ కైకేయ మందిరంలో ఉంటాడని గబగబా కైక మందిరంలోకి వెళ్ళాడు.",
+    "source_notes": "Bharata's searching is worth playing with growing, specific unease — not yet fear, but the accumulating wrongness of empty rooms and unsmiling faces building toward the confrontation ahead.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.30_bharatuni_tirugu_prayanam",
+    "scene": 5,
+    "part_id": "5",
+    "visual_description": "[Bharata Visual Lock] paying respects to [Kaikeyi Visual Lock]; she receives him with warm, genuine, untroubled happiness — pulling him to sit beside her, asking cheerfully how his time away was, completely unburdened.",
+    "story_text": "అక్కడున్న కైకేయకి నమస్కారం చేశాడు, అప్పుడా కైకేయ భరతుడిని సంతోషంగా తన పక్కన కూర్చోపెట్టుకొని \"చాలా సంతోషంగా గడిపావా, అందరూ ఆనందంగా ఉన్నారా, రా, అక్కడి విశేషాలు ఏంటో నాకు చెప్పు\" అని పలికింది.",
+    "source_notes": "Kaikeyi's genuine cheerfulness here — no guilt, no hesitation, treating this as an ordinary homecoming — is a deliberately jarring contrast to everything the audience already knows; play her with total, unaffected warmth, since her true state of mind (satisfaction at having achieved her goal) has not yet been revealed to Bharata or fully confirmed to the audience in this scene.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.30_bharatuni_tirugu_prayanam",
+    "scene": 6,
+    "part_id": "6",
+    "visual_description": "[Bharata Visual Lock] answering briefly, his mind clearly elsewhere — immediately expressing his real, urgent wish to touch his father's feet, noting the empty bed where Dasharatha always rested, and asking directly if his father is with Kausalya instead.",
+    "story_text": "అప్పుడు భరతుడు \"అమ్మా, నాకు ఇక్కడికి రావడానికి 8 రాత్రుళ్ళు పట్టింది, అక్కడ అందరూ బాగానే ఉన్నారు కాని, నా తండ్రిగారైన దశరథ మహారాజుగారి పాదాలకి నమస్కారం చెయ్యాలని నా మనస్సు కోరుకుంటుంది, మందిరంలోని ఈ తల్పం మీద వారు పడుకొని ఉండేవారు కదా, వారు ఇప్పుడు ఇక్కడ లేరు, అమ్మా, తండ్రిగారు కౌసల్య మందిరంలో ఉన్నారా\" అని అడిగాడు.",
+    "source_notes": "Bharata's very first, unprompted instinct upon arriving home is to seek his father's blessing — worth establishing this clearly as genuine filial devotion, not obligation, before the devastating answer in the next episode; the small detail of noticing the specific empty bed is a quiet, human observation.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E2.30_bharatuni_tirugu_prayanam",
+    "scene": 7,
+    "part_id": "7",
+    "visual_description": "End card.",
+    "story_text": "తర్వాత చూద్దాం — కైకేయ భరతుడికి ఏమి చెప్తుందో.",
+    "source_notes": "Bridge line.",
+    "image": null,
+    "status": "image_pending"
+  }
+]

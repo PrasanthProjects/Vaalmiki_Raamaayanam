@@ -1,0 +1,165 @@
+# E2.15 — సీతమ్మ నిశ్చయం & లక్ష్మణుని విన్నపం (Sita's Resolve; Lakshmana's Plea) — Scenes
+
+[Episode script](../../2%20-%20Ayodhya%20Khaanda/E2.15_seetamma_nischayam_lakshmanuni_vinnapam.md)
+
+[Narration parts](NARRATION_PARTS.md)
+
+Still-image scene sheet. Source narration is included as story context only. No voice or video generation.
+
+Keep existing descriptive image names. For new images use `scene-NN-short-description.png` inside the matching episode folder.
+
+## 1 — Scene 01
+
+**Visual:** Recap, continuing directly from E2.14's ending — Rama has just listed the forest's dangers and asked Sita to remain behind.
+
+**Story:** గత భాగం చివర్లో రాముడు అడవిలో ఉండే కష్టాలన్నీ చెప్పి, సీతమ్మని అయోధ్యలోనే ఉండమని అడిగాడు. ఆమె సమాధానం ఇక్కడ మొదలవుతుంది.
+
+**Image:** Pending creation.
+
+**Source note:** Bridge line.
+
+## 2 — Scene 02
+
+**Visual:** On-screen verse text.
+
+**Story:** యే త్వయా కీర్తితా దోషా వనే వస్తవ్యతాం ప్రతి | గుణానితేవ తాన్విద్ధి తవ స్నేహపురఃకృతాన్ ॥
+
+**Image:** Pending creation.
+
+**Source note:** 🔴 VERSE — Sita's opening rebuttal: "Whatever faults you have described about living in the forest — know them instead as virtues, placed before me only out of your love for me."
+
+## 3 — Scene 03
+
+**Visual:** [Sita Visual Lock] gently reframing every hardship Rama listed — not denying the dangers are real, but insisting his presence transforms them entirely; contrasted with the misery of comfort without him.
+
+**Story:** అప్పుడు సీతమ్మ "నువ్వు చెప్పినవన్నీ నిజమే అయ్యుండచ్చు, కాని రామ, నువ్వు పక్కన కూర్చొని 'సీతా' అని ప్రీతిగా మాట్లాడితే, ఇవన్నీ నాకు సుఖాలు అవుతాయి, అదే నువ్వు పెడముఖంతో ఉంటే మాత్రం, నేను ఎన్ని భోగభాగ్యాల మధ్య ఉన్నా, అవన్నీ నాకు విషం అవుతాయి" అని పలికింది.
+
+**Image:** Pending creation.
+
+**Source note:** The emotional core of Sita's whole argument in one line — presence transforms hardship into joy, and absence poisons even comfort; this reframes the entire crocodile/mosquito/thorn list from E2.14 without denying a single fact in it.
+
+## 4 — Scene 04
+
+**Visual:** [Sita Visual Lock] invoking her own father's words at her wedding, and a childhood astrological prediction — establishing that her coming to the forest is, in its own way, also fated and sanctioned.
+
+**Story:** "నాకు కూడా మా తండ్రిగారు వివాహ సమయంలో ఒక ధర్మం చెప్పారు, నేను నీ వెంట నీడలా వస్తానని. నువ్వు పెద్దల మాటలకు కట్టుబడి అడవులకు వెళుతున్నావు, మరి నేనూ పెద్దల మాటలకు కట్టుబడి వెంట అడవులకు రావాలి కదా. చిన్నప్పుడు నా జాతకాన్ని చూసిన జ్యోతిష్యులు నేను కొంత కాలం వనవాసం చేస్తానని చెప్పారు" అని పలికింది.
+
+**Image:** Pending creation.
+
+**Source note:** This childhood astrological detail is a small but significant world-building beat — Sita's own eventual exile is framed here as something foretold long before this crisis, not purely a consequence of Rama's fate; worth a brief flashback-register visual (a young Sita, an astrologer) if production allows.
+
+## 5 — Scene 05
+
+**Visual:** [Sita Visual Lock] turning pointedly teasing/challenging — directly questioning Rama's stated reason (protection from wild animals) by pointing out his own legendary prowess makes the objection illogical, going so far as to jokingly suggest he must secretly be "a woman in a man's form."
+
+**Story:** "అంతఃపురంలో ఉండు, ఇక్కడ నిన్ను అందరూ రక్షిస్తారు, అడవులకు వస్తే పులులు, సింహాలు ఉంటాయి అంటావు, నువ్వు నన్ను రక్షించలేవా, అసలు నిన్ను చూస్తే అవన్నీ పారిపోవా, అలాంటిది ఇవ్వాళ ఇలా చేతకానివాడిలా మాట్లాడుతున్నావు, నిన్ను చూస్తుంటే నాకేమనిపిస్తుందంటే, నువ్వు పురుష రూపంలో ఉన్న స్త్రీవని తెలియక నన్ను మా నాన్న నీకిచ్చి కన్యాదానము చేశాడు" అని పలికింది.
+
+**Image:** Pending creation.
+
+**Source note:** A genuinely sharp, almost playful jab from Sita — this is not solemn pleading here but pointed teasing, using Rama's own established heroic reputation (archery, strength, the bow-breaking at her own swayamvara) as a weapon against his overprotective reasoning; a rare moment of real wit in an otherwise heavy sequence, worth letting land as such rather than flattening into pure grief.
+
+## 6 — Scene 06
+
+**Visual:** [Sita Visual Lock] softening again — practical reassurances about her own resilience and usefulness (needing little food, being unbothered by hardship in his company, walking ahead to soften the path with her own feet), then a final, physical, unguarded plea, embracing him and weeping openly.
+
+**Story:** "తోపాటు ఇంత తేనె తాగినా, ఒక పండు తిన్నా నా కడుపు నిండిపోతుంది రామ, ఒకవేళ ఏ రోజూ ఏమి దొరకకపోతే, నీతో మాట్లాడుతూ ఉండడం వలన నేను ఆ కష్టం మరిచిపోతాను, నేను ముందు నడిచి దర్భలను తొక్కుకుంటూ వెళతాను, కాబట్టి అవి మెత్తగా అవుతాయి, అప్పుడు నువ్వు వెనకాల హాయిగా రా, నేను నిన్ను ఎన్నడూ కష్టపెట్టను, నన్ను నమ్మితే నీతోపాటు తీసుకెళ్ళు, లేకపోతే నా ప్రాణాలు విడిచిపెట్టడానికి అనుమతినివ్వు" అని రాముడిని గట్టిగా కౌగలించుకొని, ఆయన గుండెల మీద పడి వెక్కి వెక్కి ఏడ్చింది.
+
+**Image:** Pending creation.
+
+**Source note:** The image of Sita offering to walk ahead and tread down the sharp darbha grass with her own feet so it softens for Rama behind her is a small, vivid, devoted detail worth its own beat — a specific act of practical love, not abstract declaration; the scene should end on the embrace and open weeping, a rare full release of emotion after her earlier composed and even witty arguments.
+
+## 7 — Scene 07
+
+**Visual:** [Rama Visual Lock] finally relenting — explaining his own reasoning clearly: not that he could bear the separation any better than her, but that a husband must never knowingly impose hardship, and once she has spoken her true wish herself, honoring it becomes his dharma.
+
+**Story:** అప్పుడు రాముడు "సీతా, నిన్ను విడిచి నేను ఉండగలనా, పధ్నాలుగు సంవత్సరములు నీకు దూరంగా నేను ఉండలేను, కాని భర్త ఎన్నడూ అది కష్టమని తెలిసి భార్యను శాసించకూడదు, ఇంత కష్టానికి వెళదాము అని నేను అనకూడదు, ప్రయత్నపూర్వకంగా భర్త భార్యను కష్టపెట్టకూడదు, భార్య ఉండలేక తనని అనుసరించి వస్తానన్న అభిప్రాయం నోటివెంట వచ్చాక, నిన్ను తీసుకెళ్లడం నా ధర్మం, అందుకని వద్దు అన్నాను. నీవంటి భార్యను పొంది నేను అదృష్టవంతుడినయ్యాను, కనుక నువ్వు ఇక్కడున్నటువంటి వాటన్నిటిని దానము చేసెయ్యి" అన్నాడు.
+
+**Image:** Pending creation.
+
+**Source note:** Rama's relenting is framed carefully — he was never testing her or genuinely trying to leave her behind against her will; his objections were the honest concern of a husband, and once she has spoken her real wish clearly and directly, granting it becomes his own dharma, matching the exact logical structure of his earlier "father's word" reasoning; a clean, consistent philosophy applied consistently, not special pleading.
+
+## 8 — Scene 08
+
+**Visual:** [Rama Visual Lock] shown personally distributing all his remaining wealth — summoning the treasurer to give away his money, his own clothes and ornaments to Vashishtha's son Suyajna, and cattle to Brahmins — a full, deliberate renunciation before departure.
+
+**Story:** కోశాధికారిని పిలిచి తన దగ్గరున్న ద్రవ్యాన్ని దానము చేశాడు, తన వస్త్రములని, ఆభరణములని వశిష్ఠుడి కుమారుడైన సుయజ్ఞుడికి దానము చేశాడు, గోవుల్ని బ్రాహ్మణులకి దానము చేశాడు.
+
+**Image:** Pending creation.
+
+**Source note:** A deliberate, methodical renunciation scene — worth shooting as a series of distinct small acts (treasurer, Suyajna, the cattle) rather than one vague montage, since each is a specific, named transaction the source records individually.
+
+## 9 — Scene 09
+
+**Visual:** [Lakshmana Visual Lock] running in from outside, gripping Rama's feet tightly, visibly anxious — revealing he's been waiting in genuine fear of being left behind, and making his own case: he'll build their forest dwelling and gather food, asking for nothing but to serve them both.
+
+**Story:** అప్పటివరకు బయటనే ఉన్న లక్ష్మణుడు పరిగెత్తుకుంటూ వచ్చి రాముడి కాళ్ళని గట్టిగా పట్టుకొని "నిన్ను విడిచిపెట్టి ఒక్క క్షణం కూడా నేను బతకలేను అన్నయ్యా, ఇంతసేపు సీతమ్మ తల్లినే రావద్దన్నావు, నన్ను రమ్మంటావో వద్దంటావో అని భయం పట్టుకుంది నాకు, నువ్వు కాని నన్ను తీసుకెళితే, మీ ఇద్దరూ హాయిగా సరోవరాల్లో, పర్వతాల మీద సంతోషంగా తిరుగుతుంటే, నేను మీకోసం పర్ణశాల నిర్మిస్తాను, ఆహారం తీసుకొస్తాను, మీ ఇద్దరూ అవి తింటూ ఉంటే నాకు పరమ ఆనందంగా ఉంటుంది" అన్నాడు.
+
+**Image:** Pending creation.
+
+**Source note:** Lakshmana's fear here is genuinely touching and distinct from his earlier fury (E2.12-E2.13) — this is vulnerability, not rage; he has been waiting outside this whole time in real anxiety about his own place in what's coming, worth a visibly different, softer physical register than his bow-gripping anger scenes.
+
+## 10 — Scene 10
+
+**Visual:** [Rama Visual Lock] offering a brief, practical objection — someone needs to look after Kausalya, Sumitra, and Kaikeyi.
+
+**Story:** అప్పుడు రాముడు "నిన్ను కూడా తీసుకెళితే కౌసల్యని, సుమిత్రని, కైకేయని ఎవరు చూసుకుంటారు, అందుకని నువ్వు ఇక్కడే ఉండు" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 11 — Scene 11
+
+**Visual:** [Lakshmana Visual Lock] dismissing the objection immediately and practically — Kausalya has vast resources and needs no protector, and pressing for a single word of consent.
+
+**Story:** "నేను కౌసల్యని, సుమిత్రని చూడడమేమిటి అన్నయ్యా, కౌసల్యకి వెయ్యి గ్రామాలు ఉన్నాయి, నాలాంటి వాళ్ళని లక్ష మందిని ఆవిడ పోషించగలదు, ఇంక నాకు ఇలాంటి సాకులు చెప్పద్దు, నేను సమాధానం చెప్పలేను, 'వచ్చెయ్ లక్ష్మణా' అని ఒక్క మాట అను, నేను గబగబా వచ్చేస్తాను" అన్నాడు లక్ష్మణుడు.
+
+**Image:** Pending creation.
+
+**Source note:** Lakshmana correctly identifies Rama's objection as a "సాకు" (excuse/pretext) — a sharp, accurate read of his brother, matching how quickly and completely both Sita's and Lakshmana's arguments dismantle Rama's protective reasoning in this episode.
+
+## 12 — Scene 12
+
+**Visual:** [Rama Visual Lock] relenting warmly, calling Lakshmana his good fortune as a brother; [Lakshmana Visual Lock] overjoyed, immediately sharing the news with friends and beginning to give away his own possessions in turn.
+
+**Story:** నీలాంటి వాడు నాకు తమ్ముడిగా పుట్టడం నా అదృష్టం అని లక్ష్మణుడిని రాముడు వచ్చెయ్యమన్నాడు. ఈ మాట విన్న లక్ష్మణుడు ఎంతో సంతోషపడ్డాడు, మిత్రులందరితో సంతోషంగా ఈ వార్త చెప్పి, తన వస్తువులని కూడా దానము చేశాడు.
+
+**Image:** Pending creation.
+
+**Source note:** Lakshmana's genuine joy at being allowed to come — treated by the text with the same weight as any celebration earlier in the Khaanda — is a small but important beat of relief in an otherwise heavy episode; let this moment breathe before the somber walk that follows.
+
+## 13 — Scene 13
+
+**Visual:** Wide shot: [Rama, Sita, Lakshmana Visual Locks] together now, walking the royal streets toward Dasharatha's chambers (in Kaikeyi's quarters) to formally take leave; [crowd — generic grieving-citizen register] lining the streets in tears.
+
+**Story:** అలా సీతారామలక్ష్మణులు దశరథుడి ఆశీర్వాదం కోసమని ఆయన అంతఃపురానికి బయలుదేరారు. రాముడు, సీతమ్మ, లక్ష్మణుడు రాచవీధులలో నడుచుకుంటూ దశరథ మహారాజు ఉన్నటువంటి కైకేయ మందిరానికి పయనమయ్యారు, వారు అలా వెళుతుంటే చూస్తున్నటువంటి ప్రజలందరూ కన్నీరు పెట్టారు.
+
+**Image:** Pending creation.
+
+**Source note:** The image of the three of them walking together — resolved, composed, but watched by a weeping city — closes the "who is going" question definitively before the final farewell scenes ahead; a clean visual transition from private family drama to public witness.
+
+## 14 — Scene 14
+
+**Visual:** [Sita Visual Lock] shown walking on foot through the public streets — the text's own pointed contrast between her usual sheltered luxury (Janaka's daughter, Dasharatha's eldest daughter-in-law, meant for swan-feather couches) and this humbling, public procession; the crowd watching with a mixture of grief and profound respect.
+
+**Story:** ఎక్కడో హంసతూలికా పాన్పుల మీద ఉండవలసిన జనకుడి కూతురు, దశరథుడి పెద్ద కోడలు, రాముడి ఇల్లాలు అయినటువంటి సీతమ్మ నేడు ఇలా రాచవీధులలో పాదచారిగా, నలుగురు చూస్తుండగా రాముడి వెనకాల నడుచుకుంటూ వెళుతుంది. కాలం అంటే ఇదే కదా, నిన్న పట్టాభిషేకం అనుకున్న రాముడికి నేడు అరణ్యవాసం చెయ్యవలసి ఏర్పడిందని అందరూ విశేషమైన గౌరవభావంతో చూడడానికి వచ్చారు.
+
+**Image:** Pending creation.
+
+**Source note:** The narrator's own direct reflection here — "this is what time/fate truly is" — is a rare explicit editorializing moment in the text itself; worth preserving as a distinct narratorial aside (matching the visual-framing device used elsewhere for teachings), not folded silently into plain description.
+
+## 15 — Scene 15
+
+**Visual:** Wide shot: the trio arriving at Dasharatha's chambers (Kaikeyi's quarters), the walk complete.
+
+**Story:** అలా వారు దశరథ మహారాజు ఉన్నటువంటి ప్రాసాదానికి చేరుకున్నారు.
+
+**Image:** Pending creation.
+
+## 16 — Scene 16
+
+**Visual:** End card.
+
+**Story:** తర్వాత చూద్దాం — దశరథుడి దగ్గర ఆఖరి కలయిక ఎలా జరుగుతుందో.
+
+**Image:** Pending creation.
+
+**Source note:** Bridge line.

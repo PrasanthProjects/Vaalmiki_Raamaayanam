@@ -1,0 +1,129 @@
+# E2.18 — రాముడి నారచీరలు & వశిష్టుని ఆగ్రహం (Rama's Bark Garments; Vashishtha's Fury) — Scenes
+
+[Episode script](../../2%20-%20Ayodhya%20Khaanda/E2.18_ramudi_narachirlu_vashishtuni_aagraham.md)
+
+[Narration parts](NARRATION_PARTS.md)
+
+Still-image scene sheet. Source narration is included as story context only. No voice or video generation.
+
+Keep existing descriptive image names. For new images use `scene-NN-short-description.png` inside the matching episode folder.
+
+## 1 — Scene 01
+
+**Visual:** Recap, continuing directly from E2.17's ending — Dasharatha has just ruled that the royal escort will accompany Rama regardless of Kaikeyi's objection.
+
+**Story:** గత భాగం చివర్లో దశరథుడు చతురంగ బలాలు రాముడి వెంట వెళతాయని శాసించాడు. రాముడి స్పందన ఇక్కడ మొదలవుతుంది.
+
+**Image:** Pending creation.
+
+**Source note:** Bridge line.
+
+## 2 — Scene 02
+
+**Visual:** [Rama Visual Lock] declining the entire elaborate arrangement outright — an army, chariots, and elephants make no sense for someone going to live as an ascetic; asking instead only for simple bark garments.
+
+**Story:** ఈ మాటలు విన్న రాముడు "నేను తపస్వినై జీవించడానికి అరణ్యాలకి వెళుతుంటే నా వెనకాల చతురంగ బలాలు, రథాలు, ఏనుగులు ఎందుకు, నాకు ఇవేమీ వద్దు, నాకు నారచీరలు పట్టుకొచ్చి ఇవ్వండి, వాటిని కట్టుకొని నేను వెళతాను" అన్నాడు.
+
+**Image:** Pending creation.
+
+**Source note:** Rama declines his own father's decree here — not out of spite toward Dasharatha's gesture, but because it genuinely contradicts the ascetic life he's committed to; a consistent, principled refusal matching his earlier declining of Kaikeyi's "one more night of luxury" offer in E2.17.
+
+## 3 — Scene 03
+
+**Visual:** [Kaikeyi Visual Lock] reacting with immediate, visible eagerness — hurrying inside herself to personally fetch the bark garments, glad to have this small victory at least.
+
+**Story:** ఈ మాటలు వినగానే కైకేయ సంతోషంతో గబగబా లోపలికి వెళ్ళి మూడు జతల నారచీరలు పట్టుకొని వచ్చి రాముడికి ఇచ్చింది.
+
+**Image:** Pending creation.
+
+**Source note:** Kaikeyi's visible relief/joy at this small concession is a pointed, uncomfortable beat — after losing the escort argument, she seizes eagerly on this one point where she gets her way; play with unmistakable, almost unseemly haste rather than neutral compliance.
+
+## 4 — Scene 04
+
+**Visual:** [Rama and Lakshmana Visual Locks] going aside together and changing into the bark garments and matted-hair style of forest ascetics, dressing as sages themselves would.
+
+**Story:** అప్పుడు రాముడు, లక్ష్మణుడు ఇద్దరూ లోపలికి వెళ్ళి మునులు ఎలా కట్టుకుంటారో అలా నారచీరలని కట్టుకొని వచ్చారు.
+
+**Image:** Pending creation.
+
+**Source note:** This is the visual turning point of the whole crisis arc — the moment the two princes physically transform into ascetics; worth a genuinely careful, dedicated visual treatment (not a rushed cutaway), since this image (matted hair, bark cloth) becomes their default appearance for the rest of the exile going forward and needs its own Character Bible Stage entry.
+
+## 5 — Scene 05
+
+**Visual:** [Kaikeyi Visual Lock] then turning to [Sita Visual Lock, still in her fine silk sari] and holding out a third bark garment to her as well, without hesitation.
+
+**Story:** అప్పుడా కైకేయ, పక్కనే పట్టుచీర కట్టుకొని ఉన్న సీతమ్మ చేతిలో ఆ నార చీర పెట్టింది.
+
+**Image:** Pending creation.
+
+**Source note:** A deliberately provocative, almost cruel escalation — Kaikeyi extending the same ascetic garment to Sita, who was never named in her original two boons at all; this is the moment that finally breaks Vashishtha's restraint in the next scene.
+
+## 6 — Scene 06
+
+**Visual:** [Vashishtha Visual Lock] intervening immediately and forcefully — condemning Kaikeyi directly for overstepping every remaining bound, and declaring, with full priestly authority, that Sita is not bound by the same terms as Rama and Lakshmana at all.
+
+**Story:** ఇది చూసిన వశిష్ఠుడు "పాపివైన కైకేయ, నువ్వు శృతి తప్పుతున్నావు, ఊరుకున్న కొద్దీ అవధి మించి ప్రవర్తిస్తున్నావు" అని అన్నాడు.
+
+**Image:** Pending creation.
+
+**Source note:** Vashishtha's intervention is swift and total — no hesitation, no diplomatic softening; as the kingdom's senior priest and Dasharatha's own guru, his authority here visibly outranks Kaikeyi's, and he uses it immediately and decisively.
+
+## 7 — Scene 07
+
+**Visual:** On-screen verse text.
+
+**Story:** దారాః సర్వేషాం దారసంగ్రహవర్తినామ్ | యామేతి రామస్య పాలయిష్యతి మేదినీమ్ ॥
+
+**Image:** Pending creation.
+
+**Source note:** 🔴 VERSE — Vashishtha's formal declaration: as is customary for all who follow the proper conduct toward their wives, Rama's own wife shall, in this same hour, be consecrated to govern the earth in his place.
+
+## 8 — Scene 08
+
+**Visual:** [Vashishtha Visual Lock] restating this formally and publicly — declaring, on his own authority, that Sita herself will be crowned regent to rule the kingdom until Rama's return, and challenging anyone present to contest it.
+
+**Story:** "ఇదే ముహూర్తానికి రాముడి భార్య అయిన సీతమ్మకి నేను పట్టాభిషేకం చేస్తాను, రాముడు తిరిగి వచ్చే వరకు సీతమ్మ రాజ్యాన్ని ఏలుతుంది, ఎవరు అడ్డు చెప్తారో, ఎవరు నా ధర్మాన్ని వాదిస్తారో మీ ఇష్టం" అని పలికాడు.
+
+**Image:** Pending creation.
+
+**Source note:** A striking, significant declaration in its own right — Vashishtha proposing Sita as regent, in this exact moment, as a direct rebuke to Kaikeyi's overreach; worth noting this proposal's eventual fate is not yet shown in this stretch and should be tracked forward as an open thread for a later episode.
+
+## 9 — Scene 09
+
+**Visual:** [Vashishtha Visual Lock] turning directly on Kaikeyi again, naming her act as a specific, grave transgression — she had no authority whatsoever to hand Sita ascetic garments, since Sita was never named in the original boons at all.
+
+**Story:** "సీతమ్మకి నారచీరలు ఇవ్వడానికి నీకున్న అధికారమేమిటి, నువ్వు రాముడిని 14 సంవత్సరములు అరణ్యాలకి వెళ్ళమని అడిగావు, దశరథుడు ఆ కోరికని అంగీకరించాడు, కాని రాముని వెనకాల సీతమ్మ పత్నిధర్మంతో వెళుతుంది, అటువంటి సీతమ్మకి నారచీరలు ఇచ్చి నువ్వు ఘోరమైన దోషం చేశావు" అని అన్నాడు.
+
+**Image:** Pending creation.
+
+**Source note:** A precise legal/moral distinction, matching Dasharatha's own earlier legalistic point in E2.17 — Sita's presence in the exile is a voluntary act of her own pativratya (wifely devotion), not a term of the boons, and Kaikeyi had no standing to impose any condition on her at all; this repetition of the "read the boon's actual wording" argument across two consecutive episodes reinforces it as a real recurring flaw in Kaikeyi's overreach.
+
+## 10 — Scene 10
+
+**Visual:** On-screen verse text.
+
+**Story:** యద్యపి త్వం క్షితితలాద్గగనం చోత్పతిష్యసి | పితుర్వంశచరిత్రజ్ఞః సోऽన్యథా న కరిష్యతి ॥
+
+**Image:** Pending creation.
+
+**Source note:** 🔴 VERSE — Vashishtha's closing warning to Kaikeyi: even if you were to leap from the earth into the very sky, it would change nothing — Bharata, who knows his ancestors' history and conduct well, will not act against dharma because of this.
+
+## 11 — Scene 11
+
+**Visual:** [Vashishtha Visual Lock] making the verse's meaning explicit and final — no matter what extreme Kaikeyi resorts to, Bharata himself, knowing his own lineage's history, will not accept the throne under these circumstances, and the resulting disgrace will fall entirely on her.
+
+**Story:** "నువ్వు ఆకాశానికి ఎగిరిపోయి అక్కడినుండి కింద పడిపో, భూమి మీద అడ్డంగా పడిపో, ఎగిరి గంతులు వెయ్యి, కాని తన వంశమేమిటో, తన వంశంలో పుట్టిన రాజుల చరిత్ర ఏమిటో భరతుడికి క్షుణ్ణంగా తెలుసు, అందుకని భరతుడు రేపు రాజ్యాన్ని తీసుకోడు, అప్పుడా అప్రతిష్ఠ అంతా నీ మీద పడుతుంది" అని వశిష్ఠుడు పలికాడు.
+
+**Image:** Pending creation.
+
+**Source note:** A significant, confident prediction from Vashishtha — that Bharata will refuse the throne — directly echoing Dasharatha's own identical prediction from E2.08; two separate, authoritative characters now on record predicting the same outcome, worth remembering as the Khaanda moves toward Bharata's actual return and reaction in later episodes. End the episode on this prediction, unresolved, as a forward-pointing beat.
+
+## 12 — Scene 12
+
+**Visual:** End card.
+
+**Story:** తర్వాత చూద్దాం — రాముడి బయలుదేరు ప్రయాణం ఎలా మొదలవుతుందో.
+
+**Image:** Pending creation.
+
+**Source note:** Bridge line.

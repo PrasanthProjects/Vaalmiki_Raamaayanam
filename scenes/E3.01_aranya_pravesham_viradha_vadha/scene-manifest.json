@@ -1,0 +1,182 @@
+[
+  {
+    "episode": "E3.01_aranya_pravesham_viradha_vadha",
+    "scene": 1,
+    "part_id": "1",
+    "visual_description": "Title card transition: \"అరణ్యకాండ\" over a slow establishing shot of the vast Dandaka forest at dawn — dense old-growth canopy, mist in the valleys, per the Style Guide's forest-exile palette (deep greens, earth browns, filtered gold light).",
+    "story_text": "అయోధ్యాకాండ ముగిశాక ఇప్పుడు అరణ్యకాండ మొదలవుతుంది.",
+    "source_notes": "Khaanda-transition line — a slightly larger production beat than a normal episode's recap, marking the start of a new book (same treatment as E2.01).",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E3.01_aranya_pravesham_viradha_vadha",
+    "scene": 2,
+    "part_id": "2",
+    "visual_description": "[Rama Visual Lock, RAMA-S3; Sita Visual Lock, SITA-S3; Lakshmana Visual Lock, exile stage] seen small against the landscape, walking down out of the Chitrakuta hills into the Dandaka forest, in the order Rama, Sita, Lakshmana — the p. 219 illustration's composition.",
+    "story_text": "గత భాగం చివర్లో అత్రి మహర్షి, అనసూయమ్మల ఆశీర్వాదం తీసుకొని సీతారామలక్ష్మణులు అరణ్యంలోకి ప్రయాణం సాగించారు. ఇప్పుడు వాళ్ళు దండకారణ్యంలోకి ప్రవేశిస్తున్నారు.",
+    "source_notes": "Bridge line. Picks up from the end of Ayodhya Khaanda (p. 217 — leaving Atri's ashram).",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E3.01_aranya_pravesham_viradha_vadha",
+    "scene": 3,
+    "part_id": "3",
+    "visual_description": "[Rama Visual Lock, RAMA-S3] leading the way along a forest path toward a cluster of hermitages visible through the trees — thin smoke rising from sacrificial fires.",
+    "story_text": "రాముడు ఆ అరణ్యంలో తాపసులు ఉండేటటువంటి ప్రదేశం వైపునకు వెళ్ళాడు.",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E3.01_aranya_pravesham_viradha_vadha",
+    "scene": 4,
+    "part_id": "4",
+    "visual_description": "On-screen shloka text over the ashram cluster seen from its edge.",
+    "story_text": "పుణ్యైః చ నియత ఆహారైః శోభితం పరమ ఋషిభిః | తత్ బ్రహ్మ భవన ప్రఖ్యం బ్రహ్మ ఘోష నినాదితం | బ్రహ్మ విద్భిః మహా భాగైః బ్రాహ్మణైః ఉపశోభితం ॥",
+    "source_notes": "🔴 VERSE — flagged for the manual audit: \"Adorned by holy great sages of regulated diet; like the hall of Brahma, echoing with Vedic chant; graced by fortunate Brahmins who know Brahman.\" Three lines as printed in the source.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E3.01_aranya_pravesham_viradha_vadha",
+    "scene": 5,
+    "part_id": "5",
+    "visual_description": "[Generic మహర్షులు crowd] inside the hermitage circle: sages at spare, measured meals; students chanting the Vedas; near the fire-altars, ladles (sruk, sruva) laid out, great garlands readied for worship, bowls of curd, puffed rice (laja) and akshata.",
+    "story_text": "ఆ ఆశ్రమాలలో ఉండేటటువంటి ఋషులు ఆకలిని జయించి నియమముతో కూడిన ఆహారమును తినేవారు, అందరూ వేదం చదువుకున్నారు, ఆ ఆశ్రమంలో ఎప్పుడూ వేద ధ్వని వినపడుతూ ఉండడం వలన ఆశ్రమం బయట నిలబడి చూస్తే, ఆ ఆశ్రమంలో బ్రహ్మగారి సభ జరుగుతున్నట్టు అనిపిస్తుంది. ఆ ఆశ్రమము దగ్గర యజ్ఞములలో వాడే సృక్కు, స్రువము మొదలైన పరికరాలు ఉన్నాయి, అలంకారం కోసం సిద్ధం చెయ్యబడ్డ పెద్ద పెద్ద పుష్పమాలికలు ఉన్నాయి. పెరుగు, లాజలు, అక్షతలు మొదలైనవి ఉన్నాయి.",
+    "source_notes": "\"సృక్కు\" is the source's own spelling of the sacrificial ladle (sruk); read as printed. The \"Brahma's assembly\" image is the key visual: the sound of chanting reaching the path before the ashram is seen.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E3.01_aranya_pravesham_viradha_vadha",
+    "scene": 6,
+    "part_id": "6",
+    "visual_description": "On-screen shloka text over the sages turning, one by one, to look at the three arrivals.",
+    "story_text": "రూప సంహననం లక్ష్మీం సౌకుమార్యం సువేషతాం | దదృశుర్ విస్మిత ఆకారా రామస్య వన వాసినః ॥ వైదేహీం లక్ష్మణం రామం నేత్రైర్ అనిమిషైర్ ఇవ | ఆశ్చర్య భూతాన్ దదృశుః సర్వే తే వన వాసినః ॥",
+    "source_notes": "🔴 VERSE — two shlokas, flagged for the manual audit (the corrected extraction has unreadable glyphs at \"లక్ష్మీం\" and \"నేత్రైర్\"; OCR supports both readings): \"The forest-dwellers gazed in wonder at Rama's form, build, grace, delicacy and fine bearing; they gazed at Vaidehi, Lakshmana and Rama as if with unblinking eyes, as at a marvel.\"",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E3.01_aranya_pravesham_viradha_vadha",
+    "scene": 7,
+    "part_id": "7",
+    "visual_description": "[Rama Visual Lock, RAMA-S3] pausing at the ashram's edge to unstring his bow before stepping inside — a clear, deliberate gesture of respect; [generic మహర్షులు] standing motionless, astonished; [Sita, SITA-S3] and [Lakshmana] just behind him. Darshan treatment (Style Guide) on Rama as he enters.",
+    "story_text": "ఆ ఆశ్రమం దగ్గరికి వచ్చాక, రాముడు తన ధనుస్సు యొక్క వింటినారిని విప్పేసి లోపలికి ప్రవేశించాడు. అప్పుడు సీతారామలక్ష్మణులను చూసిన ఆ ఋషులు, వాళ్ళ సౌందర్యాన్ని చూసి ఆశ్చర్యంతో విస్మయులై అలా ఉండిపోయారు. బ్రహ్మతేజస్సు ఉన్నటువంటి ఋషులు ఆనాడు రాముడి తేజస్సుని చూసి అలా ఉండిపోయారు.",
+    "source_notes": "Unstringing the bow before entering a hermitage is the text's own detail — give it a close insert shot.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E3.01_aranya_pravesham_viradha_vadha",
+    "scene": 8,
+    "part_id": "8",
+    "visual_description": "[Generic మహర్షులు crowd] gathered before [Rama Visual Lock, RAMA-S3], hands folded, the eldest speaking for all: a king holds a quarter of Indra's portion; he guards those in far forests and in cities alike; he is strength to the weak and punishment to the arrogant; as farmers and merchants pay tax, the sages \"pay\" a sixth of their tapas; rakshasas are tormenting them — Rama must protect them.",
+    "story_text": "అప్పుడా ఋషులు \"మహానుభావ! మేము అందరమూ నీకు నమస్కారం చెయ్యాలి. ఎందుకంటే నువ్వు రాజువి, రాజకుటుంబం నుండి వచ్చినవాడివి. ఇంద్రుడి యొక్క అంశలో నాలుగవ వంతు అంశ రాజులో ఉంటుంది. వనాలలో దూరంగా ఉన్నవాళ్ళని, నగరాలలో ఉన్నవాళ్ళని రాజు తన శాసనంతో రక్షిస్తాడు. బలం లేనివాడికి రాజు బలం రక్ష, బలం ఉందని చెలరేగిపోయేవాడికి రాజు బలం శిక్ష. రైతులు, వర్తకులు రాజుకి పన్ను కట్టినట్టు మేము కూడా పన్ను కడుతున్నాము, మా తపస్సులో రాజుకి ఆరవ వంతు వాటా వస్తుంది. నువ్వు ధర్మాత్ముడివి, నీకు ధర్మం తెలుసు, అందుకని నువ్వు మమ్మల్ని రక్షించకపోతే ధర్మం తప్పిన వాడివి అవుతావు. మమ్మల్ని అనేక మంది రాక్షసులు నిగ్రహిస్తున్నారు, అందుకని రామ నువ్వు మమ్మల్ని ఆ రాక్షసులనుండి రక్షించాలి\" అని అన్నారు.",
+    "source_notes": "The first statement of the theme that drives all of Aranya Khaanda: the sages' appeal for protection. Note they address Rama as king although he is in bark cloth — the point of the speech is that kingship is a duty, not a crown. Keep the sages dignified, not pitiful.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E3.01_aranya_pravesham_viradha_vadha",
+    "scene": 9,
+    "part_id": "9",
+    "visual_description": "[Rama Visual Lock, RAMA-S3] accepting the arghya and padya water from the sages and leaving warmly; later, deeper in the forest, a cloud of buzzing carrion-flies over a dark patch of ground; Rama stopping and speaking quietly to [Lakshmana].",
+    "story_text": "అప్పుడు రాముడు వాళ్ళ ప్రార్థనలని స్వీకరించి, వారు ఇచ్చిన అర్ఘ్య పాద్యములు తీసుకొని సంతోషంతో అక్కడినుండి బయలుదేరాడు. అలా కొంతదూరం వెళ్ళాక ఒకచోట చీకురువాయువులనే ఈగలు రొద చేస్తూ కనబడ్డాయి (ఈ ఈగలు పులిసిపోయి పడిఉన్న రక్తాన్ని తినడానికి వస్తాయి). అయితే ఇక్కడికి దగ్గరలోనే ఎవరో ఒక రాక్షసుడు ఉండి ఉంటాడు అని రాముడు లక్ష్మణుడితో అన్నాడు.",
+    "source_notes": "The bracketed explanation of the flies is the source's own aside — narrate it lightly. The flies are the warning sign; keep the old blood implied (dark stain on the ground), not graphic.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E3.01_aranya_pravesham_viradha_vadha",
+    "scene": 10,
+    "part_id": "10",
+    "visual_description": "[Viradha Visual Lock] bursting out of the trees at a run: mountain-sized, sunken eyes, huge belly, great arms, a freshly killed tiger's hide wrapped around him, a spear over his shoulder hung with trophies (3 lions, 4 tigers, 2 wolves, 10 deer and an elephant's head) — stylised, never explicit gore; he snatches [Sita, SITA-S3] up in one lunge and sets her on his lap, then turns on [Rama] and [Lakshmana].",
+    "story_text": "ఇంతలోనే లోపలికి వెళ్ళిపోయిన కళ్ళతో, భయంకరమైన కడుపుతో, పర్వతమంత ఆకారంతో, పెద్ద చేతులతో, అప్పుడే చంపిన పెద్ద పులి తోలుని నెత్తురోడుతుండగా తన వొంటికి చుట్టుకొని, ఒక శూలాన్ని భుజానికి ధరించినవాడై, ఆ శూలానికి 3 సింహాలు, 4 పెద్ద పులులు, 2 తోడేళ్ళు, 10 జింకలతో పాటు ఒక ఏనుగు తల గుచ్చినవాడై, వొంటి నిండా మాంసం అంటుకున్నవాడై ఒక రాక్షసుడు వాళ్ళ వైపు పరుగెత్తుకుంటూ వచ్చి సీతమ్మని ఒక్క ఉదుటున ఎత్తి తన వొళ్ళో కూర్చోపెట్టుకుని రామలక్ష్మణులతో ఇలా అన్నాడు.",
+    "source_notes": "Viradha's first appearance — the Khaanda's first rakshasa. Per the Character Bible, trophies and blood stay stylised/implied. Sita's seizure must be a sudden, shocking beat; hold on her fear, never on anything lurid.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E3.01_aranya_pravesham_viradha_vadha",
+    "scene": 11,
+    "part_id": "11",
+    "visual_description": "On-screen shloka text over [Viradha Visual Lock] looming, Sita held captive.",
+    "story_text": "అధర్మ చారిణౌ పాపౌ కౌ యువాం ముని దూషకౌ | అహం వనం ఇదం దుర్గం విరాధో నామ రాక్షసః ॥ చరామి సాయుధో నిత్యం ఋషి మాంసాని భక్షయన్ | ఇయం నారీ వరారోహా మమ భార్యా భవిష్యతి ॥",
+    "source_notes": "🔴 VERSE — flagged for extra scrutiny: both extractions print \"విరాఘో\"; reconstructed as the standard \"విరాధో\". The source's own Telugu rendering follows in the next scene.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E3.01_aranya_pravesham_viradha_vadha",
+    "scene": 12,
+    "part_id": "12",
+    "visual_description": "[Viradha Visual Lock] sneering down at the two brothers, still holding [Sita]; [Rama] and [Lakshmana] with bows in hand, weighing their move.",
+    "story_text": "\"మీరు అధర్ములు, పాపమైన జీవితం ఉన్న వారు. ముని వేషాలు వేసుకొని భార్యతో ఎందుకు తిరుగుతున్నారు? అందుకే మీ భార్యను నేను తీసేసుకున్నాను. ఇకనుండి ఈమె నాకు భార్యగా ఉంటుంది, అందుకని మీరు ఈ ప్రాంతాన్ని విడిచిపెట్టి వెళ్ళిపొండి. నన్ను విరాధుడు (రాధ్ అంటే ఆనందం, విరాధ్ అంటే ఆనందానికి వ్యతిరేకం) అంటారు, నేను ఈ అరణ్యంలో తిరుగుతూ ఉంటాను. నాకు ఋషుల మాంసం తినడం చాలా ఇష్టమైన పని\" అన్నాడు.",
+    "source_notes": "Keep the name-meaning aside (రాధ్ / విరాధ్) as a brief narrator's gloss, as the source prints it. Viradha's voice profile: crude, boastful.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E3.01_aranya_pravesham_viradha_vadha",
+    "scene": 13,
+    "part_id": "13",
+    "visual_description": "[Rama Visual Lock, RAMA-S3] — for once visibly pained — speaking low to [Lakshmana]; then turning to face [Viradha] and declaring who they are.",
+    "story_text": "అప్పుడు రాముడు లక్ష్మణుడితో \"చూశావా లక్ష్మణా, ఎంత తొందరగా కైకమ్మ కోరిక తీరిపోతోందో, నాకు ఎంత కష్టమొచ్చిందో చూశావా, నా కళ్ళ ముందు పరాయివాడు నా భార్యను ఎత్తుకొని తీసుకెళ్ళి, తన వొళ్ళో కూర్చోపెట్టుకున్నాడు, నాకు చాలా దుఃఖంగా ఉంది\" అని, ఆ విరాధుడి వైపు చూసి \"మమ్మల్ని ఎవరు అని అడిగావు కదా. మేము దశరథ మహారాజు పుత్రులము, మేము రామలక్ష్మణులము, మా తండ్రిగారి మాట మీద అరణ్యాలలో సంచరిస్తున్నాము. అసలు నువ్వు ఎవరు\" అని రాముడు అన్నాడు.",
+    "source_notes": "Rama's line about Kaikeyi's wish \"coming true so quickly\" is grief, not bitterness — a rare moment where he says aloud what the exile is costing him. Per the Character Bible, he is pained but never panicked.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E3.01_aranya_pravesham_viradha_vadha",
+    "scene": 14,
+    "part_id": "14",
+    "visual_description": "[Viradha Visual Lock] naming his parents, then starting to carry [Sita] off; [Rama] and [Lakshmana] loosing fire-bright arrows; Viradha yawns and the arrows fall harmlessly; more arrows wound him; he hurls his spear at Rama; Rama's arrows shatter it in mid-air.",
+    "story_text": "అప్పుడా విరాధుడు \"నేను జవుడు అనే ఆయన కుమారుడిని, మా అమ్మ పేరు శతహ్రద, నేను ఈ అరణ్యంలో తిరుగుతూ అన్నిటినీ తింటూ ఉంటాను\" అని చెప్పి సీతమ్మని తీసుకువెళ్ళే ప్రయత్నంలో ఉండగా, రామ లక్ష్మణులు అగ్నిశిఖల వంటి బాణములను ప్రయోగం చేశారు. అప్పుడా విరాధుడు ఆవులించేసరికి ఆ బాణములు కింద పడిపోయాయి. అప్పుడు వారు అనేక బాణములతో ఆ విరాధుడిని బాధపెట్టారు. ఆగ్రహించిన విరాధుడు రాముడి మీదకి తన శూలాన్ని వదిలాడు. రాముడు తీవ్రమైన వేగం కలిగిన బాణముల చేత ఆ శూలాన్ని గాలిలోనే ముక్కలు చేశాడు.",
+    "source_notes": "The \"yawn\" that makes the arrows drop is the source's own image of Viradha's boon — show it literally: a huge careless yawn, arrows falling short.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E3.01_aranya_pravesham_viradha_vadha",
+    "scene": 15,
+    "part_id": "15",
+    "visual_description": "[Viradha Visual Lock] dropping [Sita] and seizing both brothers, slinging them over his shoulders and striding into the forest; [Sita, SITA-S3] crying out; [Rama] breaking one of Viradha's arms, [Lakshmana] severing the other; Viradha crashes down and still does not die; Rama pins his throat with one foot while Lakshmana digs a deep elephant-pit; the forest shakes with Viradha's roars.",
+    "story_text": "అప్పుడా విరాధుడు సీతమ్మని విడిచిపెట్టి రామలక్ష్మణులనిద్దరినీ పట్టుకొని, తన భుజాల మీద వేసుకొని అరణ్యంలోకి వెళ్ళాడు. ఇది చూసిన సీతమ్మ గట్టిగా ఆక్రందన చేసింది. అప్పుడు రాముడు తన బలం చేత ఆ విరాధుడి యొక్క చేతిని విరిచేశాడు, లక్ష్మణుడు మరో చేతిని ఖండించేసరికి విరాధుడు కిందపడ్డాడు. కిందపడ్డ విరాధుడిని రామలక్ష్మణులు తీవ్రంగా కొట్టారు, పైకి కిందకి పడేసారు, అయినా వాడు చావలేదు. ఇలా లాభం లేదు, ఇక వీడిని పాతిపెట్టాల్సిందే అని, రాముడు లక్ష్మణుడితో, ఏనుగుని పట్టడానికి తవ్వే ఒక పెద్ద గొయ్యి తవ్వమని, ఆ విరాధుడి కంఠం మీద తన పాదాన్ని తొక్కిపెట్టి ఉంచాడు. అప్పుడు విరాధుడు వేసిన కేకలకి ఆ అరణ్యం అంతా కదిలిపోయింది. కొంతసేపటికి లక్ష్మణుడు గోతిని తవ్వేసాడు.",
+    "source_notes": "The battle climax, as illustrated on pp. 222-223 (\"విరాధుని సంహారము\"). The severed arm stays off-frame or implied. Rama's foot on the throat is the decisive image — hold it wide.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E3.01_aranya_pravesham_viradha_vadha",
+    "scene": 16,
+    "part_id": "16",
+    "visual_description": "[Viradha Visual Lock] pinned, his rage draining into calm recognition; a brief golden-tinted flashback inset: Tumburu, a radiant gandharva, lingering with the apsara Rambha instead of attending Kubera's court; [Kubera — one-scene deity figure, regal, no individual lock needed] cursing him into rakshasa form, then naming the release; back to the present: Viradha asking to be buried and pointing the way to Sharabhanga's ashram.",
+    "story_text": "అప్పుడా విరాధుడు \"నేను తపస్సు చేత బ్రహ్మగారి వరం పొందాను, అందువలన నన్ను అస్త్ర-శస్త్రములు ఏమి చెయ్యలేవు. నాకు ఇప్పుడు అర్థమయ్యింది, నువ్వు కౌసల్య కుమారుడవైన రాముడివి, నీ భార్య వైదేహి, నీ తమ్ముడు లక్ష్మణుడు అని. నేను ఒకప్పుడు తుంబురుడు అనే పేరు కలిగిన గంధర్వుడిని. కాని, నాకు రంభ అనే అప్సరస మీద కలిగిన కామము వలన కుబేరుడి సభకి వెళ్ళలేదు. ఆగ్రహించిన కుబేరుడు నన్ను భయంకరమైన రాక్షసుడిగా జన్మించమని శపించాడు. అప్పుడు నేను కుబేరుడిని నాకు శాపవిమోచనం ఎలా కలుగుతుంది అని అడిగాను. నీవు ఏనాడు దశరథుడి కుమారుడైన రాముడి చేతిలో నిహతుడివి అవుతావో, ఆనాడు నువ్వు శాపవిముక్తుడవై మళ్ళి స్వర్గాన్ని పొందుతావు అని కుబేరుడు శాపవిమోచనం చెప్పాడు. కాబట్టి నన్ను ఈ గోతిలో పూడ్చేసి సంహరించండి. ఇక్కడినుండి ఒకటిన్నర యోజనముల దూరం వెళితే శరభంగ మహర్షి ఆశ్రమం ఉంది. నువ్వు తప్పకుండా ఆయన దర్శనం చెయ్యి, నీకు మంచి జరుగుతుంది\" అని విరాధుడు రాముడితో అన్నాడు.",
+    "source_notes": "Per the Character Bible, Viradha's voice \"softens into calm resignation\" here — the monster becomes a penitent. The flashback inset is the only place Tumburu's gandharva form appears; keep it brief and golden-toned, distinct from the present-day forest.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E3.01_aranya_pravesham_viradha_vadha",
+    "scene": 17,
+    "part_id": "17",
+    "visual_description": "[Rama] and [Lakshmana] lowering Viradha into the pit and covering it with earth; then the three walking on toward Sharabhanga's ashram.",
+    "story_text": "తరువాత రామలక్ష్మణులు ఆ విరాధుడిని ఆ గోతిలో వేసి, మట్టితో పూడ్చేసి, శరభంగ ముని ఆశ్రమానికి వెళ్ళారు.",
+    "source_notes": "The burial is Viradha's own requested release (no weapon can kill him). Keep it quiet — no triumph.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E3.01_aranya_pravesham_viradha_vadha",
+    "scene": 18,
+    "part_id": "18",
+    "visual_description": "End card.",
+    "story_text": "తర్వాత చూద్దాం — శరభంగ మహర్షి ఆశ్రమంలో రాముడికి ఏమి కనిపించిందో.",
+    "source_notes": "Bridge line.",
+    "image": null,
+    "status": "image_pending"
+  }
+]

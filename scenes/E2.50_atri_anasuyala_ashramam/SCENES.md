@@ -1,0 +1,89 @@
+# E2.50 — అత్రి-అనసూయల ఆశ్రమం (At the Hermitage of Atri and Anasuya) — Ayodhya Khaanda concludes — Scenes
+
+[Episode script](../../2%20-%20Ayodhya%20Khaanda/E2.50_atri_anasuyala_ashramam.md)
+
+[Narration parts](NARRATION_PARTS.md)
+
+Still-image scene sheet. Source narration is included as story context only. No voice or video generation.
+
+Keep existing descriptive image names. For new images use `scene-NN-short-description.png` inside the matching episode folder.
+
+## 1 — Scene 01
+
+**Visual:** Recap, continuing directly from E2.49's ending — the three leaving Chitrakuta with the ascetics.
+
+**Story:** గత భాగం చివర్లో సీతారామలక్ష్మణులు చిత్రకూటాన్ని విడిచి బయలుదేరారు. ఇప్పుడు వారి ప్రయాణం చూద్దాం.
+
+**Image:** Pending creation.
+
+**Source note:** Bridge line.
+
+## 2 — Scene 02
+
+**Visual:** Arrival at Atri's hermitage (the p. 215 illustration); [Atri] welcoming them warmly and speaking of his wife with reverence; brief golden-tinted insets of Anasuya's deeds — a single long night; a dried Ganga flowing again; the hungry fed.
+
+**Story:** అలా కొంత దూరం ప్రయాణించాక వారు అత్రి మహర్షి ఆశ్రమానికి చేరుకున్నారు. అప్పుడు అత్రి మహర్షి వారికి స్వాగతం చెప్పి "నా భార్య పేరు అనసూయ (కర్దమ ప్రజాపతి– దేవహుతిల కుమార్తె). ఆమె చాలా వృద్ధురాలు, ఆవిడ ఒకసారి దేవతల కోసం 10 రాత్రులని కలిపి ఒక రాత్రి చేసింది, దేశంలో 10 సంవత్సరాల పాటు క్షామం వస్తే, ఎండిపోయిన గంగా నదిని తన తపఃశక్తితో ప్రవహించేటట్టు చేసింది, ప్రజలందరికి అన్నం పెట్టింది, ఆమె పదివేల సంవత్సరముల పాటు ఘోరమైన తపస్సు చేసింది, సర్వభూతముల చేత నమస్కరింపబడడానికి యోగ్యురాలు. రామ! సీతమ్మని ఒకసారి అనసూయ చూస్తుంది, కనుక ఆమె దగ్గరికి ఒకసారి పంపించు" అని అన్నాడు.
+
+**Image:** Pending creation.
+
+**Source note:** A husband's pride in his wife's tapas — the parenthetical lineage is the source's own.
+
+## 3 — Scene 03
+
+**Visual:** [Anasuya] — very old, luminous — drawing Sita onto her lap like a grandmother, and asking her question gently.
+
+**Story:** తన దగ్గరికి వచ్చిన సీతమ్మని తన వొళ్ళో కూర్చోపెట్టుకుని అనసూయ ఇలా అని పలికింది "సీతా! నువ్వు మహా పతివ్రతవని, భర్తని అనుగమించి అరణ్యానికి వచ్చావని విన్నాను. ఆయన దుర్మార్గుడే కావచ్చు, ధనం లేనివాడు కావచ్చు, హీనుడే కావచ్చు, పతితుడే కావచ్చు, గుణములు లేనివాడు కావచ్చు, కాని స్త్రీకి పతియే దైవము అని నేను విశ్వసిస్తున్నాను, నీ అభిప్రాయం కూడా చెప్పు" అని అడిగింది.
+
+**Image:** Pending creation.
+
+**Source note:** Anasuya tests Sita with the strictest statement of the ideal — and asks for Sita's own view.
+
+## 4 — Scene 04
+
+**Visual:** [Sita, SITA-S3] answering simply, with a small smile; a brief warm inset of Rama and Sita together at Chitrakuta.
+
+**Story:** అప్పుడు సీతమ్మ "నేను పుట్టింట్లో ఉన్నప్పుడు నాకు ఈ మాటే చెప్పారు, పాణిగ్రహణం చేయించేటప్పుడు కూడా ఈ మాటే చెప్పారు, అత్తవారింటికి వచ్చాక కౌసల్య ఈ మాట చెప్పింది, అరణ్యాలకి బయలుదేరేముందు కూడా కౌసల్య ఈ మాట చెప్పింది. కాని నా అదృష్టం ఏంటంటే, అమ్మ, నాన్న, సోదరులు, గురువు ఎలా ప్రేమిస్తారో, నా భర్త నన్ను అలా ప్రేమిస్తాడు. గొప్ప ధర్మం తెలిసున్నవాడు, జితేంద్రియుడు. ఇటువంటి భర్త లభిస్తే, అతనిని ప్రేమించడంలో గొప్ప ఏముందమ్మ" అని పలికింది.
+
+**Image:** Pending creation.
+
+**Source note:** Sita's answer turns the test upside down: with a husband like Rama, devotion is no achievement. One of her loveliest lines.
+
+## 5 — Scene 05
+
+**Visual:** [Anasuya], delighted, giving Sita garments that never crease, flowers that never fade, fragrant pastes that never lose their scent; Sita wearing them, bowing to Atri and Anasuya, going to Rama; [Rama] looking at her and glowing with joy.
+
+**Story:** సీతమ్మ మాటలకి ఎంతో సంతోషించిన అనసూయ కొన్ని కానుకలు ఇస్తూ "సీతా! నీకు కొన్ని బట్టలు ఇస్తున్నాను, ఇవి ఎప్పుడూ నలగవు, కొన్ని పువ్వులు ఇస్తున్నాను, ఇవి ఎప్పుడూ వాడవు, అంగరాగములు ఇస్తున్నాను, ఇవి ఎప్పుడూ వాసన తగ్గవు, ఇవి నువ్వు పెట్టుకుంటే, నీ భర్త నిన్ను చూడగానే ఆనందాన్ని పొందుతాడు. లక్ష్మీదేవి శ్రీ మహా విష్ణువుని సంతోషపెట్టినట్టు, నువ్వు ఇవి పెట్టుకొని నీ భర్తని సంతోషపెట్టు. కాబట్టి ఇవి కట్టుకొని ఒకసారి రాముడికి కనబడు" అని పలికింది. అప్పుడు సీతమ్మ ఇవన్నీ కట్టుకొని, అత్రికి, అనసూయకి నమస్కారం చేసి రాముడి దగ్గరికి వెళ్ళింది. రాముడు సీతని చూసి "సీతా! ఎవ్వరూ పొందని గొప్ప గొప్ప బహుమతులు పొందావు" అని సీతమ్మ వంక చూసి పొంగిపోయాడు.
+
+**Image:** Pending creation.
+
+**Source note:** Anasuya's gifts explain why Sita still has fresh garments and garlands in Aranya Khaanda — they never fade. Note: in this source Sita keeps her exile look (SITA-S3); the gifts are simple divine cloth and flowers, not royal jewellery.
+
+## 6 — Scene 06
+
+**Visual:** That evening: [Anasuya] seating Sita beside her; Sita telling her story; golden-tinted memory insets from Baala Khaanda — Janaka ploughing and finding the infant in the furrow; the Shiva-bow broken; Janaka with the garland and the water-vessel; Rama declining until his father consents; messengers riding to Ayodhya; the wedding.
+
+**Story:** తరువాత అనసూయ సీతమ్మని తన దగ్గర కూర్చోపెట్టుకొని "నీ పెళ్ళి గురించి వినాలని నాకు చాలా కోరికగా ఉంది, నాకు నీ కళ్యాణం గురించి చెప్పు" అని పలికింది. అప్పుడు సీతమ్మ "జనక మహారాజు భూమిని దున్నుతుంటే, నాగటి చాలుకి తగిలి పైకి వచ్చాను కాబట్టి నన్ను సీతా అని పిలిచారు. మా నాన్నగారు నన్ను చాలా కష్టపడి పెంచారు. నాకు యుక్త వయస్సు వచ్చాక, శివ ధనుస్సుని ఎత్తినవాడికి నన్ను ఇస్తానన్నారు. అప్పుడు రాముడు శివ ధనుర్భంగం చేశాడు. వెంటనే మా తండ్రి నాకు ఒక వరమాల ఇచ్చి, నా చెయ్యిని రాముడి చేతిలో పెట్టి, నీళ్ళు పోద్దామని జలకలశం తీసుకొని వచ్చి చెయ్యి పెట్టబోయాడు. కాని రాముడు, నేను క్షత్రియుడని కనుక శివ ధనుస్సుని విరిచాను, నీ కుమార్తెని భార్యగా స్వీకరించాలంటే, మీరు కన్యని ఇచ్చినంత మాత్రాన స్వీకరించను. ఈ కన్య నాకు భార్యగా ఉండడానికి తగినదో కాదో, నా తండ్రిగారు నిర్ణయించాలి. ఆయన అంగీకరిస్తే స్వీకరిస్తాను అన్నాడు. అందుకని మా నాన్నగారు దూతల చేత దశరథ మహారాజుకి కబురు చేశారు. దశరథ మహారాజు మా వంశ వృత్తాంతాన్ని విన్నాక వివాహానికి ఒప్పుకున్నారు. అప్పుడు నేను రాముడికి అర్ధాంగిని అయ్యాను" అని సీతమ్మ చెప్పింది.
+
+**Image:** Pending creation.
+
+**Source note:** Sita's own telling of Baala Khaanda's climax — reuse E1.22-E1.24's looks exactly (RAMA-S1/S2, SITA-S1). Rama waiting for his father's consent echoes the whole Ayodhya Khaanda: his father's word above all.
+
+## 7 — Scene 07
+
+**Visual:** [Anasuya] overjoyed; the next morning, the three asking [Atri] the way; Atri pointing out the sages' fruit-gathering path through the dangerous forest; blessings; the three setting off, Rama walking into the forest like the sun into clouds.
+
+**Story:** ఈ మాటలు విన్న అనసూయ పొంగిపోయింది. తరువాత వారు, మేము ఆశ్రమం నిర్మించుకుంటాము, ఎటువెళ్ళమంటారు అని అత్రి మహర్షిని అడుగగా, ఆయన "ఇక్కడ రాక్షసులు, క్రూరమృగాలు తిరుగుతూ ఉంటాయి. ఋషులు పళ్ళు తెచ్చుకునే దారి ఒకటి ఉంది, అందుకని మీరు చాలా జాగ్రత్తగా ఆ దారిలోవెళ్ళండి" అని, ఆ దారిని చూపించారు. అప్పుడు అత్రి మహర్షి దగ్గర, అనసూయ దగ్గర ఆశీర్వాదం తీసుకొని, సీతారామలక్ష్మణులు ఆ దారిలో తమ ప్రయాణాన్ని సాగించారు. మేఘాలలోకి సూర్యుడు వెళితే ఎలా ఉంటుందో, అలా సీతాలక్ష్మణులతో రాముడు వెళ్ళాడు.
+
+**Image:** Pending creation.
+
+**Source note:** The last line of the source's Ayodhya Khaanda — the sun entering the clouds. Match the frame to E3.01 scene 2, which picks up exactly here.
+
+## 8 — Scene 08
+
+**Visual:** Khaanda closing card: "అయోధ్యాకాండ సమాప్తం" over the three disappearing into the deep forest.
+
+**Story:** ఇంతటితో అయోధ్యాకాండ సమాప్తం. తరువాత అరణ్యకాండలో దండకారణ్యంలోకి వెళ్ళిన సీతారామలక్ష్మణులకి ఏమి ఎదురైందో చూద్దాం.
+
+**Image:** Pending creation.
+
+**Source note:** Khaanda-transition line — a production addition, matching E3.34's closing card; it leads straight into E3.01's opening card.

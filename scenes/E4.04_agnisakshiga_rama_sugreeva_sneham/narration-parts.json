@@ -1,0 +1,479 @@
+[
+  {
+    "scene": 1,
+    "part": 1,
+    "id": "01.01",
+    "text": "గత భాగం చివర్లో హనుమంతుడు రామలక్ష్మణులని ఋష్యమూక శిఖరం మీదకి తీసుకువెళ్ళాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 1,
+    "part": 2,
+    "id": "01.02",
+    "text": "ఇప్పుడు సుగ్రీవుడితో కలయిక చూద్దాం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 1,
+    "id": "02.01",
+    "text": "అలా రామలక్ష్మణులని సుగ్రీవుడు ఉన్న ప్రాంతానికి తీసుకొచ్చేటప్పుడు హనుమంతుడు తన కపి రూపాన్ని వదిలి భిక్షు రూపాన్ని పొందాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 2,
+    "id": "02.02",
+    "text": "అప్పుడు హనుమంతుడు సుగ్రీవుడితో —",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 1,
+    "id": "03.01",
+    "text": "అయం రామో మహాప్రాజ్ఞ సంప్రాప్తో దృఢ విక్రమః | లక్ష్మణేన సహ భ్రాత్రా రామోయం సత్య విక్రమః ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 1,
+    "id": "04.01",
+    "text": "\"సుగ్రీవా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 2,
+    "id": "04.02",
+    "text": "వచ్చినటువంటివాడు మహా ప్రాజ్ఞుడైన, దృఢమైన విక్రమము ఉన్న రామచంద్రమూర్తి మరియు ఆయన తమ్ముడు లక్ష్మణుడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 3,
+    "id": "04.03",
+    "text": "రాముడిని దశరథ మహారాజు అరణ్యవాసానికి పంపిస్తే అరణ్యాలకి వచ్చాడు తప్ప, ధర్మబద్ధమైన నడువడిలేక రాజ్యాన్ని పోగొట్టుకున్నవాడు కాదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 4,
+    "id": "04.04",
+    "text": "ఈయన తన భార్య అయిన సీతమ్మతో, లక్ష్మణుడితో అరణ్యవాసానికి వస్తే, ఆయన భార్యను ఎవడో ఒక రాక్షసుడు అపహరించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 5,
+    "id": "04.05",
+    "text": "అందుకని ఆ సీతమ్మని అన్వేషిస్తూ ఈ ప్రాంతానికి చేరుకున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 6,
+    "id": "04.06",
+    "text": "నిన్ను శరణాగతి చేస్తున్నాడు, నీతో స్నేహం చెయ్యాలనుకుంటున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 7,
+    "id": "04.07",
+    "text": "అందుకని సుగ్రీవా, ఈయనతో స్నేహం చెయ్యవలసింది\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 1,
+    "id": "05.01",
+    "text": "అప్పుడు సుగ్రీవుడు \"రామ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 2,
+    "id": "05.02",
+    "text": "మీ దగ్గర గొప్ప తపస్సు ఉంది, అనేకమైన గుణములు, విశేషమైన ప్రేమ ఉంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 3,
+    "id": "05.03",
+    "text": "ఇన్ని గుణములు కలిగిన వ్యక్తి నాకు స్నేహితుడిగా లభించడం నా అదృష్టం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 4,
+    "id": "05.04",
+    "text": "ఇటువంటి వ్యక్తి స్నేహితుడిగా లభిస్తే ఈ ప్రపంచంలో దేనినైన పొందవచ్చు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 5,
+    "id": "05.05",
+    "text": "అందుచేత ఇది నాకు దేవతలు ఇచ్చిన వరము అని అనుకుంటున్నాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 6,
+    "id": "05.06",
+    "text": "రామ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 7,
+    "id": "05.07",
+    "text": "నీకు తెలియని విషయం కాదు, స్నేహం చేసేటటువంటివాడికి ఒక ధర్మం ఉంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 8,
+    "id": "05.08",
+    "text": "భర్త ఎలాగైతే తన కుడి చేతిని భార్య కుడి చేతితో బాగా రాశి పట్టుకుంటాడో, అలా స్నేహం చేసేవారు కూడా పట్టుకోవాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 9,
+    "id": "05.09",
+    "text": "అందుకని నువ్వు నాతో స్నేహమును ఇచ్ఛగించిన వాడివైతే, నా బాహువుని చాపుతున్నాను, నీ బాహువుని నా బాహువుతో కలుపు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 10,
+    "id": "05.10",
+    "text": "వెంటనే హనుమంతుడు తన సన్యాసి రూపాన్ని విడిచిపెట్టి కపి రూపానికి వచ్చేసి గబగబా వెళ్ళి నాలుగు ఎండిపోయిన కట్టెలని తెచ్చి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 11,
+    "id": "05.11",
+    "text": "కర్రతో కర్రని రాపాడించి అగ్నిహోత్రాన్ని పుట్టించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 12,
+    "id": "05.12",
+    "text": "అప్పుడు రాముడు, సుగ్రీవుడు ఆ అగ్నిహోత్రానికి ప్రదక్షిణ చేసి, ఇద్దరూ తమ చేతులు కలుపుకున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 1,
+    "id": "06.01",
+    "text": "అప్పుడు రాముడు \"మనిద్దరమూ స్నేహం చేసుకున్నాము కదా, ఇకనుండి ఇద్దరి కష్టసుఖాలు ఇద్దరివీ\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 2,
+    "id": "06.02",
+    "text": "సుగ్రీవుడు వెంటనే వెళ్ళి పుష్పించి ఉన్న పెద్ద సాలవృక్షము కొమ్మని విరిచి రాముడికి ఆసనంగా వేసి కూర్చోమన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 3,
+    "id": "06.03",
+    "text": "అలాగే హనుమంతుడు ఒక గంధపు చెట్టు కొమ్మని తీసుకొని వచ్చి లక్ష్మణుడిని కూర్చోమన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 4,
+    "id": "06.04",
+    "text": "రామలక్ష్మణులిద్దరు కూర్చున్న తరువాత సుగ్రీవుడు \"రామ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 5,
+    "id": "06.05",
+    "text": "నన్ను నా అన్నగారైన వాలి రాజ్యం నుండి వెళ్ళగొట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 6,
+    "id": "06.06",
+    "text": "నా భార్యను తన భార్యగా అనుభవిస్తున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 7,
+    "id": "06.07",
+    "text": "దిక్కులేనివాడినై ఈ కొండమీద జీవితాన్ని గడుపుతున్నాను\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 1,
+    "id": "07.01",
+    "text": "ఉపకార ఫలం మిత్రం విదితం మే మహాకపే | వాలినం తం వధిష్యామి తవ భార్య అపహారిణం ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 1,
+    "id": "08.01",
+    "text": "అప్పుడు రాముడు \"ఉపకారము చేసినవాడు స్నేహితుడు కాబట్టి, నువ్వు కష్టంలో ఉన్నావు కాబట్టి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 2,
+    "id": "08.02",
+    "text": "నేను నీ స్నేహితుడిని కాబట్టి నీకు ఉపకారము చెయ్యాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 3,
+    "id": "08.03",
+    "text": "నువ్వు బతికి ఉండగా నీ భార్యను తన భార్యగా అనుభవిస్తున్నాడు వాలి, ఈ ఒక్కమాట చాలు ధర్మం తప్పిన వాలిని చంపడానికి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 4,
+    "id": "08.04",
+    "text": "అందుకని వాలిని చంపేస్తాను\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 1,
+    "id": "09.01",
+    "text": "ఈ మాటలు విన్న సుగ్రీవుడు, సుగ్రీవుడి మంత్రులు పొంగిపోయారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "ఒకరిని ఒకరు చూపులతో తాగుతున్నారా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 3,
+    "id": "09.03",
+    "text": "అన్నట్టుగా చూసుకున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 4,
+    "id": "09.04",
+    "text": "అలా రాముడు, సుగ్రీవుడు ఒకళ్ళ చేతిలో ఒకరు చెయ్యి వేసుకుని సంతోషంగా మాట్లాడుతుంటే, ముగ్గురికి ఎడమ కళ్ళు అదిరాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 5,
+    "id": "09.05",
+    "text": "పద్మంలాంటి కన్నులున్న సీతమ్మ ఎడమ కన్ను, బంగారంలాంటి పచ్చటి కన్నులున్న వాలి ఎడమ కన్ను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 6,
+    "id": "09.06",
+    "text": "ఎర్రటి కన్నులున్న రావణాసురుడి ఎడమ కన్ను అదిరాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "తరువాత సుగ్రీవుడు \"కనపడకుండా పోయిన వేదాన్ని మళ్ళి తీసుకొని వచ్చి ఇచ్చినట్టు, నీకు నేను సీతమ్మని తీసుకొని వచ్చి ఇస్తాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "సీతమ్మని పాతాళలోకములో కాని, స్వర్గలోకములో కాని దాయని, నేను సీతమ్మని వెతికి తీసుకొస్తాను\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 3,
+    "id": "10.03",
+    "text": "సుగ్రీవుడి మాటలు విన్న రాముడికి సీతమ్మ గుర్తుకువచ్చి భోరున రోదించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 4,
+    "id": "10.04",
+    "text": "అప్పుడు సుగ్రీవుడు \"రామ శోకించకు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 5,
+    "id": "10.05",
+    "text": "నీకు ఒక ఆశ్చర్యకరమైన సంఘటన గురించి చెబుతాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 6,
+    "id": "10.06",
+    "text": "ఒకనాడు నేను ఈ పర్వత శిఖరాల మీద మంత్రులతో కలిసి కూర్చొని ఉన్నాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 7,
+    "id": "10.07",
+    "text": "అప్పుడు ఆకాశంలో ఎర్రటి నేత్రములు కలిగిన రాక్షసుడు పచ్చటి వస్త్రములు కట్టుకున్న ఒక స్త్రీని తీసుకుపోతున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 8,
+    "id": "10.08",
+    "text": "అప్పుడు ఆ తల్లి తన చీర కొంగుని చింపి, అందులో తన ఆభరణములను కొన్నిటిని మూటకట్టి పైనుండి కిందకి జారవిడిచింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 9,
+    "id": "10.09",
+    "text": "బహుశా ఆ స్త్రీ సీతమ్మ అయి ఉంటుందని నేను అనుకుంటున్నాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 10,
+    "id": "10.10",
+    "text": "నేను వెళ్ళి ఆ ఆభరణములు తీసుకొస్తాను, అవి సీతమ్మ ఆభరణాలేమో చూడు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "తర్వాత చూద్దాం — ఆ ఆభరణాలని చూసిన రాముడి స్పందన.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  }
+]

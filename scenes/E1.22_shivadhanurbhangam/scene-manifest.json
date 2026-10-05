@@ -1,0 +1,202 @@
+[
+  {
+    "episode": "E1.22_shivadhanurbhangam",
+    "scene": 1,
+    "part_id": "1",
+    "visual_description": "Recap, continuing from E1.21's closing — Janaka has just announced the contest. (Location register: Janaka's royal court)",
+    "story_text": "గత భాగం చివర్లో జనక మహారాజు శివధనుస్సుని ఎక్కుపెట్టినవాడికి సీతమ్మని ఇస్తానని ప్రకటించారు. ఏం జరిగిందో చూద్దాం.",
+    "source_notes": "Bridge line.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.22_shivadhanurbhangam",
+    "scene": 2,
+    "part_id": "2",
+    "visual_description": "Montage: a long procession of kings and princes from every direction, arriving at Mithila to attempt the bow. (Location register: Mithila, royal court, procession montage)",
+    "story_text": "\"అలా ఎందరో రాజులు వచ్చారు శివ ధనుస్సుని ఎక్కుపెట్టడానికి,\"",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.22_shivadhanurbhangam",
+    "scene": 3,
+    "part_id": "3",
+    "visual_description": "Escalating montage of failures — some fainting at the mere sight of the massive bow, none able to so much as move it, all departing crushed and humiliated. (Location register: Mithila, royal court, escalating failure montage)",
+    "story_text": "\"కొంతమంది ఆ ధనుస్సుని చూడగానే పడిపోయారు, ఎవరూ కనీసం దాన్ని కదపలేకపోయారు. వచ్చిన వాళ్ళందరూ భగ్నహృదయాలతో వెనుదిరిగేవారు.\"",
+    "source_notes": "Establish the bow's sheer, overwhelming physical weight clearly across this montage (per the \"5,000 people to move it\" detail from E1.21) — this is what makes the eventual outcome so extraordinary.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.22_shivadhanurbhangam",
+    "scene": 4,
+    "part_id": "4",
+    "visual_description": "The failed suitors, humiliated collectively, arriving at a dark decision together. (Location register: A gathering of rejected kings, tense)",
+    "story_text": "\"ఈ జనకుడు పెట్టిన పరీక్షలో ఎవరమూ గెలవలేము, ఆ ధనుస్సుని ఎవరమూ ఎక్కుపెట్టలేము, కనుక మనందరమూ ఒకటై, జనకుడి మీదకి యుద్ధానికి వెళదాము అని నిర్ణయించుకున్నారు.\"",
+    "source_notes": "This is a genuinely dark turn — collective humiliation curdling into a coordinated war against an innocent host, worth a tonal shift from the earlier comic-failure montage to something more grave.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.22_shivadhanurbhangam",
+    "scene": 5,
+    "part_id": "5",
+    "visual_description": "A massed army of former suitor-kings besieging Mithila; [Janaka Visual Lock] ordering the city sealed — a deep moat dug, gates shut. (Location register: Mithila under siege)",
+    "story_text": "\"అందరూ కలిసి మా రాజ్యం మీదకి యుద్ధానికి వచ్చారు. అప్పుడు మా రాజ్యం చుట్టూ ఒక పెద్ద అగడ్త (భూమిని తవ్వి నింపుతారు) తవ్వి, ద్వారాలు మూసేశాము.\"",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.22_shivadhanurbhangam",
+    "scene": 6,
+    "part_id": "6",
+    "visual_description": "A grinding, prolonged siege — a full year passing, [Janaka Visual Lock] and his people's supplies visibly dwindling. (Location register: Mithila, under siege, time passing)",
+    "story_text": "\"ఒక సంవత్సరం పాటు యుద్ధం జరిగాక మా దగ్గరున్న ఆహార నిల్వలు క్షీణించిపోయాయి.\"",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.22_shivadhanurbhangam",
+    "scene": 7,
+    "part_id": "7",
+    "visual_description": "[Janaka Visual Lock] turning to tapasya himself as a last resort; [generic devatalu Visual Lock] answering, granting him their own divine army. (Location register: Mithila, desperate turning point)",
+    "story_text": "\"అప్పుడు నేను తపస్సు చేశాను, తపస్సుకి మెచ్చిన దేవతలు తమ సైన్యాన్ని నాకు కటాక్షించారు, దేవతా సైన్యంతో నేను ఆ రాజులని ఓడించాను\" అని జనకుడు చెప్పుకున్నాడు.",
+    "source_notes": "This closes Janaka's full backstory of the bow and the war it already caused — establishing real, serious stakes for anyone else who might now try and fail; the audience should understand this isn't a lighthearted contest.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.22_shivadhanurbhangam",
+    "scene": 8,
+    "part_id": "8",
+    "visual_description": "Cut back to present: [Janaka Visual Lock] making a direct, conditional offer regarding Rama specifically. (Location register: Janaka's royal court, present)",
+    "story_text": "\"అప్పుడు జనకుడు 'ఒకవేళ ఈ రాముడు శివ ధనుస్సుని ఎక్కుపెట్టగలిగితే, నేను నా కూతురు సీతని కన్యాదానముగా ఇస్తాను' అన్నాడు.\"",
+    "source_notes": "This is a significant escalation from E1.21's framing (a simple courtesy viewing) — Janaka himself now raises the marriage stakes, not Vishwamitra; a deliberate shift worth noting in the performance (a hopeful, searching tone from Janaka, having just told this whole cautionary history).",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.22_shivadhanurbhangam",
+    "scene": 9,
+    "part_id": "9",
+    "visual_description": "[Vishwamitra Visual Lock] accepting simply, on behalf of the boys; the massive eight-wheeled chest being brought into the court. (Location register: Janaka's royal court)",
+    "story_text": "\"'ఆ శివ ధనుస్సుని తెప్పిస్తే మా పిల్లలు ఒకసారి చూస్తారు' అని విశ్వామిత్రుడు అన్నాడు. అప్పుడా ఎనిమిది చక్రాలు కలిగిన మంజూషని లాక్కొని వచ్చారు.\"",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.22_shivadhanurbhangam",
+    "scene": 10,
+    "part_id": "10",
+    "visual_description": "[Janaka Visual Lock] voicing open skepticism as the chest arrives — not mockery, but genuine doubt given everything shown so far. (Location register: Janaka's royal court)",
+    "story_text": "\"'ఒక మనిషి అసలు ఈ ధనుస్సుని పైకి ఎత్తి, వింటినారిని లాగి కట్టడం జరుగుతుందా, సరే ఏదో అడిగారు కాబట్టి ధనుస్సుని తీసుకొచ్చాము చూడండి' అన్నాడు జనకుడు.\"",
+    "source_notes": "Janaka's doubt here should read as reasonable given the entire episode's build-up — not a plot contrivance, but a genuine, earned skepticism the audience shares going into the next beat.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.22_shivadhanurbhangam",
+    "scene": 11,
+    "part_id": "11",
+    "visual_description": "[Vishwamitra Visual Lock] turning to Rama, simply inviting him to look at the bow first — no pressure, no instruction beyond curiosity. (Location register: Janaka's royal court)",
+    "story_text": "\"అప్పుడు విశ్వామిత్రుడు ఆ ధనుస్సుని ఒకసారి చూడమని రాముడితో చెప్పాడు.\"",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.22_shivadhanurbhangam",
+    "scene": 12,
+    "part_id": "12",
+    "visual_description": "[Rama Visual Lock, S1/boyhood — his LAST scene at this stage] opening the great chest — the bow coiled within like a sleeping serpent, per the text's own striking simile. (Location register: Janaka's royal court, the reveal)",
+    "story_text": "\"అప్పుడు రాముడు ఆ మంజూషని తెరువగా అందులో పాము పడుకున్నట్టు ఆ ధనుస్సు ఉంది.\"",
+    "source_notes": "The \"coiled like a sleeping serpent\" image is worth its own dedicated, striking shot — this is the single most anticipated object reveal of the whole Bala Khaanda so far.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.22_shivadhanurbhangam",
+    "scene": 13,
+    "part_id": "13",
+    "visual_description": "[Rama Visual Lock] reacting not with dread but genuine delight and eagerness — a Kshatriya's natural excitement at a magnificent weapon, asking permission plainly. (Location register: Janaka's royal court)",
+    "story_text": "\"క్షత్రియుడైన రాముడు ఆ ధనుస్సుని చూడగానే చాలా ఉత్సాహపడి, 'ఈ ధనుస్సు ఎంతో బాగుంది, దీన్ని ముట్టుకుంటాను, తరువాత ఎక్కుపెడతాను' అని విశ్వామిత్రుడిని అడిగాడు. ఆయన 'అలాగే ఎక్కుపెట్టు' అన్నాడు.\"",
+    "source_notes": "Rama's tone here is important to get right — not grim determination, but the simple, confident eagerness of someone who genuinely loves this kind of challenge; this is a moment of joy, not tension, for him specifically, even as everyone else in the room holds their breath.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.22_shivadhanurbhangam",
+    "scene": 14,
+    "part_id": "14",
+    "visual_description": "On-screen verse text — the central image of the whole episode. (Location register: Janaka's royal court, the breaking)",
+    "story_text": "ఆరోపయత్ స ధర్మాత్మా స లీలం ఇవ తత్ ధనుః । ఆరోపయిత్వా మౌర్వీం చ పూరయామాస వీర్యవాన్ । తత్ బభంజ ధనుర్ మధ్యే నరశ్రేష్ఠో మహాయశాః ॥",
+    "source_notes": "🔴 VERSE — Rama lifting the bow as if in play (līlā), stringing it, and breaking it at its center with a thunderous sound. This is THE central iconic verse of Baala Khaanda's whole marriage arc — the highest-stakes recitation since the krauncha-bird verse in E1.02.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.22_shivadhanurbhangam",
+    "scene": 15,
+    "part_id": "15",
+    "visual_description": "[Rama Visual Lock — SWITCH TO S2/bridegroom stage begins HERE, per the Character Bible's noted transition point] lifting the massive bow with effortless ease, no strain visible; then drawing the string — and the bow SNAPPING at its center with a deafening, thunderclap-like sound. (Location register: Janaka's royal court, the climactic moment)",
+    "story_text": "\"రాముడు ఆ ధనుస్సుని ఎంతో తేలికగా, కష్టం లేకుండా పైకి ఎత్తి, నారి కడదామని లాగేసరికి, వంగిన ధనుస్సు మధ్యలో 'ఫడేల్' అని గట్టి శబ్దంతో విరిగిపోయింది.\"",
+    "source_notes": "This is the Character Bible's noted Stage-transition point for Rama — S1 to S2 begins in this exact moment. Give this the single largest, most impactful visual/audio treatment of any moment in the series so far: slow-motion effort-free lift, then a sudden, violent snap.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.22_shivadhanurbhangam",
+    "scene": 16,
+    "part_id": "16",
+    "visual_description": "The shockwave of sound — [generic crowd, courtiers, visiting kings] collapsing/fainting throughout the hall at the thunderous impact; only four figures remain standing. (Location register: Janaka's royal court, mass reaction)",
+    "story_text": "\"పిడుగులు పడే శబ్దంతో ఆ శివ ధనుస్సు విరిగేసరికి రాముడు, లక్ష్మణుడు, విశ్వామిత్రుడు, జనకుడు తప్ప అక్కడున్న మిగతా వారందరూ మూర్చపోయారు.\"",
+    "source_notes": "A striking wide shot — an entire crowded hall collapsed, with only Rama, Lakshmana, Vishwamitra, and Janaka left standing amid the fallen — worth holding this composition for a beat before the dialogue resumes.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.22_shivadhanurbhangam",
+    "scene": 17,
+    "part_id": "17",
+    "visual_description": "On-screen verse text; [Janaka Visual Lock] speaking first, astonished, immediately understanding what Vishwamitra already knew. (Location register: Janaka's royal court, aftermath)",
+    "story_text": "భగవన్ దృష్ట వీర్యో మే రామో దశరథ ఆత్మజః । అలం అద్భుతం అచింత్యం చ అతర్కితం ఇదం మయా ॥",
+    "source_notes": "🔴 VERSE — Janaka's astonished declaration: \"O revered one, I have witnessed Rama's valor, son of Dasharatha — this is a wonder beyond thought, beyond expectation.\"",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.22_shivadhanurbhangam",
+    "scene": 18,
+    "part_id": "18",
+    "visual_description": "[Janaka Visual Lock] speaking directly to Vishwamitra, and then reflecting on his own daughter's destiny fulfilled. (Location register: Janaka's royal court)",
+    "story_text": "\"అప్పుడు జనకుడు 'మహానుభావ విశ్వామిత్రా, నీకు తెలుసు, అందుకే ఈ పిల్లలు ఇద్దరినీ తీసుకొచ్చావు, రాముడు దశరథాత్మజుడు, ఈ సంఘటన అద్భుతం, ఊహించరానిది, ఎవరూ వాదించరానిది. సీతమ్మ మా వంశంలో జన్మించి, తగిన భర్తని పొంది మా వంశ గౌరవాన్ని నిలబెట్టింది' అన్నాడు.\"",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.22_shivadhanurbhangam",
+    "scene": 19,
+    "part_id": "19",
+    "visual_description": "[Vishwamitra Visual Lock] moving immediately and practically to next steps — messengers must be sent to Dasharatha at once. (Location register: Janaka's royal court)",
+    "story_text": "\"అయితే ముందు కొంతమంది రాయబారులని దశరథ మహారాజుగారి దగ్గరికి పంపించి, రాముడు శివధనుర్భంగం చేసి సీతమ్మని వీర్య శుల్కగా గెలుచుకున్నాడన్న విషయం చెప్పండని విశ్వామిత్రుడు జనకుడితో అన్నాడు.\"",
+    "source_notes": "End the episode on this practical, forward-moving beat — the emotional climax has landed, and now the machinery of an actual royal wedding needs to begin; a deliberate tonal shift from awe to logistics closes the episode on anticipation for what's coming (Dasharatha's reaction).",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.22_shivadhanurbhangam",
+    "scene": 20,
+    "part_id": "20",
+    "visual_description": "End card.",
+    "story_text": "తర్వాత చూద్దాం — దశరథ మహారాజుకి ఈ శుభవార్త ఎలా అందిందో, మరియు మిథిలా నగరానికి ఆయన ఎలా బయలుదేరారో.",
+    "source_notes": "Bridge line.",
+    "image": null,
+    "status": "image_pending"
+  }
+]

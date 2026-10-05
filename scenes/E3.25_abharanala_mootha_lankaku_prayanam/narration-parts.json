@@ -1,0 +1,461 @@
+[
+  {
+    "scene": 1,
+    "part": 1,
+    "id": "01.01",
+    "text": "గత భాగం చివర్లో జటాయువుని పడగొట్టి రావణుడు సీతమ్మని బలవంతంగా తీసుకెళ్ళాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 1,
+    "part": 2,
+    "id": "01.02",
+    "text": "ఆ తరువాత ఏమి జరిగిందో చూద్దాం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 1,
+    "id": "02.01",
+    "text": "రావణుడు సీతమ్మ జుట్టు పట్టి, ఈడ్చుకొని తెచ్చి, తన తొడల మీద కూర్చోపెట్టుకుని ఆకాశంలోకి ఎగిరిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 2,
+    "id": "02.02",
+    "text": "అటూ ఇటూ తన్నుకుంటున్న సీతమ్మని 20 చేతులతో ఓడిసిపట్టుకున్న రావణాసురుడిని చూసి ఋషులు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 3,
+    "id": "02.03",
+    "text": "ఈ కళ్ళతో ఇటువంటి దృశ్యాన్ని చూడవలసి వచ్చిందని బాధపడ్డారు, అలాగే రావణ సంహారం అవుతుందని సంతోషించారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 1,
+    "id": "03.01",
+    "text": "ఆకాశంలో వెళ్ళిపోతున్న సీతమ్మ ఆభరణాలు కిందపడిపోయాయి, ఆవిడ జుట్టు విడిపోయి చల్లుకుపోయింది, తిలకం పక్కకి తొలగిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 2,
+    "id": "03.02",
+    "text": "అలా ఆకాశంలో వెళ్ళిపోతున్న సీతమ్మకి ఒక పర్వత శిఖరం మీద 5 వానరాలు కనబడ్డాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 3,
+    "id": "03.03",
+    "text": "వీళ్ళు నా సమాచారాన్ని రాముడికి అందజేస్తారు అనుకొని, తాను కట్టుకున్న వస్త్రం నుండి ఒక ఖండాన్ని చింపి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 4,
+    "id": "03.04",
+    "text": "అందులో తాను ధరించిన నగలని మూటకట్టి ఆ 5 వానరముల మధ్యలో పడేటట్టు విడిచింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 5,
+    "id": "03.05",
+    "text": "సీతమ్మని తీసుకుపోతున్నాను అన్న ఆనందంలో రావణుడు ఈ విషయాన్ని గమనించలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 6,
+    "id": "03.06",
+    "text": "రెప్ప వెయ్యకుండా ఆ 5 వానరాలు ఈ దృశ్యాన్ని చూశారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 1,
+    "id": "04.01",
+    "text": "త్వయా ఏవ నూనం దుష్టాత్మన్ భీరుణా హర్తుం ఇచ్ఛతా | మమ అపవాహితో భర్తా మృగ రూపేణ మాయయా ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 1,
+    "id": "05.01",
+    "text": "రావణుడి చేత ఎత్తుకుపోబడుతున్న సీతమ్మ ఇలా అని పలికింది \"నువ్వు మాయా మృగాన్ని సృష్టించి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 2,
+    "id": "05.02",
+    "text": "నా భర్త నా నుండి చాలా దూరంగా వెళ్ళాలన్న దుష్టసంకల్పంతో ఆ మృగాన్ని ఆశ్రమంలోకి పంపించి, ఒక్కత్తిగా ఉన్న నన్ను అపహరించావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 3,
+    "id": "05.03",
+    "text": "ఇది ఒక గొప్ప కార్యమని ఎవరూ అనరు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 4,
+    "id": "05.04",
+    "text": "అలాగే ఇది యాదృచ్ఛికముగా జరిగిన సంఘటన కాదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 5,
+    "id": "05.05",
+    "text": "ఇలా జరగాలని నువ్వు ముందుగానే ప్రణాళిక రచించావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 6,
+    "id": "05.06",
+    "text": "ఇలా చెయ్యడం నీ పరాక్రమానికి కాని, నీ తపస్సుకి కాని, ఒకనాడు నువ్వు జీవించిన జీవితానికి కాని ఏవిధంగా నిదర్శనంగా నిలబడుతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 7,
+    "id": "05.07",
+    "text": "ఒక పరస్త్రీని ఎత్తుకొచ్చి నేను గొప్పవాడిని అని చెప్పుకుంటున్నావు, ఇలా చెప్పుకోడానికి నీకు సిగ్గువెయ్యడం లేదా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 8,
+    "id": "05.08",
+    "text": "నువ్వు నిజంగా అంత గొప్పవాడివి అయితే, రాముడు లేనప్పుడు నన్ను ఎందుకు తీసుకొచ్చావు, రాముడు ఉండగా ఎందుకు రాలేకపోయావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 1,
+    "id": "06.01",
+    "text": "నువ్వు చేసిన పని పెద్దలైనవారు, వీరులైనవారు అంగీకరించేటటువంటి పని కాదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 2,
+    "id": "06.02",
+    "text": "నన్ను ముట్టుకోవడం, నన్ను అనుభవించడం నువ్వు ఒక్కనాటికి చెయ్యగలిగే పని కాదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 3,
+    "id": "06.03",
+    "text": "కాని నన్ను ముట్టుకొని తేవడం వలన, నీ శరీరం పడిపోయాక నరకానికి తీసుకువెళ్ళి, చీము నెత్తురుతో ఉండే అసిపత్రవనంలో పడేస్తారు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 4,
+    "id": "06.04",
+    "text": "అలాగే ఘోరమైన వైతరణి నదిలో పడేస్తారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 5,
+    "id": "06.05",
+    "text": "ఇప్పుడు నన్ను పట్టుకున్నానని సంతోషపడుతున్నావు, రేపు నువ్వు చచ్చాక నరకంలో ఒంటి నిండా శూలాలుండే శాల్మలీ వృక్షాన్ని కూడా గట్టిగా పట్టుకుంటావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 6,
+    "id": "06.06",
+    "text": "నిన్ను పాశములతో కట్టేసి కాలము లాక్కొనిపోతుందిరా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 7,
+    "id": "06.07",
+    "text": "నువ్వు ఎప్పుడైతే మహాత్ముడైన రాముడితో వైరం పెట్టుకున్నావో, ఆనాడే నీ జీవితంలో సుఖం అనేది పోయింది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 8,
+    "id": "06.08",
+    "text": "నువ్వు మరణించడం తధ్యం\" అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 1,
+    "id": "07.01",
+    "text": "సీతమ్మ చెప్పిన మాటలని ఆ రావణుడు విని, గాలికి వదిలేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 2,
+    "id": "07.02",
+    "text": "తరువాత వారు సముద్రాన్ని దాటి, మయుడు మాయతో నిర్మించిన గంధర్వ నగరంలా ఉండే లంకా పట్టణాన్ని చేరి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 3,
+    "id": "07.03",
+    "text": "తన అంతఃపురం దగ్గర దిగాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 1,
+    "id": "08.01",
+    "text": "అబ్రవీత్ చ దశగ్రీవః పిశాచీః ఘోర దర్శనాః | యథా న ఏనాం పుమాన్ స్త్రీ వా సీతాం పశ్యతి అసమ్మతః ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 1,
+    "id": "09.01",
+    "text": "తరువాత భయంకరమైన ముఖాలు ఉన్నటువంటి పిశాచ స్త్రీలని పిలిచి \"ఈ సీత అంతఃపురంలో ఉంటుంది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "నా అనుమతి లేకుండా ఏ స్త్రీ కాని, పురుషుడు కాని సీతని చూడడానికి వీలులేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 3,
+    "id": "09.03",
+    "text": "నేను మిమ్మల్ని ఎవన్నా రత్నాలు కాని, ఆభరణములు కాని, వస్త్రములు కాని తీసుకురండి అంటే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 4,
+    "id": "09.04",
+    "text": "వేరొకరి అనుమతి లేకుండా నాకు తెచ్చి ఎలా ఇస్తారో, అలాగే ఈ సీత మణులు కాని, మాణిక్యములు కాని, ఆభరణములు కాని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 5,
+    "id": "09.05",
+    "text": "వస్త్రములు కాని అడిగితే, ఎవరి అనుమతి అవసరం లేకుండా వెంటనే తీసుకొని వచ్చి ఇవ్వండి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 6,
+    "id": "09.06",
+    "text": "ఈ సీతతో ఎవరూ మాట్లాడకూడదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 7,
+    "id": "09.07",
+    "text": "ఒకవేళ ఎవరన్నా మాట్లాడుతున్నప్పుడు తెలిసి కాని, తెలియక కాని సీత యొక్క మనస్సు నొచ్చుకుందా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 8,
+    "id": "09.08",
+    "text": "ఇక వారి జీవితము అక్కడితో సమాప్తము\" అని వాళ్ళతో చెప్పి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "తాను చేసిన ఈ పనికి చాలా ఆనందపడినవాడై అంతఃపురం నుండి బయటకివెళ్ళి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "నరమాంసాన్ని తినడానికి అలవాటు పడిన కొంతమంది రాక్షసులని పిలిచి \"నేను చెప్పే మాటలని జాగ్రత్తగా వినండి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 3,
+    "id": "10.03",
+    "text": "ఒకప్పుడు జనస్థానంలో ఖర దూషణుల నాయకత్వంలో 14,000 మంది రాక్షసులు ఉండేవారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 4,
+    "id": "10.04",
+    "text": "ఇప్పుడు ఆ రాక్షసులందరూ రాముడి చేతిలో నిహతులయిపోయారు, ఆ జనస్థానం ఖాళీ అయిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 5,
+    "id": "10.05",
+    "text": "అప్పటినుంచీ నా కడుపు ఉడికిపోతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 6,
+    "id": "10.06",
+    "text": "ఆ రాముడిని చంపేవరకు నాకు నిద్ర పట్టదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 7,
+    "id": "10.07",
+    "text": "అందుకని మీరు ఉత్తరక్షణం బయలుదేరి అక్కడికి వెళ్ళండి, పరమ ధైర్యంగా ఉండండి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 8,
+    "id": "10.08",
+    "text": "అక్కడ ఏమి జరిగినా వెంటనే నాకు చెప్పండి\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 9,
+    "id": "10.09",
+    "text": "రావణుడి ఆజ్ఞ ప్రకారం ఆ రాక్షసులు జనస్థానానికి బయలుదేరారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 10,
+    "id": "10.10",
+    "text": "అప్పుడు రావణుడు అక్కడినుండి బయలుదేరి అంతఃపురానికి వచ్చి, సీతని తెచ్చానని మనసులో చాలా ఆనందపడ్డాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "తర్వాత చూద్దాం — లంకలో సీతమ్మ పరిస్థితి ఏమిటో.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "scene": 1,
+    "part": 1,
+    "id": "01.01",
+    "text": "గత భాగం చివర్లో వశిష్ఠుడు భరతుడిని తీసుకురావడానికి వేగవంతమైన దూతలని పంపమని ఆదేశించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 1,
+    "part": 2,
+    "id": "01.02",
+    "text": "వారి ప్రయాణం ఇక్కడ మొదలవుతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 1,
+    "id": "02.01",
+    "text": "తరువాత వశిష్ఠుడు సిద్ధార్థుడు, జయంతుడు, విజయుడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 2,
+    "id": "02.02",
+    "text": "అశోకుడు అనే నలుగురు దూతలని సిద్ధం చేసి కైకేయ రాజ్యానికి కైకేయ రాజుకి విశేషమైన ధనాన్ని బహుమతిగా ఇవ్వమన్నాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 3,
+    "id": "02.03",
+    "text": "కాని అక్కడ మీరు రాముడు అరణ్యాలకి వెళ్లినట్టు కాని, దశరథ మహారాజు మరణించినట్టు కాని ఎవరికీ చెప్పవద్దు అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 4,
+    "id": "02.04",
+    "text": "భరతుడిని నేను కుశలం అడిగానని చెప్పి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 5,
+    "id": "02.05",
+    "text": "ఒక్క క్షణం ఆలస్యం కాకుండా అయోధ్యా నగరాన్ని చేరుకోవాలని నేను ఆజ్ఞాపించానని చెప్పి తీసుకురండి అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 1,
+    "id": "03.01",
+    "text": "దూతలు మార్గమధ్యంలో తినడానికి కావలసిన ఆహార సంభారములని సమకూర్చుకొని అడ్డదారిలో బయలుదేరారు, వారు రాజభక్తి కలిగిన వారు కనుక,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 2,
+    "id": "03.02",
+    "text": "వెళ్ళే దారిలో కంటికి తృప్తినిచ్చే విషయాలు కనిపించినా ఆగకుండా వెళ్ళారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 1,
+    "id": "04.01",
+    "text": "అలా వారు అయోధ్య నుండి పడమటికి బయలుదేరి అపరతాలము అనే పర్వతాన్ని దాటి, మాలినీ నది తీరం గుండా ప్రయాణం చేసి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 2,
+    "id": "04.02",
+    "text": "ప్రలంబ పర్వతానికి ఉత్తరం వైపు తిరిగి, అక్కడినుండి పశ్చిమాభిముఖంగా ప్రయాణం చేసి, హస్తిన నగరాన్ని సమీపించి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 3,
+    "id": "04.03",
+    "text": "అక్కడ ప్రవహిస్తున్న గంగా నదిని దాటి, మళ్ళీ పశ్చిమాభిముఖంగా తిరిగి, అక్కడినుండి కురు దేశంలో ఉండేటటువంటి జాంగలం అనే గ్రామంలోకి వెళ్ళి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 4,
+    "id": "04.04",
+    "text": "అక్కడినుండి రాజ్యాన్ని చేరి, శరదండము అనే నదిని దాటి, పశ్చిమాభిముఖంగా ప్రయాణం చేసి, నికూలవృక్షము అనే మహా వృక్షాన్ని చేరి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 5,
+    "id": "04.05",
+    "text": "అక్కడినుండి కులింగ పట్టణం చేరుకొని, అక్కడినుండి అభికాలము అనే గ్రామాన్ని చేరుకొని, తరువాత ఇక్షుమతి నదిని దాటి, బాహ్లిక దేశాన్ని చేరుకొని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 6,
+    "id": "04.06",
+    "text": "దాని మధ్యలోనుండి బయలుదేరి సుదామము అనే విష్ణుపదాన్ని చేరుకొని, అక్కడినుండి విపాశా నదిని దాటి, శాంవృక్షము అనే గొప్ప ప్రాంతాన్ని చేరుకొని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 7,
+    "id": "04.07",
+    "text": "అక్కడినుండి బయలుదేరి రాత్రికి గిరివ్రజాన్ని (కైకేయ రాజ్యానికి రాజధాని) చేరుకున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 1,
+    "id": "05.01",
+    "text": "తెల్లవారిన పిదప భరతుడి దర్శనం కోసం లోపలికి ప్రవేశించారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 1,
+    "id": "06.01",
+    "text": "అదే రోజు తెల్లవారుతుండగా భరతుడికి పీడకల వచ్చింది, తెల్లవారేసరికి ఆయన మనస్సులో స్వస్థత లేదు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 2,
+    "id": "06.02",
+    "text": "అందువలన ఆయన రంగు తగ్గిపోయి తేజోవిహీనంగా ఉన్నాడు, ఆయన మిత్రులు ఇది గమనించి అడుగగా, భరతుడు ఇలా చెప్పాడు —",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 1,
+    "id": "07.01",
+    "text": "\"నాకు తెల్లవారుజామున ఒక కల వచ్చింది, కలలో మా తండ్రిగారైన దశరథ మహారాజు ఒక పర్వతం మీద నిలబడ్డారు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 2,
+    "id": "07.02",
+    "text": "ఆయన అక్కడినుండి కిందపడిపోయారు, పడిపోతున్నప్పుడు తిన్నగా వెళ్ళి పేడతో ఉన్న ఒక పెద్ద బిలంలో పడిపోయారు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 3,
+    "id": "07.03",
+    "text": "అందులో తేలుతూ నూనెని చేతులతో పుచ్చుకొని తాగుతున్నారు, తరువాత ఆ నూనెని ఒంటి నిండా పూసుకున్నారు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 4,
+    "id": "07.04",
+    "text": "తరువాత ఆయన తన తలని కిందకి వాల్చేసి ఉండగా నేను ఒక ఆశ్చర్య విషయాన్ని స్వప్నంలో చూశాను —",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 5,
+    "id": "07.05",
+    "text": "సముద్రం అంతా ఎండిపోయి భూమి అయిపోయింది, ఆకాశంలో ఉన్న చంద్రుడు భూమి మీద పడిపోయాడు, ఈ భూమండలం అంతా బద్దలయిపోయింది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 6,
+    "id": "07.06",
+    "text": "అనుకోకుండా చీకటి ఏర్పడింది, రాజు ఎక్కే భద్రగజానికి ఉండే దంతం విరిగిపోయింది, హోమంలో ఉన్న అగ్ని ఒక్కసారి ఆగిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 7,
+    "id": "07.07",
+    "text": "తోపాటు మా తండ్రిగారు ఒక ఇనుప పీట మీద కూర్చుని, ఎర్రటి వస్త్రాన్ని కట్టుకొని, ఎర్ర చందనం రాసుకొని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 8,
+    "id": "07.08",
+    "text": "ఎర్రటి మాలలు వేసుకొని పూజ చేసుకుంటున్నారు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 9,
+    "id": "07.09",
+    "text": "అటువంటి సమయంలో ఎక్కడినుంచో నల్లటి ఎర్రటి రంగు వస్త్రములు కట్టుకున్న స్త్రీలు వచ్చి వికృతంగా నవ్వుతున్నారు\" అని చెప్పాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 1,
+    "id": "08.01",
+    "text": "\"మా నాన్నగారు గాడిదలు పూన్చిన రథం ఎక్కారు, అప్పుడు ఈ స్త్రీలు ఆయన మెడలో పాశాలు వేసి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 2,
+    "id": "08.02",
+    "text": "ఆయనని ఆ రథాన్ని దక్షిణ దిక్కుకి ఈడ్చుకుంటూ పోతున్నారు, ఇలా తెల్లవారుజామున ఎవరు గాడిదల రథం మీద కూర్చున్నట్టు కనపడ్డాడో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 3,
+    "id": "08.03",
+    "text": "వాడు చితి మీద పడుకొని ఉండగా, ఆ శరీరం కాలిపోతున్నటువంటి ధూమాన్ని కొద్దిరోజులలోనే చూడవలసి వస్తుంది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 4,
+    "id": "08.04",
+    "text": "అందుచేత నాకు నా తండ్రిగారి మీద బెంగ పట్టుకుంది, పాటుగా నా మీద నాకు ఎందుకో అసహ్యం వేస్తుంది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 5,
+    "id": "08.05",
+    "text": "ఇవన్నీ చూస్తుంటే ఏదో ప్రమాదం జరిగినదని నాకు అనిపిస్తుంది\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 1,
+    "id": "09.01",
+    "text": "ఇంతలో అయోధ్య నుండి వచ్చిన దూతలు లోపలికి వచ్చారు, వాళ్ళని చూసిన భరతుడు —",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "ఆర్యా చ ధర్మనిరతా ధర్మజ్ఞా ధర్మదర్శినీ | అరోగా చాపి కౌసల్యా మాతా రామస్య ధీమతః ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "\"సర్వకాలముల యందు ధర్మాన్ని మాత్రమే అనుష్ఠానము చేస్తూ, ధర్మం వంక చూస్తూ,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "ధర్మం తెలిసినటువంటి రామ మాత అయిన కౌసల్య ఏ ప్రమాదం లేకుండా ఆరోగ్యంగా ఉందా, శత్రుఘ్నుడికి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 3,
+    "id": "11.03",
+    "text": "లక్ష్మణుడికి తల్లి అయిన సుమిత్ర ఏ రోగం లేకుండా ఆరోగ్యంగా ఉందా\" అని అడిగాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "ఆత్మకామా సదా చణ్డీ క్రోధనా ప్రాజ్ఞమానినీ | అరోగా చాపి కైకేయీ మాతా మే కిముదాచ హ ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "\"మా అమ్మ కైక ఎప్పుడూ కోరికలతో తిరుగుతూ ఉంటుంది, చాలా కోపంతో ఉంటుంది, అటువంటి కైకేయకి ఎటువంటి అనారోగ్యం లేదు కదా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "దశరథుడు, రామలక్ష్మణులు కుశలంగా ఉన్నారా\" అని అడిగాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "అప్పుడా దూతలు \"నువ్వు ఎవరెవరు కుశలంగా ఉండాలని కోరుకున్నావో వారంతా కుశలంగా ఉన్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "నిన్ను తొందరలో లక్ష్మి వరించబోతోంది, నువ్వు ఉత్తరక్షణం బయలుదేరి రావాలని వశిష్ఠుడు ఆదేశించాడని\" చెప్పారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "అప్పుడు భరతుడు తన తాతగారైన కైకేయ రాజు (ఆయన అసలు పేరు ఆశ్వపతి) దగ్గరికి వెళ్ళి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "తన తిరుగు ప్రయాణానికి అనుమతి తీసుకున్నాడు, అప్పుడా కైకేయ భరతుడికి ఏనుగులు, మృగ చర్మాలు, 2000 బంగారు హారాలు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 3,
+    "id": "15.03",
+    "text": "1600 గుర్రాలు బహూకరించాడు, మేనమామైన యుధాజిత్, ఐరావతం యొక్క వంశంలో జన్మించిన ఏనుగుల్ని, కంచర గాడిదలని, వేట కుక్కలని బహూకరించాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 4,
+    "id": "15.04",
+    "text": "తన బహుమానలన్నిటిని వెనుక పరివారానికి అప్పగించి తాను మాత్రం తొందరగా వెళ్ళాలని కొంతమందితో కలిసి అయోధ్యకి బయలుదేరాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 5,
+    "id": "15.05",
+    "text": "భరతుడు దూతలు అసలు విషయం చెప్పడం లేదు కనుక, ఆయన వారు వచ్చిన మార్గంలో వెళ్ళలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "తర్వాత చూద్దాం — భరతుడు అయోధ్యకి తిరిగి వచ్చినప్పుడు ఏమి జరుగుతుందో.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  }
+]

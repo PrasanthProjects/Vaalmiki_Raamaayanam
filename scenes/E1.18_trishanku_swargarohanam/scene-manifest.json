@@ -1,0 +1,232 @@
+[
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 1,
+    "part_id": "1",
+    "visual_description": "Recap, continuing from E1.17's closing line. (Location register: Vishwamitra's ascetic site)",
+    "story_text": "గత భాగం చివర్లో విశ్వామిత్రుడు రాజర్షి అయ్యారు, కాని బ్రహ్మర్షి కావాలని ఆయన కోరిక. అదే సమయంలో ఇంకో వింత కథ మొదలైంది.",
+    "source_notes": "Bridge line.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 2,
+    "part_id": "2",
+    "visual_description": "New thread begins: [King Trishanku — a one-scene ordinary-king register, richly dressed but visibly obsessed with his own physical form] gazing at his own reflection or body with unusual attachment. (Location register: Ayodhya-adjacent kingdom, present-tense within the flashback frame)",
+    "story_text": "\"అదే కాలములో ఇక్ష్వాకు వంశంలో త్రిశంకు అనే రాజు పరిపాలన చేసేవాడు. ఆయనకి శరీరం మీద ఉన్న వ్యామోహం వలన స్వర్గానికి శరీరముతో వెళ్ళాలన్న కోరిక పుట్టింది.\"",
+    "source_notes": "Trishanku's specific desire — to reach heaven WITHOUT dying first, out of attachment to his physical body — is the entire premise; establish this attachment visually (admiring his own reflection, his jewelry, his physical vigor) before he voices the request.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 3,
+    "part_id": "3",
+    "visual_description": "[Trishanku Visual Lock] approaching [Vashishtha Visual Lock] with the request; Vashishtha declining calmly, explaining the actual cosmic order. (Location register: Vashishtha's (rebuilt) ashram)",
+    "story_text": "\"వెంటనే కులగురువైన వశిష్ఠుడికి తన కోరిక చెప్పాడు. 'నువ్వు ఎంత గొప్ప రాజువైనా కాని, ఎంత గొప్ప యాగాలన్నా చెయ్యి, కాని శరీరముతో స్వర్గానికి వెళ్ళడమనేది ధర్మశాస్త్రంలో లేదు, ఎవరి శరీరమైనా కొంత కాలానికి పడిపోవాల్సిందే, అది పడిపోయిన తరవాతే స్వర్గలోక ప్రవేశం, కావున శరీరముతో స్వర్గానికి వెళ్ళడం అనేది జరగదు' అన్నాడు వశిష్ఠుడు.\"",
+    "source_notes": "Note: this is presumably the REBUILT ashram, since Vishwamitra destroyed the previous one in E1.16 — a small continuity detail worth keeping consistent if both locations are shown near each other in the wider series.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 4,
+    "part_id": "4",
+    "visual_description": "[Trishanku Visual Lock] not accepting the refusal, going over Vashishtha's head to his hundred sons instead. (Location register: Vashishtha's ashram)",
+    "story_text": "\"అప్పుడా త్రిశంకుడు వశిష్ఠుడి నూరుగురు కుమారుల దగ్గరికి వెళ్ళి జరిగినది చెప్పాడు.\"",
+    "source_notes": "Note: these are Vashishtha's OTHER hundred sons (not the ones destroyed in E1.16 — those belonged to Vishwamitra) — a potential point of confusion given how many \"hundred sons destroyed/refusing\" beats this arc contains; flag for the manual verification pass to keep the two groups distinct in narration.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 5,
+    "part_id": "5",
+    "visual_description": "[Vashishtha's hundred sons, as a collective group] refusing on the same grounds as their father — firm, matter-of-fact, not hostile. (Location register: Vashishtha's ashram)",
+    "story_text": "\"'మా తండ్రిగారు కుదరదన్నారు, ఆయనకి తెలుసు, అయినా స్వర్గానికి శరీరముతో ఎవరూ వెళ్ళలేరు, అది జరిగేపని కాదన్నారు' అన్నారు ఆ నూరుగురు కుమారులు.\"",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 6,
+    "part_id": "6",
+    "visual_description": "[Trishanku Visual Lock] making a fatal, disrespectful declaration — he'll simply find another guru who'll say yes. (Location register: Vashishtha's ashram, tension rising)",
+    "story_text": "\"'అయితే నేను వేరొక గురువుని వెతుక్కుంటాను' అన్నాడు ఆ త్రిశంకుడు.\"",
+    "source_notes": "This single line is Trishanku's actual transgression — not the original wish (which was merely refused, not punished), but the disrespect of treating his guru's teaching as something to shop around past; make this distinction clear in the pacing, since the curse that follows is specifically for THIS, not for wanting to go to heaven.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 7,
+    "part_id": "7",
+    "visual_description": "[Vashishtha's hundred sons] reacting with real anger now, delivering the curse together. (Location register: Vashishtha's ashram)",
+    "story_text": "\"'నువ్వు గురువు మాట వినలేదు, ఆయన పుత్రులమైన మా మాట వినలేదు, ఇప్పుడు వేరొక గురువుని వెతుకుతాను అంటున్నావు, నీకు ఇలాంటి దుర్బుద్ధి పుట్టింది కనుక నువ్వు చండాలుడివి అవుతావని' శపించారు.\"",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 8,
+    "part_id": "8",
+    "visual_description": "The curse taking immediate, visible effect the next morning — [Trishanku Visual Lock] waking to find his complexion darkened, his gold ornaments turned to iron, his hair and eyes reddened — a striking, unsettling transformation. (Location register: Trishanku's palace, morning)",
+    "story_text": "\"మరుసటి రోజు త్రిశంకుడు నిద్రలేవగానే ఆయన ముఖంలోని కాంతి పోయి నల్లగా అయ్యాడు, ఆయన వేసుకొన్న బంగారు ఆభరణాలన్ని ఇనుము ఆభరణాలయ్యాయి, జుట్టు, కళ్ళు ఎర్రగా ఉన్నాయి.\"",
+    "source_notes": "The transformation should read as a real physical shock, not a costume swap — gold visibly corroding to iron on his own body is a vivid, specific detail worth its own dedicated shot.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 9,
+    "part_id": "9",
+    "visual_description": "[Palace attendants, ministers Visual Lock — generic court register] fleeing in horror at the sight of him; [Trishanku Visual Lock] wandering, rejected, eventually arriving at Vishwamitra's tapasya site as a last resort. (Location register: Palace → wilderness → Vishwamitra's site)",
+    "story_text": "\"ఆయనని చూసిన మందిరంలోని వారు, ఇతర మంత్రులు అందరూ పారిపోయారు. ఆ రూపంతో అలా తిరుగుతూ చివరికి విశ్వామిత్రుడిని ఆశ్రయించాడు.\"",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 10,
+    "part_id": "10",
+    "visual_description": "[Vishwamitra Visual Lock] seeing an opportunity here — not purely out of compassion, but also to prove a point against Vashishtha specifically. (Location register: Vishwamitra's site)",
+    "story_text": "\"వశిష్ఠుడిని ఎలాగు అస్త్రాలతో ఓడించలేకపోయాను, వశిష్ఠుడు చెయ్యలేనన్నది విశ్వామిత్రుడు చేశాడు అని లోకము అనుకోవాలని, కనుక ఆ త్రిశంకుడి కోరిక తీరుస్తానన్నాడు విశ్వామిత్రుడు.\"",
+    "source_notes": "Keep Vishwamitra's motive here honest and slightly self-interested, exactly as the text states it — this isn't pure altruism, it's partly a continuation of his rivalry with Vashishtha from the previous episodes; a consistent character thread across this whole arc.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 11,
+    "part_id": "11",
+    "visual_description": "[Vishwamitra Visual Lock] mobilizing a huge organizing effort — summoning students and sons across the world to gather sages and Brahmins for an unprecedented yagna. (Location register: Vishwamitra's site, mobilization montage)",
+    "story_text": "\"అప్పుడాయన తన శిష్యుల్ని, కొడుకుల్ని పిలిచి 'మీరు ఈ బ్రహ్మాండం అంతా తిరిగండి, వశిష్ఠుడు చెయ్యలేని యాగము విశ్వామిత్రుడు చేస్తున్నాడు, త్రిశంకుడిని సశరీరంగా స్వర్గానికి పంపిస్తున్నాడు అని చెప్పి బ్రాహ్మణుల్ని, ఋషుల్ని తీసుకురండి. ఎవరన్నా యాగము చెయ్యలేరు, మేము రాము అంటే, వివరాలు తీసుకోండి' అని చెప్పాడు. విశ్వామిత్రుడికి భయపడి అందరూ వచ్చారు.\"",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 12,
+    "part_id": "12",
+    "visual_description": "Two notable refusals: [Vashishtha's sons, as a collective — same group from earlier in this episode] refusing outright; [Mahodaya — one-scene Brahmin character, dignified but blunt] refusing with a sharply reasoned objection. (Location register: Vishwamitra's site, gathering yagna)",
+    "story_text": "\"తరువాత ఆయన కొడుకులు వచ్చి వశిష్ఠ మహర్షి కొడుకులు ఈ యాగానికి రామన్నారు, అలాగే మహోదయుడనే బ్రాహ్మణుడు కూడా రానన్నాడు, కాని ఆయన ఒక మాటన్నాడు, అది ఏమిటంటే — 'యాగము చేస్తున్నవాడు ఒక క్షత్రియుడు, యాగము చేయిస్తున్నవాడు ఒక చండాలుడు, ఇలాంటప్పుడు దేవతలు హవిస్సులని ఎలా తీసుకుంటారు, అసలు సశరీరంగా స్వర్గానికి పంపవచ్చని వేదంలో ఎక్కడా లేదు, అందుకని రానన్నాడు' అని చెప్పారు.\"",
+    "source_notes": "Mahodaya's objection is genuinely well-reasoned (a chandala-turned-yajamana with a Kshatriya priest is an unprecedented ritual irregularity, and the whole premise has no scriptural basis) — he isn't being petty, he's pointing out real problems; play his refusal with intellectual seriousness, not spite.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 13,
+    "part_id": "13",
+    "visual_description": "[Vishwamitra Visual Lock] reacting with severe, disproportionate fury — cursing an entire lineage across hundreds of future lifetimes, a punishment far beyond the offense. (Location register: Vishwamitra's site, harsh escalation)",
+    "story_text": "\"విశ్వామిత్రుడికి ఎక్కడలేని కోపం వచ్చి, వశిష్ఠ మహర్షి కొడుకులని, మహోదయుడిని, 'మీరు భస్మరాశులై పడిపోయి నరకానికి వెళతారు, తరవాత 700 జన్మలపాటు శవ మాంసం తింటూ బతుకుతారు, ఆ తరవాత ముష్టికులన్న పేరుతో పుట్టి, కొన్ని జన్మల పాటు కుక్క మాంసం తింటూ బతుకుతారు' అని శపించాడు. మహోదయుడు సర్వలోకాల జనాలచేత ద్వేషింపబడి నిషాదుడై బతుకుతాడని శపించాడు.\"",
+    "source_notes": "This curse is deliberately excessive — the text itself is showing Vishwamitra's temper as still a real flaw even after everything he's been through; don't soften this into a \"justified\" punishment, it's meant to read as an overreaction consistent with his established character arc.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 14,
+    "part_id": "14",
+    "visual_description": "The yagna proceeding despite the ill omens — but the fire receiving no divine response at all, a conspicuous, pointed silence from the heavens. (Location register: Vishwamitra's site, yagnashala)",
+    "story_text": "\"అందరూ కలిసి యాగము మొదలుపెట్టారు, యాగాగ్నిలో హవిస్సులు తీసుకోవడానికి ఏ దేవతా రాలేదు.\"",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 15,
+    "part_id": "15",
+    "visual_description": "[Vishwamitra Visual Lock], furious at being ignored by the devas themselves, using his own tapas-power to physically hurl Trishanku skyward toward heaven directly. (Location register: Vishwamitra's site → sky)",
+    "story_text": "\"ఎవరూ రాకపోయేసరికి విశ్వామిత్రుడికి ఆగ్రహం వచ్చి తన తపఃశక్తితో త్రిశంకుడిని పైకి పంపాడు. శంకుడు ఆకాశమార్గంలో ప్రయాణిస్తూ స్వర్గలోకము వైపు దూసుకుపోతున్నాడు.\"",
+    "source_notes": "A genuinely surreal, striking image — a full-grown king, cursed and iron-ornamented, physically flying skyward by force of another man's willpower alone; give this its own dedicated wide shot.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 16,
+    "part_id": "16",
+    "visual_description": "On-screen verse text; [Indra Visual Lock] intercepting him at the threshold of heaven itself, rejecting him outright. (Location register: Heaven's threshold)",
+    "story_text": "\"ఈ విషయం దేవేంద్రుడికి తెలిసి ఆయన — త్రిశంకో గచ్ఛ భూయః త్వం న అసి స్వర్గ కృత ఆలయః ॥",
+    "source_notes": "🔴 VERSE — Indra's rejection: \"Trishanku, go back down, you have no place made for you in heaven.\"",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 17,
+    "part_id": "17",
+    "visual_description": "[Indra Visual Lock] delivering the rejection directly and forcefully, then physically reversing Trishanku's ascent — flipping him upside down and hurling him back toward earth. (Location register: Heaven's threshold, sudden reversal)",
+    "story_text": "\"'శంకా, నువ్వు గురు శాపానికి గురయ్యావు, నీకు స్వర్గలోక ప్రవేశం లేదు' అని, తలక్రిందులుగా కిందకిపో అన్నాడు. త్రిశంకుడు అలా తలక్రిందులుగా భూమి మీదకి తోసేయబడ్డాడు.\"",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 18,
+    "part_id": "18",
+    "visual_description": "[Trishanku Visual Lock], falling helplessly head-first back toward earth, crying out to the one person who sent him up in the first place. (Location register: Sky, mid-fall)",
+    "story_text": "\"కిందకి పడిపోతూ ఆయన విశ్వామిత్రుడిని ప్రార్థించగా,\"",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 19,
+    "part_id": "19",
+    "visual_description": "[Vishwamitra Visual Lock], refusing to accept this reversal — using his remaining tapas-power to stop Trishanku mid-fall and create an entirely new constellation-realm to hold him, a genuinely audacious act of cosmic-scale defiance. (Location register: Sky → a new region of stars forming)",
+    "story_text": "\"విశ్వామిత్రుడు మిగిలిన తపఃశక్తితో దక్షిణ దిక్కున నక్షత్ర మండలాన్ని సృష్టించాడు, సప్తర్షులని సృష్టించాడు, కాని దేవతలు అప్పటికి కూడా రాకపోయేసరికి, దేవతలని కూడా సృష్టిద్దామని అనుకుంటుండగా దేవతలందరూ వచ్చారు.\"",
+    "source_notes": "This is arguably the single most audacious act in Vishwamitra's whole arc — creating a rival constellation and preparing to create rival gods rather than accept defeat; give this cosmic-scale visual its full due (a new star-field blooming into existence).",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 20,
+    "part_id": "20",
+    "visual_description": "[Generic devatalu Visual Lock] finally arriving, urgently placating him — not opposing him outright, but negotiating a compromise. (Location register: Sky, the new star-realm)",
+    "story_text": "\"'మహానుభావ! శాంతించు, ఎంత తపఃశక్తి ఉంటే మాత్రం ఇలా వేరే స్వర్గాన్ని సృష్టిస్తావు, మీకు శాస్త్రం తెలుసు, సశరీరంగా ఎవరినీ స్వర్గానికి పంపలేము, మీలాంటివారు చెయ్యవలసిన పని కాదు' అన్నారు.\"",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 21,
+    "part_id": "21",
+    "visual_description": "The final compromise: Trishanku will remain, permanently, suspended upside-down in this newly-created star-realm — neither in heaven nor on earth, a strange, unique fate. (Location register: Sky, resolution)",
+    "story_text": "\"'మీరు మీ తపఃశక్తిని ధారపోసి సృష్టించిన ఆ నక్షత్ర మండలం జ్యోతిష్య చక్రానికి అవతల ఉంటుంది, అందులో ఈ త్రిశంకుడు తిరగబడి ఉంటాడు' అని వరం ఇచ్చారు దేవతలు.\"",
+    "source_notes": "This is presented in the tradition as the origin of a real southern constellation (often associated with the Southern Cross/Trishanku's realm in popular retellings) — worth a brief on-screen note if useful, though the source text itself doesn't name it explicitly here, so don't invent naming beyond what's given.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 22,
+    "part_id": "22",
+    "visual_description": "[Vishwamitra Visual Lock] accepting the compromise, but privately unsatisfied — still no closer to real peace of mind; departing for yet another location to try again. (Location register: Sky → new location)",
+    "story_text": "\"శాంతించిన విశ్వామిత్రుడు సరే అన్నాడు, తనకి ఇక్కడ మనస్సాంతి లేదని, ప్రశాంతంగా తపస్సు చేసుకోవడానికి ఆయన పశ్చిమ దిక్కుకి వెళ్ళారు. పశ్చిమ దిక్కున విశ్వామిత్రుడు మహోగ్రమైన తపస్సు చెయ్యడం మొదలుపెట్టాడు.\"",
+    "source_notes": "Close the episode on this note of restless dissatisfaction — the Trishanku story resolves on its own terms, but Vishwamitra's larger arc (toward Brahmarshi-hood) is still unfinished, setting up the next story.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.18_trishanku_swargarohanam",
+    "scene": 23,
+    "part_id": "23",
+    "visual_description": "End card.",
+    "story_text": "తర్వాత చూద్దాం — అంబరీషుడి యాగం, మరియు శునఃశేపుడి ప్రాణాలు కాపాడిన విశ్వామిత్రుడి కథ.",
+    "source_notes": "Bridge line.",
+    "image": null,
+    "status": "image_pending"
+  }
+]

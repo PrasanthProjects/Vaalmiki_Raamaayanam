@@ -1,0 +1,143 @@
+# E2.42 — భారద్వాజుని సూచన & చిత్రకూటంలో సైన్య ధ్వని (Bharadwaja's Guidance; the Sound of the Army at Chitrakuta) — Scenes
+
+[Episode script](../../2%20-%20Ayodhya%20Khaanda/E2.42_bharadwajuni_suchana_chitrakutam_dhwani.md)
+
+[Narration parts](NARRATION_PARTS.md)
+
+Still-image scene sheet. Source narration is included as story context only. No voice or video generation.
+
+Keep existing descriptive image names. For new images use `scene-NN-short-description.png` inside the matching episode folder.
+
+## 1 — Scene 01
+
+**Visual:** Recap, continuing directly from E2.41's ending — the divine feast and the soldiers' joy at Bharadwaja's ashram.
+
+**Story:** గత భాగం చివర్లో భారద్వాజ ఆశ్రమంలో సైనికులు దివ్యమైన ఆతిథ్యాన్ని అనుభవించారు. మరునాడు ఉదయం జరిగినది ఇక్కడ చూద్దాం.
+
+**Image:** Pending creation.
+
+**Source note:** Bridge line.
+
+## 2 — Scene 02
+
+**Visual:** Dawn: the palaces, dancers, rivers of payasam and all the conjured abundance gone as though they had never been — only the plain ashram and the real forest remain; [Bharata, Kausalya, Sumitra, Kaikeyi Visual Locks] coming to prostrate at [Bharadwaja Visual Lock]'s feet.
+
+**Story:** మరునాడు తెల్లవారే సరికి అన్నీ అదృశ్యమయిపోయాయి. తరువాత భరతుడు, కౌసల్య, సుమిత్ర, కైకేయ వచ్చి భారద్వాజ మహర్షి పాదాలకి నమస్కారం చేశారు.
+
+**Image:** Pending creation.
+
+**Source note:** Render the disappearance quietly — the buildings and food simply are not there in the morning light, no dramatic vanishing effect. This is the first time all three queen-mothers and Bharata appear together before a sage in this journey.
+
+## 3 — Scene 03
+
+**Visual:** [Bharadwaja Visual Lock] calling Bharata close and asking him to name the three women.
+
+**Story:** అప్పుడు భారద్వాజుడు భరతుడిని దగ్గరికి పిలిచి "ఈ ముగ్గురూ మీ అమ్మలు కదా, ఎవరు ఎవరో నాకు చెప్తావా" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 4 — Scene 04
+
+**Visual:** [Bharata Visual Lock] introducing each in turn with unflinching honesty: the lady holding Sumitra's hand, whose son walks like a lion — Kausalya, who bore Rama as Aditi bore the great Dhata; Sumitra, mother of the valiant Lakshmana and Shatrughna; and Kaikeyi — the cause of Rama's exile, of his father's death, of ruin, ever full of wants and anger — his mother. [Kaikeyi Visual Lock] standing with head bowed.
+
+**Story:** అప్పుడు భరతుడు "సుమిత్ర చెయ్యి పట్టుకొని ఉన్న ఈ అమ్మ, సింహంలా నడవగలిగినవాడు, అదితి ధాతని కన్నట్టు రామచంద్రుడిని కన్నతల్లి, మా అమ్మ కౌసల్య. వీరులు, పరాక్రమవంతులైన లక్ష్మణ శత్రుఘ్నులను కన్నతల్లి ఈ సుమిత్ర. రాముడు అరణ్యవాసానికి వెళ్ళడానికి కారణమైనది, కట్టుకున్న భర్త మరణించడానికి కారణమైన దుష్టచరిత్ర కలిగినటువంటిది, ఎప్పుడూ కోరికలు కోరుతూ, క్రోధంగా ఉండేటటువంటి ఈ కైకేయ, మా తల్లి" అని అన్నాడు.
+
+**Image:** Pending creation.
+
+**Source note:** Bharata still describes Kaikeyi with blunt severity even in her presence and after the family reconciliation at Guha's camp — a consistent line from E2.32 onward: he has forgiven the fact that she is his mother, not what she did. Keep Kaikeyi silent, head lowered — no defence, no reaction beyond stillness.
+
+## 5 — Scene 05
+
+**Visual:** On-screen verse text.
+
+**Story:** న దోషేణావగన్తవ్యా కైకేయీ భరత త్వయా | రామప్రవ్రాజనం హ్యేతత్ సుఖోదర్కం భవిష్యతి ॥
+
+**Image:** Pending creation.
+
+**Source note:** 🔴 VERSE — **flagged for extra scrutiny** (OCR-garbled): Bharadwaja's reply: "Bharata, you must not judge Kaikeyi as at fault; this exile of Rama will end in happiness."
+
+## 6 — Scene 06
+
+**Visual:** On-screen verse text.
+
+**Story:** దేవానాం దానవానాం చ ఋషీణాం భావితాత్మనామ్ | హితమేవ భవిష్యద్ధి రామప్రవ్రాజనాదిహ ॥
+
+**Image:** Pending creation.
+
+**Source note:** 🔴 VERSE — **flagged for extra scrutiny** (OCR-garbled): "For the gods, the danavas, and the sages of purified souls, Rama's exile will bring good, indeed."
+
+## 7 — Scene 07
+
+**Visual:** [Bharadwaja Visual Lock] explaining in plain speech, gently but with full authority: yes, she is the cause of Rama's exile — that is true — but unless Rama goes to the forest, protection for gods and sages will never come; it was the gods who made Kaikeyi speak as she did; therefore Bharata should never again hold a fault against Kaikeyi. [Bharata Visual Lock] agreeing at once — he will act as told — and asking where Rama is.
+
+**Story:** అప్పుడు భారద్వాజుడు "ఈవిడ రాముని యొక్క అరణ్యవాసమునకు కారణమైన మాట వాస్తవమే, కాని రాముడు అలా అరణ్యవాసానికి వెళితే తప్ప దేవతలకి, ఋషులకి రక్షణ అనేది కలగడం జరగదు, అలా రాముడు అరణ్యవాసానికి వెళ్ళేటట్టు దేవతలు కైకేయ చేత పలికించారు, అందుచేత నువ్వు ఇంక ఎన్నడూ కైక యందు దోషం పట్టకు" అన్నాడు. భారద్వాజుడి మాటలు విన్న భరతుడు "సరే, మీరు చెప్పినట్టే ప్రవర్తిస్తాను, రాముడు ఎక్కడున్నాడో మీరు మాకు సెలవియ్యండి" అన్నాడు.
+
+**Image:** Pending creation.
+
+**Source note:** This is the same theological frame the narrator offered in E2.07 (scene 7: the gods working through Kaikeyi's excessive kama-krodha and the "nine-and-five" wording). Bharadwaja, a knower of the three times, confirms it from the sage's side — a consistent, deliberate through-line; keep it without softening what she did.
+
+## 8 — Scene 08
+
+**Visual:** [Bharadwaja Visual Lock] giving precise directions: go south, then turn south-west; a narrow path will appear; lead the elephants and horses through it carefully; there, on Chitrakuta mountain beside the Mandakini river, Rama has built his ashram.
+
+**Story:** "అయితే నువ్వు ఇలా దక్షిణాభిముఖంగా వెళ్ళి నైరుతికి తిరిగితే, అక్కడ ఒక ఇరుకైనటువంటి దారి వస్తుంది, అందులోనుండి జాగ్రత్తగా ఏనుగుల్ని, గుర్రాలని నడిపించుకుంటూ వెళ్ళితే, అక్కడ చిత్రకూట పర్వతం మీద, మందాకినీ నది పక్కన రాముడు ఆశ్రమాన్ని నిర్మించుకొని ఉన్నాడు" అని భారద్వాజ మహర్షి చెప్పారు.
+
+**Image:** Pending creation.
+
+## 9 — Scene 09
+
+**Visual:** The whole procession setting out toward Chitrakuta as directed.
+
+**Story:** అందరూ భారద్వాజ మహర్షి చెప్పిన విధంగా రాముడిని చేరుకోవడానికి బయలుదేరారు.
+
+**Image:** Pending creation.
+
+## 10 — Scene 10
+
+**Visual:** Cut to the very same hour at Chitrakuta: [Rama Visual Lock, exile stage] beside the Mandakini with [Sita and Lakshmana Visual Locks], showing Sita the flowing river, bathing with her, the forest, its animals and the mountains — declaring he is so happy here he doesn't miss Ayodhya, and that fourteen years will pass in a flash.
+
+**Story:** ఈలోగా చిత్రకూట పర్వతం దగ్గర రాముడు మందాకిని నది యొక్క ప్రవాహాన్ని సీతమ్మకి చూపిస్తూ "సీతా, నువ్వు, లక్ష్మణుడు నా పక్కన ఉండగా, ఈ నదిలో స్నానం చేస్తూ, ఈ వనాలని, ఈ వనంలోని మృగాల అందాలని, ఇక్కడి పర్వతాల్ని చూస్తుంటే ఎంతో ఆనందంగా ఉంది నాకు, అయోధ్య జ్ఞాపకం రావడం లేదు, 14 సంవత్సరములు చిటికెలో గడిచిపోతాయి అనిపిస్తుంది" అన్నాడు.
+
+**Image:** Pending creation.
+
+**Source note:** A warm, deliberately peaceful contrast, intercut against Bharata's army marching toward them in grief — this is Rama at his most contented, unaware of what is approaching. Photorealistic natural river-and-forest beauty, no stylized "paradise" filter.
+
+## 11 — Scene 11
+
+**Visual:** [Lakshmana Visual Lock] roasting the meat of an animal he has hunted and serving it to Rama; Rama tasting it, praising it and asking Sita to eat too; Lakshmana watching them eat what he brought and glowing with joy at having pleased his brother and sister-in-law.
+
+**Story:** అప్పుడు లక్ష్మణుడు, తాను వేటాడి తీసుకువచ్చిన జంతువు మాంసాన్ని కాల్చి రాముడికి తినమని ఇచ్చాడు, రాముడు దాన్ని తిని "ఇది చాలా బాగుంది, సీతా నువ్వు కూడా తిను" అన్నాడు, అలా తాను తెచ్చిన మాంసాన్ని సీతారాములు భుజిస్తుండగా చూస్తున్న లక్ష్మణుడు పొంగిపోయాడు, అన్నావదినలని సంతోష పెట్టానని, వారు పొందుతున్న ఆనందాన్ని చూసి తాను ఆనందపడ్డాడు.
+
+**Image:** Pending creation.
+
+**Source note:** Consistent with the forest-life routine established in E2.23 (hunting and roasting game). Lakshmana's simple joy at serving them is the whole point — no dialogue needed.
+
+## 12 — Scene 12
+
+**Visual:** [Bharata Visual Lock] pressing ahead as fast as he can, longing for Rama; seeing smoke rise in the distance and rags tied around tree trunks — recognizing these as Lakshmana's markers so he would not lose his way carrying water from the Mandakini at night — and understanding Rama cannot be far; breaking into a run toward the ashram.
+
+**Story:** రాముడి దర్శనం చేసుకోవాలని భరతుడు వేగంగా ముందుకి వెళుతున్నాడు, అప్పుడు ఆయనకి కొంత దూరంలో పొగ కనిపించింది, అలాగే చెట్లకి గుడ్డలు కట్టి ఉన్నాయి, లక్ష్మణుడు రాత్రి పూట మందాకిని నుండి నీరు తెచ్చేటప్పుడు దారి మరిచిపోకుండా ఉండడానికి ఇలా చెట్లకి గుడ్డలు కట్టడాన్ని భరతుడు గ్రహించాడు, ఇంక రాముడు ఎంతో దూరంలో లేడని భరతుడు ఆ ఆశ్రమం వైపు వేగంగా పరుగులు తీశాడు.
+
+**Image:** Pending creation.
+
+**Source note:** The tree-rag detail is the text's own — a practical, tender piece of forest craft that lets Bharata (and the audience) read Lakshmana's care. Show the cloth strips clearly on the trees in the shot before Bharata reads them.
+
+## 13 — Scene 13
+
+**Visual:** [Rama Visual Lock] at the hermitage hearing the tramp of Bharata's elephants and horses: animals fleeing in fear in every direction; remarking that it has never been like this here; suspecting some king or king's deputy has come hunting; calling [Lakshmana Visual Lock] to go and see.
+
+**Story:** భరతుడి సైన్యంలోని ఏనుగుల, గుర్రముల పదఘట్టనలని విన్న రాముడు "ఇంతకుముందు ఎన్నడూ ఇలా లేదు, ఎక్కడ చూసినా జంతువులు భయంతో పరుగులుతీస్తున్నాయి, ఎవరో ఒక రాజో, లేక ఒక రాజ ప్రతినిధో అరణ్యానికి వేటకి వచ్చినట్టు అనుమానంగా ఉంది" అని లక్ష్మణుడిని పిలిచి, ఒకసారి పరిశీలించి రమ్మన్నాడు.
+
+**Image:** Pending creation.
+
+**Source note:** Rama's first reaction is calm curiosity, not alarm — an important contrast to Lakshmana's furious misreading in the next episode. Show the frightened forest animals bolting, real animals with real movement.
+
+## 14 — Scene 14
+
+**Visual:** End card.
+
+**Story:** తర్వాత చూద్దాం — లక్ష్మణుడు ఆ సైన్యాన్ని చూసి ఏమనుకున్నాడో.
+
+**Image:** Pending creation.
+
+**Source note:** Bridge line.

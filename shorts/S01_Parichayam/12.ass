@@ -1,0 +1,18 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,Nirmala UI,67,&H009EDAF2,&H00FFFFFF,&H00201510,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,8,70,100,1140,1
+Style: Caption,Nirmala UI,47,&H00FFFFFF,&H00FFFFFF,&H00201510,&H90000000,0,0,0,0,100,100,0,0,1,1,1,8,65,95,1270,1
+Style: Label,Nirmala UI,38,&H00D5E4EB,&H00FFFFFF,&H00201510,&H80000000,0,0,0,0,100,100,0,0,1,1,1,8,90,110,360,1
+Style: Footer,Nirmala UI,35,&H00D5E4EB,&H00FFFFFF,&H00201510,&H80000000,0,0,0,0,100,100,0,0,1,1,1,8,90,110,1590,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:10:00.00,Title,,0,0,0,,వాల్మీకి వందనం
+Dialogue: 0,0:00:00.00,0:10:00.00,Caption,,0,0,0,,కూజంతం రామరామేతి\Nమధురం మధురాక్షరం ।\Nఆరుహ్య కవితాశాఖాం\Nవందే వాల్మీకి కోకిలం ॥
+Dialogue: 0,0:00:00.00,0:10:00.00,Label,,0,0,0,,పరిచయం • కథా ప్రయాణం
+Dialogue: 0,0:00:00.00,0:10:00.00,Footer,,0,0,0,,సంపూర్ణ వాల్మీకి రామాయణం

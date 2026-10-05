@@ -1,0 +1,407 @@
+[
+  {
+    "scene": 1,
+    "part": 1,
+    "id": "01.01",
+    "text": "గత భాగం చివర్లో ఒక నిర్జనమైన ఆశ్రమం కనిపించింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 1,
+    "part": 2,
+    "id": "01.02",
+    "text": "అది ఎవరిదో ఇప్పుడు తెలుసుకుందాం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 1,
+    "id": "02.01",
+    "text": "అప్పుడు రాముడు ఈ ఆశ్రమం ఎవరిదని అడుగగా, విశ్వామిత్రుడు ఇలా చెప్పెను — గౌతమస్య నరశ్రేష్ఠ పూర్వం ఆసీత్ మహాత్మనః । ఆశ్రమో దివ్య సంకాశః సురైః అపి సుపూజితః ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": true,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 1,
+    "id": "03.01",
+    "text": "\"ఈ ఆశ్రమం గౌతమ మహర్షిది, ఆయన దర్శనం కోసం ఈ ఆశ్రమానికి దేవతలు వచ్చేవారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 2,
+    "id": "03.02",
+    "text": "ఆ గౌతముడు తన భార్య అయిన అహల్యతో కలిసి తాపసిగా ఇక్కడ ధార్మికమైన జీవనం గడిపేవారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 3,
+    "id": "03.03",
+    "text": "అహల్య బ్రహ్మదేవుడి మానస పుత్రిక, అద్భుతమైన సౌందర్యం కలిగినది.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 1,
+    "id": "04.01",
+    "text": "\"ఇంద్రుడికి అహల్య మీద ఉన్న కోరిక వలన, ఒకరోజు ఉదయాన్నే గౌతమ మహర్షి సంధ్యావందనాది క్రతువులు నదిలో చేసుకునే సమయంలో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 2,
+    "id": "04.02",
+    "text": "ఆయన ఇంటి వద్ద లేని సమయంలో, గౌతమ మహర్షి వేషంలో ఇంద్రుడు ఆయన ఇంటిలోకి ప్రవేశించాడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 1,
+    "id": "05.01",
+    "text": "\"ఇంటిలోకి ప్రవేశించి 'నేను నీ సంగమాన్ని కోరుకుంటున్నాను' అని అహల్యతో అన్నాడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 1,
+    "id": "06.01",
+    "text": "ముని వేషం సహస్రాక్షం విజ్ఞాయ రఘునందన । మతిం చకార దుర్మేధా దేవ రాజ కుతూహలాత్ ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 1,
+    "id": "07.01",
+    "text": "\"అహల్యకి వచ్చింది గౌతముడు కాదు ఇంద్రుడని తెలుసు, కాని ఆమె కన్యత్వంలో ఉండగా ఆమెకి ఇంద్రుడి మీద మనసులో కోరిక ఉండేది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 2,
+    "id": "07.02",
+    "text": "అందువలన ఇంద్రుడితో సంగమించింది.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 1,
+    "id": "08.01",
+    "text": "\"అహల్య ఇంద్రుడితో ఇలా పలికింది — 'నేను సంగమించి చాలా ఆనందం పొందాను, కృతార్థురాలినయ్యాను, నువ్వు ఇక్కడినుండి వేగంగా వెళ్ళిపో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 2,
+    "id": "08.02",
+    "text": "నిన్ను నువ్వు గౌతముడి నుండి రక్షించుకో' అని చెప్పింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 3,
+    "id": "08.03",
+    "text": "అప్పుడు ఇంద్రుడు ఒక నవ్వు నవ్వి, 'నేను చాలా ఆనందంపొందాను' అని చెప్పి ఆశ్రమం బయటకి రాగానే —\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 1,
+    "id": "09.01",
+    "text": "గౌతమం స దదర్శ అథ ప్రవిశంతం మహామునిం । దేవ దానవ దుర్ధర్షం తపో బల సమన్వితం ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "\"దేవతలని, దానవులని నిగ్రహించగలిగే, శాసించగలిగే అపారమైన తపఃశక్తి ఉన్న గౌతమ మహర్షి బయటకి వస్తున్న ఇంద్రుడిని చూశారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "ఇంద్రుడి ముఖం మాడిపోయింది.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "\"అప్పుడు గౌతమ మహర్షి ఇంద్రుడితో ఇలా అన్నారు — 'నా రూపం ధరించి నువ్వు చెయ్యరాని పాపం చేశావు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "స్త్రీల మీద నీకు ఇంత కామం ఉండడానికి కారణం నువ్వు పురుషుడవన్న అహంకారం,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 3,
+    "id": "11.03",
+    "text": "కావున పురుషత్వానికి చిహ్నములైన నీ అండములు నేల జారి పడిపోవు గాక' అని ఇంద్రుడిని శపించారు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "పేతతుః వృషణౌ భూమౌ సహస్రాక్షస్య తత్ క్షణాత్ ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "\"అహల్య వైపు చూసి గౌతముడు ఇలా అన్నాడు — 'నువ్వు ఇక్కడ కొన్ని వేల సంవత్సరములు తపస్సు చేస్తూ పడుండు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "ఆహారం తీసుకోకు, గాలిని భక్షించు, మీద బూడిద కప్పబడుతుంది, కావున నువ్వు ఎవరికీ కనబడవు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 3,
+    "id": "13.03",
+    "text": "కొంతకాలానికి ఈ ఆశ్రమానికి రామచంద్రుడు వస్తాడు, ఆయన ఈ ఆశ్రమ ప్రవేశం చెయ్యగానే నీకు శాపవిమోచనం కలుగుతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 4,
+    "id": "13.04",
+    "text": "నీకు శాపవిమోచనం కలగగానే నువ్వు నా పత్ని స్థానాన్ని పొందుతావు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 5,
+    "id": "13.05",
+    "text": "అప్పటిదాకా నేను హిమవత్ పర్వత ప్రాంతంలో ఉంటాను' అని చెప్పి వెళ్ళిపోయాడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "\"ఇంతలో ఇంద్రుడు దేవలోకములో దేవతలకి జరిగినదంతా చెప్పాడు — 'నేను కామంతో ఈ పని చెయ్యలేదు, గౌతమ మహర్షి తపఃశక్తి పెరిగిపోతుంది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "ఆయనని నేను ఏమి చెయ్యలేను, అందుకనే అపచారం అహల్య పట్ల చేశాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 3,
+    "id": "14.03",
+    "text": "ఆగ్రహించిన గౌతమ మహర్షి నన్ను, అహల్యని శపించడం వలన కొంత తపఃశక్తిని కోల్పోయారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 4,
+    "id": "14.04",
+    "text": "మిమ్మల్ని రక్షించడం కోసం నేను నా అండాలని పోగొట్టుకున్నాను, కావున మీరే నాకు అండాలని తీసుకొని వచ్చి పెట్టాలి' అన్నాడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "\"అప్పుడు వారు గొర్రె వృషణములను తీసుకొని వచ్చి ఇంద్రుడికి పెట్టారు, అలా పోగొట్టుకున్న పుంసత్వాన్ని ఇంద్రుడు పొందాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "అప్పుడు ఆయనని మేష వృషణుడు అని పిలిచారు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "\"విశ్వామిత్రుడు రామలక్ష్మణులతో కలిసి ఆశ్రమంలోకి ప్రవేశించాడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "\"రాముడు ఆ ఆశ్రమం లోకి వెళ్ళగానే, ఇన్ని వేల సంవత్సరాల నుండి శాపగ్రస్తురాలైన అహల్య దుర్నిరీక్షమైన తేజస్సుతో పైకి లేచింది.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "\"ఆవిడని చూడగానే రాముడు ఆమె కాళ్ళకి నమస్కారం చేశాడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "\"గౌతమ మహర్షి చెప్పిన విషయం గుర్తుకు వచ్చి, వచ్చిన వాడు రాముడని గ్రహించిన అహల్య రాముడికి నమస్కారం చేసింది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "వాళ్లకి భోజనం పెట్టింది.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "\"అప్పుడు అక్కడికి వచ్చిన గౌతమ మహర్షి అహల్యతో కలిసి తపస్సు చేసుకోడానికి వెళ్ళిపోయాడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "\"తరువాత వారు మిథిలా నగరానికి చేరుకున్నారు, ఆ నగరం మహర్షులతో యజ్ఞయాగాలు చేసుకునేవాళ్ళతో ఉంది.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "\"విశ్వామిత్రుడు తన రాజ్యంలోకి ప్రవేశించాడన్న విషయం తెలుసుకున్న జనకుడు పరుగు పరుగున తన పురోహితుడైన శతానందుడితో వచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "'మీరు రావడంతో యాగము ఫలించింది' అని విశ్వామిత్రుడిని గౌరవంగా పూజించాడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "\"పక్కనే ఉన్న రామలక్ష్మణులని చూసిన జనకుడు, 'ఈ పిల్లలిద్దరూ ఎవరు, ఖడ్గాలు, కొదండాలు పట్టుకున్నారు, సూర్యచంద్రుల వలె ఉన్నారు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 2,
+    "id": "23.02",
+    "text": "అపారమైన తేజస్సుతో ఉన్నారు, వారు ఎవరు' అని అడిగారు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "తర్వాత చూద్దాం — జనక మహారాజు కొలువులో శివధనుస్సు కథ, మరియు సీతాదేవి పరిచయం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  }
+]

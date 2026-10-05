@@ -1,0 +1,162 @@
+[
+  {
+    "episode": "E1.08_tataka_vadha_divyastralu",
+    "scene": 1,
+    "part_id": "1",
+    "visual_description": "Recap, continuing directly from E1.07's ending line. (Location register: Dense forest)",
+    "story_text": "గత భాగం చివర్లో రాముడు తాటకని చూశాడు. ఇప్పుడు ఆ పోరాటం చూద్దాం.",
+    "source_notes": "Bridge line.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.08_tataka_vadha_divyastralu",
+    "scene": 2,
+    "part_id": "2",
+    "visual_description": "[Use Tataka Visual Lock] charging directly at [Vishwamitra Visual Lock] first — a genuinely startling opening beat, since the audience expects her to go for Rama/Lakshmana. (Location register: Dense forest)",
+    "story_text": "తాటక ముందు బ్రహ్మర్షి అయిన విశ్వామిత్రుడి మీదకి దూకింది.",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.08_tataka_vadha_divyastralu",
+    "scene": 3,
+    "part_id": "3",
+    "visual_description": "[Vishwamitra Visual Lock] letting out a single powerful shout — [Tataka] freezing mid-motion, stopped cold — then breaking free and summoning a magical rainstorm and blinding dust-cloud around the group. (Location register: Dense forest, sudden weather shift)",
+    "story_text": "అప్పుడాయన ఒక హుంకారం చేసేసరికి అది స్తంభించిపోయి ఉన్న చోట నిలబడిపోయింది. వెంటనే తన మాయతో వర్షం కురిపించింది, ఆ తాటక రేపిన ధూళి అందరి కళ్ళకి పడింది.",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.08_tataka_vadha_divyastralu",
+    "scene": 4,
+    "part_id": "4",
+    "visual_description": "[Vishwamitra Visual Lock] turning to Rama, urgent now. (Location register: Dense forest, obscured by dust/rain)",
+    "story_text": "అప్పుడు విశ్వామిత్రుడు రాముడితో \"ఇంక ఉపేక్షించి లాభం లేదు, వెంటనే ఆమెని సంహరించు\" అన్నాడు.",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.08_tataka_vadha_divyastralu",
+    "scene": 5,
+    "part_id": "5",
+    "visual_description": "[Rama Visual Lock] hesitating for one beat, voicing the same ethical caution as his earlier vow scene — then acting on a middle path: disabling rather than immediately killing. (Location register: Dense forest)",
+    "story_text": "\"ఎంతైనా ఆడది కదా, ముందు దీని గమన శక్తిని కొట్టేద్దాము, అప్పుడు మనసు మారుతుందేమో చూద్దాము\" అని రాముడు పాదములు, చేతులు, లక్ష్మణుడు ముక్కు చెవులు నరికారు.",
+    "source_notes": "This beat matters: Rama doesn't go straight for a kill — he first tries to incapacitate and give her a chance to relent, consistent with his Character Bible's \"maryada purushottama\" core trait. Keep this sequencing clear in the visual pacing, don't compress it into a single strike.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.08_tataka_vadha_divyastralu",
+    "scene": 6,
+    "part_id": "6",
+    "visual_description": "[Tataka Visual Lock] undeterred, using illusion-power to vanish, then reappearing, larger, bearing down on Rama — the moment the ethical restraint runs out. (Location register: Dense forest)",
+    "story_text": "అప్పుడు ఆ తాటక మాయారూపం పొంది మాయం అయిపోయింది. అదృశ్యమైన ఆ తాటక భారీ శరీరముతో రాముడి మీద పడబోతుంటే,",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.08_tataka_vadha_divyastralu",
+    "scene": 7,
+    "part_id": "7",
+    "visual_description": "[Rama Visual Lock] a single, decisive arrow — [Tataka] falling, the impact non-graphic per style guide (a burst of light/dust rather than explicit gore), the surrounding devatalu's relief visible above. (Location register: Dense forest → brief divine-realm overlay)",
+    "story_text": "రాముడు ఒక్క బాణం ప్రయోగించి ఆ తాటకని సంహరించగా, దాని రక్తం ఏరులై ప్రవహించింది. పైనుండి దేవతలు చూసి, \"హమ్మయ్య! తాటక సంహరింపబడింది\" అని ఆనందపడ్డారు.",
+    "source_notes": "Handle the \"blood flowing like rivers\" line with a restrained, symbolic visual (not literally graphic) per the series' consistent non-graphic-violence rule.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.08_tataka_vadha_divyastralu",
+    "scene": 8,
+    "part_id": "8",
+    "visual_description": "[Generic devatalu Visual Lock] descending to speak with [Vishwamitra Visual Lock] directly. (Location register: Dense forest, divine light overlay)",
+    "story_text": "వెంటనే ఆ దేవతలు విశ్వామిత్రుడి దగ్గరకి వచ్చి, \"ఇంత ధైర్యం ఉన్న వాడి దగ్గర అన్ని అస్త్ర-శస్త్రాలు ఉండాలి, కాబట్టి నీకు తెలిసిన ధనుర్విద్యనంతా రామలక్ష్మణులకి ఉపదేశించు\" అన్నారు.",
+    "source_notes": "This is the devas themselves formally requesting the weapon-transfer that follows — frames it as sanctioned by heaven, not just Vishwamitra's personal choice.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.08_tataka_vadha_divyastralu",
+    "scene": 9,
+    "part_id": "9",
+    "visual_description": "[Vishwamitra Visual Lock] beginning the transmission — a long, escalating montage of named weapons manifesting as brief light-forms around Rama and Lakshmana. (Location register: Forest clearing, mystical light effects)",
+    "story_text": "అప్పుడు విశ్వామిత్రుడు రామలక్ష్మణులకి హయశిరోనామం అనే అస్త్రాన్ని, క్రౌంచ అస్త్రాన్ని మంత్రోపదేశం చేశాడు. అలాగే కంకాళం, ఘోరం, కాపాలం, కంకణం అనే నాలుగు ముసలముల మంత్రోపదేశం చేశాడు. అలాగే ఐంద్రాస్త్రం, బ్రహ్మాస్త్రం, బ్రహ్మశిరోనామకాస్త్రం, మానవాస్త్రం, వారుణాస్త్రం, ఇంద్రాస్త్రం, ఐషీకాస్త్రం, గాంధర్వాస్త్రం, రకరకాల పిడుగులు మొదలైన సర్వాస్త్రాల మంత్రోపదేశం చేసి, రెండు అద్భుతమైన గదలని, నందకం అనే గొప్ప ఖడ్గాన్ని ఉపదేశించాడు.",
+    "source_notes": "This long weapon-list is meant to feel genuinely overwhelming/abundant — a visual montage of light-forms manifesting one after another suits it better than trying to individually design every named astra.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.08_tataka_vadha_divyastralu",
+    "scene": 10,
+    "part_id": "10",
+    "visual_description": "The weapons, personified as small radiant humanoid figures, bowing before Rama and asking for orders — matching the Production Bible's established convention for how celestial weapons are depicted (per the E1.05 vanara-creation scene's light-motif approach, extended here into brief personified forms since the text explicitly describes them taking human form). (Location register: Forest clearing)",
+    "story_text": "అప్పుడు ఆ అస్త్రాలన్నీ పురుష రూపం [దాల్చి] రాముడి పక్కన నిలబడి, \"మేము మీ కింకరులము, మమ్మల్ని ఏమి చెయ్యమంటారు\" అని అడిగాయి.",
+    "source_notes": "The source explicitly personifies the weapons here — this matches (and retroactively justifies) the visual approach already used for the \"celestial weapons as small radiant humanoid figures\" prompt style established back in earlier planning; keep that same treatment.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.08_tataka_vadha_divyastralu",
+    "scene": 11,
+    "part_id": "11",
+    "visual_description": "[Rama Visual Lock] instructing them; the light-forms dissolving into him, absorbed. (Location register: Forest clearing)",
+    "story_text": "\"మీరందరూ మనస్సులోకి వెళ్లి అక్కడ తిరుగాడుతూ ఉండండి, నేను పిలిచినప్పుడు బయటకి రండి\" అని ఆదేశించాడు. అవి అలాగే రాముడిలోకి ప్రవేశించాయి.",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.08_tataka_vadha_divyastralu",
+    "scene": 12,
+    "part_id": "12",
+    "visual_description": "Next morning: [Rama Visual Lock] respectfully asking Vishwamitra for the withdrawal-mantras too — a small but telling detail about Rama's responsibility with power. (Location register: Forest campsite, morning)",
+    "story_text": "మరుసటి రోజున రాముడు విశ్వామిత్రుడితో, \"మీరు నాకు ఇన్ని అస్త్రాలని ఉపదేశించారు, అలాగే వాటి ఉపసంహారాన్ని కూడా ఉపదేశించండి\" అన్నాడు.",
+    "source_notes": "Worth a beat of narration emphasis — Rama asking to learn how to safely STOP a weapon, not just use it, is a quiet but real characterization detail.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.08_tataka_vadha_divyastralu",
+    "scene": 13,
+    "part_id": "13",
+    "visual_description": "[Vishwamitra Visual Lock] teaching the withdrawal mantras, plus a few additional ones beyond what was asked. (Location register: Forest campsite)",
+    "story_text": "విశ్వామిత్రుడు రాముడికి ఉపసంహార మంత్రాలన్నీ చెప్పాక ఇంకొన్నింటిని కూడా ఉపదేశించాడు.",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.08_tataka_vadha_divyastralu",
+    "scene": 14,
+    "part_id": "14",
+    "visual_description": "The group resuming their journey; a new ashram comes into view. (Location register: Forest road → new ashram)",
+    "story_text": "ఆ ఉపదేశం అయ్యాక వారు తమ ప్రయాణాన్ని కొనసాగించారు. అలా వెళుతుండగా అక్కడొక ఆశ్రమం కనిపించింది.",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.08_tataka_vadha_divyastralu",
+    "scene": 15,
+    "part_id": "15",
+    "visual_description": "[Rama Visual Lock] asking whose ashram it is; [Vishwamitra Visual Lock] answering — a brief mythic inset: [use Vishnu Visual Lock in his Vamana/dwarf-avatar form — a one-time variant not otherwise needed in the Character Bible, note it there if this inset is produced] confronting a towering asuric king. (Location register: New ashram, mythic inset for the Vamana story)",
+    "story_text": "ఆ ఆశ్రమం ఎవరిదని రాముడు అడగగా, విశ్వామిత్రుడు ఇలా చెప్పాడు — \"ఒకప్పుడు విరోచనుడి కుమారుడైన బలి చక్రవర్తి తన పరాక్రమముతో ఇంద్రుడిని నిర్బంధించాడు. అప్పుడు శ్రీమహావిష్ణువు వామన మూర్తిగా వచ్చి బలిని పాతాళానికి పంపారు. వామన మూర్తి తపస్సు చేసిన ఆశ్రమమే ఈ ఆశ్రమం, దీనిని సిద్ధాశ్రమం అంటారు. ఇక్కడే కశ్యప ప్రజాపతి తపస్సు చేశారు, ఇక్కడే విష్ణువు ఇంద్రుడికి తమ్ముడిగా, ఉపేంద్రుడిగా పుట్టారు. నేను యాగము చేస్తున్నది కూడా ఈ ఆశ్రమములోనే\" అని చెప్పి అందరూ ఆ ఆశ్రమములోనికి వెళ్లారు.",
+    "source_notes": "This is Siddhashrama — the actual site of Vishwamitra's yagna that Rama was brought to protect in the first place; a structurally important location reveal after several episodes of journey.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.08_tataka_vadha_divyastralu",
+    "scene": 16,
+    "part_id": "16",
+    "visual_description": "End card.",
+    "story_text": "తర్వాత చూద్దాం — విశ్వామిత్రుడి యాగాన్ని కాపాడటానికి రామలక్ష్మణులు మారీచ సుబాహువులతో ఎలా పోరాడారో.",
+    "source_notes": "Bridge line.",
+    "image": null,
+    "status": "image_pending"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 1,
+    "part_id": "1",
+    "visual_description": "Recap, continuing from E1.24's joyful departure. (Location register: Traveling, forest road)",
+    "story_text": "గత భాగంలో సీతారాముల కళ్యాణం జరిగి, అందరూ అయోధ్యకి బయలుదేరారు. ఇప్పుడు ఆ ప్రయాణంలో ఏం జరిగిందో చూద్దాం.",
+    "source_notes": "Bridge line.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 2,
+    "part_id": "2",
+    "visual_description": "A sudden, sharp tonal break: birds shrieking with fear overhead, unexplained darkness gathering at the horizon, auspicious trees inexplicably falling — but, notably, the wild animals circling in a favorable (clockwise/pradakshina) direction, a mixed and confusing set of omens. (Location register: Forest road, sudden ominous shift)",
+    "story_text": "\"అప్పుడు అనుకోకుండా ఆకాశంలో పక్షులు భయంకరంగా కూస్తున్నాయి, నిష్కారణంగా దిక్కులలో చీకటి కమ్ముతోంది, మంగళప్రదమైన వృక్షాలు నేలమీద పడుతున్నాయి, కాని మృగాలు మాత్రం ప్రదక్షిణంగా తిరుగుతున్నాయి.\"",
+    "source_notes": "The mixed nature of these omens (bad signs alongside one genuinely favorable one) is deliberate and specific — it's why Vashishtha's reading in the next beat is cautious rather than despairing; keep both kinds of omen visible in the sequence, not just the frightening ones.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 3,
+    "part_id": "3",
+    "visual_description": "[Dasharatha Visual Lock] alarmed, turning immediately to [Vashishtha Visual Lock] for an explanation. (Location register: Forest road)",
+    "story_text": "\"ఇదంతా చూసిన దశరథుడికి భయం వేసి, 'ఏమి జరుగుతోంది' అని వశిష్ఠుడిని అడిగాడు.\"",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 4,
+    "part_id": "4",
+    "visual_description": "[Vashishtha Visual Lock] reading the signs carefully, giving a measured, honest answer — real danger ahead, but survivable. (Location register: Forest road)",
+    "story_text": "\"శకునములను గమనించిన వశిష్ఠుడు, 'ఏదో దైవీసంబంధమైన విపత్తు వస్తోంది, కాని మృగములు ప్రదక్షిణగా తిరుగుతున్నాయి కనుక నువ్వు ఆ విపత్తుని అధిగమిస్తావు' అన్నారు.\"",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 5,
+    "part_id": "5",
+    "visual_description": "[Use Parashurama Visual Lock] arriving with overwhelming, almost apocalyptic force — described in the text's own striking simile, like Rudra himself at the dissolution of the world — carrying the great bow of Vishnu across his shoulder. (Location register: Forest road, dramatic entrance)",
+    "story_text": "\"ఇంతలోనే ప్రళయకాల రుద్రుడు వచ్చినట్టు విష్ణు చాపాన్ని పట్టుకొని పరశురాముడు వచ్చి, 'నేను ఈ రోజే విన్నాను, శివ ధనుస్సుని విరిచావంట గురించి విన్నాను రామా, ఏమిటి నీ గొప్పతనం, నువ్వు అంతటివాడివైతే ఈ విష్ణు చాపాన్ని ఎక్కుపెట్టి బాణాన్ని నారిలో సంధించు' అన్నారు.\"",
+    "source_notes": "Parashurama's entrance is the fulfillment of Vashishtha's warning from scene 4 — give it the full dramatic weight his Character Bible lock calls for (matted dreadlocks, wild intense eyes, the axe visible even though the bow is what he's brandishing here).",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 6,
+    "part_id": "6",
+    "visual_description": "[Dasharatha Visual Lock] reacting with immediate, visceral terror — not measured concern this time, real panic — rushing to plead directly with Parashurama, citing his fearsome reputation explicitly. (Location register: Forest road, tense confrontation)",
+    "story_text": "\"ఈ మాటలు విన్న దశరథుడు హడలిపోయి, పరుగెత్తుకుంటూ పరశురాముడి దగ్గరికి వచ్చి, 'మహానుభావ! ఈ భూమండలం మీద ఉన్న క్షత్రియులపై 21 సార్లు దండయాత్ర చేశావు, క్షత్రియులందరినీ సంహరించావు, ఇవ్వాళ హిమాలయాల మీద తపస్సు చేసుకుంటున్నావు, లేకలేక నాకు పిల్లలు పుట్టారు, వివాహాలు చేసుకొని ఇంటికి వెళుతున్నారు, నన్ను క్షమించు' అని దశరథుడు ప్రాధేయపడ్డాడు.\"",
+    "source_notes": "Dasharatha's specific, detailed fear here (naming the \"21 campaigns against all Kshatriyas\") establishes real, earned stakes — this isn't performative alarm, Parashurama's reputation is genuinely terrifying and well-founded, as the coming backstory will confirm.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 7,
+    "part_id": "7",
+    "visual_description": "[Parashurama Visual Lock] ignoring Dasharatha entirely, addressing Rama directly and only. (Location register: Forest road)",
+    "story_text": "\"పరశురాముడు రాముడినే పిలిచి విష్ణు చాపాన్ని ఎక్కుపెట్టమన్నాడు.\"",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 8,
+    "part_id": "8",
+    "visual_description": "Mythic inset begins, told through visual flashback rather than direct narration (the text itself moves into Parashurama's backstory via illustration-caption structure at this point in the source) — [Kartaviryarjuna — one-scene antagonist king] and [Parashurama Visual Lock] in fierce battle. (Location register: Mythic inset, desaturated, backstory)",
+    "story_text": "కార్తవీర్యార్జునుడు, పరశురాముల యుద్ధము.",
+    "source_notes": "Checked against the reconciled OCR: pp. 97-98 carry no prose — only these illustration captions. Scenes 8-10 therefore narrate the captions verbatim (the same treatment scene 11 already gives its caption), replacing the earlier English placeholders so the backstory is actually told.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 9,
+    "part_id": "9",
+    "visual_description": "[Sage Jamadagni — Parashurama's father, one-scene appearance, dignified elderly-sage register] mildly rebuking his son for excessive anger even in a justified cause, advising a pilgrimage instead. (Location register: Mythic inset)",
+    "story_text": "కార్తవీర్యార్జునుడిని సంహరించి కామధేనువుని తీసుకువచ్చిన పరశురాముడిని జమదగ్ని, బ్రాహ్మణుడికి అంత కోపము తగదని మందలించి పుణ్యక్షేత్రములు సందర్శించి రమ్మని పలుకుట.",
+    "source_notes": "Note the thematic echo here with Vishwamitra's own arc (E1.15-E1.21) — another sage figure whose excessive anger, even when provoked, draws correction; this is a recurring moral thread across the whole Khaanda worth keeping consistent in tone.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 10,
+    "part_id": "10",
+    "visual_description": "[Parashurama Visual Lock], overcome with fury after his father Jamadagni's own death (implied by the caption \"జమదగ్ని మరణమునకు ఆవేశించిన పరశురాముడు\"), launching his famous 21 campaigns of vengeance against the Kshatriya class entire. (Location register: Mythic inset, escalating violence, non-graphic per style guide)",
+    "story_text": "జమదగ్ని మరణమునకు ఆవేశించిన పరశురాముడు భూమిని 21 మార్లు దండెత్తి క్షత్రియులని వధించుట.",
+    "source_notes": "This confirms and completes the \"21 campaigns\" detail Dasharatha cited in scene 6 — treat this as the historical explanation behind his fearsome reputation, handled with the same non-graphic restraint used for all large-scale violence elsewhere in the series.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 11,
+    "part_id": "11",
+    "visual_description": "Cut back to present: [Parashurama Visual Lock] confronting [Rama Visual Lock] directly and forcefully, demanding he string the bow. (Location register: Forest road, present, returning to direct confrontation)",
+    "story_text": "\"పరశురాముడు ఆవేశముగా రామచంద్రునితో విష్ణు చాపమును ఎక్కుపెట్టమని పలుకుట.\"",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 12,
+    "part_id": "12",
+    "visual_description": "[Rama Visual Lock] finally speaking — calm, but with a pointed, almost wry edge, explaining his earlier silence as deliberate filial respect rather than intimidation. (Location register: Forest road)",
+    "story_text": "\"అప్పుడు రాముడు ఇలా అన్నాడు — 'పరశురామ! నువ్వు విష్ణు చాపం ఎక్కుపెట్టు, ఎక్కుపెట్టు అని నన్ను ఒక పనికిమాలినవాడిగా ఇందాకటి నుండి మాట్లాడుతున్నావు, ఎందుకు ఊరుకున్నానో తెలుసా, తండ్రిగారు పక్కనుండగా కొడుకు ఎక్కువ మాట్లాడకూడదు కనుక, నేను తప్పకుండా ఎక్కుపెడతాను.'\"",
+    "source_notes": "This line reveals Rama's composure was never fear or hesitation — a deliberate, principled restraint out of respect for his father, consistent with his established Character Bible voice profile (calm, steady, never rattled) even under direct provocation from someone as fearsome as Parashurama.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 13,
+    "part_id": "13",
+    "visual_description": "[Rama Visual Lock] taking the bow and stringing it with visible ease, then nocking an arrow — [Parashurama Visual Lock]'s own expression beginning to shift from aggression to uncertainty. (Location register: Forest road, the second bow of the Khaanda)",
+    "story_text": "\"ఎక్కుపెట్టి నారిలోకి బాణాన్ని పెట్టారు.\"",
+    "source_notes": "A deliberate visual echo of the Shiva-bow scene in E1.22, but with a very different emotional register — no crowd, no celebration, a tense one-on-one confrontation instead.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 14,
+    "part_id": "14",
+    "visual_description": "[Rama Visual Lock] speaking with total composure, offering Parashurama genuine respect and an explicit reason he won't be killed — even now, mid-confrontation, articulating exactly why he'll spare him. (Location register: Forest road)",
+    "story_text": "\"'నీ మీదే ఈ బాణ ప్రయోగం చేసి సంహరించగలను, కాని నువ్వు బ్రాహ్మణుడివి మరియు నా గురువైన విశ్వామిత్రుడికి నీకు చుట్టరికం ఉండడం చేత నేను నిన్ను సంహరించను, కాని ఒకసారి బాణం సంధించిన తరువాత విడిచిపెట్టకుండా ఉండను, అందుకని నేను నీ గమన శక్తిని కొట్టేస్తాను' అన్నాడు.\"",
+    "source_notes": "Note the Character Bible connection: Vishwamitra and Parashurama are apparently kin (per this line) — worth noting for the Character Bible if this relationship recurs, though no separate visual is needed here since it's stated only in dialogue.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 15,
+    "part_id": "15",
+    "visual_description": "[Parashurama Visual Lock] suddenly desperate rather than defiant — revealing a real, practical constraint (Kashyapa's curse forbidding him from remaining on earth after nightfall) that Rama's chosen target would directly violate. (Location register: Forest road, sudden vulnerability)",
+    "story_text": "\"అప్పుడు పరశురాముడు ఇలా అన్నాడు — 'రామ! నేను క్షత్రియులని ఓడించి సంపాదించిన భూమిని కశ్యపుడికి దానము చేశాను, అప్పుడాయన నన్ను రాత్రి పూట ఈ భూమండలం మీద ఉండద్దు అన్నాడు, ఇప్పుడు చీకటి పడుతోంది, కావున నేను తొందరగా మహేంద్రగిరి పర్వతం మీదకి వెళ్ళాలి, నువ్వు నా గమన శక్తిని కొట్టేస్తే నేను వెళ్ళలేను, మాట తప్పినవాడినవుతాను' అని అన్నాడు.\"",
+    "source_notes": "This is a genuinely vulnerable, almost pleading moment from a figure introduced as apocalyptically terrifying — a real tonal shift worth playing with sincerity, not mockery; Parashurama's fear here is legitimate.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 16,
+    "part_id": "16",
+    "visual_description": "[Rama Visual Lock] adjusting his target with grace — offering an alternative that resolves the dilemma without breaking his own word either. (Location register: Forest road, resolution)",
+    "story_text": "\"'అయితే నీ తపఃశక్తితో సంపాదించిన లోకాలు (తపస్సు) ఉన్నాయి, వాటిని కొట్టేస్తాను' అన్నాడు. పరశురాముడు సరే అన్నాడు.\"",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 17,
+    "part_id": "17",
+    "visual_description": "[Rama Visual Lock] releasing the arrow — [Parashurama Visual Lock]'s spiritually-earned celestial worlds/merit visibly struck/dispersed instead of his physical body or ability to travel — a symbolic, non-violent resolution. (Location register: Forest road, symbolic release)",
+    "story_text": "\"అప్పుడు పరశురాముడు తపస్సు చేసి సంపాదించుకున్న లోకాలని రాముడు కొట్టేశాడు. వెంటనే పరశురాముడు అక్కడినుండి పోయాడు.\"",
+    "source_notes": "This resolution — striking his accumulated spiritual \"worlds\" rather than his body — is a clever, non-violent way for the confrontation to genuinely resolve (Rama fulfills his stated intent to release the arrow, Parashurama loses something real, but no death or injury occurs and he's free to travel as needed); keep this technical nuance clear in the narration pacing.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 18,
+    "part_id": "18",
+    "visual_description": "[Parashurama Visual Lock], departing, pausing to speak one final, decisive line — full recognition of who Rama truly is. (Location register: Forest road, closing recognition)",
+    "story_text": "\"వెళ్ళిపోతూ ఆయన, 'నువ్వెవరో నేను గుర్తుపట్టాను రామ, నువ్వు ఆ శ్రీమహావిష్ణువే, ఇక ఈ భూలోకములో అవసరంలేదని' మహేంద్రగిరి పర్వతాలవైపు వెళ్ళిపోయాడు పరశురాముడు.\"",
+    "source_notes": "This is the second time in the series a powerful figure explicitly recognizes Rama's true divine nature mid-story (the first being implicit throughout, but rarely stated this plainly) — worth a quiet, significant beat before the scene moves on.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 19,
+    "part_id": "19",
+    "visual_description": "[Dasharatha Visual Lock] visibly relieved, resuming the journey with his sons; arrival at Ayodhya. (Location register: Forest road → Ayodhya, arrival)",
+    "story_text": "\"దశరథుడు సంతోషంగా వాళ్ళని అయోధ్యకి తీసుకు వెళ్ళాడు.\"",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 20,
+    "part_id": "20",
+    "visual_description": "[Kausalya, Sumitra, Kaikeyi Visual Locks — their first appearance since departure, still S2/pre-exile queen stage] rushing out to greet the returning party with aarti (ceremonial lamps), overjoyed at seeing their sons married and home. (Location register: Ayodhya, joyful homecoming)",
+    "story_text": "\"కౌసల్య, సుమిత్ర, కైకేయి ఎదురొచ్చి హారతులిచ్చారు, తమ కొడుకుల్ని చూసుకొని మురిసిపోయారు.\"",
+    "source_notes": "A warm, purely joyful family reunion — the three queens seeing their sons married for the first time; no tension or foreshadowing needed in this beat, a clean emotional payoff.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 21,
+    "part_id": "21",
+    "visual_description": "The new couples taken to the royal family's kuladaivam (family deity) shrines to offer worship, formally welcoming the new brides into the household's spiritual life. (Location register: Ayodhya, palace shrine)",
+    "story_text": "\"అప్పుడు వాళ్ళని ఆ వంశ కులదైవాలున్న దేవతాగృహాలకి తీసుకెళ్ళి ఇక్కడ పూజ చెయ్యాలని చూపించారు.\"",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 22,
+    "part_id": "22",
+    "visual_description": "A gentle, peaceful closing montage: the four new couples settling into married life together in Ayodhya — closing the entire Baala Khaanda on a note of pure domestic happiness. (Location register: Ayodhya, palace, peaceful passage of time)",
+    "story_text": "\"అలా ఆ నూతన దంపతులు హాయిగా క్రీడిస్తూ కాలం గడిపారు.\"",
+    "source_notes": "This line closes Baala Khaanda's central narrative arc — everything from Valmiki's own origin story through Rama's marriage has now resolved into this single image of peaceful domestic happiness; treat this as a genuine chapter-closing beat, even though a small amount of source material may remain to transcribe/verify before Baala Khaanda's file is fully complete.",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.25_parashuramudi_sawal",
+    "scene": 23,
+    "part_id": "23",
+    "visual_description": "End card.",
+    "story_text": "ఇది బాలకాండలో ప్రధాన కథాభాగం ముగింపు. తర్వాతి కాండలో చూద్దాం — రామ పట్టాభిషేక ప్రకటన, మరియు కైకేయి కోరిన వరాలు ఎలా అయోధ్యను కుదిపేశాయో.",
+    "source_notes": "Bridge line — signals the transition toward Ayodhya Khaanda, matching the Production Bible's original series-level bridge language for this exact transition point.",
+    "image": null,
+    "status": "image_pending"
+  }
+]

@@ -1,0 +1,6 @@
+git+https://github.com/AI4Bharat/IndicF5.git@13f7c4d627cc10111aea8fe9c0039462cacacdc7
+gradio>=5.0,<6
+transformers>=4.44,<4.50
+numpy==1.26.4
+soundfile>=0.12
+huggingface-hub<1

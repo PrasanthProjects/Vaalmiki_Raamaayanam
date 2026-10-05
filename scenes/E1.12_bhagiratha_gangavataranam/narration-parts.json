@@ -1,0 +1,803 @@
+[
+  {
+    "scene": 1,
+    "part": 1,
+    "id": "01.01",
+    "text": "గత భాగం చివర్లో గంగ భూమి మీదకి ఎందుకు రావాల్సి వచ్చిందో చెప్తానన్నారు విశ్వామిత్రుడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 1,
+    "part": 2,
+    "id": "01.02",
+    "text": "ఇప్పుడు ఆ పూర్తి కథ చూద్దాం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 1,
+    "id": "02.01",
+    "text": "\"పూర్వం అయోధ్య నగరాన్ని మీ వంశానికి చెందిన సగరుడు పరిపాలించేవాడు, ఆయనకి కేశిని, సుమతి అని ఇద్దరు భార్యలు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 2,
+    "id": "02.02",
+    "text": "సుమతి గరుక్మంతుడి సోదరి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 3,
+    "id": "02.03",
+    "text": "తనకి కుమారులు కలగడం కోసం తన ఇద్దరు పత్నులతో కలిసి హిమాలయాలలో ఉన్న భృగు స్రవణాన్ని చేరుకొని 100 సంవత్సరములు తపస్సు చేశాడు సగరుడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 1,
+    "id": "03.01",
+    "text": "\"భృగు స్రవణంలో ఉన్న భృగు మహర్షి సంతోషించి, 'నీకున్న ఇద్దరు భార్యలలో ఒక భార్యకి వంశోద్ధారకుడైన కొడుకు పుడతాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 2,
+    "id": "03.02",
+    "text": "రెండవ భార్యకి 60,000 మంది మహా ఉత్సాహవంతులైన కొడుకులు పుడతారు' అని వరమిచ్చాడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 1,
+    "id": "04.01",
+    "text": "\"ఇది విన్న కేశిని, సుమతి తమలో ఎవరికి ఎంతమంది పుడతారు అని భృగు మహర్షిని అడుగగా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 2,
+    "id": "04.02",
+    "text": "ఆయన 'మీలో ఎవరికి ఎవరు కావాలో మీరే తేల్చుకోండి' అని అన్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 3,
+    "id": "04.03",
+    "text": "పెద్ద భార్య అయిన కేశిని తనకి వంశోద్ధారకుడైన ఒక కుమారుడు కావాలి అని అడిగింది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 4,
+    "id": "04.04",
+    "text": "'నాకు మహోత్సాహము కలిగిన 60,000 మంది కుమారులు కావాలి' అని సుమతి అడిగింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 5,
+    "id": "04.05",
+    "text": "ఆయన సరే అన్నారు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 1,
+    "id": "05.01",
+    "text": "\"కొంతకాలానికి పెద్ద భార్యకి అసమంజసుడు అనే వాడు పుట్టాడు, రెండవ భార్యకి ఒక సొరకాయ పుట్టింది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 2,
+    "id": "05.02",
+    "text": "సొరకాయ కిందపడి పగిలి అందులోంచి 60,000 మంది చిన్న చిన్న వారు వచ్చారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 3,
+    "id": "05.03",
+    "text": "నేతి కుండలలో పెట్టి పెంచారు, వారందరిని కలిపి సగరులు అన్నారు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 1,
+    "id": "06.01",
+    "text": "\"పెద్ద భార్య కొడుకైన అసమంజసుడు రోజూ రాజ్యంలోని కొంతమంది పిల్లలని సరయూ నదిలోకి తీసుకెళ్ళ,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 2,
+    "id": "06.02",
+    "text": "నదిలో వదిలి వాళ్ళ మరణానికి కారణం అయ్యేవాడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 1,
+    "id": "07.01",
+    "text": "ఏవం పాప సమాచారః సజ్జన ప్రతిబాధకః । పౌరాణాం అహితే యుక్తః పిత్రా నిర్వాసితః పురాత్ ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 1,
+    "id": "08.01",
+    "text": "\"కొంతకాలానికి రాజుకి విషయం తెలిసి, 'చేసినవాడు కొడుకైనా సరే, అతనివలన ప్రజలకి కీడు జరుగుతుంది కనుక శిక్షించాలి' అని అనుకున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 2,
+    "id": "08.02",
+    "text": "ఆ అసమంజసుడిని రాజ్యం నుండి బహిష్కరించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 3,
+    "id": "08.03",
+    "text": "అసమంజసుడి కొడుకైన అంశుమంతుడిని తన దగ్గర పెట్టుకున్నాడు ఆ సగర చక్రవర్తి.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 1,
+    "id": "09.01",
+    "text": "\"అలా కొంతకాలానికి ఆ సగరుడు అశ్వమేథ యాగాన్ని ప్రారంభించి గుర్రాన్ని వదిలాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "గుర్రాన్ని ఇంద్రుడు అపహరించాడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "\"ఆ గుర్రం వెనకాల వెళుతున్న అంశుమంతుడు ఈ విషయాన్ని సగరుడికి చెప్పాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "అలా అశ్వం అపహరించబడితే దారుణమైన ఫలితాలు వస్తాయని యాగము నిర్వహిస్తున్న పండితులు అన్నారు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "\"అప్పుడు సగరుడు తన 60,000 మంది కొడుకులని పిలిచి 'భూమి 60,000 యోజనాలు ఉంటుంది, కనుక మీరందరూ ఒక్కో యోజనాన్ని తవ్వండి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "భూమి మొత్తాన్ని వెతకండి' అని చెప్పి పంపాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 3,
+    "id": "11.03",
+    "text": "వజ్రాల్లాంటి తమ సగరులు భూమినంతా తవ్వడం ప్రారంభించారు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "\"ఇది గమనించిన దేవతలు బ్రహ్మదేవుడి దగ్గరికి వెళ్లి, 'దేవా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "సగరులు భూమిని తవ్వుతుంటే ప్రాణులు పోతున్నాయి, ఏమి చెయ్యమంటారు' అని అడిగారు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "కాపిలం రూపం ఆస్థాయ ధారయత్య అనిశం ధరాం । తస్య కోపాగ్నినా దగ్ధా భవిష్యంతి నృపాత్మజాః ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "\"అప్పుడు బ్రహ్మదేవుడు, 'మీరెవరు కంగారు పడకండి, ఈ భూమంతా శ్రీమహావిష్ణువుది, కనుక ఆయనే ఈ భూమిని రక్షించుకుంటాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "ప్రస్తుతం ఆయన ఈ లోకములో కపిల మహర్షిగా తపస్సు చేసుకుంటున్నారు' అని చెప్పారు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "\"సగరులకి ఎంత తవ్వినా అశ్వం కనబడకపోయేసరికి వారు సగరుడికి వద్దకు వెళ్ళి జరిగినది చెప్పారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "'నాకు గుర్రం తప్పకుండా కావాలి, మీరు పాతాళం దాక తవ్వెయ్యండని' చెప్పి వాళ్ళని మళ్ళీ పంపాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 3,
+    "id": "15.03",
+    "text": "ఆ సగరులు పాతాళం దాకా తవ్వడం ప్రారంభించారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 4,
+    "id": "15.04",
+    "text": "అలా తవ్వుతున్న వాళ్ళకి, ఈ భూమిని తూర్పు దిక్కున మోస్తున్న దిశా గజం అనే ఏనుగు కనిపించింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 5,
+    "id": "15.05",
+    "text": "ఆ ఏనుగుకి ప్రదక్షిణ చేసి ముందుకి వెళ్ళగా, వాళ్ళకి మహా పద్మం అనే ఏనుగు భూమిని దక్షిణ దిక్కున మోస్తూ కనిపించింది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 6,
+    "id": "15.06",
+    "text": "అలాగే పడమర దిక్కున సౌమనసం అనే ఏనుగు, ఉత్తర దిక్కున భద్రము అనే ఏనుగుకి ప్రదక్షిణ చేశారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 7,
+    "id": "15.07",
+    "text": "నాలుగు దిక్కులలో గుర్రం ఎక్కడా కనపడలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 8,
+    "id": "15.08",
+    "text": "ఈ సారి ఈశాన్యం వైపు తవ్వడం ప్రారంభించారు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "\"అలా తవ్వగా తవ్వగా వాళ్ళకి ఒక ఆశ్రమములో సనాతనుడైన విష్ణు భగవానుడు కపిల మహర్షిగా తపస్సు చేసుకుంటూ కనబడ్డాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "ఆయన పక్కనే యాగాశ్వం కూడా ఉంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 3,
+    "id": "16.03",
+    "text": "కాబట్టి ఈయనే మన గుర్రాన్ని దొంగిలించాడని ఆ సగరులు భావించి ఆయనని కొట్టడానికి పరుగుతీసారు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "\"వెంటనే ఆ కపిల మహర్షి ఒక 'హుం'కారం చేసేసరికి ఈ 60,000 మంది సగరులు నేల మీద బూడిదై పడ్డారు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "\"ఎంతకాలమైనా సగరులు రాకపోయేసరికి, ఆ సగరుడు అంశుమంతుడిని పిలిచి వెతకమన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "అంశుమంతుడు తన పినతండ్రులు తవ్విన మార్గం ద్వారా ప్రయాణించి కపిల మహర్షి ఆశ్రమం చేరుకున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 3,
+    "id": "18.03",
+    "text": "అక్కడున్న పినతండ్రుల భస్మాన్ని చూసి బాధపడ్డాడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "\"వాళ్ళకి ఉత్తర క్రియలు జరగలేదు కనుక తీసుకువద్దామని బయలుదేరగా, ఆ సగరుల మేనమామ అయిన గరుక్మంతుడు ప్రత్యక్షమై,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "'ఈ భూమిలోని ఏ జలంతో జలతర్పణ ఇచ్చినా పినతండ్రులు స్వర్గానికి వెళ్ళరు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 3,
+    "id": "19.03",
+    "text": "వారు స్వర్గానికి వెళ్ళాలంటే కేవలం స్వర్గలోకములో ప్రవహించే గంగా జలాలతో తర్పణ ఇవ్వాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 4,
+    "id": "19.04",
+    "text": "కాబట్టి గంగని భూమి మీదకి తీసుకొచ్చే ప్రయత్నం చెయ్యి' అని చెప్పాడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "\"సరే అని ఆ యాగాశ్వాన్ని తీసుకెళ్ళి యాగము పూర్తి చేశారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "తన కుమారులు కపిల మహర్షి ఆగ్రహానికి బూడిదయ్యారని విని సగరుడు చాలా బాధ పడ్డాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 3,
+    "id": "20.03",
+    "text": "తరవాత ఆయన ఒక 30,000 వేల సంవత్సరములు జీవించి శరీరం వదిలాడు, ఆయన తరవాత అంశుమంతుడు రాజయ్యాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 4,
+    "id": "20.04",
+    "text": "ఆయన 32,000 సంవత్సరములు తపస్సు చేశాడు, అలా తపస్సులోనే శరీరం వదిలేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 5,
+    "id": "20.05",
+    "text": "ఆయన తరవాత వచ్చిన దిలీపుడు 30,000 సంవత్సరములు రాజ్యం చేశాడు కాని గంగని తీసుకురాలేకపోయాడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "\"దిలీపుడి తరవాత వచ్చిన భగీరథుడు రాజ్యాన్ని మంత్రులకి అప్పజెప్పి, గోకర్ణ క్షేత్రంలో 1000 సంవత్సరములు తపస్సు చేయగా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "ఆయనకి బ్రహ్మదేవుడు దర్శనం ఇచ్చాడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "\"అప్పుడు భగీరథుడు 'నాకు కుమారులు లేరు, కాబట్టి మా వంశం ఆగకుండా ఉండడానికి నాకు కుమారులు కలిగేలా వరమివ్వు' అన్నాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "అలాగే 'మా పితృదేవతలు స్వర్గానికి వెళ్ళడం కోసం సురగంగని భూమి మీదకి పంపించు' అన్నాడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "\"అప్పుడు బ్రహ్మదేవుడు 'నీ మొదటి కోరికని నేను తీరుస్తాను, కాని గంగని భూమి మీదకి వదిలితే, దాన్ని పట్టగలిగేవాడు ఎవడూ లేడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 2,
+    "id": "23.02",
+    "text": "కేవలం శివుడు తప్ప.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 3,
+    "id": "23.03",
+    "text": "కావున నీవు శివుని గూర్చి తపస్సు చెయ్యి, ఆయన ఒప్పుకుంటే అప్పుడు గంగని వదులుతాను' అని అన్నాడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "\"అప్పుడు భగీరథుడు శివుడి కోసం కాలి బొటనవేలి మీద నిలబడి ఒక సంవత్సరం తపస్సు చేయగా శివుడు ప్రత్యక్షమయ్యి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 2,
+    "id": "24.02",
+    "text": "కోరిక ప్రకారం 'నేను గంగని నా శిరస్సు మీద పడతాను' అన్నాడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
+    "text": "\"అప్పుడు శంకరుడు హిమాలయాల మీద నిలబడి, రెండు చేతులు నడుము మీద పెట్టుకొని, కాళ్ళ చాపి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 2,
+    "id": "25.02",
+    "text": "తన జటాజూటాన్ని గంగ కోసం ఆకాశం వైపు చూశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 3,
+    "id": "25.03",
+    "text": "'నా ప్రవాహంలో ఈ శంకరుడిని కూడా తీసుకుపోతాను, ఈయన నన్నేమి పట్టగలడు' అనుకుంది గంగ.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 1,
+    "id": "26.01",
+    "text": "\"అలా అనుకొని ఆకాశం నుండి శంకరుడి జటాజూటంలోకి జారింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 2,
+    "id": "26.02",
+    "text": "గంగ ఒక సంవత్సరం పాటు పడుతూనే ఉంది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 3,
+    "id": "26.03",
+    "text": "కాని శంకరుడి శిరస్సు నుండి ఒక చుక్క నీరు కూడా నేల మీద పడలేదు, అలా ఆయన శిరస్సులోనే తిరుగుతూ ఉంది.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 1,
+    "id": "27.01",
+    "text": "\"భగీరథుడు శంకరుడిని ప్రార్థించగా, ఆయన ఆ గంగని బిందుసరోవరంలో వదిలాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 2,
+    "id": "27.02",
+    "text": "అప్పుడు ఆ గంగ హ్లాదినీ, పావనీ, నళిని అని మూడు పాయలుగా తూర్పుదిక్కుకి వెళ్ళింది, సుచక్షువు, సీతా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 3,
+    "id": "27.03",
+    "text": "సింధువు అని మూడు పాయలుగా పడమరదిక్కుకి వెళ్ళింది, ఏడవ పాయ భగీరథుడి వెనకాల వెళ్ళింది.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 1,
+    "id": "28.01",
+    "text": "\"రథం మీద భగీరథుడు వెళ్ళగా ఆయన వెనకాల పరుగులు తీస్తూ గంగ ప్రవహించింది, గంగతో పాటు మొసళ్ళు, తాబేళ్లు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 2,
+    "id": "28.02",
+    "text": "చేపలు ఆ గంగలో ప్రవహించాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 3,
+    "id": "28.03",
+    "text": "ఈ అపురూపమైన ఘట్టాన్ని చూడడానికి దేవతలంతా ఆకాశంలో నిలబడ్డారు, పాపాలు చేసిన వారు ఆ గంగలో మునిగి తమ పాపాలు పోగొట్టుకున్నారు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 4,
+    "id": "28.04",
+    "text": "కొందరు శంకరుడి పాదాల దగ్గర ప్రవహిస్తున్న గంగ నీళ్ళు తల మీద జల్లుకొని తమ పాపాలు పోగొట్టుకున్నారు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 29,
+    "part": 1,
+    "id": "29.01",
+    "text": "\"వెళుతున్న గంగ అక్కడే యాగము చేసుకుంటున్న జహ్ను మహర్షి ఆశ్రమాన్ని ముంచేసింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 29,
+    "part": 2,
+    "id": "29.02",
+    "text": "ఆగ్రహించిన జహ్ను మహర్షి గంగనంతా మింగేశారు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 30,
+    "part": 1,
+    "id": "30.01",
+    "text": "\"భగీరథుడు వెనక్కి తిరిగి చూసేసరికి వెనకాల ఏమి లేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 30,
+    "part": 2,
+    "id": "30.02",
+    "text": "వెంటనే భగీరథుడు జహ్ను మహర్షి కాళ్ళ మీద పడి ప్రాధేయపడగా ఆయన గంగని తన చెవులలోనుండి విడిచిపెట్టాడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 31,
+    "part": 1,
+    "id": "31.01",
+    "text": "\"జహ్ను మహర్షి చెవులనుండి వచ్చింది కనుక గంగని జాహ్నవి అని పిలిచారు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 32,
+    "part": 1,
+    "id": "32.01",
+    "text": "\"అలా భగీరథుడి వెనకాలే ప్రయాణించి లోకములో ఉన్న ఆయన పితృదేవతల భస్మం మీద నుండి ప్రవహించింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 32,
+    "part": 2,
+    "id": "32.02",
+    "text": "గంగ యొక్క ప్రవాహం తగలగానే ఆ సగరులు స్వర్గానికి వెళ్ళారు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 33,
+    "part": 1,
+    "id": "33.01",
+    "text": "\"స్వర్గలోకములో ప్రవహించేటప్పుడు గంగని మందాకినీ అని, భూమి మీద భాగీరథి అని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 33,
+    "part": 2,
+    "id": "33.02",
+    "text": "పాతాళంలో భోగవతి అని పిలుస్తారు\" అని విశ్వామిత్రుడు రాముడికి గంగావతరణం గూర్చి చెప్పాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 34,
+    "part": 1,
+    "id": "34.01",
+    "text": "తర్వాత చూద్దాం — గంగా నదిని దాటి, రామలక్ష్మణులు మిథిలా నగరానికి ఎలా చేరుకున్నారో.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "scene": 0,
+    "start": 0.0,
+    "duration": 6.833333333333333,
+    "speech_start": 0.7,
+    "speech_duration": 5.4,
+    "image": "production/E0.01_parichayam/cinematic-v2/river.png",
+    "dialogue": "﻿పురాణామృతం! పురాణాలు, ఇతిహాసాల అమృత గాథలు!",
+    "title": "పురాణామృతం"
+  },
+  {
+    "scene": 1,
+    "start": 6.233,
+    "duration": 12.466666666666667,
+    "speech_start": 6.933,
+    "speech_duration": 11.064,
+    "image": "production/E0.01_parichayam/cinematic-v2/river.png",
+    "dialogue": "﻿నమస్తే. ఇది \"పురాణామృతం\" ఛానల్. ఈ రోజు నుండి మనం మొదలుపెడుతున్నాం, సంపూర్ణ వాల్మీకి రామాయణం యొక్క ప్రయాణాన్ని.",
+    "title": "శ్రీమద్రామాయణం"
+  },
+  {
+    "scene": 2,
+    "start": 18.1,
+    "duration": 23.033333333333335,
+    "speech_start": 18.8,
+    "speech_duration": 21.624,
+    "image": "production/E0.01_parichayam/cinematic-v2/manuscripts.png",
+    "dialogue": "﻿పరిచయం. రామాయణము 24 వేల శ్లోకాలు. మొత్తం 6 కాండలు, అవి — బాల, అయోధ్య, అరణ్య, కిష్కింధ, సుందర, యుద్ధ కాండలు, ఈ 6 కాండల మీద ఒక కాండ, ఉత్తర కాండ. రామాయణాన్ని ఆదికావ్యం అని అంటారు.",
+    "title": "ఆదికావ్యం"
+  },
+  {
+    "scene": 7,
+    "start": 40.533,
+    "duration": 11.6,
+    "speech_start": 41.233,
+    "speech_duration": 10.176,
+    "image": "assets/images/E0.01_parichayam/scene-07-humanity-family.png",
+    "dialogue": "﻿రామాయణములో రాముడు ఒక భగవానుడిలాగ బతికి చూపించలేదు, ఒక మనిషిలాగ బతికి చూపించాడు. మనం ఎలా బతకాలో చూపించాడు.",
+    "title": "మనిషిగా ఎలా బతకాలి?"
+  },
+  {
+    "scene": 8,
+    "start": 51.533,
+    "duration": 30.033333333333335,
+    "speech_start": 52.233,
+    "speech_duration": 28.632,
+    "image": "assets/images/E0.01_parichayam/scene-08-living-ramayana-tradition.png",
+    "dialogue": "﻿అందుకే రామాయణము ఎంతకాలం ఉంటుందో, ఎంతకాలం చెప్పుకుంటామో, ఎంతకాలం చదువుతామో, ఎంతకాలం రామాయణము మీద విశ్వాసం ఉంటుందో, అంత కాలం మానవత్వం ఉంటుంది. మానవత్వం లేనప్పుడు మనిషిగా పుట్టి ప్రయోజనం లేదు. తల్లిదండ్రుల దగ్గర, సోదరుల దగ్గర, గురువుల దగ్గర, భార్య దగ్గర ఎలా ఉండాలో, ఒక మాటకి కట్టుబడి ఎలా ఉండాలో రాముడిని చూసి నేర్చుకోవాలి.",
+    "title": "మన జీవితంలో రామాయణం"
+  },
+  {
+    "scene": 9,
+    "start": 80.967,
+    "duration": 18.433333333333334,
+    "speech_start": 81.667,
+    "speech_duration": 17.016,
+    "image": "assets/images/E0.01_parichayam/scene-09-hanuman-listening.png",
+    "dialogue": "﻿యత్ర యత్ర రఘునాథ కీర్తనం, తత్ర తత్ర కృతమస్తకాంజలిం । బాష్పవారి పరిపూర్ణలోచనం, మారుతిం నమత రాక్షసాంతకం ॥ ఎక్కడైనా రామాయణము గూర్చి మాట్లాడుతుంటే స్వామి హనుమ తప్పకుండా వచ్చి వింటారు.",
+    "title": "హనుమ సన్నిధి"
+  },
+  {
+    "scene": 12,
+    "start": 98.8,
+    "duration": 9.666666666666666,
+    "speech_start": 99.5,
+    "speech_duration": 8.256,
+    "image": "assets/images/E0.01_parichayam/scene-12-closing-verse-background.png",
+    "dialogue": "﻿కూజంతం రామరామేతి మధురం మధురాక్షరం । ఆరుహ్య కవితాశాఖాం వందే వాల్మీకి కోకిలం ॥",
+    "title": "వాల్మీకి వందనం"
+  },
+  {
+    "scene": 13,
+    "start": 107.867,
+    "duration": 15.566666666666666,
+    "speech_start": 108.567,
+    "speech_duration": 14.16,
+    "image": "assets/images/E0.01_parichayam/scene-13-valmiki-writing.png",
+    "dialogue": "﻿రాముడి యొక్క ఆయనం (నడక) కనుక దీనికి రామాయణము అని వాల్మీకి మహర్షి పేరు పెట్టారు. అలాగే ఆయన రామాయణానికి సీతాయాశ్చరితం మహత్, పౌలస్త్య వధ అనే పేర్లు కూడా పెట్టుకున్నారు.",
+    "title": "రామాయణం అనే పేరు"
+  },
+  {
+    "scene": 14,
+    "start": 122.833,
+    "duration": 7.833333333333333,
+    "speech_start": 123.533,
+    "speech_duration": 6.432,
+    "image": "assets/images/E0.01_parichayam/scene-14-next-episode-end-card.png",
+    "dialogue": "﻿తర్వాతి భాగంలో చూద్దాం — వాల్మీకి మహర్షి ఎవరు, ఈ మహాకావ్యం ఎలా పుట్టిందో.",
+    "title": "తర్వాతి భాగంలో…"
+  },
+  {
+    "scene": 15,
+    "start": 130.067,
+    "duration": 11.066666666666666,
+    "speech_start": 130.767,
+    "speech_duration": 9.648,
+    "image": "assets/images/E0.01_parichayam/scene-14-next-episode-end-card.png",
+    "dialogue": "﻿ఈ కథను ఇష్టపడితే, ఛానల్‌ని సబ్‌స్క్రైబ్ చేసుకోండి, బెల్ ఐకాన్ నొక్కండి — తర్వాతి భాగం కోసం. పురాణామృతం.",
+    "title": "మన ప్రయాణం కొనసాగుతుంది"
+  }
+]

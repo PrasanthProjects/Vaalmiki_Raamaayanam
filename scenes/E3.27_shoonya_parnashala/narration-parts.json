@@ -1,0 +1,587 @@
+[
+  {
+    "scene": 1,
+    "part": 1,
+    "id": "01.01",
+    "text": "గత భాగం చివర్లో సీతమ్మ లంకలో అశోకవనంలో బందీ అయ్యింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 1,
+    "part": 2,
+    "id": "01.02",
+    "text": "ఇప్పుడు ఆశ్రమానికి తిరిగి వస్తున్న రాముడి దగ్గరికి వెళదాం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 1,
+    "id": "02.01",
+    "text": "ఇటుపక్క రామచంద్రమూర్తి మాంసం పట్టుకుని వస్తుంటే, విచిత్రంగా వెనకనుండి ఒక నక్క కూత వినబడింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 2,
+    "id": "02.02",
+    "text": "అలాగే రాముడిని దీనంగా చూస్తూ అక్కడున్న మృగాలన్నీ ఎడమ వైపు నుండి ప్రదక్షిణంగా తిరిగాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 3,
+    "id": "02.03",
+    "text": "ఈ శకునాలని చూసిన రాముడు, సీతకి ఏదో జరిగినదని భావించి గబగబా వస్తుండగా ఆయనకి ఎదురగా లక్ష్మణుడు వచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 4,
+    "id": "02.04",
+    "text": "లక్ష్మణుడిని చూడగానే రాముడి పైప్రాణాలు పైనే ఎగిరిపోయాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 1,
+    "id": "03.01",
+    "text": "అప్పుడాయన లక్ష్మణుడితో \"సీతని వదిలి ఎందుకు వచ్చావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 2,
+    "id": "03.02",
+    "text": "సీత ప్రమాదంలో ఉందని నేను అనుకుంటున్నాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 3,
+    "id": "03.03",
+    "text": "సీత క్షేమంగా ఉంటుందా?",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 4,
+    "id": "03.04",
+    "text": "బతికి ఉంటుందా?",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 5,
+    "id": "03.05",
+    "text": "నాకు నమ్మకం లేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 6,
+    "id": "03.06",
+    "text": "ఎందుకంటే నేను ఖర దూషణులని సంహరించాక రాక్షసులు నా మీద పగబట్టారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 7,
+    "id": "03.07",
+    "text": "మారీచుడు మరణిస్తూ 'హా సీతా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 8,
+    "id": "03.08",
+    "text": "హా లక్ష్మణా!' అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 9,
+    "id": "03.09",
+    "text": "సీత నిన్ను నిగ్రహించి పంపి ఉంటుంది, అందుకని నువ్వు వచ్చావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 1,
+    "id": "04.01",
+    "text": "నువ్వు వచ్చేశాక సీతని ఆ రాక్షసులు అపహరించడమైనా జరిగుంటుంది, లేదా ఆమె కుత్తుక కోసి, ఆమెని తినెయ్యడం అయినా జరిగుంటుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 2,
+    "id": "04.02",
+    "text": "ఏదో ప్రమాదకరమైన పని జరిగుంటుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 3,
+    "id": "04.03",
+    "text": "లక్ష్మణా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 4,
+    "id": "04.04",
+    "text": "నువ్వు ఇలా వస్తావని నేను ఊహించలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 5,
+    "id": "04.05",
+    "text": "నువ్వు రాకుండా ఉండి ఉండవలసింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 6,
+    "id": "04.06",
+    "text": "ఈ ముఖం పెట్టుకొని నేను అయోధ్యకి ఎలా వెళ్ళను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 7,
+    "id": "04.07",
+    "text": "అందరూ వచ్చి సీతమ్మ ఏది అని అడిగితే, నేను ఏమని చెప్పుకోను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 8,
+    "id": "04.08",
+    "text": "అరణ్యవాసానికి తనని అనుగమించి వచ్చిన సీతమ్మని రక్షించుకోలేని పరాక్రమహీనుడు రాముడు, అని అందరూ చెప్పుకుంటుంటే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 9,
+    "id": "04.09",
+    "text": "ఆ మాటలు విని నేను ఎలా బతకను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 10,
+    "id": "04.10",
+    "text": "నేను అసలు వెనక్కి రానే రాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 11,
+    "id": "04.11",
+    "text": "సీత ఆశ్రమంలో కనపడకపోతే నా ప్రాణాలు విడిచిపెట్టేస్తాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 1,
+    "id": "05.01",
+    "text": "ఏ సీత యొక్క ఓదార్పు చేత 13 సంవత్సరాల అరణ్యవాసాన్ని క్షణములా గడిపానో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 2,
+    "id": "05.02",
+    "text": "ఆ సీత నా కంటపడనప్పుడు నాకు రాజ్యం అక్కరలేదు, అంతఃపుర భోగములు అక్కరలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 3,
+    "id": "05.03",
+    "text": "నువ్వు అయోధ్యకి వెళ్ళి, నేను చెప్పానని చెప్పి, భరతుడిని పట్టాభిషేకం చేసుకొని రాజ్యం ఏలమన్నానని చెప్పు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 4,
+    "id": "05.04",
+    "text": "నా తల్లి కౌసల్యని సేవించు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 5,
+    "id": "05.05",
+    "text": "నేను అయోధ్యకి తిరిగొస్తే, జనకుడు నన్ను చూసి 'రామ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 6,
+    "id": "05.06",
+    "text": "నీకు కన్యాదానము చేశాను కదా, ఏదయ్యా సీతమ్మ' అని అడుగుతారు, అప్పుడు నేను జనకుడి ముఖాన్ని ఏ ముఖంతో చూడను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 7,
+    "id": "05.07",
+    "text": "సీతని వదిలి రావద్దని నేను నిన్ను ఆజ్ఞాపించాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 8,
+    "id": "05.08",
+    "text": "కాని నా ఆజ్ఞని పాటించకుండా సీతని వదిలి నువ్వు ఒక్కడివీ ఎందుకు వచ్చావు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 1,
+    "id": "06.01",
+    "text": "అప్పుడు లక్ష్మణుడు \"అన్నయ్య!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 2,
+    "id": "06.02",
+    "text": "నా అంత నేనుగా రాలేదు, సీతమ్మని విడిచిపెట్టి రాలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 3,
+    "id": "06.03",
+    "text": "నీ మాటని పాటిద్దామని ప్రతిక్షణం సీతమ్మ దగ్గరే ఉండి జాగ్రత్తగా కాపు కాశాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 1,
+    "id": "07.01",
+    "text": "ఆర్యేణ ఏవ పరిక్రుష్టం పరాక్రుష్టం హా సీతే లక్ష్మణ ఇతి చ | పరిత్రాహి ఇతి యత్ వాక్యం మైథిల్యాః తత్ శ్రుతిం గతం ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 1,
+    "id": "08.01",
+    "text": "కాని ఎప్పుడైతే అరణ్యంలోనుండి నీ గొంతుతో 'హా సీతా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 2,
+    "id": "08.02",
+    "text": "హా లక్ష్మణా' అన్న మాటలు సీతమ్మ విన్నదో, నీయందు ఉన్నటువంటి అపారమైన ప్రేమ చేత భయవిహ్వల అయిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 3,
+    "id": "08.03",
+    "text": "అప్పుడు సీతమ్మ ఏడుస్తూ, లక్ష్మణా వెళ్ళు, అని నన్ను ఒకటికి పదిమార్లు తొందరచేసింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 4,
+    "id": "08.04",
+    "text": "కాని మా అన్నయ్య అలా నీచంగా రక్షించండి అని ఒక్కనాటికి అరవడు, ఇది రాక్షస మాయ అని సీతమ్మకి చెప్పాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 5,
+    "id": "08.05",
+    "text": "కాని 'నువ్వు భరతుడితో కలిసి కుట్ర చేసి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 6,
+    "id": "08.06",
+    "text": "నన్ను పొందడానికి రాముడి వెనకాల అరణ్యవాసానికి వచ్చావు' అని సీతమ్మ నన్ను ఒక కఠినమైన మాట అంటే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 7,
+    "id": "08.07",
+    "text": "నేను ఇంక తట్టుకోలేక బయలుదేరి వచ్చేశాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 8,
+    "id": "08.08",
+    "text": "నాయందు ఏ దోషము లేదన్నయ్య, నన్ను మన్నించు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 1,
+    "id": "09.01",
+    "text": "అప్పుడు రాముడు \"నువ్వు ఎన్నయినా చెప్పు లక్ష్మణా, సీతని ఒక్కదాన్ని అరణ్యంలో విడిచిపెట్టి నువ్వు ఇలా రాకూడదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "నా మాటగా రాక్షసుడి మాట వినపడితే, సీత నిన్ను ఒకమాట అని ఉండవచ్చు, అంతమాత్రాన సీతని విడిచి వచ్చేస్తావా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 3,
+    "id": "09.03",
+    "text": "ఇప్పుడు సీత ఎంత ప్రమాదంలో ఉందో.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 4,
+    "id": "09.04",
+    "text": "నువ్వు కోపానికి లోనయ్యావు, అందుకని సీతని విడిచిపెట్టి వచ్చేశావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 5,
+    "id": "09.05",
+    "text": "ఇప్పుడు నేను ఏమి చెయ్యను\" అని అంటూ ఆ పర్ణశాల ఉండే ప్రదేశానికి చేరుకున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "రాముడు ఆ పర్ణశాలలో అంతా చూశాడు, కాని సీతమ్మ ఎక్కడా కనపడలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "అప్పుడాయన ఆ చుట్టుపక్కల అంతా వెతికాడు, దగ్గరలో ఉన్న పర్వతాలకి వెళ్ళాడు, నదుల దగ్గరికి వెళ్ళి చూశాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 3,
+    "id": "10.03",
+    "text": "అక్కడే ఉన్న జింకల దగ్గరికి వెళ్ళాడు, పెద్ద పులుల్ని, చెట్లని అడిగాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 4,
+    "id": "10.04",
+    "text": "అలా ఏనుగు దగ్గరికి వెళ్ళి \"ఓ ఏనుగా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 5,
+    "id": "10.05",
+    "text": "నీ తొండం ఎలా ఉంటుందో సీత జెడ కూడా అలానే ఉంటుంది, నీకు తెలిసుంటుంది సీత ఎక్కడుందో, నాకు చెప్పవా\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 6,
+    "id": "10.06",
+    "text": "దగ్గర ఉన్న చెట్ల దగ్గరికి వెళ్ళి \"సీత ఎక్కడుందో మీకు తెలిసుంటుంది, నాకు నిజం చెప్పరా\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 7,
+    "id": "10.07",
+    "text": "అక్కడే ఉన్న జింకల దగ్గరికి వెళ్ళి \"సీత మీతో ఆడుకునేది కాదా, సీతకి ప్రమాదం జరిగినప్పుడు మీకు తెలిసి ఉంటుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 8,
+    "id": "10.08",
+    "text": "నాకు సీత ఎక్కడ ఉందో చెబుతారా\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 9,
+    "id": "10.09",
+    "text": "అలాగే అక్కడ కూర్చొని ఏడుస్తూ \"అయ్యో, రాక్షసులు వచ్చి సీత యొక్క పీక నులిమేసి, ఆమె రక్తాన్ని తాగేసి, మాంసాన్ని భక్షిస్తుంటే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 10,
+    "id": "10.10",
+    "text": "'హా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 11,
+    "id": "10.11",
+    "text": "రామ, హా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 12,
+    "id": "10.12",
+    "text": "రామ' అని అరిచి ఉంటుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 13,
+    "id": "10.13",
+    "text": "ఎంత అస్త్ర-శస్త్ర సంపద తెలిసి మాత్రం నేను ఏమి చెయ్యగలిగాను, సీతని కాపాడుకోలేకపోయాను\" అని ఏడుస్తున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "తర్వాత చూద్దాం — గోదావరి, మృగాలు రాముడికి ఏమి చెప్పాయో.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  }
+]

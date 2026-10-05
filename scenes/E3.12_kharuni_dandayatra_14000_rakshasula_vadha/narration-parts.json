@@ -1,0 +1,470 @@
+[
+  {
+    "scene": 1,
+    "part": 1,
+    "id": "01.01",
+    "text": "గత భాగం చివర్లో శూర్పణఖ ఖరుడిని స్వయంగా యుద్ధానికి వెళ్ళమని రెచ్చగొట్టింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 1,
+    "part": 2,
+    "id": "01.02",
+    "text": "ఆ తరువాత ఏమి జరిగిందో చూద్దాం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 1,
+    "id": "02.01",
+    "text": "ఈ మాటలు విన్న ఖరుడికి ఎక్కడలేని ఉక్రోషం వచ్చి \"నేను ఇప్పుడే బయలుదేరతాను, నా ఎదుట యుద్ధంలో దేవేంద్రుడే నిలబడ్డా సంహరిస్తాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 2,
+    "id": "02.02",
+    "text": "మృత్యుదేవతకి మృత్యువుని నేను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 3,
+    "id": "02.03",
+    "text": "నేను కాని యుద్ధానికి వెళితే, నా ముందు నిలబడగలిగే వాడు అంటూ ఎవడూ ఉండడు\" అని పలికి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 4,
+    "id": "02.04",
+    "text": "14,000 మంది రాక్షసులతో కలిసి రామలక్ష్మణుల మీదకి యుద్ధానికి బయలుదేరాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 1,
+    "id": "03.01",
+    "text": "ఆ ఖరుడు బంగారంతో చెయ్యబడ్డ రథం ఎక్కి బయలుదేరాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 2,
+    "id": "03.02",
+    "text": "అప్పుడు గాడిద రంగులో ఉన్నటువంటి మేఘాలు ఆకాశంలో వచ్చి ఎర్రటి నీటిని వర్షించాయి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 3,
+    "id": "03.03",
+    "text": "ఆయన రథాన్ని నడుపుతున్న గుర్రాలు చాలా సమతలంగా ఉన్నటువంటి ఆ దారిలో తొట్రుపడి, ముందుకి పడిపోయి, పైకి లేచి నడిచాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 4,
+    "id": "03.04",
+    "text": "ఆకాశంలో సూర్యుడి చుట్టూ నలుపు-ఎరుపు రంగుల వలయం ఏర్పడింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 5,
+    "id": "03.05",
+    "text": "ఒక గ్రద్ద ఎగురుతూ వచ్చి ఆయన ధ్వజం మీద వాలి వెళ్ళిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 6,
+    "id": "03.06",
+    "text": "దిక్కులన్నీ అకారణంగా చీకటితో నిండిపోయాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 7,
+    "id": "03.07",
+    "text": "నక్కలు నోట్లోనుండి అగ్నిని కక్కుతూ, ఎదురుగా వచ్చి పెద్దగా ఏడిచాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 8,
+    "id": "03.08",
+    "text": "ఇన్ని దుశ్శకునాలు ఎదురొచ్చినా, ఆ ఖరుడు వాటిని లెక్కపెట్టకుండా ముందుకి వెళ్ళాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 9,
+    "id": "03.09",
+    "text": "ఆ ఖరుడి చుట్టూ 12 మంది రాక్షస సేనానులు నిల్చున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 10,
+    "id": "03.10",
+    "text": "వాడితోపాటు దూషణుడు, త్రిశిరస్కుడు, ప్రమాథి, స్థూలాక్షుడు, మహాకపాలుడు మొదలైన భయంకరమైన రాక్షసులు కూడా బయలుదేరారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 1,
+    "id": "04.01",
+    "text": "అటుపక్క రాముని ఆశ్రమంలో, పక్షులు చిత్రవిచిత్రమైన కూతలు కూస్తున్నాయి, భూమి ఒక్కసారి కంపించింది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 2,
+    "id": "04.02",
+    "text": "అలా కంపించడం వలన బంగారు పిడి కలిగిన ధనస్సు ఎగిరి ఎగిరి పడుతోంది, బాణముల చుట్టూ ధూమం ఆవరించింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 3,
+    "id": "04.03",
+    "text": "అప్పుడు రాముడు లక్ష్మణుడిని పిలిచి \"లక్ష్మణా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 4,
+    "id": "04.04",
+    "text": "నిష్కారణంగా పర్ణశాలలో ఉన్న ధనుస్సు భూమి కంపించేసరికి ఎగిరి ఎగిరి పడుతోంది, అలాగే బాణముల చుట్టూ ధూమం ఆవహిస్తోంది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 5,
+    "id": "04.05",
+    "text": "అంటే గొప్ప యుద్ధం వస్తోందని ధనుర్బాణములు ఆనందపడుతున్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 6,
+    "id": "04.06",
+    "text": "దూరంగా పక్షి కూస్తోంది అంటే, ఈ యుద్ధంలో జయాపజయాలు దైవనిర్ణయాలు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 7,
+    "id": "04.07",
+    "text": "నా ఎడమ భుజం అదురుతోంది కనుక, ఖచ్చితంగా మనం గెలుస్తామని అనుకుంటున్నాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 1,
+    "id": "05.01",
+    "text": "తస్మాత్ గృహీత్వా వైదేహీం శర పాణిః ధనుర్ ధరః | గుహాం ఆశ్రయ శైలస్య దుర్గాం పాదప సంకులాం ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 1,
+    "id": "06.01",
+    "text": "అందుకని లక్ష్మణా నువ్వు వెంటనే ధనుర్బాణములని పట్టుకొని, సీతని తీసుకొని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 2,
+    "id": "06.02",
+    "text": "ఎవరు చూసినా కూడా కనపడనంతగా చెట్లతో కప్పబడిన ఒక పర్వత గుహలోకి వెళ్ళిపో.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 3,
+    "id": "06.03",
+    "text": "నేను యుద్ధం చేస్తాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 4,
+    "id": "06.04",
+    "text": "నువ్వు నాతో 'సీతమ్మని తీసుకొని లోపలికి వెళ్ళిపో' అనే మాటలు చెప్పమాకు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 5,
+    "id": "06.05",
+    "text": "నువ్వు యుద్ధం చెయ్యలేవు అని కాదు, నువ్వు ఒక్కడివే వీళ్ళని చంపగలవు, కాని వీళ్ళతో యుద్ధం చెయ్యాలని నేను కోరుకుంటున్నాను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 6,
+    "id": "06.06",
+    "text": "అంతేకాని నిన్ను తక్కువ చేసి చూడడం లేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 7,
+    "id": "06.07",
+    "text": "నేను చెప్పింది విని తొందరగా సీతని తీసుకొని వెళ్ళిపో\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 1,
+    "id": "07.01",
+    "text": "అప్పుడు సీతమ్మని తీసుకొని లక్ష్మణుడు ఒక పర్వత గుహలోకి వెళ్ళాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 2,
+    "id": "07.02",
+    "text": "క్రోధంతో కోదండాన్ని పట్టుకొని ఉన్న రాముడిని చూస్తే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 3,
+    "id": "07.03",
+    "text": "ఆనాడు పినాకిని అనే ధనుస్సుని పట్టుకొని దక్ష యజ్ఞాన్ని ధ్వంసం చేయుటకు నిలబడ్డ రుద్రుడైన శివుడిలా ఉన్నాడని వాల్మీకి మహర్షి చెప్పారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 4,
+    "id": "07.04",
+    "text": "ఆశ్రమానికి వచ్చిన ఖరుడు తన సైన్యంతో రాముడిని చుట్టుముట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 5,
+    "id": "07.05",
+    "text": "మధ్యలో రాముడు ఒక్కడే ఉన్నాడు, రాముడి చుట్టూ 14,000 మంది రాక్షసులు నిలబడ్డారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 6,
+    "id": "07.06",
+    "text": "అప్పుడు వారు రాముడి మీద బాణాలు, శూలాలు, గదలు మొదలైనవి విసిరారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 1,
+    "id": "08.01",
+    "text": "వాటి దెబ్బలకి రాముడి ఒళ్ళంతా నెత్తురోడింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 2,
+    "id": "08.02",
+    "text": "నదీ ప్రవాహం వచ్చి కలిసిపోతునప్పుడు సముద్రం ఎలా సంతోషంగా ఉంటుందో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 3,
+    "id": "08.03",
+    "text": "పెద్ద వర్షం పడుతున్నప్పుడు ఎత్తైన ప్రదేశానికి వెళ్ళి ఆబోతు ఎలా నిలబడుతుందో అలా రాముడు, ఆ బాణ ప్రవాహాన్ని స్వీకరిస్తూ నిలబడ్డాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 4,
+    "id": "08.04",
+    "text": "రాముడు ఒక్కసారి తన ధనుస్సుని తీసి మండలాకారంగా తిప్పి ఆ రాక్షసుల మీద బాణ ప్రయోగం చేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 5,
+    "id": "08.05",
+    "text": "ఎప్పుడు ఆ అక్షయబాణ తూణీరంలో నుండి బాణం తీశాడో, ఎప్పుడు ఆ బాణాన్ని తన ధనుస్సుకి సంధించాడో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 6,
+    "id": "08.06",
+    "text": "ఎప్పుడు గురి చూసి ఆ బాణాన్ని విడిచిపెట్టాడో ఎవరూ చూడలేదు, అంత వేగంగా బాణ ప్రయోగం చేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 1,
+    "id": "09.01",
+    "text": "రాముడు ఒక్కడు నేల మీద నుండి యుద్ధం చేస్తుంటే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "దారుణంగా 14,000 మంది రాక్షసులు రథాలలో ఉండి రాముడితో యుద్ధం చేస్తున్నారని ఆకాశంలో దేవతలు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 3,
+    "id": "09.03",
+    "text": "మునులు నిలబడి రాముడికి విజయం చేకూరాలని ఆశీర్వదించారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 4,
+    "id": "09.04",
+    "text": "ఆ యుద్ధానికి దిక్కులన్నీ కదిలిపోతున్నాయి, పర్వతాలు ప్రకంపించాయి, వన దేవతలు వనాన్ని విడిచి పారిపోయారు, క్రూరమృగాలు దిక్కులు పట్టి పారిపోయాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 5,
+    "id": "09.05",
+    "text": "రాముడి బాణ పరంపరకి ఏనుగుల తొండాలు తెగిపోయాయి, గుర్రాల పాదములు రాలిపోయాయి, రాక్షసుల కంఠాలు నేల మీద పడ్డాయి, కొందరికి భుజాలు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 6,
+    "id": "09.06",
+    "text": "కొందరికి పాదములు తెగిపోయాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 7,
+    "id": "09.07",
+    "text": "రాముడు ఏక కాలంలో 13 బాణాలని వింటినారికి తొడిగి విడిచిపెట్టేవాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 8,
+    "id": "09.08",
+    "text": "అలా ఆ 14,000 మంది రాక్షసులని రాముడు ఒక్కడే సంహరించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "తర్వాత చూద్దాం — మిగిలిన దూషణ, త్రిశిర, ఖరులు రాముడితో ఎలా తలపడ్డారో.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  }
+]
