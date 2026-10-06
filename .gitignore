@@ -1,0 +1,10 @@
+# Local tool installs (ffmpeg binaries exceed GitHub's 100 MB file limit)
+.tools/
+tools/ffmpeg/
+ffmpeg-test/
+ffmpeg-download.zip
+
+# Python environments
+.venv/
+.venv-whisper/
+__pycache__/
