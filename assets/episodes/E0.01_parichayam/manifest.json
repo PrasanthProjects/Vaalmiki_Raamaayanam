@@ -1,0 +1,23 @@
+{
+  "episode": "E0.01",
+  "title": "Parichayam",
+  "script": "00_Parichayam/E0.01_parichayam.md",
+  "status": "in-progress",
+  "style_lock": ["00_CHARACTER_BIBLE.md", "00_STYLE_GUIDE.md"],
+  "scenes": [
+    {"number": 1, "slug": "title-card-dawn-river", "script_row": 1, "status": "reference", "legacy_file": "images/E0_01_Parichayam/01_Scene.png"},
+    {"number": 2, "slug": "seven-manuscript-bundles", "script_row": 2, "status": "reference", "legacy_file": "images/E0_01_Parichayam/02_Scene.png"},
+    {"number": 3, "slug": "rama-forest-vow", "script_row": 3, "status": "reference", "legacy_file": "images/E0_01_Parichayam/03_Scene.png"},
+    {"number": 4, "slug": "rama-vow-verse-card", "script_row": 4, "status": "draft", "file": "scene-004_rama-vow-verse-card.png", "prompt": "Devotional indigo and gold verse-card background with clean center space; no generated text."},
+    {"number": 5, "slug": "rama-royal-and-exile-symbolism", "script_row": 5, "status": "draft", "file": "scene-005_rama-royal-and-exile-symbolism.png", "prompt": "Realistic split-flow cinematic composition: royal Rama in Ayodhya court transitioning to exile Rama walking through forest."},
+    {"number": 6, "slug": "rama-dasharatha-sita-symbolic-cutaways", "script_row": 6, "status": "draft", "file": "scene-006_rama-dasharatha-sita-symbolic-cutaways.png", "prompt": "Realistic cinematic montage of Rama bowing to Dasharatha, Rama reflecting in forest, and Rama with Sita in exile."},
+    {"number": 7, "slug": "rama-as-human-example", "script_row": 7, "status": "draft", "file": "scene-007_rama-as-human-example.png", "prompt": "Realistic village scene showing humble, compassionate Rama helping and listening to ordinary people."},
+    {"number": 8, "slug": "ramayana-living-tradition", "script_row": 8, "status": "draft", "file": "scene-008_ramayana-living-tradition.png", "prompt": "Realistic dusk courtyard with an elderly teacher reading palm-leaf manuscripts to a multigenerational South Indian family."},
+    {"number": 9, "slug": "hanuman-listening-motif", "script_row": 9, "status": "draft", "file": "scene-009_hanuman-listening-motif.png", "prompt": "Realistic devotional Hanuman listening reverently in a forest hermitage beside a shrine and lamp."},
+    {"number": 10, "slug": "ravana-brahma-boon-story", "script_row": 10, "status": "draft", "file": "scene-010_ravana-brahma-boon-story.png", "prompt": "Realistic mythic flashback of ten-headed Ravana performing tapasya before Brahma in a mountain forest."},
+    {"number": 11, "slug": "rama-name-and-humanity", "script_row": 11, "status": "draft", "file": "scene-011_rama-name-and-humanity.png", "prompt": "Realistic sunrise forest settlement showing compassionate exile-stage Rama bringing reassurance to a mother, child, and villagers."},
+    {"number": 12, "slug": "valmiki-invocation-verse-card", "script_row": 12, "status": "draft", "file": "scene-012_valmiki-invocation-verse-card.png", "prompt": "Realistic devotional still life of blank palm-leaf manuscript, carved stand, oil lamp, and dawn hermitage background with clean space for verified verse text."},
+    {"number": 13, "slug": "ramayana-name-and-sita-story", "script_row": 13, "status": "draft", "file": "scene-013_valmiki-rama-sita-story.png", "prompt": "Realistic Valmiki composing beside a river hermitage, with subtle background reflection of Rama and Sita walking together."},
+    {"number": 14, "slug": "valmiki-maharshi-closing-bridge", "script_row": 14, "status": "draft", "file": "scene-014_valmiki-closing-bridge.png", "prompt": "Realistic closing frame of Valmiki Maharshi overlooking a river at sunrise beside his hermitage and palm-leaf manuscripts."}
+  ]
+}
