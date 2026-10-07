@@ -50,7 +50,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** ఆపృచ్ఛే త్వాం పురీశ్రేష్ఠే కాకుత్స్థ పరిపాలితే | దైవతాని చ యాని త్వాం పాలయంత్యావసంతి చ ॥
+**Story:** ఆపృచ్ఛే త్వాం పురీశ్రేష్ఠే కాకుత్స్థపరిపాలితే । దైవతాని చ యాని త్వాం పాలయంత్యావసంతి చ ॥
 
 **Image:** Pending creation.
 
@@ -78,7 +78,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** తత్ర రాజా గుహో నామ రామస్యాత్మసమః సఖా | నిషాదజాత్యో బలవాన్ స్థపతిశ్చేతి విశ్రుతః ॥
+**Story:** తత్ర రాజా గుహో నామ రామస్య ఆత్మ సమః సఖా । నిషాద జాత్యో బలవాన్ స్థపతిః చ ఇతి విశ్రుతః ॥
 
 **Image:** Pending creation.
 
@@ -98,7 +98,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** గుహమేవ బ్రువాణం తం రాఘవః ప్రత్యువాచ హ | అర్చితాశ్చైవ హృష్టాశ్చ భవతా సర్వథా వయమ్ | పద్భ్యామభిగమాచ్చైవ స్నేహసందర్శనేన చ ॥
+**Story:** గుహం ఏవ బ్రువాణం తం రాఘవః ప్రత్యువాచ హ । అర్చితాః చైవ హృష్టాః చ భవతా సర్వథా వయం । పద్భ్యాం అభిగమాచ్ చైవ స్నేహ సందర్శనేన చ ॥
 
 **Image:** Pending creation.
 
@@ -126,7 +126,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** కథం దాశరథౌ భూమౌ శయానే సహ సీతయా | శక్యా నిద్రా మయా లబ్ధుం జీవితం వా సుఖాని వా ॥
+**Story:** కథం దాశరథౌ భూమౌ శయానే సహ సీతయా । శక్యా నిద్రా మయా లబ్ధుం జీవితం వా సుఖాని వా ॥
 
 **Image:** Pending creation.
 
@@ -136,7 +136,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** యో న దేవాసురైః సర్వైః శక్యః ప్రసహితుం యుధి | తం పశ్య సుఖసంవిష్టం తృణేషు సహ సీతయా ॥
+**Story:** యో న దేవ అసురైః సర్వైః శక్యః ప్రసహితుం యుధి । తం పశ్య సుఖ సంవిష్టం తృణేషు సహ సీతయా ॥
 
 **Image:** Pending creation.
 

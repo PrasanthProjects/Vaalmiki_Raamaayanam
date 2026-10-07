@@ -92,13 +92,13 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** [Sumantra Visual Lock] recounting what he once heard from Sage Sanatkumara — shown as a nested narration frame (Sumantra as an in-story narrator), desaturated/flashback treatment begins here per style guide.
 
-**Story:** పూర్వకాలములో ఒకసారి సనత్కుమారుడు ఋషులకు ఇలా చెప్పాడు — ఇక్ష్వాకువంశములో జన్మించిన దశరథ మహారాజుకి కుమారులు లేక అశ్వమేథ యాగము చేస్తాడు. ఆ యాగము వలన ఆయనకి నలుగురు కుమారులు కలుగుతారు. కాని అశ్వమేథ యాగముతో పాటు పుత్రకామేష్టి యాగము కూడా చెయ్యాలి. ఈ రెండు యాగములను చెయ్యగలిగినవాడు ఋష్యశృంగుడు — ఆయన ఆ యాగములను చేస్తేనే సంతానము కలుగునని సనత్కుమారుడు చెప్తుంటే విన్నాను" — సుమంత్రుడు దశరథ మహారాజుతో అన్నాడు.
+**Story:** సనత్కుమారో భగవాన్ పూర్వం కథితవాన్ కథాం । ఋషీణాం సన్నిధౌ రాజన్ తవ పుత్రాగమం ప్రతి ॥ పూర్వకాలములో ఒకసారి సనత్కుమారుడు ఋషులకు ఇలా చెప్పాడు — ఇక్ష్వాకువంశములో జన్మించిన దశరథ మహారాజుకి కుమారులు లేక అశ్వమేథ యాగము చేస్తాడు. ఆ యాగము వలన ఆయనకి నలుగురు కుమారులు కలుగుతారు. కాని అశ్వమేథ యాగముతో పాటు పుత్రకామేష్టి యాగము కూడా చెయ్యాలి. ఈ రెండు యాగములను చెయ్యగలిగినవాడు ఋష్యశృంగుడు — ఆయన ఆ యాగములను చేస్తేనే సంతానము కలుగునని సనత్కుమారుడు చెప్తుంటే విన్నాను" — సుమంత్రుడు దశరథ మహారాజుతో అన్నాడు.
 
 **Image:** [scene-08-sumantra-nested-prophecy.png](../../assets/images/E1.03_ayodhya_dasaratha_rishyashringa/scene-08-sumantra-nested-prophecy.png)
 
 ![Sumantra Nested Prophecy](../../assets/images/E1.03_ayodhya_dasaratha_rishyashringa/scene-08-sumantra-nested-prophecy.png)
 
-**Source note:** This nested-prophecy structure (Sanatkumara → Sumantra → Dasharatha, all pointing to Rishyashringa) is a real narrative complexity — keep the visual framing (narration inset) clear so viewers don't lose the thread.
+**Source note:** This nested-prophecy structure (Sanatkumara → Sumantra → Dasharatha, all pointing to Rishyashringa) is a real narrative complexity — keep the visual framing (narration inset) clear so viewers don't lose the thread. 🔴 VERSE — the p. 19 shloka (Sumantra quoting Sanatkumara) opens this row; restored in the source re-check, verify against Bala Kanda sarga 9 before recording.
 
 ## 9 — Dasharatha Asks Rishyashringa
 
@@ -168,11 +168,13 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** Court ministers conferring, one proposing the plan — shown as a deliberation scene, not villainous, just pragmatic royal problem-solving.
 
-**Story:** ఎంతైనా మంత్రులు కనుక ఒక మాట అన్నారు — ఋష్యశృంగుడికి కూడా ఇంద్రియాలు, మనస్సు ఉంటాయి, వాటికి ఇప్పటిదాకా రుచి తగలక, విషయసుఖాల వైపుకి రాలేదు. కాబట్టి అందంగా అలంకరించుకున్న కొంతమంది వేశ్యలని పంపిస్తే, విభాండకుడు లేని సమయంలో ఋష్యశృంగుడి మనస్సుని ఆకర్షించి, ప్రలోభపెడతారు, అప్పుడు ఆయనే వెంట వస్తాడు — అని మంత్రులు సలహా ఇచ్చారు.
+**Story:** ఎంతైనా మంత్రులు కనుక ఒక మాట అన్నారు — ఇంద్రియార్థైః అభిమతైః నరచిత్త ప్రమాథిభిః । ఋష్యశృంగుడికి కూడా ఇంద్రియాలు, మనస్సు ఉంటాయి, వాటికి ఇప్పటిదాకా రుచి తగలక, విషయసుఖాల వైపుకి రాలేదు. కాబట్టి అందంగా అలంకరించుకున్న కొంతమంది వేశ్యలని పంపిస్తే, విభాండకుడు లేని సమయంలో ఋష్యశృంగుడి మనస్సుని ఆకర్షించి, ప్రలోభపెడతారు, అప్పుడు ఆయనే వెంట వస్తాడు — అని మంత్రులు సలహా ఇచ్చారు.
 
 **Image:** [scene-15-angadesha-ministers-plan.png](../../assets/images/E1.03_ayodhya_dasaratha_rishyashringa/scene-15-angadesha-ministers-plan.png)
 
 ![Angadesha Ministers Plan](../../assets/images/E1.03_ayodhya_dasaratha_rishyashringa/scene-15-angadesha-ministers-plan.png)
+
+**Source note:** 🔴 VERSE — the half-shloka printed on p. 20 (the ministers' counsel) restored in the source re-check; the source prints only this half-line.
 
 ## 16 — Courtesans Sing At Ashram
 

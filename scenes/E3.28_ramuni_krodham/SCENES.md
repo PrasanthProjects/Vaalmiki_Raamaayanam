@@ -32,7 +32,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over the silent, slow-moving river.
 
-**Story:** భూతాని రాక్షసేంద్రేణ వధ అర్హేణ హృతాం అపి | న తాం శశంసుః రామాయ తథా గోదావరీ నదీ ॥
+**Story:** భూతాని రాక్షసేంద్రేణ వధ అర్హేణ హృతాం అపి । న తాం శశంసూ రామాయ తథా గోదావరీ నదీ ॥
 
 **Image:** Pending creation.
 

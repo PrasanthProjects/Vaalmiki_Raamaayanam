@@ -42,7 +42,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** తత్ క్షీరం రాజపుత్రాయ గుహః క్షిప్రముపాహరత్ | లక్ష్మణస్యాత్మనశ్చైవ రామస్తేనాకరోజ్జటాః ॥
+**Story:** తత్ క్షీరం రాజ పుత్రాయ గుహః క్షిప్రం ఉపాహరత్ । లక్ష్మణస్య ఆత్మనః చైవ రామః తేన అకరోజ్ జటాః ॥
 
 **Image:** Pending creation.
 

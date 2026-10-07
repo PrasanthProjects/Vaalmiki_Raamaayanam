@@ -1,0 +1,99 @@
+# E5.09 — గడ్డిపరక (The Blade of Grass) — Scenes
+
+[Episode script](../../5%20-%20Sundhara%20Khaanda/E5.09_gaddiparaka.md)
+
+[Narration parts](NARRATION_PARTS.md)
+
+Still-image scene sheet. Source narration is included as story context only. No voice or video generation.
+
+Keep existing descriptive image names. For new images use `scene-NN-short-description.png` inside the matching episode folder.
+
+## 1 — Scene 01
+
+**Visual:** Recap: Ravana standing over Sita beneath the shimshupa tree.
+
+**Story:** గత భాగంలో రావణుడు సీతమ్మతో అనరాని మాటలు అన్నాడు. ఇప్పుడు సీతమ్మ సమాధానం విందాం.
+
+**Image:** Pending creation.
+
+**Source note:** Bridge line.
+
+## 2 — Scene 02
+
+**Visual:** [Sita, SITA-S4 — seated on the bare ground beneath the shimshupa tree, a single soiled yellow garment, one braid, thin from fasting] smiling a clear, untroubled smile, picking up a blade of grass and laying it between herself and [Ravana, per the E3.14 lock — in white, jewelled, attended]; she speaks to the grass, not to him.
+
+**Story:** రావణుడి మాటలను విన్న సీతమ్మ శుద్ధమైన నవ్వు నవ్వి, ఒక గడ్డిపరకని తనకి రావణుడికి మధ్యలో పెట్టి "రావణా! నీ మనస్సు నీవారి యందు పెట్టుకో. నీకు అనేకమంది భార్యలు ఉన్నారు, వాళ్ళతో సుఖంగా ఉండు, పరాయి వాళ్ళ భార్యల గురించి ఆశపడకు. ఒంట్లో ఓపిక ఉంటే ఎలాగన్నా బతకవచ్చు, కాని చనిపోవడం నీ చేతులలో లేదు. నువ్వు సుఖంగా బతకాలన్న, చనిపోవాలన్న నీకు రామానుగ్రహం కావాలి. ఒంట్లో ఓపిక ఉందని పాపం చేస్తున్నావు, కాని ఆ పాపాన్ని అనుభవించవలసిననాడు బాధపడతావు. నన్ను తీసుకెళ్ళి రాముడికి అప్పగించి సంతోషంగా జీవించు, శరణు అన్నవాడిని రాముడు ఏమి చెయ్యడు.
+
+**Image:** Pending creation.
+
+**Source note:** The blade of grass: she will not address another man directly, and she holds him as worth no more. Her first words are advice, not abuse.
+
+## 3 — Scene 03
+
+**Visual:** Close on [Sita, SITA-S4 — seated on the bare ground beneath the shimshupa tree, a single soiled yellow garment, one braid, thin from fasting]; soft insets for her images — light and the sun, lustre and the diamond, fragrance and the flower.
+
+**Story:** 'నేను సీతని తీసుకొచ్చాను' అంటావేంటి, నీ జీవితంలో నువ్వు నన్ను తేలేవు. సూర్యుడి నుండి సూర్యుడికాంతిని వేరు చేసి తేగలవా, వజ్రం నుండి వజ్రం యొక్క ప్రభని వేరు చేసి తేగలవా, పువ్వు నుండి పువ్వు యొక్క వాసనని వేరు చేసి తేగలవా, ఇవన్నీ ఎలా తీసుకురాలేవో అలా రాముడి నుండి నన్ను తీసుకురాలేవు. మరి నేను ఇక్కడికి ఎందుకు వచ్చాను అని అంటావేమో, ఇదంతా నిన్ను చంపడానికి బ్రహ్మగారు వేసిన ప్రాతిపదిక.
+
+**Image:** Pending creation.
+
+**Source note:** "You cannot bring me away from Rama, as light cannot be taken from the sun." Then why is she here? It is Brahma's device for his death.
+
+## 4 — Scene 04
+
+**Visual:** [Sita, SITA-S4 — seated on the bare ground beneath the shimshupa tree, a single soiled yellow garment, one braid, thin from fasting], eyes blazing for an instant, then lowered again; [Ravana, per the E3.14 lock — in white, jewelled, attended] stiffening.
+
+**Story:** ఒక పతివ్రత అయిన స్త్రీని అపహరించి చెయ్యరాని పాపం చేశావు, ఇక నీ పాపం పోదు. దీనికి ఒకటే మార్గం, నన్ను తీసుకెళ్ళి రాముడికి అప్పగించు, బతికిపోతావు. నేను నిన్ను ఇప్పుడే నా తపఃశక్తి చేత బూడిద చెయ్యగలను, కాని నన్ను రాముడు వచ్చి రక్షిస్తాడన్న కారణం చేత ఆగిపోయాను. అసలు ఈ ఊరిలో ధర్మం అనేది చెప్పేవారు లేరా? ఒకవేళ ఎవరన్నా చెప్పినా నువ్వు వినవా? ఒకవేళ విన్నా దానిని ఆచరించవా?" అని ప్రశ్నించింది.
+
+**Image:** Pending creation.
+
+**Source note:** She could burn him to ash by her own tapas and does not — because the rescue is Rama's to make. Her three questions end the speech.
+
+## 5 — Scene 05
+
+**Visual:** [Ravana, per the E3.14 lock — in white, jewelled, attended] in a fury, turning on the rakshasa women guards (generic rakshasi template — grotesque, armed) and giving his order.
+
+**Story:** ఈ మాటలు విన్న రావణుడికి ఆగ్రహం వచ్చి "ఏ స్త్రీయందు విశేషమైన కామం ఉంటుందో ఆ స్త్రీయందు ఉపేక్షించే స్వభావం కూడా ఉంటుంది. నన్ను చూసి ఇంతమంది స్త్రీలు కామించి వెంటపడ్డారు. నీకు ఐశ్వర్యం ఇస్తాను, సింహాసనం మీద కుర్చోపెడతాను, నా పాన్పు చేరు అంటే ఇంత అమర్యాదగా మాట్లాడుతున్నావు, నీకు నా గొప్పతనం ఏంటో తెలియడం లేదు" అని చెప్పి, అక్కడున్న రాక్షస స్త్రీలను పిలిచి "ఈమెయందు సామమును, దానమును, బేధమును ప్రయోగించండి అని నేకు మీకు చెప్పాను, కాని ఈమె లొంగలేదు, 10 నెలల సమయం అయిపోయింది. ఇంకా 2 నెలల సమయం మాత్రమే ఉంది, ఆ సమయంలో సీత నా పాన్పు తనంతట తాను చేరితే సరి, లేకపోతే మీరు సీతని దండించండి" అన్నాడు.
+
+**Image:** Pending creation.
+
+**Source note:** Ten of the twelve months are gone; two remain.
+
+## 6 — Scene 06
+
+**Visual:** Commentary inset (plain explanatory treatment): a penitent going from door to door at noon and after dark with a bowl, confessing his fault aloud.
+
+**Story:** (ఇంట్లో తనని ప్రేమించి, అనుగమించే భార్య ఉన్నాకూడా, ఆ భార్యయందు మనస్సు ఉంచకుండా పరస్త్రీయందు మనస్సు ఉంచుకొని, పరస్త్రితో సంగమించిన పురుషుడికి ఆ దోషం పోవాలంటె, 6 నెలలపాటు తిరిగిన వీధి తిరగకుండా, మిట్టమధ్యానం వేళ, చీకటి పడ్డాక, పాత్ర పట్టుకొని ఇళ్ళ ముందుకి వెళ్ళి' నాయందు మనస్సున్న ఆరోగ్యవంతురాలైన భార్య ఇంట్లో ఉండగా వేరొక స్త్రీతో సంగమించిన మహాపాతకుడిని. నేను ఆ పాప విముక్తుడిని అవ్వాలి, అందుకని మీ చేతితో ఇంత అన్నం తీసుకొని వచ్చి పడెయ్యండమ్మా' అని ముష్టి ఎత్తుకున్న అన్నం తింటే వాడి పాపం పోతుంది. ఇది పురుషులకి వర్తిస్తుంది, స్త్రీలకి వర్తిస్తుంది.)
+
+**Image:** Pending creation.
+
+**Source note:** The print's own bracketed note on the expiation for adultery — the author's aside to the reader, applying, as it says, to men and women alike. Keep it in the narrator's lighter 'aside' tone.
+
+## 7 — Scene 07
+
+**Visual:** Dhanyamalini throwing her arms about [Ravana, per the E3.14 lock — in white, jewelled, attended] and drawing him away, laughing (the p. 461 illustration); he goes with his women.
+
+**Story:** అప్పుడు రావణుడి భార్య అయిన ధాన్యమాలిని రావణుడిని గట్టిగా కౌగలించుకొని "నీయందు మనస్సున్న స్త్రీతో భోగిస్తే అది ఆనందము, నీయందు మనస్సులేని స్త్రీతో ఎందుకు ఈ భోగము. మనము క్రీడిద్దాము పద" అనేసరికి ఆ రావణుడు నవ్వుకుంటూ తన భార్యలతో వెనక్కి వెళ్ళిపోయాడు.
+
+**Image:** Pending creation.
+
+**Source note:** One of his own wives says the sensible thing.
+
+## 8 — Scene 08
+
+**Visual:** the rakshasa women guards (generic rakshasi template — grotesque, armed) closing in round [Sita, SITA-S4 — seated on the bare ground beneath the shimshupa tree, a single soiled yellow garment, one braid, thin from fasting], scolding and reasoning by turns.
+
+**Story:** అప్పుడు అక్కడున్న వికృత రూపములు కలిగిన రాక్షస స్త్రీలు సీతమ్మ చుట్టూ చేరి "సీత! దేనికైనా ఇంత అతి పనికిరాదు. రావణుడు అంటే సామాన్యుడు కాదు, బ్రహ్మ కుమారులలో నాలుగో ప్రజాపతి అయిన పులస్త్యబ్రహ్మ యొక్క కుమారుడైన విశ్రవసోబ్రహ్మ యొక్క కుమారుడు రావణబ్రహ్మ. సాక్షాత్తు బ్రహ్మగారికి మునిమనవడు. లోకములో అందరినీ జయించాడు, బ్రహ్మగారిని గూర్చి తపస్సు చేశాడు, ఎన్నో గొప్ప వరములను పొందాడు. అలాంటి రావణుడితో హాయిగా భోగం అనుభవించకుండా ఏమిటి ఈ మూర్ఖత్వం. పోనిలె మెల్లగా మనస్సు మార్చుకుంటావు అని ఇంతకాలం చూశాము, కాని మనస్సు మార్చుకోకుండా ఇలా ఉంటావేంటి, ఎంత చెప్పాలి నీకు" అని గద్దించారు.
+
+**Image:** Pending creation.
+
+**Source note:** The guards' argument: Ravana is Brahma's great-grandson — why this obstinacy?
+
+## 9 — Scene 09
+
+**Visual:** End card.
+
+**Story:** తర్వాత చూద్దాం — రాక్షస స్త్రీల బెదిరింపులు, త్రిజట స్వప్నం.
+
+**Image:** Pending creation.
+
+**Source note:** Bridge line.

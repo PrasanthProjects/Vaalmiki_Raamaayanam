@@ -90,7 +90,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** న అతంత్రీ వాద్యతే వీణా న అచక్రః వర్తతే రథః | న అపతిః సుఖం ఏధతే యా స్యాత్ అపి శతాత్మజా ॥
+**Story:** న అతంత్రీ వాద్యతే వీణా న అచక్రః వర్తతే రథః । న అపతిః సుఖం ఏధతే యా స్యాత్ అపి శత ఆత్మజా ॥
 
 **Image:** Pending creation.
 
@@ -126,11 +126,11 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** రామం దశరథం విద్ధి మాం విద్ధి జనకాత్మజామ్ | అయోధ్యామటవీం విద్ధి గచ్ఛ యథాసుఖం ॥
+**Story:** రామం దశరథం విద్ధి మాం విద్ధి జనక ఆత్మజాం । అయోధ్యాం అటవీం విద్ధి గచ్ఛ తాత యథా సుఖం ॥ "లక్ష్మణా! నువ్వు రాముడిని నీ తండ్రి అనుకో, సీతమ్మని తల్లి అనుకో, వాళ్ళిద్దరూ ఉన్న అడవి అయోధ్య అనుకొని సుఖంగా పో."
 
 **Image:** Pending creation.
 
-**Source note:** 🔴 VERSE — Sumitra's blessing: "Know Rama as your father, know Sita as your mother, know the forest itself as Ayodhya — go now, and go in peace."
+**Source note:** 🔴 VERSE — Sumitra's blessing: "Know Rama as your father, know Sita as your mother, know the forest itself as Ayodhya — go now, and go in peace." The Telugu gloss printed under this shloka on p. 152 was restored in the source re-check — recite the verse fully, then the gloss.
 
 ## 14 — Scene 14
 

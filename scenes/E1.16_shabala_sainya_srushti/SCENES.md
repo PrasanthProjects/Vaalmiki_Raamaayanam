@@ -32,7 +32,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** [Vashishtha Visual Lock] finally speaking, clarifying the truth directly to her. (Location register: Mythic inset)
 
-**Story:** "అప్పుడు వశిష్ఠుడు — 'త్వాం త్యజామి శబలే న అపి మే అపకృతం త్వయా । ఏష త్వాం నయతే రాజా బలాత్ మత్తః మహాబలః ॥ । ' — 'శబళా! నేను నిన్ను విడిచిపెట్టలేదు, విశ్వామిత్రుడే నిన్ను బలాత్కారంగా తీసుకెళుతున్నాడు. ఆయన ఈ భూమికి ప్రభువు, కాని నేడు తప్పు దోవలో వెళుతున్నాడు, అతను దోషం చేస్తే, ఆ దోషం అతనినే కాలుస్తుంది. నిన్ను ఈడ్చుకెళ్ళి దోషం చేశాడు, ఇక ఆయన అపరాధమే ఆయనని కాలుస్తుందని' చెప్పాడు."
+**Story:** "అప్పుడు వశిష్ఠుడు — 'న త్వాం త్యజామి శబలే న అపి మే అపకృతం త్వయా । ఏష త్వాం నయతే రాజా బలాత్ మత్తః మహాబలః ॥ ' — 'శబళా! నేను నిన్ను విడిచిపెట్టలేదు, విశ్వామిత్రుడే నిన్ను బలాత్కారంగా తీసుకెళుతున్నాడు. ఆయన ఈ భూమికి ప్రభువు, కాని నేడు తప్పు దోవలో వెళుతున్నాడు, అతను దోషం చేస్తే, ఆ దోషం అతనినే కాలుస్తుంది. నిన్ను ఈడ్చుకెళ్ళి దోషం చేశాడు, ఇక ఆయన అపరాధమే ఆయనని కాలుస్తుందని' చెప్పాడు."
 
 **Image:** Pending creation.
 
@@ -152,7 +152,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text; [Young King Vishwamitra Visual Lock] making his request — total, complete mastery of every weapon and its secrets. (Location register: Mythic inset)
 
-**Story:** యది తుష్టో మహాదేవ ధనుర్వేదో మమ అనఘ । సాంగ ఉపాంగ ఉపనిషదః సరహస్యః ప్రదీయతాం ॥
+**Story:** యది తుష్టో మహాదేవ ధనుర్ వేదో మమ అనఘ । సా అంగ ఉప అంగ ఉపనిషదః స రహస్యః ప్రదీయతాం ॥
 
 **Image:** Pending creation.
 

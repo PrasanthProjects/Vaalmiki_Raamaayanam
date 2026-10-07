@@ -72,7 +72,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** దారాః సర్వేషాం దారసంగ్రహవర్తినామ్ | యామేతి రామస్య పాలయిష్యతి మేదినీమ్ ॥
+**Story:** ఆత్మా హి దారాః సర్వేషాం దారసంగ్రహవర్తినాం । ఆత్మేయమితి రామస్య పాలయిష్యతి మేదినీం ॥
 
 **Image:** Pending creation.
 
@@ -102,7 +102,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** యద్యపి త్వం క్షితితలాద్గగనం చోత్పతిష్యసి | పితుర్వంశచరిత్రజ్ఞః సోऽన్యథా న కరిష్యతి ॥
+**Story:** యద్యపి త్వం క్షితితలాద్గగనం చోత్పతిష్యసి । పితుర్వంశచరిత్రజ్ఞః సోన్యథా న కరిష్యతి ॥
 
 **Image:** Pending creation.
 

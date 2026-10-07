@@ -1,0 +1,515 @@
+[
+  {
+    "scene": 1,
+    "part": 1,
+    "id": "01.01",
+    "text": "గత భాగంలో హనుమంతుడు లంక బలాన్ని రాముడికి వివరించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 1,
+    "part": 2,
+    "id": "01.02",
+    "text": "ఇప్పుడు సైన్యం బయలుదేరడం చూద్దాం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 1,
+    "id": "02.01",
+    "text": "అప్పుడు సుగ్రీవుడు \"నాకన్నీ శుభనిమిత్తములు కనపడుతున్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 2,
+    "id": "02.02",
+    "text": "నా మనస్సులో ఉత్సాహం పరవళ్ళు తొక్కుతోంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 3,
+    "id": "02.03",
+    "text": "మనం ఆ సముద్రాన్ని సేతువు కట్టి దాటితే రావణుడు నిహతుడు అయిపోయినట్టే.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 4,
+    "id": "02.04",
+    "text": "మంచి ముహూర్త నిర్ణయం చెయ్యండి, మనం బయలుదేరదాము\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 5,
+    "id": "02.05",
+    "text": "అప్పుడు రాముడు \"మనం ఈ ఆలోచన చేస్తున్న సమయంలో సూర్యుడు ఆకాశంలో మధ్యన ఉన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 6,
+    "id": "02.06",
+    "text": "ఈ రోజున ఉన్న విశాఖ నక్షత్రం మా ఇక్ష్వాకు వంశీయులది, ఈ రోజున ఉన్న ముహూర్తాన్ని విజయము అని పిలుస్తారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 7,
+    "id": "02.07",
+    "text": "ఈ ముహూర్తం చాలా బాగుంది కనుక మనం వెంటనే సైన్యాన్ని తీసుకొని బయలుదేరదాము\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 8,
+    "id": "02.08",
+    "text": "రాముడు ఈ మాట అనగానే అక్కడున్న వానరములన్నీ సంతోషాన్ని పొంది \"జై శ్రీరాం, జై జై రామ, బయలుదేరదాము, లంక చేరిపోదాము,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 9,
+    "id": "02.09",
+    "text": "రావణుడిని సంహరిద్దాము\" అన్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 1,
+    "id": "03.01",
+    "text": "తరువాత రాముడు సుగ్రీవుడితో \"వృద్ధులైన వారు, శరీరంలో శక్తిలేనివారు, దెబ్బలు తిని ఉన్నవారు, నిస్సత్తువతో ఉన్నవారు, ఇటువంటి వానరములని తీసుకొని రావద్దు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 2,
+    "id": "03.02",
+    "text": "మొదట నీలుడు వెళ్ళాలి, ఆయనతో పాటుగా విశేషమైన బలం కలిగిన లక్ష వానరములు వెళ్ళాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 3,
+    "id": "03.03",
+    "text": "మిగతా వానరాలన్నీ రావడానికి కావలసిన త్రోవని వారు నిర్ణయించాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 4,
+    "id": "03.04",
+    "text": "అందరూ వెళ్ళడానికి అనువైనరీతిలో ఉన్న రహదారిని నిర్మించాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 5,
+    "id": "03.05",
+    "text": "కొన్ని గంటలు ప్రయాణం చేశాక అందరూ బడలిపోతారు, అప్పుడు విశ్రాంతి తీసుకోవడానికి చక్కని వృక్ష సముదాయం ఉండాలి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 6,
+    "id": "03.06",
+    "text": "తాగడానికి మంచి నీరు దొరకాలి, పళ్ళు, తేనె దొరకాలి, అటువంటి అరణ్య మార్గాన్ని నీలుడు నిర్ణయించాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 7,
+    "id": "03.07",
+    "text": "ఈ సైన్యం అంతా వెళుతున్నప్పుడు గజుడు, గవాక్షుడు, గవయుడు సైన్యానికి ముందు నడుస్తూ వెళ్ళాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 8,
+    "id": "03.08",
+    "text": "ఈ సైన్యాన్ని కుడి పక్కన ఋషభుడు చూస్తూ వాళ్ళని రక్షించాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 9,
+    "id": "03.09",
+    "text": "ఎడమ పక్కన గంధమాదనుడు కొన్ని లక్షల మంది వానరములతో ఆ సైన్యాన్ని రక్షించాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 10,
+    "id": "03.10",
+    "text": "అలాగే వెనుక కూడా కొన్ని లక్షల వానరములు రక్షిస్తూ రావాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 1,
+    "id": "04.01",
+    "text": "వెళ్ళేటప్పుడు మధ్య మధ్యలో సరస్సులు ఉంటాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 2,
+    "id": "04.02",
+    "text": "అటువంటి సరోవరాలలో శత్రువులు విషం కలిపి నాశనం చేస్తారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 3,
+    "id": "04.03",
+    "text": "ఆ విషపూరిత జలాలను తాగితే వానరులందరు కూడా శరీరాలని విడిచిపెట్టే ఉపద్రవం ఏర్పడవచ్చు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 4,
+    "id": "04.04",
+    "text": "అందుకని చాలా ముందుగా వెళ్ళి అటువంటి నీటి సరోవరాలకి, సరస్సులకి ప్రమాదం ఏర్పడకుండా కాపలా కాయాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 5,
+    "id": "04.05",
+    "text": "నేను సైన్య మధ్య భాగంలో హనుమ భుజాల మీద కూర్చుని వస్తాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 6,
+    "id": "04.06",
+    "text": "అంగదుడి భుజాల మీద లక్ష్మణుడు బయలుదేరతాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 7,
+    "id": "04.07",
+    "text": "జాంబవంతుడు మొదలైనవారు ఈ వానర సైన్యాన్ని అన్నివైపులా రక్షిస్తూ ఉండాలి\" అని చెప్పాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 1,
+    "id": "05.01",
+    "text": "అప్పుడా వానర సైన్యం అంతా బయలుదేరింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 2,
+    "id": "05.02",
+    "text": "అప్పుడా సైన్యంలో కొంతమంది వెనుక నడవకుండా ముందుకొచ్చి నడుస్తున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 3,
+    "id": "05.03",
+    "text": "రాముడికి పక్కన నడుస్తున్నవారు అంటున్నారు \"ఒరేయ్!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 4,
+    "id": "05.04",
+    "text": "చూడరా లంకకి వెళ్ళగానే రావణుడిని ఏమి చేస్తానో\" అని ఒకడు, \"నేను ఒక్క గుద్దు గుద్దానంటే వాడి తలకాయలు పగిలిపోతాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 5,
+    "id": "05.05",
+    "text": "చూడరా నా కండ\" అని రాముడికి వినపడేటట్టుగా తమ ప్రతాపాలు చెప్పుకుంటున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 6,
+    "id": "05.06",
+    "text": "ఆ సైన్యంలో బలంగా ఉన్నవారు మెల్లగా నడుస్తున్నవారిని ఎత్తి పక్కకు పారేసి ముందుకి వెళ్ళిపోతున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 7,
+    "id": "05.07",
+    "text": "కొంతమంది తొందరగా వెళ్ళాలని పర్వతాల మీద ఎక్కి వెళుతున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 8,
+    "id": "05.08",
+    "text": "కొంతమంది చెట్లని పీకేసి వాటిని గోడుగులుగా పట్టుకొని వెళుతున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 9,
+    "id": "05.09",
+    "text": "వాళ్ళందరూ అలా వెళుతుంటే అరణ్యం అరణ్యమే వెళ్ళిపోతుందా అన్నట్టుగా ఉంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 1,
+    "id": "06.01",
+    "text": "అలా వాళ్ళందరూ బయలుదేరి దక్షిణ దిక్కున ఉన్న సహ్యాద్రి పర్వత శిఖరముల మీదకి చేరుకున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 2,
+    "id": "06.02",
+    "text": "అప్పుడు వారు అక్కడున్న రకరకాల పళ్ళని తిని కాలం గడిపారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 3,
+    "id": "06.03",
+    "text": "తరువాత అక్కడినుండి బయలుదేరి కొంచెం ముందుకి వెళ్ళగా వాళ్ళకి సముద్రం కనపడింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 4,
+    "id": "06.04",
+    "text": "వారు సముద్రాన్ని చేరుకునేసరికి చీకటి పడింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 5,
+    "id": "06.05",
+    "text": "అప్పుడు రాముడు \"మీరందరూ చాలా జాగ్రత్తగా ఈ సైన్యాన్ని విడిది చేయించి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 6,
+    "id": "06.06",
+    "text": "రాక్షసుల బారిన పడకుండా ఈ వానరములను 3 భాగములు చెయ్యండి\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 7,
+    "id": "06.07",
+    "text": "అప్పుడు కొన్ని కోట్ల వానరములని ఒక వైపు నిలబెట్టారు, కొండముచ్చులని ఒక వైపు నిలబెట్టారు, భల్లూకాలని ఒక వైపు నిలబెట్టారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 1,
+    "id": "07.01",
+    "text": "చంద్రుని కాంతి కెరటాలు మీద, కదులుతున్న నీటిమీద పడి మెరుస్తుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 2,
+    "id": "07.02",
+    "text": "చంద్రుడిని చూసి పొంగుతున్న సముద్రాన్ని, పైనున్న చంద్రుడిని చూస్తుంటే ఆశ్చర్యంగా ఉంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 3,
+    "id": "07.03",
+    "text": "గాలి చేత తోయబడుతున్న నీరు చంద్రుని కాంతికి మెరుస్తూ వెండి పళ్ళెంలా ఉంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 4,
+    "id": "07.04",
+    "text": "పైన ఆకాశంలో ఉన్న నక్షత్రాలు సముద్రం మీద ప్రతిఫలిస్తూ, అగ్నిచూర్ణం తీసుకొని వచ్చి సముద్రం మీద ఎవరో చల్లేసినట్టు ఉన్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 5,
+    "id": "07.05",
+    "text": "ఆకాశం సముద్రంలా, సముద్రం ఆకాశంలా ఉన్నాయి, రెండిటికి తేడా తెలియడం లేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 6,
+    "id": "07.06",
+    "text": "ఆకాశము, సముద్రము రెండూ కలిసిపోయినట్టు ఉన్నాయి, ఆకాశంలో తారలు ఉన్నాయి, సముద్రంలో రత్నాలు ఉన్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 7,
+    "id": "07.07",
+    "text": "కదులుతున్న మేఘాలతో ఆకాశం ఉంది, కదులుతున్న తరంగాలతో సముద్రం ఉంది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 8,
+    "id": "07.08",
+    "text": "అని ఆ సముద్రం గురించి వాల్మీకి మహర్షి తనదైన శైలిలో వర్ణించారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 1,
+    "id": "08.01",
+    "text": "ఆ సమయంలో రాముడు సముద్రం వంక చూస్తూ \"సీత లంకలో ఉండిపోయింది, నేను ఇక్కడ ఉండిపోయాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 2,
+    "id": "08.02",
+    "text": "చంద్రుడా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 3,
+    "id": "08.03",
+    "text": "సీత నిన్ను చూసుంటుంది, అలా చూడబడిన నువ్వు నా వంక చూస్తే నాకు ఉపశాంతి కలుగుతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 4,
+    "id": "08.04",
+    "text": "అటువైపు నుండి వస్తున్న గాలి సీతకి తగిలి వస్తే నాకు ఉపశాంతి కలుగుతుంది\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 1,
+    "id": "09.01",
+    "text": "తర్వాత చూద్దాం — లంకలో రావణుడి సభ, విభీషణుడి హితవు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  }
+]

@@ -22,7 +22,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over [Sita, SITA-S4] alone in a vast gilded chamber, head bowed.
 
-**Story:** అశ్రు పూర్ణ ముఖీం దీనాం శోక భార అవపీడితాం | వాయు వేగైః ఇవ ఆక్రాంతాం మజ్జంతీం నావం అర్ణవే ॥
+**Story:** అశ్రు పూర్ణ ముఖీం దీనాం శోక భార అవపీడితాం । వాయు వేగైః ఇవ ఆక్రాంతాం మజ్జంతీం నావం అర్ణవే ॥
 
 **Image:** Pending creation.
 
@@ -62,7 +62,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text.
 
-**Story:** రాజ్య భ్రష్టేన దీనేన తాపసేన పదాతినా | కిం కరిష్యసి రామేణ మానుషేణ అల్ప తేజసా ॥
+**Story:** రాజ్య భ్రష్టేన దీనేన తాపసేన పదాతినా । కిం కరిష్యసి రామేణ మానుషేణ అల్ప తేజసా ॥
 
 **Image:** Pending creation.
 
@@ -92,7 +92,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over [Ravana] bending down, ten heads lowered.
 
-**Story:** ఏతౌ పాదౌ మయా స్నిగ్ధౌ శిరోభిః పరిపీడితౌ | ప్రసాదం కురు మే క్షిప్రం వశ్యో దాసో అహం అస్మి తే ॥
+**Story:** ఏతౌ పాదౌ మయా స్నిగ్ధౌ శిరోభిః పరిపీడితౌ ప్రసాదం కురు మే క్షిప్రం వశ్యో దాసో అహం అస్మి తే ॥
 
 **Image:** Pending creation.
 

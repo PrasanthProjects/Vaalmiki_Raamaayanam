@@ -42,7 +42,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over Sita's face in the wind, fierce now.
 
-**Story:** త్వయా ఏవ నూనం దుష్టాత్మన్ భీరుణా హర్తుం ఇచ్ఛతా | మమ అపవాహితో భర్తా మృగ రూపేణ మాయయా ॥
+**Story:** త్వయా ఏవ నూనం దుష్టాత్మన్ భీరుణా హర్తుం ఇచ్ఛతా । మమ అపవాహితో భర్తా మృగ రూపేణ మాయయా ॥
 
 **Image:** Pending creation.
 
@@ -82,7 +82,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over grim-faced pishacha women assembling.
 
-**Story:** అబ్రవీత్ చ దశగ్రీవః పిశాచీః ఘోర దర్శనాః | యథా న ఏనాం పుమాన్ స్త్రీ వా సీతాం పశ్యతి అసమ్మతః ॥
+**Story:** అబ్రవీత్ చ దశగ్రీవః పిశాచీః ఘోర దర్శనాః । యథా న ఏనాం పుమాన్ స్త్రీ వా సీతాం పశ్యతి అసమ్మతః ॥
 
 **Image:** Pending creation.
 

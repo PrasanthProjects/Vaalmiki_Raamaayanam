@@ -42,7 +42,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over Bharata with the sandals on his head.
 
-**Story:** తతః శిరసి కృత్వా తు పాదుకే భరతః తదా | ఆరురోహ రథం హృష్టః శత్రుఘ్నేన సమన్వితః ॥
+**Story:** తతః శిరసి కృత్వా తు పాదుకే భరతః తదా । ఆరురోహ రథం హృష్టః శత్రుఘ్నేన సమన్వితః ॥
 
 **Image:** Pending creation.
 

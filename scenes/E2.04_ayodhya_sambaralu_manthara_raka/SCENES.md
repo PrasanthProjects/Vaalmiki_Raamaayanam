@@ -100,7 +100,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** అక్షయ్యం సుమహద్దేవి ప్రవృత్తం త్వద్వినాశనం | రామం దశరథో రాజా యౌవరాజ్యే అభిషేక్ష్యతి సః ॥
+**Story:** అక్షయ్యం సుమహద్దేవి ప్రవృత్తం త్వద్వినాశనం । రామం దశరథో రాజా యౌవరాజ్యే భిషేక్ష్యతి ॥ సః ॥
 
 **Image:** Pending creation.
 

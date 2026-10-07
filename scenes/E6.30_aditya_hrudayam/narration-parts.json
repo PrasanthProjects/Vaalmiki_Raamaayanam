@@ -1,0 +1,299 @@
+[
+  {
+    "scene": 1,
+    "part": 1,
+    "id": "01.01",
+    "text": "గత భాగంలో లంకా ప్రజల మాటలు విన్నాము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 1,
+    "part": 2,
+    "id": "01.02",
+    "text": "ఇప్పుడు మళ్ళీ యుద్ధ భూమికి వద్దాము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 1,
+    "id": "02.01",
+    "text": "ఇటుపక్కన రాముడు అలసిపోయినవాడై 'ఈ రావణుడిని అసలు ఎలా సంహరించడం' అని ఆలోచిస్తుండగా, ఆ సమయంలో దేవతలు, గంధర్వులు, యక్షులు, కిన్నెరులు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 2,
+    "id": "02.02",
+    "text": "ఋషులు మొదలైనవారందరూ ఆకాశంలో నిలబడ్డారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 3,
+    "id": "02.03",
+    "text": "అందరితోపాటుగా వారిలోకి గబగబా అగస్త్య మహర్షి వచ్చి \"రామ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 4,
+    "id": "02.04",
+    "text": "రామ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 5,
+    "id": "02.05",
+    "text": "ఇప్పుడు నేను నీకు ఆదిత్య హృదయం ఉపదేశం చేస్తున్నాను, దీనిని నువ్వు స్వీకరించు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 6,
+    "id": "02.06",
+    "text": "ఇది కాని నువ్వు పొందావ, ఇక నీకు ఏ విధమైన అలసట ఉండదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 7,
+    "id": "02.07",
+    "text": "ఈ పరమమంగళమైన ఆదిత్య హృదయాన్ని నీకు భయం కలిగినప్పుడు కాని, అరణ్యంలో ఉన్నప్పుడు కాని చదువుకో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 8,
+    "id": "02.08",
+    "text": "నీకు రక్ష చేస్తుంది\" అని చెప్పి ఆదిత్య హృదయాన్ని ఉపదేశించాడు",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 1,
+    "id": "03.01",
+    "text": "తతో యుద్ధ పరిశ్రాంతం సమరే చింతయా స్థితం । రావణం చాగ్రతో దృష్ట్వా యుద్ధాయ సముపస్థితం ॥ దైవతైశ్చ సమాగమ్య ద్రష్టుమభ్యాగతో రణం । ఉపగమ్యాబ్రవీద్రామం అగస్త్యో భగవానృషిః ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": true,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 1,
+    "id": "04.01",
+    "text": "అగస్త్య ఉవాచ:",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 1,
+    "id": "05.01",
+    "text": "రామ రామ మహాబాహో శృణు గుహ్యం సనాతనం । యేన సర్వానరీన్ వత్స సమరే విజయిష్యసి ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 1,
+    "id": "06.01",
+    "text": "ఆదిత్యహృదయం పుణ్యం సర్వశత్రువినాశనం । జయావహం జపేన్నిత్యం అక్షయం పరమం శివం ॥ సర్వమంగళమాంగళ్యం సర్వపాపప్రణాశనం । చింతాశోకప్రశమనం ఆయుర్వర్ధన ముత్తమం ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 1,
+    "id": "07.01",
+    "text": "రశ్మిమంతం సముద్యంతం దేవాసుర నమస్కృతం । పూజయస్వవివస్వంతం భాస్కరం భువనేశ్వరం ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 1,
+    "id": "08.01",
+    "text": "సర్వ దేవాత్మకో హ్యేష తేజస్వీ రశ్మిభావనః । ఏష దేవాసురగణాన్ లోకాన్ పాతి గభస్తిభిః ॥ ఏష బ్రహ్మా చ విష్ణుశ్చ శివః స్కందః ప్రజాపతిః । మహేంద్రో ధనదః కాలో యమస్సోమో హ్యపాంపతిః ॥ పితరో వసవః సాధ్యాః అశ్వినౌ మరుతో మనుః । వాయుః వహ్నిః ప్రజాప్రాణా ఋతు కర్తా ప్రభాకరః ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": true,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 1,
+    "id": "09.01",
+    "text": "ఆదిత్యః సవితా సూర్యః ఖగః పూషా గభస్తిమాన్ । సువర్ణసదృశో భానుః హిరణ్యరేతా దివాకరః ॥ హరిదశ్వస్సహస్రార్చిః సప్తసప్తిర్మరీచిమాన్ । తిమిరోన్మథనః శంభుస్త్వష్టా మార్తండక అంశుమాన్ ॥ హిరణ్యగర్భః శిశిరస్తపనో భాస్కరో రవిః । అగ్నిగర్భోఽదితేః పుత్రః శంఖః శిశిరనాశనః ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": true,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "వ్యోమనాథ స్తమోభేదీ ఋగ్ యజుస్సామ పారగః । ఘన వృష్టిరపాం మిత్రో వింధ్య వీథీ ప్లవంగమః ॥ ఆతపీ మండలీ మృత్యుః పింగళః సర్వతాపనః । కవిర్విశ్వో మహాతేజా రక్తః సర్వ భవోద్భవః ॥ నక్షత్ర గ్రహతారాణాం అధిపో విశ్వ భావనః । తేజసామపి తేజస్వీ ద్వాదశాత్మన్నమోస్తుతే ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": true,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "నమః పూర్వాయ గిరయే పశ్చిమాయాద్రయే నమః । జ్యోతిర్గణానాం పతయే దినాధిపతయే నమః ॥ జయాయ జయభద్రాయ హర్యశ్వాయ నమో నమః । నమో నమస్సహస్రాంశో ఆదిత్యాయ నమో నమః ॥ నమ ఉగ్రాయ వీరాయ సారంగాయ నమో నమః । నమః పద్మ ప్రబోధాయ ప్రచండాయ నమో నమః ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": true,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "బ్రహ్మేశానాచ్యుతేశాయ సూర్యాయాదిత్యవర్చసే । భాస్వతే సర్వభక్షాయ రౌద్రాయ వపుషే నమః ॥ తమోఘ్నాయ హిమఘ్నాయ శత్రుఘ్నాయ అమితాత్మనే । కృతఘ్నఘ్నాయ దేవాయ జ్యోతిషాం పతయే నమః ॥ తప్త చామీక రాభాయ హరయే విశ్వకర్మణే । నమస్తమోభినిఘ్నాయ రుచయే లోకసాక్షిణే ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": true,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "నాశయత్యేష వై భూతం తదైవ సృజతి ప్రభుః । పాయత్యేష తపత్యేష వర్షత్యేష గభస్తిభిః ॥ ఏష సుప్తేషు జాగర్తి భూతేషు పరినిష్ఠితః । ఏష చైవాగ్నిహోత్రంచ ఫలం చైవాగ్నిహోత్రిణాం ॥ వేదాశ్చ క్రతవశ్చైవ క్రతూనాం ఫలమేవ చ । యాని కృత్యాని లోకేషు సర్వేషు పరమ ప్రభుః ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": true,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "ఏనమాపత్సు కృచ్ఛ్రేషు కాంతారేషు భయేషు చ । కీర్తయన్ పురుషః కశ్చిన్ నావసీదతి రాఘవః ॥ పూజయస్వైనమేకాగ్రో దేవదేవం జగత్పతిం । ఏతత్ త్రిగుణితం జప్త్వా యుద్ధేషు విజయిష్యసి ॥ అస్మిన్ క్షణే మహాబాహో రావణం త్వం వధిష్యసి । ఏవముక్త్వా తదాగస్త్యో జగామ చ యథాగతం ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": true,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "ఏతత్ శ్రుత్వా మహాతేజా నష్టశోకోభవత్తదా । ధారయామాస సుప్రీతో రాఘవః ప్రయతాత్మవాన్ ॥ ఆదిత్యం ప్రేక్ష్య జప్త్వా తు పరం హర్షమవాప్తవాన్ । త్రిరాచమ్య శుచిర్భూత్వా ధనురాదాయ వీర్యవాన్ ॥ రావణం ప్రేక్ష్య హృష్టాత్మా యుద్ధాయ సముపాగమత్ । సర్వ యత్నేన మహతా వధే తస్య ధృతోభవత్ ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": true,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "అథ రవి రవదన్నిరీక్ష్య రామం ముదితమనాః పరమం ప్రహృష్యమాణః । నిశిచరపతి సంక్షయం విదిత్వా సురగణమధ్యగతో వచస్త్వరేతి ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "1 నుండి 2 శ్లోకాలు అగస్త్యుడు శ్రీరాముడికి వద్ద కు వచ్చుట 3 నుండి 5 శ్లోకాలు: ఆదిత్య హృదయ పారాయణ వైశిష్టత చెప్పబడింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "6 నుండి 15 శ్లోకాలు: సూర్యుడంటే బయటకు వ్యక్త మవుతున్న లోపలి ఆత్మ స్వరూపమని, బాహ్యరూపము అంత స్వరూపము ఒక్కటే.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 3,
+    "id": "17.03",
+    "text": "16 నుండి 20 శ్లోకాలు: మంత్ర జపం 21 నుండి 24 శ్లోకాలు: సూర్యుడు గురించి శ్లోక మంత్రాలు 25 నుండి 30 శ్లోకాలు: పారాయణ వలన కలిగే ఫలం,",
+    "complete_verse_block": false,
+    "needs_timing_review": true,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 4,
+    "id": "17.04",
+    "text": "పారాయణ చేయ వలసిన విధానం, సూర్యభగవనుడు శ్రీ రాముడు విజయాన్ని పొందేటట్లు అశీర్వదించడం",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "అగస్త్యుడు అన్నాడు \"ఈ ఆదిత్య హృదయాన్ని చదువు, నువ్వు నీ సర్వ శత్రువులని జయిస్తావు, నీ శత్రువులని దునుమాడేస్తావు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "నీ కోరికలన్నీ సిద్ధిస్తాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 3,
+    "id": "18.03",
+    "text": "రావణుడు నీ చేతిలో నిహతుడు అవుతాడు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 4,
+    "id": "18.04",
+    "text": "రాముడు ఆ ఆదిత్య హృదయాన్ని మూడు సార్లు చదివాక అగస్త్యుడు వెళ్ళిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "తర్వాత చూద్దాం — రామ రావణ యుద్ధం, రావణ వధ.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  }
+]

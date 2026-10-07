@@ -32,7 +32,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over the formal meeting on the summit.
 
-**Story:** అయం రామో మహాప్రాజ్ఞ సంప్రాప్తో దృఢ విక్రమః | లక్ష్మణేన సహ భ్రాత్రా రామోయం సత్య విక్రమః ॥
+**Story:** అయం రామో మహాప్రాజ్ఞ సంప్రాప్తో దృఢ విక్రమః । లక్ష్మణేన సహ భ్రాత్రా రామోయం సత్య విక్రమః ॥
 
 **Image:** Pending creation.
 
@@ -72,7 +72,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over [Rama, RAMA-S4] seated on the flowering sala branch, the sacred fire still burning between him and Sugriva.
 
-**Story:** ఉపకార ఫలం మిత్రం విదితం మే మహాకపే | వాలినం తం వధిష్యామి తవ భార్య అపహారిణం ॥
+**Story:** ఉపకార ఫలం మిత్రం విదితం మే మహాకపే । వాలినం తం వధిష్యామి తవ భార్య అపహారిణం ॥
 
 **Image:** Pending creation.
 

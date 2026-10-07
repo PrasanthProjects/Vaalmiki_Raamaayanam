@@ -70,7 +70,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over a brief memory flash of Sita hearing the false cry (E3.20).
 
-**Story:** ఆర్యేణ ఏవ పరిక్రుష్టం పరాక్రుష్టం హా సీతే లక్ష్మణ ఇతి చ | పరిత్రాహి ఇతి యత్ వాక్యం మైథిల్యాః తత్ శ్రుతిం గతం ॥
+**Story:** ఆర్యేణ ఏవ పరిక్రుష్టం - పరాక్రుష్టం - హా సీతే లక్ష్మణ ఇతి చ । పరిత్రాహి ఇతి యత్ వాక్యం మైథిల్యాః తత్ శ్రుతిం గతం ॥
 
 **Image:** Pending creation.
 

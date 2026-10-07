@@ -138,7 +138,16 @@
     "scene": 4,
     "part": 5,
     "id": "04.05",
-    "text": "మరి నీకు తల్లి పోలిక రాక ఇంకెవరి పోలిక వస్తుంది, తల్లిగురించి మాకు తెలుసు\" అని అన్నాడు.",
+    "text": "మరి నీకు తల్లి పోలిక రాక ఇంకెవరి పోలిక వస్తుంది, తల్లిగురించి మాకు తెలుసు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 6,
+    "id": "04.06",
+    "text": "నీ తండ్రిగారికి సర్వప్రాణుల మనస్సులలోని విషయాలని, వాటి భాషనీ అర్థం చేసుకునే విద్య తెలుసు\" అని అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -315,10 +324,19 @@
     "seconds": null
   },
   {
+    "scene": 6,
+    "part": 5,
+    "id": "06.05",
+    "text": "ఈ మాటలు విన్న కైకేయ ఇలా అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "రాజ్యాద్గతజనం సాధో పీతమద్యామివ నిరాస్వాద్యతమం శూన్యం భరతో నాభిపత్స్యతే ॥",
+    "text": "రాజ్యం గత జనం సాధో పీత మణ్డాం సురాం ఇవ । నిరాస్వాద్యతమం శూన్యం భరతః న అభిపత్స్యతే ॥",
     "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null

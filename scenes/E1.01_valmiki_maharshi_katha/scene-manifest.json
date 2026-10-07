@@ -4,7 +4,7 @@
     "scene": 1,
     "part_id": "1",
     "visual_description": "Recap/cold-open line over the palm-leaf-writing image from E0.01's closing shot.",
-    "story_text": "గత భాగంలో చూశాం — వాల్మీకి మహర్షి రామాయణాన్ని ఎందుకు, ఎలా రాశారో. ఇప్పుడు ఆయన కథ మొదటి నుండి చూద్దాం.",
+    "story_text": "గత భాగంలో చూశాం — వాల్మీకి మహర్షి రామాయణాన్ని రాశారు అని. ఇప్పుడు ఆయన కథ మొదటి నుండి చూద్దాం.",
     "source_notes": "Production bridge line, not source text.",
     "image": "assets/images/E1.01_valmiki_maharshi_katha/scene-01-recap-valmiki-writing.png",
     "status": "image_available"
@@ -144,7 +144,7 @@
     "scene": 15,
     "part_id": "15",
     "visual_description": "On-screen Sanskrit text overlay, gold serif over dark background — matching E0.01's verse-treatment convention.",
-    "story_text": "తపఃస్వాధ్యాయనిరతం తపస్వీ వాగ్విదాం వరం । నారదం పరిపప్రచ్ఛ వాల్మీకిర్మునిపుంగవం ॥",
+    "story_text": "తపస్స్వాధ్యాయ నిరతం తపస్వీ వాగ్విదాం వరం । నారదం పరిపప్రచ్ఛ వాల్మీకిర్మునిపుంగవం ॥",
     "source_notes": "🔴 VERSE — traditionally cited as Valmiki Ramayana's opening verse (Bala Kanda, Sarga 1, Shloka 1). Recite with special care — this is arguably the single most load-bearing line of pronunciation in the entire series' opening. Clip length is generous for a 2-line verse deliberately — never let a verse clip feel rushed.",
     "image": "assets/images/E1.01_valmiki_maharshi_katha/scene-15-valmiki-ramayana-opening-verse-background.png",
     "status": "image_available"
@@ -164,7 +164,7 @@
     "scene": 17,
     "part_id": "17",
     "visual_description": "Six-line verse displayed as elegant on-screen text, paced to the narrator's recitation — no other visual needed, let the verse itself hold the frame.",
-    "story_text": "కోన్వస్మిన్ సాంప్రతం లోకే గుణవాన్ కశ్చ వీర్యవాన్ । ధర్మజ్ఞశ్చ కృతజ్ఞశ్చ సత్యవాక్యో ధృఢవ్రతః ॥ చారిత్రేణ చ కో యుక్తః సర్వభూతేషు కో హితః । విద్వాన్ కః కః సమర్థశ్చ కశ్చైకప్రియదర్శనః ॥ ఆత్మవాన్ కో జితక్రోధో ద్యుతిమాన్ కోఽనసూయకః । కస్య బిభ్యతి దేవాశ్చ జాతరోషస్య సంయుగే ॥",
+    "story_text": "కోన్వస్మిన్ సాంప్రతం లోకే గుణవాన్ కశ్చ వీర్యవాన్ । ధర్మజ్ఞశ్చ కృతజ్ఞశ్చ సత్యవాక్యో ధృఢవ్రతః ॥ చారిత్రేణ చ కో యుక్తః సర్వభూతేషు కో హితః । విద్వాన్ కః కః సమర్థశ్చ కశ్చ ఏక ప్రియదర్శనః ॥ ఆత్మవాన్ కో జిత క్రోధో ద్యుతిమాన్ కః అనసూయకః । కస్య బిభ్యతి దేవాః చ జాత రోషస్య సంయుగే ॥",
     "source_notes": "🔴 VERSE — Narada's list of the sixteen ideal virtues. Longest single clip in the episode by design — six lines recited unhurried, per the Narrator's standing pace rule. If your video tool caps single-clip length below 30s, split into two back-to-back clips of the same static verse-card visual (3 lines each) rather than rushing the recitation.",
     "image": "assets/images/E1.01_valmiki_maharshi_katha/scene-17-sixteen-virtues-verse-background.png",
     "status": "image_available"

@@ -22,7 +22,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** యా గతిః సర్వభూతానాం సా గతిస్తవ చ ప్రభో | రాజా మహాత్మా తేజస్వీ యాయజూకః సతాం గతిః ॥
+**Story:** యా గతిః సర్వ భూతానాం తాం గతిం తే పితా గతః । రాజా మహాత్మా తేజస్వీ యాయజూకః సతాం గతిః ॥
 
 **Image:** Pending creation.
 

@@ -32,7 +32,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over the three together on the ground.
 
-**Story:** సీతే మృతస్తే శ్వశురః పిత్రా హీనోఽసి లక్ష్మణ | భరతో దుఃఖమాచష్టే స్వర్గతం పృథివీపతిం ॥ సీతా పురస్తాద్వ్రజతు త్వమేనామభితో వ్రజ | అహం పశ్చాద్గమిష్యామి గతిర్హ్యేషా సుదారుణా ॥
+**Story:** సీతే మృతస్తే శ్వశురః పిత్రా హీనోఽసి లక్ష్మణ । భరతో దుఃఖమాచష్టే స్వర్గతం పృథివీపతిం ॥ సీతా పురస్తాద్వ్రజతు త్వమేనామభితో వ్రజ । అహం పశ్చాద్గమిష్యామి గతిర్హ్యేషా సుదారుణా ॥
 
 **Image:** Pending creation.
 

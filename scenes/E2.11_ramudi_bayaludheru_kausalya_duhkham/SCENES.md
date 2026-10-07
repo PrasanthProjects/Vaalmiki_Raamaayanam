@@ -22,7 +22,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** న అహం అర్థపరో దేవి లోకమావస్తుముత్సహే | విద్ధి మాం ఋషిభిస్తుల్యం కేవలం ధర్మమాస్థితమ్ ॥
+**Story:** న అహం అర్థ పరః దేవి లోకము ఆవస్తుం ఉత్సహే । విద్ధి మాం ఋషిభిస్ తుల్యం కేవలం ధర్మం ఆస్థితం ॥
 
 **Image:** Pending creation.
 
@@ -112,7 +112,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** [Kausalya Visual Lock] slowly regaining consciousness, beginning to speak — a bitter, exhausted opening before the grief pours out.
 
-**Story:** తరువాత ఆమెకి కొంత సపర్యలు చేశాక బాహ్య స్మృతిని పొంది ఇలా అని పలికింది — "రామా, నువ్వు చెప్పిన మాటలు విన్నాక నాకు అసలు పిల్లలు పుట్టకుండా ఉండి ఉంటే బాగుండు అనిపిస్తుంది. పిల్లలు లేకపోతే నన్ను అందరూ గొడ్రాలు అంటారు, అంతకుమించి నాకు వేరే బాధ ఉండదు, కాని ఇవ్వాళ నేను పొందుతున్న బాధ సామాన్యమైనది కాదు" అని పలికింది.
+**Story:** తరువాత ఆమెకి కొంత సపర్యలు చేశాక బాహ్య స్మృతిని పొంది ఇలా అని పలికింది — "రామా, నువ్వు చెప్పిన మాటలు విన్నాక నాకు అసలు పిల్లలు పుట్టకుండా ఉండి ఉంటే బాగుండు అనిపిస్తుంది. పిల్లలు లేకపోతే నన్ను అందరూ గొడ్రాలు అంటారు, అంతకుమించి నాకు వేరే బాధ ఉండదు, కాని ఇవ్వాళ నేను పొందుతున్న బాధ సామాన్యమైనది కాదు రామ, నీకొక నిజం చెప్తాను" అని పలికింది.
 
 **Image:** Pending creation.
 
@@ -122,7 +122,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** న దృష్టపూర్వం కల్యాణం సుఖం వా పతిపౌరుషే | అపి పుత్రే విపశ్యేయమితి రామ ఆస్థితం మయా ॥
+**Story:** న దృష్ట పూర్వం కల్యాణం సుఖం వా పతి పౌరుషే । అపి పుత్రే విపశ్యేయం ఇతి రామ ఆస్థితం మయా ॥
 
 **Image:** Pending creation.
 

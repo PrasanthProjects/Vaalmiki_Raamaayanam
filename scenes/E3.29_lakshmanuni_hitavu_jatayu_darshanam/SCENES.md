@@ -82,7 +82,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over [Rama] lowering his bow.
 
-**Story:** పూర్వజో అపి ఉక్త మాత్రః తు లక్ష్మణేన సుభాషితం | సార గ్రాహీ మహాసారం ప్రతిజగ్రాహ రాఘవః ॥
+**Story:** పూర్వజో అపి ఉక్త మాత్రః తు లక్ష్మణేన సుభాషితం । సార గ్రాహీ మహాసారం ప్రతిజగ్రాహ రాఘవః ॥
 
 **Image:** Pending creation.
 

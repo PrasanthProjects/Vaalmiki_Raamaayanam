@@ -1,0 +1,133 @@
+# E6.19 — కుంభకర్ణుడి వృత్తాంతం — హితవు (Kumbhakarna's Story and His Counsel) — Scenes
+
+[Episode script](../../6%20-%20Yudha%20Khaanda/E6.19_kumbhakarnuni_hitavu.md)
+
+[Narration parts](NARRATION_PARTS.md)
+
+Still-image scene sheet. Source narration is included as story context only. No voice or video generation.
+
+Keep existing descriptive image names. For new images use `scene-NN-short-description.png` inside the matching episode folder.
+
+## 1 — Scene 01
+
+**Visual:** Recap: Kumbhakarna towering over Lanka's roofs; vanaras in flight.
+
+**Story:** గత భాగంలో నిద్రలేచిన కుంభకర్ణుడు రావణుడి అంతఃపురానికి బయలుదేరాడు. ఆయనని దూరం నుండి చూసిన వానరాలు భయంతో పారిపోయాయి.
+
+**Image:** Pending creation.
+
+**Source note:** Bridge line.
+
+## 2 — Scene 02
+
+**Visual:** [Sugriva Visual Lock — crowned king] and [Angada — per E4.12, a full-grown warrior prince] questioning [Vibhishana — per E5.20]; heralds calling out that the giant is only a machine; the host creeping back.
+
+**Story:** ఈ గందరగోళాన్ని చూసి సుగ్రీవుడు, అంగదుడు 'ఏంటి విషయము' అని అడుగగా, విభీషణుడు అన్నాడు "మా అన్నయ్య నడిచి అంతఃపురంలోకి వెళుతున్నాడు. ఇంక కొంచెంసేపటిలో వాడు యుద్ధానికి రాబోతున్నాడు. ఇతను రావణుడి తమ్ముడు, ఇతను కూడా ఒక రాక్షసుడే అని వానరాలకి చెప్పకండి, అలా చెబితే వారు భయపడతారు, అది కేవలం ఒక యంత్రం అని చెప్పండి" అన్నాడు. అప్పుడు కుంభకర్ణుడిని యంత్రము అని ప్రకటించారు. అలా ప్రకటించగానే పారిపోయిన వానరాలన్నీ మళ్ళీ తిరిగి వచ్చాయి.
+
+**Image:** Pending creation.
+
+**Source note:** Vibhishana's stratagem: tell them it is a yantra.
+
+## 3 — Scene 03
+
+**Visual:** [Rama, RAMA-S4] asking; [Vibhishana — per E5.20] telling; painted-flashback grade: the young Kumbhakarna devouring all before him; Indra on Airavata rebuking him; the tusk torn out; Brahma startled.
+
+**Story:** అప్పుడు రాముడు "విభీషణ! నీ అన్నయ్య ఇలా ఉన్నాడేంటి. వీడు ఇంతేనా లేక పుట్టాక ఇలా పెరిగాడ" అని అడిగాడు. విభీషణుడు అన్నాడు "కొంతమంది రాక్షసులు జన్మించిన తరువాత తపస్సు చేసి బలాన్ని సంపాదిస్తారు. మా అన్నయ్య గొప్పతనం ఏమిటంటే, ఆయన పుట్టడమే ఇలా పుట్టాడు. వీడు పుట్టినప్పటి నుండి 'ఆకలీ' అని దేశం మీద పడి మనుష్యులని, రాక్షసులని, జంతువులని తినేవాడు. అలా గంటకి కొన్ని లక్షల మందిని తినేవాడు. వీడిని చూసి లోకమంతా తల్లడిల్లిపోయి ఇంద్రుడిని ప్రార్ధించారు. అప్పుడాయన కుంభకర్ణుడు ఆహారం తింటున్న ప్రాంతానికి ఆకాశంలో ఐరావతం మీద వెళ్ళి 'ఏరా నీకు బుద్ధి ఉందా లేదా, ఏమిట్రా ఆ తినెయ్యడం.
+
+**Image:** Pending creation.
+
+**Source note:** Born so, not made so by tapas. Keep the devouring to scale and silhouette.
+
+## 4 — Scene 04
+
+**Visual:** Continue the same scene — [Rama, RAMA-S4] asking; [Vibhishana — per E5 — on a new angle or a slow push-in; same characters, dress and light.
+
+**Story:** కొన్ని గంటల్లో ఈ ప్రపంచంలోని ప్రాణి కోటిని బతకనివ్వవా' అని అరిచాడు. అప్పుడు కుంభకర్ణుడు ఆగ్రహంతో పైకి ఎరిగి 'నేను తింటుంటే నువ్వు ఎవడివిరా చెప్పడానికి' అని, ఆ ఐరావతాన్ని ఒక్క తోపు తోసాడు. అప్పుడా ఐరావతం కింద పడిపోయింది. అప్పుడాయన ఆ ఐరావతానికి ఉన్న దంతాన్ని పీకి దానితో ఇంద్రుడిని కొట్టాడు. ఇంద్రుడు భయపడి బ్రహ్మ దగ్గరికి వెళ్ళి జరిగినది చెప్పాడు. అప్పుడు బ్రహ్మగారు అన్నారు 'సృష్టిలో ఇలాంటివాడు ఒకడు వచ్చాడ! అలా తినెయ్యడమేమిటి, వాడిని ఒకసారి ఇక్కడికి తీసుకురండి' అన్నారు. తరువాత వారు కుంభకర్ణుడిని బ్రహ్మగారి దగ్గరికి తీసుకొచ్చారు. కుంభకర్ణుడిని చూడగానే బ్రహ్మగారు ఉలిక్కిపడి 'నువ్వు వెంటనే భూమి మీద పడి చచ్చినట్టు నిద్రపో' అన్నారు.
+
+**Image:** Pending creation.
+
+## 5 — Scene 05
+
+**Visual:** Flashback continues: Ravana pleading with Brahma; the terms set; back to [Vibhishana — per E5.20] and [Rama, RAMA-S4].
+
+**Story:** కుంభకర్ణుడు అలా నిద్రపోతుంటే లోకమంతా సంతోషించి, కాని రావణుడికి బాధ కలిగింది. అప్పుడాయన బ్రహ్మగారితో 'అదేమిటి తాత అలా శపించావు, వాడు నీకు మునిమనవడు. అలా నిద్రపోమంటే ఎలా, కొన్నాళ్ళు లేచేటట్టు ఏర్పాటు చెయ్యి' అన్నాడు. అప్పుడు బ్రహ్మగారు 'వీడు 6 నెలలు నిద్రపోతాడు, ఒక్క రోజే నిద్రలేస్తాడు. ఆ ఒక్క రోజులోనే 6 నెలల తిండి తినేస్తాడు. తినంగానే మళ్ళి నిద్రపోతాడు' అన్నారు. అందుకని వాడు అలా నిద్రపోతుంటాడు రామ. ఇవ్వాళ మా అన్నయ్య వాడిని యుద్ధం కోసం నిద్రలేపాడు. వాడితో యుద్ధం అంటే సామాన్య మైన విషయం కాదు రామ" అన్నాడు.
+
+**Image:** Pending creation.
+
+**Source note:** Six months asleep, one day awake (the p. 621 illustration).
+
+## 6 — Scene 06
+
+**Visual:** [Kumbhakarna — per E5.20: mountain-sized, heavy-lidded; fix a Character Bible lock before production] before [Ravana, per the E3.14 lock — ten-headed, twenty-armed war form] (the p. 624 illustration), speaking plainly.
+
+**Story:** ఇంతలో కుంభకర్ణుడు రావణుడి అంతఃపురానికి వెళ్ళాడు. అప్పుడు రావణుడు తన బాధ అంతా చెప్పుకుని కుంభకర్ణుడిని యుద్ధానికి వెళ్ళమన్నాడు. అప్పుడు కుంభకర్ణుడు "అన్నయ్య! మనం ఏదన్నా ఒక పని చేసేముందు ఆలోచించి చెయ్యాలి. సీతని అపహరించే ముందు ఎవరితో అన్న ఆలోచన చేశావ. ఒక్కడివే ఎవరితో చెప్పకుండా వెళ్ళి తీసుకొచ్చావు, ఇప్పుడది ఉపద్రవం అయ్యి కూర్చుంది. నీకు చెప్పగలిగేంత వాడిని కాదు కాని, నీకన్నా అవతలివాడి పౌరుష పరాక్రమాలు ఎక్కువ అనుకున్నప్పుడు సంధి చేసుకోవాలి, సమానుడు అనుకుంటేనే యుద్ధం చెయ్యాలి, లేదా నీకంటే తక్కువ శక్తి కలిగిన వాడైతేనే యుద్ధం చెయ్యాలి అని విభీషణుడు చెబితే, ఆయనని రాజ్యం నుండి బయటకి పంపించేశావు.
+
+**Image:** Pending creation.
+
+**Source note:** Kumbhakarna's counsel is Vibhishana's, said by one who will fight anyway: "What kind of rule is this, brother?"
+
+## 7 — Scene 07
+
+**Visual:** Continue the same scene — [Kumbhakarna — per E5 — on a new angle or a slow push-in; same characters, dress and light.
+
+**Story:** ఇప్పుడు అందరూ మరణించిన తరువాత నన్ను నిద్రలేపి యుద్ధానికి వెళ్ళమంటున్నావు. నీ మంత్రులైనా నీకు మంచి చెప్పరా?, నీ ముఖ ప్రీతి కోసం మాట్లాడుతూ ఉంటారా?. వచ్చే ఉపద్రవాన్ని కనిపెట్టి నీకు సలహా ఇవ్వగలిగిన మంత్రులు నీకు లేరా?. ఏమి రాజ్య పాలన చేస్తున్నావన్నయ్యా నువ్వు" అని అడిగాడు.
+
+**Image:** Pending creation.
+
+## 8 — Scene 08
+
+**Visual:** [Ravana, per the E3.14 lock — ten-headed, twenty-armed war form] flaring up.
+
+**Story:** ఈ మాటలకి రావణుడికి కోపం వచ్చి "నేను తప్పే చేశాను అనుకో, దానిని దిద్దుబాటు చెయ్యమని నిన్ను నిద్రలేపాను తప్ప, నా తప్పుని పది మార్లు ఎత్తి చూపమని నిన్ను నిద్రలేపలేదు. నువ్వు ఉపకారం చెయ్యగలిగితే రామలక్ష్మణులని సంహరించు, లేకపోతే వెళ్ళి పడుకో, కాని ఇవ్వాల్టితో నీకు నాకు ఉన్న అనుబంధం తెగిపోతుంది" అన్నాడు.
+
+**Image:** Pending creation.
+
+**Source note:** "I woke you to mend my mistake, not to count it over ten times."
+
+## 9 — Scene 09
+
+**Visual:** [Kumbhakarna — per E5.20: mountain-sized, heavy-lidded; fix a Character Bible lock before production] softening at once and turning to go.
+
+**Story:** అప్పుడు కుంభకర్ణుడు "ఎందుకన్నయ్యా అంత బెంగ పెట్టుకుంటావు. నేను ఉండి కూడా నీకు ఉపకారం చెయ్యకపోతే నాకు వచ్చే ప్రయోజనం ఏమిటి. యుద్ధరంగానికి వెళ్ళి ఆ రాముడిని తప్పకుండా సంహరిస్తాను" అని బయలుదేరుతున్నాడు.
+
+**Image:** Pending creation.
+
+**Source note:** The brother's heart.
+
+## 10 — Scene 10
+
+**Visual:** Mahodara stepping in with his scheme, counting it off on his fingers.
+
+**Story:** ఆ సమయంలోనే మహోదరుడు అనే రాక్షసుడు అక్కడికి వచ్చి "కుంభకర్ణా! రాముడు అంత బలవంతుడు అంటూనే యుద్ధానికి వెళతానంటావేంటి. ఇలాంటప్పుడు యుద్ధం చెయ్యకూడదు, మోసాన్ని ప్రయోగం చెయ్యాలి. మనం ఒక అయిదుగురము బయలుదేరి రాముడి మీదకి యుద్ధానికి వెళదాము. అయిదుగురము రాముడి చుట్టూ చేరి ఆయనని నిగ్రహించగలిగితే అదృష్టవంతులం, ఒకవేళ రాముడిని నిగ్రహించలేకపోతే రామనామాంకితమైన బాణములు మన శరీరంలో గుచ్చుకుని ఉంటాయి. అప్పుడు మనం యుద్ధ భూమిలో ఉండకుండా వెనక్కి తిరిగొచ్చి రావణుడి కాళ్ళ మీద పడదాము. అప్పుడాయన ఫలాన అయిదుగురు వెళ్ళి రాముడిని సంహరించారు అని అందరికీ చెబుతాడు. అప్పుడు రావణుడు సీత కూర్చున్న చోట ఒక సభ నిర్వహించి మనల్ని కోరికలు కోరమంటాడు.
+
+**Image:** Pending creation.
+
+**Source note:** A coward's plan dressed as cunning: fake a victory, hold a durbar, and let the drums deceive Sita.
+
+## 11 — Scene 11
+
+**Visual:** Continue the same scene — Mahodara stepping in with his scheme, counting it off on his fingers — on a new angle or a slow push-in; same characters, dress and light.
+
+**Story:** అప్పుడు మనము డబ్బు, బంగారము, వాహనాలు అడుగుదాము. అవన్నీ రావణుడు సభలో మనకి ఇస్తాడు. అప్పుడు సీత అనుకుంటుంది 'ఇంత సభ జరుగుతుంది, బయట భేరీలు మ్రోగుతున్నాయంటే రాముడు మరణించి ఉంటాడు. ఇంక రాముడు ఎలాగూ లేడు కదా' అని చాలా కాలం సుఖాలకు దూరమైన స్త్రీ కనుక రావణుడి పాన్పు ఎక్కుతుంది. అప్పుడు రావణుడి కోరిక తీరుతుంది" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 12 — Scene 12
+
+**Visual:** [Ravana, per the E3.14 lock — ten-headed, twenty-armed war form] dismissing it; [Kumbhakarna — per E5.20: mountain-sized, heavy-lidded; fix a Character Bible lock before production] resolved to go alone; Ravana placing a garland round his brother's neck.
+
+**Story:** అప్పుడు రావణుడు "ఈ మహోదరుడికి రాముడితో యుద్ధం అంటే భయంరా, అందుకని ఇలాంటి నాటకాలన్నీ చెబుతున్నాడు" అని అన్నాడు. అప్పుడు కుంభకర్ణుడు "మీరెవరు రావక్కరలేదు, నేనొక్కడినే వెళతాను" అన్నాడు. అప్పుడు రావణుడు "నువ్వు ఒక్కడివే వెళ్ళద్దు, రాక్షస సైన్యాన్ని తీసుకొని వెళ్ళు" అని చెప్పి, కుంభకర్ణుడి మెడలో ఒక మాల వేశాడు.
+
+**Image:** Pending creation.
+
+**Source note:** Ravana himself sees through Mahodara.
+
+## 13 — Scene 13
+
+**Visual:** End card.
+
+**Story:** తర్వాత చూద్దాం — యుద్ధ భూమిలో కుంభకర్ణుడు.
+
+**Image:** Pending creation.
+
+**Source note:** Bridge line.

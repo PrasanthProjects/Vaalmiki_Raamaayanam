@@ -62,7 +62,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** [Manthara Visual Lock] continuing further — now accusing Rama of political calculation in the timing/manner of the coronation announcement itself, and predicting Bharata will be killed if he returns.
 
-**Story:** "అకస్మాత్తుగా యువరాజ పట్టాభిషేకాన్ని తన తండ్రికి చెప్పి ప్రకటించాడు, ఇలాంటి విషయంలో రాముడు చాలా తెలివైనవాడు, ప్రజలందరి మద్దత్తు కూడబెట్టుకున్నాడు, భరతుడు ఇక్కడే ఉంటే రోజూ తన తండ్రికి సేవ చేసేవాడు, అప్పుడు దశరథుడికి భరతుడి మీద ప్రేమ పెరిగేది, అలా జరగకుండా ఉండడానికే భరతుడిని రాజ్యం నుండి పంపించేసాడు రాముడు. రాముడికి లక్ష్మణుడితో సమస్యలు ఉండవు, కావున భరతుడిని అయోధ్యకి రాకముందే మట్టుపెట్టేస్తాడు, అందుకని కైకా నా మాట విని కొడుకుని అయోధ్యకి రానివ్వకు, అటునుండి అటు అరణ్యాలకి పారిపొమ్మని చెప్పు. ఒకసారి రాముడికి పట్టాభిషేకం అయితే ప్రజలకి ఆయన మీద ఉన్న నమ్మకం ఇంకా పెరుగుతుంది. ఇంక రాజ్యంలో తనకి శత్రువర్గం అనేది లేకుండా చేసుకుంటాడు" అని పలికింది.
+**Story:** "అకస్మాత్తుగా యువరాజ పట్టాభిషేకాన్ని తన తండ్రికి చెప్పి ప్రకటించాడు, ఇలాంటి విషయంలో రాముడు చాలా తెలివైనవాడు, ప్రజలందరి మద్దత్తు కూడబెట్టుకున్నాడు, వాళ్ళందరితో రాముడు రాజు కావాలని ఆమోదం పొందాడు. భరతుడు ఇక్కడే ఉంటే రోజూ తన తండ్రికి సేవ చేసేవాడు, అప్పుడు దశరథుడికి భరతుడి మీద ప్రేమ పెరిగేది, అలా జరగకుండా ఉండడానికే భరతుడిని రాజ్యం నుండి పంపించేసాడు రాముడు. రాముడు రోజూ పితృసేవ, పితృసేవ అని దశరథుడి చుట్టూ తిరిగి పట్టాభిషేకం పొందుతున్నాడు. రాముడికి లక్ష్మణుడితో సమస్యలు ఉండవు, కావున భరతుడిని అయోధ్యకి రాకముందే మట్టుపెట్టేస్తాడు, అందుకని కైకా నా మాట విని కొడుకుని అయోధ్యకి రానివ్వకు, అటునుండి అటు అరణ్యాలకి పారిపొమ్మని చెప్పు. ఒకసారి రాముడికి పట్టాభిషేకం అయితే ప్రజలకి ఆయన మీద ఉన్న నమ్మకం ఇంకా పెరుగుతుంది. ఇంక రాజ్యంలో తనకి శత్రువర్గం అనేది లేకుండా చేసుకుంటాడు" అని పలికింది.
 
 **Image:** Pending creation.
 
@@ -72,7 +72,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text (OCR-garbled in source; render the intended sense with visible caution flag for the manual verse-audit pass).
 
-**Story:** ప్రాప్తాం సుమహతీం ఋద్ధిం పతితాం తాం హతద్విషమ్ | ఉపస్థాస్యసి కౌసల్యాం దాసీవత్త్వం కృతాఞ్జలిః ॥
+**Story:** ప్రాప్తాం సుమహతీం ప్రీతిం ప్రతీతాం తాం హతద్విషం । ఉపస్థాస్యసి కౌసల్యాం దాసీవత్త్వం కృతాఞ్జలిః ॥
 
 **Image:** Pending creation.
 
@@ -92,7 +92,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** [Kaikeyi Visual Lock] — the turn. Her earlier calm dissolves visibly; a slow, dawning fear/anger crossing her face for the first time in the episode.
 
-**Story:** మంథర చెప్పిన ఈ మాటలు విన్న కైకేయ మనసులో దురాలోచన ప్రవేశించింది. ఆమె వెంటనే మంథరతో "నేనూ నా కొడుకు ఈ ఉపద్రవం నుండి బయటపడాలంటే ఏమి చెయ్యమంటావు" అని అడిగింది.
+**Story:** మంథర చెప్పిన ఈ మాటలు విన్న కైకేయ మనసులో దురాలోచన ప్రవేశించింది. ఆమె వెంటనే మంథరతో "నేనూ నా కొడుకు ఈ ఉపద్రవం నుండి బయటపడాలంటే ఏమి చెయ్యమంటావు" అని అడిగింది. అప్పుడు మంథర ఏమి చెప్పిందంటే —
 
 **Image:** Pending creation.
 
@@ -102,7 +102,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text — Manthara's plan, stated in verse form before she explains it in plain speech.
 
-**Story:** అద్య రామం ఇతః క్షిప్రం వనం ప్రస్థాపయామ్యహం | యౌవరాజ్యే చ భరతం క్షిప్రమేవాభిషేచయే ॥
+**Story:** అద్య రామమితః క్షిప్రం వనం ప్రస్థాపయామ్యహం । యౌవరాజ్యే చ భరతం క్షిప్రమేవాభిషేచయే ॥
 
 **Image:** Pending creation.
 

@@ -78,7 +78,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** [Vishwamitra] releasing the Brahmastra — and it, too, vanishing into the staff in total silence, no different from any lesser weapon before it. (Location register: Mythic inset, anticlimax by design)
 
-**Story:** "అంతటి శక్తివంతమైన ఆ బ్రహ్మాస్త్రాన్ని విశ్వామిత్రుడు అభిమంత్రించి వదిలాడు, ఇప్పటిదాకా ఎంతోమంది గొప్పవాళ్ళని మట్టుపెట్టిన ఆ బ్రహ్మాస్త్రం నిశబ్దంగా ఆయన బ్రహ్మదండంలోకి పోయింది."
+**Story:** "అంతటి శక్తివంతమైన ఆ బ్రహ్మాస్త్రాన్ని విశ్వామిత్రుడు అభిమంత్రించి వదిలాడు, ఇప్పటిదాకా ఎంతోమంది గొప్పవాళ్ళని మట్టుపెట్టిన ఆ బ్రహ్మాస్త్రం నిశబ్దంగా ఆయన బ్రహ్మదండంలోకి పోయింది. అప్పుడు విశ్వామిత్రుడు —"
 
 **Image:** Pending creation.
 
@@ -88,7 +88,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text; [Young King Vishwamitra Visual Lock] stepping down from his chariot in total defeat, speaking his own devastating self-assessment aloud. (Location register: Mythic inset)
 
-**Story:** ధిక్ బలం క్షత్రియ బలం బ్రహ్మ తేజో బలం బలం । ఏకేన బ్రహ్మ దండేన సర్వ అస్త్రాణి హతాని మే ॥
+**Story:** ధిక్ బలం క్షత్రియ బలం బ్రహ్మ తేజో బలం బలం । ఏకేన బ్రహ్మ దణ్డేన సర్వ అస్త్రాణి హతాని మే ॥
 
 **Image:** Pending creation.
 

@@ -24,7 +24,7 @@
     "scene": 3,
     "part_id": "3",
     "visual_description": "On-screen shloka text over Rama moving quickly toward the radiant sage.",
-    "story_text": "ఏవం ఉక్త్వా మహాబాహుః అగస్త్యం సూర్య వర్చసం | జగ్రాహ ఆపతత్ తస్య పాదౌ చ రఘు నందన ॥ అభివాద్య తు ధర్మాత్మా తస్థౌ రామః కృతాంజలిః | సీతయా సహ వైదేహ్యా తదా రామః స లక్ష్మణః ॥",
+    "story_text": "ఏవం ఉక్త్వా మహాబాహుః అగస్త్యం సూర్య వర్చసం । జగ్రాహ ఆపతత్ తస్య పాదౌ చ రఘునందన ॥ అభివాద్య తు ధర్మాత్మా తస్థౌ రామః కృతాంజలిః । సీతయా సహ వైదేహ్యా తదా రామః స లక్ష్మణః ॥",
     "source_notes": "🔴 VERSE — two shlokas, flagged for the manual audit (printed \"ఆపతత్\", \"రఘు నందన\"; the corrected extraction also has an unreadable glyph in \"ఉక్త్వా\"): \"Saying this, the mighty-armed Raghunandana went quickly and clasped the feet of Agastya, bright as the sun; having saluted him, righteous Rama stood with joined palms, with Sita of Videha and with Lakshmana.\"",
     "image": null,
     "status": "image_pending"

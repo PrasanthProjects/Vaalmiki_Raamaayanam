@@ -22,7 +22,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen text (this specific line is quoted Sanskrit in the source, given as a single couplet before its own translation):
 
-**Story:** చ ఆనీయమానే తు విప్రే తస్మిన్ మహాత్మని వవర్ష సహసా దేవో జగత్ ప్రహ్లాదయన్ తదా ॥
+**Story:** తత్ర చ ఆనీయమానే తు విప్రే తస్మిన్ మహాత్మని । వవర్ష సహసా దేవో జగత్ ప్రహ్లాదయన్ తదా ॥
 
 **Image:** Pending creation.
 
@@ -114,7 +114,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** Wide hospitality montage continues — elderly guests, sick guests, women, children, all being served with equal warmth; on-screen verse text. (Location register: Ayodhya, yagna grounds)
 
-**Story:** అలా వచ్చిన వాళ్ళందరికి భోజనాలు పెడుతున్నారు. వృద్ధాః చ వ్యాధితాః చ ఏవ బాలాః తథా ఏవ చ । అనిశం భుంజమానానాం న తృప్తిః ఉపలభ్యతే ॥
+**Story:** అలా వచ్చిన వాళ్ళందరికి భోజనాలు పెడుతున్నారు. వృద్ధాః చ వ్యాధితాః చ ఏవ స్త్రీ బాలాః తథా ఏవ చ । అనిశం భుంజమానానాం న తృప్తిః ఉపలభ్యతే ॥
 
 **Image:** Pending creation.
 
@@ -190,7 +190,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text; visual of unseen celestial beings gathering, implied through light/shimmer effects rather than full character reveals yet. (Location register: Ayodhya, yagnashala → divine realm overlay)
 
-**Story:** దేవాః స గంధర్వాః సిద్ధాః చ పరమ ఋషయః । భాగ ప్రతిగ్రహార్థం వై సమవేతా యథావిధి ॥
+**Story:** తతో దేవాః స గంధర్వాః సిద్ధాః చ పరమ ఋషయః । భాగ ప్రతిగ్రహార్థం వై సమవేతా యథావిధి ॥
 
 **Image:** Pending creation.
 
@@ -246,7 +246,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text; Vishnu's full visual reveal, matching scene 25's description exactly. (Location register: Divine realm)
 
-**Story:** ఏతస్మిన్ అనంతరే విష్ణుః ఉపయాతో మహాద్యుతిః । శంఖ చక్ర గదా పాణిః పీత వాసా జగత్పతిః ॥
+**Story:** ఏతస్మిన్ అనంతరే విష్ణుః ఉపయాతో మహాద్యుతిః । శఙ్ఖ చక్ర గదా పాణిః పీత వాసా జగత్పతిః ॥
 
 **Image:** Pending creation.
 
@@ -264,7 +264,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text — THE central verse of the entire series, Rama's own vow, already quoted in E0.01 as a callback but recited here in its original full narrative context for the first time. (Location register: Divine realm)
 
-**Story:** హత్వా క్రూరం దురాధర్షం దేవ ఋషీణాం భయావహం । దశ వర్ష సహస్రాణి దశ వర్ష శతాని చ । వత్స్యామి మానుషే లోకే పాలయన్ పృథ్వీం ఇమాం । ఏవం దత్వా వరం దేవో దేవానాం విష్ణుః ఆత్మవాన్ ॥
+**Story:** హత్వా క్రూరం దురాధర్షం దేవ ఋషీణాం భయావహం । దశ వర్ష సహస్రాణి దశ వర్ష శతాని చ ॥ వత్స్యామి మానుషే లోకే పాలయన్ పృథ్వీం ఇమాం । ఏవం దత్వా వరం దేవో దేవానాం విష్ణుః ఆత్మవాన్ ॥
 
 **Image:** Pending creation.
 
@@ -352,7 +352,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text begins — the famous astrological-detail verse pinpointing Rama's exact birth moment — hold this as a suspended, anticipatory beat; the actual birth itself is the opening of E1.05, so this episode should END on the verse's build-up, not the birth itself. (Location register: Ayodhya, inner palace, night sky with visible planetary/astrological motif)
 
-**Story:** తతః చ ద్వాదశే మాసే చైత్రే నావమికే తిథౌ । నక్షత్రే అదితి దైవత్యే స్వ ఉచ్చ సంస్థేషు పంచసు । గ్రహేషు కర్కటే లగ్నే వాక్పతా ఇందునా సహ । ప్రోద్యమానే జగన్నాథం సర్వ లోక నమస్కృతం...
+**Story:** తతః చ ద్వాదశే మాసే చైత్రే నావమికే తిథౌ । నక్షత్రే అదితి దైవత్యే స్వ ఉచ్చ సంస్థేషు పంచసు ॥ గ్రహేషు కర్కటే లగ్నే వాక్పతా ఇందునా సహ । ప్రోద్యమానే జగన్నాథం సర్వ లోక నమస్కృతం ॥...
 
 **Image:** Pending creation.
 

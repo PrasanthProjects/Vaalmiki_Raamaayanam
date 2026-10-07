@@ -1,0 +1,470 @@
+[
+  {
+    "scene": 1,
+    "part": 1,
+    "id": "01.01",
+    "text": "గత భాగంలో సరమ మాటలతో సీతమ్మ ఉపశాంతిని పొందింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 1,
+    "part": 2,
+    "id": "01.02",
+    "text": "ఇప్పుడు రావణుడికి ఆఖరి హితవు, యుద్ధానికి ముందు జరిగిన సంఘటనలు చూద్దాం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 1,
+    "id": "02.01",
+    "text": "ఈలోగా మాల్యవంతుడు (తాత వరస) రావణుడి దగ్గరికి వచ్చి \"సృష్టిలో ధర్మం ఎప్పుడూ కూడా దేవతల వైపు ఉంటుంది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 2,
+    "id": "02.02",
+    "text": "అధర్మం అసురుల వైపు ఉంటుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 3,
+    "id": "02.03",
+    "text": "అధర్మపక్షం ధర్మపక్షం చేత ఓడింపబడుతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 4,
+    "id": "02.04",
+    "text": "నువ్వు సీతమ్మని అపహరించి తెచ్చినప్పటినుండి దుర్నిమిత్తములు కనపడుతున్నాయి, అందుకని మనం ఓడిపోక తప్పదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 5,
+    "id": "02.05",
+    "text": "నువ్వు సీతమ్మని తెచ్చినప్పటినుండి, తెల్లటి రెక్కలు ఉండి ఎర్రటి పాదాలతో ఉండే పావురాలు అరుస్తూ గోల చేస్తున్నాయి, ఇంట్లో పెంచుకునే చిలకలు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 6,
+    "id": "02.06",
+    "text": "గోరింకలు మంచి మాటలు చెప్పడం మానేసి వీచి-కూచి మాటలు చెబుతున్నాయి, ఎక్కడినుంచో క్రూరమైన పక్షులు వచ్చి వీటితో యుద్ధం చేస్తున్నాయి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 7,
+    "id": "02.07",
+    "text": "ఏ ఇంటిముందు చూసినా నల్లనివాడు, బోడిగుండువాడు, ఎర్రటి వస్త్రములు కట్టుకున్నవాడు ఉదయము సాయంకాలము ఇళ్ళల్లోకి తొంగిచూస్తున్నట్టు కనపడుతోంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 8,
+    "id": "02.08",
+    "text": "వచ్చినవాడు సామాన్యుడు కాదు, శ్రీ మహావిష్ణువు వచ్చాడు, సీతమ్మని రాముడికి అప్పగించి సంధి చేసుకుని బతికిపో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 9,
+    "id": "02.09",
+    "text": "నా మాట విని యుద్ధం చెయ్యకు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 1,
+    "id": "03.01",
+    "text": "అప్పుడు రావణుడు \"చేతిలో పద్మములేని లక్ష్మీదేవి ఎంత అందంగా ఉంటుందో అంత అందంగా ఉన్న సీతని నేను వదులుతాన,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 2,
+    "id": "03.02",
+    "text": "రాముడు గొప్పవాడే కావచ్చు కాని నేను కూడా సురాసురులని ఓడించాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 3,
+    "id": "03.03",
+    "text": "అందరూ నాకు నీతులు చెబుతున్నారు కాని నన్ను ప్రోత్సహించే వాడు కనపడడం లేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 4,
+    "id": "03.04",
+    "text": "మీరందరూ బుద్ధిహీనులు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 5,
+    "id": "03.05",
+    "text": "తాత!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 6,
+    "id": "03.06",
+    "text": "నువ్వే కాదు, ఒకవేళ బాణం పెట్టి నా శరీరాన్ని రెండుగా చీల్చినా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 7,
+    "id": "03.07",
+    "text": "కత్తి పెట్టి నా శరీరాన్ని రెండుగా నరికేసినా ఆ రెండు ముక్కలు మాత్రం ముందుకి వంగవు, వెనక్కే పడిపోతాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 8,
+    "id": "03.08",
+    "text": "ఒకరిమాట వినడం నాకు చేతకాదు, ఇది నా స్వభావం\" అని చెప్పాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 1,
+    "id": "04.01",
+    "text": "అటుపక్క రాముడు లంకా పట్టణాన్ని చూద్దామని సువేల పర్వతము ఎక్కాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 2,
+    "id": "04.02",
+    "text": "అప్పుడే ఎదురుగా ఉన్న అంతఃపురంలోకి రావణుడు విశేషమైన మాలలు, వస్త్రాలు వేసుకుని బయటకి వచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 3,
+    "id": "04.03",
+    "text": "అలా వస్తున్న రావణుడిని చూసిన సుగ్రీవుడు ఆగ్రహించి ఒక్క దూకు దూకి రావణుడి మీద పడ్డాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 4,
+    "id": "04.04",
+    "text": "ఇద్దరూ పోడుచుకున్నారు, కొట్టుకున్నారు, రక్తాలు కారేటట్టు గుద్దుకున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 5,
+    "id": "04.05",
+    "text": "ఇంతలో రావణుడు మాయలు ప్రదర్శించడం మొదలుపెట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 6,
+    "id": "04.06",
+    "text": "వీడు మాయా యుద్ధం చేస్తున్నాడని సుగ్రీవుడు ఎగిరి మళ్ళి రాముడి పక్కకి వచ్చేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 1,
+    "id": "05.01",
+    "text": "అప్పుడు రాముడన్నాడు \"సుగ్రీవ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 2,
+    "id": "05.02",
+    "text": "ఇలా నువ్వు వెళ్ళిపోయావే, నీకు ఏదన్నా అయితే నాకు సీత ఎందుకు, లక్ష్మణుడు ఎందుకు, భరతుడు ఎందుకు, శత్రుఘ్నుడు ఎందుకు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 3,
+    "id": "05.03",
+    "text": "నేను మనస్సులో ఎమనుకున్నానో తెలుసా, ఒకవేళ రావణుడి చేతిలో నీకు జరగరానిది జరిగితే, ఈ రావణుడిని ఇక్కడే చంపేసి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 4,
+    "id": "05.04",
+    "text": "విభీషణుడికి పట్టాభిషేకం చేసేసి, లక్ష్మణుడిని వెనక్కి పంపి భరతుడిని రాజ్యం ఏలుకోమని చెప్పి, నేను కూడా శరీరాన్ని ఇక్కడే విడిచిపెట్టి వెళ్ళిపోదామనుకున్నాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 5,
+    "id": "05.05",
+    "text": "నువ్వు లేకుండా నేను ఒక్కడినీ మాత్రం వెనెక్కి వెళ్ళకూడదని నిశ్చయించుకున్నాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 6,
+    "id": "05.06",
+    "text": "ఇంకెప్పుడూ ఇలాంటి సాహసాలు చెయ్యకు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 1,
+    "id": "06.01",
+    "text": "తరువాత అంగదుడిని పిలిచి రావణుడి దగ్గరికి రాయబారానికి పంపారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 2,
+    "id": "06.02",
+    "text": "రాముడు అంగదుడితో \"నువ్వు ఎందరో మహర్షులని బాధలు పెట్టావు, ఎందరో స్త్రీలని అపహరించావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 3,
+    "id": "06.03",
+    "text": "నువ్వు చేసిన పాపాలకి దండన విధించడానికి, నా భార్యను కూడా అపహరించావు కనుక నీయందు దోషమున్నది కనుక,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 4,
+    "id": "06.04",
+    "text": "నిన్ను నేను సంహరించవచ్చు కనుక, ఇవ్వాళ లంకా పట్టణానికి వచ్చాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 5,
+    "id": "06.05",
+    "text": "ఏ దేవర్షులని, రాజులని నిష్కారణంగా వధించి పంపించావో ఆ మార్గంలోనే నిన్ను పంపిస్తాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 6,
+    "id": "06.06",
+    "text": "అంతఃపురం విడిచి బయటకి రా\" అని రావణుడికి చెప్పమన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 1,
+    "id": "07.01",
+    "text": "అంగదుడు వెంటనే వెళ్ళి రావణుడితో ఈ మాటలు చెప్పాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 2,
+    "id": "07.02",
+    "text": "ఆ మాటలు విన్న రావణుడు ఆగ్రహించి తన సైనికులతో అంగదుడిని పట్టుకోమని చెప్పాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 3,
+    "id": "07.03",
+    "text": "ఆ సైనికులు అంగదుడిని పట్టుకోగా, అంగదుడు ఆ సైనికులతో సహా పైకి ఎగిరి ఒళ్ళు దులుపుకున్నాడు, అప్పుడా సైనికులందరూ కింద పడిపోయారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 4,
+    "id": "07.04",
+    "text": "అంగదుడు వెళ్ళిపోతూ రావణుడి అంతఃపుర ప్రాసాదాన్ని ఒక్క తన్ను తన్నాడు, ఆ దెబ్బకి ఆ ప్రాసాదం ఊడి కదిలిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 1,
+    "id": "08.01",
+    "text": "రావణుడు వెంటనే ద్వారాలన్నీ మూయించేసాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 2,
+    "id": "08.02",
+    "text": "యుద్ధం ప్రారంభం అవుతుంది అందరూ సిద్ధంకండి అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 3,
+    "id": "08.03",
+    "text": "తూర్పు దిక్కుకి సర్వసైన్యాదికారి అయిన ప్రహస్తుడిని మోహరించాడు, దక్షిణ దిక్కుకి మహోదర, మహోపార్షులని నియమించాడు, పశ్చిన దిక్కుకి ఇంద్రజిత్ ని పెట్టాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 4,
+    "id": "08.04",
+    "text": "ఉత్తర దిక్కుకి సుక సారణులని పెట్టి, నేను మీతో యుద్ధానికి వస్తాను అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 1,
+    "id": "09.01",
+    "text": "ఇదంతా చూసిన విభీషణుడి గూఢచారులు విషయాన్ని వెనక్కి వెళ్ళి చెప్పారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "అప్పుడు రాముడు \"తూర్పు దిక్కున ఉన్న ప్రహస్తుడిని మన సర్వసైన్యాధికారి అయిన నీలుడు ఎదుర్కొంటాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 3,
+    "id": "09.03",
+    "text": "దక్షిణ దిక్కున ఉన్న మహోదర, మహోపార్షులని యువరాజైన అంగదుడు ఎదుర్కొంటాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 4,
+    "id": "09.04",
+    "text": "పశ్చిమ దిక్కున ఉన్న ఇంద్రజిత్ ని హనుమంతుడు ఎదుర్కొంటాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 5,
+    "id": "09.05",
+    "text": "ఉత్తర దిక్కున ఉన్న సుక సారణులకి నాయకత్వం వహించి రావణుడు ఉన్నాడు కనుక లక్ష్మణుడితో కలిసి నేనే వెళ్ళి ఎదుర్కొంటాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 6,
+    "id": "09.06",
+    "text": "నాలుగు దిక్కులా యుద్ధం ప్రారంభం అవుతోంది, బయలుదేరండి\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "తర్వాత చూద్దాం — యుద్ధం ప్రారంభం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  }
+]

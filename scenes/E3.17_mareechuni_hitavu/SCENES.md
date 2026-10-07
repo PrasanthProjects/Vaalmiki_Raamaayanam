@@ -32,7 +32,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text.
 
-**Story:** సులభాః పురుషా రాజన్ సతతం ప్రియ వాదినః | అప్రియస్య చ పథ్యస్య వక్తా శ్రోతా చ దుర్లభః ॥
+**Story:** సులభాః పురుషా రాజన్ సతతం ప్రియ వాదినః । అప్రియస్య చ పథ్యస్య వక్తా శ్రోతా చ దుర్లభః ॥
 
 **Image:** Pending creation.
 
@@ -62,7 +62,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over a luminous image of [Rama, RAMA-S4] standing in calm light.
 
-**Story:** రామో విగ్రహవాన్ ధర్మః సాధుః సత్య పరాక్రమః | రాజా సర్వస్య లోకస్య దేవానాం ఇవ వాసవః ॥
+**Story:** రామో విగ్రహవాన్ ధర్మః సాధుః సత్య పరాక్రమః । రాజా సర్వస్య లోకస్య దేవానాం ఇవ వాసవః ॥
 
 **Image:** Pending creation.
 
@@ -82,7 +82,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text (the p. 274 illustration: Maricha pleading with Ravana).
 
-**Story:** జీవితం చ సుఖం చైవ రాజ్యం చైవ సుదుర్లభం | యత్ ఇచ్ఛసి చిరం భోక్తుం మా కృథా రామ విప్రియం ॥
+**Story:** జీవితం చ సుఖం చైవ రాజ్యం చైవ సుదుర్లభం । యత్ ఇచ్ఛసి చిరం భోక్తుం మా కృథా రామ విప్రియం ॥
 
 **Image:** Pending creation.
 
@@ -102,7 +102,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over [young Rama, RAMA-S1] seen from Maricha's height in the sky.
 
-**Story:** అజాత వ్యంజనః శ్రీమాన్ బాలః శ్యామః శుభేక్షణః | ఏక వస్త్ర ధరో ధన్వీ శిఖీ కనక మాలయా ॥
+**Story:** అజాత వ్యంజనః శ్రీమాన్ బాలః శ్యామః శుభేక్షణః । ఏక వస్త్ర ధరో ధన్వీ శిఖీ కనక మాలయా ॥
 
 **Image:** Pending creation.
 

@@ -32,7 +32,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over [Hanuman Visual Lock] — first clear look: calm, composed, amid the agitated group.
 
-**Story:** సంభ్రమః త్యజతాం ఏష సర్వైః వాలి కృతే మహాన్ | మలయోఽయం గిరివరో భయం న ఇహ అస్తి వాలినః ॥
+**Story:** సంభ్రమః త్యజతాం ఏష సర్వైః వాలి కృతే మహాన్ । మలయోఽయం గిరివరో భయం న ఇహ అస్తి వాలినః ॥
 
 **Image:** Pending creation.
 
@@ -62,7 +62,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over [Hanuman] transforming into a mendicant — saffron robes, the same bright intelligent eyes.
 
-**Story:** కపి రూపం పరిత్యజ్య హనుమాన్ మారుతాత్మజః | భిక్షు రూపం తతో భేజే శఠబుద్ధితయా కపిః ॥
+**Story:** కపి రూపం పరిత్యజ్య హనుమాన్ మారుతాత్మజః । భిక్షు రూపం తతో భేజే శఠబుద్ధితయా కపిః ॥
 
 **Image:** Pending creation.
 

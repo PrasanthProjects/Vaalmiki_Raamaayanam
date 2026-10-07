@@ -104,7 +104,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** [Use Hanuman Visual Lock] shown listening reverently, hands folded, superimposed faintly wherever the Ramayana is being narrated — this visual motif (Hanuman quietly present) can recur across the whole series whenever a stotram is recited.
 
-**Story:** యత్ర యత్ర రఘునాథ కీర్తనం, తత్ర తత్ర కృతమస్తకాంజలిం । బాష్పవారి పరిపూర్ణలోచనం, మారుతిం నమత రాక్షసాంతకం ॥ ఎక్కడైనా రామాయణము గూర్చి మాట్లాడుతుంటే స్వామి హనుమ తప్పకుండా వచ్చి వింటారు.
+**Story:** యత్ర యత్ర రఘునాథ కీర్తనమ్, తత్ర తత్ర కృతమస్తకాంజలిమ్ । బాష్పవారి పరిపూర్ణలోచనమ్, మారుతిం నమత రాక్షసాంతకమ్ ॥ ఎక్కడైనా రామాయణము గూర్చి మాట్లాడుతుంటే స్వామి హనుమ తప్పకుండా వచ్చి వింటారు.
 
 **Image:** [scene-09-hanuman-listening.png](../../assets/images/E0.01_parichayam/scene-09-hanuman-listening.png)
 
@@ -138,7 +138,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen Sanskrit text overlay again (matching scene 4's treatment) for this second, closing verse.
 
-**Story:** కూజంతం రామరామేతి మధురం మధురాక్షరం । ఆరుహ్య కవితాశాఖాం వందే వాల్మీకి కోకిలం ॥
+**Story:** కూజంతమ్ రామరామేతి మధురమ్ మధురాక్షరమ్ । ఆరుహ్య కవితా శాఖాం వందే వాల్మీకి కోకిలమ్ ॥
 
 **Image:** [scene-12-closing-verse-background.png](../../assets/images/E0.01_parichayam/scene-12-closing-verse-background.png)
 

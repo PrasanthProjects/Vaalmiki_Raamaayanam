@@ -50,7 +50,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** న దోషేణావగన్తవ్యా కైకేయీ భరత త్వయా | రామప్రవ్రాజనం హ్యేతత్ సుఖోదర్కం భవిష్యతి ॥
+**Story:** న దోషేణ అవగంతవ్యా కైకేయీ భరత త్వయా । రామ ప్రవ్రాజనం హ్య ఏతత్ సుఖ ఉదర్కం భవిష్యతి ॥
 
 **Image:** Pending creation.
 
@@ -60,7 +60,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** దేవానాం దానవానాం చ ఋషీణాం భావితాత్మనామ్ | హితమేవ భవిష్యద్ధి రామప్రవ్రాజనాదిహ ॥
+**Story:** దేవానాం దానవానాం చ ఋషీణాం భావితాత్మనాం । హితమేవ భవిష్యద్ధి రామప్రవ్రాజనాదిహ ॥
 
 **Image:** Pending creation.
 

@@ -52,7 +52,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over an image of [Rama, RAMA-S4] as she remembers him — bow in hand at Panchavati.
 
-**Story:** దీర్ఘబాహుః విశాలాక్షః చీర కృష్ణ అజిన అంబరః | కందర్ప సమ రూపః చ రామో దశరథ ఆత్మజః ॥
+**Story:** దీర్ఘబాహుః విశాలాక్షః చీర కృష్ణ అజిన అంబరః । కందర్ప సమ రూపః చ రామో దశరథ ఆత్మజః ॥
 
 **Image:** Pending creation.
 

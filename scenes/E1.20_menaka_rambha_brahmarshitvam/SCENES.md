@@ -48,7 +48,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text; the devas' own retrospective account of what this ten-year diversion actually was. (Location register: Present-tense narration overlay)
 
-**Story:** సర్వం సురాణాం కర్మ ఏతత్ తపో అపహరణం మహత్ । అపదేశేన గతాః సంవత్సరా దశ ॥
+**Story:** సర్వం సురాణాం కర్మ ఏతత్ తపో అపహరణం మహత్ । అహో రాత్రా అపదేశేన గతాః సంవత్సరా దశ ॥
 
 **Image:** Pending creation.
 

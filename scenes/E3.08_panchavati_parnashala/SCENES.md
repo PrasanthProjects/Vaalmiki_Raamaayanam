@@ -32,7 +32,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over [Lakshmana], palms joined before his brother.
 
-**Story:** పరవాన్ అస్మి కాకుత్స్థ త్వయి వర్ష శతం స్థితే | స్వయం తు రుచిరే దేశే క్రియతాం ఇతి మాం వద ॥
+**Story:** పరవాన్ అస్మి కాకుత్స్థ త్వయి వర్ష శతం స్థితే । స్వయం తు రుచిరే దేశే క్రియతాం ఇతి మాం వద ॥
 
 **Image:** Pending creation.
 
@@ -82,7 +82,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over [Rama] stepping out of the finished hut.
 
-**Story:** ప్రీతో అస్మి తే మహత్ కర్మ త్వయా కృతం ఇదం ప్రభో | ప్రదేయో యన్ నిమిత్తం తే పరిష్వంగో మయా కృతః ॥
+**Story:** ప్రీతో అస్మి తే మహత్ కర్మ త్వయా కృతం ఇదం ప్రభో । ప్రదేయో యన్ నిమిత్తం తే పరిష్వంగో మయా కృతః ॥
 
 **Image:** Pending creation.
 

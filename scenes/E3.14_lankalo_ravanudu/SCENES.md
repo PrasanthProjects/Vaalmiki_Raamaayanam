@@ -42,7 +42,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over the full reveal of [Ravana Visual Lock — ten heads in a fan, twenty arms, dark reddish-bronze skin, heavy gold, the scarred chest].
 
-**Story:** దేవ అసుర విమర్దేషు వజ్ర అశని కృత వ్రణం | ఐరావత విషాణ అగ్రైః ఉత్కృష్ట కిణ వక్షసం ॥ వింశత్ భుజం దశ గ్రీవం దర్శనీయ పరిచ్ఛదం | విశాల వక్షసం వీరం రాజ లక్షణ లక్షితం ॥
+**Story:** దేవ అసుర విమర్దేషు వజ్ర అశని కృత వ్రణం । ఐరావత విషాణ అగ్రైః ఉత్కృష్ట కిణ వక్షసం ॥ వింశత్ భుజం దశ గ్రీవం దర్శనీయ పరిచ్ఛదం । విశాల వక్షసం వీరం రాజ లక్షణ లక్షితం ॥
 
 **Image:** Pending creation.
 
@@ -82,7 +82,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over Ravana kneeling before Brahma.
 
-**Story:** దేవ దానవ గంధర్వ పిశాచ పతగ ఉరగైః | అభయం యస్య సంగ్రామే మృత్యుతో మానుషాద్ ఋతే ॥
+**Story:** దేవ దానవ గంధర్వ పిశాచ పతగ ఉరగైః । అభయం యస్య సంగ్రామే మృత్యుతో మానుషాద్ ఋతే ॥
 
 **Image:** Pending creation.
 
@@ -112,7 +112,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over [Shurpanakha] looking up at her brother on his throne.
 
-**Story:** రావణం సర్వ భూతానాం సర్వ లోక భయావహం | రాక్షసీ భ్రాతరం క్రూరం సా దదర్శ మహాబలం ॥
+**Story:** రావణం సర్వ భూతానాం సర్వ లోక భయావహం । రాక్షసీ భ్రాతరం క్రూరం సా దదర్శ మహాబలం ॥
 
 **Image:** Pending creation.
 

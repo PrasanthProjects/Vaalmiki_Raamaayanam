@@ -62,7 +62,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over Indra and Sharabhanga, Rama small in the background.
 
-**Story:** ఇహ ఉపయాతి అసౌ రామో యావన్ మాం న అభిభాషతే | నిష్ఠాం నయత తావత్ తు తతో మా ద్రష్టుం అర్హతి ॥
+**Story:** ఇహ ఉపయాతి అసౌ రామో యావన్ మాం న అభిభాషతే । నిష్ఠాం నయత తావత్ తు తతో మా ద్రష్టుం అర్హతి ॥
 
 **Image:** Pending creation.
 
@@ -122,7 +122,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over the fire, flames rising high and golden.
 
-**Story:** తస్య రోమాణి కేశాం చ తదా వహ్నిః మహాత్మనః | జీర్ణం త్వచం తద్ అస్థీని యత్ చ మాంసం చ శోణితం ॥
+**Story:** తస్య రోమాణి కేశాం చ తదా వహ్నిః మహాత్మనః । జీర్ణం త్వచం తద్ అస్థీని యత్ చ మాంసం చ శోణితం ॥
 
 **Image:** Pending creation.
 
@@ -182,7 +182,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text; the sages leading Rama toward the forest beyond the ashram.
 
-**Story:** ఏహి పశ్య శరీరాణి మునీనాం భావిత ఆత్మనాం | హతానాం రాక్షసైః ఘోరైః బహూనాం బహుధా వనే ॥
+**Story:** ఏహి పశ్య శరీరాణి మునీనాం భావిత ఆత్మనాం । హతానాం రాక్షసైః ఘోరైః బహూనాం బహుధా వనే ॥
 
 **Image:** Pending creation.
 

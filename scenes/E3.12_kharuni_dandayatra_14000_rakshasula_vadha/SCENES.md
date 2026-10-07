@@ -52,7 +52,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over Rama handing Lakshmana his bow and quiver.
 
-**Story:** తస్మాత్ గృహీత్వా వైదేహీం శర పాణిః ధనుర్ ధరః | గుహాం ఆశ్రయ శైలస్య దుర్గాం పాదప సంకులాం ॥
+**Story:** తస్మాత్ గృహీత్వా వైదేహీం శర పాణిః ధనుర్ ధరః । గుహాం ఆశ్రయ శైలస్య దుర్గాం పాదప సంకులాం ॥
 
 **Image:** Pending creation.
 

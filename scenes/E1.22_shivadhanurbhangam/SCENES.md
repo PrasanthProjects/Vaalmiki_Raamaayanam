@@ -162,7 +162,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text; [Janaka Visual Lock] speaking first, astonished, immediately understanding what Vishwamitra already knew. (Location register: Janaka's royal court, aftermath)
 
-**Story:** భగవన్ దృష్ట వీర్యో మే రామో దశరథ ఆత్మజః । అలం అద్భుతం అచింత్యం చ అతర్కితం ఇదం మయా ॥
+**Story:** భగవన్ దృష్ట వీర్యో మే రామో దశరథ ఆత్మజః । అతి అద్భుతం అచింత్యం చ అతర్కితం ఇదం మయా ॥
 
 **Image:** Pending creation.
 

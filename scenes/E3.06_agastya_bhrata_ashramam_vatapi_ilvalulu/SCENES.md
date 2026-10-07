@@ -62,7 +62,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over [Agastya], smiling, and a baffled [Ilvala].
 
-**Story:** కుతో నిష్క్రమితుం శక్తిర్ మయా జీర్ణస్య రక్షసః | భ్రాతుః తే మేష రూపస్య గతస్య యమ సాదనం ॥
+**Story:** కుతో నిష్క్రమితుం శక్తిర్ మయా జీర్ణస్య రక్షసః । భ్రాతుః తే మేష రూపస్య గతస్య యమ సాదనం ॥
 
 **Image:** Pending creation.
 

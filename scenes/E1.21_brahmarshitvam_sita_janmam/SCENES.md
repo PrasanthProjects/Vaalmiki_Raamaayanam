@@ -62,7 +62,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** Cosmic-scale consequence: [Vishwamitra Visual Lock]'s tapas-power now rising as visible smoke/energy from his very being, enveloping all worlds — oceans stilling, all beings in awe — a scale beyond anything shown even in his angriest moments. (Location register: Eastern tapasya site, cosmic scale)
 
-**Story:** "అలా విశ్వామిత్రుడు తపస్సు చేస్తుండగా ఆయన బ్రహ్మస్థానం నుండి ఆయన తపఃశక్తి పొగగా బయలుదేరింది, ఆయన తపోధూమం సమస్త లోకాలని కప్పేసింది, సముద్రాలు కదలడం ఆగిపోయాయి, సమస్త ప్రాణులు క్షోభించాయి. ఇక ఈ విశ్వామిత్రుడిని ఎవరూ కదపలేరు, ఆయనకి శత్రువు లేడు, మిత్రుడు లేడు, ఆయనకి అంతటా పరబ్రహ్మమే కనిపిస్తుంది."
+**Story:** "అలా విశ్వామిత్రుడు తపస్సు చేస్తుండగా ఆయన బ్రహ్మస్థానం నుండి ఆయన తపఃశక్తి పొగగా బయలుదేరింది, ఆయన తపోధూమం సమస్త లోకాలని కప్పేసింది, సముద్రాలు కదలడం ఆగిపోయాయి, సమస్త ప్రాణులు క్షోభించాయి. ఇక ఈ విశ్వామిత్రుడిని ఎవరూ కదపలేరు, ఆయనకి శత్రువు లేడు, మిత్రుడు లేడు, ఆయనకి అంతటా పరబ్రహ్మమే కనిపిస్తుంది. అప్పుడు దేవతలతో కలిసి బ్రహ్మగారు వచ్చి —"
 
 **Image:** Pending creation.
 

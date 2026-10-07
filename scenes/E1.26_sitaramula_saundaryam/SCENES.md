@@ -32,7 +32,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text. (Location register: Ayodhya, palace garden)
 
-**Story:** ప్రియా తు సీతా రామస్య దారాః గుణవతః గుణాత్ । రూప గుణాత్ చ అపి ప్రీతిః భూయో అభివర్ధతే ॥
+**Story:** ప్రియా తు సీతా రామస్య దారాః పితృ కృతా ఇతి । గుణాత్ రూప గుణాత్ చ అపి ప్రీతిః భూయో అభివర్ధతే ॥
 
 **Image:** Pending creation.
 

@@ -24,7 +24,7 @@
     "scene": 3,
     "part_id": "3",
     "visual_description": "On-screen verse text. (Location register: Ayodhya court)",
-    "story_text": "స్వ పుత్రం రాజశార్దూల రామం సత్యపరాక్రమం । కాక పక్షధరం శూరం జ్యేష్ఠం మే దాతుమర్హసి ॥",
+    "story_text": "స్వ పుత్రం రాజ శార్దూల రామం సత్య పరాక్రమం । కాక పక్ష ధరం శూరం జ్యేష్ఠం మే దాతుం అర్హసి ॥",
     "source_notes": "🔴 VERSE — Vishwamitra's formal request for Rama.",
     "image": null,
     "status": "image_pending"
@@ -44,7 +44,7 @@
     "scene": 5,
     "part_id": "5",
     "visual_description": "On-screen verse text. (Location register: Ayodhya court)",
-    "story_text": "ఊన షోడశ వర్షో మే రామో రాజీవలోచనః । న యుద్ధయోగ్యతాం అస్య పశ్యామి సహ రాక్షసైః ॥",
+    "story_text": "ఊన షోడశ వర్షో మే రామో రాజీవ లోచనః । న యుద్ధ యోగ్యతాం అస్య పశ్యామి సహ రాక్షసైః ॥",
     "source_notes": "🔴 VERSE — Dasharatha's protest that Rama isn't even sixteen.",
     "image": null,
     "status": "image_pending"
@@ -104,7 +104,7 @@
     "scene": 11,
     "part_id": "11",
     "visual_description": "On-screen verse text, [Vashishtha Visual Lock] continuing his praise of Vishwamitra. (Location register: Ayodhya court)",
-    "story_text": "ఏష విగ్రహవాన్ ధర్మ ఏష వీర్యవతాం వరః । ఏష విద్యాధికో లోకే తపసః చ పరాయణం ॥",
+    "story_text": "ఏష విగ్రహవాన్ ధర్మ ఏష వీర్యవతాం వరః । ఏష విద్య అధికో లోకే తపసః చ పరాయణం ॥",
     "source_notes": "🔴 VERSE — Vashishtha's praise of Vishwamitra as dharma personified.",
     "image": null,
     "status": "image_pending"
@@ -174,7 +174,7 @@
     "scene": 18,
     "part_id": "18",
     "visual_description": "On-screen verse text. (Location register: Forest campsite)",
-    "story_text": "గృహాణ వత్స సలిలం మా భూత్ కాలస్య పర్యయః । మంత్రగ్రామం గృహాణ త్వం బలాం అతిబలాం తథా ॥",
+    "story_text": "గృహాణ వత్స సలిలం మా భూత్ కాలస్య పర్యయః ॥ మంత్ర గ్రామం గృహాణ త్వం బలాం అతిబలాం తథా ॥",
     "source_notes": "🔴 VERSE — Vishwamitra's transmission of the Bala/Atibala mantras.",
     "image": null,
     "status": "image_pending"
@@ -214,7 +214,7 @@
     "scene": 22,
     "part_id": "22",
     "visual_description": "On-screen verse text, treated with special care given how widely known and beloved this specific verse is. (Location register: Forest campsite, sunrise)",
-    "story_text": "కౌసల్యా సుప్రజా రామ పూర్వా సంధ్యా ప్రవర్తతే । ఉత్తిష్ఠ నరశార్దూల కర్తవ్యం దైవమాహ్నికం ॥",
+    "story_text": "కౌసల్యా సుప్రజా రామ పూర్వా సంధ్యా ప్రవర్తతే । ఉత్తిష్ఠ నర శార్దూల కర్తవ్యం దైవమాహ్నికం ॥",
     "source_notes": "🔴 VERSE — the \"Kausalyā Suprajā Rāma\" wake-up verse. This exact verse is independently famous/widely recited outside this text's own context — cross-check with extra care against a second published source during the manual verification pass, not just this book's own rendering, given how many viewers will recognize it immediately if it's off.",
     "image": null,
     "status": "image_pending"

@@ -1,0 +1,79 @@
+# E5.21 — లంకా దహనం (The Burning of Lanka) — Scenes
+
+[Episode script](../../5%20-%20Sundhara%20Khaanda/E5.21_lanka_dahanam.md)
+
+[Narration parts](NARRATION_PARTS.md)
+
+Still-image scene sheet. Source narration is included as story context only. No voice or video generation.
+
+Keep existing descriptive image names. For new images use `scene-NN-short-description.png` inside the matching episode folder.
+
+## 1 — Scene 01
+
+**Visual:** Recap: Hanuman on the royal gate, his tail ablaze; Sita in prayer.
+
+**Story:** గత భాగం చివర్లో సీతమ్మ, హనుమంతుడి తోకకి పెట్టిన అగ్ని చల్లబడాలని అగ్నిదేవుడిని ప్రార్థించింది.
+
+**Image:** Pending creation.
+
+**Source note:** Bridge line.
+
+## 2 — Scene 02
+
+**Visual:** [Hanuman Visual Lock] looking at his flaming tail in surprise — it burns and does not hurt; his face clearing; then springing to Prahasta's roof.
+
+**Story:** వెంటనే హనుమ తోకకి ఉన్న అగ్ని వెన్నముద్దలా చల్లగా అయిపోయింది. అప్పుడాయన అనుకున్నాడు 'అవునులే నేను వస్తుంటే మైనాకుడు నాకు ఆతిధ్యం ఇచ్చాడు, సముద్రుడు నమస్కారం చేశాడు. రాముడి పేరు, సీతమ్మ పేరు చెబితే ప్రకృతిలో ఉపకరించనిది ఏముంటుంది. నా తండ్రి వాయుదేవుడికి అగ్నిదేవుడు స్నేహితుడు, అందుకని నాకు ఇలా ఉపకారం చేస్తున్నాడు' అని అనుకుని, 'ఈ లంకా పట్టణాన్ని కాల్చి అగ్నిదేవుడికి సంతర్పణ చేసి వెళ్ళిపోతాను' అనుకొని, మొదట ప్రహస్తుడి ఇంట్లో నిప్పు పెట్టాడు. అలా అన్ని ఇళ్ళ మీదకి దూకుతూ నిప్పు పెడుతూ వెళ్ళిపోయాడు.
+
+**Image:** Pending creation.
+
+**Source note:** "Cool as a lump of butter." He understands why: at the names of Rama and Sita all nature helps.
+
+## 3 — Scene 03
+
+**Visual:** Lanka burning (the p. 506-507 and p. 509 illustrations): wind carrying the flames from roof to roof — green, yellow and red fire over the golden city; the people fleeing and crying out.
+
+**Story:** రావణుడి ప్రవర్తన వలన ఇంతకాలం కడుపుమండిపోయి ఉన్న దిక్పాలకులు అవకాశం దొరికిందని ఆనందపడ్డారు. హనుమ అలా నిప్పు పెట్టగానే అగ్ని దేవుడు కాల్చేస్తున్నాడు, వాయుదేవుడు వేగంగా వీచి అగ్నిని పట్టుకెళ్ళి అన్ని ఇళ్ళమీద వేసేశాడు. కొన్ని చోట్ల ఆకుపచ్చగా, కొన్ని చోట్ల పచ్చగా, కొన్ని చోట్ల ఎర్రగా ఆ లంక అంతా కాలిపోతుంది. ఆ లంకలో అందరూ "హా తాత, హా పుత్ర, హా తల్లి" అని అరుచుకుంటూ దిక్కులుపట్టి పరుగులు తీశారు.
+
+**Image:** Pending creation.
+
+**Source note:** The guardians of the quarters, long oppressed, rejoice. Keep the people's panic at a distance; the subject is the city.
+
+## 4 — Scene 04
+
+**Visual:** [Hanuman Visual Lock] on Mount Trikuta, the whole city in flames below; exultation turning to horror.
+
+**Story:** అప్పుడు హనుమంతుడు సంతోషంగా వెళ్ళి త్రికూటాచల పర్వతం మీద నిలబడి చూసేసరికి, ఎదురుగా లంక లంకంతా కాలిపోతూ కనిపించింది. అప్పుడాయన "అరరే ఎంతపని చేశాను. అగ్నిని తీసుకెళ్ళి నీళ్ళల్లో పడేసినట్టు కోపాన్ని విడిచిపెట్టినవాడు ధన్యుడు. పాము కుబుసాన్ని విడిచినట్టు కోపాన్ని విడిచిపెట్టడం మానేసి లంకని కాల్చేశాను. ఈ లంకలో సీతమ్మ కూడా కాలిపోయి ఉంటుంది. ఏ సీతమ్మ తేజస్సు చేత నా తోకని అగ్ని కాల్చలేదో, అటువంటి సీతమ్మని అగ్ని కాలుస్తుంద. సీతమ్మే అగ్ని, అగ్నిని అగ్ని కాలుస్తుంద" అని అనుకున్నాడు.
+
+**Image:** Pending creation.
+
+**Source note:** His remorse is instant and severe: blessed is he who puts away anger as a snake its slough. Then reason: the fire that could not burn his tail by her power cannot burn her — she herself is fire.
+
+## 5 — Scene 05
+
+**Visual:** Charanas passing in the sky, marvelling aloud; below, amid the burning city, one green tree untouched, and one house.
+
+**Story:** ఇంతలో అటుగా వెళుతున్న చారణులు (భూమికి దగ్గరగా ఆకాశంలో ఎగురుతూ శుభవార్తలు చెప్పే దేవ గాయకులు) "ఏమి ఆశ్చర్యం, ఇవ్వాళ ఒక వానరుడైన హనుమ 100 యోజనముల సముద్రాన్ని దాటి లంకా పట్టణాన్ని అగ్నికి ఆహుతి చేశాడు. ఆ లంక అంతా కాలిపోతుంది, కాని శింశుపా వృక్షము, ఆ వృక్షము కింద కూర్చున్న సీతమ్మకి ఎటువంటి అపకారము జరగలేదు. అలాగే విభీషణుడి ఇల్లుకి కూడా ఏమి జరగలేదు" అన్నారు.
+
+**Image:** Pending creation.
+
+**Source note:** The charanas confirm it: the shimshupa tree, Sita beneath it, and Vibhishana's house are unharmed.
+
+## 6 — Scene 06
+
+**Visual:** [Hanuman Visual Lock] bowing before [Sita, SITA-S4 — beneath the shimshupa tree] (the p. 510 illustration); then one bound into the sky, landing on Mount Arishta, and launching north — the mountain sinking under the thrust.
+
+**Story:** అప్పుడు హనుమంతుడు శింశుపా వృక్షం కిందన కూర్చున్న సీతమ్మ దగ్గరికి వచ్చి "అమ్మా లంకంతా కాల్చేశాను. రావణుడికి చెప్పవలసిన మాట చెప్పేశాను, నువ్వేమి బెంగపెట్టుకోకు. వాడు ఇప్పటికే భయంతో సగం చచ్చిపోయాడు. రాముడి కోసం వాడిని వదిలేశాను, లేకపోతే వాడి పది తలకాయలు గిల్లేసేవాడిని. అమ్మా! నేను బయలుదేరతాను, తొందరలోనే నీకు పట్టాభిషేకం జరుగుతుంది, శోకమునకు గురికాకు" అని సీతమ్మతో చెప్పి ఒక్క దూకు దూకి ఆకాశంలోకి ఎగిరి నల్లటి వనాలతో, ఎర్రటి మచ్చలు కలిగిన ఏనుగులతో ఉన్న అరిష్టం అనే పర్వతం మీద దిగి, అక్కడినుండి బయలుదేరాడు. హనుమ ఆ పర్వతం మీద నుండి ఎగిరేసరికి అది భూమిలోకి నొక్కుకుపోయింది.
+
+**Image:** Pending creation.
+
+**Source note:** "Soon you will be crowned, mother. Do not grieve."
+
+## 7 — Scene 07
+
+**Visual:** End card.
+
+**Story:** తర్వాత చూద్దాం — "చూడబడెను సీతమ్మ".
+
+**Image:** Pending creation.
+
+**Source note:** Bridge line.

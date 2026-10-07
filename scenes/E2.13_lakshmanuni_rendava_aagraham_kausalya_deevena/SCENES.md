@@ -52,7 +52,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** భర్తుః కిల పరిత్యాగో నృశంసః కేవలం స్త్రియాః | స భవత్యా న కర్తవ్యో మనసాఽపి విగర్హితః ॥
+**Story:** భర్తుః కిల పరిత్యాగో నృశంసః కేవలం స్త్రియాః । స భవత్యా న కర్తవ్యో మనసా అపి విగర్హితః ॥
 
 **Image:** Pending creation.
 
@@ -72,7 +72,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** భర్తారం నానువర్తేత సా చ పాపగతిర్భవేత్ | భర్తుః శుశ్రూషయా నారీ లభతే స్వర్గముత్తమమ్ ॥
+**Story:** భర్తారం న అనువర్తేత సా చ పాప గతిర్ భవేత్ । భర్తుః శుశ్రూషయా నారీ లభతే స్వర్గముత్తమం ॥
 
 **Image:** Pending creation.
 
@@ -82,7 +82,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text (continuing directly).
 
-**Story:** అపి యా నిర్నమస్కారా నివృత్తా దేవపూజనాత్ | భర్తారం తు సతీ కుర్యాత్ప్రీతిమత్యనువర్తినీ ॥
+**Story:** అపి యా నిర్నమస్కారా నివృత్తా దేవపూజనాత్ ॥
 
 **Image:** Pending creation.
 

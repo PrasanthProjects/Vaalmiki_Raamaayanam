@@ -40,7 +40,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text (first boon).
 
-**Story:** అభిషేకసమారంభో రాఘవస్యోపకల్పితః | అనేనైవాభిషేకేణ భరతో మేऽభిషిచ్యతామ్ ॥
+**Story:** అభిషేకసమారంభో రాఘవస్యోపకల్పితః । అనేనైవాభిషేకేణ భరతో మేభిషిచ్యతాం ॥
 
 **Image:** Pending creation.
 
@@ -50,7 +50,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text (second boon).
 
-**Story:** నవ పఞ్చ చ వర్షాణి దణ్డకారణ్యమాశ్రితః | చీరాజినజటాధారీ రామో భవతు తాపసః ॥
+**Story:** నవ పఞ్చ చ వర్షాణి దణ్డకారణ్యమాశ్రితః । చీరాజినజటాధారీ రామో భవతు తాపసః । భరతో భజతామద్య యౌవరాజ్యమకణ్టకం ॥
 
 **Image:** Pending creation.
 
@@ -108,7 +108,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** [Dasharatha Visual Lock] continuing, pointing out her own earlier stated equal love for both sons (a direct callback to E2.04's scene — the audience watched Kaikeyi say this herself, sincerely), now confused by her reversal.
 
-**Story:** "నాకు భరతుడికి రాముడికి తేడా లేదు అనేదానివి కదా, మరి ఇప్పుడు నువ్వు ఎవరి చెప్పుడు మాటలు విని ఇలా మాట్లాడుతున్నావు. గురువులకి ఎంతో సేవ చేసిన నా రాముడు హాయిగా హంసతూలికా పాన్పులమీద నిదురించవలసిన వాడిని, నువ్వు ఎందుకని తపస్విలాగ జటలు కట్టుకొని అడవుల్లో దొరికే తేనె, కందమూలాలు తిని, చెట్ల కింద పడుకొమ్మని కోరుకున్నావు, ఇదంతా ఊహించి నేను బతకగలనా" అన్నాడు.
+**Story:** "నీ దగ్గరికి ఎప్పుడు వచ్చినా రాముడికి పట్టాభిషేకం చెయ్యాలి, నాకు భరతుడికి రాముడికి తేడా లేదు అనేదానివి కదా, మరి ఇప్పుడు నువ్వు ఎవరి చెప్పుడు మాటలు విని ఇలా మాట్లాడుతున్నావు. గురువులకి ఎంతో సేవ చేసిన నా రాముడు హాయిగా హంసతూలికా పాన్పులమీద నిదురించవలసిన వాడిని, నువ్వు ఎందుకని తపస్విలాగ జటలు కట్టుకొని అడవుల్లో దొరికే తేనె, కందమూలాలు తిని, చెట్ల కింద పడుకొమ్మని కోరుకున్నావు, ఇదంతా ఊహించి నేను బతకగలనా" అన్నాడు.
 
 **Image:** Pending creation.
 

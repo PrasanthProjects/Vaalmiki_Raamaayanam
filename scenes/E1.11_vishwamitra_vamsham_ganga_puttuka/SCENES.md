@@ -142,7 +142,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text; [generic devatalu] answering. (Location register: Mythic inset)
 
-**Story:** యత్ తేజః క్షుభితం హి అద్య తద్ ధరా ధారయిష్యతి ॥
+**Story:** యత్ తేజః క్షుభితం హి అద్య తద్ ధరా ధారయిష్యతి ।
 
 **Image:** Pending creation.
 
@@ -170,7 +170,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text — Parvati's curse, in full. (Location register: Mythic inset)
 
-**Story:** అపత్యం స్వేషు దారేషు న ఉత్పాదయితుం అర్హథ । అద్య ప్రభృతి యుష్మాకం అప్రజాః సంతు పత్నయః । ఏవం ఉక్త్వా సురాన్ సర్వాన్ శశాప పృథివీం అపి । అవనే న ఏక రూపా త్వం బహు భార్యా భవిష్యసి । న చ పుత్ర కృతాం తృప్తిం మత్ క్రోధ కలుషీకృతా । ప్రాప్స్యసి త్వం సుదుర్మేధే మమ పుత్రం అనిచ్ఛతీ ॥
+**Story:** అపత్యం స్వేషు దారేషు న ఉత్పాదయితుం అర్హథ । అద్య ప్రభృతి యుష్మాకం అప్రజాః సంతు పత్నయః ॥ ఏవం ఉక్త్వా సురాన్ సర్వాన్ శశాప పృథివీం అపి । అవనే న ఏక రూపా త్వం బహు భార్యా భవిష్యసి ॥ న చ పుత్ర కృతాం ప్రీతిం మత్ క్రోధ కలుషీకృతా । ప్రాప్స్యసి త్వం సుదుర్మేధే మమ పుత్రం అనిచ్ఛతీ ॥
 
 **Image:** Pending creation.
 

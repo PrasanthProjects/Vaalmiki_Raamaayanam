@@ -1,0 +1,99 @@
+# E6.08 — సేతు బంధనం (The Building of the Bridge) — Scenes
+
+[Episode script](../../6%20-%20Yudha%20Khaanda/E6.08_setu_bandhanam.md)
+
+[Narration parts](NARRATION_PARTS.md)
+
+Still-image scene sheet. Source narration is included as story context only. No voice or video generation.
+
+Keep existing descriptive image names. For new images use `scene-NN-short-description.png` inside the matching episode folder.
+
+## 1 — Scene 01
+
+**Visual:** Recap: Rama with the Brahmastra drawn; the sea recoiling.
+
+**Story:** గత భాగం చివర్లో రాముడు సముద్రం మీద బ్రహ్మాస్త్రాన్ని సంధించాడు. అప్పుడు సముద్రుడు బయటకి వచ్చాడు.
+
+**Image:** Pending creation.
+
+**Source note:** Bridge line.
+
+## 2 — Scene 02
+
+**Visual:** [Sagara, the Ocean — per E4.07/E5.02: a calm, blue-toned royal figure; here wearing a great necklace of sea-gold and gems, robes like rising and falling waves, the rivers following him as women] rising from the parted waters, the rivers Ganga and Sindhu behind him in womanly form.
+
+**Story:** ఆ సముద్రంలో పుట్టిన అనేకమైన బంగారములు, రత్నములతో కూడిన ఒక పెద్ద హారాన్ని సముద్రుడు వేసుకొని ఉన్నాడు. శ్రీ మహావిష్ణువు ధరించే కౌస్తుభానికి తోడపుట్టిన ఒక మణిని మెడలో వేసుకొని ఉన్నాడు. పైకి కిందకి వెళుతున్న తరంగ సద్రుస్యమైన వస్త్రాన్ని ధరించి ఉన్నాడు. గంగ, సిందు మొదలైన నదులన్నీ స్త్రీల స్వరూపాన్ని పొంది ఆయన వెనుక వస్తున్నాయి.
+
+**Image:** Pending creation.
+
+**Source note:** The Ocean's appearance — he wears a gem born with Vishnu's Kaustubha.
+
+## 3 — Scene 03
+
+**Visual:** [Sagara, the Ocean — per E4.07/E5.02: a calm, blue-toned royal figure; here wearing a great necklace of sea-gold and gems, robes like rising and falling waves, the rivers following him as women] bowing to [Rama, RAMA-S4] and speaking with dignity.
+
+**Story:** అలా పైకిలేచిన సముద్రుడు రాముడికి నమస్కరించి "భూమి, నీరు, అగ్ని, గాలి, ఆకాశములు అనే పంచ భూతములు ఉన్నాయి. వీటన్నిటికి ఒక స్వభావం ఉంటుంది, ఆ స్వభావాన్ని ఈ పంచ భూతములు అతిక్రమించలేవు. సముద్రం అంటే అగాధంగా ఉండాలి, లోతుగా ఉండాలి, అందులోకి దిగినవాడికి ఆధారం చిక్కకూడదు, సముద్రంలో ఏదన్నా పడితే మునిగిపోవాలి, వ్యాకులితమైన తరంగాలతో ఒడ్డుని కొడుతూ ఉండాలి. ఇలా ఉండకపోతే దానిని సముద్రము అనరు. అందుకని ఈ సముద్రాన్ని ఎండింపచెయ్యడం, సముద్రంలో నుండి దారి ఇవ్వడం నాకు వీలుపడే విషయం కాదు. నువ్వు అభిమంత్రించిన బ్రహ్మాస్త్రాన్ని నా మీదకి వెయ్యకు.
+
+**Image:** Pending creation.
+
+**Source note:** His defence: each of the five elements has a nature it cannot transgress. A sea that could be forded would not be a sea.
+
+## 4 — Scene 04
+
+**Visual:** [Sagara, the Ocean — per E4.07/E5.02: a calm, blue-toned royal figure; here wearing a great necklace of sea-gold and gems, robes like rising and falling waves, the rivers following him as women] pointing out a vanara in the host; Nala stepping forward (the p. 554 illustration).
+
+**Story:** నీ దగ్గర ఉన్న వానరములలో విశ్వకర్మ కుమారుడైన నలుడు ఉన్నాడు. విశ్వకర్మ గొప్ప గొప్ప కట్టడములను నిర్మిస్తూ ఉంటాడు, అటువంటివాడి తేజస్సు కనుక ఈ నలుడికి సేతువు నిర్మాణం తెలుసు. మీరు నా మీద సేతువుని నిర్మించుకోండి. అందుకని వానరులు తెచ్చి పడేసిన చెట్లు, బండలు మొదలైనవి అటూ ఇటూ చిమ్మకుండా నా తరంగముల చేత తేలేటట్టు చేస్తాను. నాలో ఉన్న ఏ క్రూర మృగము వలన వారధిని దాటేటప్పుడు వానరములకి ఎటువంటి భీతి లేకుండా నేను కాపాడతాను. సేతు నిర్మాణం వెంటనే ప్రారంభించండి.
+
+**Image:** Pending creation.
+
+**Source note:** The solution lies in Rama's own army: Nala, son of the divine architect. The Ocean will bear the bridge up and keep his creatures off it.
+
+## 5 — Scene 05
+
+**Visual:** [Rama, RAMA-S4] turning the drawn arrow northward and loosing it; a far land struck, water springing where it falls, then green fields spreading.
+
+**Story:** ద్రుమకుల్యము అని ఉత్తర తీరంలో ఉంది. అక్కడుండే జలాలని ఆభీరులు, దాస్యులు అనే వారు తాగేస్తుంటారు. సముద్రాన్ని క్షోభింప చేస్తుంటారు. అందుకని నువ్వు ఈ బ్రహ్మాస్త్రాన్ని ఇక్కడి నుండి అక్కడికి ప్రయోగించు" అన్నాడు. అప్పుడు రాముడు బ్రహ్మాస్త్రాన్ని అభిమంత్రించగా అది ఉత్తర దిక్కుకి వెళ్ళి ఆభీరులు, దాస్యులు మీద పడింది. ఆ దెబ్బకి అక్కడున్నవారందరూ మరణించారు. ఈ బాణం భూమిలోకి వెళ్ళి భూమిని పెకలించగా అందులో నుండి గంగ పుట్టింది. "అక్కడ మందాకినీ జలాలలాంటి తియ్యటి జలాలు ప్రవహిస్తాయి, అక్కడ గో సంపద పెరుగుతుంది, రోగాలు ఉండవు, మనుష్యులు ప్రశాంతంగా ఉంటారు, అక్కడ విశేషంగా తేనె, చెట్లు, పళ్ళు, పెరుగు, నెయ్యి మొదలైనవి లభిస్తాయి. ఆ ప్రాంతం సస్యశ్యామలం అవుతుంది" అని రాముడు బ్రహ్మాస్త్రం గుచ్చుకున్న ప్రాంతానికి వరం ఇచ్చాడు.
+
+**Image:** Pending creation.
+
+**Source note:** The weapon once invoked must fall somewhere. Rama blesses the place it strikes.
+
+## 6 — Scene 06
+
+**Visual:** The building (the p. 556-558 illustrations): vanaras swarming down the hills with boulders and whole trees, Nala directing; the causeway driving out across the sea day by day; the cry of Rama's name over the surf.
+
+**Story:** వెంటనే నలుడు పరిగెత్తుకొచ్చి సేతు నిర్మాణం ప్రరంభిస్తానన్నాడు. అప్పుడు అక్కడున్న వానరులందరూ సంతోషపడిపోయి పర్వతాలు, కొండలు ఎక్కి పెద్ద పెద్ద శిలలు మోసుకొచ్చి సముద్రంలో పడేస్తున్నారు. ఆ సమయంలో ఎవరినోట విన్నా 'సీతారామ ప్రభువుకి జై' అంటూ, ఉత్సాహంగా రకరకాల చెట్లని తీసుకొని వచ్చి సముద్రంలో పడేశారు. మొదటి రోజున 14 యోజనముల సేతువుని నిర్మించారు, రెండు మూడు నాలుగు అయిదు రోజులలో 20, 21, 22, 23 యోజనాల సేతువుని నిర్మించేసారు. మొత్తం అయిదు రోజులలో 100 యోజనముల సేతువు నిర్మాణం అయిపోయింది.
+
+**Image:** Pending creation.
+
+**Source note:** Five days — fourteen, twenty, twenty-one, twenty-two, twenty-three yojanas. The cry on every lip is "Sita-Rama".
+
+## 7 — Scene 07
+
+**Visual:** The crossing: the host streaming over — some walking the very edge, some diving off and climbing back, some swimming, some paddling across on a floating tree.
+
+**Story:** "మీరందరూ ఈ సేతువు మీద ప్రయాణం చేసి ఆవలికి చెరుకోండి" అని రాముడు అన్నాడు. అప్పుడా వానరములలో కొంతమంది సేతువు మీద నడవకుండా సేతువు యొక్క అంచుల మీద నడిచేవారు. కొంతమంది సముద్రంలోకి దూకి మళ్ళి సేతువు ఎక్కి వెళ్ళేవారు. ఇంకొంతమంది సముద్రంలో ఈదుకుంటూ వచ్చారు. కొంతమంది ఒక పెద్ద చెట్టుని పెకలించి సముద్రంలో పడేసి, దాని మీద కూర్చుని తోసుకుంటూ వచ్చేవారు. ఆ రోజున సముద్ర ఘోష గొప్పదా వానర ఘోష గొప్పదా అంటే, ఎవరూ చెప్పలేకపోయారు, అంతగా అల్లరి చేసుకుంటూ వెళ్ళారు. ఎన్నిరోజులైనా ఆ సైన్యం లంకా పట్టణానికి వస్తూనే ఉంది. చివరికి అన్ని కోట్ల వానర సైన్యం లంకని చేరుకుంది.
+
+**Image:** Pending creation.
+
+**Source note:** Vanara high spirits: no one could say whether the sea or the army roared louder.
+
+## 8 — Scene 08
+
+**Visual:** On Lanka's shore: Suka brought before [Rama, RAMA-S4]; Rama's small smile; [Vibhishana — per E5.20] leading the spy away to tour the camp.
+
+**Story:** అప్పుడు రాముడు సుగ్రీవుడిని, విభీషణుడిని పిలిచి" మనం అవతల ఒడ్డున ఉండగా సుకుడన్నవాడు రాయబారం చేయుటకు వచ్చాడు కదా, వాడు ఎక్కడున్నాడు" అని అడిగాడు. అప్పుడు ఆ సుకుడిని తీసుకొని వచ్చి రాముడి ముందు ప్రవేశపెట్టారు. అప్పుడు రాముడు "నువ్వు ఎందుకొచ్చావు" అని అడిగాడు. సుకుడన్నాడు "బుద్ధిహీనుడైన రావణుడు మీ బలాన్ని చూసి రాయబారం చెప్పమన్నాడు, ఇందులో నా తప్పు లేదు. నీ వంటి ప్రాజ్ఞుడు రాయబారిని చంపడు" అన్నాడు. అప్పుడు రాముడు ఒక చిరునవ్వు నవ్వి "నువ్వు అన్నీ చూశావ?" అని అడిగాడు. అప్పుడా సుకుడు "ఇంకా చూడలేదు" అన్నాడు. "విభీషణ! వీడిని తీసుకెళ్ళి దగ్గరుండి మన సైన్యం అంతా ఒకసారి చూపించు. చూపించాక వీడిని వదిలెయ్యండి, వెళ్ళిపోతాడు" అన్నాడు.
+
+**Image:** Pending creation.
+
+**Source note:** Rama's confidence: show the enemy's envoy everything, then let him go.
+
+## 9 — Scene 09
+
+**Visual:** End card.
+
+**Story:** తర్వాత చూద్దాం — రావణుడి గూఢచారులు, లంక ముట్టడికి సన్నాహాలు.
+
+**Image:** Pending creation.
+
+**Source note:** Bridge line.

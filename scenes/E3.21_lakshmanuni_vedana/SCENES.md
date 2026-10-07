@@ -32,7 +32,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over a shimmering mirage-city dissolving in the forest haze.
 
-**Story:** న సస్ తస్య స్వరో వ్యక్తం న కశ్చిత్ అపి దైవతః | గంధర్వ నగర ప్రఖ్యా మాయా తస్య చ రక్షసః ॥
+**Story:** న సస్ తస్య స్వరో వ్యక్తం న కశ్చిత్ అపి దైవతః । గంధర్వ నగర ప్రఖ్యా మాయా తస్య చ రక్షసః ॥
 
 **Image:** Pending creation.
 

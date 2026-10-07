@@ -52,7 +52,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** తేషామపి మహాతేజా రామో రతికరః పితుః | స్వయంభూరివ భూతానాం బభూవ గుణవత్తరః |  | 
+**Story:** తేషామపి మహాతేజా రామో రతికరః పితుః । స్వయంభూరివ భూతానాం బభూవ గుణవత్తరః ॥
 
 **Image:** Pending creation.
 

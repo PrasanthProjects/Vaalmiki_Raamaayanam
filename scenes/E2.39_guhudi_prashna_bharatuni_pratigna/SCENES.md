@@ -22,7 +22,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** యదా తుష్టస్తు భరతో రామస్యేహ భవిష్యతి | ఇయం స్వస్తిమయీ సేనా గంగామద్య తరిష్యతి ॥
+**Story:** యదా తుష్టః తు భరతః రామస్య ఇహ భవిష్యతి । సా ఇయం స్వస్తిమయీ సేనా గంగాం అద్య తరిష్యతి ॥
 
 **Image:** Pending creation.
 
@@ -120,7 +120,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** మన్యే సాభరణా సుప్తా సీతా అస్మిన్ శయనే తదా | తథా హి దృశ్యంతే సక్తాః కనకబిందవః ॥
+**Story:** మన్యే సాభరణా సుప్తా సీతా అస్మిన్ శయనే తదా । తత్ర తత్ర హి దృశ్యంతే సక్తాః కనక బిందవః ॥
 
 **Image:** Pending creation.
 

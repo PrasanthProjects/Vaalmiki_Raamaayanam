@@ -32,7 +32,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over Rama moving quickly toward the radiant sage.
 
-**Story:** ఏవం ఉక్త్వా మహాబాహుః అగస్త్యం సూర్య వర్చసం | జగ్రాహ ఆపతత్ తస్య పాదౌ చ రఘు నందన ॥ అభివాద్య తు ధర్మాత్మా తస్థౌ రామః కృతాంజలిః | సీతయా సహ వైదేహ్యా తదా రామః స లక్ష్మణః ॥
+**Story:** ఏవం ఉక్త్వా మహాబాహుః అగస్త్యం సూర్య వర్చసం । జగ్రాహ ఆపతత్ తస్య పాదౌ చ రఘునందన ॥ అభివాద్య తు ధర్మాత్మా తస్థౌ రామః కృతాంజలిః । సీతయా సహ వైదేహ్యా తదా రామః స లక్ష్మణః ॥
 
 **Image:** Pending creation.
 

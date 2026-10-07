@@ -82,7 +82,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text.
 
-**Story:** మమ భర్తా మహాతేజా వయసా పంచ వింశకః | అష్టా దశ హి వర్షాణి మమ జన్మని గణ్యతే ॥
+**Story:** మమ భర్తా మహాతేజా వయసా పంచ వింశకః ॥ అష్టా దశ హి వర్షాణి మమ జన్మని గణ్యతే ॥
 
 **Image:** Pending creation.
 

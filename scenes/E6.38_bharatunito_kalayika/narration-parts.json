@@ -1,0 +1,353 @@
+[
+  {
+    "scene": 1,
+    "part": 1,
+    "id": "01.01",
+    "text": "గత భాగంలో హనుమంతుడు రాముడి రాకని భరతుడికి చెప్పాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 1,
+    "id": "02.01",
+    "text": "మరునాడు ఉదయం రాముడు బయలుదేరబోయేముందు భారద్వాజుడు అన్నాడు \"నీ ధర్మానుష్టానికి నాకు ప్రీతి కలిగింది రామ.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 2,
+    "id": "02.02",
+    "text": "నీకొక వరం ఇస్తాను, ఏదన్నా కోరుకో\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 3,
+    "id": "02.03",
+    "text": "అప్పుడు రాముడు \"వానరములు ఎక్కడ ఉంటాయో అక్కడ ఫలసంవృద్ధి ఉండాలని నేను కోరాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 4,
+    "id": "02.04",
+    "text": "ఇప్పుడు ఇక్కడినుండి 3 యోజనముల దూరం వరకూ అయోధ్యకి ప్రయాణిస్తాము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 5,
+    "id": "02.05",
+    "text": "ఆ మార్గంలో కూడా చెట్లన్నీ ఫల పుష్పభరితములై, తేనెపట్లతో తేనెలు కారుతూ ఉండాలి\" అని అడిగాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 1,
+    "id": "03.01",
+    "text": "తరువాత భారద్వాజుడి దగ్గర సెలవు తీసుకొని పెద్ద కోలాహలంతో నందిగ్రామానికి రాముడు చేరుకున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 2,
+    "id": "03.02",
+    "text": "అప్పుడు భరతుడు తన సైనికులతో \"రాముడు వచ్చేస్తున్నాడు, అయోధ్యలో ఉన్న తల్లులని తీసుకురండి, రథాలని తీసుకురండి, పెద్దవాళ్ళని తీసుకురండి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 3,
+    "id": "03.03",
+    "text": "అందరినీ అయోధ్యకి రమ్మనండి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 4,
+    "id": "03.04",
+    "text": "అంతటా పసుపు నీరు, గంధపు నీరు జల్లించండి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 5,
+    "id": "03.05",
+    "text": "దివ్యమైన ధూపములు వెయ్యండి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 6,
+    "id": "03.06",
+    "text": "అందరమూ కలిసి రాముడిని నందిగ్రామం నుండి అయోధ్యకి పట్టాభిషేకానికి తీసుకువెళదాము\" అని భరతుడు ఆజ్ఞాపించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 1,
+    "id": "04.01",
+    "text": "రాముడు వచ్చేస్తున్నాడన్న విషయం తెలుసుకున్న అయోధ్య వాసులు పరుగు పరుగున నందిగ్రామానికి వచ్చారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 2,
+    "id": "04.02",
+    "text": "రాముడు పుష్పక విమానం నుండి కిందకి దిగగానే భరతుడు పరిగెత్తుకుంటూ వెళ్ళి అన్నగారి పాదాలకి పాదుకలు తొడిగాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 3,
+    "id": "04.03",
+    "text": "ఇది చూసి సుగ్రీవ విభీషణులు కన్నుల నీళ్ళు కారాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 4,
+    "id": "04.04",
+    "text": "వెంటనే భరతుడు సుగ్రీవుడిని కౌగలించుకొని\" ఇంతకముందు మేము నలుగురము, ఇవ్వాల్టి నుండి మనం అయిదుగురము అన్నదమ్ములము సుగ్రీవ\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 1,
+    "id": "05.01",
+    "text": "తరువాత అక్కడున్న గంధమాదుడిని, మైందుడిని మొదలైనవారిని భరతుడికి పరిచయం చేశారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 2,
+    "id": "05.02",
+    "text": "అప్పుడు భరతుడు ఆ వానరాలని 'మీరు మా అన్నయ్యకి సహాయం చేశారు, మీరు ఎంత మంచివారు' అని అందరినీ కౌగలించుకున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 3,
+    "id": "05.03",
+    "text": "పుష్పకం నుండి కిందకి దిగిన వానరకాంతలు వాళ్ళ ప్రేమలని, వాళ్ళ అలంకారాలని చూసి ఆశ్చర్యపోయారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 4,
+    "id": "05.04",
+    "text": "అప్పుడు అక్కడికి వచ్చిన కౌసల్య, కైకేయ, సుమిత్రలు అన్నారు \"ఈ వానర కాంతలందరికి మేమే తలస్నానాలు చేయిస్తాము\" అని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 5,
+    "id": "05.05",
+    "text": "వాళ్ళందరికీ తలస్నానం చేయించారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 1,
+    "id": "06.01",
+    "text": "తరువాత రాముడు ఆ పుష్పక విమానాన్ని \"కుబేరుడి దగ్గరికి వెళ్ళిపో\" అని ఆజ్ఞాపించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 2,
+    "id": "06.02",
+    "text": "అప్పుడా ఆ పుష్పకం కుబేరుడి దగ్గరికి వెళ్ళిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 1,
+    "id": "07.01",
+    "text": "అప్పుడు భరతుడు శిరస్సున అంజలి ఘటించి రాముడితో \"మా అమ్మ అయిన కైకేయి ఆనాడు రెండు వరాలు అడిగింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 2,
+    "id": "07.02",
+    "text": "ఇక్ష్వాకు వంశంలో పెద్దవాడిగా పుట్టి, రాజ్యం పొందడానికి సమస్త అర్హతలు కలిగి ఉన్న నువ్వు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 3,
+    "id": "07.03",
+    "text": "తండ్రిని సత్యమునందు నిలబెట్టడం కోసం రాజ్యాన్ని విడిచిపెట్టి వెళ్ళిపోయావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 4,
+    "id": "07.04",
+    "text": "నీ పాదుకలని న్యాసంగా ఇచ్చి నన్ను రాజ్యం చెయ్యమన్నావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 5,
+    "id": "07.05",
+    "text": "నువ్వు నాకు రాజ్యాన్ని ఎలా ఇచ్చావో, అలా ఆ రాజ్యాన్ని తీసుకొని వచ్చి నీ పాదాల దగ్గర పెట్టేస్తున్నాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 6,
+    "id": "07.06",
+    "text": "నీకు ఉన్నదానిని నాకు ఇచ్చి, నేను దానిని అనుభవిస్తుంటే చూసి నువ్వు మురిసిపోయావు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 7,
+    "id": "07.07",
+    "text": "అందుకని ఇవ్వాళ నేను దానిని నీకు ఇచ్చేస్తున్నాను\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 8,
+    "id": "07.08",
+    "text": "భరతుడి మాటలకి సంతోషించిన రాముడు తిరిగి రాజ్యాన్ని స్వీకరించడానికి అంగీకరించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 1,
+    "id": "08.01",
+    "text": "శత్రుఘ్నుడు అక్కడికి వచ్చి \"అన్నయ్య!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 2,
+    "id": "08.02",
+    "text": "క్షుర కర్మ చేసేవారిని తీసుకొచ్చాను, నీ జుట్టు జటలు పట్టేసింది కదా అందుకని క్షుర కర్మ చేయించుకో\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 3,
+    "id": "08.03",
+    "text": "అప్పుడు రాముడు \"నేను తండ్రిమాట నిలబెట్టడం కోసమని నా అంత నేనుగా అరణ్యవాసానికి వెళ్ళాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 4,
+    "id": "08.04",
+    "text": "కాని, తండ్రి ఆజ్ఞాపించకపోయినా, నాయందున్న ప్రేమ చేత స్వచ్ఛందంగా తనంత తాను దీక్ష స్వీకరించి, నా పాదుకలని తీసుకెళ్ళి సింహాసనంలో పెట్టి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 5,
+    "id": "08.05",
+    "text": "14 సంవత్సరములు రాజ్యమునందు మమకారము లేకుండా పరిపాలించిన భరతుడు ముందు దీక్ష విరమించి స్నానం చేస్తే తప్ప నేను దీక్షని విరమించను\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 1,
+    "id": "09.01",
+    "text": "భరతుడు, శత్రుఘ్నుడు, సుగ్రీవుడు, లక్ష్మణుడు క్షుర కర్మ చేయించుకుని మంగళస్నానం చేశాక రాముడు క్షుర కర్మ చేయించుకుని మంగళ స్నానం చేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "తరువాత రాముడు అందమైన పట్టుపుట్టములను ధరించి, మంచి అంగరాగములను పూసుకొని, దివ్యాభరణములను ధరించి బయటకి వచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "తర్వాత చూద్దాం — శ్రీరామ పట్టాభిషేకం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  }
+]

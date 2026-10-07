@@ -62,7 +62,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** యది మాం ఏవం భగవాన్ అపి మన్యతే మత్తో న దోషమాశంకేర్ న ఏవం మామనుశాధి హి ॥
+**Story:** హతో అస్మి యది మాం ఏవం భగవాన్ అపి మన్యతే । మత్తో న దోషం ఆశంకేర్ న ఏవం మాం అనుశాధి హి ॥
 
 **Image:** Pending creation.
 

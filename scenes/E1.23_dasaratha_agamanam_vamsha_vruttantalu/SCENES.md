@@ -204,7 +204,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** [Janaka Visual Lock] summoning his brother, ruler of a neighboring city, to formalize the marriages of all four brothers at once. (Location register: Mithila, formal court)
 
-**Story:** "సాంకాశ్యం అనే నగరాన్ని పరిపాలిస్తున్న తన తమ్ముడైన కుశధ్వజుడిని తీసుకురమ్మని జనకుడు ఆదేశించాడు."
+**Story:** "సాంకాశ్యం అనే నగరాన్ని పరిపాలిస్తున్న తన తమ్ముడైన కుశధ్వజుడిని తీసుకురమ్మని జనకుడు ఆదేశించాడు. కుశధ్వజుడు వచ్చాక —"
 
 **Image:** Pending creation.
 
@@ -212,7 +212,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text; [Janaka Visual Lock] formally proposing all four marriages at once. (Location register: Mithila, formal court, the full proposal)
 
-**Story:** వీర్య శుల్కాం మమ సుతాం సీతాం సుర సుత ఉపమాం । ద్వితీయాం ఊర్మిలాం చైవ వదామి న సంశయః ॥
+**Story:** వీర్య శుల్కాం మమ సుతాం సీతాం సుర సుత ఉపమాం । ద్వితీయాం ఊర్మిలాం చైవ త్రిః వదామి న సంశయః ॥
 
 **Image:** Pending creation.
 

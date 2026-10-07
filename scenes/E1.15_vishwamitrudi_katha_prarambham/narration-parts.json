@@ -120,7 +120,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "నాస్తి ధన్యతరో రామ త్వత్తో అన్యో భువి కశ్చన । గోప్తా కుశిక పుత్రః తే యేన తప్తం మహత్ తపః ॥",
+    "text": "న అస్తి ధన్యతరో రామ త్వత్తో అన్యో భువి కశ్చన । గోప్తా కుశిక పుత్రః తే యేన తప్తం మహత్ తపః ॥",
     "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
@@ -435,7 +435,16 @@
     "scene": 18,
     "part": 4,
     "id": "18.04",
-    "text": "ఆయనకి మెల్లగా ఆ శబళ మీద వ్యామోహం పెరిగింది, ఆ శబళని తన సొంతం చేసుకోవాలనిపించింది.\"",
+    "text": "ఆయనకి మెల్లగా ఆ శబళ మీద వ్యామోహం పెరిగింది, ఆ శబళని తన సొంతం చేసుకోవాలనిపించింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 5,
+    "id": "18.05",
+    "text": "అప్పుడాయన ఆ వశిష్ఠ మహర్షితో —\"",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -444,7 +453,7 @@
     "scene": 19,
     "part": 1,
     "id": "19.01",
-    "text": "గవాం శత సహస్రేణ దీయతాం శబలా మమ ॥",
+    "text": "గవాం శత సహస్రేణ దీయతాం శబలా మమ ।",
     "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null

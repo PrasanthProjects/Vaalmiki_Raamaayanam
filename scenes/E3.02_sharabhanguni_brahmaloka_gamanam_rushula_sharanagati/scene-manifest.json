@@ -54,7 +54,7 @@
     "scene": 6,
     "part_id": "6",
     "visual_description": "On-screen shloka text over Indra and Sharabhanga, Rama small in the background.",
-    "story_text": "ఇహ ఉపయాతి అసౌ రామో యావన్ మాం న అభిభాషతే | నిష్ఠాం నయత తావత్ తు తతో మా ద్రష్టుం అర్హతి ॥",
+    "story_text": "ఇహ ఉపయాతి అసౌ రామో యావన్ మాం న అభిభాషతే । నిష్ఠాం నయత తావత్ తు తతో మా ద్రష్టుం అర్హతి ॥",
     "source_notes": "🔴 VERSE — flagged for the manual audit: \"Rama is coming here; before he speaks to me, take me away — only after [his task] is complete should he see me.\" The source's own Telugu rendering follows.",
     "image": null,
     "status": "image_pending"
@@ -114,7 +114,7 @@
     "scene": 12,
     "part_id": "12",
     "visual_description": "On-screen shloka text over the fire, flames rising high and golden.",
-    "story_text": "తస్య రోమాణి కేశాం చ తదా వహ్నిః మహాత్మనః | జీర్ణం త్వచం తద్ అస్థీని యత్ చ మాంసం చ శోణితం ॥",
+    "story_text": "తస్య రోమాణి కేశాం చ తదా వహ్నిః మహాత్మనః । జీర్ణం త్వచం తద్ అస్థీని యత్ చ మాంసం చ శోణితం ॥",
     "source_notes": "🔴 VERSE — flagged for the manual audit (printed \"కేశాం చ\", \"జీర్ణం త్వచం\"; standard editions read \"కేశాంశ్ చ\", \"జీర్ణాం త్వచం\"): \"Then the fire consumed that great soul's hair, his locks, his aged skin, his bones, his flesh and his blood.\"",
     "image": null,
     "status": "image_pending"
@@ -174,7 +174,7 @@
     "scene": 18,
     "part_id": "18",
     "visual_description": "On-screen shloka text; the sages leading Rama toward the forest beyond the ashram.",
-    "story_text": "ఏహి పశ్య శరీరాణి మునీనాం భావిత ఆత్మనాం | హతానాం రాక్షసైః ఘోరైః బహూనాం బహుధా వనే ॥",
+    "story_text": "ఏహి పశ్య శరీరాణి మునీనాం భావిత ఆత్మనాం । హతానాం రాక్షసైః ఘోరైః బహూనాం బహుధా వనే ॥",
     "source_notes": "🔴 VERSE — flagged for the manual audit: \"Come, see the bodies of the many self-realised sages slain in countless ways in this forest by the terrible rakshasas.\"",
     "image": null,
     "status": "image_pending"

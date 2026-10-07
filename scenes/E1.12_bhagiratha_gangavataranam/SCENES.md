@@ -68,7 +68,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text; [Sagara Visual Lock] confronting the truth about his son. (Location register: Mythic inset)
 
-**Story:** ఏవం పాప సమాచారః సజ్జన ప్రతిబాధకః । పౌరాణాం అహితే యుక్తః పిత్రా నిర్వాసితః పురాత్ ॥
+**Story:** ఏవం పాప సమాచారః సజ్జన ప్రతిబాధకః ॥ పౌరాణాం అహితే యుక్తః పిత్రా నిర్వాసితః పురాత్ ॥
 
 **Image:** Pending creation.
 

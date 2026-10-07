@@ -98,7 +98,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** న పితా న ఆత్మజో న ఆత్మా న మాతా న సఖీజనః | ఇహ ప్రేత్య చ నారీణాం పతిరేకో గతిః సదా ॥
+**Story:** న పితా న ఆత్మజో న ఆత్మా న మాతా న సఖీ జనః । ఇహ ప్రేత్య చ నారీణాం పతిర్ ఏకో గతిః సదా ॥
 
 **Image:** Pending creation.
 

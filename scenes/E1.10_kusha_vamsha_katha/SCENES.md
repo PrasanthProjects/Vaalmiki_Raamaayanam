@@ -66,7 +66,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text; the hundred daughters responding as one unified voice, dignified and unshaken. (Location register: Mythic inset)
 
-**Story:** కుశనాభ సుతాః దేవం సమస్తా సుర సత్తమ । చ్యావయితుం న శక్తాః తు తపో వయం మా భూత్ స కాలో దుర్మేధః । పితరం సత్యవాదినం అవమన్యస్వ న ధర్మేణ స్వయంవరం ఉపాస్మహే । పితా హి ప్రభుర్ అస్మాకం దైవతం పరమం చ సః । యస్య నో దాస్యతి పితా స నో భర్తా భవిష్యతి ॥
+**Story:** కుశనాభ సుతాః దేవం సమస్తా సుర సత్తమ । స్థానాత్ చ్యావయితుం దేవం రక్షామః తు తపో వయం ॥ మా భూత్ స కాలో దుర్మేధః పితరం సత్య వాదినం । అవమన్యస్వ స్వ ధర్మేణ స్వయం వరం ఉపాస్మహే ॥ పితా హి ప్రభుర్ అస్మాకం దైవతం పరమం చ సః । యస్య నో దాస్యతి పితా స నో భర్తా భవిష్యతి ॥
 
 **Image:** Pending creation.
 
@@ -100,7 +100,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text — Kushanabha's teaching on patience/forbearance as the true ornament of a woman. (Location register: Mythic inset)
 
-**Story:** క్షమా దానం క్షమా సత్యం క్షమా యజ్ఞః చ పుత్రికాః । క్షమా యశః క్షమా ధర్మః క్షమాయాం తం జగత్ ॥
+**Story:** క్షమా దానం క్షమా సత్యం క్షమా యజ్ఞః చ పుత్రికాః । క్షమా యశః క్షమా ధర్మః క్షమాయాం విష్ఠితం జగత్ ॥
 
 **Image:** Pending creation.
 

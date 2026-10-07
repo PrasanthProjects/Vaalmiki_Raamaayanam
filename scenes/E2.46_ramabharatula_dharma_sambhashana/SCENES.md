@@ -72,7 +72,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text.
 
-**Story:** త్వం రాజా భవ భరత స్వయం నరాణాం | వన్యానాం అహం అపి రాజరాణ్ మృగాణాం ॥
+**Story:** త్వం రాజా భవ భరత స్వయం నరాణాం । వన్యానాం అహం అపి రాజ రాణ్ మృగాణాం ॥
 
 **Image:** Pending creation.
 

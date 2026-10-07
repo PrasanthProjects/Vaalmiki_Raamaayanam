@@ -14,7 +14,7 @@
     "scene": 2,
     "part_id": "2",
     "visual_description": "On-screen text (this specific line is quoted Sanskrit in the source, given as a single couplet before its own translation):",
-    "story_text": "చ ఆనీయమానే తు విప్రే తస్మిన్ మహాత్మని వవర్ష సహసా దేవో జగత్ ప్రహ్లాదయన్ తదా ॥",
+    "story_text": "తత్ర చ ఆనీయమానే తు విప్రే తస్మిన్ మహాత్మని । వవర్ష సహసా దేవో జగత్ ప్రహ్లాదయన్ తదా ॥",
     "source_notes": "🔴 VERSE — brief, describes the rain falling the moment Rishyashringa is brought in.",
     "image": null,
     "status": "image_pending"
@@ -114,7 +114,7 @@
     "scene": 12,
     "part_id": "12",
     "visual_description": "Wide hospitality montage continues — elderly guests, sick guests, women, children, all being served with equal warmth; on-screen verse text. (Location register: Ayodhya, yagna grounds)",
-    "story_text": "అలా వచ్చిన వాళ్ళందరికి భోజనాలు పెడుతున్నారు. వృద్ధాః చ వ్యాధితాః చ ఏవ బాలాః తథా ఏవ చ । అనిశం భుంజమానానాం న తృప్తిః ఉపలభ్యతే ॥",
+    "story_text": "అలా వచ్చిన వాళ్ళందరికి భోజనాలు పెడుతున్నారు. వృద్ధాః చ వ్యాధితాః చ ఏవ స్త్రీ బాలాః తథా ఏవ చ । అనిశం భుంజమానానాం న తృప్తిః ఉపలభ్యతే ॥",
     "source_notes": "🔴 VERSE — describes guests eating continuously without ever feeling they'd had enough, from sheer delight.",
     "image": null,
     "status": "image_pending"
@@ -194,7 +194,7 @@
     "scene": 20,
     "part_id": "20",
     "visual_description": "On-screen verse text; visual of unseen celestial beings gathering, implied through light/shimmer effects rather than full character reveals yet. (Location register: Ayodhya, yagnashala → divine realm overlay)",
-    "story_text": "దేవాః స గంధర్వాః సిద్ధాః చ పరమ ఋషయః । భాగ ప్రతిగ్రహార్థం వై సమవేతా యథావిధి ॥",
+    "story_text": "తతో దేవాః స గంధర్వాః సిద్ధాః చ పరమ ఋషయః । భాగ ప్రతిగ్రహార్థం వై సమవేతా యథావిధి ॥",
     "source_notes": "🔴 VERSE — gods, gandharvas, siddhas and great sages gathering to receive their ritual share.",
     "image": null,
     "status": "image_pending"
@@ -254,7 +254,7 @@
     "scene": 26,
     "part_id": "26",
     "visual_description": "On-screen verse text; Vishnu's full visual reveal, matching scene 25's description exactly. (Location register: Divine realm)",
-    "story_text": "ఏతస్మిన్ అనంతరే విష్ణుః ఉపయాతో మహాద్యుతిః । శంఖ చక్ర గదా పాణిః పీత వాసా జగత్పతిః ॥",
+    "story_text": "ఏతస్మిన్ అనంతరే విష్ణుః ఉపయాతో మహాద్యుతిః । శఙ్ఖ చక్ర గదా పాణిః పీత వాసా జగత్పతిః ॥",
     "source_notes": "🔴 VERSE — Vishnu's manifestation, a visually iconic moment; give the visual its full weight here, matching the Character Bible's \"most divine-coded\" note.",
     "image": null,
     "status": "image_pending"
@@ -274,7 +274,7 @@
     "scene": 28,
     "part_id": "28",
     "visual_description": "On-screen verse text — THE central verse of the entire series, Rama's own vow, already quoted in E0.01 as a callback but recited here in its original full narrative context for the first time. (Location register: Divine realm)",
-    "story_text": "హత్వా క్రూరం దురాధర్షం దేవ ఋషీణాం భయావహం । దశ వర్ష సహస్రాణి దశ వర్ష శతాని చ । వత్స్యామి మానుషే లోకే పాలయన్ పృథ్వీం ఇమాం । ఏవం దత్వా వరం దేవో దేవానాం విష్ణుః ఆత్మవాన్ ॥",
+    "story_text": "హత్వా క్రూరం దురాధర్షం దేవ ఋషీణాం భయావహం । దశ వర్ష సహస్రాణి దశ వర్ష శతాని చ ॥ వత్స్యామి మానుషే లోకే పాలయన్ పృథ్వీం ఇమాం । ఏవం దత్వా వరం దేవో దేవానాం విష్ణుః ఆత్మవాన్ ॥",
     "source_notes": "🔴 VERSE — Rama's eleven-thousand-year vow, in its original context. This is the payoff of the callback set up in Episode 0.01 — treat this recitation as a major moment, matching or exceeding the visual/vocal weight given to the krauncha-bird verse in E1.02.",
     "image": null,
     "status": "image_pending"
@@ -374,7 +374,7 @@
     "scene": 38,
     "part_id": "38",
     "visual_description": "On-screen verse text begins — the famous astrological-detail verse pinpointing Rama's exact birth moment — hold this as a suspended, anticipatory beat; the actual birth itself is the opening of E1.05, so this episode should END on the verse's build-up, not the birth itself. (Location register: Ayodhya, inner palace, night sky with visible planetary/astrological motif)",
-    "story_text": "తతః చ ద్వాదశే మాసే చైత్రే నావమికే తిథౌ । నక్షత్రే అదితి దైవత్యే స్వ ఉచ్చ సంస్థేషు పంచసు । గ్రహేషు కర్కటే లగ్నే వాక్పతా ఇందునా సహ । ప్రోద్యమానే జగన్నాథం సర్వ లోక నమస్కృతం...",
+    "story_text": "తతః చ ద్వాదశే మాసే చైత్రే నావమికే తిథౌ । నక్షత్రే అదితి దైవత్యే స్వ ఉచ్చ సంస్థేషు పంచసు ॥ గ్రహేషు కర్కటే లగ్నే వాక్పతా ఇందునా సహ । ప్రోద్యమానే జగన్నాథం సర్వ లోక నమస్కృతం ॥...",
     "source_notes": "🔴 VERSE — the exact-birth-moment verse (Chaitra month, Navami tithi, Punarvasu nakshatra, Karkataka lagna) — this verse is incomplete at the current page boundary (p.31 ends mid-verse); confirm the remaining lines against p.32 before finalizing recitation — flagged for completion once p.32 is transcribed.",
     "image": null,
     "status": "image_pending"

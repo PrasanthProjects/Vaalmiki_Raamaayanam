@@ -32,7 +32,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over the two of them on the forest path.
 
-**Story:** తే చ ఆర్తా దణ్డకారణ్యే మునయః సంశిత వ్రతాః | మాం సీతే స్వయం ఆగమ్య శరణ్యాః శరణం గతాః ॥
+**Story:** తే చ ఆర్తా దణ్డకారణ్యే మునయః సంశిత వ్రతాః । మాం సీతే స్వయం ఆగమ్య శరణ్యాః శరణం గతాః ॥
 
 **Image:** Pending creation.
 
@@ -72,7 +72,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over the shimmering lake.
 
-**Story:** ఇదం పంచ అప్సరో నామ తటాకం సార్వ కాలికం | నిర్మితం తపసా రామ మునినా మాణ్డకర్ణినా ॥
+**Story:** ఇదం పంచ అప్సరో నామ తటాకం సార్వ కాలికం । నిర్మితం తపసా రామ మునినా మాణ్డకర్ణినా ॥
 
 **Image:** Pending creation.
 

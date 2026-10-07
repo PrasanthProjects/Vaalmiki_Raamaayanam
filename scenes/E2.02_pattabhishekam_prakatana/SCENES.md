@@ -104,7 +104,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** ఇదం శరీరం కృత్స్నస్య లోకస్య చరతా హితమ్ | పాండురస్యాతపత్రస్య ఛాయాయాం జరితం మయా ॥
+**Story:** ఇదం శరీరం కృత్స్నస్య లోకస్య చరతా హితం । పాణ్డురస్యాతపత్రస్య చ్ఛాయాయాం జరితం మయా ॥
 
 **Image:** Pending creation.
 

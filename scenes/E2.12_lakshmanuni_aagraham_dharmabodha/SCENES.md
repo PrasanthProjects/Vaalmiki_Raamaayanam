@@ -60,7 +60,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** తవ లక్ష్మణ జానామి మయి స్నేహమనుత్తమమ్ | విక్రమం చైవ సత్యం చ తేజశ్చ సుదురాసదమ్ ॥
+**Story:** తవ లక్ష్మణ జానామి మయి స్నేహమనుత్తమం । విక్రమం చైవ సత్యం చ తేజశ్చ సుదురాసదం । మమ మాతుర్మహద్దుఃఖమతులం శుభలక్షణ । అభిప్రాయం అవిజ్ఞాయ సత్యస్య చ శమస్య చ ॥
 
 **Image:** Pending creation.
 
@@ -80,7 +80,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** ధర్మో హి పరమో లోకే ధర్మే సత్యం ప్రతిష్ఠితమ్ | ధర్మసంశ్రితమేతచ్చ పితుర్వచనముత్తమమ్ ॥
+**Story:** ధర్మః హి పరమః లోకే ధర్మే సత్యం ప్రతిష్ఠితం । ధర్మ సంశ్రితం ఏతచ్ చ పితుర్ వచనం ఉత్తమం ॥
 
 **Image:** Pending creation.
 
@@ -98,7 +98,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** త్వయా మయా చ వైదేహ్యా లక్ష్మణేన సుమిత్రయా | పితుర్నియోగే స్థాతవ్యమేష ధర్మః సనాతనః ॥
+**Story:** త్వయా మయా చ వైదేహ్యా లక్ష్మణేన సుమిత్రయా । పితుర్నియోగే స్థాతవ్యమేష ధర్మః సనాతనః ॥
 
 **Image:** Pending creation.
 
@@ -116,7 +116,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** ధర్మార్థకామాః ఖలు తత్ర లోకే సమీక్షితా ధర్మఫలోదయేషు | తే తత్ర సర్వే స్యురసంశయం మే భార్యేవ వశ్యాభిమతా సుపుత్రా ॥
+**Story:** ధర్మార్థకామాః ఖలు తాత లోకే సమీక్షితా ధర్మఫలోదయేషు । తే తత్ర సర్వే స్యురసంశయం మే భార్యేవ వశ్యాభిమతా సుపుత్రా ॥
 
 **Image:** Pending creation.
 
@@ -156,7 +156,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** సుఖదుఃఖే భయక్రోధౌ లాభాలాభౌ భవాభవౌ | యస్య కించిత్తథాభూతం ననుదైవస్య కర్మ తత్ ॥
+**Story:** సుఖ దుఃఖే భయ క్రోధౌ లాభ అలాభౌ భవ అభవౌ । యస్య కించిత్ తథా భూతం నను దైవస్య కర్మ తత్ ॥
 
 **Image:** Pending creation.
 

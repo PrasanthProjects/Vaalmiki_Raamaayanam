@@ -1,0 +1,641 @@
+[
+  {
+    "scene": 1,
+    "part": 1,
+    "id": "01.01",
+    "text": "గత భాగంలో రాముడి మాట మీద విభీషణుడు రావణుడికి అంచేష్టి సంస్కారం చేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 1,
+    "id": "02.01",
+    "text": "అప్పుడు రాముడు \"విభీషణుడికి సింహాసనం మీద అభిషేకం జరిగితే చూడాలని ఉంది లక్ష్మణా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 2,
+    "id": "02.02",
+    "text": "సముద్రానికి వెళ్ళి నీళ్ళు తీసుకొని వచ్చి విభీషణుడికి పట్టాభిషేకం చెయ్యండి\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 1,
+    "id": "03.01",
+    "text": "విభీషణుడికి అభిషేకం చేశాక రాముడు హనుమంతుడిని పిలిచి \"ఇవ్వాళ విభీషణుడు అభిషేకం జరిగి లంకకి రాజయ్యాడు కనుక ఆయన అనుమతి తీసుకొని లంకలోకి వెళ్ళి సీత దర్శనం చెయ్యి.",
+    "complete_verse_block": false,
+    "needs_timing_review": true,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 2,
+    "id": "03.02",
+    "text": "నేను సుగ్రీవుడి సాయంతో, విభీషణుడి సాయంతో రావణుడిని సంహరించి లంకా పట్టణాన్ని స్వాధీనం చేసుకొని క్షేమంగా ఉన్నానని చెప్పు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 3,
+    "id": "03.03",
+    "text": "విభీషణుడికి పట్టాభిషేకం అయిపోయిందని చెప్పు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 4,
+    "id": "03.04",
+    "text": "అందుకని ఇవ్వాళ సీత నా మిత్రుడైన విభీషణుడి ఇంట్లో ఉంది కనుక బెంగపడవలసిన అవసరం లేదని చెప్పు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 1,
+    "id": "04.01",
+    "text": "హనుమంతుడు సీతమ్మ దగ్గరికి వెళ్ళగా, సీతమ్మ హనుమంతుడిని చూసి తల తిప్పుకొని ఏదో ధ్యానం చేసుకుంటుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 2,
+    "id": "04.02",
+    "text": "మళ్ళీ ఓ సారి హనుమంతుడి వంక చూసి \"హనుమ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 3,
+    "id": "04.03",
+    "text": "నువ్వు కదా\" అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 4,
+    "id": "04.04",
+    "text": "అప్పుడు హనుమంతుడు \"సీతమ్మ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 5,
+    "id": "04.05",
+    "text": "రాముడు సుగ్రీవుడిని, విభీషణుడిని తన పక్కన పెట్టుకుని, వాళ్ళ యొక్క సహాయంతో రావణుడిని సంహరించి లంకని తనదిగా చేసుకున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 6,
+    "id": "04.06",
+    "text": "ఇవ్వాళ విభీషణుడిని లంకా రాజ్యానికి రాజుగా చేశారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 7,
+    "id": "04.07",
+    "text": "ఇప్పుడు నువ్వు రాముడి మిత్రుడైన విభీషణుడి ప్రమదావనంలో ఉన్నావు, అందుచేత నువ్వు బెంగపడవలసిన పరిస్థితి లేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 8,
+    "id": "04.08",
+    "text": "నీ శోకాన్ని విడిచిపెట్టు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 1,
+    "id": "05.01",
+    "text": "అప్పుడు సీతమ్మ \"ఎంత మంచిమాట చెప్పావయ్య హనుమ\" అని చెప్పి ఒక్క నిమిషం అలా ఉండిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 2,
+    "id": "05.02",
+    "text": "అప్పుడు హనుమంతుడు \"అదేమిటమ్మ ఏమి మాట్లాడావు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 3,
+    "id": "05.03",
+    "text": "సీతమ్మ \"10 నెలల నుండి ఈ మాట ఎప్పుడు వింటాన అని తపస్సు చేశాను కదా హనుమ.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 4,
+    "id": "05.04",
+    "text": "నువ్వు నిజంగా వచ్చి ఈ మాట చెప్పేటప్పటికి నా నోటి వెంట మాటరాలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 5,
+    "id": "05.05",
+    "text": "నువ్వు చెప్పిన మాటకి నేను చాలా ఆనందాన్ని పొందాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 6,
+    "id": "05.06",
+    "text": "కాబట్టి నేను నీకు ఏదో ఒక బహుమతి ఇవ్వాలి, కాని నేను ఆలోచన చేస్తే, నేను నీకు ఏమి ఇవ్వగలను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 7,
+    "id": "05.07",
+    "text": "ఎంత బంగారం ఇచ్చినా, రత్నాలు ఇచ్చినా, మూడు లోకములని ఇచ్చినా సరిపోదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 8,
+    "id": "05.08",
+    "text": "ఇవ్వాళ నీకు ఇవ్వడానికి నా దగ్గర ఏమిలేదు హనుమ.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 9,
+    "id": "05.09",
+    "text": "నువ్వు మధురాతి మధురంగా మాట్లాడతావు, నీకు అష్టాంగ యోగంతో కూడిన బుద్ధి ఉంది, వీర్యము, పరాక్రమము, తేజస్సు ఉంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 10,
+    "id": "05.10",
+    "text": "నిన్ను చూసి పొంగిపోతున్నానయ్య\" అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 1,
+    "id": "06.01",
+    "text": "అప్పుడు హనుమంతుడు \"అమ్మ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 2,
+    "id": "06.02",
+    "text": "నువ్వు నా గురించి ఇన్ని మాటలు చెప్పి, నాకు ఇవ్వడానికి నీ దగ్గర గొప్ప వస్తువు లేదన్నావు కదా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 3,
+    "id": "06.03",
+    "text": "నేనొక వరం అడుగుతాను ఇస్తావ తల్లి అని, \"ఇంతకముందు వచ్చినప్పుడు శింశుపా వృక్షం మీద కూర్చుని చూశానమ్మా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 4,
+    "id": "06.04",
+    "text": "ఈ రాక్షస స్త్రీలందరూ నీ గురించి ఎన్ని మాటలు మాట్లాడారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 5,
+    "id": "06.05",
+    "text": "నువ్వు బ్రతికుండగా నిన్ను వాటాలు వేసుకున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 6,
+    "id": "06.06",
+    "text": "'నిన్ను అనుమతించాను హనుమ' అని ఒక్కమాట అను, నేను వాళ్ళని గోళ్ళతో గిల్లేస్తాను, మోకాళ్ళతో గుద్దేస్తాను, కొంతమందికి పళ్ళు పీకేస్తాను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 7,
+    "id": "06.07",
+    "text": "కొంతమంది జుట్టు పీకేస్తాను, కొంతమందిని గుద్దేస్తాను\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 1,
+    "id": "07.01",
+    "text": "అప్పుడు సీతమ్మ \"హనుమ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 2,
+    "id": "07.02",
+    "text": "వారు దాసీజనం, ప్రభువు ఎలా చెయ్యమంటే వారు అలా చేస్తారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 3,
+    "id": "07.03",
+    "text": "దోషం వాళ్ళది కాదు, దోషం ప్రభువుది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 4,
+    "id": "07.04",
+    "text": "ఏ దోషం వాళ్ళయందు ఉందని వాళ్ళని చంపేస్తావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 5,
+    "id": "07.05",
+    "text": "నీ ప్రభువు చెబితే నువ్వు చేసినట్టు, వాళ్ళ ప్రభువు చెప్పినట్టు వారు చేశారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 6,
+    "id": "07.06",
+    "text": "ప్రభుభక్తి విషయంలో నువ్వు ఎటువంటివాడివో వారు కూడా అటువంటివాళ్ళే.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 7,
+    "id": "07.07",
+    "text": "గతంలో నేను చేసిన పాపం ఏదో ఉంది, ఆ పాపానికి ఫలితంగా ఇన్ని కష్టాలు పడ్డాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 1,
+    "id": "08.01",
+    "text": "పూర్వకాలంలో ఒక వేటగాడు అడవిలో వెళ్ళిపోతుంటే ఒక పెద్ద పులి అతనిని తరుముకొచ్చింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 2,
+    "id": "08.02",
+    "text": "అప్పుడా వేటగాడు పరిగెత్తుకుంటూ వెళ్ళి ఒక చెట్టు ఎక్కాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 3,
+    "id": "08.03",
+    "text": "తీరా చెట్టు మీదకి ఎక్కి చూస్తే అక్కడ ఒక భల్లూకం పడుకొని ఉంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 4,
+    "id": "08.04",
+    "text": "ఆ వేటగాడు పైకి వెళితే భల్లూకం తినేస్తుంది, కిందకి వెళితే పులి తినేస్తుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 5,
+    "id": "08.05",
+    "text": "ఈ స్థితిలో పులి భల్లూకంతో 'వాడు నరుడు, మనిద్దరమూ క్రూర జంతువులము, మనిద్దరిది ఒక జాతి, వాడిది ఒక జాతి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 6,
+    "id": "08.06",
+    "text": "కనుక వాడిని కిందకి తోసేయ్యి' అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 7,
+    "id": "08.07",
+    "text": "అప్పుడా భల్లూకం 'వాడు తెలిసో తెలియకో ఆర్తితో పరుగు పరుగున నేనున్న చెట్టు ఎక్కాడు, అందుకని వాడు నన్ను శరణాగతి చేసినట్టు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 8,
+    "id": "08.08",
+    "text": "వాడు నాకు అతిథి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 9,
+    "id": "08.09",
+    "text": "కనుక నేను వాడిని తొయ్యను, నేను వాడికి ఆతిధ్యం ఇస్తున్నాను' అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 10,
+    "id": "08.10",
+    "text": "ఆ పెద్ద పులి అలా చెట్టు కిందనే ఉంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 1,
+    "id": "09.01",
+    "text": "కొంతసేపయ్యాక భల్లూకం వేటగాడితో 'నాకూ పెద్ద పులి చేత ప్రమాదమే.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "నాకు నిద్రొస్తోంది, నిద్రొస్తే జారి కిందపడిపోతాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 3,
+    "id": "09.03",
+    "text": "అందుకని నేను నీ ఒడిలో తల పెట్టుకుని పడుకుంటాను, కొంచెం పడిపోకుండా చూడు' అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 4,
+    "id": "09.04",
+    "text": "అప్పుడా వేటగాడు 'తప్పకుండా పడుకో' అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 5,
+    "id": "09.05",
+    "text": "ఆ భల్లూకం పడుకున్నాక పెద్ద పులి 'దానికి నిద్రలేచాక ఆకలి వేస్తుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 6,
+    "id": "09.06",
+    "text": "అది సహజంగా క్రూర జంతువు కనుక నిన్ను చంపేసి తింటుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 7,
+    "id": "09.07",
+    "text": "అందుకని ఇదే అదును, నువ్వు ఆ భల్లూకాన్ని కిందకి తోసేయ్యి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 8,
+    "id": "09.08",
+    "text": "అప్పుడు నేను ఆ భల్లూకాన్ని తిని వెళ్ళిపోతాను, తరువాత నువ్వు కూడా వెళ్ళిపోవచ్చు' అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "ఈ మాట వినగానే ఆ వేటగాడు నిద్రపోతున్న భల్లూకాన్ని కిందకి తోసేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "ఆ భల్లూకం కిందకి పడిపోతూ పడిపోతూ ఒక చెట్టుకొమ్మని పట్టుకొని పైకి ఎక్కింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 3,
+    "id": "10.03",
+    "text": "అప్పుడా పులి 'చూశావ, నిద్రపోతున్న నిన్ను వాడు కిందకి తోసేశాడు, ఎప్పటికైనా మనిషి మనిషే మనం మనమే.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 4,
+    "id": "10.04",
+    "text": "అందుకని వాడిని కిందకి తోసేయ్యి' అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 5,
+    "id": "10.05",
+    "text": "అప్పుడా భల్లూకం 'అపకారం చేసినవాడే అయినా, వాడు నా ఇంటికి వచ్చాడు కాబట్టి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 6,
+    "id": "10.06",
+    "text": "అపకారికి కూడా ప్రయత్నపూర్వకంగా అపకారము చెయ్యకూడదు కాబట్టి నేను ఆ వేటగాడిని తొయ్యను' అని ఒక భల్లూకం చెప్పింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "నేను మనుష్య స్త్రీగా పుట్టి, క్షత్రియ కాంతనై, రాముడికి ఇల్లాలినై ఆ రాక్షస స్త్రీలని చంపిస్తే నేను ఉత్తమ కులాంగనను అవుతాన.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "చెడ్డగా ఎవడున్నాడో, ఎవడు పాడయిపోయాడో వాడి మీద దయ ఉండాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 3,
+    "id": "11.03",
+    "text": "ఈ రాక్షస స్త్రీలు చెయ్యకూడని పనులు చేశారు, వీళ్ళ మీద కదా నేను దయతో ఉండాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 4,
+    "id": "11.04",
+    "text": "వీళ్ళందరికి నా రక్ష\" అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "\"అమ్మ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "ఈ మాట చెప్పడం నీకే చెల్లింది తల్లి\" అని సీతమ్మతో అని, అక్కడినుండి బయలుదేరి రాముడి దగ్గరికి వెళ్ళి \"రామ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 3,
+    "id": "12.03",
+    "text": "సీతమ్మ నీ దర్శనం చెయ్యాలని అనుకుంటోంది\" అని రాముడితో చెప్పాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "తర్వాత చూద్దాం — రాముడి దగ్గరికి సీతమ్మ.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  }
+]

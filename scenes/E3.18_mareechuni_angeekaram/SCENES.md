@@ -82,7 +82,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over a jackal slinking behind a flock of sheep (brief symbolic insert).
 
-**Story:** స్వామినా ప్రతికూలేన ప్రజాః తీక్ష్ణేన రావణ | రక్ష్యమాణా న వర్ధంతే మేషా గోమాయునా యథా ॥
+**Story:** స్వామినా ప్రతికూలేన ప్రజాః తీక్ష్ణేన రావణ । రక్ష్యమాణా న వర్ధంతే మేషా గోమాయునా యథా ॥
 
 **Image:** Pending creation.
 

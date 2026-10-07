@@ -76,7 +76,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** అవధ్యో వధ్యతాం కో వా కో వా వధ్యో విముచ్యతామ్ | దరిద్రః కో భవేదాఢ్యో ద్రవ్యవాన్వాప్యకిఞ్చనః ॥
+**Story:** అవధ్యో వధ్యతాం కో వా కో వా వధ్యో విముచ్యతాం । దరిద్రః కో భవేదాఢ్యో ద్రవ్యవాన్వాప్యకిఞ్చనః ॥
 
 **Image:** Pending creation.
 

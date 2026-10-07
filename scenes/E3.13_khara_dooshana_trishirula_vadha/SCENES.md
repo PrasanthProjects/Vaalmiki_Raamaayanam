@@ -72,7 +72,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over the quiet battlefield at dusk.
 
-**Story:** అర్థ అధిక ముహూర్తేన రామేణ నిశితైః శరైః | చతుర్ దశ సహస్రాణి రక్షసాం కామ రూపిణాం | ఖర దూషణ ముఖ్యానాం నిహతాని మహామృధే ॥
+**Story:** అర్థ అధిక ముహూర్తేన రామేణ నిశితైః శరైః । చతుర్ దశ సహస్రాణి రక్షసాం కామ రూపిణాం । ఖర దూషణ ముఖ్యానాం నిహతాని మహామృధే ॥
 
 **Image:** Pending creation.
 

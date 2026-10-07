@@ -40,7 +40,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over the ashram cluster seen from its edge.
 
-**Story:** పుణ్యైః చ నియత ఆహారైః శోభితం పరమ ఋషిభిః | తత్ బ్రహ్మ భవన ప్రఖ్యం బ్రహ్మ ఘోష నినాదితం | బ్రహ్మ విద్భిః మహా భాగైః బ్రాహ్మణైః ఉపశోభితం ॥
+**Story:** పుణ్యైః చ నియత ఆహారైః శోభితం పరమ ఋషిభిః । తత్ బ్రహ్మ భవన ప్రఖ్యం బ్రహ్మ ఘోష నినాదితం । బ్రహ్మ విద్భిః మహా భాగైః బ్రాహ్మణైః ఉపశోభితం ॥
 
 **Image:** Pending creation.
 
@@ -60,7 +60,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over the sages turning, one by one, to look at the three arrivals.
 
-**Story:** రూప సంహననం లక్ష్మీం సౌకుమార్యం సువేషతాం | దదృశుర్ విస్మిత ఆకారా రామస్య వన వాసినః ॥ వైదేహీం లక్ష్మణం రామం నేత్రైర్ అనిమిషైర్ ఇవ | ఆశ్చర్య భూతాన్ దదృశుః సర్వే తే వన వాసినః ॥
+**Story:** రూప సంహననం లక్ష్మీం సౌకుమార్యం సువేషతాం । దదృశుర్ విస్మిత ఆకారా రామస్య వన వాసినః ॥ వైదేహీం లక్ష్మణం రామం నేత్రైర్ అనిమిషైర్ ఇవ । ఆశ్చర్య భూతాన్ దదృశుః సర్వే తే వన వాసినః ॥
 
 **Image:** Pending creation.
 
@@ -110,7 +110,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over [Viradha Visual Lock] looming, Sita held captive.
 
-**Story:** అధర్మ చారిణౌ పాపౌ కౌ యువాం ముని దూషకౌ | అహం వనం ఇదం దుర్గం విరాధో నామ రాక్షసః ॥ చరామి సాయుధో నిత్యం ఋషి మాంసాని భక్షయన్ | ఇయం నారీ వరారోహా మమ భార్యా భవిష్యతి ॥
+**Story:** అధర్మ చారిణౌ పాపౌ కౌ యువాం ముని దూషకౌ । అహం వనం ఇదం దుర్గం విరాధో నామ రాక్షసః ॥ చరామి సాయుధో నిత్యం ఋషి మాంసాని భక్షయన్ । ఇయం నారీ వరారోహా మమ భార్యా భవిష్యతి ॥
 
 **Image:** Pending creation.
 

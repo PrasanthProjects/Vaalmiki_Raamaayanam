@@ -60,7 +60,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** నైషా హి సా భవతి శ్లాఘనీయా ధీమతా ఉభయోర్లోకయోః | వీరపత్నీ యా సంప్రసాద్యతే ॥
+**Story:** న ఏషా హి సా స్త్రీ భవతి శ్లాఘనీయేన ధీమతా । ఉభయోః లోకయోః వీర పత్యా యా సంప్రసాద్యతే ॥
 
 **Image:** Pending creation.
 

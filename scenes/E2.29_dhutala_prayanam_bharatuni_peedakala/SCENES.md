@@ -98,7 +98,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** ఆర్యా చ ధర్మనిరతా ధర్మజ్ఞా ధర్మదర్శినీ | అరోగా చాపి కౌసల్యా మాతా రామస్య ధీమతః ॥
+**Story:** ఆర్యా చ ధర్మ నిరతా ధర్మజ్ఞా ధర్మ దర్శినీ । అరోగా చ అపి కౌసల్యా మాతా రామస్య ధీమతః ॥
 
 **Image:** Pending creation.
 
@@ -116,7 +116,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** ఆత్మకామా సదా చణ్డీ క్రోధనా ప్రాజ్ఞమానినీ | అరోగా చాపి కైకేయీ మాతా మే కిముదాచ హ ॥
+**Story:** ఆత్మ కామా సదా చణ్డీ క్రోధనా ప్రాజ్ఞ మానినీ । అరోగా చ అపి కైకేయీ మాతా మే కిం ఉవాచ హ ॥
 
 **Image:** Pending creation.
 

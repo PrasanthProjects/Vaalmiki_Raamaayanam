@@ -22,7 +22,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** ఆహ్వయే విశ్వకర్మాణమహం త్వష్టారమేవ చ | ఆతిథ్యం కర్తుమిచ్ఛామి తత్ర మే సంవిధీయతామ్ ॥
+**Story:** ఆహ్వయే విశ్వ కర్మాణం అహం త్వష్టారం ఏవ చ । ఆతిథ్యం కర్తుం ఇచ్ఛామి తత్ర మే సంవిధీయతాం ॥
 
 **Image:** Pending creation.
 
@@ -42,7 +42,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** ఆహ్వయే దేవగన్ధర్వాన్ విశ్వావసుహాహాహూహూన్ | తథైవాప్సరసో దేవీర్గన్ధర్వీశ్చాపి సర్వశః ॥
+**Story:** ఆహ్వయే దేవ గంధర్వాన్ విశ్వా వసు హహా హుహూన్ । తథైవ అప్సరసో దేవీర్ గంధర్వీః చ అపి సర్వశః ॥
 
 **Image:** Pending creation.
 
@@ -52,7 +52,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** ఇహ మే భగవాన్ సోమో విధత్తామన్నముత్తమమ్ | భక్ష్యం భోజ్యం చ చోష్యం చ లేహ్యం చ వివిధం బహు ॥
+**Story:** ఇహ మే భగవాన్ సోమో విధత్తాం అన్నం ఉత్తమం । భక్ష్యం భోజ్యం చ చోష్యం చ లేహ్యం చ వివిధం బహు ॥
 
 **Image:** Pending creation.
 
@@ -92,7 +92,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** తతో రాజాసనం దివ్యం వ్యజనం ఛత్రమేవ చ | భరతో మన్త్రిభిః సార్ధమభ్యవర్తత రాజవత్ ॥
+**Story:** తత్ర రాజ ఆసనం దివ్యం వ్యజనం ఛత్రం ఏవ చ । భరతో మంత్రిభిః సార్ధం అభ్యవర్తత రాజవత్ ॥
 
 **Image:** Pending creation.
 

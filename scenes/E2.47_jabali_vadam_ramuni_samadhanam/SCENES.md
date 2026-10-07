@@ -52,7 +52,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text.
 
-**Story:** సత్యం ఏవ ఈశ్వరో లోకే సత్యం పద్మా సమాశ్రితా | సత్య మూలాని సర్వాణి సత్యాన్ న అస్తి పరం పదం ॥
+**Story:** సత్యం ఏవ ఈశ్వరో లోకే సత్యం పద్మా సమాశ్రితా । సత్య మూలాని సర్వాణి సత్యాన్ న అస్తి పరం పదం ॥
 
 **Image:** Pending creation.
 

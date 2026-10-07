@@ -32,7 +32,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** అగ్నిం సంశమయత్వార్యః సీతా చ భజతాం గుహామ్ | సజ్యం కురుష్వ చాపం చ శరాంశ్చ కవచం తథా ॥
+**Story:** అగ్నిం సంశమయతు ఆర్యః సీతా చ భజతాం గుహాం । సజ్యం కురుష్వ చాపం చ శరాంశ్చ కవచం తథా ॥
 
 **Image:** Pending creation.
 
@@ -62,7 +62,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** ధర్మమర్థం చ కామం చ పృథివీం చాపి లక్ష్మణ | ఇచ్ఛామి భవతామర్థే ఏతత్ ప్రతిజానామి తే ॥
+**Story:** ధర్మమర్థం చ కామం చ పృథివీం చాపి లక్ష్మణ । ఇచ్ఛామి భవతామర్థే ఏతత్ ప్రతిశృణోమి తే ॥
 
 **Image:** Pending creation.
 
@@ -112,7 +112,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** తం తు కృష్ణాజినధరం చీరవల్కలవాససమ్ | దదర్శ రామమాసీనమభితః పావకోపమమ్ ॥
+**Story:** తం తు కృష్ణ అజిన ధరం చీర వల్కల వాససం । దదర్శ రామం ఆసీనం అభితః పావక ఉపమం ॥ సింహ స్కంధం మహా బాహుం పుణ్డరీక నిభ ఈక్షణం । పృథివ్యాః సగర అంతాయా భర్తారం ధర్మ చారిణం ॥
 
 **Image:** Pending creation.
 

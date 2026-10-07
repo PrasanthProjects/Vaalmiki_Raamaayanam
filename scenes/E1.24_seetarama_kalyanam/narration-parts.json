@@ -48,7 +48,16 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "\"జనక మహారాజు ఆ అగ్నిహోత్రము దగ్గర నిలబడ్డారు, రాముడు కూడా వచ్చి ఆ అగ్నిహోత్రము దగ్గర నిలుచుని ఉండగా సీతమ్మని తీసుకొచ్చారు.\"",
+    "text": "\"జనక మహారాజు ఆ అగ్నిహోత్రము దగ్గర నిలబడ్డారు, రాముడు కూడా వచ్చి ఆ అగ్నిహోత్రము దగ్గర నిలుచుని ఉండగా సీతమ్మని తీసుకొచ్చారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 2,
+    "id": "05.02",
+    "text": "అప్పుడు జనకుడు రాముడితో ఇలా అన్నాడు —\"",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -156,7 +165,16 @@
     "scene": 8,
     "part": 5,
     "id": "08.05",
-    "text": "ఆమె నిన్ను నీడలా అనుగమిస్తుంది.'\"",
+    "text": "ఆమె నిన్ను నీడలా అనుగమిస్తుంది.'",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 6,
+    "id": "08.06",
+    "text": "ఇదంతా పై శ్లోకం యొక్క రహస్యార్థం.\"",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null

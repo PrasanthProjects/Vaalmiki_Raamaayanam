@@ -42,7 +42,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over [Lakshmana]'s narrowed eyes on the deer.
 
-**Story:** శంకమానః తు తం దృష్ట్వా లక్ష్మణో రామం అబ్రవీత్ | తం ఏవ ఏనం అహం మన్యే మారీచం రాక్షసం మృగం ॥
+**Story:** శంకమానః తు తం దృష్ట్వా లక్ష్మణో రామం అబ్రవీత్ । తం ఏవ ఏనం అహం మన్యే మారీచం రాక్షసం మృగం ॥
 
 **Image:** Pending creation.
 

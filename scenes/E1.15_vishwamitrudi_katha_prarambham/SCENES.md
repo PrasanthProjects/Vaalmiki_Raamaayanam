@@ -66,7 +66,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text; [Shatananda Visual Lock] turning to a new subject — Vishwamitra's own extraordinary history. (Location register: Mithila, palace approach)
 
-**Story:** నాస్తి ధన్యతరో రామ త్వత్తో అన్యో భువి కశ్చన । గోప్తా కుశిక పుత్రః తే యేన తప్తం మహత్ తపః ॥
+**Story:** న అస్తి ధన్యతరో రామ త్వత్తో అన్యో భువి కశ్చన । గోప్తా కుశిక పుత్రః తే యేన తప్తం మహత్ తపః ॥
 
 **Image:** Pending creation.
 
@@ -168,7 +168,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** The entire army eating with astonishment and delight; [Young King Vishwamitra] watching, his expression shifting from wonder to a dawning, troubling desire. (Location register: Mythic inset)
 
-**Story:** "శబళ సృష్టించిన భోజనాన్ని సైనికులందరూ భుజించారు, అందరూ 'ఈ భోజనం ఎంత బాగుందో' అనుకున్నారు, 'మళ్ళీ మన జీవితంలో ఇలాంటి రుచికరమైన భోజనం ఎప్పుడు చేస్తామో' అని ఆవురావురుమని తిన్నారు. ఒక గోవు ఉత్తరక్షణంలో ఇంతమందికి సరిపడా భోజనాన్ని సృష్టించేసరికి విశ్వామిత్రుడు ఆశ్చర్యపోయాడు. ఆయనకి మెల్లగా ఆ శబళ మీద వ్యామోహం పెరిగింది, ఆ శబళని తన సొంతం చేసుకోవాలనిపించింది."
+**Story:** "శబళ సృష్టించిన భోజనాన్ని సైనికులందరూ భుజించారు, అందరూ 'ఈ భోజనం ఎంత బాగుందో' అనుకున్నారు, 'మళ్ళీ మన జీవితంలో ఇలాంటి రుచికరమైన భోజనం ఎప్పుడు చేస్తామో' అని ఆవురావురుమని తిన్నారు. ఒక గోవు ఉత్తరక్షణంలో ఇంతమందికి సరిపడా భోజనాన్ని సృష్టించేసరికి విశ్వామిత్రుడు ఆశ్చర్యపోయాడు. ఆయనకి మెల్లగా ఆ శబళ మీద వ్యామోహం పెరిగింది, ఆ శబళని తన సొంతం చేసుకోవాలనిపించింది. అప్పుడాయన ఆ వశిష్ఠ మహర్షితో —"
 
 **Image:** Pending creation.
 
@@ -178,7 +178,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text; [Young King Vishwamitra] making a direct offer. (Location register: Mythic inset)
 
-**Story:** గవాం శత సహస్రేణ దీయతాం శబలా మమ ॥
+**Story:** గవాం శత సహస్రేణ దీయతాం శబలా మమ ।
 
 **Image:** Pending creation.
 

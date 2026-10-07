@@ -82,7 +82,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen Sanskrit text overlay, gold serif over dark background, appearing word-by-word as spoken — the single most important visual beat in this episode: the birth of the first verse in history.
 
-**Story:** మా నిషాద ప్రతిష్ఠాం త్వమగమః శాశ్వతీః సమాః । యత్క్రౌంచమిథునాదేకమవధీః కామమోహితమ్ ॥
+**Story:** మా నిషాద ప్రతిష్ఠాం త్వ మగమః శాశ్వతీః సమాః । యత్ క్రౌంచమిథునాదేకమ్ అవధీః కామమోహితమ్ ॥
 
 **Image:** [scene-07-first-shloka-verse-background.png](../../assets/images/E1.02_krauncha_pakshulu/scene-07-first-shloka-verse-background.png)
 
@@ -144,7 +144,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** The same on-screen verse text from scene 7 reappears, but now with its double-meaning gloss appearing as a second, layered translation beneath it — visually showing the verse "transforming" in meaning.
 
-**Story:** "నిషాద" అంటే బోయవాడు అని ఒక అర్థం, అలాగే సమస్త లోకములు తనయందున్న నారాయణుడు అని ఒక అర్థం. "మా" అంటే లక్ష్మీదేవి. "మా నిషాద ప్రతిష్ఠాం త్వమగమః శాశ్వతీః సమాః" అంటే — లక్ష్మిని తనదిగా కలిగిన ఓ శ్రీనివాసుడా, నీ కీర్తి శాశ్వతముగా నిలబడుగాక.
+**Story:** "నిషాద" అంటే బోయవాడు అని ఒక అర్థం, అలాగే సమస్త లోకములు తనయందున్న నారాయణుడు అని ఒక అర్థం. "మా" అంటే లక్ష్మీదేవి. "మా నిషాద ప్రతిష్ఠాం త్వ మగమః శాశ్వతీః సమాః" అంటే — లక్ష్మిని తనదిగా కలిగిన ఓ శ్రీనివాసుడా, నీ కీర్తి శాశ్వతముగా నిలబడుగాక.
 
 **Image:** [scene-13-double-meaning-verse-background.png](../../assets/images/E1.02_krauncha_pakshulu/scene-13-double-meaning-verse-background.png)
 
@@ -156,7 +156,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** A brief, deliberately shadowed/foreshadowing visual: [use Ravana and Mandodari Visual Locks] in silhouette only, not yet detailed — this is their first-ever mention in the story proper, keep it a hint rather than a full reveal.
 
-**Story:** "యత్క్రౌంచమిథునాదేకమవధీః కామమోహితమ్" — కామము చేత పీడింపబడి, బ్రహ్మగారు ఇచ్చిన వరముల చేత అహంకారము పొంది, కామమే జీవితంగా జీవిస్తున్న రాక్షసుల జంట అయిన రావణ-మండోదరులలో, రావణుడు అనే క్రౌంచ పక్షిని నీ బాణంతో కొట్టి చంపిన ఓ రామ, నీకు మంగళం జరుగుగాక — అని ఆ శ్లోక అర్థం మారింది.
+**Story:** "యత్ క్రౌంచమిథునాదేకమ్ అవధీః కామమోహితమ్" — కామము చేత పీడింపబడి, బ్రహ్మగారు ఇచ్చిన వరముల చేత అహంకారము పొంది, కామమే జీవితంగా జీవిస్తున్న రాక్షసుల జంట అయిన రావణ-మండోదరులలో, రావణుడు అనే క్రౌంచ పక్షిని నీ బాణంతో కొట్టి చంపిన ఓ రామ, నీకు మంగళం జరుగుగాక — అని ఆ శ్లోక అర్థం మారింది.
 
 **Image:** [scene-14-ravana-mandodari-foreshadow.png](../../assets/images/E1.02_krauncha_pakshulu/scene-14-ravana-mandodari-foreshadow.png)
 
@@ -176,15 +176,13 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — Valmiki's own reflection on having spoken the verse involuntarily. Shorter/quieter than the main verse — treat vocally as an internal, almost whispered continuation rather than a proclamation.
 
-## 16 — Ashram End Card
+## 16 — Scene 16
 
 **Visual:** [Brahma Visual Lock] in the ashram hut, raising his hand in blessing over the kneeling [Valmiki Visual Lock]; soft golden light, Sarasvati's presence suggested only by a faint shimmer and the sound of a veena. Divine revelation treatment (Style Guide).
 
 **Story:** బ్రహ్మగారు అన్నారు, "నా శక్తి అయిన సరస్వతి అనుగ్రహం చేత నువ్వు ఈ రోజు రామాయణాన్ని పలికావు. నాయనా, నేను నీకు వరం ఇస్తున్నాను — నువ్వు కూర్చొని రామాయణము రాద్దామని మొదలుపెడితే, రాముడు, లక్ష్మణుడు, సీతమ్మ, రాక్షసులు మొదలైన వారు మాట్లాడినదే కాదు, వాళ్ల మనస్సులో అనుకున్న విషయాలు కూడా తెలుస్తాయి. ఈ భూమి మీద నదులు, పర్వతాలు ఎంత కాలం ఉంటాయో అంత కాలం రామాయణము ఉంటుంది. ఇందులో ఒక్క మాట అబద్ధం కాని, కల్పితం కాని ఉండదు. నువ్వు ఇక రామాయణము రాయడం మొదలుపెట్టు" అని వరం ఇచ్చి వెళ్ళిపోయారు.
 
-**Image:** [scene-16-ashram-end-card.png](../../assets/images/E1.02_krauncha_pakshulu/scene-16-ashram-end-card.png)
-
-![Ashram End Card](../../assets/images/E1.02_krauncha_pakshulu/scene-16-ashram-end-card.png)
+**Image:** Pending creation.
 
 **Source note:** **Added in the review pass:** p. 17 had been left unscripted ("decision pending" in this episode's earlier end-card note); it is now scripted here from `pages_9-17_VERIFIED.txt`. Brahma's boon: "as long as rivers and mountains last, the Ramayana will last."
 
@@ -218,12 +216,14 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Leads directly into E1.03, which opens with Dasharatha's ministers.
 
-## 20 — Scene 20
+## 20 — Ashram End Card
 
 **Visual:** End card.
 
 **Story:** తర్వాత చూద్దాం — దశరథ మహారాజు పరిపాలన, ఆయన మంత్రులు.
 
-**Image:** Pending creation.
+**Image:** [scene-20-ashram-end-card.png](../../assets/images/E1.02_krauncha_pakshulu/scene-20-ashram-end-card.png)
+
+![Ashram End Card](../../assets/images/E1.02_krauncha_pakshulu/scene-20-ashram-end-card.png)
 
 **Source note:** Bridge line. p. 18 (the next page) is an illustration page captioned "కోశల రాజ్యము" — fold it into the opening of E1.03.

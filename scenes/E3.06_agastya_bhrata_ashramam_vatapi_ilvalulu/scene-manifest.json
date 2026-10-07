@@ -54,7 +54,7 @@
     "scene": 6,
     "part_id": "6",
     "visual_description": "On-screen shloka text over [Agastya], smiling, and a baffled [Ilvala].",
-    "story_text": "కుతో నిష్క్రమితుం శక్తిర్ మయా జీర్ణస్య రక్షసః | భ్రాతుః తే మేష రూపస్య గతస్య యమ సాదనం ॥",
+    "story_text": "కుతో నిష్క్రమితుం శక్తిర్ మయా జీర్ణస్య రక్షసః । భ్రాతుః తే మేష రూపస్య గతస్య యమ సాదనం ॥",
     "source_notes": "🔴 VERSE — flagged for the manual audit (the corrected extraction has an unreadable glyph in \"నిష్క్రమితుం\"; OCR supports it): \"Where is the strength to come out, for a rakshasa I have digested — your brother in the form of a ram, now gone to Yama's abode?\"",
     "image": null,
     "status": "image_pending"

@@ -72,7 +72,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** హన్యామహమిమాం పాపాం కైకేయీం దుష్టచారిణీమ్ | యది మాం ధార్మికో రామో నాసూయేన్మాతృఘాతకమ్ ॥
+**Story:** హన్యాం అహం ఇమాం పాపాం కైకేయీం దుష్ట చారిణీం । యది మాం ధార్మికో రామః న అసూయేన్ మాతృ ఘాతకం ॥
 
 **Image:** Pending creation.
 
@@ -92,7 +92,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** భరతస్య వచః శ్రుత్వా శత్రుఘ్నో లక్ష్మణానుజః | న్యవర్తత తతో రోషాత్ తాం ముమోచ చ మంథరామ్ ॥
+**Story:** భరతస్య వచః శ్రుత్వా శత్రుఘ్నః లక్ష్మణ అనుజః । న్యవర్తత తతః రోషాత్ తాం ముమోచ చ మంథరాం ॥
 
 **Image:** Pending creation.
 

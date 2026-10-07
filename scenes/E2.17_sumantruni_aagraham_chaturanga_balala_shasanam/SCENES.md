@@ -42,7 +42,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** [Sumantra Visual Lock] unable to contain himself any longer — erupting in open fury at Kaikeyi, first praising Dasharatha's immovable, ocean-deep composure, then recounting, with bitter sarcasm, an old folk story about Kaikeyi's own mother to explain her cruelty as an inherited trait.
 
-**Story:** ఇది గమనించిన సుమంత్రుడు ఆగ్రహంతో "ఛీ, దుష్టురాలా, మహా పాపి! పర్వతములను ఎలా కదపలేమో అటువంటి ధీరుడు మహారాజు, సముద్రము ఏ విధంగా క్షోభింపబడదో అటువంటి గాంభీర్యము కలవాడు మహారాజు, అటువంటి మహారాజు నిన్న నుండి ఏడుస్తున్నాడు, నిన్ను బతిమాలుతున్నాడు, ఇన్ని చేసినా నీ మనసు కరగలేదు. నిన్ను చూస్తుంటే నాకు ఒక విషయం గుర్తుకు వస్తుంది, అది ఏమిటంటే ఆడపిల్ల 90% తల్లినే పోలి ఉంటుంది, మరి నీకు తల్లి పోలిక రాక ఇంకెవరి పోలిక వస్తుంది, తల్లిగురించి మాకు తెలుసు" అని అన్నాడు.
+**Story:** ఇది గమనించిన సుమంత్రుడు ఆగ్రహంతో "ఛీ, దుష్టురాలా, మహా పాపి! పర్వతములను ఎలా కదపలేమో అటువంటి ధీరుడు మహారాజు, సముద్రము ఏ విధంగా క్షోభింపబడదో అటువంటి గాంభీర్యము కలవాడు మహారాజు, అటువంటి మహారాజు నిన్న నుండి ఏడుస్తున్నాడు, నిన్ను బతిమాలుతున్నాడు, ఇన్ని చేసినా నీ మనసు కరగలేదు. నిన్ను చూస్తుంటే నాకు ఒక విషయం గుర్తుకు వస్తుంది, అది ఏమిటంటే ఆడపిల్ల 90% తల్లినే పోలి ఉంటుంది, మరి నీకు తల్లి పోలిక రాక ఇంకెవరి పోలిక వస్తుంది, తల్లిగురించి మాకు తెలుసు, నీ తండ్రిగారికి సర్వప్రాణుల మనస్సులలోని విషయాలని, వాటి భాషనీ అర్థం చేసుకునే విద్య తెలుసు" అని అన్నాడు.
 
 **Image:** Pending creation.
 
@@ -62,7 +62,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** [Dasharatha Visual Lock] moving past his own grief into decisive royal action — declaring Kaikeyi beyond persuasion, and ordering Sumantra to assemble a full royal escort (hundreds of chariots, the fourfold army, elephants, musicians, dancers, cooks, wealth, silks, tents, soldiers) to accompany Rama's exile in full comfort and protection.
 
-**Story:** అప్పుడు దశరథుడు "ఆ కైకేయకి ఎన్ని చెప్పినా ప్రయోజనం ఉండదు సుమంత్రా, మీరు కొన్ని వందల రథాలని, చతురంగ బలాలని, ఏనుగుల్ని, గాయకులని, నాట్య బృందాలని సిద్ధం చెయ్యండి, రాముడు ఎక్కడ విడిది చేస్తే అక్కడ మధురాన్నం వండగలిగే వంటగాళ్ళని సిద్ధం చెయ్యండి, 14 సంవత్సరములు రాముడు హాయిగా గడిపి రావడానికి కావలసిన ధనరాశులని పంపండి, పట్టుచీరలు పంపండి, రాముడు విడిది చేయుటకు డేరాలు పంపండి, ఆయనని రక్షించడానికి సైన్యాన్ని పంపండి, ఇవన్నీ రాముడు 14 సంవత్సరములు ఎక్కడికి వెళితే అక్కడికి వెళ్ళాలి అని శాసనం చేస్తున్నాను" అన్నాడు.
+**Story:** అప్పుడు దశరథుడు "ఆ కైకేయకి ఎన్ని చెప్పినా ప్రయోజనం ఉండదు సుమంత్రా, మీరు కొన్ని వందల రథాలని, చతురంగ బలాలని, ఏనుగుల్ని, గాయకులని, నాట్య బృందాలని సిద్ధం చెయ్యండి, రాముడు ఎక్కడ విడిది చేస్తే అక్కడ మధురాన్నం వండగలిగే వంటగాళ్ళని సిద్ధం చెయ్యండి, 14 సంవత్సరములు రాముడు హాయిగా గడిపి రావడానికి కావలసిన ధనరాశులని పంపండి, పట్టుచీరలు పంపండి, రాముడు విడిది చేయుటకు డేరాలు పంపండి, ఆయనని రక్షించడానికి సైన్యాన్ని పంపండి, ఇవన్నీ రాముడు 14 సంవత్సరములు ఎక్కడికి వెళితే అక్కడికి వెళ్ళాలి అని శాసనం చేస్తున్నాను" అన్నాడు. ఈ మాటలు విన్న కైకేయ ఇలా అని పలికింది.
 
 **Image:** Pending creation.
 
@@ -72,11 +72,11 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** రాజ్యాద్గతజనం సాధో పీతమద్యామివ నిరాస్వాద్యతమం శూన్యం భరతో నాభిపత్స్యతే ॥
+**Story:** రాజ్యం గత జనం సాధో పీత మణ్డాం సురాం ఇవ । నిరాస్వాద్యతమం శూన్యం భరతః న అభిపత్స్యతే ॥
 
 **Image:** Pending creation.
 
-**Source note:** 🔴 VERSE — Kaikeyi's bitter objection: citing King Sagara's own precedent of exiling his son Asamanjasa with nothing but the clothes on his back, she compares Dasharatha's lavish escort to draining all the flavor from wine and leaving Bharata only the tasteless dregs.
+**Source note:** 🔴 VERSE — Kaikeyi's bitter objection: citing King Sagara's own precedent of exiling his son Asamanjasa with nothing but the clothes on his back, she compares Dasharatha's lavish escort to draining all the flavor from wine and leaving Bharata only the tasteless dregs. Verse text corrected in the source re-check to match p. 148 (the earlier line had dropped "సురామివ").
 
 ## 8 — Scene 08
 

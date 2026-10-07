@@ -62,7 +62,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over [Shurpanakha], drawing herself up proudly.
 
-**Story:** అహం శూర్పణఖా నామ రాక్షసీ కామరూపిణీ | అరణ్యం విచరామి ఇదం ఏకా సర్వ భయంకరా ॥ రావణో నామ మే భ్రాతా యది తే శ్రోత్రం ఆగతః | వీరో విశ్రవసః పుత్రో యది తే శ్రోత్రం ఆగతః ॥
+**Story:** అహం శూర్పణఖా నామ రాక్షసీ కామరూపిణీ । అరణ్యం విచరామి ఇదం ఏకా సర్వ భయంకరా ॥ రావణో నామ మే భ్రాతా యది తే శ్రోత్రం ఆగతః । వీరో విశ్రవసః పుత్రో యది తే శ్రోత్రం ఆగతః ॥
 
 **Image:** Pending creation.
 

@@ -22,7 +22,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** యే త్వయా కీర్తితా దోషా వనే వస్తవ్యతాం ప్రతి | గుణానితేవ తాన్విద్ధి తవ స్నేహపురఃకృతాన్ ॥
+**Story:** యే త్వయా కీర్తితా దోషా వనే వస్తవ్యతాం ప్రతి । గుణాన్ ఇతి ఏవ తాన్ విద్ధి తవ స్నేహ పురః కృతాన్ ॥
 
 **Image:** Pending creation.
 

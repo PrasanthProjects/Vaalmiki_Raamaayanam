@@ -166,7 +166,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text. (Location register: Dense forest)
 
-**Story:** పితుర్ వచన నిర్దేశాత్ పితుర్ వచన గౌరవాత్ । వచనం కౌశికస్య ఇహ కర్తవ్యం అవిశఙ్కయా । బ్రాహ్మణ హితార్థాయ దేశస్య చ హితాయ చ । తవ చైవ అప్రమేయస్య వచనం కర్తుం ఉద్యతః ॥
+**Story:** పితుర్ వచన నిర్దేశాత్ పితుర్ వచన గౌరవాత్ । వచనం కౌశికస్య ఇతి కర్తవ్యం అవిశఙ్కయా ॥ గో బ్రాహ్మణ హితార్థాయ దేశస్య చ హితాయ చ । తవ చైవ అప్రమేయస్య వచనం కర్తుం ఉద్యతః ॥
 
 **Image:** Pending creation.
 

@@ -80,7 +80,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** రామః పూర్వో హి నో భ్రాతా భవిష్యతి మహీపతిః | అహం తు అరణ్యే వత్స్యామి వర్షాణి నవ పఞ్చ చ ॥
+**Story:** రామః పూర్వో హి నో భ్రాతా భవిష్యతి మహీ పతిః । అహం తు అరణ్యే వత్స్యామి వర్షాణి నవ పంచ చ ॥
 
 **Image:** Pending creation.
 

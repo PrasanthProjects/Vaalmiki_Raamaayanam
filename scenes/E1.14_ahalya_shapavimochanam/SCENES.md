@@ -78,7 +78,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** [Ahalya Visual Lock] immediately urging Indra to leave quickly, fearful of Gautama's return — the encounter's aftermath is anxious, not triumphant. (Location register: Mythic inset, urgent)
 
-**Story:** "అహల్య ఇంద్రుడితో ఇలా పలికింది — 'నేను సంగమించి చాలా ఆనందం పొందాను, కృతార్థురాలినయ్యాను, నువ్వు ఇక్కడినుండి వేగంగా వెళ్ళిపో, నిన్ను నువ్వు గౌతముడి నుండి రక్షించుకో' అని చెప్పింది. అప్పుడు ఇంద్రుడు ఒక నవ్వు నవ్వి, 'నేను చాలా ఆనందంపొందాను' అని చెప్పి ఆశ్రమం బయటకి రాగానే —"
+**Story:** "అహల్య ఇంద్రుడితో ఇలా పలికింది — 'నేను సంగమించి చాలా ఆనందం పొందాను, కృతార్థురాలినయ్యాను, నువ్వు ఇక్కడినుండి వేగంగా వెళ్ళిపో, నిన్ను నువ్వు గౌతముడి నుండి రక్షించుకో' అని చెప్పింది. అప్పుడు ఇంద్రుడు ఒక నవ్వు నవ్వి, 'నేను చాలా ఆనందంపొందాను, ఎలా వచ్చానో అలానే వెళ్ళిపోతాను' అని చెప్పి ఆశ్రమం బయటకి రాగానే —"
 
 **Image:** Pending creation.
 
@@ -112,7 +112,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text, the curse taking immediate effect. (Location register: Mythic inset)
 
-**Story:** పేతతుః వృషణౌ భూమౌ సహస్రాక్షస్య తత్ క్షణాత్ ॥
+**Story:** పేతతుః వృషణౌ భూమౌ సహస్రాక్షస్య తత్ క్షణాత్ ।
 
 **Image:** Pending creation.
 

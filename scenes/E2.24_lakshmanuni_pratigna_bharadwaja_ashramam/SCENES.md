@@ -32,7 +32,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** న చ సీతా త్వయా హీనా న చాహమపి రాఘవ | ముహూర్తమపి జీవావో జలాన్మత్స్యావివోద్ధృతౌ ॥
+**Story:** న చ సీతా త్వయా హీనా న చ అహం అపి రాఘవ । ముహూర్తం అపి జీవావో జలాన్ మత్స్యావ్ ఇవ ఉద్ధృతౌ ॥
 
 **Image:** Pending creation.
 

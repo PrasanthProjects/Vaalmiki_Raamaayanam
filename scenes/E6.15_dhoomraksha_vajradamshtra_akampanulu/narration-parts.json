@@ -1,0 +1,353 @@
+[
+  {
+    "scene": 1,
+    "part": 1,
+    "id": "01.01",
+    "text": "గత భాగంలో గరుత్మంతుడి రాకతో రామలక్ష్మణులు నాగాస్త్ర బంధనం నుండి విముక్తులయ్యారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 1,
+    "part": 2,
+    "id": "01.02",
+    "text": "ఆ వార్త విన్న రావణుడు ఆగ్రహంతో ఊగిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 1,
+    "id": "02.01",
+    "text": "అప్పుడు రావణుడు ధూమ్రాక్షుడు అనే రాక్షసుడిని పిలిచి \"నువ్వు వెంటనే వెళ్ళి రాముడిని, లక్ష్మణుడిని, సుగ్రీవుడిని సంహరించి తిరిగిరా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 2,
+    "id": "02.02",
+    "text": "నీకన్నా బంధువు నాకు లేడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 3,
+    "id": "02.03",
+    "text": "నువ్వు అపారమైన శౌర్యం ఉన్నవాడివి, నీకు కావలసినంత సైన్యాన్ని తీసుకుని వెళ్ళు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 4,
+    "id": "02.04",
+    "text": "అప్పుడా ధూమ్రాక్షుడు పశ్చిమ ద్వారంగుండా బయటకి వెళ్ళాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 5,
+    "id": "02.05",
+    "text": "ఆయన అలా బయటకి వెళ్ళగానే ఆకాశం నుండి ఒక మేఘం వచ్చి రక్తాన్ని వర్షించింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 6,
+    "id": "02.06",
+    "text": "ఆకాశంలో తిరుగుతున్న ఒక గ్రద్ద వాడి రథం మీద వాలింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 7,
+    "id": "02.07",
+    "text": "రక్తంతో తడిసిపోయిన ఒక తెల్లటి మొండెం సూర్యమండలంలో నుండి వాడి రథం ముందు పడింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 8,
+    "id": "02.08",
+    "text": "ఇన్ని అపశకునములు కనపడినా ఆ ధూమ్రాక్షుడు యుద్ధానికి వెళ్ళాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 1,
+    "id": "03.01",
+    "text": "ఆ ధూమ్రాక్షుడు తన యొక్క బాణములతో వానరులని కొట్టి వాళ్ళ శరీరాలని చీల్చేస్తున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 2,
+    "id": "03.02",
+    "text": "అప్పుడు హనుమంతుడు ఒక పెద్ద శిలని పెకలించి పరుగు పరుగున వచ్చి దానిని ధూమ్రాక్షుడి మీదకి విసిరాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 3,
+    "id": "03.03",
+    "text": "హనుమ వేసిన శిలని గమనించిన ధూమ్రాక్షుడు ఆ రథం నుండి బయటకి దూకేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 4,
+    "id": "03.04",
+    "text": "ఆ రథం తుత్తునియలు అయిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 5,
+    "id": "03.05",
+    "text": "తరువాత ఆ ధూమ్రాక్షుడు కొన్ని బాణములతో హనుమంతుడిని కొట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 6,
+    "id": "03.06",
+    "text": "వెంటనే హనుమంతుడు ఒక పర్వత శిఖరాన్ని పీకి ఆ ధూమ్రాక్షుడి మీద వేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 7,
+    "id": "03.07",
+    "text": "నజ్జునజ్జయిపోయి ఆ ధూమ్రాక్షుడు మరణించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 1,
+    "id": "04.01",
+    "text": "తరువాత రావణుడు వజ్రదంష్ట్రుడు అనే రాక్షసుడిని యుద్ధానికి పంపాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 2,
+    "id": "04.02",
+    "text": "అప్పుడాయన సైన్యంతో కలిసి దక్షిణ ద్వారంగుండా బయటకి వచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 3,
+    "id": "04.03",
+    "text": "ఆ వజ్రదంష్ట్రుడు బయటకి రాగానే అరణ్యంలో ఉన్న నక్కలు అరిచాయి, అన్ని మృగాలు ఏడిచాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 4,
+    "id": "04.04",
+    "text": "ఆ వజ్రదంష్ట్రుడు ఒకేసారి 7-8 బాణములని ప్రయోగించేవాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 5,
+    "id": "04.05",
+    "text": "అన్ని వైపులకి బాణములని ప్రయోగం చేసి వానరములని కొట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 6,
+    "id": "04.06",
+    "text": "ఇక వీడిని ఉపేక్షించకూడదని అంగదుడు భావించి, ఒక పెద్ద వృక్షాన్ని పట్టుకొచ్చి వజ్రదంష్ట్రుడిని కొట్టబోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 7,
+    "id": "04.07",
+    "text": "కాని ఆ వృక్షాన్ని తన బాణముల చేత వజ్రదంష్ట్రుడు నరికేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 8,
+    "id": "04.08",
+    "text": "తరువాత అంగదుడు ఒక పెద్ద పర్వతాన్ని పట్టుకొచ్చి దానిని విసిరేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 9,
+    "id": "04.09",
+    "text": "ఆ దెబ్బకి వజ్రదంష్ట్రుడి రథం ముక్కలయిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 10,
+    "id": "04.10",
+    "text": "మళ్ళి అంగదుడు ఒక పర్వత శిఖరాన్ని పట్టుకొచ్చి విసిరేసరికి దాని కిందపడి వజ్రదంష్ట్రుడు మరణించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 1,
+    "id": "05.01",
+    "text": "ఈసారి రావణుడు అకంపనుడు అనే రాక్షసుడిని పంపాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 2,
+    "id": "05.02",
+    "text": "ఆ అకంపనుడు యుద్ధానికి వస్తుండగా ఆయన ఎడమ కన్ను అదిరింది, అకారణంగా వాడి కంఠం బొంగురుపోయింది, పక్షులు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 3,
+    "id": "05.03",
+    "text": "మృగాలు ఆయన చుట్టూ తిరుగుతూ దీనంగా ఏడుస్తున్నాయి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 4,
+    "id": "05.04",
+    "text": "ఎత్తుపల్లాలు లేని మార్గంలో వెళుతున్న గుర్రాలు తొట్రుపడి మోకాళ్ళ మీద కిందపడి పైకి లేచాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 5,
+    "id": "05.05",
+    "text": "ఈ అకంపనుడు కూడా పశ్చిమ ద్వారంగుండానే బయటకి వెళ్ళాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 6,
+    "id": "05.06",
+    "text": "ఆయన కొంతసేపు భయంకరమైన యుద్ధం చేసి వానరాలని కొట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 7,
+    "id": "05.07",
+    "text": "తరువాత హనుమంతుడు ఆయన మీదకి ఒక పర్వతాన్ని విసరగా దానిని ముక్కలు చేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 8,
+    "id": "05.08",
+    "text": "తరువాత హనుమంతుడు వేసిన ఒక పెద్ద చెట్టుని 14 బాణములతో కొట్టి బద్దలుచేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 9,
+    "id": "05.09",
+    "text": "ఆ తరువాత హనుమంతుడు ఇంకొక పెద్ద చెట్టుని పట్టుకుని పరిగెత్తుకుంటూ వస్తూ దారిలో ఉన్న రాక్షసులని కొట్టుకుంటూ,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 10,
+    "id": "05.10",
+    "text": "ఏనుగుల్ని ఎడమ చేతితో విసిరేస్తూ మహా రౌద్రరూపంతో ఆ చెట్టును పట్టుకెళ్ళి అకంపనుడిని కొట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 11,
+    "id": "05.11",
+    "text": "ఆ దెబ్బకి వాడు పచ్చడై చనిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 1,
+    "id": "06.01",
+    "text": "తర్వాత చూద్దాం — సర్వసైన్యాధికారి ప్రహస్తుడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  }
+]

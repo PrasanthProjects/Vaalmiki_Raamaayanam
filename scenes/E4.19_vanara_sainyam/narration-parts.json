@@ -1,0 +1,443 @@
+[
+  {
+    "scene": 1,
+    "part": 1,
+    "id": "01.01",
+    "text": "గత భాగంలో లక్ష్మణుడు, సుగ్రీవుడు ఒకరినొకరు క్షమాపణ అడిగారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 1,
+    "part": 2,
+    "id": "01.02",
+    "text": "ఇప్పుడు వానర సైన్యం ఎలా కూడిందో చూద్దాం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 1,
+    "id": "02.01",
+    "text": "తరువాత సుగ్రీవుడు హనుమంతుడిని పిలిచి \"ఈ భూమండలంలో ఎక్కడెక్కడ ఉన్న వానరాలు ఇక్కడికి రావాలని చెప్పాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 2,
+    "id": "02.02",
+    "text": "వాళ్ళని కేవలం 10 రోజులలో రమ్మని చెప్పండి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 3,
+    "id": "02.03",
+    "text": "మలయ, హిమాలయ, మహేంద్ర, వింధ్య మొదలైన పర్వతాల మీద ఉన్నవాళ్లు ఇక్కడికి వచ్చెయ్యాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 4,
+    "id": "02.04",
+    "text": "కాటుక రంగులో ఉన్నవారు, బంగారు రంగులో ఉన్నవారు, వెయ్యి ఏనుగుల బలం కలిగినవారు, పది ఏనుగుల బలం కలిగినవారు, నీటిమీద నడిచేవారు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 2,
+    "part": 5,
+    "id": "02.05",
+    "text": "నీళ్ళల్లో ఉండేవారు, పర్వతాల మీద ఉండేవారు, చెట్ల మీద ఉండేవారు మొదలైన వానరాలన్నిటికి కబురు చెయ్యండి\" అని చెప్పాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 1,
+    "id": "03.01",
+    "text": "సుగ్రీవుడి ఆజ్ఞ ప్రకారం మంత్రులు మొదలైనవారు వానరాలని తీసుకురావడానికి వెళ్ళారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 2,
+    "id": "03.02",
+    "text": "అలా వెళ్ళినవారు అన్ని ప్రాంతాలలోని వానరాలని కూడగట్టుకొని కిష్కిందకి పయనమయ్యారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 3,
+    "id": "03.03",
+    "text": "తరువాత సుగ్రీవుడు పల్లకిలో తనతోపాటు లక్ష్మణుడిని ఎక్కించుకొని ప్రస్రవణ పర్వతానికి చేరుకున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 4,
+    "id": "03.04",
+    "text": "ఇంతకాలానికి ప్రభువు బయటకి వచ్చాడని అక్కడున్న వానరాలు కూడా బయటకి వచ్చాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 1,
+    "id": "04.01",
+    "text": "అప్పుడాయన రాముడి దగ్గరికి వెళ్ళి, తన శిరస్సు రాముడి పాదాలకి తగిలేటట్టు పాదాభివందనం చేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 2,
+    "id": "04.02",
+    "text": "అప్పుడు రాముడు సుగ్రీవుడిని కౌగలించుకొని \"ధర్మము, అర్థము, కామము వీటికోసం కాలాన్ని విడదీసుకోవడంలోనే ఎవరిదైనా ప్రాజ్ఞత ఉందయ్యా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 3,
+    "id": "04.03",
+    "text": "కేవలం కామమునందే జీవితాన్ని నిక్షిప్తం చేసుకున్నవాడు, చెట్టు చివ్వరి కొమ్మమీద నిద్రపోతున్నవాడితో సమానం\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 1,
+    "id": "05.01",
+    "text": "అప్పుడు సుగ్రీవుడు \"రామ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 2,
+    "id": "05.02",
+    "text": "నువ్వు ఇచ్చినదే ఈ రాజ్యం, ఈ భార్య, కాని నేను కృతఘ్నుడను కానయ్యా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 3,
+    "id": "05.03",
+    "text": "కొన్ని కోట్ల వానరాలు, భల్లూకాలు మొదలైనవి వచ్చేస్తున్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 4,
+    "id": "05.04",
+    "text": "వీటన్నిటితో ఏ కార్యము చెయ్యాలో నన్ను శాసించు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 1,
+    "id": "06.01",
+    "text": "రాముడన్నాడు \"నీవంటి మిత్రుడు దొరకడం నా అదృష్టం సుగ్రీవ.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 2,
+    "id": "06.02",
+    "text": "సీత ఈ భూమండలం మీద ఎక్కడ ఉంది?",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 3,
+    "id": "06.03",
+    "text": "ప్రాణములతో ఉన్నదా, ప్రాణములు తీయబడినదా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 4,
+    "id": "06.04",
+    "text": "అసలు ఏ పరిస్థితులలో ఉన్నదో అన్న జాడ ముందు కనిపెట్టాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 5,
+    "id": "06.05",
+    "text": "అందుకోసం వానరాలని అన్నిదిక్కులకి పంపించి అన్వేషణ జరిగేటట్టు చూడు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 1,
+    "id": "07.01",
+    "text": "ఇంతలో అక్కడికి కోట్ల కోట్ల వానరములు వచ్చాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 2,
+    "id": "07.02",
+    "text": "అవి రావడం వలన ఆ ప్రాంతమంతా దుమ్ము, ధూళితో నిండిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 3,
+    "id": "07.03",
+    "text": "అంతా గోలగోలగా ఉంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 4,
+    "id": "07.04",
+    "text": "ఒకరితో ఒకరు మాట్లాడుకుంటున్నారు, కొంతమంది నమస్కారాలు చేస్తున్నారు, కొంతమంది చెట్లమీద ఉన్నారు, కొంతమంది నీళల్లో ఉన్నారు, కొంతమంది పర్వతాలమీద ఉన్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 5,
+    "id": "07.05",
+    "text": "అప్పుడు వానర రాజైన సుగ్రీవుడు అందరినీ సరిగ్గా నిలబడమన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 6,
+    "id": "07.06",
+    "text": "అప్పుడా వానరాలు తమని ఎవరెవరు తీసుకొచ్చారో వాళ్ళ దగ్గరికి వెళ్ళి నిలబడ్డాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 1,
+    "id": "08.01",
+    "text": "\"ఎవరు ఎంతమందిని తెచ్చారో నాకు చెప్పండి\" అని సుగ్రీవుడు ఆదేశించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 2,
+    "id": "08.02",
+    "text": "అప్పుడు వారు అన్నారు \" సూర్యాస్తమయ పర్వతం నుండి 10 కోట్ల వానరాలు వచ్చాయి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 3,
+    "id": "08.03",
+    "text": "శతబలి అనే వానరుడు 10 వేల కోట్ల వానరములతో వచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 4,
+    "id": "08.04",
+    "text": "సుషేణుడు లెక్కపెట్టలేనన్ని వానరాలతో వచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 5,
+    "id": "08.05",
+    "text": "రుమ తండ్రి కొన్ని వేల కోట్ల వానరాలతో వచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 6,
+    "id": "08.06",
+    "text": "హనుమంతుడి తండ్రి అయిన కేసరి కొన్ని వేల కోట్ల వానరములతో వచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 7,
+    "id": "08.07",
+    "text": "గవాక్షుడు 1000 కోట్ల కొండముచ్చులతో వచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 1,
+    "id": "09.01",
+    "text": "ధూమ్రుడు 2000 కోట్ల భల్లూకములతో వచ్చాడు, పనసుడు 3 కోట్ల వానరాలతో వచ్చాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "నీలుడు 10 కోట్ల నల్లటి దేహం కలిగిన వానరాలతో వచ్చాడు, గవయుడు 5 కోట్ల వానరాలతో వచ్చాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 3,
+    "id": "09.03",
+    "text": "దరీముఖుడు 1000 కోట్ల వానరాలతో వచ్చాడు, మైంద-ద్వివిదులు అశ్విని దేవతల్లా 1000 కోట్ల వానరాలని తెచ్చారు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 4,
+    "id": "09.04",
+    "text": "గజుడు 3 కోట్ల వానరాలని తెచ్చాడు, జాంబవంతుడు 10 కోట్ల భల్లూకాలని తెచ్చాడు, రుమణుడు 100 కోట్ల వానరాలని తెచ్చాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 5,
+    "id": "09.05",
+    "text": "గంధమాదనుడు 10 వేల కోట్ల వానరములతో వచ్చాడు, ఆయన వెనకాల లక్ష కోట్ల వానరాలు వస్తున్నాయి, అంగదుడు 1000 పద్మ వానరాలని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 6,
+    "id": "09.06",
+    "text": "100 శంకు వానరాలని తీసుకొచ్చాడు, తారుడు 5 కోట్ల వానరాలని తీసుకొచ్చాడు, ఇంద్రజానువు 11 కోట్ల వానరాలని తెచ్చాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 7,
+    "id": "09.07",
+    "text": "రంభుడు 1100 ఆయుత వానరాలని తెచ్చాడు, దుర్ముఖుడు 2 కోట్ల వానరాలని తెచ్చాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 8,
+    "id": "09.08",
+    "text": "హనుమంతుడు కైలాశ శిఖరాల్లా ఎత్తుగావున్న 1000 కోట్ల వానరాలని తెచ్చాడు, నలుడు 100 కోట్ల 1000 మంది 100 వానరాలతో వచ్చాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 9,
+    "id": "09.09",
+    "text": "దధిముఖుడు 10 కోట్ల వానరాలతో వచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "10,000 కోట్లయితే ఒక ఆయుతం, లక్ష కోట్లయితే ఒక సంకువు, 1000 సంకువులయితే ఒక అద్భుదం, 10 అద్భుదములయితే ఒక మధ్యం,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "10 మధ్యములయితే ఒక అంత్యం, 20 అంత్యములయితే ఒక సముద్రం, 30 సముద్రములయితే ఒక పరార్థం,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 3,
+    "id": "10.03",
+    "text": "అలాంటి పరార్థాలు కొన్ని వేలు ఉన్నాయి ఇక్కడ\" అని అన్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "తర్వాత చూద్దాం — సీతమ్మ కోసం నాలుగు దిక్కులకి వానరాలు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  }
+]

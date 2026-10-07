@@ -82,7 +82,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** రామస్య వచనం శ్రుత్వా భరతః ప్రత్యువాచ హ | కిం మే ధర్మాద్విహీనస్య రాజధర్మః కరిష్యతి ॥
+**Story:** రామస్య వచనం శ్రుత్వా భరతః ప్రత్యువాచ హ । కిం మే ధర్మాద్విహీనస్య రాజధర్మః కరిష్యతి ॥
 
 **Image:** Pending creation.
 

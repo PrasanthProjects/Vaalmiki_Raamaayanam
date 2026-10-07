@@ -46,7 +46,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** [Janaka Visual Lock] and [Rama Visual Lock, S2/bridegroom] standing at the sacred fire — and then, the moment the whole series has been building toward: [use Sita Visual Lock, S1/princess-bride stage] brought forward. HER FIRST APPEARANCE ON SCREEN. (Location register: Mithila, wedding mandapam, the reveal)
 
-**Story:** "జనక మహారాజు ఆ అగ్నిహోత్రము దగ్గర నిలబడ్డారు, రాముడు కూడా వచ్చి ఆ అగ్నిహోత్రము దగ్గర నిలుచుని ఉండగా సీతమ్మని తీసుకొచ్చారు."
+**Story:** "జనక మహారాజు ఆ అగ్నిహోత్రము దగ్గర నిలబడ్డారు, రాముడు కూడా వచ్చి ఆ అగ్నిహోత్రము దగ్గర నిలుచుని ఉండగా సీతమ్మని తీసుకొచ్చారు. అప్పుడు జనకుడు రాముడితో ఇలా అన్నాడు —"
 
 **Image:** Pending creation.
 
@@ -76,7 +76,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** [Janaka Visual Lock] continuing, a final, weighted instruction about Sita's upbringing and the shared responsibility of her future conduct. (Location register: Mithila, wedding mandapam)
 
-**Story:** "'ఈ క్షణం నుండి మా అమ్మాయి ఏది చేసినా అది, భర్త అని నీ కోసమే చేస్తుంది రామ! మాది విదేహ వంశం, మాకు దేహమునందు భ్రాంతి ఉండదు, నా కూతురిని అలా పెంచాను. ఒక ఏడాది తరువాత నా కూతురు నీతో కలిసి పుట్టింటికి వచ్చినప్పుడు నేను నేర్పిన సంప్రదాయాన్ని మరిచిపోతే, అది నీ వల్లే రామ, ఎందుకంటే నేను నేర్పినదాన్ని భర్త ఉద్ధరించాలి, ఉద్ధరించడంలో పొరపాటు వస్తే అది నీదే అవుతుంది, ఆమె నిన్ను నీడలా అనుగమిస్తుంది.'"
+**Story:** "'ఈ క్షణం నుండి మా అమ్మాయి ఏది చేసినా అది, భర్త అని నీ కోసమే చేస్తుంది రామ! మాది విదేహ వంశం, మాకు దేహమునందు భ్రాంతి ఉండదు, నా కూతురిని అలా పెంచాను. ఒక ఏడాది తరువాత నా కూతురు నీతో కలిసి పుట్టింటికి వచ్చినప్పుడు నేను నేర్పిన సంప్రదాయాన్ని మరిచిపోతే, అది నీ వల్లే రామ, ఎందుకంటే నేను నేర్పినదాన్ని భర్త ఉద్ధరించాలి, ఉద్ధరించడంలో పొరపాటు వస్తే అది నీదే అవుతుంది, ఆమె నిన్ను నీడలా అనుగమిస్తుంది.' ఇదంతా పై శ్లోకం యొక్క రహస్యార్థం."
 
 **Image:** Pending creation.
 

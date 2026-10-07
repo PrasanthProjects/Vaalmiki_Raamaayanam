@@ -42,7 +42,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over [Hanuman], moved.
 
-**Story:** ఈదృశా బుద్ధి సంపన్నా జితక్రోధా జితేంద్రియాః | ద్రష్టవ్యా వానరేంద్రేణ దిష్ట్యా దర్శనం ఆగతాః ॥
+**Story:** ఈదృశా బుద్ధి సంపన్నా జితక్రోధా జితేంద్రియాః । ద్రష్టవ్యా వానరేంద్రేణ దిష్ట్యా దర్శనం ఆగతాః ॥
 
 **Image:** Pending creation.
 

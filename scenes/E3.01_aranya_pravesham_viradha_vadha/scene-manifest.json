@@ -34,7 +34,7 @@
     "scene": 4,
     "part_id": "4",
     "visual_description": "On-screen shloka text over the ashram cluster seen from its edge.",
-    "story_text": "పుణ్యైః చ నియత ఆహారైః శోభితం పరమ ఋషిభిః | తత్ బ్రహ్మ భవన ప్రఖ్యం బ్రహ్మ ఘోష నినాదితం | బ్రహ్మ విద్భిః మహా భాగైః బ్రాహ్మణైః ఉపశోభితం ॥",
+    "story_text": "పుణ్యైః చ నియత ఆహారైః శోభితం పరమ ఋషిభిః । తత్ బ్రహ్మ భవన ప్రఖ్యం బ్రహ్మ ఘోష నినాదితం । బ్రహ్మ విద్భిః మహా భాగైః బ్రాహ్మణైః ఉపశోభితం ॥",
     "source_notes": "🔴 VERSE — flagged for the manual audit: \"Adorned by holy great sages of regulated diet; like the hall of Brahma, echoing with Vedic chant; graced by fortunate Brahmins who know Brahman.\" Three lines as printed in the source.",
     "image": null,
     "status": "image_pending"
@@ -54,7 +54,7 @@
     "scene": 6,
     "part_id": "6",
     "visual_description": "On-screen shloka text over the sages turning, one by one, to look at the three arrivals.",
-    "story_text": "రూప సంహననం లక్ష్మీం సౌకుమార్యం సువేషతాం | దదృశుర్ విస్మిత ఆకారా రామస్య వన వాసినః ॥ వైదేహీం లక్ష్మణం రామం నేత్రైర్ అనిమిషైర్ ఇవ | ఆశ్చర్య భూతాన్ దదృశుః సర్వే తే వన వాసినః ॥",
+    "story_text": "రూప సంహననం లక్ష్మీం సౌకుమార్యం సువేషతాం । దదృశుర్ విస్మిత ఆకారా రామస్య వన వాసినః ॥ వైదేహీం లక్ష్మణం రామం నేత్రైర్ అనిమిషైర్ ఇవ । ఆశ్చర్య భూతాన్ దదృశుః సర్వే తే వన వాసినః ॥",
     "source_notes": "🔴 VERSE — two shlokas, flagged for the manual audit (the corrected extraction has unreadable glyphs at \"లక్ష్మీం\" and \"నేత్రైర్\"; OCR supports both readings): \"The forest-dwellers gazed in wonder at Rama's form, build, grace, delicacy and fine bearing; they gazed at Vaidehi, Lakshmana and Rama as if with unblinking eyes, as at a marvel.\"",
     "image": null,
     "status": "image_pending"
@@ -104,7 +104,7 @@
     "scene": 11,
     "part_id": "11",
     "visual_description": "On-screen shloka text over [Viradha Visual Lock] looming, Sita held captive.",
-    "story_text": "అధర్మ చారిణౌ పాపౌ కౌ యువాం ముని దూషకౌ | అహం వనం ఇదం దుర్గం విరాధో నామ రాక్షసః ॥ చరామి సాయుధో నిత్యం ఋషి మాంసాని భక్షయన్ | ఇయం నారీ వరారోహా మమ భార్యా భవిష్యతి ॥",
+    "story_text": "అధర్మ చారిణౌ పాపౌ కౌ యువాం ముని దూషకౌ । అహం వనం ఇదం దుర్గం విరాధో నామ రాక్షసః ॥ చరామి సాయుధో నిత్యం ఋషి మాంసాని భక్షయన్ । ఇయం నారీ వరారోహా మమ భార్యా భవిష్యతి ॥",
     "source_notes": "🔴 VERSE — flagged for extra scrutiny: both extractions print \"విరాఘో\"; reconstructed as the standard \"విరాధో\". The source's own Telugu rendering follows in the next scene.",
     "image": null,
     "status": "image_pending"

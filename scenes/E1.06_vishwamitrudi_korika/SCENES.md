@@ -30,7 +30,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text. (Location register: Ayodhya court)
 
-**Story:** స్వ పుత్రం రాజశార్దూల రామం సత్యపరాక్రమం । కాక పక్షధరం శూరం జ్యేష్ఠం మే దాతుమర్హసి ॥
+**Story:** స్వ పుత్రం రాజ శార్దూల రామం సత్య పరాక్రమం । కాక పక్ష ధరం శూరం జ్యేష్ఠం మే దాతుం అర్హసి ॥
 
 **Image:** Pending creation.
 
@@ -50,7 +50,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text. (Location register: Ayodhya court)
 
-**Story:** ఊన షోడశ వర్షో మే రామో రాజీవలోచనః । న యుద్ధయోగ్యతాం అస్య పశ్యామి సహ రాక్షసైః ॥
+**Story:** ఊన షోడశ వర్షో మే రామో రాజీవ లోచనః । న యుద్ధ యోగ్యతాం అస్య పశ్యామి సహ రాక్షసైః ॥
 
 **Image:** Pending creation.
 
@@ -102,7 +102,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text, [Vashishtha Visual Lock] continuing his praise of Vishwamitra. (Location register: Ayodhya court)
 
-**Story:** ఏష విగ్రహవాన్ ధర్మ ఏష వీర్యవతాం వరః । ఏష విద్యాధికో లోకే తపసః చ పరాయణం ॥
+**Story:** ఏష విగ్రహవాన్ ధర్మ ఏష వీర్యవతాం వరః । ఏష విద్య అధికో లోకే తపసః చ పరాయణం ॥
 
 **Image:** Pending creation.
 
@@ -166,7 +166,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text. (Location register: Forest campsite)
 
-**Story:** గృహాణ వత్స సలిలం మా భూత్ కాలస్య పర్యయః । మంత్రగ్రామం గృహాణ త్వం బలాం అతిబలాం తథా ॥
+**Story:** గృహాణ వత్స సలిలం మా భూత్ కాలస్య పర్యయః ॥ మంత్ర గ్రామం గృహాణ త్వం బలాం అతిబలాం తథా ॥
 
 **Image:** Pending creation.
 
@@ -200,7 +200,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text, treated with special care given how widely known and beloved this specific verse is. (Location register: Forest campsite, sunrise)
 
-**Story:** కౌసల్యా సుప్రజా రామ పూర్వా సంధ్యా ప్రవర్తతే । ఉత్తిష్ఠ నరశార్దూల కర్తవ్యం దైవమాహ్నికం ॥
+**Story:** కౌసల్యా సుప్రజా రామ పూర్వా సంధ్యా ప్రవర్తతే । ఉత్తిష్ఠ నర శార్దూల కర్తవ్యం దైవమాహ్నికం ॥
 
 **Image:** Pending creation.
 

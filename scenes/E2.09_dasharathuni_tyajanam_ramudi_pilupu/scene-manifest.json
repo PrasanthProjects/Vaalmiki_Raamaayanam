@@ -24,7 +24,7 @@
     "scene": 3,
     "part_id": "3",
     "visual_description": "On-screen verse text.",
-    "story_text": "త్వం కత్థసే మహారాజ సత్యవాదీ దృఢవ్రతః | మమ చ ఇమం వరం కస్మాత్ విధారయితుం ఇచ్ఛసి ॥",
+    "story_text": "త్వం కత్థసే మహా రాజ సత్య వాదీ దృఢ వ్రతః । మమ చ ఇమం వరం కస్మాత్ విధారయితుం ఇచ్ఛసి ॥",
     "source_notes": "🔴 VERSE — **flagged for extra scrutiny**: OCR rendering was garbled (\"ద్బుఢ వ్రతః\", \"ఇచ్చసి\"); reconstructed sense follows standard reading: \"You boast, great king, of being truthful and firm in vows — why then do you wish to withhold this boon of mine?\" Must be checked against canonical printed edition before recording.",
     "image": null,
     "status": "image_pending"
@@ -64,7 +64,7 @@
     "scene": 7,
     "part_id": "7",
     "visual_description": "[Dasharatha Visual Lock] responding with his final, devastating act — a formal verse of renunciation, disowning Kaikeyi as his wife and Bharata as his son.",
-    "story_text": "అప్పుడు దశరథుడు — యః మంత్రపూతః పాణిర్ అగ్నౌ మయా త్వం ధృతః | త్యజామి తం చైవ తవ పుత్రం సహ త్వయా ॥ \"నువ్వు నన్ను ఇంత బాధపెట్టావు కాబట్టి, రాముడిని చూసి చనిపోతాను అంటే ఆ వరం కూడా ఇవ్వలేదు కనుక, మంత్రపూర్వకంగా అగ్ని సమక్షంలో పాణిగ్రహణం చేశానో అటువంటి నిన్ను ఇప్పుడే విడిచిపెడుతున్నాను, ఇక నువ్వు నాకు భార్యవి కావు, నువ్వు కొడుకుతో కలిసి రాజ్యం ఏలుకొండి, ఎవడికోసమైతే నువ్వు ఇంత దారుణానికి దిగజారావో ఆ కొడుకుని కూడా వదిలేస్తున్నాను, భరతుడు నా శరీరాన్ని ముట్టుకోకూడదు\" అన్నాడు.",
+    "story_text": "అప్పుడు దశరథుడు — యః తే మంత్ర కృతః పాణిర్ అగ్నౌ పాపే మయా ధృతః । తం త్యజామి స్వజం చైవ తవ పుత్రం సహ త్వయా ॥ \"నువ్వు నన్ను ఇంత బాధపెట్టావు కాబట్టి, రాముడిని చూసి చనిపోతాను అంటే ఆ వరం కూడా ఇవ్వలేదు కనుక, మంత్రపూర్వకంగా అగ్ని సమక్షంలో పాణిగ్రహణం చేశానో అటువంటి నిన్ను ఇప్పుడే విడిచిపెడుతున్నాను, ఇక నువ్వు నాకు భార్యవి కావు, నువ్వు కొడుకుతో కలిసి రాజ్యం ఏలుకొండి, ఎవడికోసమైతే నువ్వు ఇంత దారుణానికి దిగజారావో ఆ కొడుకుని కూడా వదిలేస్తున్నాను, భరతుడు నా శరీరాన్ని ముట్టుకోకూడదు\" అన్నాడు.",
     "source_notes": "🔴 VERSE (paired with plain-speech translation, as this stretch's pattern has consistently done) — **flagged for extra scrutiny**: OCR garbled (\"పాణిర్ అగ్నౌ పాపే మయా ధ్బుతః\"); reconstructed sense follows the standard reading: \"the hand I took in marriage, purified by mantras before the fire — I renounce it, and your son with you.\" This formal renunciation (disowning both wife and son) is an extreme, almost unthinkable act for a dharmic king to take publicly — deliver with the full gravity of an irrevocable legal/ritual act, not as a heated outburst.",
     "image": null,
     "status": "image_pending"
@@ -114,7 +114,7 @@
     "scene": 12,
     "part_id": "12",
     "visual_description": "[Vashishtha Visual Lock] and other waiting vassal kings growing impatient outside, asking why the king hasn't appeared; Sumantra going back in, and Dasharatha himself, now conscious again, personally insisting Rama be brought.",
-    "story_text": "అక్కడే ఉన్న వశిష్ఠుడు మరియు ఇతర సామంతరాజులు దశరథ మహారాజు ఇంకా బయటకి ఎందుకు రావడం లేదు, మాకు దర్శనం ఎందుకు ఇవ్వడం లేదని అడుగగా, సుమంత్రుడు మళ్ళీ లోపలికి వెళ్ళాడు. \"రాముడిని తీసుకు రమ్మన్నానుగా, తొందరగా రాముడిని తీసుకురా\" అని దశరథుడు అన్నాడు. వెంటనే సుమంత్రుడు రాముడిని తీసుకురావడానికి బయలుదేరాడు.",
+    "story_text": "అక్కడే ఉన్న వశిష్ఠుడు మరియు ఇతర సామంతరాజులు దశరథ మహారాజు ఇంకా బయటకి ఎందుకు రావడం లేదు, మాకు దర్శనం ఎందుకు ఇవ్వడం లేదని అడుగగా, సుమంత్రుడు మళ్ళీ లోపలికి వెళ్ళి దశరథుడిని స్తోత్రం చెయ్యబోగా, \"రాముడిని తీసుకు రమ్మన్నానుగా, తొందరగా వెళ్ళి రాముడిని తీసుకురా\" అని దశరథుడు అన్నాడు. వెంటనే సుమంత్రుడు రాముడిని తీసుకురావడానికి బయలుదేరాడు.",
     "source_notes": "",
     "image": null,
     "status": "image_pending"

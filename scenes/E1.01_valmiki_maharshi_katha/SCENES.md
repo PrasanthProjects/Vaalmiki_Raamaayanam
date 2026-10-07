@@ -12,7 +12,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** Recap/cold-open line over the palm-leaf-writing image from E0.01's closing shot.
 
-**Story:** గత భాగంలో చూశాం — వాల్మీకి మహర్షి రామాయణాన్ని ఎందుకు, ఎలా రాశారో. ఇప్పుడు ఆయన కథ మొదటి నుండి చూద్దాం.
+**Story:** గత భాగంలో చూశాం — వాల్మీకి మహర్షి రామాయణాన్ని రాశారు అని. ఇప్పుడు ఆయన కథ మొదటి నుండి చూద్దాం.
 
 **Image:** [scene-01-recap-valmiki-writing.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-01-recap-valmiki-writing.png)
 
@@ -162,7 +162,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen Sanskrit text overlay, gold serif over dark background — matching E0.01's verse-treatment convention.
 
-**Story:** తపఃస్వాధ్యాయనిరతం తపస్వీ వాగ్విదాం వరం । నారదం పరిపప్రచ్ఛ వాల్మీకిర్మునిపుంగవం ॥
+**Story:** తపస్స్వాధ్యాయ నిరతం తపస్వీ వాగ్విదాం వరం । నారదం పరిపప్రచ్ఛ వాల్మీకిర్మునిపుంగవం ॥
 
 **Image:** [scene-15-valmiki-ramayana-opening-verse-background.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-15-valmiki-ramayana-opening-verse-background.png)
 
@@ -184,7 +184,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** Six-line verse displayed as elegant on-screen text, paced to the narrator's recitation — no other visual needed, let the verse itself hold the frame.
 
-**Story:** కోన్వస్మిన్ సాంప్రతం లోకే గుణవాన్ కశ్చ వీర్యవాన్ । ధర్మజ్ఞశ్చ కృతజ్ఞశ్చ సత్యవాక్యో ధృఢవ్రతః ॥ చారిత్రేణ చ కో యుక్తః సర్వభూతేషు కో హితః । విద్వాన్ కః కః సమర్థశ్చ కశ్చైకప్రియదర్శనః ॥ ఆత్మవాన్ కో జితక్రోధో ద్యుతిమాన్ కోఽనసూయకః । కస్య బిభ్యతి దేవాశ్చ జాతరోషస్య సంయుగే ॥
+**Story:** కోన్వస్మిన్ సాంప్రతం లోకే గుణవాన్ కశ్చ వీర్యవాన్ । ధర్మజ్ఞశ్చ కృతజ్ఞశ్చ సత్యవాక్యో ధృఢవ్రతః ॥ చారిత్రేణ చ కో యుక్తః సర్వభూతేషు కో హితః । విద్వాన్ కః కః సమర్థశ్చ కశ్చ ఏక ప్రియదర్శనః ॥ ఆత్మవాన్ కో జిత క్రోధో ద్యుతిమాన్ కః అనసూయకః । కస్య బిభ్యతి దేవాః చ జాత రోషస్య సంయుగే ॥
 
 **Image:** [scene-17-sixteen-virtues-verse-background.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-17-sixteen-virtues-verse-background.png)
 

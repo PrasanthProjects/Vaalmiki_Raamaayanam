@@ -82,7 +82,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over the three standing on the riverbank in wet garments, lit by the rising sun.
 
-**Story:** కృతాభిషేకః స రరాజ రామః సీతా ద్వితీయః సహ లక్ష్మణేన | కృత అభిషేకో తు గిరి రాజ పుత్ర్యా రుద్రః స నందిః భగవాన్ ఇవ ఈశః ॥
+**Story:** కృతాభిషేకః స రరాజ రామః సీతా ద్వితీయః సహ లక్ష్మణేన । కృత అభిషేకో తు గిరి రాజ పుత్ర్యా రుద్రః స నందిః భగవాన్ ఇవ ఈశః ॥
 
 **Image:** Pending creation.
 

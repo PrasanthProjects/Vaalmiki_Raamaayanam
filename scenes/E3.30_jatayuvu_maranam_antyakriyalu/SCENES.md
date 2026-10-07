@@ -42,7 +42,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over the three together under the tree.
 
-**Story:** రాజ్యం భ్రష్టం వనే వాసః సీతా నష్టా మృతే ద్విజః | ఈదృశీ ఇయం మమాలక్ష్మీః నిర్దహేత్ అపి పావకం ॥
+**Story:** రాజ్యం భ్రష్టం వనే వాసః సీతా నష్టా మృతే ద్విజః । ఈదృశీ ఇయం మమా లక్ష్మీః నిర్దహేత్ అపి పావకం ॥
 
 **Image:** Pending creation.
 

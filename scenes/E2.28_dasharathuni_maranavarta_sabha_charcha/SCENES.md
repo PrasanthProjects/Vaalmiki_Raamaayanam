@@ -62,7 +62,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** మార్కండేయోఽథ మౌద్గల్యో వామదేవశ్చ కాశ్యపః | కాత్యాయనో గౌతమశ్చ జాబాలిశ్చ మహాయశాః | ద్విజాః సహామాత్యైః పృథగ్వాచముదీరయన్ | వసిష్ఠమేవాభిముఖాః శ్రేష్ఠం రాజపురోహితమ్ ॥
+**Story:** మార్కణ్డేయో అథ మౌద్గల్యో వామదేవః చ కాశ్యపః । కాత్యాయనో గౌతమః చ జాబాలిః చ మహా యశాః ॥ ఏతే ద్విజాః సహ అమాత్యైః పృథగ్ వాచం ఉదీరయన్ । వశిష్ఠం ఏవ అభిముఖాః శ్రేష్ఠం రాజ పురోహితం ॥
 
 **Image:** Pending creation.
 
@@ -80,7 +80,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen verse text.
 
-**Story:** రాజా సత్యం చ ధర్మశ్చ రాజా కులవతాం కులమ్ | రాజా మాతా పితా చైవ రాజా హితకరో నృణామ్ ॥
+**Story:** రాజా సత్యం చ ధర్మశ్చ రాజా కులవతాం కులం । రాజా మాతా పితా చైవ రాజా హితకరో నృణాం ॥
 
 **Image:** Pending creation.
 

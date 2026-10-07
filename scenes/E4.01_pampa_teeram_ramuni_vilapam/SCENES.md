@@ -50,7 +50,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over wind-swayed trees and a cuckoo on a branch.
 
-**Story:** మత్త కోకిల సన్నాదైః నర్తయన్ ఇవ పాదపాన్ | శైల కందర నిష్క్రాంతః ప్రగీత ఇవ చ అనిలః ॥
+**Story:** మత్త కోకిల సన్నాదైః నర్తయన్ ఇవ పాదపాన్ । శైల కందర నిష్క్రాంతః ప్రగీత ఇవ చ అనిలః ॥
 
 **Image:** Pending creation.
 
@@ -88,7 +88,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Visual:** On-screen shloka text over [Lakshmana] rising, determined.
 
-**Story:** ఉత్సాహో బలవాన్ ఆర్య నాస్తి ఉత్సాహాత్ పరం బలం | సః ఉత్సాహస్య హి లోకేషు న కించిత్ అపి దుర్లభం ॥
+**Story:** ఉత్సాహో బలవాన్ ఆర్య నాస్తి ఉత్సాహాత్ పరం బలం । సః ఉత్సాహస్య హి లోకేషు న కించిత్ అపి దుర్లభం ॥
 
 **Image:** Pending creation.
 
