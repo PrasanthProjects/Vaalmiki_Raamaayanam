@@ -20,9 +20,9 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 2 — Scene 02
 
-**Visual:** [The elderly Brahmins and citizens — generic grieving-crowd register] waking at dawn, calling out for Rama, following the chariot tracks eagerly — only to find the tracks simply stop, the ruse fully successful; they turn back toward Ayodhya in sorrow.
+**Visual:** The brahmins waking at dawn, calling for Rama, following the chariot ruts.
 
-**Story:** తెల్లవారగానే బ్రాహ్మణులందరూ నిద్ర లేచి "ఏడి రాముడు, ఏడి రాముడు" అని, రాముడి రథచక్రాల గాడిని బట్టి వెళదామని అందరూ బయలుదేరారు, కొంతదూరం వెళ్ళాక రథ చక్రాలు ఆగిపోయాయి, ఇంక చేసేది ఏమి లేక బాధపడుతూ అయోధ్యకి వెళ్ళారు.
+**Story:** తెల్లవారగానే బ్రాహ్మణులందరూ నిద్ర లేచి "ఏడి రాముడు, ఏడి రాముడు" అని, రాముడి రథచక్రాల గాడిని బట్టి వెళదామని అందరూ బయలుదేరారు,
 
 **Image:** Pending creation.
 
@@ -30,15 +30,31 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 3 — Scene 03
 
-**Visual:** A citywide tableau of universal mourning: no household cooking, no doorstep rangoli patterns drawn, not a single joyful being anywhere in the kingdom — except one.
+**Visual:** The tracks simply ending; the old men turning back toward Ayodhya in sorrow.
 
-**Story:** రాముడు వెళ్ళిపోయాడని ఆ అయోధ్యా పట్టణంలో అన్నం వండుకున్నవాడు ఒక్కడు కూడా లేడు, ఇంటిముందు కూడా కళ్ళాపి జల్లలేదు, ఎవరూ ముగ్గు పెట్టలేదు, ఆ రాజ్యంలోని ఒక్క ప్రాణి కూడా ఆనందంగా లేదు, రాజ్యం సంతోషంగా ఉన్న ఏకైక ప్రాణి కైకేయ.
+**Story:** కొంతదూరం వెళ్ళాక రథ చక్రాలు ఆగిపోయాయి, ఇంక చేసేది ఏమి లేక బాధపడుతూ అయోధ్యకి వెళ్ళారు.
+
+**Image:** Pending creation.
+
+## 4 — Scene 04
+
+**Visual:** Ayodhya in mourning — no hearth lit, no threshold sprinkled.
+
+**Story:** రాముడు వెళ్ళిపోయాడని ఆ అయోధ్యా పట్టణంలో అన్నం వండుకున్నవాడు ఒక్కడు కూడా లేడు, ఇంటిముందు కూడా కళ్ళాపి జల్లలేదు,
 
 **Image:** Pending creation.
 
 **Source note:** The text's own pointed, isolating final line — Kaikeyi as literally the sole happy being in the entire grieving kingdom — is a stark, deliberate narrative judgment; render as a hard visual contrast (the whole mourning city, then a single shot of Kaikeyi alone, composed) rather than softened or explained away.
 
-## 4 — Scene 04
+## 5 — Scene 05
+
+**Visual:** No rangoli at any door, not one glad face — then [Kaikeyi Visual Lock] alone, content.
+
+**Story:** ఎవరూ ముగ్గు పెట్టలేదు, ఆ రాజ్యంలోని ఒక్క ప్రాణి కూడా ఆనందంగా లేదు, రాజ్యం సంతోషంగా ఉన్న ఏకైక ప్రాణి కైకేయ.
+
+**Image:** Pending creation.
+
+## 6 — Scene 06
 
 **Visual:** Time-lapse travel montage: [Rama, Sita, Lakshmana Visual Locks] with [Sumantra Visual Lock] journeying day by day, passing through the cities of Vedashruti, Gomati, and others, finally reaching the border of the Kosala kingdom itself.
 
@@ -46,7 +62,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 5 — Scene 05
+## 7 — Scene 07
 
 **Visual:** On-screen verse text.
 
@@ -56,17 +72,25 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — Rama's formal farewell to the city itself: "I take leave of you, O finest of cities, ruled by the Kakutstha lineage, and of all the deities who protect and dwell within you."
 
-## 6 — Scene 06
+## 8 — Scene 08
 
-**Visual:** [Rama Visual Lock] stepping down from the chariot at the kingdom's border, turning back to face distant Ayodhya, and offering a formal, heartfelt prostration and prayer toward the city itself.
+**Visual:** [Rama Visual Lock] stepping down at the kingdom's border, turning toward distant Ayodhya with joined hands.
 
-**Story:** అక్కడికి వచ్చాక ఆ అయోధ్యా నగరానికి రథం దిగి ఒకసారి నమస్కారం చేసి ఇలా అన్నాడు — "ఓ అయోధ్యా, పూర్వం మా కాకుత్స వంశంలోని ఎందరో రాజులు నిన్ను పరిపాలించారు, ఇటువంటి అయోధ్యా నగరాన్ని విడిచి, ధర్మానికి కట్టుబడి 14 సంవత్సరములు అరణ్యాలకి వెళుతున్నాను, తిరిగి నేను ఈ అయోధ్యా నగరంలో ప్రవేశించి, మా తల్లిదండ్రుల పాదములకు నమస్కరించే అదృష్టాన్ని నాకు ప్రసాదించు" అని వేడుకున్నాడు.
+**Story:** అక్కడికి వచ్చాక ఆ అయోధ్యా నగరానికి రథం దిగి ఒకసారి నమస్కారం చేసి ఇలా అన్నాడు — "ఓ అయోధ్యా, పూర్వం మా కాకుత్స వంశంలోని ఎందరో రాజులు నిన్ను పరిపాలించారు,
 
 **Image:** Pending creation.
 
 **Source note:** A significant, quietly devotional moment — Rama addressing the city itself as a living, blessed entity, not merely a location; his prayer's specific wish (to return and touch his parents' feet again) is worth holding as a clear emotional through-line for the audience to remember across the coming exile episodes.
 
-## 7 — Scene 07
+## 9 — Scene 09
+
+**Visual:** Rama's prayer to the city itself — grant that I return and bow at my parents' feet.
+
+**Story:** ఇటువంటి అయోధ్యా నగరాన్ని విడిచి, ధర్మానికి కట్టుబడి 14 సంవత్సరములు అరణ్యాలకి వెళుతున్నాను, తిరిగి నేను ఈ అయోధ్యా నగరంలో ప్రవేశించి, మా తల్లిదండ్రుల పాదములకు నమస్కరించే అదృష్టాన్ని నాకు ప్రసాదించు" అని వేడుకున్నాడు.
+
+**Image:** Pending creation.
+
+## 10 — Scene 10
 
 **Visual:** The party crossing out of Kosala entirely, reaching the banks of the Ganga river, resting in the shade of an ingudi (wild almond) tree.
 
@@ -74,7 +98,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 8 — Scene 08
+## 11 — Scene 11
 
 **Visual:** On-screen verse text.
 
@@ -84,17 +108,25 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — introducing Guha: "There, a king named Guha, Rama's friend equal to his own soul, born of the Nishada tribe, mighty, and renowned as a chieftain."
 
-## 9 — Scene 09
+## 12 — Scene 12
 
-**Visual:** [Guha Visual Lock — new character] hearing of Rama's arrival and running to him at once, embracing him tightly as a true equal, not a subordinate greeting royalty — warmly declaring his own kingdom to be Rama's as much as Ayodhya ever was, and offering food he's brought himself.
+**Visual:** [Guha Visual Lock — new character: chief of the Nishadas at Shringiberapura, forest-chieftain dress] hearing of Rama's arrival and running to him.
 
-**Story:** రాముడు అక్కడికి వచ్చాడని తెలుసుకొని, శృంగిబేరపురము అని పిలువబడే ఆ ప్రాంతానికి అధిపతి అయిన నిషాదుడైన, రాముడికి ఆత్మ సమానమైన స్నేహితుడైన (తమ ధర్మాన్ని పాటించే వాళ్ళందరూ రాముడికి ఆత్మ సమానమైన స్నేహితులే) గుహుడు పరుగు పరుగున వచ్చి, రాముడిని గట్టిగా కౌగలించుకొని ఇలా అన్నాడు — "రామా, ఇది కూడా నీ రాజ్యమే, ఇది కూడా నీ అయోధ్య అనే అనుకో, నీకోసమని రకరకాల పదార్థాలు, అన్నరాసులు తీసుకొచ్చాను, తీసుకో రామా" అన్నాడు.
+**Story:** రాముడు అక్కడికి వచ్చాడని తెలుసుకొని, శృంగిబేరపురము అని పిలువబడే ఆ ప్రాంతానికి అధిపతి అయిన నిషాదుడైన, రాముడికి ఆత్మ సమానమైన స్నేహితుడైన (తమ ధర్మాన్ని పాటించే వాళ్ళందరూ రాముడికి ఆత్మ సమానమైన స్నేహితులే) గుహుడు పరుగు పరుగున వచ్చి,
 
 **Image:** Pending creation.
 
 **Source note:** The verse's own framing — "a friend equal to his own soul" — and the note that "all who follow their own dharma are Rama's soul-equal friends" together make an important point about the series' social vision: Guha, a tribal/forest chieftain, meets Rama as a genuine equal, embracing him without formality; play this with real warmth and physical familiarity, not deference.
 
-## 10 — Scene 10
+## 13 — Scene 13
+
+**Visual:** Guha embracing Rama as an equal, his men behind him with heaps of food — this too is your Ayodhya.
+
+**Story:** రాముడిని గట్టిగా కౌగలించుకొని ఇలా అన్నాడు — "రామా, ఇది కూడా నీ రాజ్యమే, ఇది కూడా నీ అయోధ్య అనే అనుకో, నీకోసమని రకరకాల పదార్థాలు, అన్నరాసులు తీసుకొచ్చాను, తీసుకో రామా" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 14 — Scene 14
 
 **Visual:** On-screen verse text.
 
@@ -104,17 +136,25 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — Rama's reply to Guha (p. 158): "We are honoured and delighted by you in every way, by your coming to us on foot and by the affection you have shown."
 
-## 11 — Scene 11
+## 15 — Scene 15
 
-**Visual:** [Rama Visual Lock] gently declining the food itself, citing his promise to his mother, but making clear Guha's welcome alone has already deeply moved and satisfied him; redirecting the gesture practically toward the tired horses instead.
+**Visual:** [Rama Visual Lock] gently declining the food — your welcome has already filled me.
 
-**Story:** అప్పుడు రాముడు "గుహా, మా అమ్మకి ఇచ్చిన మాట ప్రకారం నేను ఇవన్నీ తినకూడదు, కాని నువ్వు నాకోసం పరిగెత్తుకుంటూ వచ్చి, ప్రేమతో 'ఈ రాజ్యం కూడా అయోధ్యే' అన్నావు కదా, అప్పుడే నా కడుపు నిండిపోయింది. మా నాన్నగారికి ఈ గుర్రాలంటే చాలా ఇష్టం, అవి మమ్మల్ని ఇంత దూరం తీసుకొని వచ్చి అలసిపోయాయి, వాటికి కావలసిన గడ్డి మొదలైనవి ఇవ్వు" అన్నాడు.
+**Story:** అప్పుడు రాముడు "గుహా, మా అమ్మకి ఇచ్చిన మాట ప్రకారం నేను ఇవన్నీ తినకూడదు, కాని నువ్వు నాకోసం పరిగెత్తుకుంటూ వచ్చి, ప్రేమతో 'ఈ రాజ్యం కూడా అయోధ్యే' అన్నావు కదా, అప్పుడే నా కడుపు నిండిపోయింది.
 
 **Image:** Pending creation.
 
 **Source note:** Note this is the second time Rama redirects a well-meant gesture toward the horses specifically because of Dasharatha's fondness for them (a small emotional thread worth tracking) — his refusal of food is graceful, not awkward, converting the moment into genuine warmth rather than rejection.
 
-## 12 — Scene 12
+## 16 — Scene 16
+
+**Visual:** Rama pointing to the tired horses his father loves; Guha's men bringing them fodder.
+
+**Story:** మా నాన్నగారికి ఈ గుర్రాలంటే చాలా ఇష్టం, అవి మమ్మల్ని ఇంత దూరం తీసుకొని వచ్చి అలసిపోయాయి, వాటికి కావలసిన గడ్డి మొదలైనవి ఇవ్వు" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 17 — Scene 17
 
 **Visual:** Evening: [Rama and Sita Visual Locks] settling to sleep together beneath the ingudi tree after the horses have been tended; [Guha Visual Lock] inviting [Lakshmana Visual Lock] to also rest.
 
@@ -122,7 +162,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 13 — Scene 13
+## 18 — Scene 18
 
 **Visual:** On-screen verse text.
 
@@ -132,7 +172,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — Lakshmana's refusal: "How could I possibly find sleep, or even life's ordinary comforts, while Dasharatha's son lies on the bare ground with Sita?"
 
-## 14 — Scene 14
+## 19 — Scene 19
 
 **Visual:** On-screen verse text.
 
@@ -142,17 +182,25 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — Lakshmana's vigil, second verse (p. 158): "See him, whom all the gods and asuras together could not overcome in battle, lying on grass with Sita."
 
-## 15 — Scene 15
+## 20 — Scene 20
 
-**Visual:** [Lakshmana Visual Lock] explaining further, with genuine fierce devotion — naming Rama as someone even gods and demons combined could not overpower in battle, and framing his own sleepless vigil as simple, unquestionable duty.
+**Visual:** Night: [Lakshmana Visual Lock] standing guard, bow in hand, answering Guha — how could I sleep?
 
-**Story:** "నాకు నిద్ర వస్తుందని ఎలా అనుకున్నావు, రాముడు నేల మీద పడుకొని ఉండగా జీవితానికి ఇక సుఖం లేదు, దేవతలు, రాక్షసులు కలిసి యుద్ధానికి వస్తే నిగ్రహించగల మొనగాడు మా అన్నగారు, అలాంటి మా అన్నయ్య, సీతమ్మ కలిసి ఇలా పడుకొని ఉంటే నేనెలా పడుకోగలను" అన్నాడు లక్ష్మణుడు.
+**Story:** "నాకు నిద్ర వస్తుందని ఎలా అనుకున్నావు, రాముడు నేల మీద పడుకొని ఉండగా జీవితానికి ఇక సుఖం లేదు, దేవతలు,
 
 **Image:** Pending creation.
 
 **Source note:** This establishes, cleanly and explicitly, the pattern of Lakshmana's sleepless devotion that becomes a recurring/legendary feature of the exile — worth a visual of him consciously taking up a watchful position nearby rather than lying down, since this single night's choice becomes characteristic of him across the following fourteen years.
 
-## 16 — Scene 16
+## 21 — Scene 21
+
+**Visual:** Rama and Sita asleep on the bare ground beside the river; Lakshmana's fierce, sleepless devotion.
+
+**Story:** రాక్షసులు కలిసి యుద్ధానికి వస్తే నిగ్రహించగల మొనగాడు మా అన్నగారు, అలాంటి మా అన్నయ్య, సీతమ్మ కలిసి ఇలా పడుకొని ఉంటే నేనెలా పడుకోగలను" అన్నాడు లక్ష్మణుడు.
+
+**Image:** Pending creation.
+
+## 22 — Scene 22
 
 **Visual:** Morning: [Rama, Sita, Lakshmana Visual Locks] boarding a boat Guha has brought, preparing to cross the Ganga; [Sumantra Visual Lock] asking Rama for final instructions before turning back.
 
@@ -160,17 +208,25 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 17 — Scene 17
+## 23 — Scene 23
 
-**Visual:** [Rama Visual Lock] giving Sumantra his final, careful messages for the family back home — respects to his father and all three mothers, a specific instruction for Kausalya to continue serving Dasharatha faithfully, a warm greeting for Bharata, and a clear directive not to let the aging king suffer any further.
+**Visual:** [Rama Visual Lock] giving [Sumantra Visual Lock] his messages — salutations to his father and three mothers.
 
-**Story:** రాముడు ఇలా అన్నాడు — "నువ్వు తిరిగి అయోధ్యకి వెళ్ళి మా తండ్రిగారికి, ముగ్గురు తల్లులకి నా నమస్కారములు చెప్పు, కౌసల్యని సర్వకాలములయందు దశరథుడిని సేవించమని చెప్పు, భరతుడిని కుశలమడిగానని చెప్పు, వృద్ధుడైన చక్రవర్తిని ఏ ఒక్క కారణం చేత బాధ పెట్టవద్దని చెప్పు, తండ్రి మనస్సుకి అనుగుణంగా పరిపాలించమని చెప్పు" అన్నాడు.
+**Story:** రాముడు ఇలా అన్నాడు — "నువ్వు తిరిగి అయోధ్యకి వెళ్ళి మా తండ్రిగారికి, ముగ్గురు తల్లులకి నా నమస్కారములు చెప్పు, కౌసల్యని సర్వకాలములయందు దశరథుడిని సేవించమని చెప్పు,
 
 **Image:** Pending creation.
 
 **Source note:** This message is Rama's clear, deliberate instruction reaching Bharata indirectly for the first time in the whole sequence — a direct, practical directive ("rule according to father's wishes, never cause him pain") rather than any grievance; worth noting as the first concrete link forward to Bharata's own arc, still to come.
 
-## 18 — Scene 18
+## 24 — Scene 24
+
+**Visual:** Rama\'s last instructions for Bharata — rule as the king wishes, never grieve him.
+
+**Story:** భరతుడిని కుశలమడిగానని చెప్పు, వృద్ధుడైన చక్రవర్తిని ఏ ఒక్క కారణం చేత బాధ పెట్టవద్దని చెప్పు, తండ్రి మనస్సుకి అనుగుణంగా పరిపాలించమని చెప్పు" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 25 — Scene 25
 
 **Visual:** End card.
 

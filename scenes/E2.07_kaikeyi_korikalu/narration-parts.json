@@ -30,16 +30,7 @@
     "scene": 2,
     "part": 2,
     "id": "02.02",
-    "text": "సమస్త దేవతలారా, భూమి, అష్టదిక్పాలకులారా, మీరందరూ నా తరపున సాక్షి —",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 3,
-    "id": "02.03",
-    "text": "నేను కోరికలు కోరిన తరువాత ఆ కోరికలు తప్పకుండా ఇస్తానని రాజు నాకు మాట ఇచ్చాడు\" అని పలికింది.",
+    "text": "సమస్త దేవతలారా, భూమి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -48,7 +39,7 @@
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "\"రాజా, జ్ఞాపకం తెచ్చుకో — ఒకనాడు శంబరాసురుడి మీదకి యుద్ధానికి వెళ్ళాము, అప్పుడు నేను నిన్ను రెండు సార్లు రక్షించాను,",
+    "text": "అష్టదిక్పాలకులారా, మీరందరూ నా తరపున సాక్షి —",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -57,7 +48,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "అప్పుడు నువ్వు నాకు రెండు వరాలిచ్చావు, ఆ రెండు వరాలని ఇప్పుడు అడుగుతున్నాను\" అని పలికింది.",
+    "text": "నేను కోరికలు కోరిన తరువాత ఆ కోరికలు తప్పకుండా ఇస్తానని రాజు నాకు మాట ఇచ్చాడు\" అని పలికింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -66,8 +57,17 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "అభిషేకసమారంభో రాఘవస్యోపకల్పితః । అనేనైవాభిషేకేణ భరతో మేభిషిచ్యతాం ॥",
-    "complete_verse_block": true,
+    "text": "\"రాజా, జ్ఞాపకం తెచ్చుకో — ఒకనాడు శంబరాసురుడి మీదకి యుద్ధానికి వెళ్ళాము, అప్పుడు నేను నిన్ను రెండు సార్లు రక్షించాను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 2,
+    "id": "04.02",
+    "text": "అప్పుడు నువ్వు నాకు రెండు వరాలిచ్చావు, ఆ రెండు వరాలని ఇప్పుడు అడుగుతున్నాను\" అని పలికింది.",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -75,7 +75,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "నవ పఞ్చ చ వర్షాణి దణ్డకారణ్యమాశ్రితః । చీరాజినజటాధారీ రామో భవతు తాపసః । భరతో భజతామద్య యౌవరాజ్యమకణ్టకం ॥",
+    "text": "అభిషేకసమారంభో రాఘవస్యోపకల్పితః । అనేనైవాభిషేకేణ భరతో మేభిషిచ్యతాం ॥",
     "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
@@ -84,17 +84,8 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "\"రాముడికి యువరాజ పట్టాభిషేకం చేద్దామని నువ్వు సమస్త సంభారములు తెచ్చి సిద్ధం చేశావో, అదే ముహూర్తానికి భరతుడికి పట్టాభిషేకం చెయ్యాలి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 2,
-    "id": "06.02",
-    "text": "పట్టాభిషేకం చేయించుకోవలసిన రాముడు తొమ్మిది+అయిదు సంవత్సరములు దండకారణ్యానికి వెళ్లి నారచీర, జటలు కట్టుకొని, మాంసాహారం తినకుండా తపస్విలాగ బతకాలి\" అని పలికింది.",
-    "complete_verse_block": false,
+    "text": "నవ పఞ్చ చ వర్షాణి దణ్డకారణ్యమాశ్రితః । చీరాజినజటాధారీ రామో భవతు తాపసః । భరతో భజతామద్య యౌవరాజ్యమకణ్టకం ॥",
+    "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -102,43 +93,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "(త్రేతాయుగ ధర్మం ప్రకారం, 14 సంవత్సరములు రాజ్యానికి దూరమైన వ్యక్తి తిరిగి రాజు కాలేడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 2,
-    "id": "07.02",
-    "text": "అందుకని కైక రాముడిని 14 సంవత్సరముల అరణ్యవాసానికి వెళ్ళమన్నది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 3,
-    "id": "07.03",
-    "text": "కాని ఎవరియందు కామక్రోధాలు అతిగా ప్రకాశిస్తాయో, వారిని దేవతలు ఆవహించి దైవకార్య నిమిత్తము వాడుకుంటారు —",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "అందుకే దేవతలు కైకేయను ఆవహించి ఆమెతో '14' అనిపించకుండా '9+5' (నవ పఞ్చ చ వర్షాణి) అనిపించారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 5,
-    "id": "07.05",
-    "text": "కైకేయ అలా అనడం వలన రాముడు రావణసంహారణ అనంతరం తిరిగి రాజుగా పట్టాభిషేకం పొందాడు అని పెద్దలు చెప్తారు.)",
+    "text": "\"రాముడికి యువరాజ పట్టాభిషేకం చేద్దామని నువ్వు సమస్త సంభారములు తెచ్చి సిద్ధం చేశావో, అదే ముహూర్తానికి భరతుడికి పట్టాభిషేకం చెయ్యాలి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -147,16 +102,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "అప్పటిదాకా ఎంతో సంతోషంగా ఉన్న దశరథుడు ఈ మాట వినగానే స్పృహ కోల్పోయి ఉన్న చోటనే కూలబడ్డాడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 2,
-    "id": "08.02",
-    "text": "తరవాత అక్కడినుండి నేల మీద పడ్డాడు.",
+    "text": "పట్టాభిషేకం చేయించుకోవలసిన రాముడు తొమ్మిది+అయిదు సంవత్సరములు దండకారణ్యానికి వెళ్లి నారచీర, జటలు కట్టుకొని, మాంసాహారం తినకుండా తపస్విలాగ బతకాలి\" అని పలికింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -165,7 +111,16 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "ఆయన పడిపోతే కైకేయ కనీసం లేపలేదు.",
+    "text": "(త్రేతాయుగ ధర్మం ప్రకారం, 14 సంవత్సరములు రాజ్యానికి దూరమైన వ్యక్తి తిరిగి రాజు కాలేడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "అందుకని కైక రాముడిని 14 సంవత్సరముల అరణ్యవాసానికి వెళ్ళమన్నది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -174,7 +129,7 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "కొంతసేపటికి తేరుకున్న దశరథుడు, \"ఎంతమాట అన్నావు కైక, జీవితంలో ఇటువంటి మాట వినవలసి వస్తుందని నేను ఎన్నడూ అనుకోలేదు.",
+    "text": "కాని ఎవరియందు కామక్రోధాలు అతిగా ప్రకాశిస్తాయో, వారిని దేవతలు ఆవహించి దైవకార్య నిమిత్తము వాడుకుంటారు —",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -183,16 +138,7 @@
     "scene": 10,
     "part": 2,
     "id": "10.02",
-    "text": "రాముడు నీకు చేసిన అపకారమేమిటి, రాముడు ఎన్నడూ కౌసల్యని ఒక్కదాన్నే 'అమ్మ' అని సేవ చెయ్యలేదు, కౌసల్యని చూసినట్టే నిన్ను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 3,
-    "id": "10.03",
-    "text": "సుమిత్రని చూశాడు, ఎన్నడూ మాట తప్పలేదు రాముడు, రాముడి గురించి వ్యతిరేకంగా మాట్లాడేవారు ఈ కోసల దేశంలో ఎవరూ లేరు\" అన్నాడు.",
+    "text": "అందుకే దేవతలు కైకేయను ఆవహించి ఆమెతో '14' అనిపించకుండా '9+5' (నవ పఞ్చ చ వర్షాణి) అనిపించారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -201,43 +147,7 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
-    "text": "\"నీ దగ్గరికి ఎప్పుడు వచ్చినా రాముడికి పట్టాభిషేకం చెయ్యాలి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 2,
-    "id": "11.02",
-    "text": "నాకు భరతుడికి రాముడికి తేడా లేదు అనేదానివి కదా, మరి ఇప్పుడు నువ్వు ఎవరి చెప్పుడు మాటలు విని ఇలా మాట్లాడుతున్నావు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 3,
-    "id": "11.03",
-    "text": "గురువులకి ఎంతో సేవ చేసిన నా రాముడు హాయిగా హంసతూలికా పాన్పులమీద నిదురించవలసిన వాడిని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 4,
-    "id": "11.04",
-    "text": "నువ్వు ఎందుకని తపస్విలాగ జటలు కట్టుకొని అడవుల్లో దొరికే తేనె, కందమూలాలు తిని, చెట్ల కింద పడుకొమ్మని కోరుకున్నావు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 5,
-    "id": "11.05",
-    "text": "ఇదంతా ఊహించి నేను బతకగలనా\" అన్నాడు.",
+    "text": "కైకేయ అలా అనడం వలన రాముడు రావణసంహారణ అనంతరం తిరిగి రాజుగా పట్టాభిషేకం పొందాడు అని పెద్దలు చెప్తారు.)",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -246,7 +156,7 @@
     "scene": 12,
     "part": 1,
     "id": "12.01",
-    "text": "\"నేను ఇప్పుడు జీవితంలో చిట్టచివరి దశకి వచ్చాను కైక, అందుకని రాముడిని విడిచిపెట్టి నేను ఉండలేను, కావాలంటే కౌసల్యని వదిలిపెట్టమను,",
+    "text": "అప్పటిదాకా ఎంతో సంతోషంగా ఉన్న దశరథుడు ఈ మాట వినగానే స్పృహ కోల్పోయి ఉన్న చోటనే కూలబడ్డాడు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -255,16 +165,7 @@
     "scene": 12,
     "part": 2,
     "id": "12.02",
-    "text": "సుమిత్రని వదిలిపెట్టమను, నన్ను సింహాసనం మీద నుండి దిగిపొమ్మను — ఈ కోరికలన్నీ తీరుస్తాను, పాదములు పట్టి ప్రార్థిస్తున్నాను కైక,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 3,
-    "id": "12.03",
-    "text": "రాముడిని పధ్నాలుగు సంవత్సరాలు పంపించెయ్యమని అనద్దు\" అన్నాడు.",
+    "text": "తరవాత అక్కడినుండి నేల మీద పడ్డాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -273,6 +174,132 @@
     "scene": 13,
     "part": 1,
     "id": "13.01",
+    "text": "ఆయన పడిపోతే కైకేయ కనీసం లేపలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "కొంతసేపటికి తేరుకున్న దశరథుడు, \"ఎంతమాట అన్నావు కైక, జీవితంలో ఇటువంటి మాట వినవలసి వస్తుందని నేను ఎన్నడూ అనుకోలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "రాముడు నీకు చేసిన అపకారమేమిటి, రాముడు ఎన్నడూ కౌసల్యని ఒక్కదాన్నే 'అమ్మ' అని సేవ చెయ్యలేదు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "కౌసల్యని చూసినట్టే నిన్ను, సుమిత్రని చూశాడు, ఎన్నడూ మాట తప్పలేదు రాముడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "రాముడి గురించి వ్యతిరేకంగా మాట్లాడేవారు ఈ కోసల దేశంలో ఎవరూ లేరు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "\"నీ దగ్గరికి ఎప్పుడు వచ్చినా రాముడికి పట్టాభిషేకం చెయ్యాలి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "నాకు భరతుడికి రాముడికి తేడా లేదు అనేదానివి కదా, మరి ఇప్పుడు నువ్వు ఎవరి చెప్పుడు మాటలు విని ఇలా మాట్లాడుతున్నావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "గురువులకి ఎంతో సేవ చేసిన నా రాముడు హాయిగా హంసతూలికా పాన్పులమీద నిదురించవలసిన వాడిని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "నువ్వు ఎందుకని తపస్విలాగ జటలు కట్టుకొని అడవుల్లో దొరికే తేనె, కందమూలాలు తిని, చెట్ల కింద పడుకొమ్మని కోరుకున్నావు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "ఇదంతా ఊహించి నేను బతకగలనా\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "\"నేను ఇప్పుడు జీవితంలో చిట్టచివరి దశకి వచ్చాను కైక, అందుకని రాముడిని విడిచిపెట్టి నేను ఉండలేను, కావాలంటే కౌసల్యని వదిలిపెట్టమను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "సుమిత్రని వదిలిపెట్టమను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "నన్ను సింహాసనం మీద నుండి దిగిపొమ్మను — ఈ కోరికలన్నీ తీరుస్తాను, పాదములు పట్టి ప్రార్థిస్తున్నాను కైక,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "రాముడిని పధ్నాలుగు సంవత్సరాలు పంపించెయ్యమని అనద్దు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
     "text": "తర్వాత చూద్దాం — దశరథుడి వేడుకోలు ఇంకా కొనసాగుతుంది, కైకేయ ఎలా స్పందిస్తుందో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

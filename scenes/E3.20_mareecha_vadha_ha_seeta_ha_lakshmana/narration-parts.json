@@ -36,55 +36,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 3,
-    "id": "02.03",
-    "text": "మారీచుడు రాముడికి ఒక్కొక్కసారి ఇక్కడే కనపడుతున్నాడు, కాని రాముడు అక్కడికి వెళ్ళేసరికి అక్కడెక్కడో దూరంగా కనపడతాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "సరే అని రాముడు అక్కడిదాకా పరుగు తీసి వెళ్ళేసరికి అంతర్ధానమయిపోతున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
-    "text": "అలా రాముడిని పరిగెత్తించి పరిగెత్తించి ఆ అరణ్యంలోకి చాలా దూరంగా తీసుకుపోయాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 6,
-    "id": "02.06",
-    "text": "అప్పుడిక రాముడు పరిగెత్తలేక అలసిపోయి ఒక చెట్టుకింద కూర్చున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 7,
-    "id": "02.07",
-    "text": "అప్పుడు దూరంగా, మృగాల యొక్క మందలో చెవులు అటూ ఇటూ తిప్పుతూ ఆ మృగం మళ్ళి కనపడింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "ఈ మృగాన్ని పట్టుకోవడానికి ఇక పరిగెత్తడం అనవసరమని రాముడు అనుకొని, ఒక త్రాచుపాములాంటి బాణాన్ని కోదండానికి సంధించి,",
+    "text": "మారీచుడు రాముడికి ఒక్కొక్కసారి ఇక్కడే కనపడుతున్నాడు, కాని రాముడు అక్కడికి వెళ్ళేసరికి అక్కడెక్కడో దూరంగా కనపడతాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -93,61 +48,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "బ్రహ్మగారి చేత నిర్మింపబడిన బ్రహ్మాస్త్రాన్ని అభిమంత్రించి, ఆ మృగం వైపు గురి చూసి బాణాన్ని విడిచిపెట్టాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "ఆ బ్రహ్మాస్త్రం నిప్పులు కక్కుతూ మారీచుడి మీద పడింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "అప్పుడా మారీచుడు రాముడి స్వరంతో గట్టిగా \"హా!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 5,
-    "id": "03.05",
-    "text": "సీత, హా!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 6,
-    "id": "03.06",
-    "text": "లక్ష్మణా\" అని అరిచాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 7,
-    "id": "03.07",
-    "text": "ఆనకట్ట పగిలి అందులోనుండి నీరు బయటకి వస్తే ఎలా ఉంటుందో,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 8,
-    "id": "03.08",
-    "text": "అలా మారీచుడి శరీరం నుండి నెత్తురు బయటకి ప్రవహిస్తుండగా ఆ మారీచుడు భూమి మీద తన నిజస్వరూపంతో పడిపోయాడు.",
+    "text": "సరే అని రాముడు అక్కడిదాకా పరుగు తీసి వెళ్ళేసరికి అంతర్ధానమయిపోతున్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -156,7 +57,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "ఆ దృశ్యాన్ని చూసిన రాముడికి వెంటనే సీతమ్మ గుర్తుకువచ్చింది, లక్ష్మణుడి మాట గుర్తుకువచ్చింది.",
+    "text": "అలా రాముడిని పరిగెత్తించి పరిగెత్తించి ఆ అరణ్యంలోకి చాలా దూరంగా తీసుకుపోయాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -165,16 +66,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "సీతకి ఎటువంటి ఉపద్రవం రాలేదు కదా అని బెంగపెట్టుకొని, అక్కడున్నటువంటి రెండు మృగాలని సంహరించి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 3,
-    "id": "04.03",
-    "text": "వాటి మాంసాన్ని తీసుకొని గబగబా ఆశ్రమం వైపు బయలుదేరాడు.",
+    "text": "అప్పుడిక రాముడు పరిగెత్తలేక అలసిపోయి ఒక చెట్టుకింద కూర్చున్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -183,79 +75,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "ఇంతలో మారీచుడు అన్నటువంటి 'హా!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 2,
-    "id": "05.02",
-    "text": "సీత, హా!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 3,
-    "id": "05.03",
-    "text": "లక్ష్మణా' అనే కేక సీతమ్మ చెవినపడింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "అప్పుడు సీతమ్మ లక్ష్మణుడిని పిలిచి \"చూడవయ్యా మీ అన్నగారు ఏదో ఉపద్రవంలో ఉన్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "'హా!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 6,
-    "id": "05.06",
-    "text": "సీత, హా!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 7,
-    "id": "05.07",
-    "text": "లక్ష్మణా' అని ఒక పెద్ద కేక వేశారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 8,
-    "id": "05.08",
-    "text": "బలిష్టమైన ఎద్దుని సింహం లాగుకొని పోతుంటే ఆ ఎద్దు ఎలా అరుస్తుందో, ఇవ్వాళ మీ అన్నగారు అలా అరుస్తున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 9,
-    "id": "05.09",
-    "text": "నాకు చాలా బెంగగా ఉంది, నువ్వు వెంటనే బయలుదేరి అరణ్యంలోకి వెళ్ళు\" అని పలికింది.",
+    "text": "అప్పుడు దూరంగా, మృగాల యొక్క మందలో చెవులు అటూ ఇటూ తిప్పుతూ ఆ మృగం మళ్ళి కనపడింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -264,7 +84,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "అప్పుడు లక్ష్మణుడు \"వదినా!",
+    "text": "ఈ మృగాన్ని పట్టుకోవడానికి ఇక పరిగెత్తడం అనవసరమని రాముడు అనుకొని, ఒక త్రాచుపాములాంటి బాణాన్ని కోదండానికి సంధించి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -273,7 +93,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "నువ్వు అనవసరంగా కంగారు పడుతున్నావు, అన్నయ్యకి ఏ ప్రమాదము రాదు\" అని అన్నాడు.",
+    "text": "బ్రహ్మగారి చేత నిర్మింపబడిన బ్రహ్మాస్త్రాన్ని అభిమంత్రించి, ఆ మృగం వైపు గురి చూసి బాణాన్ని విడిచిపెట్టాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -282,7 +102,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "తన భర్త ప్రమాదంలో ఉన్నాడేమో అన్న బెంగతో ఉన్న సీతమ్మ లక్ష్మణుడి మాటలకి ఆగ్రహించి \"నాకు ఇప్పుడు అర్థమయ్యింది నువ్వు ఎందుకు వచ్చావో.",
+    "text": "ఆ బ్రహ్మాస్త్రం నిప్పులు కక్కుతూ మారీచుడి మీద పడింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -291,7 +111,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "నువ్వు మీ అన్నకి తమ్ముడివి కావు, నువ్వు మీ అన్న పాలిట పరమ శత్రువువి.",
+    "text": "అప్పుడా మారీచుడు రాముడి స్వరంతో గట్టిగా \"హా!",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -300,7 +120,7 @@
     "scene": 7,
     "part": 3,
     "id": "07.03",
-    "text": "అందుకే మీ అన్న ప్రమాదంలో ఉంటే నువ్వు ఇంత సంతోషంగా కూర్చోగలుగుతున్నావు.",
+    "text": "సీత, హా!",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -309,97 +129,7 @@
     "scene": 7,
     "part": 4,
     "id": "07.04",
-    "text": "నువ్వు ఇంతకాలం రాముడి వెనకాల ఉండడానికి కారణం నా మీద నీకు కోరిక ఉండడమే.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 5,
-    "id": "07.05",
-    "text": "అందుకే, రాముడికి ప్రమాదం వస్తే నన్ను పొందాలని వెనకాలే వచ్చావు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 6,
-    "id": "07.06",
-    "text": "నీ ముఖంలో ఒక గొప్ప నమ్మకం, హాయి కనపడుతున్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 7,
-    "id": "07.07",
-    "text": "శత్రువు చేతిలో దెబ్బతిన్న రాముడి గొంతువిని ఇంత హాయిగా కూర్చున్నావు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 8,
-    "id": "07.08",
-    "text": "ఈ క్షణం కోసమే నువ్వు 13 సంవత్సరాల నుండి నిరీక్షిస్తున్నావు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 9,
-    "id": "07.09",
-    "text": "మహాపాపి!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 10,
-    "id": "07.10",
-    "text": "ఎంత ద్రోహబుద్ధితో వచ్చావురా.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 11,
-    "id": "07.11",
-    "text": "నువ్వు రాముడిని విడిచిపెట్టి ఉండలేక, రాముడికి సేవ చెయ్యడానికే వచ్చినవాడివి అయితే, రాముడు అరణ్యంలో 'హా!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 12,
-    "id": "07.12",
-    "text": "సీత, హా!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 13,
-    "id": "07.13",
-    "text": "లక్ష్మణా' అని అరిస్తే నువ్వు ఇంత హాయిగా కూర్చోగలవా, నాతో కూడా చెప్పకుండా అన్నగారిని కాపాడడం కోసం పరుగెత్తేవాడివి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 14,
-    "id": "07.14",
-    "text": "బహుశా భరతుడే నిన్ను పంపాడేమో, మీ ఇద్దరు కలిసి కుట్ర చేశారు\" అని పలికింది.",
+    "text": "లక్ష్మణా\" అని అరిచాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -408,6 +138,276 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
+    "text": "ఆనకట్ట పగిలి అందులోనుండి నీరు బయటకి వస్తే ఎలా ఉంటుందో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 2,
+    "id": "08.02",
+    "text": "అలా మారీచుడి శరీరం నుండి నెత్తురు బయటకి ప్రవహిస్తుండగా ఆ మారీచుడు భూమి మీద తన నిజస్వరూపంతో పడిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 1,
+    "id": "09.01",
+    "text": "ఆ దృశ్యాన్ని చూసిన రాముడికి వెంటనే సీతమ్మ గుర్తుకువచ్చింది, లక్ష్మణుడి మాట గుర్తుకువచ్చింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "సీతకి ఎటువంటి ఉపద్రవం రాలేదు కదా అని బెంగపెట్టుకొని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "అక్కడున్నటువంటి రెండు మృగాలని సంహరించి, వాటి మాంసాన్ని తీసుకొని గబగబా ఆశ్రమం వైపు బయలుదేరాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "ఇంతలో మారీచుడు అన్నటువంటి 'హా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "సీత, హా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 3,
+    "id": "12.03",
+    "text": "లక్ష్మణా' అనే కేక సీతమ్మ చెవినపడింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 4,
+    "id": "12.04",
+    "text": "అప్పుడు సీతమ్మ లక్ష్మణుడిని పిలిచి \"చూడవయ్యా మీ అన్నగారు ఏదో ఉపద్రవంలో ఉన్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "'హా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "సీత, హా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 3,
+    "id": "13.03",
+    "text": "లక్ష్మణా' అని ఒక పెద్ద కేక వేశారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 4,
+    "id": "13.04",
+    "text": "బలిష్టమైన ఎద్దుని సింహం లాగుకొని పోతుంటే ఆ ఎద్దు ఎలా అరుస్తుందో, ఇవ్వాళ మీ అన్నగారు అలా అరుస్తున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "నాకు చాలా బెంగగా ఉంది, నువ్వు వెంటనే బయలుదేరి అరణ్యంలోకి వెళ్ళు\" అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "అప్పుడు లక్ష్మణుడు \"వదినా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "నువ్వు అనవసరంగా కంగారు పడుతున్నావు, అన్నయ్యకి ఏ ప్రమాదము రాదు\" అని అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "తన భర్త ప్రమాదంలో ఉన్నాడేమో అన్న బెంగతో ఉన్న సీతమ్మ లక్ష్మణుడి మాటలకి ఆగ్రహించి \"నాకు ఇప్పుడు అర్థమయ్యింది నువ్వు ఎందుకు వచ్చావో.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "నువ్వు మీ అన్నకి తమ్ముడివి కావు, నువ్వు మీ అన్న పాలిట పరమ శత్రువువి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "అందుకే మీ అన్న ప్రమాదంలో ఉంటే నువ్వు ఇంత సంతోషంగా కూర్చోగలుగుతున్నావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "నువ్వు ఇంతకాలం రాముడి వెనకాల ఉండడానికి కారణం నా మీద నీకు కోరిక ఉండడమే.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "అందుకే, రాముడికి ప్రమాదం వస్తే నన్ను పొందాలని వెనకాలే వచ్చావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "నీ ముఖంలో ఒక గొప్ప నమ్మకం, హాయి కనపడుతున్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 3,
+    "id": "18.03",
+    "text": "శత్రువు చేతిలో దెబ్బతిన్న రాముడి గొంతువిని ఇంత హాయిగా కూర్చున్నావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "ఈ క్షణం కోసమే నువ్వు 13 సంవత్సరాల నుండి నిరీక్షిస్తున్నావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "మహాపాపి!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 3,
+    "id": "19.03",
+    "text": "ఎంత ద్రోహబుద్ధితో వచ్చావురా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "నువ్వు రాముడిని విడిచిపెట్టి ఉండలేక, రాముడికి సేవ చెయ్యడానికే వచ్చినవాడివి అయితే, రాముడు అరణ్యంలో 'హా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "సీత, హా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 3,
+    "id": "20.03",
+    "text": "లక్ష్మణా' అని అరిస్తే నువ్వు ఇంత హాయిగా కూర్చోగలవా, నాతో కూడా చెప్పకుండా అన్నగారిని కాపాడడం కోసం పరుగెత్తేవాడివి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "బహుశా భరతుడే నిన్ను పంపాడేమో, మీ ఇద్దరు కలిసి కుట్ర చేశారు\" అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
     "text": "తర్వాత చూద్దాం — వదినమ్మ మాటలకి లక్ష్మణుడు ఏమి సమాధానం చెప్పాడో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

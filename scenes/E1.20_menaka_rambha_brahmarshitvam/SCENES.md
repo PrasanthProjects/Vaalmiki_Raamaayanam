@@ -100,9 +100,9 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 11 — Scene 11
 
-**Visual:** [Vishwamitra Visual Lock] receiving this title with the same mixed feeling as his earlier "Rajarshi" title — progress, but still not the goal — and asking Brahma directly whether he's truly conquered his senses. (Location register: Kaushiki riverbank)
+**Visual:** [Vishwamitra Visual Lock] receiving the title Maharshi with neither joy nor grief — progress, but not the goal. (Location register: Kaushiki riverbank)
 
-**Story:** "ఈ మాట విన్న విశ్వామిత్రుడికి బాధ కా సంతోషం కాని కలగలేదు — 'ఇన్ని వేల సంవత్సరములు తపస్సు చేస్తే ఇప్పటికి మహర్షిని అయ్యాను, ఇక బ్రహ్మర్షిని ఎప్పుడు అవుతానో' అనుకొని బ్రహ్మగారిని, 'నేను నా ఇంద్రియాలని గెలిచానా' అన్నాడు."
+**Story:** "ఈ మాట విన్న విశ్వామిత్రుడికి బాధ కా సంతోషం కాని కలగలేదు — 'ఇన్ని వేల సంవత్సరములు తపస్సు చేస్తే ఇప్పటికి మహర్షిని అయ్యాను,
 
 **Image:** Pending creation.
 
@@ -110,13 +110,21 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 12 — Scene 12
 
+**Visual:** Vishwamitra asking [Brahma Visual Lock] directly whether he has conquered his senses. (Location register: Kaushiki riverbank)
+
+**Story:** ఇక బ్రహ్మర్షిని ఎప్పుడు అవుతానో' అనుకొని బ్రహ్మగారిని, 'నేను నా ఇంద్రియాలని గెలిచానా' అన్నాడు."
+
+**Image:** Pending creation.
+
+## 13 — Scene 13
+
 **Visual:** [Brahma Visual Lock] answering honestly, without flattery — no, not yet. (Location register: Kaushiki riverbank)
 
 **Story:** "అప్పుడు బ్రహ్మదేవుడు, 'ఇప్పటికైతే నువ్వు ఇంకా ఇంద్రియాలని గెలవలేదు, ఇంద్రియాలని గెలవడం అంత తేలిక కాదు' అన్నాడు."
 
 **Image:** Pending creation.
 
-## 13 — Scene 13
+## 14 — Scene 14
 
 **Visual:** [Vishwamitra Visual Lock] having a genuine moment of self-diagnosis — recognizing that his real enemy was never Vashishtha, it was always his own senses (anger AND desire both). (Location register: Kaushiki riverbank, reflection)
 
@@ -126,7 +134,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This single sentence retroactively reframes the ENTIRE multi-episode arc since E1.15 — the real antagonist was never Vashishtha's superior power, it was Vishwamitra's own unmastered anger and desire; this is the arc's true thematic resolution, give it a quiet, significant visual beat (perhaps a wordless reflective shot) before the next round of tapasya begins.
 
-## 14 — Scene 14
+## 15 — Scene 15
 
 **Visual:** A new, much harsher tapasya regimen: [Vishwamitra Visual Lock] surrounded by four fires under the summer sun, arms raised, staring directly at the sun itself; then, in the monsoon, standing in water up to his waist — an extreme, escalating physical discipline shown across seasons. (Location register: Kaushiki riverbank, extreme austerity montage)
 
@@ -136,7 +144,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This is the Panchagni-adjacent extreme austerity register — visually the most severe tapasya shown in the whole series so far; give this its own dedicated, physically demanding visual sequence.
 
-## 15 — Scene 15
+## 16 — Scene 16
 
 **Visual:** [Indra Visual Lock] watching this level of discipline with real alarm, dispatching [Rambha Visual Lock — another radiant apsara, distinct design from Menaka for visual variety] to test him again. (Location register: Divine realm → Kaushiki riverbank)
 
@@ -146,7 +154,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Note Rambha's own reluctance here — unlike the earlier scenes with Menaka (who agreed readily), Rambha is explicitly shown being afraid and needing to be persuaded, foreshadowing that this attempt will go very differently.
 
-## 16 — Scene 16
+## 17 — Scene 17
 
 **Visual:** [Vishwamitra Visual Lock] walking to bathe the next morning, encountering [Rambha Visual Lock] freshly bathed, radiant — but immediately noticing something is wrong with the scene around her. (Location register: Kaushiki riverbank, morning)
 
@@ -154,7 +162,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 17 — Scene 17
+## 18 — Scene 18
 
 **Visual:** [Vishwamitra Visual Lock] recognizing the artificiality — it isn't spring, yet everything around him is behaving as if it were — putting the deception together immediately, unlike his slower realization with Menaka. (Location register: Kaushiki riverbank)
 
@@ -164,7 +172,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This time he sees through the illusion INSTANTLY, in sharp contrast to being completely fooled by Menaka for ten full years — clear evidence of real growth, even though what follows shows his anger is still not fully mastered.
 
-## 18 — Scene 18
+## 19 — Scene 19
 
 **Visual:** On-screen verse text; [Vishwamitra Visual Lock] cursing Rambha on the spot, in fury. (Location register: Kaushiki riverbank)
 
@@ -174,7 +182,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — Vishwamitra's curse on Rambha: ten thousand years as stone.
 
-## 19 — Scene 19
+## 20 — Scene 20
 
 **Visual:** [Rambha Visual Lock] transforming instantly into stone, mid-motion — a striking, sudden freeze. (Location register: Kaushiki riverbank)
 
@@ -182,7 +190,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 20 — Scene 20
+## 21 — Scene 21
 
 **Visual:** [Vishwamitra Visual Lock] almost immediately regretful again — but this time, notably, he moves to soften the consequence rather than simply feeling bad privately, as he did after cursing his own sons. (Location register: Kaushiki riverbank)
 
@@ -192,7 +200,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This is meaningful incremental growth: he still loses his temper (the curse still happens), but now he immediately self-corrects AND proactively builds in a release clause without even being asked — a visible improvement over the pattern shown in every earlier episode of this arc.
 
-## 21 — Scene 21
+## 22 — Scene 22
 
 **Visual:** End card.
 

@@ -180,28 +180,10 @@
     "seconds": null
   },
   {
-    "scene": 10,
-    "part": 3,
-    "id": "10.03",
-    "text": "తన మీద పుట్టలు (వల్మీకం) కట్టినా తెలియని స్థితిలో ఉన్నాడు కాబట్టి, ఆయనిని వాల్మీకి అని పిలిచి, బయటకి రమ్మన్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 11,
     "part": 1,
     "id": "11.01",
-    "text": "ఇది ఆయనకి పౌరుష నామమయ్యింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 2,
-    "id": "11.02",
-    "text": "అప్పుడు ఆ మహర్షులు ఆయనిని ఉత్తర దిక్కుకి వెళ్లి భగవంతుడిని ధ్యానం చెయ్యమనారు.",
+    "text": "తన మీద పుట్టలు (వల్మీకం) కట్టినా తెలియని స్థితిలో ఉన్నాడు కాబట్టి, ఆయనిని వాల్మీకి అని పిలిచి, బయటకి రమ్మన్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -210,7 +192,7 @@
     "scene": 12,
     "part": 1,
     "id": "12.01",
-    "text": "వాల్మీకి మహర్షి కుశస్థలి అనే ప్రదేశానికి వెళ్లి, పరమశివుడిని ఆరాధన చేశారు.",
+    "text": "ఇది ఆయనకి పౌరుష నామమయ్యింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -219,7 +201,7 @@
     "scene": 12,
     "part": 2,
     "id": "12.02",
-    "text": "అప్పుడాయనకి విష్ణు కథ రాయగలిగే అదృష్టాన్ని బ్రహ్మగారు ఇచ్చారు.",
+    "text": "అప్పుడు ఆ మహర్షులు ఆయనిని ఉత్తర దిక్కుకి వెళ్లి భగవంతుడిని ధ్యానం చెయ్యమనారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -228,7 +210,16 @@
     "scene": 13,
     "part": 1,
     "id": "13.01",
-    "text": "అంటే, ఆయనకి త్రిమూర్తుల అనుగ్రహం లభించిందన్నమాట.",
+    "text": "వాల్మీకి మహర్షి కుశస్థలి అనే ప్రదేశానికి వెళ్లి, పరమశివుడిని ఆరాధన చేశారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "అప్పుడాయనకి విష్ణు కథ రాయగలిగే అదృష్టాన్ని బ్రహ్మగారు ఇచ్చారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -237,7 +228,7 @@
     "scene": 14,
     "part": 1,
     "id": "14.01",
-    "text": "ఇంతలో నారద మహర్షి వచ్చారు.",
+    "text": "అంటే, ఆయనకి త్రిమూర్తుల అనుగ్రహం లభించిందన్నమాట.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -246,8 +237,8 @@
     "scene": 15,
     "part": 1,
     "id": "15.01",
-    "text": "తపస్స్వాధ్యాయ నిరతం తపస్వీ వాగ్విదాం వరం । నారదం పరిపప్రచ్ఛ వాల్మీకిర్మునిపుంగవం ॥",
-    "complete_verse_block": true,
+    "text": "ఇంతలో నారద మహర్షి వచ్చారు.",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -255,26 +246,8 @@
     "scene": 16,
     "part": 1,
     "id": "16.01",
-    "text": "ఇది వాల్మీకి మహర్షి రామాయణములో రాసిన మొదటి శ్లోకం.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 16,
-    "part": 2,
-    "id": "16.02",
-    "text": "దీని అర్థం ఏమిటంటే, తపస్వి, ముని, గొప్ప వాగ్విదాంవరుడైన నారద మహర్షిని పరిప్రశ్న చేయడానికి తపస్వియైన వాల్మీకి మహర్షి సిద్ధపడుతున్నారు అని.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 16,
-    "part": 3,
-    "id": "16.03",
-    "text": "వాల్మీకి మహర్షి నారదుడిని ఏమడిగారంటే,",
-    "complete_verse_block": false,
+    "text": "తపస్స్వాధ్యాయ నిరతం తపస్వీ వాగ్విదాం వరం । నారదం పరిపప్రచ్ఛ వాల్మీకిర్మునిపుంగవం ॥",
+    "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -282,35 +255,35 @@
     "scene": 17,
     "part": 1,
     "id": "17.01",
-    "text": "కోన్వస్మిన్ సాంప్రతం లోకే గుణవాన్ కశ్చ వీర్యవాన్ । ధర్మజ్ఞశ్చ కృతజ్ఞశ్చ సత్యవాక్యో ధృఢవ్రతః ॥ చారిత్రేణ చ కో యుక్తః సర్వభూతేషు కో హితః । విద్వాన్ కః కః సమర్థశ్చ కశ్చ ఏక ప్రియదర్శనః ॥ ఆత్మవాన్ కో జిత క్రోధో ద్యుతిమాన్ కః అనసూయకః । కస్య బిభ్యతి దేవాః చ జాత రోషస్య సంయుగే ॥",
-    "complete_verse_block": true,
-    "needs_timing_review": true,
+    "text": "ఇది వాల్మీకి మహర్షి రామాయణములో రాసిన మొదటి శ్లోకం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "దీని అర్థం ఏమిటంటే, తపస్వి, ముని, గొప్ప వాగ్విదాంవరుడైన నారద మహర్షిని పరిప్రశ్న చేయడానికి తపస్వియైన వాల్మీకి మహర్షి సిద్ధపడుతున్నారు అని.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 3,
+    "id": "17.03",
+    "text": "వాల్మీకి మహర్షి నారదుడిని ఏమడిగారంటే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
     "seconds": null
   },
   {
     "scene": 18,
     "part": 1,
     "id": "18.01",
-    "text": "ఈ లోకములో ఇప్పుడే, ఇక్కడే ఉన్న గుణవంతుడు, వీర్యవంతుడు, ధర్మాత్ముడు, కృతజ్ఞత భావం కలిగినవాడు, సత్యం పలికేవాడు, ధృడమైన సంకల్పం కలిగినవాడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 18,
-    "part": 2,
-    "id": "18.02",
-    "text": "చారిత్రము కలిగినవాడు, అన్ని ప్రాణుల మంచి కోరేవాడు, విద్యావంతుడు, సమర్థుడు, ఎన్నిసార్లు చూసినా ఇంకా చూడాలనిపించేంత సౌందర్యం కలిగినవాడు, ధైర్యవంతుడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 18,
-    "part": 3,
-    "id": "18.03",
-    "text": "క్రోధాన్ని జయించినవాడు, తేజస్సు కలిగినవాడు, ఎదుటివారిలో మంచిని చూసేవాడు, అవసరమైనప్పుడు కోపాన్ని తెచ్చుకోగలిగినవాడు ఉంటే నాకు చెప్పండి అని అడిగాడు.",
-    "complete_verse_block": false,
+    "text": "కోన్వస్మిన్ సాంప్రతం లోకే గుణవాన్ కశ్చ వీర్యవాన్ । ధర్మజ్ఞశ్చ కృతజ్ఞశ్చ సత్యవాక్యో ధృఢవ్రతః ॥",
+    "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -318,17 +291,8 @@
     "scene": 19,
     "part": 1,
     "id": "19.01",
-    "text": "\"నువ్వు చెప్పిన గుణాలన్నీ ఒకే మనిషిలో ఉండడం కష్టమే, కాని ఒకడు ఉన్నాడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 19,
-    "part": 2,
-    "id": "19.02",
-    "text": "నీకు ఇప్పుడు అతని గురించి చెప్తాను\" అని నారద మహర్షి ఇలా అన్నారు.",
-    "complete_verse_block": false,
+    "text": "చారిత్రేణ చ కో యుక్తః సర్వభూతేషు కో హితః । విద్వాన్ కః కః సమర్థశ్చ కశ్చ ఏక ప్రియదర్శనః ॥",
+    "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -336,17 +300,8 @@
     "scene": 20,
     "part": 1,
     "id": "20.01",
-    "text": "ఇక్ష్వాకువంశములో రాముడని పేరుగల ఒక వ్యక్తి జన్మించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 20,
-    "part": 2,
-    "id": "20.02",
-    "text": "ఆయనకి నువ్వు అడిగిన 16 గుణములు ఉన్నాయి అని చెప్పి ఒక 100 శ్లోకాలలో సంక్షిప్త రామాయణాన్ని వాల్మీకి మహర్షికి నారదుడు చెప్పాడు.",
-    "complete_verse_block": false,
+    "text": "ఆత్మవాన్ కో జిత క్రోధో ద్యుతిమాన్ కః అనసూయకః । కస్య బిభ్యతి దేవాః చ జాత రోషస్య సంయుగే ॥",
+    "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -354,7 +309,7 @@
     "scene": 21,
     "part": 1,
     "id": "21.01",
-    "text": "చెప్పిన తరవాత నారదుడు వెళ్ళిపోయాడు.",
+    "text": "ఈ లోకములో ఇప్పుడే, ఇక్కడే ఉన్న గుణవంతుడు, వీర్యవంతుడు, ధర్మాత్ముడు, కృతజ్ఞత భావం కలిగినవాడు, సత్యం పలికేవాడు, ధృడమైన సంకల్పం కలిగినవాడు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -363,6 +318,69 @@
     "scene": 22,
     "part": 1,
     "id": "22.01",
+    "text": "చారిత్రము కలిగినవాడు, అన్ని ప్రాణుల మంచి కోరేవాడు, విద్యావంతుడు, సమర్థుడు, ఎన్నిసార్లు చూసినా ఇంకా చూడాలనిపించేంత సౌందర్యం కలిగినవాడు, ధైర్యవంతుడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "క్రోధాన్ని జయించినవాడు, తేజస్సు కలిగినవాడు, ఎదుటివారిలో మంచిని చూసేవాడు, అవసరమైనప్పుడు కోపాన్ని తెచ్చుకోగలిగినవాడు ఉంటే నాకు చెప్పండి అని అడిగాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "\"నువ్వు చెప్పిన గుణాలన్నీ ఒకే మనిషిలో ఉండడం కష్టమే, కాని ఒకడు ఉన్నాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 2,
+    "id": "24.02",
+    "text": "నీకు ఇప్పుడు అతని గురించి చెప్తాను\" అని నారద మహర్షి ఇలా అన్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
+    "text": "ఇక్ష్వాకువంశములో రాముడని పేరుగల ఒక వ్యక్తి జన్మించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 2,
+    "id": "25.02",
+    "text": "ఆయనకి నువ్వు అడిగిన 16 గుణములు ఉన్నాయి అని చెప్పి ఒక 100 శ్లోకాలలో సంక్షిప్త రామాయణాన్ని వాల్మీకి మహర్షికి నారదుడు చెప్పాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 1,
+    "id": "26.01",
+    "text": "చెప్పిన తరవాత నారదుడు వెళ్ళిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 1,
+    "id": "27.01",
     "text": "తర్వాత చూద్దాం — ఒక దుఃఖకరమైన సంఘటన వాల్మీకి మహర్షి నోటివెంట ప్రపంచపు మొట్టమొదటి శ్లోకాన్ని ఎలా పలికించిందో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

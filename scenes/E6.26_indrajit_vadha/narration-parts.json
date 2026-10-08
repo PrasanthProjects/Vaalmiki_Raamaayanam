@@ -27,28 +27,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 3,
-    "id": "02.03",
-    "text": "వారు అక్కడికి వెళ్ళేసరికి ఇంద్రజిత్ ఆ హోమం చెయ్యడం కోసం సిధ్దపడుతున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "తన హోమాన్ని ఎవరూ పాడుచెయ్యకుండా చుట్టూ సైన్యాన్ని కాపు పెట్టాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "అప్పుడు విభీషణుడు \"లక్ష్మణా!",
+    "text": "వారు అక్కడికి వెళ్ళేసరికి ఇంద్రజిత్ ఆ హోమం చెయ్యడం కోసం సిధ్దపడుతున్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -57,70 +39,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "నువ్వు ఒకపక్క నుండి సైన్యాన్ని బాణాలతో కొట్టి కాకావికలం చెయ్యి, అప్పుడు ఇంద్రజిత్ కనపడతాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "అదే సమయంలో హనుమ వెళ్ళి రాక్షస సైన్యాన్ని తుదముట్టించెయ్యాలి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "అంతమంది అక్కడ పడిపోతుంటే వాడు అక్కడ కూర్చుని హోమం చెయ్యలేడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 5,
-    "id": "03.05",
-    "text": "కాబట్టి రథం ఎక్కి వస్తాడు, అప్పుడు నువ్వు వాడిని కొట్టాలి\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 6,
-    "id": "03.06",
-    "text": "వెంటనే లక్ష్మణుడు బాణ ప్రయోగం చేశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 7,
-    "id": "03.07",
-    "text": "అప్పుడా సైన్యం పక్కకి తప్పుకుంది, వారు పక్కకి తప్పుకోగానే ఆ మర్రి చెట్టు కనపడింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 8,
-    "id": "03.08",
-    "text": "వెంటనే హనుమంతుడు అరవీరభయంకరుడై ఆ రాక్షసులని మర్దించేశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 9,
-    "id": "03.09",
-    "text": "హనుమ ప్రతాపం ముందు ఆ రాక్షస సైన్యం నిలబడలేక పెద్ద హాహాకారాలు చేశారు.",
+    "text": "తన హోమాన్ని ఎవరూ పాడుచెయ్యకుండా చుట్టూ సైన్యాన్ని కాపు పెట్టాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -129,7 +48,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "ఆ హాహాకారాలు విన్న ఇంద్రజిత్ హోమాన్ని ఆపి 'ముందు హనుమంతుడిని సంహరించి, అప్పుడు హోమం చేస్తాను' అని అనుకొని రథం ఎక్కాడు.",
+    "text": "అప్పుడు విభీషణుడు \"లక్ష్మణా!",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -138,7 +57,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "అప్పుడాయన ఒక బ్రహ్మాండమైన అస్త్రాన్ని హనుమంతుడి మీద ప్రయోగిద్దామని ఆ అస్త్రాన్ని అభిమంత్రిస్తుండగా లక్ష్మణుడు ధనుష్టంకారం చేశాడు.",
+    "text": "నువ్వు ఒకపక్క నుండి సైన్యాన్ని బాణాలతో కొట్టి కాకావికలం చెయ్యి, అప్పుడు ఇంద్రజిత్ కనపడతాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -147,43 +66,7 @@
     "scene": 4,
     "part": 3,
     "id": "04.03",
-    "text": "ఆ టంకారానికి ఇంద్రజిత్ లక్ష్మణుడి వైపు చూశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "అప్పుడు లక్ష్మణుడు \"దుర్మార్గుడా, హనుమతో యుద్ధం ఎందుకు, నీతో యుద్ధం చేయుటకు నేను వచ్చాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 5,
-    "id": "04.05",
-    "text": "పౌరుషం ఉంటే నాతో యుద్ధం చెయ్యి\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 6,
-    "id": "04.06",
-    "text": "అప్పుడు ఇంద్రజిత్ \"ఇంతకముందు నిన్ను రెండు మూడుసార్లు కొట్టాను, అయినా బుద్ధి లేకుండా మళ్ళి వచ్చావు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 7,
-    "id": "04.07",
-    "text": "చూడు నీకు ఎటువంటి యుద్ధం చూపిస్తానో ఇవ్వాళ\" అని ఇద్దరూ యుద్ధం మొదలుపెట్టారు.",
+    "text": "అదే సమయంలో హనుమ వెళ్ళి రాక్షస సైన్యాన్ని తుదముట్టించెయ్యాలి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -192,7 +75,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "లక్ష్మణుడి పక్కన ఉన్న విభీషణుడిని ఇంద్రజిత్ చూసి అన్నాడు \"నువ్వు ఇక్కడే పుట్టి ఇక్కడే పెరిగావు,",
+    "text": "అంతమంది అక్కడ పడిపోతుంటే వాడు అక్కడ కూర్చుని హోమం చెయ్యలేడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -201,7 +84,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "నువ్వు స్వయానా నా తండ్రికి తమ్ముడివి, నాకు పినతండ్రివి.",
+    "text": "కాబట్టి రథం ఎక్కి వస్తాడు, అప్పుడు నువ్వు వాడిని కొట్టాలి\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -210,25 +93,7 @@
     "scene": 5,
     "part": 3,
     "id": "05.03",
-    "text": "నీ కొడుకు వరసైన నన్ను చంపడానికి ఇవ్వాళ శత్రువులతో చేతులు కలిపావే నీకు ఇలా చేయుటకు సిగ్గుగా లేదా.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "శత్రువులతో చేతులు కలిపి తనవారిని చంపినవాడు చివరికి ఆ శత్రువుల చేతులలోనే చనిపోతాడు\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "విభీషణుడు అన్నాడు \"నీ తండ్రియందు, నీయందు పాపం ఉంది కనుక నేను మిమ్మల్ని విడిచి ధర్మాత్ముడైన రాముడి పక్కకి వచ్చాను\" అన్నాడు.",
+    "text": "వెంటనే లక్ష్మణుడు బాణ ప్రయోగం చేశాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -237,7 +102,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "అప్పుడు ఇంద్రజిత్ కి లక్ష్మణుడికి ఘోరమైన యుధం జరిగినది.",
+    "text": "అప్పుడా సైన్యం పక్కకి తప్పుకుంది, వారు పక్కకి తప్పుకోగానే ఆ మర్రి చెట్టు కనపడింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -246,7 +111,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "ఇద్దరూ ఒకరిని ఒకరు బాణాలతో కొట్టుకున్నారు.",
+    "text": "వెంటనే హనుమంతుడు అరవీరభయంకరుడై ఆ రాక్షసులని మర్దించేశాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -255,88 +120,7 @@
     "scene": 6,
     "part": 3,
     "id": "06.03",
-    "text": "లక్ష్మణుడు వేసిన బాణాలకి ఇంద్రజిత్ యొక్క ధనుస్సు ముక్కలయిపోయింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "తరువాత ఇంద్రజిత్ బాణాలతో లక్ష్మణుడి కవచాన్ని పగలగొట్టాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "ఇద్దరూ సింహాలలా యుద్ధం చేశారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 6,
-    "id": "06.06",
-    "text": "విభీషణుడు ఆ రాక్షసుల మీద బాణాలని వేసి వాళ్ళని సంహరించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 7,
-    "id": "06.07",
-    "text": "ఇంద్రజిత్ కి లక్ష్మణుడికి 3 రోజుల పాటు భయంకరమైన యుద్ధం జరిగినది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 8,
-    "id": "06.08",
-    "text": "ఆఖరికి ఇంద్రజిత్ యొక్క సారధిని లక్ష్మణుడు కొట్టాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 9,
-    "id": "06.09",
-    "text": "అప్పుడా ఇంద్రజిత్ ఒక చేతితో సారధ్యం చేస్తూ లక్ష్మణుడితో యుద్ధం చేశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 10,
-    "id": "06.10",
-    "text": "అప్పుడు నలుగురు వానర వీరులు ఆ రథం యొక్క గుర్రాలని కిందకి లాగేసి ఆ రథాన్ని నాశనం చేశారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 11,
-    "id": "06.11",
-    "text": "లక్ష్మణుడు ఎన్ని అస్త్రాలని వేసినా ఇంద్రజిత్ సంహరింపబడకపోయేసరికి విభీషణుడు అన్నాడు \"ఆ ఇంద్రజిత్ పౌరుషం పెరిగిపోతుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 12,
-    "id": "06.12",
-    "text": "ఏదో ఒకటి చేసి ఆ ఇంద్రజిత్ ని సంహరించు\" అన్నాడు.",
+    "text": "హనుమ ప్రతాపం ముందు ఆ రాక్షస సైన్యం నిలబడలేక పెద్ద హాహాకారాలు చేశారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -345,8 +129,8 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "ధర్మాత్మా సత్య సంధశ్చ రామో దాశరథిర్యది । పౌరుషే చా అప్రతిద్వంద్వః తదైనం జహి రావణిమ్ ॥",
-    "complete_verse_block": true,
+    "text": "ఆ హాహాకారాలు విన్న ఇంద్రజిత్ హోమాన్ని ఆపి 'ముందు హనుమంతుడిని సంహరించి, అప్పుడు హోమం చేస్తాను' అని అనుకొని రథం ఎక్కాడు.",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -354,7 +138,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "అప్పుడు లక్ష్మణుడు రెండు కోరలు కలిగిన సర్పంలాంటి ఒక బాణాన్ని తీసి, వింటినారికి తొడిగి \"మా అన్న రాముడు ధర్మాత్ముడైతే, సత్యసంధుడైతే,",
+    "text": "అప్పుడాయన ఒక బ్రహ్మాండమైన అస్త్రాన్ని హనుమంతుడి మీద ప్రయోగిద్దామని ఆ అస్త్రాన్ని అభిమంత్రిస్తుండగా లక్ష్మణుడు ధనుష్టంకారం చేశాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -363,34 +147,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "దశరథుడి కొడుకే అయితే,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "పౌరుషం ఉన్నవాడే అయితే నా ఎదురుగా నిలబడిన ప్రతిద్వంది అయిన ఇంద్రజిత్ నిగ్రహింపబడుగాక\" అని బాణ ప్రయోగం చేశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "ఆ బాణం వెళ్ళి ఇంద్రజిత్ కంఠానికి తగలగానే ఆయన శిరస్సు శరీరం నుండి విడిపోయి కింద పడిపోయింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 5,
-    "id": "08.05",
-    "text": "ఇంద్రజిత్ మరణించాడు.",
+    "text": "ఆ టంకారానికి ఇంద్రజిత్ లక్ష్మణుడి వైపు చూశాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -399,6 +156,249 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
+    "text": "అప్పుడు లక్ష్మణుడు \"దుర్మార్గుడా, హనుమతో యుద్ధం ఎందుకు, నీతో యుద్ధం చేయుటకు నేను వచ్చాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "పౌరుషం ఉంటే నాతో యుద్ధం చెయ్యి\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "అప్పుడు ఇంద్రజిత్ \"ఇంతకముందు నిన్ను రెండు మూడుసార్లు కొట్టాను, అయినా బుద్ధి లేకుండా మళ్ళి వచ్చావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "చూడు నీకు ఎటువంటి యుద్ధం చూపిస్తానో ఇవ్వాళ\" అని ఇద్దరూ యుద్ధం మొదలుపెట్టారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "లక్ష్మణుడి పక్కన ఉన్న విభీషణుడిని ఇంద్రజిత్ చూసి అన్నాడు \"నువ్వు ఇక్కడే పుట్టి ఇక్కడే పెరిగావు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "నువ్వు స్వయానా నా తండ్రికి తమ్ముడివి, నాకు పినతండ్రివి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "నీ కొడుకు వరసైన నన్ను చంపడానికి ఇవ్వాళ శత్రువులతో చేతులు కలిపావే నీకు ఇలా చేయుటకు సిగ్గుగా లేదా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "శత్రువులతో చేతులు కలిపి తనవారిని చంపినవాడు చివరికి ఆ శత్రువుల చేతులలోనే చనిపోతాడు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "విభీషణుడు అన్నాడు \"నీ తండ్రియందు, నీయందు పాపం ఉంది కనుక నేను మిమ్మల్ని విడిచి ధర్మాత్ముడైన రాముడి పక్కకి వచ్చాను\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "అప్పుడు ఇంద్రజిత్ కి లక్ష్మణుడికి ఘోరమైన యుధం జరిగినది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "ఇద్దరూ ఒకరిని ఒకరు బాణాలతో కొట్టుకున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 3,
+    "id": "14.03",
+    "text": "లక్ష్మణుడు వేసిన బాణాలకి ఇంద్రజిత్ యొక్క ధనుస్సు ముక్కలయిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 4,
+    "id": "14.04",
+    "text": "తరువాత ఇంద్రజిత్ బాణాలతో లక్ష్మణుడి కవచాన్ని పగలగొట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "ఇద్దరూ సింహాలలా యుద్ధం చేశారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "విభీషణుడు ఆ రాక్షసుల మీద బాణాలని వేసి వాళ్ళని సంహరించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 3,
+    "id": "15.03",
+    "text": "ఇంద్రజిత్ కి లక్ష్మణుడికి 3 రోజుల పాటు భయంకరమైన యుద్ధం జరిగినది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 4,
+    "id": "15.04",
+    "text": "ఆఖరికి ఇంద్రజిత్ యొక్క సారధిని లక్ష్మణుడు కొట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "అప్పుడా ఇంద్రజిత్ ఒక చేతితో సారధ్యం చేస్తూ లక్ష్మణుడితో యుద్ధం చేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "అప్పుడు నలుగురు వానర వీరులు ఆ రథం యొక్క గుర్రాలని కిందకి లాగేసి ఆ రథాన్ని నాశనం చేశారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "లక్ష్మణుడు ఎన్ని అస్త్రాలని వేసినా ఇంద్రజిత్ సంహరింపబడకపోయేసరికి విభీషణుడు అన్నాడు \"ఆ ఇంద్రజిత్ పౌరుషం పెరిగిపోతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "ఏదో ఒకటి చేసి ఆ ఇంద్రజిత్ ని సంహరించు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "ధర్మాత్మా సత్య సంధశ్చ రామో దాశరథిర్యది । పౌరుషే చా అప్రతిద్వంద్వః తదైనం జహి రావణిమ్ ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "అప్పుడు లక్ష్మణుడు రెండు కోరలు కలిగిన సర్పంలాంటి ఒక బాణాన్ని తీసి, వింటినారికి తొడిగి \"మా అన్న రాముడు ధర్మాత్ముడైతే, సత్యసంధుడైతే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "దశరథుడి కొడుకే అయితే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "పౌరుషం ఉన్నవాడే అయితే నా ఎదురుగా నిలబడిన ప్రతిద్వంది అయిన ఇంద్రజిత్ నిగ్రహింపబడుగాక\" అని బాణ ప్రయోగం చేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "ఆ బాణం వెళ్ళి ఇంద్రజిత్ కంఠానికి తగలగానే ఆయన శిరస్సు శరీరం నుండి విడిపోయి కింద పడిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "ఇంద్రజిత్ మరణించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
     "text": "తర్వాత చూద్దాం — రావణుడి ఆగ్రహం, ఆఖరి యుద్ధం.",
     "complete_verse_block": false,
     "needs_timing_review": false,

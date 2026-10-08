@@ -46,9 +46,9 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 5 — Scene 05
 
-**Visual:** [Use Parashurama Visual Lock] arriving with overwhelming, almost apocalyptic force — described in the text's own striking simile, like Rudra himself at the dissolution of the world — carrying the great bow of Vishnu across his shoulder. (Location register: Forest road, dramatic entrance)
+**Visual:** [Use Parashurama Visual Lock] arriving with overwhelming, almost apocalyptic force — like Rudra at the dissolution — the great bow of Vishnu across his shoulder. (Location register: Forest road, dramatic entrance)
 
-**Story:** "ఇంతలోనే ప్రళయకాల రుద్రుడు వచ్చినట్టు విష్ణు చాపాన్ని పట్టుకొని పరశురాముడు వచ్చి, 'నేను ఈ రోజే విన్నాను, శివ ధనుస్సుని విరిచావంట గురించి విన్నాను రామా, ఏమిటి నీ గొప్పతనం, నువ్వు అంతటివాడివైతే ఈ విష్ణు చాపాన్ని ఎక్కుపెట్టి బాణాన్ని నారిలో సంధించు' అన్నారు."
+**Story:** "ఇంతలోనే ప్రళయకాల రుద్రుడు వచ్చినట్టు విష్ణు చాపాన్ని పట్టుకొని పరశురాముడు వచ్చి, 'నేను ఈ రోజే విన్నాను,
 
 **Image:** Pending creation.
 
@@ -56,15 +56,31 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 6 — Scene 06
 
-**Visual:** [Dasharatha Visual Lock] reacting with immediate, visceral terror — not measured concern this time, real panic — rushing to plead directly with Parashurama, citing his fearsome reputation explicitly. (Location register: Forest road, tense confrontation)
+**Visual:** Parashurama thrusting the bow toward [Rama Visual Lock] in challenge. (Location register: Forest road, dramatic entrance)
 
-**Story:** "ఈ మాటలు విన్న దశరథుడు హడలిపోయి, పరుగెత్తుకుంటూ పరశురాముడి దగ్గరికి వచ్చి, 'మహానుభావ! ఈ భూమండలం మీద ఉన్న క్షత్రియులపై 21 సార్లు దండయాత్ర చేశావు, క్షత్రియులందరినీ సంహరించావు, ఇవ్వాళ హిమాలయాల మీద తపస్సు చేసుకుంటున్నావు, లేకలేక నాకు పిల్లలు పుట్టారు, వివాహాలు చేసుకొని ఇంటికి వెళుతున్నారు, నన్ను క్షమించు' అని దశరథుడు ప్రాధేయపడ్డాడు."
+**Story:** శివ ధనుస్సుని విరిచావంట గురించి విన్నాను రామా, ఏమిటి నీ గొప్పతనం, నువ్వు అంతటివాడివైతే ఈ విష్ణు చాపాన్ని ఎక్కుపెట్టి బాణాన్ని నారిలో సంధించు' అన్నారు."
+
+**Image:** Pending creation.
+
+## 7 — Scene 07
+
+**Visual:** [Dasharatha Visual Lock] in real panic, running to Parashurama — recalling his twenty-one campaigns. (Location register: Forest road, tense confrontation)
+
+**Story:** "ఈ మాటలు విన్న దశరథుడు హడలిపోయి, పరుగెత్తుకుంటూ పరశురాముడి దగ్గరికి వచ్చి, 'మహానుభావ! ఈ భూమండలం మీద ఉన్న క్షత్రియులపై 21 సార్లు దండయాత్ర చేశావు,
 
 **Image:** Pending creation.
 
 **Source note:** Dasharatha's specific, detailed fear here (naming the "21 campaigns against all Kshatriyas") establishes real, earned stakes — this isn't performative alarm, Parashurama's reputation is genuinely terrifying and well-founded, as the coming backstory will confirm.
 
-## 7 — Scene 07
+## 8 — Scene 08
+
+**Visual:** Dasharatha pleading with joined hands — my sons, born so late, are only going home from their weddings. (Location register: Forest road, tense confrontation)
+
+**Story:** క్షత్రియులందరినీ సంహరించావు, ఇవ్వాళ హిమాలయాల మీద తపస్సు చేసుకుంటున్నావు, లేకలేక నాకు పిల్లలు పుట్టారు, వివాహాలు చేసుకొని ఇంటికి వెళుతున్నారు, నన్ను క్షమించు' అని దశరథుడు ప్రాధేయపడ్డాడు."
+
+**Image:** Pending creation.
+
+## 9 — Scene 09
 
 **Visual:** [Parashurama Visual Lock] ignoring Dasharatha entirely, addressing Rama directly and only. (Location register: Forest road)
 
@@ -72,7 +88,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 8 — Scene 08
+## 10 — Scene 10
 
 **Visual:** Mythic inset begins, told through visual flashback rather than direct narration (the text itself moves into Parashurama's backstory via illustration-caption structure at this point in the source) — [Kartaviryarjuna — one-scene antagonist king] and [Parashurama Visual Lock] in fierce battle. (Location register: Mythic inset, desaturated, backstory)
 
@@ -80,9 +96,9 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-**Source note:** Checked against the reconciled OCR: pp. 97-98 carry no prose — only these illustration captions. Scenes 8-10 therefore narrate the captions verbatim (the same treatment scene 11 already gives its caption), replacing the earlier English placeholders so the backstory is actually told.
+**Source note:** Checked against the reconciled OCR: pp. 97-98 carry no prose — only these illustration captions. Scenes 10-12 therefore narrate the captions verbatim (the same treatment scene 13 already gives its caption), replacing the earlier English placeholders so the backstory is actually told.
 
-## 9 — Scene 09
+## 11 — Scene 11
 
 **Visual:** [Sage Jamadagni — Parashurama's father, one-scene appearance, dignified elderly-sage register] mildly rebuking his son for excessive anger even in a justified cause, advising a pilgrimage instead. (Location register: Mythic inset)
 
@@ -92,7 +108,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Note the thematic echo here with Vishwamitra's own arc (E1.15-E1.21) — another sage figure whose excessive anger, even when provoked, draws correction; this is a recurring moral thread across the whole Khaanda worth keeping consistent in tone.
 
-## 10 — Scene 10
+## 12 — Scene 12
 
 **Visual:** [Parashurama Visual Lock], overcome with fury after his father Jamadagni's own death (implied by the caption "జమదగ్ని మరణమునకు ఆవేశించిన పరశురాముడు"), launching his famous 21 campaigns of vengeance against the Kshatriya class entire. (Location register: Mythic inset, escalating violence, non-graphic per style guide)
 
@@ -100,9 +116,9 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-**Source note:** This confirms and completes the "21 campaigns" detail Dasharatha cited in scene 6 — treat this as the historical explanation behind his fearsome reputation, handled with the same non-graphic restraint used for all large-scale violence elsewhere in the series.
+**Source note:** This confirms and completes the "21 campaigns" detail Dasharatha cited in scenes 7-8 — treat this as the historical explanation behind his fearsome reputation, handled with the same non-graphic restraint used for all large-scale violence elsewhere in the series.
 
-## 11 — Scene 11
+## 13 — Scene 13
 
 **Visual:** Cut back to present: [Parashurama Visual Lock] confronting [Rama Visual Lock] directly and forcefully, demanding he string the bow. (Location register: Forest road, present, returning to direct confrontation)
 
@@ -110,17 +126,25 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 12 — Scene 12
+## 14 — Scene 14
 
-**Visual:** [Rama Visual Lock] finally speaking — calm, but with a pointed, almost wry edge, explaining his earlier silence as deliberate filial respect rather than intimidation. (Location register: Forest road)
+**Visual:** [Rama Visual Lock] finally speaking — calm, with a pointed, almost wry edge. (Location register: Forest road)
 
-**Story:** "అప్పుడు రాముడు ఇలా అన్నాడు — 'పరశురామ! నువ్వు విష్ణు చాపం ఎక్కుపెట్టు, ఎక్కుపెట్టు అని నన్ను ఒక పనికిమాలినవాడిగా ఇందాకటి నుండి మాట్లాడుతున్నావు, ఎందుకు ఊరుకున్నానో తెలుసా, తండ్రిగారు పక్కనుండగా కొడుకు ఎక్కువ మాట్లాడకూడదు కనుక, నేను తప్పకుండా ఎక్కుపెడతాను.'"
+**Story:** "అప్పుడు రాముడు ఇలా అన్నాడు — 'పరశురామ! నువ్వు విష్ణు చాపం ఎక్కుపెట్టు, ఎక్కుపెట్టు అని నన్ను ఒక పనికిమాలినవాడిగా ఇందాకటి నుండి మాట్లాడుతున్నావు,
 
 **Image:** Pending creation.
 
 **Source note:** This line reveals Rama's composure was never fear or hesitation — a deliberate, principled restraint out of respect for his father, consistent with his established Character Bible voice profile (calm, steady, never rattled) even under direct provocation from someone as fearsome as Parashurama.
 
-## 13 — Scene 13
+## 15 — Scene 15
+
+**Visual:** Rama glancing toward his father as he explains his silence, then reaching for the bow. (Location register: Forest road)
+
+**Story:** ఎందుకు ఊరుకున్నానో తెలుసా, తండ్రిగారు పక్కనుండగా కొడుకు ఎక్కువ మాట్లాడకూడదు కనుక, నేను తప్పకుండా ఎక్కుపెడతాను.'"
+
+**Image:** Pending creation.
+
+## 16 — Scene 16
 
 **Visual:** [Rama Visual Lock] taking the bow and stringing it with visible ease, then nocking an arrow — [Parashurama Visual Lock]'s own expression beginning to shift from aggression to uncertainty. (Location register: Forest road, the second bow of the Khaanda)
 
@@ -130,27 +154,43 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** A deliberate visual echo of the Shiva-bow scene in E1.22, but with a very different emotional register — no crowd, no celebration, a tense one-on-one confrontation instead.
 
-## 14 — Scene 14
+## 17 — Scene 17
 
-**Visual:** [Rama Visual Lock] speaking with total composure, offering Parashurama genuine respect and an explicit reason he won't be killed — even now, mid-confrontation, articulating exactly why he'll spare him. (Location register: Forest road)
+**Visual:** [Rama Visual Lock], arrow set on the string of Vishnu's bow, total composure — sparing Parashurama for his birth and his kinship with Vishwamitra. (Location register: Forest road)
 
-**Story:** "'నీ మీదే ఈ బాణ ప్రయోగం చేసి సంహరించగలను, కాని నువ్వు బ్రాహ్మణుడివి మరియు నా గురువైన విశ్వామిత్రుడికి నీకు చుట్టరికం ఉండడం చేత నేను నిన్ను సంహరించను, కాని ఒకసారి బాణం సంధించిన తరువాత విడిచిపెట్టకుండా ఉండను, అందుకని నేను నీ గమన శక్తిని కొట్టేస్తాను' అన్నాడు."
+**Story:** "'నీ మీదే ఈ బాణ ప్రయోగం చేసి సంహరించగలను, కాని నువ్వు బ్రాహ్మణుడివి మరియు నా గురువైన విశ్వామిత్రుడికి నీకు చుట్టరికం ఉండడం చేత నేను నిన్ను సంహరించను,
 
 **Image:** Pending creation.
 
 **Source note:** Note the Character Bible connection: Vishwamitra and Parashurama are apparently kin (per this line) — worth noting for the Character Bible if this relationship recurs, though no separate visual is needed here since it's stated only in dialogue.
 
-## 15 — Scene 15
+## 18 — Scene 18
 
-**Visual:** [Parashurama Visual Lock] suddenly desperate rather than defiant — revealing a real, practical constraint (Kashyapa's curse forbidding him from remaining on earth after nightfall) that Rama's chosen target would directly violate. (Location register: Forest road, sudden vulnerability)
+**Visual:** The drawn arrow held steady — once set it cannot be put back; it will take his power of movement. (Location register: Forest road)
 
-**Story:** "అప్పుడు పరశురాముడు ఇలా అన్నాడు — 'రామ! నేను క్షత్రియులని ఓడించి సంపాదించిన భూమిని కశ్యపుడికి దానము చేశాను, అప్పుడాయన నన్ను రాత్రి పూట ఈ భూమండలం మీద ఉండద్దు అన్నాడు, ఇప్పుడు చీకటి పడుతోంది, కావున నేను తొందరగా మహేంద్రగిరి పర్వతం మీదకి వెళ్ళాలి, నువ్వు నా గమన శక్తిని కొట్టేస్తే నేను వెళ్ళలేను, మాట తప్పినవాడినవుతాను' అని అన్నాడు."
+**Story:** కాని ఒకసారి బాణం సంధించిన తరువాత విడిచిపెట్టకుండా ఉండను, అందుకని నేను నీ గమన శక్తిని కొట్టేస్తాను' అన్నాడు."
+
+**Image:** Pending creation.
+
+## 19 — Scene 19
+
+**Visual:** [Parashurama Visual Lock] suddenly desperate rather than defiant — recalling his gift of the earth to Kashyapa. (Location register: Forest road, sudden vulnerability)
+
+**Story:** "అప్పుడు పరశురాముడు ఇలా అన్నాడు — 'రామ! నేను క్షత్రియులని ఓడించి సంపాదించిన భూమిని కశ్యపుడికి దానము చేశాను, అప్పుడాయన నన్ను రాత్రి పూట ఈ భూమండలం మీద ఉండద్దు అన్నాడు,
 
 **Image:** Pending creation.
 
 **Source note:** This is a genuinely vulnerable, almost pleading moment from a figure introduced as apocalyptically terrifying — a real tonal shift worth playing with sincerity, not mockery; Parashurama's fear here is legitimate.
 
-## 16 — Scene 16
+## 20 — Scene 20
+
+**Visual:** Dusk falling; Parashurama pointing toward distant Mount Mahendra — he must be gone before night. (Location register: Forest road, sudden vulnerability)
+
+**Story:** ఇప్పుడు చీకటి పడుతోంది, కావున నేను తొందరగా మహేంద్రగిరి పర్వతం మీదకి వెళ్ళాలి, నువ్వు నా గమన శక్తిని కొట్టేస్తే నేను వెళ్ళలేను, మాట తప్పినవాడినవుతాను' అని అన్నాడు."
+
+**Image:** Pending creation.
+
+## 21 — Scene 21
 
 **Visual:** [Rama Visual Lock] adjusting his target with grace — offering an alternative that resolves the dilemma without breaking his own word either. (Location register: Forest road, resolution)
 
@@ -158,7 +198,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 17 — Scene 17
+## 22 — Scene 22
 
 **Visual:** [Rama Visual Lock] releasing the arrow — [Parashurama Visual Lock]'s spiritually-earned celestial worlds/merit visibly struck/dispersed instead of his physical body or ability to travel — a symbolic, non-violent resolution. (Location register: Forest road, symbolic release)
 
@@ -168,7 +208,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This resolution — striking his accumulated spiritual "worlds" rather than his body — is a clever, non-violent way for the confrontation to genuinely resolve (Rama fulfills his stated intent to release the arrow, Parashurama loses something real, but no death or injury occurs and he's free to travel as needed); keep this technical nuance clear in the narration pacing.
 
-## 18 — Scene 18
+## 23 — Scene 23
 
 **Visual:** [Parashurama Visual Lock], departing, pausing to speak one final, decisive line — full recognition of who Rama truly is. (Location register: Forest road, closing recognition)
 
@@ -178,7 +218,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This is the second time in the series a powerful figure explicitly recognizes Rama's true divine nature mid-story (the first being implicit throughout, but rarely stated this plainly) — worth a quiet, significant beat before the scene moves on.
 
-## 19 — Scene 19
+## 24 — Scene 24
 
 **Visual:** [Dasharatha Visual Lock] visibly relieved, resuming the journey with his sons; arrival at Ayodhya. (Location register: Forest road → Ayodhya, arrival)
 
@@ -186,7 +226,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 20 — Scene 20
+## 25 — Scene 25
 
 **Visual:** [Kausalya, Sumitra, Kaikeyi Visual Locks — their first appearance since departure, still S2/pre-exile queen stage] rushing out to greet the returning party with aarti (ceremonial lamps), overjoyed at seeing their sons married and home. (Location register: Ayodhya, joyful homecoming)
 
@@ -196,7 +236,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** A warm, purely joyful family reunion — the three queens seeing their sons married for the first time; no tension or foreshadowing needed in this beat, a clean emotional payoff.
 
-## 21 — Scene 21
+## 26 — Scene 26
 
 **Visual:** The new couples taken to the royal family's kuladaivam (family deity) shrines to offer worship, formally welcoming the new brides into the household's spiritual life. (Location register: Ayodhya, palace shrine)
 
@@ -204,7 +244,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 22 — Scene 22
+## 27 — Scene 27
 
 **Visual:** A gentle, peaceful closing montage: the four new couples settling into married life together in Ayodhya — closing the entire Baala Khaanda on a note of pure domestic happiness. (Location register: Ayodhya, palace, peaceful passage of time)
 
@@ -214,7 +254,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This line closes Baala Khaanda's central narrative arc — everything from Valmiki's own origin story through Rama's marriage has now resolved into this single image of peaceful domestic happiness; treat this as a genuine chapter-closing beat, even though a small amount of source material may remain to transcribe/verify before Baala Khaanda's file is fully complete.
 
-## 23 — Scene 23
+## 28 — Scene 28
 
 **Visual:** End card.
 

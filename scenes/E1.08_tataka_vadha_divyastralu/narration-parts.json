@@ -153,28 +153,10 @@
     "seconds": null
   },
   {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "అలాగే ఐంద్రాస్త్రం, బ్రహ్మాస్త్రం, బ్రహ్మశిరోనామకాస్త్రం, మానవాస్త్రం, వారుణాస్త్రం, ఇంద్రాస్త్రం, ఐషీకాస్త్రం, గాంధర్వాస్త్రం, రకరకాల పిడుగులు మొదలైన సర్వాస్త్రాల మంత్రోపదేశం చేసి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 4,
-    "id": "09.04",
-    "text": "రెండు అద్భుతమైన గదలని, నందకం అనే గొప్ప ఖడ్గాన్ని ఉపదేశించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "అప్పుడు ఆ అస్త్రాలన్నీ పురుష రూపం [దాల్చి] రాముడి పక్కన నిలబడి, \"మేము మీ కింకరులము,",
+    "text": "అలాగే ఐంద్రాస్త్రం, బ్రహ్మాస్త్రం, బ్రహ్మశిరోనామకాస్త్రం, మానవాస్త్రం, వారుణాస్త్రం, ఇంద్రాస్త్రం, ఐషీకాస్త్రం, గాంధర్వాస్త్రం, రకరకాల పిడుగులు మొదలైన సర్వాస్త్రాల మంత్రోపదేశం చేసి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -183,7 +165,7 @@
     "scene": 10,
     "part": 2,
     "id": "10.02",
-    "text": "మమ్మల్ని ఏమి చెయ్యమంటారు\" అని అడిగాయి.",
+    "text": "రెండు అద్భుతమైన గదలని, నందకం అనే గొప్ప ఖడ్గాన్ని ఉపదేశించాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -192,7 +174,7 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
-    "text": "\"మీరందరూ మనస్సులోకి వెళ్లి అక్కడ తిరుగాడుతూ ఉండండి, నేను పిలిచినప్పుడు బయటకి రండి\" అని ఆదేశించాడు.",
+    "text": "అప్పుడు ఆ అస్త్రాలన్నీ పురుష రూపం [దాల్చి] రాముడి పక్కన నిలబడి, \"మేము మీ కింకరులము,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -201,7 +183,7 @@
     "scene": 11,
     "part": 2,
     "id": "11.02",
-    "text": "అవి అలాగే రాముడిలోకి ప్రవేశించాయి.",
+    "text": "మమ్మల్ని ఏమి చెయ్యమంటారు\" అని అడిగాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -210,7 +192,16 @@
     "scene": 12,
     "part": 1,
     "id": "12.01",
-    "text": "మరుసటి రోజున రాముడు విశ్వామిత్రుడితో, \"మీరు నాకు ఇన్ని అస్త్రాలని ఉపదేశించారు, అలాగే వాటి ఉపసంహారాన్ని కూడా ఉపదేశించండి\" అన్నాడు.",
+    "text": "\"మీరందరూ మనస్సులోకి వెళ్లి అక్కడ తిరుగాడుతూ ఉండండి, నేను పిలిచినప్పుడు బయటకి రండి\" అని ఆదేశించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "అవి అలాగే రాముడిలోకి ప్రవేశించాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -219,7 +210,7 @@
     "scene": 13,
     "part": 1,
     "id": "13.01",
-    "text": "విశ్వామిత్రుడు రాముడికి ఉపసంహార మంత్రాలన్నీ చెప్పాక ఇంకొన్నింటిని కూడా ఉపదేశించాడు.",
+    "text": "మరుసటి రోజున రాముడు విశ్వామిత్రుడితో, \"మీరు నాకు ఇన్ని అస్త్రాలని ఉపదేశించారు, అలాగే వాటి ఉపసంహారాన్ని కూడా ఉపదేశించండి\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -228,16 +219,7 @@
     "scene": 14,
     "part": 1,
     "id": "14.01",
-    "text": "ఆ ఉపదేశం అయ్యాక వారు తమ ప్రయాణాన్ని కొనసాగించారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 14,
-    "part": 2,
-    "id": "14.02",
-    "text": "అలా వెళుతుండగా అక్కడొక ఆశ్రమం కనిపించింది.",
+    "text": "విశ్వామిత్రుడు రాముడికి ఉపసంహార మంత్రాలన్నీ చెప్పాక ఇంకొన్నింటిని కూడా ఉపదేశించాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -246,7 +228,7 @@
     "scene": 15,
     "part": 1,
     "id": "15.01",
-    "text": "ఆ ఆశ్రమం ఎవరిదని రాముడు అడగగా, విశ్వామిత్రుడు ఇలా చెప్పాడు —",
+    "text": "ఆ ఉపదేశం అయ్యాక వారు తమ ప్రయాణాన్ని కొనసాగించారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -255,43 +237,7 @@
     "scene": 15,
     "part": 2,
     "id": "15.02",
-    "text": "\"ఒకప్పుడు విరోచనుడి కుమారుడైన బలి చక్రవర్తి తన పరాక్రమముతో ఇంద్రుడిని నిర్బంధించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 15,
-    "part": 3,
-    "id": "15.03",
-    "text": "అప్పుడు శ్రీమహావిష్ణువు వామన మూర్తిగా వచ్చి బలిని పాతాళానికి పంపారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 15,
-    "part": 4,
-    "id": "15.04",
-    "text": "వామన మూర్తి తపస్సు చేసిన ఆశ్రమమే ఈ ఆశ్రమం, దీనిని సిద్ధాశ్రమం అంటారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 15,
-    "part": 5,
-    "id": "15.05",
-    "text": "ఇక్కడే కశ్యప ప్రజాపతి తపస్సు చేశారు, ఇక్కడే విష్ణువు ఇంద్రుడికి తమ్ముడిగా, ఉపేంద్రుడిగా పుట్టారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 15,
-    "part": 6,
-    "id": "15.06",
-    "text": "నేను యాగము చేస్తున్నది కూడా ఈ ఆశ్రమములోనే\" అని చెప్పి అందరూ ఆ ఆశ్రమములోనికి వెళ్లారు.",
+    "text": "అలా వెళుతుండగా అక్కడొక ఆశ్రమం కనిపించింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -300,6 +246,60 @@
     "scene": 16,
     "part": 1,
     "id": "16.01",
+    "text": "ఆ ఆశ్రమం ఎవరిదని రాముడు అడగగా, విశ్వామిత్రుడు ఇలా చెప్పాడు —",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "\"ఒకప్పుడు విరోచనుడి కుమారుడైన బలి చక్రవర్తి తన పరాక్రమముతో ఇంద్రుడిని నిర్బంధించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "అప్పుడు శ్రీమహావిష్ణువు వామన మూర్తిగా వచ్చి బలిని పాతాళానికి పంపారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "వామన మూర్తి తపస్సు చేసిన ఆశ్రమమే ఈ ఆశ్రమం, దీనిని సిద్ధాశ్రమం అంటారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "ఇక్కడే కశ్యప ప్రజాపతి తపస్సు చేశారు, ఇక్కడే విష్ణువు ఇంద్రుడికి తమ్ముడిగా, ఉపేంద్రుడిగా పుట్టారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "నేను యాగము చేస్తున్నది కూడా ఈ ఆశ్రమములోనే\" అని చెప్పి అందరూ ఆ ఆశ్రమములోనికి వెళ్లారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
     "text": "తర్వాత చూద్దాం — విశ్వామిత్రుడి యాగాన్ని కాపాడటానికి రామలక్ష్మణులు మారీచ సుబాహువులతో ఎలా పోరాడారో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

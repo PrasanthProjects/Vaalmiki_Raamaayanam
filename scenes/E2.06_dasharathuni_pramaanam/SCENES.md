@@ -66,13 +66,21 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 7 — Scene 07
 
-**Visual:** [Dasharatha Visual Lock] speaking with real tenderness and mounting worry, first assuming illness, offering physicians.
+**Visual:** [Dasharatha Visual Lock] kneeling beside [Kaikeyi Visual Lock] on the floor of the anger-chamber, speaking with real tenderness — are you ill?
 
-**Story:** దశరథుడు కైకేయతో ఇలా అన్నాడు — "కైకేయ, నీకు ఎమన్నా వ్యాధి వచ్చిందా, అనారోగ్యంగా ఉందా, మన రాజ్యంలో ఎందరో గొప్ప గొప్ప వైద్యులు ఉన్నారు, వారందరిని పిలిపిస్తాను, నువ్వు అలా పడిఉంటే నా హృదయం తల్లడిల్లిపోతుంది, మనస్సులో ఏదన్నా కోరిక ఉంటే చెప్పు, తప్పక తీరుస్తాను" అన్నాడు.
+**Story:** దశరథుడు కైకేయతో ఇలా అన్నాడు — "కైకేయ, నీకు ఎమన్నా వ్యాధి వచ్చిందా, అనారోగ్యంగా ఉందా, మన రాజ్యంలో ఎందరో గొప్ప గొప్ప వైద్యులు ఉన్నారు,
 
 **Image:** Pending creation.
 
 ## 8 — Scene 08
+
+**Visual:** Dasharatha offering to summon every physician, his hand hovering over her shoulder — tell me your wish.
+
+**Story:** వారందరిని పిలిపిస్తాను, నువ్వు అలా పడిఉంటే నా హృదయం తల్లడిల్లిపోతుంది, మనస్సులో ఏదన్నా కోరిక ఉంటే చెప్పు, తప్పక తీరుస్తాను" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 9 — Scene 09
 
 **Visual:** On-screen verse text.
 
@@ -82,17 +90,33 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — Dasharatha's sweeping offer: whoever deserves death, name them and they're spared; whoever doesn't, name them and they're punished; the poor made rich, the rich made poor at a word.
 
-## 9 — Scene 09
+## 10 — Scene 10
 
-**Visual:** [Dasharatha Visual Lock] expanding this offer into plain speech, total and unconditional — visibly desperate to see her happy again.
+**Visual:** [Dasharatha Visual Lock] expanding the offer, total and unconditional — I will spare the guilty, punish the innocent, if you ask.
 
-**Story:** "ఒకవేళ చంపవలసిన వ్యక్తి మీద నువ్వు ప్రసన్నురాలివైతే చెప్పు, వాడిని వదిలిపెట్టేస్తాను, అలాగే చంపవలసిన అవసరం లేని వ్యక్తి మీద నీకు కోపం వస్తే చెప్పు, వాడిని చంపేస్తాను, నీకు ఒక దరిద్రుడి మీద ప్రసన్నత కలిగితే చెప్పు, వాడిని ఐశ్వర్యవంతుడిని చేస్తాను, ధనవంతుడి మీద నీకు కోపం వస్తే చెప్పు, వాడిని క్షణంలో దరిద్రుడిని చేస్తాను. నేను, నా భార్యలు, నా రాజ్యం, నా పరివారం అందరం నీ అధీనం, కైకా, కోరికేంటో చెప్పు, దాన్ని తప్పకుండా తీరుస్తాను" అన్నాడు.
+**Story:** "ఒకవేళ చంపవలసిన వ్యక్తి మీద నువ్వు ప్రసన్నురాలివైతే చెప్పు, వాడిని వదిలిపెట్టేస్తాను, అలాగే చంపవలసిన అవసరం లేని వ్యక్తి మీద నీకు కోపం వస్తే చెప్పు, వాడిని చంపేస్తాను,
 
 **Image:** Pending creation.
 
 **Source note:** This is the offer that will be weaponized in the next episode — its sweeping, unconditional totality is exactly what makes Kaikeyi's coming demand technically unrefusable; deliver it with full sincerity, since Dasharatha means every word as he says it.
 
-## 10 — Scene 10
+## 11 — Scene 11
+
+**Visual:** Dasharatha still pleading — I will make a poor man rich, a rich man poor; Kaikeyi silent, face turned away.
+
+**Story:** నీకు ఒక దరిద్రుడి మీద ప్రసన్నత కలిగితే చెప్పు, వాడిని ఐశ్వర్యవంతుడిని చేస్తాను, ధనవంతుడి మీద నీకు కోపం వస్తే చెప్పు, వాడిని క్షణంలో దరిద్రుడిని చేస్తాను.
+
+**Image:** Pending creation.
+
+## 12 — Scene 12
+
+**Visual:** Dasharatha with open arms — I, my queens, my kingdom are yours; visibly desperate to see her smile.
+
+**Story:** నేను, నా భార్యలు, నా రాజ్యం, నా పరివారం అందరం నీ అధీనం, కైకా, కోరికేంటో చెప్పు, దాన్ని తప్పకుండా తీరుస్తాను" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 13 — Scene 13
 
 **Visual:** [Kaikeyi Visual Lock] still refusing to name the request directly — insisting on a prior, unconditional promise before she'll even state what she wants.
 
@@ -102,17 +126,33 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Kaikeyi is following Manthara's script precisely here (per E2.05's instructions) — this is a calculated negotiating tactic, not genuine hesitation; play it as controlled performance underneath, even while it reads as vulnerability on the surface.
 
-## 11 — Scene 11
+## 14 — Scene 14
 
-**Visual:** [Dasharatha Visual Lock] swearing his oath — invoking Rama's own name as the guarantee, the most sacred thing he can swear by, entirely unaware of the irony.
+**Visual:** [Dasharatha Visual Lock] beginning his oath, hand raised — the one I cannot live a moment without seeing.
 
-**Story:** అప్పుడు దశరథుడు "ఎవరిని నేను ఒక్క క్షణం చూడకపోతే నా ప్రాణాలు కలిసిపోతాయో, ఎవరిని విడిచి ఉండలేనో, ఎవరి మాట నా చెవిన పడకపోతే నా ప్రాణాలు ఉండవో, అటువంటి రాముడి మీద ఒట్టు పెట్టి చెప్తున్నాను కైకా, నువ్వు అడిగిన కోరికలు తప్పకుండా తీరుస్తాను" అన్నాడు.
+**Story:** అప్పుడు దశరథుడు "ఎవరిని నేను ఒక్క క్షణం చూడకపోతే నా ప్రాణాలు కలిసిపోతాయో,
 
 **Image:** Pending creation.
 
 **Source note:** The single most devastating dramatic-irony beat in the Khaanda so far — Dasharatha swears the binding, unbreakable oath specifically ON Rama's name, the very person about to be exiled by that oath; hold this line, no rush, let the weight of it register fully before cutting to the end card. This is a strong candidate for the episode's final beat/cliffhanger rather than continuing straight into Kaikeyi's actual demand.
 
-## 12 — Scene 12
+## 15 — Scene 15
+
+**Visual:** A warm inset of [Rama Visual Lock]'s face and voice as the king speaks of him.
+
+**Story:** ఎవరిని విడిచి ఉండలేనో, ఎవరి మాట నా చెవిన పడకపోతే నా ప్రాణాలు ఉండవో,
+
+**Image:** Pending creation.
+
+## 16 — Scene 16
+
+**Visual:** Dasharatha swearing on Rama's name, entirely unaware of the irony; Kaikeyi's eyes opening.
+
+**Story:** అటువంటి రాముడి మీద ఒట్టు పెట్టి చెప్తున్నాను కైకా, నువ్వు అడిగిన కోరికలు తప్పకుండా తీరుస్తాను" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 17 — Scene 17
 
 **Visual:** End card.
 

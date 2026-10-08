@@ -27,73 +27,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 2,
-    "id": "02.02",
-    "text": "అప్పుడు సైన్యాన్ని కొంత దూరంలో ఉంచి భరతశత్రుఘ్నులు వశిష్ఠుడితో కలిసి ఆ ఆశ్రమంలోకి ప్రవేశించారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "(ఒకసారి భారద్వాజుడు బ్రహ్మగారి గురించి తపస్సు చేశాడు, అప్పుడు బ్రహ్మ ప్రత్యక్షమై \"ఏమి నీ కోరిక\" అని అడిగాడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 2,
-    "id": "03.02",
-    "text": "\"నాకు వేదం చదువుకోడానికి 100 సంవత్సరాల ఆయుర్దాయం కావాలి\" అని భారద్వాజుడు అడిగాడు, బ్రహ్మగారు సరే అన్నారు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "అలా ఆయన బ్రహ్మగారి దగ్గర 3 సార్లు ఆయుర్దాయం పుచ్చుకున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "అలా 4వ సారి కూడా తపస్సు చెయ్యగా, బ్రహ్మగారు ప్రత్యక్షమై, \"వేదాలు ఎంత ఉంటాయో తెలుసా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 5,
-    "id": "03.05",
-    "text": "చూడు\" అని చూపిస్తే అవి పర్వతాల అంత ఎత్తు ఉన్నాయి, \"నువ్వు 300 సంవత్సరాల్లో చదివింది 3 గుప్పిళ్ళంత, వేదం అనంతం,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 6,
-    "id": "03.06",
-    "text": "ఎంతకాలం చదివినా అది తెలిసేది కాదు, పూర్తిగా చదవగలిగేది కాదు, అందుకని నువ్వు చదివినదానితో తృప్తిపడు\" అన్నారు బ్రహ్మగారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 7,
-    "id": "03.07",
-    "text": "అలా బ్రహ్మగారిచే ఆయుర్దాయాన్ని పొందిన మహానుభావుడు భారద్వాజుడు.)",
+    "text": "అప్పుడు సైన్యాన్ని కొంత దూరంలో ఉంచి భరతశత్రుఘ్నులు వశిష్ఠుడితో కలిసి ఆ ఆశ్రమంలోకి ప్రవేశించారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -102,7 +39,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "ఎదురుగా వస్తున్న వశిష్ఠుడిని చూసి భారద్వాజుడు గబగబా వచ్చి అర్ఘ్య పాద్యములు ఇచ్చారు, తరువాత ఒకరిని ఒకరు కుశల ప్రశ్నలు అడిగారు,",
+    "text": "(ఒకసారి భారద్వాజుడు బ్రహ్మగారి గురించి తపస్సు చేశాడు, అప్పుడు బ్రహ్మ ప్రత్యక్షమై \"ఏమి నీ కోరిక\" అని అడిగాడు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -111,16 +48,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "అప్పుడు భారద్వాజుడు \"నువ్వు ఈ అరణ్యానికి ఎందుకు వచ్చావు\" అని అడుగగా, \"నేను రామ దర్శనానికి వచ్చాను\" అని భరతుడు చెప్పాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 3,
-    "id": "04.03",
-    "text": "(భారద్వాజుడు త్రికాలవేది, దశరథుడు మరణించాడని ఆయనకి తెలుసు.)",
+    "text": "\"నాకు వేదం చదువుకోడానికి 100 సంవత్సరాల ఆయుర్దాయం కావాలి\" అని భారద్వాజుడు అడిగాడు, బ్రహ్మగారు సరే అన్నారు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -129,7 +57,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "అప్పుడు భారద్వాజుడు \"మీ తండ్రిగారు 14 సంవత్సరములు రాముడిని అరణ్యాలకి పంపించి నీకు రాజ్యం ఇచ్చారు,",
+    "text": "అలా ఆయన బ్రహ్మగారి దగ్గర 3 సార్లు ఆయుర్దాయం పుచ్చుకున్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -138,7 +66,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "ఆ రాజ్యాన్ని పరిపాలించుకునే నువ్వు ధన్యుడవు, అయినా కాని ఇంత సైన్యాన్ని తీసుకొని అరణ్యానికి వచ్చావు,",
+    "text": "అలా 4వ సారి కూడా తపస్సు చెయ్యగా, బ్రహ్మగారు ప్రత్యక్షమై, \"వేదాలు ఎంత ఉంటాయో తెలుసా,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -147,7 +75,7 @@
     "scene": 5,
     "part": 3,
     "id": "05.03",
-    "text": "మహా పాపకార్యమైన రామ హత్య కోసమని నువ్వు వచ్చావని నాకు మనసులో శంకగా ఉంది\" అన్నాడు.",
+    "text": "చూడు\" అని చూపిస్తే అవి పర్వతాల అంత ఎత్తు ఉన్నాయి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -156,8 +84,26 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "హతో అస్మి యది మాం ఏవం భగవాన్ అపి మన్యతే । మత్తో న దోషం ఆశంకేర్ న ఏవం మాం అనుశాధి హి ॥",
-    "complete_verse_block": true,
+    "text": "\"నువ్వు 300 సంవత్సరాల్లో చదివింది 3 గుప్పిళ్ళంత, వేదం అనంతం, ఎంతకాలం చదివినా అది తెలిసేది కాదు, పూర్తిగా చదవగలిగేది కాదు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 2,
+    "id": "06.02",
+    "text": "అందుకని నువ్వు చదివినదానితో తృప్తిపడు\" అన్నారు బ్రహ్మగారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 3,
+    "id": "06.03",
+    "text": "అలా బ్రహ్మగారిచే ఆయుర్దాయాన్ని పొందిన మహానుభావుడు భారద్వాజుడు.)",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -165,70 +111,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "ఈ మాటలు విన్న భరతుడు కన్నీరు కారుస్తూ \"మహానుభావ, దౌర్భాగ్యమయ్యా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 2,
-    "id": "07.02",
-    "text": "నేను ఎక్కడికి వెళ్ళినా నన్ను చూసి 'రాముడిని చంపడానికి వచ్చావా' అంటారు, నేను రాముడిని చంపడానికి రాలేదు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 3,
-    "id": "07.03",
-    "text": "నువ్వు అడిగిన ప్రశ్న చేత నేను చచ్చిపోయాను మహర్షి, ఈ మాట గుహుడు అడిగాడంటే అర్థం చేసుకోవచ్చు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "కాని ఇంత గొప్ప మహర్షులు మీరు కూడా ఈ మాట అన్నారంటే నేను బ్రతకడం ఎందుకు, నేను ఎన్నడూ రాజ్యం కావాలని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 5,
-    "id": "07.05",
-    "text": "రాముడు అరణ్యవాసం చెయ్యాలని కోరలేదు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 6,
-    "id": "07.06",
-    "text": "కాని నా మీద ఉన్న విపరీతమైన ప్రేమ చేత మా అమ్మ నేను లేనప్పుడు రెండు వరాలు అడిగింది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 7,
-    "id": "07.07",
-    "text": "రాముడికి పట్టాభిషేకం చేయించాలని అరణ్యానికి వచ్చాను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 8,
-    "id": "07.08",
-    "text": "నేను రాముడిని చంపేంత దుర్మార్గుడిని కాదు మహర్షి\" అని ఆయన పాదముల మీద పడి ఏడ్చాడు.",
+    "text": "ఎదురుగా వస్తున్న వశిష్ఠుడిని చూసి భారద్వాజుడు గబగబా వచ్చి అర్ఘ్య పాద్యములు ఇచ్చారు, తరువాత ఒకరిని ఒకరు కుశల ప్రశ్నలు అడిగారు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -237,7 +120,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "అప్పుడు భారద్వాజుడు \"నువ్వు ఎటువంటివాడివో నాకు తెలుసు భరతా, నువ్వు ఇటువంటి దురాలోచనలు చెయ్యవని తెలుసు,",
+    "text": "అప్పుడు భారద్వాజుడు \"నువ్వు ఈ అరణ్యానికి ఎందుకు వచ్చావు\" అని అడుగగా, \"నేను రామ దర్శనానికి వచ్చాను\" అని భరతుడు చెప్పాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -246,16 +129,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "అయినా నేను నిన్ను ఎందుకడిగానో తెలుసా, నీ శీలం ఎటువంటిదో లోకానికి చెప్పడం కోసమని నేను ఈ మాట అడిగాను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "నువ్వు మాటయందు నిలబడెదవు గాక\" అని ఆశీర్వదించిన పిమ్మట \"నాయనా, ఈ రాత్రికి నా ఆతిథ్యాన్ని స్వీకరించు\" అన్నాడు.",
+    "text": "(భారద్వాజుడు త్రికాలవేది, దశరథుడు మరణించాడని ఆయనకి తెలుసు.)",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -264,7 +138,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "అప్పుడు భరతుడు \"మీరు నాకు అర్ఘ్యం, పాద్యం ఇచ్చారు, నాకు ఇంతకన్నా ఏమి కావాలి, నాకు ఏమి వద్దు\" అన్నాడు.",
+    "text": "అప్పుడు భారద్వాజుడు \"మీ తండ్రిగారు 14 సంవత్సరములు రాముడిని అరణ్యాలకి పంపించి నీకు రాజ్యం ఇచ్చారు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -273,16 +147,7 @@
     "scene": 9,
     "part": 2,
     "id": "09.02",
-    "text": "\"మరి నీ సైన్యాన్ని ఎక్కడ పెట్టావు\" అని భారద్వాజుడు అడుగగా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "\"సైన్యాన్ని ఇక్కడికి తీసుకువస్తే ఆశ్రమం పాడవుతుందని దూరంగా పెట్టాను\" అని భరతుడు అన్నాడు.",
+    "text": "ఆ రాజ్యాన్ని పరిపాలించుకునే నువ్వు ధన్యుడవు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -291,7 +156,7 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "అప్పుడు భారద్వాజుడు \"అంత దూరంగా ఎందుకు పెట్టావయ్యా, ఇవాళ నేను ఆతిథ్యం ఇవ్వాలని అనుకుంటున్నాను, కావున నువ్వు స్వీకరించాల్సిందే, గుర్రాలకి, ఏనుగులకి,",
+    "text": "అయినా కాని ఇంత సైన్యాన్ని తీసుకొని అరణ్యానికి వచ్చావు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -300,7 +165,7 @@
     "scene": 10,
     "part": 2,
     "id": "10.02",
-    "text": "ఒంటెలకి, సైన్యానికి, పురోహితులకి, మంత్రులకి, నీ తల్లులకి ఎటువంటి ఆతిథ్యం ఇవ్వాలో అటువంటి ఆతిథ్యం ఇస్తాను\" అన్నాడు.",
+    "text": "మహా పాపకార్యమైన రామ హత్య కోసమని నువ్వు వచ్చావని నాకు మనసులో శంకగా ఉంది\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -309,6 +174,168 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
+    "text": "హతో అస్మి యది మాం ఏవం భగవాన్ అపి మన్యతే । మత్తో న దోషం ఆశంకేర్ న ఏవం మాం అనుశాధి హి ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "ఈ మాటలు విన్న భరతుడు కన్నీరు కారుస్తూ \"మహానుభావ, దౌర్భాగ్యమయ్యా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "నేను ఎక్కడికి వెళ్ళినా నన్ను చూసి 'రాముడిని చంపడానికి వచ్చావా' అంటారు, నేను రాముడిని చంపడానికి రాలేదు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "నువ్వు అడిగిన ప్రశ్న చేత నేను చచ్చిపోయాను మహర్షి, ఈ మాట గుహుడు అడిగాడంటే అర్థం చేసుకోవచ్చు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "కాని ఇంత గొప్ప మహర్షులు మీరు కూడా ఈ మాట అన్నారంటే నేను బ్రతకడం ఎందుకు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "నేను ఎన్నడూ రాజ్యం కావాలని, రాముడు అరణ్యవాసం చెయ్యాలని కోరలేదు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "కాని నా మీద ఉన్న విపరీతమైన ప్రేమ చేత మా అమ్మ నేను లేనప్పుడు రెండు వరాలు అడిగింది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "రాముడికి పట్టాభిషేకం చేయించాలని అరణ్యానికి వచ్చాను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "నేను రాముడిని చంపేంత దుర్మార్గుడిని కాదు మహర్షి\" అని ఆయన పాదముల మీద పడి ఏడ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "అప్పుడు భారద్వాజుడు \"నువ్వు ఎటువంటివాడివో నాకు తెలుసు భరతా, నువ్వు ఇటువంటి దురాలోచనలు చెయ్యవని తెలుసు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "అయినా నేను నిన్ను ఎందుకడిగానో తెలుసా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "నీ శీలం ఎటువంటిదో లోకానికి చెప్పడం కోసమని నేను ఈ మాట అడిగాను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "నువ్వు మాటయందు నిలబడెదవు గాక\" అని ఆశీర్వదించిన పిమ్మట \"నాయనా, ఈ రాత్రికి నా ఆతిథ్యాన్ని స్వీకరించు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "అప్పుడు భరతుడు \"మీరు నాకు అర్ఘ్యం, పాద్యం ఇచ్చారు, నాకు ఇంతకన్నా ఏమి కావాలి, నాకు ఏమి వద్దు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "\"మరి నీ సైన్యాన్ని ఎక్కడ పెట్టావు\" అని భారద్వాజుడు అడుగగా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "\"సైన్యాన్ని ఇక్కడికి తీసుకువస్తే ఆశ్రమం పాడవుతుందని దూరంగా పెట్టాను\" అని భరతుడు అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "అప్పుడు భారద్వాజుడు \"అంత దూరంగా ఎందుకు పెట్టావయ్యా, ఇవాళ నేను ఆతిథ్యం ఇవ్వాలని అనుకుంటున్నాను, కావున నువ్వు స్వీకరించాల్సిందే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "గుర్రాలకి, ఏనుగులకి, ఒంటెలకి, సైన్యానికి, పురోహితులకి, మంత్రులకి, నీ తల్లులకి ఎటువంటి ఆతిథ్యం ఇవ్వాలో అటువంటి ఆతిథ్యం ఇస్తాను\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
     "text": "తర్వాత చూద్దాం — భారద్వాజ మహర్షి తన తపశ్శక్తితో ఎటువంటి ఆతిథ్యాన్ని సృష్టిస్తారో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

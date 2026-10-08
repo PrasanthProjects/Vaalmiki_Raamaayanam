@@ -64,9 +64,9 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 7 — Scene 07
 
-**Visual:** [Janaka Visual Lock] speaking directly and personally to Rama, beyond the formal verse — an emotional, unguarded father's address. (Location register: Mithila, wedding mandapam, intimate address)
+**Visual:** [Janaka Visual Lock] leading [Sita Visual Lock] forward and speaking directly to [Rama Visual Lock] — an emotional, unguarded father's address. (Location register: Mithila, wedding mandapam, intimate address)
 
-**Story:** "'రామయ్యా! నీకు సీత ఎవరో తెలీదు కదా, ఇదుగో ఈమే సీత, ఈమె నా కూతురు, నేను నీకు ఈమెని కామ పత్నిగా ఇవ్వడంలేదు, ధర్మంలో అనువర్తించడానికని ఈ పిల్లని ఇస్తున్నాను, అందుకని ధర్మపత్నిగా స్వీకరించు రామ. ఆడపిల్ల తండ్రిని కదా, అందుకని ఆనందంలో ఇన్ని మాటలు అనేశాను, కాబట్టి నన్ను క్షమించు, ఈమెని నువ్వు పుచ్చుకో, నీ చేతితో మా అమ్మాయి అరచేతిని బాగా పట్టుకో (సూర్యవంశం వాళ్ళకి అరచేతిని అరచేతితో పట్టుకుంటే సుముహూర్తం, మనం జీలకర్ర-బెల్లం పెడతాం సుముహూర్తానికి).'"
+**Story:** "'రామయ్యా! నీకు సీత ఎవరో తెలీదు కదా, ఇదుగో ఈమే సీత, ఈమె నా కూతురు, నేను నీకు ఈమెని కామ పత్నిగా ఇవ్వడంలేదు, ధర్మంలో అనువర్తించడానికని ఈ పిల్లని ఇస్తున్నాను, అందుకని ధర్మపత్నిగా స్వీకరించు రామ.
 
 **Image:** Pending creation.
 
@@ -74,13 +74,45 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 8 — Scene 08
 
-**Visual:** [Janaka Visual Lock] continuing, a final, weighted instruction about Sita's upbringing and the shared responsibility of her future conduct. (Location register: Mithila, wedding mandapam)
+**Visual:** Janaka half-laughing at his own flood of words, asking pardon. (Location register: Mithila, wedding mandapam, intimate address)
 
-**Story:** "'ఈ క్షణం నుండి మా అమ్మాయి ఏది చేసినా అది, భర్త అని నీ కోసమే చేస్తుంది రామ! మాది విదేహ వంశం, మాకు దేహమునందు భ్రాంతి ఉండదు, నా కూతురిని అలా పెంచాను. ఒక ఏడాది తరువాత నా కూతురు నీతో కలిసి పుట్టింటికి వచ్చినప్పుడు నేను నేర్పిన సంప్రదాయాన్ని మరిచిపోతే, అది నీ వల్లే రామ, ఎందుకంటే నేను నేర్పినదాన్ని భర్త ఉద్ధరించాలి, ఉద్ధరించడంలో పొరపాటు వస్తే అది నీదే అవుతుంది, ఆమె నిన్ను నీడలా అనుగమిస్తుంది.' ఇదంతా పై శ్లోకం యొక్క రహస్యార్థం."
+**Story:** ఆడపిల్ల తండ్రిని కదా, అందుకని ఆనందంలో ఇన్ని మాటలు అనేశాను, కాబట్టి నన్ను క్షమించు, ఈమెని నువ్వు పుచ్చుకో,
 
 **Image:** Pending creation.
 
 ## 9 — Scene 09
+
+**Visual:** Close on the two hands meeting — palm firmly on palm, the auspicious moment. (Location register: Mithila, wedding mandapam, intimate address)
+
+**Story:** నీ చేతితో మా అమ్మాయి అరచేతిని బాగా పట్టుకో (సూర్యవంశం వాళ్ళకి అరచేతిని అరచేతితో పట్టుకుంటే సుముహూర్తం, మనం జీలకర్ర-బెల్లం పెడతాం సుముహూర్తానికి).'"
+
+**Image:** Pending creation.
+
+## 10 — Scene 10
+
+**Visual:** [Janaka Visual Lock] continuing — from this moment all she does is for you; Sita's eyes lowered. (Location register: Mithila, wedding mandapam)
+
+**Story:** "'ఈ క్షణం నుండి మా అమ్మాయి ఏది చేసినా అది, భర్త అని నీ కోసమే చేస్తుంది రామ! మాది విదేహ వంశం, మాకు దేహమునందు భ్రాంతి ఉండదు, నా కూతురిని అలా పెంచాను.
+
+**Image:** Pending creation.
+
+## 11 — Scene 11
+
+**Visual:** Janaka's weighted instruction about her upbringing — a brief forward glimpse of the couple visiting Mithila a year on. (Location register: Mithila, wedding mandapam)
+
+**Story:** ఒక ఏడాది తరువాత నా కూతురు నీతో కలిసి పుట్టింటికి వచ్చినప్పుడు నేను నేర్పిన సంప్రదాయాన్ని మరిచిపోతే, అది నీ వల్లే రామ,
+
+**Image:** Pending creation.
+
+## 12 — Scene 12
+
+**Visual:** Sita standing just behind Rama like his shadow; the verse card recalled faintly as its inner meaning is named. (Location register: Mithila, wedding mandapam)
+
+**Story:** ఎందుకంటే నేను నేర్పినదాన్ని భర్త ఉద్ధరించాలి, ఉద్ధరించడంలో పొరపాటు వస్తే అది నీదే అవుతుంది, ఆమె నిన్ను నీడలా అనుగమిస్తుంది.' ఇదంతా పై శ్లోకం యొక్క రహస్యార్థం."
+
+**Image:** Pending creation.
+
+## 13 — Scene 13
 
 **Visual:** [Lakshmana and Urmila, Bharata and Mandavi, Shatrughna and Shrutakirti Visual Locks — ALL THREE additional brides' first appearances] each pair completing their own wedding rites at the same mandapam, shown as a warm joint sequence rather than three separate ceremonies. (Location register: Mithila, wedding mandapam, joint ceremony)
 
@@ -90,7 +122,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Per their Character Bible entry, use the three distinct fixed saree-color assignments (Urmila green-gold, Mandavi blue-gold, Shrutakirti purple-gold) to keep them visually distinguishable in this joint group shot.
 
-## 10 — Scene 10
+## 14 — Scene 14
 
 **Visual:** Wide celebratory shot: divine drums sounding from the heavens, flower petals raining down, [generic devatalu Visual Lock] watching and rejoicing from above. (Location register: Mithila, wedding mandapam, divine celebration)
 
@@ -100,7 +132,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This is a major celebratory climax — worth the widest, most joyful visual treatment given to any scene so far in the series; the entire Baala Khaanda has been building toward this exact image.
 
-## 11 — Scene 11
+## 15 — Scene 15
 
 **Visual:** The next morning: [Vishwamitra Visual Lock] blessing everyone and departing north, alone — a quiet, dignified exit after guiding this entire journey since E1.06. (Location register: Mithila, following morning)
 
@@ -110,7 +142,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This is Vishwamitra's departure from the ongoing narrative — he does not travel back to Ayodhya with the wedding party; give this a brief but genuine moment of farewell, since he has been the central guiding figure of the entire Baala Khaanda journey up to this point.
 
-## 12 — Scene 12
+## 16 — Scene 16
 
 **Visual:** [Janaka Visual Lock] presenting generous parting gifts; the full wedding party — both families united — beginning the journey back toward Ayodhya. (Location register: Mithila → departure)
 
@@ -120,7 +152,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** End the episode here, on the joyful departure — hold the ominous turn (which begins immediately in the source's next lines) for the opening of the next episode, giving this one a clean, purely happy close after the emotional wedding sequence.
 
-## 13 — Scene 13
+## 17 — Scene 17
 
 **Visual:** End card.
 

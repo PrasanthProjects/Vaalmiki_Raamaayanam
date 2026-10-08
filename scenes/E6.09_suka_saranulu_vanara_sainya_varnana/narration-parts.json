@@ -45,91 +45,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "ఆయన నన్ను ప్రాణాలతో విడిచిపెడితే వాళ్ళ సైన్యాన్ని చూసి వచ్చాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
-    "text": "ఆ సైన్యం సామాన్యమైన సైన్యం కాదు, అందులో అరవీర భయంకరులైన వానరులు ఉన్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 6,
-    "id": "02.06",
-    "text": "వారు సముద్రాన్ని దాటి వచ్చేశారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 7,
-    "id": "02.07",
-    "text": "వాళ్ళందరూ నిన్ను మట్టుపెట్టకముందే నా మాట విని సీతమ్మని విడిచిపెట్టవయ్యా.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 8,
-    "id": "02.08",
-    "text": "వానరులందరినీ గరుడ వ్యూహంగా నిలుచోబెట్టారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 9,
-    "id": "02.09",
-    "text": "శిరస్థానం దగ్గర రాముడు, లక్ష్మణుడు నిలబడ్డారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 10,
-    "id": "02.10",
-    "text": "హృదయ స్థానమునందు అంగదుడు నిలబడ్డాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 11,
-    "id": "02.11",
-    "text": "కుడి వైపున ఋషభుడు, ఎడమ వైపున గంధమాదనుడు, వెనుక భాగమునందు సుగ్రీవుడు నిలబడ్డారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 12,
-    "id": "02.12",
-    "text": "అలా కొన్ని కోట్ల కోట్ల వానరాలని నిలబెట్టారు\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "తరువాత రావణుడు సుక, సారణులు అనే మరో ఇద్దరు గూఢచారులని పిలిచి వానర సైన్యాన్ని చూసి,",
+    "text": "ఆయన నన్ను ప్రాణాలతో విడిచిపెడితే వాళ్ళ సైన్యాన్ని చూసి వచ్చాను.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -138,43 +57,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "ఎంత సైన్యం ఉందో లెక్కపెట్టి రమ్మన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "ఆ ఇద్దరు గూఢచారులు ప్రచ్ఛన్న రూపాలలో ఆకాశంలో ఉండి వానర సైన్యం ఎంత ఉందో అని చూస్తుండగా విభీషణుడు వాళ్ళని పసిగట్టి రాముడి దగ్గరికి తీసుకెళ్ళి \"వీళ్ళు దుర్మార్గులు,",
-    "complete_verse_block": false,
-    "needs_timing_review": true,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "అందుకని వీళ్ళని బంధించి తీసుకొచ్చాను\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 5,
-    "id": "03.05",
-    "text": "ఇంతకముందు సుకుడితో ఎలా మాట్లాడాడో అలానే ఈ ఇద్దరు గూఢచారులతో రాముడు మాట్లాడి, విభీషణుడితో వాళ్ళని పంపించి సైన్యాన్ని చూడమన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 6,
-    "id": "03.06",
-    "text": "ఆ సుక సారణులు వానర సైన్యాన్ని చూసి, రావణుడికి ఆ సైన్యం గురించి వివరించారు.",
+    "text": "ఆ సైన్యం సామాన్యమైన సైన్యం కాదు, అందులో అరవీర భయంకరులైన వానరులు ఉన్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -183,7 +66,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "అప్పుడు రావణుడు \"వాళ్ళందరూ 100 యోజనాల సముద్రాన్ని దాటి వచ్చేశారు అంటున్నారు కదా, వాళ్ళని ఒకసారి నాకు చూపించండి\" అన్నాడు.",
+    "text": "వారు సముద్రాన్ని దాటి వచ్చేశారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -192,7 +75,25 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "అప్పుడు రావణుడు సుక సారణులతో కలిసి ఒక ప్రాసాదం ఎక్కి \"వాళ్ళలో ఎవరు ఎవరో నాకు చెప్పు\" అన్నాడు.",
+    "text": "వాళ్ళందరూ నిన్ను మట్టుపెట్టకముందే నా మాట విని సీతమ్మని విడిచిపెట్టవయ్యా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 3,
+    "id": "04.03",
+    "text": "వానరులందరినీ గరుడ వ్యూహంగా నిలుచోబెట్టారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 4,
+    "id": "04.04",
+    "text": "శిరస్థానం దగ్గర రాముడు, లక్ష్మణుడు నిలబడ్డారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -201,7 +102,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "అప్పుడు సారణుడు అన్నాడు \"రావణ!",
+    "text": "హృదయ స్థానమునందు అంగదుడు నిలబడ్డాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -210,7 +111,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "అక్కడ చూడు, అక్కడున్నాడే ఆయన ధూమ్రుడు.",
+    "text": "కుడి వైపున ఋషభుడు, ఎడమ వైపున గంధమాదనుడు, వెనుక భాగమునందు సుగ్రీవుడు నిలబడ్డారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -219,61 +120,7 @@
     "scene": 5,
     "part": 3,
     "id": "05.03",
-    "text": "ఆ ధూమ్రుడి తమ్ముడే జాంబవంతుడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "ఆయన అపారమైన పరాక్రమము ఉన్నవాడు, కొన్ని కోట్ల వానరములతో యుద్ధానికి వచ్చాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "వాడు గట్టిగా పెద్ద పెద్ద కేకలు వేస్తే వాడి నోట్లోనుండి వచ్చే నాదానికి శత్రువుల గుండెలు బద్దలయిపోతాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 6,
-    "id": "05.06",
-    "text": "వాళ్ళకి వేరే ఆయుధములు అక్కరలేదు, వాళ్ళకి గోళ్ళు, కోరలు ఆయుధములు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 7,
-    "id": "05.07",
-    "text": "పళ్ళతో కొరుకుతారు, మోచేతులతో పొడుస్తారు, చెట్లు పెకలిస్తారు, పర్వత శిఖరాలని ఊపుతారు, పెద్ద పెద్ద శిలలని విసురుతారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 8,
-    "id": "05.08",
-    "text": "ఒక్కొక్కడిది 10 ఏనుగుల బలం, కొంతమందిది 100 ఏనుగుల బలం, 1000 ఏనుగుల బలం, లక్ష ఏనుగుల బలం,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 9,
-    "id": "05.09",
-    "text": "కొంతమందిది ఎంత బలమో చెప్పడం కుదరదు.",
+    "text": "అలా కొన్ని కోట్ల కోట్ల వానరాలని నిలబెట్టారు\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -282,7 +129,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "ఇందులో ఇంకా ఆశ్చర్యమైనవాడు ఇంకోడు ఉన్నాడు, ఆయన అడుగు తీసి అడుగు వేస్తే యోజనం దూరం పడుతుంది అడుగు.",
+    "text": "తరువాత రావణుడు సుక, సారణులు అనే మరో ఇద్దరు గూఢచారులని పిలిచి వానర సైన్యాన్ని చూసి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -291,88 +138,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "ఆయనంత విశాలమైన శరీరం ఉన్నవాడు ఈ భూమిలో లేడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "అదిగో ఎదురుగా కనపడుతున్నది ఆయనే.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "ఆయన పేరు పనసుడు, 4 యోజనముల విశాలమైన శరీరాన్ని పొంది ఉంటాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "అదిగో ఆయన పక్కన కనపడుతున్నవాడు సుగ్రీవుడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 6,
-    "id": "06.06",
-    "text": "36 కోట్ల వానరములు సర్వకాలములయందు ఆయన చుట్టూ ఉంటాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 7,
-    "id": "06.07",
-    "text": "గద ఎత్తి 'రారా రావణ' అని ఆయన అక్కడ అరుస్తుంటే ఇక్కడ లంకలో ప్రాసాదములు కదులుతున్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 8,
-    "id": "06.08",
-    "text": "ఇన్ని కోట్ల వానరాలకు ఆయన అధినాదుడు, ఆయన ఆజ్ఞకి తిరుగులేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 9,
-    "id": "06.09",
-    "text": "ఆయన కిష్కిందని రాజధానిగా చేసుకొని పరిపాలిస్తాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 10,
-    "id": "06.10",
-    "text": "ఈయన కన్నా బలవంతుడైన ఈయన అన్న వాలిని రాముడు ఒక్క బాణంతో కొట్టి చంపేశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 11,
-    "id": "06.11",
-    "text": "వాలి మెడలో ఉండే మహేంద్ర మాల ఇప్పుడు సుగ్రీవుడి మెడలో ఉంది.",
+    "text": "ఎంత సైన్యం ఉందో లెక్కపెట్టి రమ్మన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -381,70 +147,16 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "అదిగో అటు చూడు, ఆయన కేసరి, హనుమ యొక్క తండ్రి.",
+    "text": "ఆ ఇద్దరు గూఢచారులు ప్రచ్ఛన్న రూపాలలో ఆకాశంలో ఉండి వానర సైన్యం ఎంత ఉందో అని చూస్తుండగా విభీషణుడు వాళ్ళని పసిగట్టి రాముడి దగ్గరికి తీసుకెళ్ళి \"వీళ్ళు దుర్మార్గులు,",
     "complete_verse_block": false,
-    "needs_timing_review": false,
+    "needs_timing_review": true,
     "seconds": null
   },
   {
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "ఆయన మేరు పర్వత శిఖరాల మీద తిరుగుతుంటాడు, కొన్ని లక్షల సైన్యంతో యుద్ధానికి వచ్చాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 3,
-    "id": "07.03",
-    "text": "ఆయనది సామాన్యమైన శక్తి కాదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "ఆ పక్కన ఉన్న గంధమాధనుడి శక్తి అంత ఇంత అని చెప్పడానికి కుదరదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 5,
-    "id": "07.05",
-    "text": "అక్కడున్న వానరములలో కొంతమంది బంగారు రంగులో మెరుస్తూ ఉంటారు, కొంతమంది కాటుక కొండల్లా ఉంటారు, కొంతమంది భయంకరమైన దంతాలతో ఉంటారు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 6,
-    "id": "07.06",
-    "text": "కొంతమంది తోకలు పొడుగ్గా ఉంటాయి, కొంతమంది ఎర్రగా, కొంతమంది పచ్చగా ఉంటారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 7,
-    "id": "07.07",
-    "text": "అక్కడున్న గుహల నిండా, పర్వతాల నిండా వాళ్ళే, సముద్రం మీద వాళ్ళే, ఆ వారధి మీద వాళ్ళే,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 8,
-    "id": "07.08",
-    "text": "లంకా పట్టణం చుట్టూ వానరాలే.",
+    "text": "అందుకని వీళ్ళని బంధించి తీసుకొచ్చాను\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -453,7 +165,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "ఈ వానరాలే కాకుండా ఇంకా వానరాలు వస్తూనే ఉన్నాయి వారధి దాటుతూ.",
+    "text": "ఇంతకముందు సుకుడితో ఎలా మాట్లాడాడో అలానే ఈ ఇద్దరు గూఢచారులతో రాముడు మాట్లాడి, విభీషణుడితో వాళ్ళని పంపించి సైన్యాన్ని చూడమన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -462,16 +174,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "లంకా పట్టణం చుట్టూ ఉన్న వనాలలో ఉన్న ప్రతి చెట్టు మీద భల్లూకాలు ఉన్నాయి, ఈ భల్లూకాలన్నిటికి జాంబవంతుడు నాయకుడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "ఇంకా గవయుడు, గయుడు, గవాక్షుడు కోటి ఏనుగుల బలం ఉన్నవారు.",
+    "text": "ఆ సుక సారణులు వానర సైన్యాన్ని చూసి, రావణుడికి ఆ సైన్యం గురించి వివరించారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -480,52 +183,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "నీ మీదకి ఇవ్వాళ ఎంత సైన్యం యుద్ధానికి వచ్చిందో చెబుతాను విను, పది పదివేలయితే ఒక లక్ష, పది లక్షలయితే పదిలక్షలు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 2,
-    "id": "09.02",
-    "text": "పది పదిలక్షలు అయితే ఒక కోటి, లక్ష కోట్లయితే ఒక సంకువు, వెయ్యి సంకువులు ఒక మహా సంకువు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "వెయ్యి మహా సంకువులు ఒక వృందము, వెయ్యి వృందములు ఒక మహా వృందము, వెయ్యి మహా వృందములు ఒక పద్మము,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 4,
-    "id": "09.04",
-    "text": "వెయ్యి పద్మములు ఒక మహా పద్మము, వెయ్యి మహా పద్మములు ఒక ఖర్వము, వెయ్యి ఖర్వములు ఒక మహా ఖర్వము,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 5,
-    "id": "09.05",
-    "text": "వెయ్యి మహా ఖర్వములు ఒక సముద్రము, వెయ్యి సముద్రములు ఒక ఓధము, వెయ్యి ఓధములు ఒక మహా ఓధము.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 6,
-    "id": "09.06",
-    "text": "ఇటువంటి మహా ఓధములు ఎన్నున్నాయో చెప్పడం కుదరదు.",
+    "text": "అప్పుడు రావణుడు \"వాళ్ళందరూ 100 యోజనాల సముద్రాన్ని దాటి వచ్చేశారు అంటున్నారు కదా, వాళ్ళని ఒకసారి నాకు చూపించండి\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -534,70 +192,7 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "అదుగో అక్కడ మధ్యలో నిలబడినవాడు హనుమ, ఆయన బంగారు శరీరముతో మెరిసిపోతుంటాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 2,
-    "id": "10.02",
-    "text": "ఆయనకి బ్రహ్మగారి వరం ఉంది, ఏ అస్త్ర-శస్త్రములకి ఆయన కట్టుబడదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 3,
-    "id": "10.03",
-    "text": "ఆయన పక్కన నీలమైన శరీరముతో, పద్మాలవంటి కన్నులతో, ఎడమ చేతితో కోదండం పట్టుకుని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 4,
-    "id": "10.04",
-    "text": "సాముద్రిక శాస్త్రంలో ఎలా ఉండాలని చెప్పబడిందో అలా పోతపోసిన సౌందర్యంతో ఉన్నాడే, ఆయనే రాముడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 5,
-    "id": "10.05",
-    "text": "ఆయన పరమ ధర్మాత్ముడు, పితృవాక్య పరిపాలకుడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 6,
-    "id": "10.06",
-    "text": "ఆ రాముడి బహి ప్రాణం లక్ష్మణుడు, కంటిని కనురెప్ప కాపాడినట్టు ఆయన నిరంతరం అన్నని కాపాడుతూ ఉంటాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 7,
-    "id": "10.07",
-    "text": "రామతుల్యమైన పరాక్రమము ఉన్నవాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 8,
-    "id": "10.08",
-    "text": "రాముడికి ఎన్ని అస్త్ర-శస్త్రములు తెలుసో లక్ష్మణుడికి కూడా అన్ని అస్త్ర-శస్త్రములు తెలుసు\" అని పొంగిపోతూ ఆ రామ సైన్యం గురించి రావణుడికి చెబుతున్నాడు.",
+    "text": "అప్పుడు రావణుడు సుక సారణులతో కలిసి ఒక ప్రాసాదం ఎక్కి \"వాళ్ళలో ఎవరు ఎవరో నాకు చెప్పు\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -606,7 +201,7 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
-    "text": "అప్పుడు రావణుడు ఆ సారణుడిని ఆపి \"నీకు ఎంత సంతోషంగా ఉందిరా వాళ్ళ గురించి చెప్పడం అంటే.",
+    "text": "అప్పుడు సారణుడు అన్నాడు \"రావణ!",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -615,7 +210,7 @@
     "scene": 11,
     "part": 2,
     "id": "11.02",
-    "text": "నా అన్నం తిని వాళ్ళని పొగుడుతావ.",
+    "text": "అక్కడ చూడు, అక్కడున్నాడే ఆయన ధూమ్రుడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -624,7 +219,7 @@
     "scene": 11,
     "part": 3,
     "id": "11.03",
-    "text": "ఇంకొకళ్ళు అయితే ఇప్పుడే పీకలు తీయించేవాడిని, కాని మీరు నాకు గతంలో చాలా ఉపకారాలు చేశారు కనుక వదిలేస్తున్నాను.",
+    "text": "ఆ ధూమ్రుడి తమ్ముడే జాంబవంతుడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -633,34 +228,7 @@
     "scene": 11,
     "part": 4,
     "id": "11.04",
-    "text": "ఇంకెప్పుడన్నా మీ ముఖాలు నాకు కనపడితే మీ పీకలు ఎగిరిపోతాయి, పోండి ఇక్కడినుండి\" అని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 5,
-    "id": "11.05",
-    "text": "మళ్ళి శార్దూలుడిని పిలిచి \"ఈ సారి నువ్వు వెళ్ళి గూఢచర్యం చేసి, ఎవడు ఏ వంశానికి చెందినవాడు, ఎవడు ఎవడి పుత్రుడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 6,
-    "id": "11.06",
-    "text": "రాముడు ఆహారం ఎక్కడ తింటాడు, ఎక్కడ పడుకుంటాడు, పక్కన ఎవరుంటారు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 7,
-    "id": "11.07",
-    "text": "ఎవరు రక్షిస్తూ ఉంటారు మొదలైన ఈ విషయాలని కనిపెట్టి రా\" అన్నాడు.",
+    "text": "ఆయన అపారమైన పరాక్రమము ఉన్నవాడు, కొన్ని కోట్ల వానరములతో యుద్ధానికి వచ్చాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -669,6 +237,474 @@
     "scene": 12,
     "part": 1,
     "id": "12.01",
+    "text": "వాడు గట్టిగా పెద్ద పెద్ద కేకలు వేస్తే వాడి నోట్లోనుండి వచ్చే నాదానికి శత్రువుల గుండెలు బద్దలయిపోతాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "వాళ్ళకి వేరే ఆయుధములు అక్కరలేదు, వాళ్ళకి గోళ్ళు, కోరలు ఆయుధములు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 3,
+    "id": "12.03",
+    "text": "పళ్ళతో కొరుకుతారు, మోచేతులతో పొడుస్తారు, చెట్లు పెకలిస్తారు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "పర్వత శిఖరాలని ఊపుతారు, పెద్ద పెద్ద శిలలని విసురుతారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "ఒక్కొక్కడిది 10 ఏనుగుల బలం, కొంతమందిది 100 ఏనుగుల బలం, 1000 ఏనుగుల బలం, లక్ష ఏనుగుల బలం,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 3,
+    "id": "13.03",
+    "text": "కొంతమందిది ఎంత బలమో చెప్పడం కుదరదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "ఇందులో ఇంకా ఆశ్చర్యమైనవాడు ఇంకోడు ఉన్నాడు, ఆయన అడుగు తీసి అడుగు వేస్తే యోజనం దూరం పడుతుంది అడుగు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "ఆయనంత విశాలమైన శరీరం ఉన్నవాడు ఈ భూమిలో లేడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "అదిగో ఎదురుగా కనపడుతున్నది ఆయనే.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "ఆయన పేరు పనసుడు, 4 యోజనముల విశాలమైన శరీరాన్ని పొంది ఉంటాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 3,
+    "id": "15.03",
+    "text": "అదిగో ఆయన పక్కన కనపడుతున్నవాడు సుగ్రీవుడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 4,
+    "id": "15.04",
+    "text": "36 కోట్ల వానరములు సర్వకాలములయందు ఆయన చుట్టూ ఉంటాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "గద ఎత్తి 'రారా రావణ' అని ఆయన అక్కడ అరుస్తుంటే ఇక్కడ లంకలో ప్రాసాదములు కదులుతున్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "ఇన్ని కోట్ల వానరాలకు ఆయన అధినాదుడు, ఆయన ఆజ్ఞకి తిరుగులేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "ఆయన కిష్కిందని రాజధానిగా చేసుకొని పరిపాలిస్తాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "ఈయన కన్నా బలవంతుడైన ఈయన అన్న వాలిని రాముడు ఒక్క బాణంతో కొట్టి చంపేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 3,
+    "id": "17.03",
+    "text": "వాలి మెడలో ఉండే మహేంద్ర మాల ఇప్పుడు సుగ్రీవుడి మెడలో ఉంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "అదిగో అటు చూడు, ఆయన కేసరి, హనుమ యొక్క తండ్రి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "ఆయన మేరు పర్వత శిఖరాల మీద తిరుగుతుంటాడు, కొన్ని లక్షల సైన్యంతో యుద్ధానికి వచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 3,
+    "id": "18.03",
+    "text": "ఆయనది సామాన్యమైన శక్తి కాదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "ఆ పక్కన ఉన్న గంధమాధనుడి శక్తి అంత ఇంత అని చెప్పడానికి కుదరదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "అక్కడున్న వానరములలో కొంతమంది బంగారు రంగులో మెరుస్తూ ఉంటారు, కొంతమంది కాటుక కొండల్లా ఉంటారు, కొంతమంది భయంకరమైన దంతాలతో ఉంటారు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "కొంతమంది తోకలు పొడుగ్గా ఉంటాయి, కొంతమంది ఎర్రగా, కొంతమంది పచ్చగా ఉంటారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "అక్కడున్న గుహల నిండా, పర్వతాల నిండా వాళ్ళే, సముద్రం మీద వాళ్ళే, ఆ వారధి మీద వాళ్ళే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 3,
+    "id": "20.03",
+    "text": "లంకా పట్టణం చుట్టూ వానరాలే.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "ఈ వానరాలే కాకుండా ఇంకా వానరాలు వస్తూనే ఉన్నాయి వారధి దాటుతూ.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "లంకా పట్టణం చుట్టూ ఉన్న వనాలలో ఉన్న ప్రతి చెట్టు మీద భల్లూకాలు ఉన్నాయి, ఈ భల్లూకాలన్నిటికి జాంబవంతుడు నాయకుడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "ఇంకా గవయుడు, గయుడు, గవాక్షుడు కోటి ఏనుగుల బలం ఉన్నవారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "నీ మీదకి ఇవ్వాళ ఎంత సైన్యం యుద్ధానికి వచ్చిందో చెబుతాను విను, పది పదివేలయితే ఒక లక్ష, పది లక్షలయితే పదిలక్షలు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 2,
+    "id": "23.02",
+    "text": "పది పదిలక్షలు అయితే ఒక కోటి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "లక్ష కోట్లయితే ఒక సంకువు, వెయ్యి సంకువులు ఒక మహా సంకువు, వెయ్యి మహా సంకువులు ఒక వృందము,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 2,
+    "id": "24.02",
+    "text": "వెయ్యి వృందములు ఒక మహా వృందము,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
+    "text": "వెయ్యి మహా వృందములు ఒక పద్మము, వెయ్యి పద్మములు ఒక మహా పద్మము, వెయ్యి మహా పద్మములు ఒక ఖర్వము,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 2,
+    "id": "25.02",
+    "text": "వెయ్యి ఖర్వములు ఒక మహా ఖర్వము,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 1,
+    "id": "26.01",
+    "text": "వెయ్యి మహా ఖర్వములు ఒక సముద్రము, వెయ్యి సముద్రములు ఒక ఓధము, వెయ్యి ఓధములు ఒక మహా ఓధము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 2,
+    "id": "26.02",
+    "text": "ఇటువంటి మహా ఓధములు ఎన్నున్నాయో చెప్పడం కుదరదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 1,
+    "id": "27.01",
+    "text": "అదుగో అక్కడ మధ్యలో నిలబడినవాడు హనుమ, ఆయన బంగారు శరీరముతో మెరిసిపోతుంటాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 2,
+    "id": "27.02",
+    "text": "ఆయనకి బ్రహ్మగారి వరం ఉంది, ఏ అస్త్ర-శస్త్రములకి ఆయన కట్టుబడదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 3,
+    "id": "27.03",
+    "text": "ఆయన పక్కన నీలమైన శరీరముతో, పద్మాలవంటి కన్నులతో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 1,
+    "id": "28.01",
+    "text": "ఎడమ చేతితో కోదండం పట్టుకుని, సాముద్రిక శాస్త్రంలో ఎలా ఉండాలని చెప్పబడిందో అలా పోతపోసిన సౌందర్యంతో ఉన్నాడే, ఆయనే రాముడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 2,
+    "id": "28.02",
+    "text": "ఆయన పరమ ధర్మాత్ముడు, పితృవాక్య పరిపాలకుడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 3,
+    "id": "28.03",
+    "text": "ఆ రాముడి బహి ప్రాణం లక్ష్మణుడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 29,
+    "part": 1,
+    "id": "29.01",
+    "text": "కంటిని కనురెప్ప కాపాడినట్టు ఆయన నిరంతరం అన్నని కాపాడుతూ ఉంటాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 29,
+    "part": 2,
+    "id": "29.02",
+    "text": "రామతుల్యమైన పరాక్రమము ఉన్నవాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 29,
+    "part": 3,
+    "id": "29.03",
+    "text": "రాముడికి ఎన్ని అస్త్ర-శస్త్రములు తెలుసో లక్ష్మణుడికి కూడా అన్ని అస్త్ర-శస్త్రములు తెలుసు\" అని పొంగిపోతూ ఆ రామ సైన్యం గురించి రావణుడికి చెబుతున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 30,
+    "part": 1,
+    "id": "30.01",
+    "text": "అప్పుడు రావణుడు ఆ సారణుడిని ఆపి \"నీకు ఎంత సంతోషంగా ఉందిరా వాళ్ళ గురించి చెప్పడం అంటే.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 30,
+    "part": 2,
+    "id": "30.02",
+    "text": "నా అన్నం తిని వాళ్ళని పొగుడుతావ.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 31,
+    "part": 1,
+    "id": "31.01",
+    "text": "ఇంకొకళ్ళు అయితే ఇప్పుడే పీకలు తీయించేవాడిని, కాని మీరు నాకు గతంలో చాలా ఉపకారాలు చేశారు కనుక వదిలేస్తున్నాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 32,
+    "part": 1,
+    "id": "32.01",
+    "text": "ఇంకెప్పుడన్నా మీ ముఖాలు నాకు కనపడితే మీ పీకలు ఎగిరిపోతాయి, పోండి ఇక్కడినుండి\" అని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 32,
+    "part": 2,
+    "id": "32.02",
+    "text": "మళ్ళి శార్దూలుడిని పిలిచి \"ఈ సారి నువ్వు వెళ్ళి గూఢచర్యం చేసి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 33,
+    "part": 1,
+    "id": "33.01",
+    "text": "ఎవడు ఏ వంశానికి చెందినవాడు, ఎవడు ఎవడి పుత్రుడు, రాముడు ఆహారం ఎక్కడ తింటాడు, ఎక్కడ పడుకుంటాడు, పక్కన ఎవరుంటారు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 33,
+    "part": 2,
+    "id": "33.02",
+    "text": "ఎవరు రక్షిస్తూ ఉంటారు మొదలైన ఈ విషయాలని కనిపెట్టి రా\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 34,
+    "part": 1,
+    "id": "34.01",
     "text": "తర్వాత చూద్దాం — రావణుడి మాయ.",
     "complete_verse_block": false,
     "needs_timing_review": false,

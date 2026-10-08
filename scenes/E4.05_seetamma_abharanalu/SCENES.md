@@ -20,15 +20,31 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 2 — Scene 02
 
-**Visual:** [Sugriva Visual Lock] returning from a cave with a small bundle tied in a strip of yellow silk and laying it open before [Rama, RAMA-S4] (the p. 344 illustration); Rama's face breaking at the sight, his knees giving way; then Rama, eyes streaming, wiping them again and again and beckoning [Lakshmana] closer. Grief treatment (Style Guide): hold on the jewels lying on the silk.
+**Visual:** [Sugriva Visual Lock] returning with a small bundle tied in a strip of yellow silk and laying it open before [Rama, RAMA-S4]; Rama's knees giving way.
 
-**Story:** కొంతసేపటికి సుగ్రీవుడు ఆ ఆభరణాలని తీసుకొచ్చాడు. ఆ ఆభరణాలని చూసేసరికి, ఒక్కసారి శోకం తన్నుకొచ్చినవాడై రాముడు మూర్ఛపోయి నేలమీద పడిపోయాడు. తరువాత ఆయన తేరుకొని ఆ ఆభరణాలని చూద్దాము అంటే కళ్ళనిండా నీరు ఉండడం చేత, ఎన్నిసార్లు తుడుచుకున్నా ఆ కన్నీరు ఆగడంలేదు కనుక ఆయన లక్ష్మణుడిని పిలిచి "లక్ష్మణా! ఈ ఆభారణాలని ఒక్కసారి చూడు. ఇవి విరిగిపోయి ముక్కలు అవ్వలేదు, సీత ఈ ఆభరణాలని విడిచిపెట్టినప్పుడు ఇవి గడ్డి మీద పడిఉంటాయి. నువ్వు వీటిని ఒకసారి చూడు" అన్నాడు.
+**Story:** కొంతసేపటికి సుగ్రీవుడు ఆ ఆభరణాలని తీసుకొచ్చాడు. ఆ ఆభరణాలని చూసేసరికి, ఒక్కసారి శోకం తన్నుకొచ్చినవాడై రాముడు మూర్ఛపోయి నేలమీద పడిపోయాడు.
 
 **Image:** Pending creation.
 
 **Source note:** The jewels Sita dropped in E3.25 reach Rama at last. He cannot even see them through his tears, so he asks Lakshmana to look.
 
 ## 3 — Scene 03
+
+**Visual:** Rama, eyes streaming, wiping them again and again and beckoning [Lakshmana] closer.
+
+**Story:** తరువాత ఆయన తేరుకొని ఆ ఆభరణాలని చూద్దాము అంటే కళ్ళనిండా నీరు ఉండడం చేత, ఎన్నిసార్లు తుడుచుకున్నా ఆ కన్నీరు ఆగడంలేదు కనుక ఆయన లక్ష్మణుడిని పిలిచి "లక్ష్మణా! ఈ ఆభారణాలని ఒక్కసారి చూడు.
+
+**Image:** Pending creation.
+
+## 4 — Scene 04
+
+**Visual:** Grief treatment (Style Guide): hold on the jewels lying unbroken on the silk.
+
+**Story:** ఇవి విరిగిపోయి ముక్కలు అవ్వలేదు, సీత ఈ ఆభరణాలని విడిచిపెట్టినప్పుడు ఇవి గడ్డి మీద పడిఉంటాయి. నువ్వు వీటిని ఒకసారి చూడు" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 5 — Scene 05
 
 **Visual:** On-screen shloka text, gold lettering over a darkened hold of the surrounding scene ([Sugriva Visual Lock] returning from a cave with a small bundle tied in a strip of yellow).
 
@@ -38,45 +54,77 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — printed form (p. 345), recite in full before the explanation that follows. Lakshmana: "I do not know the armlets, I do not know the earrings; but the anklets I know, from bowing daily at her feet."
 
-## 4 — Scene 04
+## 6 — Scene 06
 
-**Visual:** [Lakshmana] kneeling over the jewels, passing over the armlets and earrings, then lifting the pair of anklets with both hands and bowing his head over them; a brief golden-tinted memory of his daily namaskaram at Sita's feet (Sita seen only from the ankles down).
+**Visual:** [Lakshmana] kneeling over the jewels, passing over the armlets and earrings.
 
-**Story:** అప్పుడు లక్ష్మణుడు "అన్నయ్యా! ఈ కేయూరాలు వదిన పెట్టుకుందో లేదో నాకు తెలీదు, ఈ కుండలాలు వదిన పెట్టుకుందో లేదో నాకు తెలీదు. అన్నయ్యా! ఈ నూపురాలు మాత్రం వదినవే. నేను ప్రతిరోజు వదిన కాళ్ళకి నమస్కారం పెట్టేవాడిని, అప్పుడు ఈ నూపురాలని వదిన పాదాలకి చూశాను" అన్నాడు.
+**Story:** అప్పుడు లక్ష్మణుడు "అన్నయ్యా! ఈ కేయూరాలు వదిన పెట్టుకుందో లేదో నాకు తెలీదు, ఈ కుండలాలు వదిన పెట్టుకుందో లేదో నాకు తెలీదు.
 
 **Image:** Pending creation.
 
 **Source note:** The most quoted moment of Lakshmana's character: he has never raised his eyes above Sita's feet. Keep the memory shot at foot level only.
 
-## 5 — Scene 05
+## 7 — Scene 07
 
-**Visual:** [Sugriva Visual Lock] sitting close to the weeping [Rama, RAMA-S4], a hand on his shoulder, speaking as one who shares the same wound; the ministers looking on quietly.
+**Visual:** Lakshmana lifting the pair of anklets with both hands and bowing his head over them; a brief golden-tinted memory of his daily namaskaram at Sita's feet (seen only from the ankles down).
 
-**Story:** అప్పుడు సుగ్రీవుడి రాముడితో "అయ్యయ్యో, అలా ఏడవకు రామ. నేను కూడా నీలాగే కష్టపడుతున్నాను. నువ్వే ఆలోచించు, నేను నీలా ఏడుస్తున్నాన? నీలాగే నా భార్య కూడా అపహరింపబడింది. నీకు చెప్పగలిగేంత సమర్దుడిని కాదు, కాని ఒక్కసారి నీకు జ్ఞాపకం చేద్దామని స్నేహ లక్షణంతో చెప్పాను. నీ యొక్క దుఃఖాన్ని ఉపశమింప చేసుకో, నాయందు ఉన్న స్నేహాన్ని జ్ఞాపకం చేసుకో" అన్నాడు.
+**Story:** అన్నయ్యా! ఈ నూపురాలు మాత్రం వదినవే. నేను ప్రతిరోజు వదిన కాళ్ళకి నమస్కారం పెట్టేవాడిని, అప్పుడు ఈ నూపురాలని వదిన పాదాలకి చూశాను" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 8 — Scene 08
+
+**Visual:** [Sugriva Visual Lock] sitting close to the weeping [Rama, RAMA-S4], a hand on his shoulder, speaking as one who shares the same wound.
+
+**Story:** అప్పుడు సుగ్రీవుడి రాముడితో "అయ్యయ్యో, అలా ఏడవకు రామ. నేను కూడా నీలాగే కష్టపడుతున్నాను. నువ్వే ఆలోచించు, నేను నీలా ఏడుస్తున్నాన? నీలాగే నా భార్య కూడా అపహరింపబడింది.
 
 **Image:** Pending creation.
 
 **Source note:** Sugriva consoles Rama out of his own loss — the friendship of E4.04 at work.
 
-## 6 — Scene 06
+## 9 — Scene 09
 
-**Visual:** [Rama, RAMA-S4] steadying himself, wiping his face, turning to [Sugriva Visual Lock] with composed urgency.
+**Visual:** Sugriva's gentle reminder of their friendship; the ministers looking on quietly.
 
-**Story:** వెంటనే రాముడు స్వస్థతని పొంది "ఉత్తమమైన మిత్రుడు ఎటువంటి మాట చెప్పాలో అటువంటి మాట చెప్పావయ్య సుగ్రీవా. కాని నాకు ఒక విషయం చెప్పు. ఈ రాక్షసుడు ఎక్కడ ఉంటాడో నాకు చెప్పు, నేను వెంటనే వెళ్ళి రాక్షస సంహారం చేస్తాను" అన్నాడు.
+**Story:** నీకు చెప్పగలిగేంత సమర్దుడిని కాదు, కాని ఒక్కసారి నీకు జ్ఞాపకం చేద్దామని స్నేహ లక్షణంతో చెప్పాను. నీ యొక్క దుఃఖాన్ని ఉపశమింప చేసుకో, నాయందు ఉన్న స్నేహాన్ని జ్ఞాపకం చేసుకో" అన్నాడు.
 
 **Image:** Pending creation.
 
-## 7 — Scene 07
+## 10 — Scene 10
 
-**Visual:** [Sugriva Visual Lock] with a hand on his chest, pledging; then, more hesitantly, asking for his own cause first.
+**Visual:** [Rama, RAMA-S4] steadying himself, wiping his face — you have spoken as a true friend should.
 
-**Story:** అప్పుడు సుగ్రీవుడు "నేను సత్యం చెబుతున్నాను, నా మాట నమ్ము. నీ భార్యను తీసుకొచ్చే పూచి నాది. కాని నీ భార్యను అపహరించిన రాక్షసుడి పేరు నాకు తెలీదు. ఎక్కడుంటాడో నాకు తెలీదు. నువ్వు బెంగ పెట్టుకోవద్దు, ముందు నా కార్యానికి సహాయం చెయ్యి" అన్నాడు.
+**Story:** వెంటనే రాముడు స్వస్థతని పొంది "ఉత్తమమైన మిత్రుడు ఎటువంటి మాట చెప్పాలో అటువంటి మాట చెప్పావయ్య సుగ్రీవా.
+
+**Image:** Pending creation.
+
+## 11 — Scene 11
+
+**Visual:** Rama turning to [Sugriva Visual Lock] with composed urgency — where does this rakshasa live?
+
+**Story:** కాని నాకు ఒక విషయం చెప్పు. ఈ రాక్షసుడు ఎక్కడ ఉంటాడో నాకు చెప్పు, నేను వెంటనే వెళ్ళి రాక్షస సంహారం చేస్తాను" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 12 — Scene 12
+
+**Visual:** [Sugriva Visual Lock] with a hand on his chest, pledging.
+
+**Story:** అప్పుడు సుగ్రీవుడు "నేను సత్యం చెబుతున్నాను, నా మాట నమ్ము. నీ భార్యను తీసుకొచ్చే పూచి నాది.
 
 **Image:** Pending creation.
 
 **Source note:** Sugriva does not know Ravana's name or home — that knowledge comes only much later, from Sampati.
 
-## 8 — Scene 08
+## 13 — Scene 13
+
+**Visual:** Sugriva, more hesitantly, admitting he knows neither the rakshasa's name nor his home, and asking for his own cause first.
+
+**Story:** కాని నీ భార్యను అపహరించిన రాక్షసుడి పేరు నాకు తెలీదు. ఎక్కడుంటాడో నాకు తెలీదు. నువ్వు బెంగ పెట్టుకోవద్దు, ముందు నా కార్యానికి సహాయం చెయ్యి" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 14 — Scene 14
 
 **Visual:** [Rama, RAMA-S4] rising, bow in hand, the sacred fire still glowing behind him; a calm, absolute promise.
 
@@ -86,7 +134,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Rama's standing declaration: he has never spoken an untruth and never will.
 
-## 9 — Scene 09
+## 15 — Scene 15
 
 **Visual:** [Sugriva Visual Lock] overwhelmed, folding his hands, joy replacing the anxiety on his face.
 
@@ -94,7 +142,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 10 — Scene 10
+## 16 — Scene 16
 
 **Visual:** [Rama, RAMA-S4] seating himself again on the sala branch and gesturing [Sugriva Visual Lock] to speak; Sugriva beginning his tale as the light on the summit lengthens.
 
@@ -104,7 +152,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Leads into the full story of the brothers' enmity in E4.06.
 
-## 11 — Scene 11
+## 17 — Scene 17
 
 **Visual:** End card.
 

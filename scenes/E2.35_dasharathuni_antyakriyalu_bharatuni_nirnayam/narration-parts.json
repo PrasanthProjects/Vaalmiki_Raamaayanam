@@ -27,28 +27,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 2,
-    "id": "02.02",
-    "text": "ఆయనకి అంత్యేష్టి సంస్కారం చెయ్యకపోతే ఉత్తమగతులు కలగవు, కావున ఈ పనియందు దృష్టి పెట్టు\" అన్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "అప్పుడా దశరథ మహారాజు పార్థివ శరీరాన్ని తైల ద్రోణి నుండి పైకి తీసి బయట పెట్టారు, అందరూ వచ్చి చూశారు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 2,
-    "id": "03.02",
-    "text": "అక్కడినుండి ఆయనని శిబికలోకి పెట్టారు, తరువాత ఆ శిబికతో శరీరాన్ని ఊరేగింపుగా తీసుకువెళ్ళారు, భరతుడు, శత్రుఘ్నుడు అగ్నిహోత్రం తీసుకొని వచ్చి వెలిగించారు.",
+    "text": "ఆయనకి అంత్యేష్టి సంస్కారం చెయ్యకపోతే ఉత్తమగతులు కలగవు, కావున ఈ పనియందు దృష్టి పెట్టు\" అన్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -57,7 +39,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "తరువాత అందరూ సరయు నదికి వెళ్ళి స్నానం చేశారు (ఆ కాలంలో ఇక్ష్వాకు వంశంలో ఆడవారు కూడా చితి దగ్గరికి వచ్చేవారు).",
+    "text": "అప్పుడా దశరథ మహారాజు పార్థివ శరీరాన్ని తైల ద్రోణి నుండి పైకి తీసి బయట పెట్టారు, అందరూ వచ్చి చూశారు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -66,16 +48,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "రెండు మూడు రోజుల తరువాత కొన్ని లక్షల గోవుల్ని, బంగారాన్ని దానము చేశారు, అందరికి భోజనాలు పెట్టారు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 2,
-    "id": "05.02",
-    "text": "13వ రోజున అసౌచం తీరిపోయాక మంత్రులందరూ కలిసి భరతుడి దగ్గరికి వెళ్ళారు.",
+    "text": "అక్కడినుండి ఆయనని శిబికలోకి పెట్టారు, తరువాత ఆ శిబికతో శరీరాన్ని ఊరేగింపుగా తీసుకువెళ్ళారు, భరతుడు, శత్రుఘ్నుడు అగ్నిహోత్రం తీసుకొని వచ్చి వెలిగించారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -84,7 +57,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "\"సింహాసనం ఖాళీగా ఉండకూడదు, మీ తండ్రిగారి కోరిక ప్రకారం నువ్వు ఈ రాజ్యాన్ని పరిపాలించు\" అన్నారు.",
+    "text": "తరువాత అందరూ సరయు నదికి వెళ్ళి స్నానం చేశారు (ఆ కాలంలో ఇక్ష్వాకు వంశంలో ఆడవారు కూడా చితి దగ్గరికి వచ్చేవారు).",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -93,7 +66,16 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "అప్పుడు భరతుడు పట్టాభిషేకానికి తీసుకువచ్చిన సంభారములన్నిటికి ఒకసారి ప్రదక్షిణం చేసి —",
+    "text": "రెండు మూడు రోజుల తరువాత కొన్ని లక్షల గోవుల్ని, బంగారాన్ని దానము చేశారు, అందరికి భోజనాలు పెట్టారు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 2,
+    "id": "07.02",
+    "text": "13వ రోజున అసౌచం తీరిపోయాక మంత్రులందరూ కలిసి భరతుడి దగ్గరికి వెళ్ళారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -102,8 +84,8 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "రామః పూర్వో హి నో భ్రాతా భవిష్యతి మహీ పతిః । అహం తు అరణ్యే వత్స్యామి వర్షాణి నవ పంచ చ ॥",
-    "complete_verse_block": true,
+    "text": "\"సింహాసనం ఖాళీగా ఉండకూడదు, మీ తండ్రిగారి కోరిక ప్రకారం నువ్వు ఈ రాజ్యాన్ని పరిపాలించు\" అన్నారు.",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -111,43 +93,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "\"నాకు ముందు పుట్టిన రాముడు ఈ అభిషేక సంభారములతో యువరాజ పట్టాభిషేకం చేసుకోవాలి, సింహాసనం మీద కూర్చొని రాజ్యం పరిపాలించాలి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 2,
-    "id": "09.02",
-    "text": "కాని మా నాన్నగారి ఆజ్ఞ ప్రకారం 14 సంవత్సరములు దండకారణ్యంలో ఉన్నాడు, రాముడికి నాకు తేడా లేదు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "రాముడి బదులు నేను 14 సంవత్సరములు అరణ్యవాసం చేస్తాను, రాముడు వచ్చి పట్టాభిషేకం చేసుకుంటాడు, అందుకని మీరందరూ మంచి వడ్రంగులని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 4,
-    "id": "09.04",
-    "text": "శిల్పులని తీసుకువచ్చి రాజ్యంనుండి రాముడు దండకారణ్యంలో ఎక్కడున్నాడో అక్కడివరకు దారి చెయ్యండి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 5,
-    "id": "09.05",
-    "text": "పాటుగా అయోధ్య అంతా కదిలి ఇంతమంది అడిగితే రాముడు కాదనలేడు, కావున ఇంతమంది వెళ్ళడానికి తగిన ఏర్పాట్లు చెయ్యండి\" అన్నాడు.",
+    "text": "అప్పుడు భరతుడు పట్టాభిషేకానికి తీసుకువచ్చిన సంభారములన్నిటికి ఒకసారి ప్రదక్షిణం చేసి —",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -156,6 +102,69 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
+    "text": "రామః పూర్వో హి నో భ్రాతా భవిష్యతి మహీ పతిః । అహం తు అరణ్యే వత్స్యామి వర్షాణి నవ పంచ చ ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "\"నాకు ముందు పుట్టిన రాముడు ఈ అభిషేక సంభారములతో యువరాజ పట్టాభిషేకం చేసుకోవాలి, సింహాసనం మీద కూర్చొని రాజ్యం పరిపాలించాలి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "కాని మా నాన్నగారి ఆజ్ఞ ప్రకారం 14 సంవత్సరములు దండకారణ్యంలో ఉన్నాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "రాముడికి నాకు తేడా లేదు, రాముడి బదులు నేను 14 సంవత్సరములు అరణ్యవాసం చేస్తాను, రాముడు వచ్చి పట్టాభిషేకం చేసుకుంటాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "అందుకని మీరందరూ మంచి వడ్రంగులని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "శిల్పులని తీసుకువచ్చి రాజ్యంనుండి రాముడు దండకారణ్యంలో ఎక్కడున్నాడో అక్కడివరకు దారి చెయ్యండి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "పాటుగా అయోధ్య అంతా కదిలి ఇంతమంది అడిగితే రాముడు కాదనలేడు, కావున ఇంతమంది వెళ్ళడానికి తగిన ఏర్పాట్లు చెయ్యండి\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
     "text": "తర్వాత చూద్దాం — ఈ వార్త అయోధ్యలో ఎలా వ్యాపిస్తుందో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

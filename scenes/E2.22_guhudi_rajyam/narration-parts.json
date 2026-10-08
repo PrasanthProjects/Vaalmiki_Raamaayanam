@@ -27,28 +27,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 2,
-    "id": "02.02",
-    "text": "కొంతదూరం వెళ్ళాక రథ చక్రాలు ఆగిపోయాయి, ఇంక చేసేది ఏమి లేక బాధపడుతూ అయోధ్యకి వెళ్ళారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "రాముడు వెళ్ళిపోయాడని ఆ అయోధ్యా పట్టణంలో అన్నం వండుకున్నవాడు ఒక్కడు కూడా లేడు, ఇంటిముందు కూడా కళ్ళాపి జల్లలేదు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 2,
-    "id": "03.02",
-    "text": "ఎవరూ ముగ్గు పెట్టలేదు, ఆ రాజ్యంలోని ఒక్క ప్రాణి కూడా ఆనందంగా లేదు, రాజ్యం సంతోషంగా ఉన్న ఏకైక ప్రాణి కైకేయ.",
+    "text": "కొంతదూరం వెళ్ళాక రథ చక్రాలు ఆగిపోయాయి, ఇంక చేసేది ఏమి లేక బాధపడుతూ అయోధ్యకి వెళ్ళారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -57,7 +39,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "రాముడు ఆ తమసా నదిని దాటాక, ఒక్కొక్కరోజు వేదశృతి, గోమతి మొదలైన నగరాలని దాటి, కోసలరాజ్య సరిహద్దుకి చేరుకున్నారు.",
+    "text": "రాముడు వెళ్ళిపోయాడని ఆ అయోధ్యా పట్టణంలో అన్నం వండుకున్నవాడు ఒక్కడు కూడా లేడు, ఇంటిముందు కూడా కళ్ళాపి జల్లలేదు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -66,8 +48,8 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "ఆపృచ్ఛే త్వాం పురీశ్రేష్ఠే కాకుత్స్థపరిపాలితే । దైవతాని చ యాని త్వాం పాలయంత్యావసంతి చ ॥",
-    "complete_verse_block": true,
+    "text": "ఎవరూ ముగ్గు పెట్టలేదు, ఆ రాజ్యంలోని ఒక్క ప్రాణి కూడా ఆనందంగా లేదు, రాజ్యం సంతోషంగా ఉన్న ఏకైక ప్రాణి కైకేయ.",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -75,34 +57,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "అక్కడికి వచ్చాక ఆ అయోధ్యా నగరానికి రథం దిగి ఒకసారి నమస్కారం చేసి ఇలా అన్నాడు — \"ఓ అయోధ్యా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 2,
-    "id": "06.02",
-    "text": "పూర్వం మా కాకుత్స వంశంలోని ఎందరో రాజులు నిన్ను పరిపాలించారు, ఇటువంటి అయోధ్యా నగరాన్ని విడిచి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "ధర్మానికి కట్టుబడి 14 సంవత్సరములు అరణ్యాలకి వెళుతున్నాను, తిరిగి నేను ఈ అయోధ్యా నగరంలో ప్రవేశించి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "మా తల్లిదండ్రుల పాదములకు నమస్కరించే అదృష్టాన్ని నాకు ప్రసాదించు\" అని వేడుకున్నాడు.",
+    "text": "రాముడు ఆ తమసా నదిని దాటాక, ఒక్కొక్కరోజు వేదశృతి, గోమతి మొదలైన నగరాలని దాటి, కోసలరాజ్య సరిహద్దుకి చేరుకున్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -111,17 +66,8 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "తరువాత వారు ఆ కోసల దేశ సరిహద్దుల్ని దాటి గంగా నదీ తీరాన్ని చేరుకున్నారు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 2,
-    "id": "07.02",
-    "text": "అక్కడ ఒక ఇంగుదీ (గార) వృక్షం యొక్క నీడలో అందరూ కూర్చున్నారు.",
-    "complete_verse_block": false,
+    "text": "ఆపృచ్ఛే త్వాం పురీశ్రేష్ఠే కాకుత్స్థపరిపాలితే । దైవతాని చ యాని త్వాం పాలయంత్యావసంతి చ ॥",
+    "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -129,8 +75,17 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "తత్ర రాజా గుహో నామ రామస్య ఆత్మ సమః సఖా । నిషాద జాత్యో బలవాన్ స్థపతిః చ ఇతి విశ్రుతః ॥",
-    "complete_verse_block": true,
+    "text": "అక్కడికి వచ్చాక ఆ అయోధ్యా నగరానికి రథం దిగి ఒకసారి నమస్కారం చేసి ఇలా అన్నాడు — \"ఓ అయోధ్యా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 2,
+    "id": "08.02",
+    "text": "పూర్వం మా కాకుత్స వంశంలోని ఎందరో రాజులు నిన్ను పరిపాలించారు,",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -138,7 +93,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "రాముడు అక్కడికి వచ్చాడని తెలుసుకొని, శృంగిబేరపురము అని పిలువబడే ఆ ప్రాంతానికి అధిపతి అయిన నిషాదుడైన,",
+    "text": "ఇటువంటి అయోధ్యా నగరాన్ని విడిచి, ధర్మానికి కట్టుబడి 14 సంవత్సరములు అరణ్యాలకి వెళుతున్నాను, తిరిగి నేను ఈ అయోధ్యా నగరంలో ప్రవేశించి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -147,25 +102,7 @@
     "scene": 9,
     "part": 2,
     "id": "09.02",
-    "text": "రాముడికి ఆత్మ సమానమైన స్నేహితుడైన (తమ ధర్మాన్ని పాటించే వాళ్ళందరూ రాముడికి ఆత్మ సమానమైన స్నేహితులే) గుహుడు పరుగు పరుగున వచ్చి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "రాముడిని గట్టిగా కౌగలించుకొని ఇలా అన్నాడు — \"రామా, ఇది కూడా నీ రాజ్యమే,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 4,
-    "id": "09.04",
-    "text": "ఇది కూడా నీ అయోధ్య అనే అనుకో, నీకోసమని రకరకాల పదార్థాలు, అన్నరాసులు తీసుకొచ్చాను, తీసుకో రామా\" అన్నాడు.",
+    "text": "మా తల్లిదండ్రుల పాదములకు నమస్కరించే అదృష్టాన్ని నాకు ప్రసాదించు\" అని వేడుకున్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -174,44 +111,26 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "గుహం ఏవ బ్రువాణం తం రాఘవః ప్రత్యువాచ హ । అర్చితాః చైవ హృష్టాః చ భవతా సర్వథా వయం । పద్భ్యాం అభిగమాచ్ చైవ స్నేహ సందర్శనేన చ ॥",
-    "complete_verse_block": true,
-    "needs_timing_review": true,
+    "text": "తరువాత వారు ఆ కోసల దేశ సరిహద్దుల్ని దాటి గంగా నదీ తీరాన్ని చేరుకున్నారు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "అక్కడ ఒక ఇంగుదీ (గార) వృక్షం యొక్క నీడలో అందరూ కూర్చున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
     "seconds": null
   },
   {
     "scene": 11,
     "part": 1,
     "id": "11.01",
-    "text": "అప్పుడు రాముడు \"గుహా, మా అమ్మకి ఇచ్చిన మాట ప్రకారం నేను ఇవన్నీ తినకూడదు, కాని నువ్వు నాకోసం పరిగెత్తుకుంటూ వచ్చి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 2,
-    "id": "11.02",
-    "text": "ప్రేమతో 'ఈ రాజ్యం కూడా అయోధ్యే' అన్నావు కదా, అప్పుడే నా కడుపు నిండిపోయింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 3,
-    "id": "11.03",
-    "text": "మా నాన్నగారికి ఈ గుర్రాలంటే చాలా ఇష్టం, అవి మమ్మల్ని ఇంత దూరం తీసుకొని వచ్చి అలసిపోయాయి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 4,
-    "id": "11.04",
-    "text": "వాటికి కావలసిన గడ్డి మొదలైనవి ఇవ్వు\" అన్నాడు.",
-    "complete_verse_block": false,
+    "text": "తత్ర రాజా గుహో నామ రామస్య ఆత్మ సమః సఖా । నిషాద జాత్యో బలవాన్ స్థపతిః చ ఇతి విశ్రుతః ॥",
+    "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -219,7 +138,16 @@
     "scene": 12,
     "part": 1,
     "id": "12.01",
-    "text": "ఆ రోజున గుర్రాలు సేదతీరాక, ఇంగుదీ వృక్షం కింద సీతారాములు పడుకున్నారు, అప్పుడు గుహుడు లక్ష్మణుడిని కూడా పడుకోమన్నాడు.",
+    "text": "రాముడు అక్కడికి వచ్చాడని తెలుసుకొని, శృంగిబేరపురము అని పిలువబడే ఆ ప్రాంతానికి అధిపతి అయిన నిషాదుడైన,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "రాముడికి ఆత్మ సమానమైన స్నేహితుడైన (తమ ధర్మాన్ని పాటించే వాళ్ళందరూ రాముడికి ఆత్మ సమానమైన స్నేహితులే) గుహుడు పరుగు పరుగున వచ్చి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -228,8 +156,17 @@
     "scene": 13,
     "part": 1,
     "id": "13.01",
-    "text": "కథం దాశరథౌ భూమౌ శయానే సహ సీతయా । శక్యా నిద్రా మయా లబ్ధుం జీవితం వా సుఖాని వా ॥",
-    "complete_verse_block": true,
+    "text": "రాముడిని గట్టిగా కౌగలించుకొని ఇలా అన్నాడు — \"రామా, ఇది కూడా నీ రాజ్యమే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "ఇది కూడా నీ అయోధ్య అనే అనుకో, నీకోసమని రకరకాల పదార్థాలు, అన్నరాసులు తీసుకొచ్చాను, తీసుకో రామా\" అన్నాడు.",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -237,16 +174,16 @@
     "scene": 14,
     "part": 1,
     "id": "14.01",
-    "text": "యో న దేవ అసురైః సర్వైః శక్యః ప్రసహితుం యుధి । తం పశ్య సుఖ సంవిష్టం తృణేషు సహ సీతయా ॥",
+    "text": "గుహం ఏవ బ్రువాణం తం రాఘవః ప్రత్యువాచ హ । అర్చితాః చైవ హృష్టాః చ భవతా సర్వథా వయం । పద్భ్యాం అభిగమాచ్ చైవ స్నేహ సందర్శనేన చ ॥",
     "complete_verse_block": true,
-    "needs_timing_review": false,
+    "needs_timing_review": true,
     "seconds": null
   },
   {
     "scene": 15,
     "part": 1,
     "id": "15.01",
-    "text": "\"నాకు నిద్ర వస్తుందని ఎలా అనుకున్నావు, రాముడు నేల మీద పడుకొని ఉండగా జీవితానికి ఇక సుఖం లేదు, దేవతలు,",
+    "text": "అప్పుడు రాముడు \"గుహా, మా అమ్మకి ఇచ్చిన మాట ప్రకారం నేను ఇవన్నీ తినకూడదు, కాని నువ్వు నాకోసం పరిగెత్తుకుంటూ వచ్చి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -255,16 +192,7 @@
     "scene": 15,
     "part": 2,
     "id": "15.02",
-    "text": "రాక్షసులు కలిసి యుద్ధానికి వస్తే నిగ్రహించగల మొనగాడు మా అన్నగారు, అలాంటి మా అన్నయ్య,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 15,
-    "part": 3,
-    "id": "15.03",
-    "text": "సీతమ్మ కలిసి ఇలా పడుకొని ఉంటే నేనెలా పడుకోగలను\" అన్నాడు లక్ష్మణుడు.",
+    "text": "ప్రేమతో 'ఈ రాజ్యం కూడా అయోధ్యే' అన్నావు కదా, అప్పుడే నా కడుపు నిండిపోయింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -273,7 +201,7 @@
     "scene": 16,
     "part": 1,
     "id": "16.01",
-    "text": "మరునాడు ఉదయం గుహుడు తీసుకొని వచ్చిన పడవ ఎక్కి సీతారామలక్ష్మణులు గంగని దాటడానికి సిద్ధపడుతున్నారు, అప్పుడు సుమంత్రుడు రాముడిని పిలిచి,",
+    "text": "మా నాన్నగారికి ఈ గుర్రాలంటే చాలా ఇష్టం, అవి మమ్మల్ని ఇంత దూరం తీసుకొని వచ్చి అలసిపోయాయి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -282,7 +210,7 @@
     "scene": 16,
     "part": 2,
     "id": "16.02",
-    "text": "\"నేను ఏమి చెయ్యను\" అని అడిగాడు.",
+    "text": "వాటికి కావలసిన గడ్డి మొదలైనవి ఇవ్వు\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -291,25 +219,7 @@
     "scene": 17,
     "part": 1,
     "id": "17.01",
-    "text": "రాముడు ఇలా అన్నాడు — \"నువ్వు తిరిగి అయోధ్యకి వెళ్ళి మా తండ్రిగారికి, ముగ్గురు తల్లులకి నా నమస్కారములు చెప్పు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 17,
-    "part": 2,
-    "id": "17.02",
-    "text": "కౌసల్యని సర్వకాలములయందు దశరథుడిని సేవించమని చెప్పు, భరతుడిని కుశలమడిగానని చెప్పు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 17,
-    "part": 3,
-    "id": "17.03",
-    "text": "వృద్ధుడైన చక్రవర్తిని ఏ ఒక్క కారణం చేత బాధ పెట్టవద్దని చెప్పు, తండ్రి మనస్సుకి అనుగుణంగా పరిపాలించమని చెప్పు\" అన్నాడు.",
+    "text": "ఆ రోజున గుర్రాలు సేదతీరాక, ఇంగుదీ వృక్షం కింద సీతారాములు పడుకున్నారు, అప్పుడు గుహుడు లక్ష్మణుడిని కూడా పడుకోమన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -318,6 +228,105 @@
     "scene": 18,
     "part": 1,
     "id": "18.01",
+    "text": "కథం దాశరథౌ భూమౌ శయానే సహ సీతయా । శక్యా నిద్రా మయా లబ్ధుం జీవితం వా సుఖాని వా ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "యో న దేవ అసురైః సర్వైః శక్యః ప్రసహితుం యుధి । తం పశ్య సుఖ సంవిష్టం తృణేషు సహ సీతయా ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "\"నాకు నిద్ర వస్తుందని ఎలా అనుకున్నావు, రాముడు నేల మీద పడుకొని ఉండగా జీవితానికి ఇక సుఖం లేదు, దేవతలు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "రాక్షసులు కలిసి యుద్ధానికి వస్తే నిగ్రహించగల మొనగాడు మా అన్నగారు, అలాంటి మా అన్నయ్య,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "సీతమ్మ కలిసి ఇలా పడుకొని ఉంటే నేనెలా పడుకోగలను\" అన్నాడు లక్ష్మణుడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "మరునాడు ఉదయం గుహుడు తీసుకొని వచ్చిన పడవ ఎక్కి సీతారామలక్ష్మణులు గంగని దాటడానికి సిద్ధపడుతున్నారు, అప్పుడు సుమంత్రుడు రాముడిని పిలిచి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "\"నేను ఏమి చెయ్యను\" అని అడిగాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "రాముడు ఇలా అన్నాడు — \"నువ్వు తిరిగి అయోధ్యకి వెళ్ళి మా తండ్రిగారికి, ముగ్గురు తల్లులకి నా నమస్కారములు చెప్పు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 2,
+    "id": "23.02",
+    "text": "కౌసల్యని సర్వకాలములయందు దశరథుడిని సేవించమని చెప్పు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "భరతుడిని కుశలమడిగానని చెప్పు, వృద్ధుడైన చక్రవర్తిని ఏ ఒక్క కారణం చేత బాధ పెట్టవద్దని చెప్పు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 2,
+    "id": "24.02",
+    "text": "తండ్రి మనస్సుకి అనుగుణంగా పరిపాలించమని చెప్పు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
     "text": "తర్వాత చూద్దాం — సీతారామలక్ష్మణులు గంగని దాటి ముందుకు సాగే దృశ్యం.",
     "complete_verse_block": false,
     "needs_timing_review": false,

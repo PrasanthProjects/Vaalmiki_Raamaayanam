@@ -30,15 +30,23 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 3 — Scene 03
 
-**Visual:** [Trishanku Visual Lock] approaching [Vashishtha Visual Lock] with the request; Vashishtha declining calmly, explaining the actual cosmic order. (Location register: Vashishtha's (rebuilt) ashram)
+**Visual:** [Trishanku Visual Lock] approaching [Vashishtha Visual Lock] with his request; Vashishtha declining calmly. (Location register: Vashishtha's (rebuilt) ashram)
 
-**Story:** "వెంటనే కులగురువైన వశిష్ఠుడికి తన కోరిక చెప్పాడు. 'నువ్వు ఎంత గొప్ప రాజువైనా కాని, ఎంత గొప్ప యాగాలన్నా చెయ్యి, కాని శరీరముతో స్వర్గానికి వెళ్ళడమనేది ధర్మశాస్త్రంలో లేదు, ఎవరి శరీరమైనా కొంత కాలానికి పడిపోవాల్సిందే, అది పడిపోయిన తరవాతే స్వర్గలోక ప్రవేశం, కావున శరీరముతో స్వర్గానికి వెళ్ళడం అనేది జరగదు' అన్నాడు వశిష్ఠుడు."
+**Story:** "వెంటనే కులగురువైన వశిష్ఠుడికి తన కోరిక చెప్పాడు. 'నువ్వు ఎంత గొప్ప రాజువైనా కాని, ఎంత గొప్ప యాగాలన్నా చెయ్యి, కాని శరీరముతో స్వర్గానికి వెళ్ళడమనేది ధర్మశాస్త్రంలో లేదు,
 
 **Image:** Pending creation.
 
 **Source note:** Note: this is presumably the REBUILT ashram, since Vishwamitra destroyed the previous one in E1.16 — a small continuity detail worth keeping consistent if both locations are shown near each other in the wider series.
 
 ## 4 — Scene 04
+
+**Visual:** Vashishtha explaining the order of things — the body falls, and only then is heaven entered; Trishanku unconvinced. (Location register: Vashishtha's (rebuilt) ashram)
+
+**Story:** ఎవరి శరీరమైనా కొంత కాలానికి పడిపోవాల్సిందే, అది పడిపోయిన తరవాతే స్వర్గలోక ప్రవేశం, కావున శరీరముతో స్వర్గానికి వెళ్ళడం అనేది జరగదు' అన్నాడు వశిష్ఠుడు."
+
+**Image:** Pending creation.
+
+## 5 — Scene 05
 
 **Visual:** [Trishanku Visual Lock] not accepting the refusal, going over Vashishtha's head to his hundred sons instead. (Location register: Vashishtha's ashram)
 
@@ -48,7 +56,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Note: these are Vashishtha's OTHER hundred sons (not the ones destroyed in E1.16 — those belonged to Vishwamitra) — a potential point of confusion given how many "hundred sons destroyed/refusing" beats this arc contains; flag for the manual verification pass to keep the two groups distinct in narration.
 
-## 5 — Scene 05
+## 6 — Scene 06
 
 **Visual:** [Vashishtha's hundred sons, as a collective group] refusing on the same grounds as their father — firm, matter-of-fact, not hostile. (Location register: Vashishtha's ashram)
 
@@ -56,7 +64,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 6 — Scene 06
+## 7 — Scene 07
 
 **Visual:** [Trishanku Visual Lock] making a fatal, disrespectful declaration — he'll simply find another guru who'll say yes. (Location register: Vashishtha's ashram, tension rising)
 
@@ -66,7 +74,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This single line is Trishanku's actual transgression — not the original wish (which was merely refused, not punished), but the disrespect of treating his guru's teaching as something to shop around past; make this distinction clear in the pacing, since the curse that follows is specifically for THIS, not for wanting to go to heaven.
 
-## 7 — Scene 07
+## 8 — Scene 08
 
 **Visual:** [Vashishtha's hundred sons] reacting with real anger now, delivering the curse together. (Location register: Vashishtha's ashram)
 
@@ -74,7 +82,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 8 — Scene 08
+## 9 — Scene 09
 
 **Visual:** The curse taking immediate, visible effect the next morning — [Trishanku Visual Lock] waking to find his complexion darkened, his gold ornaments turned to iron, his hair and eyes reddened — a striking, unsettling transformation. (Location register: Trishanku's palace, morning)
 
@@ -84,7 +92,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** The transformation should read as a real physical shock, not a costume swap — gold visibly corroding to iron on his own body is a vivid, specific detail worth its own dedicated shot.
 
-## 9 — Scene 09
+## 10 — Scene 10
 
 **Visual:** [Palace attendants, ministers Visual Lock — generic court register] fleeing in horror at the sight of him; [Trishanku Visual Lock] wandering, rejected, eventually arriving at Vishwamitra's tapasya site as a last resort. (Location register: Palace → wilderness → Vishwamitra's site)
 
@@ -92,7 +100,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 10 — Scene 10
+## 11 — Scene 11
 
 **Visual:** [Vishwamitra Visual Lock] seeing an opportunity here — not purely out of compassion, but also to prove a point against Vashishtha specifically. (Location register: Vishwamitra's site)
 
@@ -102,35 +110,59 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Keep Vishwamitra's motive here honest and slightly self-interested, exactly as the text states it — this isn't pure altruism, it's partly a continuation of his rivalry with Vashishtha from the previous episodes; a consistent character thread across this whole arc.
 
-## 11 — Scene 11
+## 12 — Scene 12
 
-**Visual:** [Vishwamitra Visual Lock] mobilizing a huge organizing effort — summoning students and sons across the world to gather sages and Brahmins for an unprecedented yagna. (Location register: Vishwamitra's site, mobilization montage)
+**Visual:** [Vishwamitra Visual Lock] sending his students and sons out across the world to summon sages and brahmins. (Location register: Vishwamitra's site, mobilization montage)
 
-**Story:** "అప్పుడాయన తన శిష్యుల్ని, కొడుకుల్ని పిలిచి 'మీరు ఈ బ్రహ్మాండం అంతా తిరిగండి, వశిష్ఠుడు చెయ్యలేని యాగము విశ్వామిత్రుడు చేస్తున్నాడు, త్రిశంకుడిని సశరీరంగా స్వర్గానికి పంపిస్తున్నాడు అని చెప్పి బ్రాహ్మణుల్ని, ఋషుల్ని తీసుకురండి. ఎవరన్నా యాగము చెయ్యలేరు, మేము రాము అంటే, వివరాలు తీసుకోండి' అని చెప్పాడు. విశ్వామిత్రుడికి భయపడి అందరూ వచ్చారు."
+**Story:** "అప్పుడాయన తన శిష్యుల్ని, కొడుకుల్ని పిలిచి 'మీరు ఈ బ్రహ్మాండం అంతా తిరిగండి, వశిష్ఠుడు చెయ్యలేని యాగము విశ్వామిత్రుడు చేస్తున్నాడు, త్రిశంకుడిని సశరీరంగా స్వర్గానికి పంపిస్తున్నాడు అని చెప్పి బ్రాహ్మణుల్ని, ఋషుల్ని తీసుకురండి.
 
 **Image:** Pending creation.
 
-## 12 — Scene 12
+## 13 — Scene 13
 
-**Visual:** Two notable refusals: [Vashishtha's sons, as a collective — same group from earlier in this episode] refusing outright; [Mahodaya — one-scene Brahmin character, dignified but blunt] refusing with a sharply reasoned objection. (Location register: Vishwamitra's site, gathering yagna)
+**Visual:** Sages arriving from every direction, uneasy — they have come out of fear of him. (Location register: Vishwamitra's site, mobilization montage)
 
-**Story:** "తరువాత ఆయన కొడుకులు వచ్చి వశిష్ఠ మహర్షి కొడుకులు ఈ యాగానికి రామన్నారు, అలాగే మహోదయుడనే బ్రాహ్మణుడు కూడా రానన్నాడు, కాని ఆయన ఒక మాటన్నాడు, అది ఏమిటంటే — 'యాగము చేస్తున్నవాడు ఒక క్షత్రియుడు, యాగము చేయిస్తున్నవాడు ఒక చండాలుడు, ఇలాంటప్పుడు దేవతలు హవిస్సులని ఎలా తీసుకుంటారు, అసలు సశరీరంగా స్వర్గానికి పంపవచ్చని వేదంలో ఎక్కడా లేదు, అందుకని రానన్నాడు' అని చెప్పారు."
+**Story:** ఎవరన్నా యాగము చెయ్యలేరు, మేము రాము అంటే, వివరాలు తీసుకోండి' అని చెప్పాడు. విశ్వామిత్రుడికి భయపడి అందరూ వచ్చారు."
+
+**Image:** Pending creation.
+
+## 14 — Scene 14
+
+**Visual:** Vishwamitra's sons reporting two refusals: [Vashishtha's sons, as a collective] and the brahmin Mahodaya. (Location register: Vishwamitra's site, gathering yagna)
+
+**Story:** "తరువాత ఆయన కొడుకులు వచ్చి వశిష్ఠ మహర్షి కొడుకులు ఈ యాగానికి రామన్నారు, అలాగే మహోదయుడనే బ్రాహ్మణుడు కూడా రానన్నాడు, కాని ఆయన ఒక మాటన్నాడు, అది ఏమిటంటే —
 
 **Image:** Pending creation.
 
 **Source note:** Mahodaya's objection is genuinely well-reasoned (a chandala-turned-yajamana with a Kshatriya priest is an unprecedented ritual irregularity, and the whole premise has no scriptural basis) — he isn't being petty, he's pointing out real problems; play his refusal with intellectual seriousness, not spite.
 
-## 13 — Scene 13
+## 15 — Scene 15
 
-**Visual:** [Vishwamitra Visual Lock] reacting with severe, disproportionate fury — cursing an entire lineage across hundreds of future lifetimes, a punishment far beyond the offense. (Location register: Vishwamitra's site, harsh escalation)
+**Visual:** Mahodaya (one-scene character, dignified but blunt) stating his objection plainly — shown as an inset. (Location register: Vishwamitra's site, gathering yagna)
 
-**Story:** "విశ్వామిత్రుడికి ఎక్కడలేని కోపం వచ్చి, వశిష్ఠ మహర్షి కొడుకులని, మహోదయుడిని, 'మీరు భస్మరాశులై పడిపోయి నరకానికి వెళతారు, తరవాత 700 జన్మలపాటు శవ మాంసం తింటూ బతుకుతారు, ఆ తరవాత ముష్టికులన్న పేరుతో పుట్టి, కొన్ని జన్మల పాటు కుక్క మాంసం తింటూ బతుకుతారు' అని శపించాడు. మహోదయుడు సర్వలోకాల జనాలచేత ద్వేషింపబడి నిషాదుడై బతుకుతాడని శపించాడు."
+**Story:** 'యాగము చేస్తున్నవాడు ఒక క్షత్రియుడు, యాగము చేయిస్తున్నవాడు ఒక చండాలుడు, ఇలాంటప్పుడు దేవతలు హవిస్సులని ఎలా తీసుకుంటారు, అసలు సశరీరంగా స్వర్గానికి పంపవచ్చని వేదంలో ఎక్కడా లేదు, అందుకని రానన్నాడు' అని చెప్పారు."
+
+**Image:** Pending creation.
+
+## 16 — Scene 16
+
+**Visual:** [Vishwamitra Visual Lock] reacting with severe, disproportionate fury, hand raised in a curse. (Location register: Vishwamitra's site, harsh escalation)
+
+**Story:** "విశ్వామిత్రుడికి ఎక్కడలేని కోపం వచ్చి, వశిష్ఠ మహర్షి కొడుకులని, మహోదయుడిని, 'మీరు భస్మరాశులై పడిపోయి నరకానికి వెళతారు, తరవాత 700 జన్మలపాటు శవ మాంసం తింటూ బతుకుతారు,
 
 **Image:** Pending creation.
 
 **Source note:** This curse is deliberately excessive — the text itself is showing Vishwamitra's temper as still a real flaw even after everything he's been through; don't soften this into a "justified" punishment, it's meant to read as an overreaction consistent with his established character arc.
 
-## 14 — Scene 14
+## 17 — Scene 17
+
+**Visual:** The curse falling across lifetimes — figures turning to ash, shown in shadow only; do not soften his temper. (Location register: Vishwamitra's site, harsh escalation)
+
+**Story:** ఆ తరవాత ముష్టికులన్న పేరుతో పుట్టి, కొన్ని జన్మల పాటు కుక్క మాంసం తింటూ బతుకుతారు' అని శపించాడు. మహోదయుడు సర్వలోకాల జనాలచేత ద్వేషింపబడి నిషాదుడై బతుకుతాడని శపించాడు."
+
+**Image:** Pending creation.
+
+## 18 — Scene 18
 
 **Visual:** The yagna proceeding despite the ill omens — but the fire receiving no divine response at all, a conspicuous, pointed silence from the heavens. (Location register: Vishwamitra's site, yagnashala)
 
@@ -138,7 +170,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 15 — Scene 15
+## 19 — Scene 19
 
 **Visual:** [Vishwamitra Visual Lock], furious at being ignored by the devas themselves, using his own tapas-power to physically hurl Trishanku skyward toward heaven directly. (Location register: Vishwamitra's site → sky)
 
@@ -148,7 +180,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** A genuinely surreal, striking image — a full-grown king, cursed and iron-ornamented, physically flying skyward by force of another man's willpower alone; give this its own dedicated wide shot.
 
-## 16 — Scene 16
+## 20 — Scene 20
 
 **Visual:** On-screen verse text; [Indra Visual Lock] intercepting him at the threshold of heaven itself, rejecting him outright. (Location register: Heaven's threshold)
 
@@ -158,7 +190,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — Indra's rejection: "Trishanku, go back down, you have no place made for you in heaven."
 
-## 17 — Scene 17
+## 21 — Scene 21
 
 **Visual:** [Indra Visual Lock] delivering the rejection directly and forcefully, then physically reversing Trishanku's ascent — flipping him upside down and hurling him back toward earth. (Location register: Heaven's threshold, sudden reversal)
 
@@ -166,7 +198,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 18 — Scene 18
+## 22 — Scene 22
 
 **Visual:** [Trishanku Visual Lock], falling helplessly head-first back toward earth, crying out to the one person who sent him up in the first place. (Location register: Sky, mid-fall)
 
@@ -174,7 +206,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 19 — Scene 19
+## 23 — Scene 23
 
 **Visual:** [Vishwamitra Visual Lock], refusing to accept this reversal — using his remaining tapas-power to stop Trishanku mid-fall and create an entirely new constellation-realm to hold him, a genuinely audacious act of cosmic-scale defiance. (Location register: Sky → a new region of stars forming)
 
@@ -184,7 +216,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This is arguably the single most audacious act in Vishwamitra's whole arc — creating a rival constellation and preparing to create rival gods rather than accept defeat; give this cosmic-scale visual its full due (a new star-field blooming into existence).
 
-## 20 — Scene 20
+## 24 — Scene 24
 
 **Visual:** [Generic devatalu Visual Lock] finally arriving, urgently placating him — not opposing him outright, but negotiating a compromise. (Location register: Sky, the new star-realm)
 
@@ -192,7 +224,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 21 — Scene 21
+## 25 — Scene 25
 
 **Visual:** The final compromise: Trishanku will remain, permanently, suspended upside-down in this newly-created star-realm — neither in heaven nor on earth, a strange, unique fate. (Location register: Sky, resolution)
 
@@ -202,7 +234,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This is presented in the tradition as the origin of a real southern constellation (often associated with the Southern Cross/Trishanku's realm in popular retellings) — worth a brief on-screen note if useful, though the source text itself doesn't name it explicitly here, so don't invent naming beyond what's given.
 
-## 22 — Scene 22
+## 26 — Scene 26
 
 **Visual:** [Vishwamitra Visual Lock] accepting the compromise, but privately unsatisfied — still no closer to real peace of mind; departing for yet another location to try again. (Location register: Sky → new location)
 
@@ -212,7 +244,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Close the episode on this note of restless dissatisfaction — the Trishanku story resolves on its own terms, but Vishwamitra's larger arc (toward Brahmarshi-hood) is still unfinished, setting up the next story.
 
-## 23 — Scene 23
+## 27 — Scene 27
 
 **Visual:** End card.
 

@@ -36,74 +36,20 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 3,
-    "id": "02.03",
+    "scene": 3,
+    "part": 1,
+    "id": "03.01",
     "text": "అందుకని నేను గోదావరి తీరానికి వెళ్ళి చూసి వస్తాను\" అని చెప్పి లక్ష్మణుడు గోదావరి తీరానికి వెళ్ళాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
+    "scene": 3,
+    "part": 2,
+    "id": "03.02",
     "text": "తిరిగొచ్చిన లక్ష్మణుడు \"సీతమ్మ ఎక్కడా కనపడలేదు\" అన్నాడు.",
     "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
-    "text": "అప్పుడు రాముడు పరిగెత్తుకుంటూ గోదావరి నది దగ్గరికి వెళ్ళి \"గోదావరి!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 6,
-    "id": "02.06",
-    "text": "నిజం చెప్పు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 7,
-    "id": "02.07",
-    "text": "ఎక్కడుంది సీత.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 8,
-    "id": "02.08",
-    "text": "నీకు తెలిసే ఉంటుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 9,
-    "id": "02.09",
-    "text": "నువ్వు ఈ ప్రాంతం అంతా ప్రవహిస్తున్నావు, కనుక నాకు సీత ఎక్కడుందో చెప్పు\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 1,
-    "id": "03.01",
-    "text": "భూతాని రాక్షసేంద్రేణ వధ అర్హేణ హృతాం అపి । న తాం శశంసూ రామాయ తథా గోదావరీ నదీ ॥",
-    "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -111,7 +57,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "అక్కడున్న పంచభూతాలు జరిగినది చూసాయి, కాని చెపుదాము అంటే, రావణుడు గుర్తుకు వచ్చి భయపడ్డాయి.",
+    "text": "అప్పుడు రాముడు పరిగెత్తుకుంటూ గోదావరి నది దగ్గరికి వెళ్ళి \"గోదావరి!",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -120,7 +66,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "అప్పుడా పంచభూతాలు గోదావరితో \"గోదావరి!",
+    "text": "నిజం చెప్పు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -129,7 +75,7 @@
     "scene": 4,
     "part": 3,
     "id": "04.03",
-    "text": "సీతమ్మని రావణుడు ఎత్తుకుపోయిన సంగతి చెప్పెయ్యి.",
+    "text": "ఎక్కడుంది సీత.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -138,7 +84,7 @@
     "scene": 4,
     "part": 4,
     "id": "04.04",
-    "text": "రాముడి బాధ చూడలేకపోతున్నాము\" అన్నాయి.",
+    "text": "నీకు తెలిసే ఉంటుంది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -147,25 +93,7 @@
     "scene": 4,
     "part": 5,
     "id": "04.05",
-    "text": "కాని రావణుడి దుష్ట చేష్టితములు, భయంకరమైన స్వరూపం, వాడి పనులు జ్ఞాపకం వచ్చి గోదావరి నోరు విప్పలేదు, నిజం చెప్పలేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 6,
-    "id": "04.06",
-    "text": "అక్కడున్న మృగాలు జరిగినదాన్ని చెబుదాము అనుకున్నాయి, కాని అవి మాట్లాడలేవు కనుక ఆకాశం వైపు చూస్తూ,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 7,
-    "id": "04.07",
-    "text": "సీతమ్మని రావణుడు ఎత్తుకుపోయిన దక్షిణ దిక్కు వైపు పరుగులు తీశాయి.",
+    "text": "నువ్వు ఈ ప్రాంతం అంతా ప్రవహిస్తున్నావు, కనుక నాకు సీత ఎక్కడుందో చెప్పు\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -174,44 +102,8 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "మృగాలన్నీ దక్షిణ దిక్కుకి పరుగులు తీయడాన్ని చూసిన లక్ష్మణుడు \"అన్నయ్యా!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 2,
-    "id": "05.02",
-    "text": "ప్రమాదం వచ్చి జంతువులన్నీ అటు పరిగెత్తడం లేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 3,
-    "id": "05.03",
-    "text": "అవి కొంత దూరం పరిగెడుతున్నాయి, ఆగుతున్నాయి, వెనక్కి తిరుగుతున్నాయి, 'మాకు చెప్పడం రాదు, నీకు అర్థం అవ్వడం లేదా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "మా వెంట రా' అని పిలుస్తున్నట్టుగా మన వంక చూసి ఏడుస్తున్నాయి, మళ్ళి పరిగెడుతున్నాయి, ఆకాశం వంక చూస్తున్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "బహుశా సీతమ్మని ఎవరో అపహరించి ఇటూ వైపు తీసుకెళ్ళారేమో అన్నయ్యా, మనకి ఆనవాలు దొరుకుతుంది, ఈ మృగాల వెనకాల వెళదాము\" అన్నాడు.",
-    "complete_verse_block": false,
+    "text": "భూతాని రాక్షసేంద్రేణ వధ అర్హేణ హృతాం అపి । న తాం శశంసూ రామాయ తథా గోదావరీ నదీ ॥",
+    "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -219,7 +111,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "అప్పుడు రామలక్ష్మణులు ఇద్దరూ ఆ మృగాల వెనుక పరుగు తీసారు.",
+    "text": "అక్కడున్న పంచభూతాలు జరిగినది చూసాయి, కాని చెపుదాము అంటే, రావణుడు గుర్తుకు వచ్చి భయపడ్డాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -228,7 +120,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "అక్కడ వాళ్ళకి సీతమ్మ తలలో పెట్టుకున్న పూలదండ కింద పడిపోయి కనపడింది.",
+    "text": "అప్పుడా పంచభూతాలు గోదావరితో \"గోదావరి!",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -237,61 +129,7 @@
     "scene": 6,
     "part": 3,
     "id": "06.03",
-    "text": "అప్పుడు రాముడు \"మారీచుడు వచ్చేముందు నేనే సీత తలలో ఈ పూలదండ పెట్టాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "ఎవడో దురాత్ముడు సీతని భక్షించి ఉంటాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "చూశావా ఇక్కడ భూషణములు కింద పడిపోయి ఉన్నాయి, రక్త బిందువులు కనపడుతున్నాయి, అంటే ఎవరో సీతని తినేశారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 6,
-    "id": "06.06",
-    "text": "ఇక్కడ ఒక పెద్ద రథం విరిగిపోయి కనపడుతుంది, ఎవరిదో గొప్ప ధనుస్సు విరిగి కింద పడిపోయి ఉంది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 7,
-    "id": "06.07",
-    "text": "ఎవరో ఒక సారధి కూడా కింద పడిపోయి ఉన్నాడు, పిశాచ ముఖాలతో ఉన్న గాడిదలు కింద పడిపోయి ఉన్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 8,
-    "id": "06.08",
-    "text": "ఎవరో ఇద్దరు రాక్షసులు సీత కోసం యుద్ధం చేసుకున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 9,
-    "id": "06.09",
-    "text": "ఆ యుద్ధంలో గెలిచినవాడు సీతని తీసుకెళ్ళి తినేశాడు.",
+    "text": "సీతమ్మని రావణుడు ఎత్తుకుపోయిన సంగతి చెప్పెయ్యి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -300,7 +138,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "సీత ఏ ధర్మాన్ని పాటించిందో, ఆ ధర్మం సీతని కాపాడలేదు.",
+    "text": "రాముడి బాధ చూడలేకపోతున్నాము\" అన్నాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -309,79 +147,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "ఎవడు పరాక్రమము ఉన్నా మృదువుగా ప్రవర్తిస్తాడో, వాడిని లోకము చేతకానివాడు అంటుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 3,
-    "id": "07.03",
-    "text": "లక్ష్మణా!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "ఇప్పుడు చూపిస్తాను నా ప్రతాపము ఏమిటో.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 5,
-    "id": "07.05",
-    "text": "ఈ పర్వతం ముందు నిలబడి 'సీత ఎక్కడుంది' అని అడిగితే,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 6,
-    "id": "07.06",
-    "text": "నాతో వెటకారమాడి నేను మాట్లాడిన మాటనే మళ్ళి ప్రతిధ్వనిగా పైకి పంపింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 7,
-    "id": "07.07",
-    "text": "ఇప్పుడే ఈ పర్వతాన్ని నాశనం చేసేస్తాను, నాకున్న అస్త్ర-శస్త్రములన్నిటిని ప్రయోగించి సూర్య చంద్రులని గతిలేకుండా చేస్తాను, ఆకాశాన్ని బాణాలతో కప్పేస్తాను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 8,
-    "id": "07.08",
-    "text": "దేవతలు ఎవరూ తిరగడానికి వీలులేకుండా చేసేస్తాను, నదులలో, సముద్రాలలో ఉన్న నీటిని ఇంకింప చేసేస్తాను, భూమి మీద అగ్నిహోత్రాన్ని పుట్టిస్తాను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 9,
-    "id": "07.09",
-    "text": "నా బాణాలతో భూమిని బద్దలుకొడతాను, రాక్షసులు అనే వారు ఈ బ్రహ్మాండాల్లో ఎక్కడా లేకుండా చేస్తాను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 10,
-    "id": "07.10",
-    "text": "నా క్రోధం అంటే ఎలా ఉంటుందో ఈ దేవతలు చూస్తారు, మూడులోకాలని లయం చేసేస్తాను.",
+    "text": "కాని రావణుడి దుష్ట చేష్టితములు, భయంకరమైన స్వరూపం, వాడి పనులు జ్ఞాపకం వచ్చి గోదావరి నోరు విప్పలేదు, నిజం చెప్పలేదు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -390,7 +156,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "సీత ఎక్కడున్నా, బతికున్నా మరణించినా, దేవతలు తీసుకువచ్చి నా పాదములకి నమస్కరించి ప్రార్థన చేస్తే వదిలిపెడతాను,",
+    "text": "అక్కడున్న మృగాలు జరిగినదాన్ని చెబుదాము అనుకున్నాయి, కాని అవి మాట్లాడలేవు కనుక ఆకాశం వైపు చూస్తూ,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -399,34 +165,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "లేకపోతే ఇవ్వాళతో ఈ బ్రహ్మాండాలని నాశనం చేసేస్తాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "వృద్ధాప్యం రాకుండా, మృత్యువు రాకుండా ఎవడూ ఎలా నిరోధించుకోలేడో,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "అలా క్రోధమూర్తి అయిన నా ముందు నిలబడడానికి దేవతలకి కూడా ధైర్యం చాలదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 5,
-    "id": "08.05",
-    "text": "పడగొట్టేస్తున్నాను లక్ష్మణా\" అని కోదండాన్ని తీసి చేతిలో పట్టుకున్నాడు.",
+    "text": "సీతమ్మని రావణుడు ఎత్తుకుపోయిన దక్షిణ దిక్కు వైపు పరుగులు తీశాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -435,6 +174,267 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
+    "text": "మృగాలన్నీ దక్షిణ దిక్కుకి పరుగులు తీయడాన్ని చూసిన లక్ష్మణుడు \"అన్నయ్యా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "ప్రమాదం వచ్చి జంతువులన్నీ అటు పరిగెత్తడం లేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "అవి కొంత దూరం పరిగెడుతున్నాయి, ఆగుతున్నాయి, వెనక్కి తిరుగుతున్నాయి, 'మాకు చెప్పడం రాదు, నీకు అర్థం అవ్వడం లేదా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "మా వెంట రా' అని పిలుస్తున్నట్టుగా మన వంక చూసి ఏడుస్తున్నాయి, మళ్ళి పరిగెడుతున్నాయి, ఆకాశం వంక చూస్తున్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "బహుశా సీతమ్మని ఎవరో అపహరించి ఇటూ వైపు తీసుకెళ్ళారేమో అన్నయ్యా, మనకి ఆనవాలు దొరుకుతుంది, ఈ మృగాల వెనకాల వెళదాము\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "అప్పుడు రామలక్ష్మణులు ఇద్దరూ ఆ మృగాల వెనుక పరుగు తీసారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "అక్కడ వాళ్ళకి సీతమ్మ తలలో పెట్టుకున్న పూలదండ కింద పడిపోయి కనపడింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 3,
+    "id": "12.03",
+    "text": "అప్పుడు రాముడు \"మారీచుడు వచ్చేముందు నేనే సీత తలలో ఈ పూలదండ పెట్టాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "ఎవడో దురాత్ముడు సీతని భక్షించి ఉంటాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "చూశావా ఇక్కడ భూషణములు కింద పడిపోయి ఉన్నాయి, రక్త బిందువులు కనపడుతున్నాయి, అంటే ఎవరో సీతని తినేశారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "ఇక్కడ ఒక పెద్ద రథం విరిగిపోయి కనపడుతుంది, ఎవరిదో గొప్ప ధనుస్సు విరిగి కింద పడిపోయి ఉంది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "ఎవరో ఒక సారధి కూడా కింద పడిపోయి ఉన్నాడు, పిశాచ ముఖాలతో ఉన్న గాడిదలు కింద పడిపోయి ఉన్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "ఎవరో ఇద్దరు రాక్షసులు సీత కోసం యుద్ధం చేసుకున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "ఆ యుద్ధంలో గెలిచినవాడు సీతని తీసుకెళ్ళి తినేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "సీత ఏ ధర్మాన్ని పాటించిందో, ఆ ధర్మం సీతని కాపాడలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "ఎవడు పరాక్రమము ఉన్నా మృదువుగా ప్రవర్తిస్తాడో, వాడిని లోకము చేతకానివాడు అంటుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "లక్ష్మణా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "ఇప్పుడు చూపిస్తాను నా ప్రతాపము ఏమిటో.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 3,
+    "id": "17.03",
+    "text": "ఈ పర్వతం ముందు నిలబడి 'సీత ఎక్కడుంది' అని అడిగితే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 4,
+    "id": "17.04",
+    "text": "నాతో వెటకారమాడి నేను మాట్లాడిన మాటనే మళ్ళి ప్రతిధ్వనిగా పైకి పంపింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "ఇప్పుడే ఈ పర్వతాన్ని నాశనం చేసేస్తాను, నాకున్న అస్త్ర-శస్త్రములన్నిటిని ప్రయోగించి సూర్య చంద్రులని గతిలేకుండా చేస్తాను, ఆకాశాన్ని బాణాలతో కప్పేస్తాను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "దేవతలు ఎవరూ తిరగడానికి వీలులేకుండా చేసేస్తాను, నదులలో, సముద్రాలలో ఉన్న నీటిని ఇంకింప చేసేస్తాను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "భూమి మీద అగ్నిహోత్రాన్ని పుట్టిస్తాను, నా బాణాలతో భూమిని బద్దలుకొడతాను, రాక్షసులు అనే వారు ఈ బ్రహ్మాండాల్లో ఎక్కడా లేకుండా చేస్తాను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "నా క్రోధం అంటే ఎలా ఉంటుందో ఈ దేవతలు చూస్తారు, మూడులోకాలని లయం చేసేస్తాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "సీత ఎక్కడున్నా, బతికున్నా మరణించినా, దేవతలు తీసుకువచ్చి నా పాదములకి నమస్కరించి ప్రార్థన చేస్తే వదిలిపెడతాను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "లేకపోతే ఇవ్వాళతో ఈ బ్రహ్మాండాలని నాశనం చేసేస్తాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "వృద్ధాప్యం రాకుండా, మృత్యువు రాకుండా ఎవడూ ఎలా నిరోధించుకోలేడో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "అలా క్రోధమూర్తి అయిన నా ముందు నిలబడడానికి దేవతలకి కూడా ధైర్యం చాలదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 3,
+    "id": "21.03",
+    "text": "పడగొట్టేస్తున్నాను లక్ష్మణా\" అని కోదండాన్ని తీసి చేతిలో పట్టుకున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
     "text": "తర్వాత చూద్దాం — లక్ష్మణుడు అన్నగారిని ఎలా శాంతింపచేశాడో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

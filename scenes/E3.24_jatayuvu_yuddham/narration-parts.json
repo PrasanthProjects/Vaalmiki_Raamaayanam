@@ -27,46 +27,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 2,
-    "id": "02.02",
-    "text": "ఆ బాణాలు జటాయువు ఒంటి నిండా గుచ్చుకున్నా, ఆయన తన రెక్కలని విదిల్చి ఆ బాణాలని కింద పడేసాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 3,
-    "id": "02.03",
-    "text": "తరువాత ఆయన తన రెక్కలని అల్లారుస్తూ ఆ రథాన్ని కొట్టి, రావణుడిని తన ముక్కుతో కుమ్మాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "ఆ దెబ్బలకి రావణుడి కోదండం విరిగిపోయి, బాణాలు కింద పడిపోయాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
-    "text": "మళ్ళి ఆ జటాయువు తన రెక్కలతో కొట్టేసరికి ఆ రథం కింద పడిపోయింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "అప్పుడాయన తన వాడి ముక్కుతో ఆ రథసారధి శిరస్సుని కోసేసాడు.",
+    "text": "ఆ బాణాలు జటాయువు ఒంటి నిండా గుచ్చుకున్నా, ఆయన తన రెక్కలని విదిల్చి ఆ బాణాలని కింద పడేసాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -75,25 +39,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "తన కాళ్ళ గోళ్ళతో ఆ రథానికి ఉన్న పిశాచాల్లాంటి గాడిదలని సంహరించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "అప్పుడు రావణుడు సీతమ్మతో కిందపడిపోయాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "అలా పడిపోతూ పడిపోతూ ఆ రావణుడు సీతమ్మని ఎడమ చంకలో దూర్చి పట్టుకున్నాడు.",
+    "text": "తరువాత ఆయన తన రెక్కలని అల్లారుస్తూ ఆ రథాన్ని కొట్టి, రావణుడిని తన ముక్కుతో కుమ్మాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -102,7 +48,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "ఇది చూసిన జటాయువుకి ఎక్కడలేని కోపం వచ్చి రావణుడి 10 ఎడమ చేతులని తన ముక్కుతో నరికేశాడు.",
+    "text": "ఆ దెబ్బలకి రావణుడి కోదండం విరిగిపోయి, బాణాలు కింద పడిపోయాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -111,25 +57,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "నరకబడ్డ 10 చేతులతో సహా సీతమ్మ కిందపడిపోయింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 3,
-    "id": "04.03",
-    "text": "రావణుడికి మళ్ళి ఆ 10 చేతులు పుట్టాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "అప్పుడా రావణుడు ఒక పెద్ద ఖడ్గాన్ని పట్టుకొని తన మీదకి వస్తున్న జటాయువు యొక్క రెండు రెక్కలని, కాళ్ళని నరికేశాడు.",
+    "text": "మళ్ళి ఆ జటాయువు తన రెక్కలతో కొట్టేసరికి ఆ రథం కింద పడిపోయింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -138,7 +66,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "అప్పుడా జటాయువు ఒంట్లోనుండి నది ప్రవహించినట్టు రక్తం ప్రవహించింది.",
+    "text": "అప్పుడాయన తన వాడి ముక్కుతో ఆ రథసారధి శిరస్సుని కోసేసాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -147,43 +75,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "అప్పుడా జటాయువు అదుపుతప్పి ఒక చెట్టు దగ్గర పడిపోయాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 3,
-    "id": "05.03",
-    "text": "తనకోసం ప్రాణాలు అర్పించడానికి సిద్ధపడ్డ ఆ జటాయువుని చూసి సీతమ్మ పరుగు పరుగున వెళ్ళి ఆ జటాయువుని కౌగలించుకుని ఏడిచింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "సీతమ్మ నగలన్నీ కింద పడిపోయాయి, జుట్టంతా విరజిమ్ముకు పోయింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "అటువంటి స్థితిలో ఏకధారగా ఏడుస్తున్న సీతమ్మని చూసి రావణుడు \"జటాయువు కోసం ఏడుస్తావే, రా\" అని సీతమ్మ వెనక రావణుడు పరుగుతీసాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 6,
-    "id": "05.06",
-    "text": "అప్పుడు సీతమ్మ జటాయువుని వదిలి అక్కడున్న లతలని, చెట్లని కౌగిలించుకుంది.",
+    "text": "తన కాళ్ళ గోళ్ళతో ఆ రథానికి ఉన్న పిశాచాల్లాంటి గాడిదలని సంహరించాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -192,7 +84,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "అప్పుడా రావణుడు అక్కడికి వెళ్ళి \"చెట్లని, లతలని కౌగలించుకుంటావే, రా\" అని, ఆవిడ జుట్టు పట్టుకొని వెనక్కి ఈడ్చేశాడు.",
+    "text": "అప్పుడు రావణుడు సీతమ్మతో కిందపడిపోయాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -201,34 +93,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "రావణుడు సీతమ్మని అలా నేల మీద ఈడ్చుకుపోతుంటే సూర్యుడు, చంద్రుడు చూసి సిగ్గుతో మేఘాల చాటుకి వెళ్ళిపోతే,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "ప్రపంచాన్నంతటిని అకారణంగా చీకటి ఆవరించింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "సత్యలోకములో కూర్చున్న బ్రహ్మగారు ఉలిక్కిపడ్డారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "అప్పుడాయన తన దివ్య నేత్రంతో చూసి \"ఒరేయ్, నువ్వు చేసిన తపస్సుకి చావడానికి కావలసినంత పాపం ఇవ్వాళ మూటకట్టుకున్నావు రా\" అన్నారు.",
+    "text": "అలా పడిపోతూ పడిపోతూ ఆ రావణుడు సీతమ్మని ఎడమ చంకలో దూర్చి పట్టుకున్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -237,6 +102,141 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
+    "text": "ఇది చూసిన జటాయువుకి ఎక్కడలేని కోపం వచ్చి రావణుడి 10 ఎడమ చేతులని తన ముక్కుతో నరికేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 1,
+    "id": "08.01",
+    "text": "నరకబడ్డ 10 చేతులతో సహా సీతమ్మ కిందపడిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 2,
+    "id": "08.02",
+    "text": "రావణుడికి మళ్ళి ఆ 10 చేతులు పుట్టాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 1,
+    "id": "09.01",
+    "text": "అప్పుడా రావణుడు ఒక పెద్ద ఖడ్గాన్ని పట్టుకొని తన మీదకి వస్తున్న జటాయువు యొక్క రెండు రెక్కలని, కాళ్ళని నరికేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "అప్పుడా జటాయువు ఒంట్లోనుండి నది ప్రవహించినట్టు రక్తం ప్రవహించింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "అప్పుడా జటాయువు అదుపుతప్పి ఒక చెట్టు దగ్గర పడిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "తనకోసం ప్రాణాలు అర్పించడానికి సిద్ధపడ్డ ఆ జటాయువుని చూసి సీతమ్మ పరుగు పరుగున వెళ్ళి ఆ జటాయువుని కౌగలించుకుని ఏడిచింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "సీతమ్మ నగలన్నీ కింద పడిపోయాయి, జుట్టంతా విరజిమ్ముకు పోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "అటువంటి స్థితిలో ఏకధారగా ఏడుస్తున్న సీతమ్మని చూసి రావణుడు \"జటాయువు కోసం ఏడుస్తావే, రా\" అని సీతమ్మ వెనక రావణుడు పరుగుతీసాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "అప్పుడు సీతమ్మ జటాయువుని వదిలి అక్కడున్న లతలని, చెట్లని కౌగిలించుకుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "అప్పుడా రావణుడు అక్కడికి వెళ్ళి \"చెట్లని, లతలని కౌగలించుకుంటావే, రా\" అని, ఆవిడ జుట్టు పట్టుకొని వెనక్కి ఈడ్చేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "రావణుడు సీతమ్మని అలా నేల మీద ఈడ్చుకుపోతుంటే సూర్యుడు, చంద్రుడు చూసి సిగ్గుతో మేఘాల చాటుకి వెళ్ళిపోతే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "ప్రపంచాన్నంతటిని అకారణంగా చీకటి ఆవరించింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "సత్యలోకములో కూర్చున్న బ్రహ్మగారు ఉలిక్కిపడ్డారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "అప్పుడాయన తన దివ్య నేత్రంతో చూసి \"ఒరేయ్, నువ్వు చేసిన తపస్సుకి చావడానికి కావలసినంత పాపం ఇవ్వాళ మూటకట్టుకున్నావు రా\" అన్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
     "text": "తర్వాత చూద్దాం — సీతమ్మ రాముడికి ఎలా జాడ వదిలిందో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

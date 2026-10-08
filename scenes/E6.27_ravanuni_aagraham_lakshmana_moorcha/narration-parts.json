@@ -27,28 +27,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 3,
-    "id": "02.03",
-    "text": "ఇంక నాకీ జీవితం ఎందుకు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "అసలు ఇన్ని ఉపద్రవాలకి కారణం అయిన సీతని సంహరించేస్తాను\" అని ఒక పెద్ద కత్తి పట్టుకుని బయలుదేరాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "ఆగ్రహంతో తన వైపుకి వస్తున్న రావణుడిని చూసి సీతమ్మ ఒణికిపోయింది.",
+    "text": "ఇంక నాకీ జీవితం ఎందుకు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -57,34 +39,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "రావణుడు సీతమ్మని చంపుదామనుకునేసరికి మహాపార్షుడు అక్కడికి వచ్చి అన్నాడు\" ఇంత బతుకు బతికి, ఇంత చదువు చదివి, ఇంతమందిని ఓడించి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "ఇంతమందీ చచ్చిపోయాక ఒక ఆడదాన్ని కూడా రావణుడు చంపాడన్న అపకీర్తిని మూటకట్టుకుంటావా రావణా.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "నువ్వు మగాడివైతే యుద్ధం చేసి రాముడిని చంపు, అంతేకాని ఆడదానిమీద ఎందుకు నీ ప్రతాపం\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 5,
-    "id": "03.05",
-    "text": "అప్పుడు రావణుడు \"రేపు అమావాస్య, రేపు రాముడితో యుద్ధం చేస్తాను\" అని అంతఃపురానికి వచ్చేశాడు.",
+    "text": "అసలు ఇన్ని ఉపద్రవాలకి కారణం అయిన సీతని సంహరించేస్తాను\" అని ఒక పెద్ద కత్తి పట్టుకుని బయలుదేరాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -93,16 +48,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "మరునాడు రావణుడు విరూపాక్షుడు, మహోదరుడు, మహాపార్షుడు మొదలైన రాక్షస వీరులతో యుద్ధానికి వచ్చాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 2,
-    "id": "04.02",
-    "text": "ఆ యుద్ధంలో విరూపాక్షుడిని, మహోదరుడిని సుగ్రీవుడు చంపాడు, మహాపార్షుడిని అంగదుడు చంపాడు.",
+    "text": "ఆగ్రహంతో తన వైపుకి వస్తున్న రావణుడిని చూసి సీతమ్మ ఒణికిపోయింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -111,7 +57,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "అప్పుడు రాముడు మండలాకారంగా తన ధనుస్సుని పట్టుకొని బాణాలు వేస్తుంటే, లోపలినుండి కోరికలు పుట్టిస్తున్న జీవాత్మ ఎలా కనపడదో,",
+    "text": "రావణుడు సీతమ్మని చంపుదామనుకునేసరికి మహాపార్షుడు అక్కడికి వచ్చి అన్నాడు\" ఇంత బతుకు బతికి, ఇంత చదువు చదివి, ఇంతమందిని ఓడించి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -120,25 +66,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "అలా బాణపు దెబ్బలు తగులుతున్నాయి, ఏనుగుల తొండాలు తెగిపోతున్నాయి, గుర్రాలు పాదములు తెగి పడిపోతున్నాయి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 3,
-    "id": "05.03",
-    "text": "లక్షల రాక్షస సైన్యం పడిపోతుంది కాని రాముడు మాత్రం కనపడడం లేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "ఆ సమయంలో రాముడు అగ్ని చక్రం తిరిగినట్టు తిరుగుతూ, మండలాకారంగా (వృత్తాకారంలో) ధనుస్సుని పట్టుకుని తిరుగుతూ కొన్ని కోట్ల రాక్షసులని కొట్టాడు.",
+    "text": "ఇంతమందీ చచ్చిపోయాక ఒక ఆడదాన్ని కూడా రావణుడు చంపాడన్న అపకీర్తిని మూటకట్టుకుంటావా రావణా.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -147,7 +75,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "'తన ఇంటి గుట్టుని రాముడికి చెప్పి ఇంతమంది రాక్షసుల మరణానికి కారణమైనవాడు ఆ విభీషణుడు' అనుకొని,",
+    "text": "నువ్వు మగాడివైతే యుద్ధం చేసి రాముడిని చంపు, అంతేకాని ఆడదానిమీద ఎందుకు నీ ప్రతాపం\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -156,34 +84,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "రావణుడు శక్తి అనే అస్త్రాన్ని విభీషణుడి మీదకి ప్రయోగించబోతుండగా, లక్ష్మణుడు బాణములతో ఆయన చేతిని కొట్టాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "ఆగ్రహించిన రావణుడు ఆ శక్తిని లక్ష్మణుడి మీద ప్రయోగించాడు, అప్పుడా శక్తి లక్ష్మణుడి వక్షస్థలం నుండి దూసుకుపోయింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "వెంటనే ఆయన మూర్చపోయి కిందపడిపోయాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "అప్పుడు హనుమంతుడు లక్ష్మణుడిని ఎత్తి తీసుకెళ్ళి రాముడి దగ్గర పెట్టాడు.",
+    "text": "అప్పుడు రావణుడు \"రేపు అమావాస్య, రేపు రాముడితో యుద్ధం చేస్తాను\" అని అంతఃపురానికి వచ్చేశాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -192,7 +93,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "అప్పుడు రాముడన్నాడు \"నా చేతిలోనుండి ధనుస్సు జారిపోతోంది, మంత్రములు జ్ఞాపకానికి రావడం లేదు.",
+    "text": "మరునాడు రావణుడు విరూపాక్షుడు, మహోదరుడు, మహాపార్షుడు మొదలైన రాక్షస వీరులతో యుద్ధానికి వచ్చాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -201,16 +102,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "ఏ దేశానికి వెళ్ళినా భార్య దొరుకుతుంది, ఏ దేశానికి వెళ్ళినా బంధువులు దొరుకుతారు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 3,
-    "id": "07.03",
-    "text": "కాని తోడపుట్టినవాడు మాత్రం జీవితంలో ఒక్కసారే వస్తాడు\" అని బాధపడ్డాడు.",
+    "text": "ఆ యుద్ధంలో విరూపాక్షుడిని, మహోదరుడిని సుగ్రీవుడు చంపాడు, మహాపార్షుడిని అంగదుడు చంపాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -219,7 +111,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "అప్పుడు హనుమంతుడు \"రామ!",
+    "text": "అప్పుడు రాముడు మండలాకారంగా తన ధనుస్సుని పట్టుకొని బాణాలు వేస్తుంటే, లోపలినుండి కోరికలు పుట్టిస్తున్న జీవాత్మ ఎలా కనపడదో,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -228,34 +120,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "నువ్వు బెంగపెట్టుకోకు, లక్ష్మణుడిని ఎలా బతికించుకోవాలో నాకు తెలుసు\" అని మళ్ళి ఆకాశంలోకి ఎగిరి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "హిమాలయ పర్వతాలని చేరుకొని అక్కడున్న ఓషధ పర్వతాన్ని తీసుకొచ్చాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "అప్పుడు సుషేణుడు ఆ ఓషదులని లక్ష్మణుడి ముక్కులో పిండాడు, ఆ ఓషదుల వాసన తగలగానే లక్ష్మణుడు మళ్ళీ పైకి లేచాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 5,
-    "id": "08.05",
-    "text": "\"ఇంక నేను యుద్ధం చేస్తాను ఈ రావణుడితో \"అని రాముడు ముందుకి బయలుదేరాడు.",
+    "text": "అలా బాణపు దెబ్బలు తగులుతున్నాయి, ఏనుగుల తొండాలు తెగిపోతున్నాయి, గుర్రాలు పాదములు తెగి పడిపోతున్నాయి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -264,6 +129,141 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
+    "text": "లక్షల రాక్షస సైన్యం పడిపోతుంది కాని రాముడు మాత్రం కనపడడం లేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "ఆ సమయంలో రాముడు అగ్ని చక్రం తిరిగినట్టు తిరుగుతూ, మండలాకారంగా (వృత్తాకారంలో) ధనుస్సుని పట్టుకుని తిరుగుతూ కొన్ని కోట్ల రాక్షసులని కొట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "'తన ఇంటి గుట్టుని రాముడికి చెప్పి ఇంతమంది రాక్షసుల మరణానికి కారణమైనవాడు ఆ విభీషణుడు' అనుకొని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "రావణుడు శక్తి అనే అస్త్రాన్ని విభీషణుడి మీదకి ప్రయోగించబోతుండగా, లక్ష్మణుడు బాణములతో ఆయన చేతిని కొట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "ఆగ్రహించిన రావణుడు ఆ శక్తిని లక్ష్మణుడి మీద ప్రయోగించాడు, అప్పుడా శక్తి లక్ష్మణుడి వక్షస్థలం నుండి దూసుకుపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "వెంటనే ఆయన మూర్చపోయి కిందపడిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 3,
+    "id": "11.03",
+    "text": "అప్పుడు హనుమంతుడు లక్ష్మణుడిని ఎత్తి తీసుకెళ్ళి రాముడి దగ్గర పెట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "అప్పుడు రాముడన్నాడు \"నా చేతిలోనుండి ధనుస్సు జారిపోతోంది, మంత్రములు జ్ఞాపకానికి రావడం లేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "ఏ దేశానికి వెళ్ళినా భార్య దొరుకుతుంది, ఏ దేశానికి వెళ్ళినా బంధువులు దొరుకుతారు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "కాని తోడపుట్టినవాడు మాత్రం జీవితంలో ఒక్కసారే వస్తాడు\" అని బాధపడ్డాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "అప్పుడు హనుమంతుడు \"రామ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "నువ్వు బెంగపెట్టుకోకు, లక్ష్మణుడిని ఎలా బతికించుకోవాలో నాకు తెలుసు\" అని మళ్ళి ఆకాశంలోకి ఎగిరి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 3,
+    "id": "14.03",
+    "text": "హిమాలయ పర్వతాలని చేరుకొని అక్కడున్న ఓషధ పర్వతాన్ని తీసుకొచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "అప్పుడు సుషేణుడు ఆ ఓషదులని లక్ష్మణుడి ముక్కులో పిండాడు, ఆ ఓషదుల వాసన తగలగానే లక్ష్మణుడు మళ్ళీ పైకి లేచాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "\"ఇంక నేను యుద్ధం చేస్తాను ఈ రావణుడితో \"అని రాముడు ముందుకి బయలుదేరాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
     "text": "తర్వాత చూద్దాం — ఇంద్రుడి రథం.",
     "complete_verse_block": false,
     "needs_timing_review": false,

@@ -261,28 +261,10 @@
     "seconds": null
   },
   {
-    "scene": 18,
-    "part": 3,
-    "id": "18.03",
-    "text": "సీతమ్మ మా వంశంలో జన్మించి, తగిన భర్తని పొంది మా వంశ గౌరవాన్ని నిలబెట్టింది' అన్నాడు.\"",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 19,
     "part": 1,
     "id": "19.01",
-    "text": "\"అయితే ముందు కొంతమంది రాయబారులని దశరథ మహారాజుగారి దగ్గరికి పంపించి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 19,
-    "part": 2,
-    "id": "19.02",
-    "text": "రాముడు శివధనుర్భంగం చేసి సీతమ్మని వీర్య శుల్కగా గెలుచుకున్నాడన్న విషయం చెప్పండని విశ్వామిత్రుడు జనకుడితో అన్నాడు.\"",
+    "text": "సీతమ్మ మా వంశంలో జన్మించి, తగిన భర్తని పొంది మా వంశ గౌరవాన్ని నిలబెట్టింది' అన్నాడు.\"",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -291,6 +273,24 @@
     "scene": 20,
     "part": 1,
     "id": "20.01",
+    "text": "\"అయితే ముందు కొంతమంది రాయబారులని దశరథ మహారాజుగారి దగ్గరికి పంపించి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "రాముడు శివధనుర్భంగం చేసి సీతమ్మని వీర్య శుల్కగా గెలుచుకున్నాడన్న విషయం చెప్పండని విశ్వామిత్రుడు జనకుడితో అన్నాడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
     "text": "తర్వాత చూద్దాం — దశరథ మహారాజుకి ఈ శుభవార్త ఎలా అందిందో, మరియు మిథిలా నగరానికి ఆయన ఎలా బయలుదేరారో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

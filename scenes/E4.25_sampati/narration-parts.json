@@ -66,25 +66,7 @@
     "scene": 4,
     "part": 3,
     "id": "04.03",
-    "text": "ఆ పక్షి ఇంతమంది వానరాలని చూసి 'ఆహా ఏమి నా అదృష్టము, ఒకడిని తింటే మిగిలిన వారు పారిపోతారు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "కాని వీళ్ళు ప్రాయోపవేశం చేస్తున్నారు కనుక ఎవరూ కదలరు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 5,
-    "id": "04.05",
-    "text": "మెల్లగా ఒక్కొక్కరిని తినవచ్చు' అని ఆ పక్షి అనుకుంది.",
+    "text": "ఆ పక్షి ఇంతమంది వానరాలని చూసి 'ఆహా ఏమి నా అదృష్టము,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -93,7 +75,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "ఆ వానరాలు చెప్పుకుంటున్న రామ కథ వింటున్న ఆ పక్షి గట్టిగా ఒక మాట అని పలికింది \"నా మనస్సు కంపించిపోయేటట్టుగా,",
+    "text": "ఒకడిని తింటే మిగిలిన వారు పారిపోతారు, కాని వీళ్ళు ప్రాయోపవేశం చేస్తున్నారు కనుక ఎవరూ కదలరు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -102,43 +84,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "నా సోదరుడైన జటాయువు రావణాసురుడి చేత వధింపబడ్డాడన్న మాట చెప్పినవాడు ఎవడురా ఇక్కడ.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 3,
-    "id": "05.03",
-    "text": "అసలు నా తమ్ముడు అక్కడికి ఎందుకు వెళ్ళాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "దశరథ మహారాజు జటాయువుకి స్నేహితుడు, దశరథుడు ఏ కారణం చేత మరణించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "నా రెక్కలు కాలిపోయాయి, నా అంతట నేను మీ దగ్గర కుర్చోలేను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 6,
-    "id": "05.06",
-    "text": "ఎవరన్నా వచ్చి నన్ను దించండిరా\" అని పలికింది.",
+    "text": "మెల్లగా ఒక్కొక్కరిని తినవచ్చు' అని ఆ పక్షి అనుకుంది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -147,7 +93,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "కాని కింద పడుకున్న వానరాలు ఒకరితో ఒకరు \"అదంతా ఒట్టిదే, మనల్ని తినెయ్యడానికి అలా అంటుంది.",
+    "text": "ఆ వానరాలు చెప్పుకుంటున్న రామ కథ వింటున్న ఆ పక్షి గట్టిగా ఒక మాట అని పలికింది \"నా మనస్సు కంపించిపోయేటట్టుగా,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -156,34 +102,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "మనం అక్కడికి వెళితే అది మనల్ని తినేస్తుంది\" అన్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "వాళ్ళల్లో ఒకడు అన్నాడు \"అది మనల్ని నిజంగా చంపేసిందే అనుకో,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "మనం ప్రాయోపవేశం చేస్తున్నాము కదా మరి దానిని తేవడానికి భయం ఎందుకు, వెళ్ళి తీసుకురండి\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "అప్పడు అంగదుడు వెళ్ళి ఆ పక్షిని తీసుకొచ్చాడు.",
+    "text": "నా సోదరుడైన జటాయువు రావణాసురుడి చేత వధింపబడ్డాడన్న మాట చెప్పినవాడు ఎవడురా ఇక్కడ.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -192,7 +111,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "అప్పుడా వానరాలన్నీ ఆ పక్షి చుట్టూ చేరాయి.",
+    "text": "అసలు నా తమ్ముడు అక్కడికి ఎందుకు వెళ్ళాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -201,25 +120,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "అప్పుడాయన \"అసలు మా జటాయువు ఏమయ్యాడు?\" అని అడిగాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 3,
-    "id": "07.03",
-    "text": "అంగదుడు మళ్ళి రామ కథ చెప్పడం ప్రారంభించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "అంగదుడు రామ కథ మొత్తం చెప్పి 'నువ్వు ఎవరు?' అని ఆ పక్షిని ప్రశ్నించాడు.",
+    "text": "దశరథ మహారాజు జటాయువుకి స్నేహితుడు, దశరథుడు ఏ కారణం చేత మరణించాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -228,7 +129,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "అప్పుడా పక్షి \"సంపాతి అనబడే నేను, జటాయువు సోదరులము.",
+    "text": "నా రెక్కలు కాలిపోయాయి, నా అంతట నేను మీ దగ్గర కుర్చోలేను.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -237,61 +138,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "సూర్యుడు ఉదయించినప్పటినుండి అస్తమించేలోపు ఆయనతో సమానంగా ప్రయాణం చెయ్యాలని మేము ఒకనాడు పందెం కాసుకున్నాము.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "అనుకున్న ప్రకారం నేను, జటాయువు సూర్యుడి వెనకాల వెళ్ళిపోతున్నాము.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "అలా వెళుతుండగా మిట్ట మధ్యాహ్నం వేళ మేము సూర్యుడికి దగ్గరగా వచ్చాము.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 5,
-    "id": "08.05",
-    "text": "అప్పుడా సూర్యుడి వేడిని భరించలేక జటాయువు సప్రహతప్పి కిందపడిపోతున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 6,
-    "id": "08.06",
-    "text": "పెద్దవాడిని కనుక తమ్ముడిని రక్షించాలని నేను నా రెక్కలని జటాయువుకి అడ్డంగా పెట్టాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 7,
-    "id": "08.07",
-    "text": "అప్పుడా సూర్యుడి వేడికి నా రెక్కలు కాలిపోయి వింధ్య పర్వతం మీద పడిపోయాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 8,
-    "id": "08.08",
-    "text": "కాని నా తమ్ముడు ఎటు వెళ్ళిపోయాడో నాకు తెలీలేదు.",
+    "text": "ఎవరన్నా వచ్చి నన్ను దించండిరా\" అని పలికింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -300,7 +147,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "మళ్ళి ఇంతకాలానికి మీవలన నా తమ్ముడి గురించి విన్నాను.",
+    "text": "కాని కింద పడుకున్న వానరాలు ఒకరితో ఒకరు \"అదంతా ఒట్టిదే, మనల్ని తినెయ్యడానికి అలా అంటుంది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -309,25 +156,7 @@
     "scene": 9,
     "part": 2,
     "id": "09.02",
-    "text": "నా తమ్ముడు చనిపోయాడన్న వార్త వినడం వలన నాకు చాలా బాధ కలుగుతోంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "చనిపోయిన నా తమ్ముడికి జలతర్పణ ఇవ్వాలి అనుకుంటున్నాను, కాని నేను ఎగరలేను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 4,
-    "id": "09.04",
-    "text": "మీరు నన్ను తీసుకెళ్ళి ఆ సముద్ర జలాల దగ్గర దింపండి, నేను నా తమ్ముడికి తర్పణలు ఇస్తాను\" అన్నాడు.",
+    "text": "మనం అక్కడికి వెళితే అది మనల్ని తినేస్తుంది\" అన్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -336,7 +165,7 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "సంపాతి కోరిక మేరకు వారు ఆయనని సముద్ర తీరానికి తీసుకువెళ్ళారు, ఆయన అక్కడ జటాయువుకి తర్పణలు సమర్పించాడు.",
+    "text": "వాళ్ళల్లో ఒకడు అన్నాడు \"అది మనల్ని నిజంగా చంపేసిందే అనుకో,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -345,7 +174,7 @@
     "scene": 10,
     "part": 2,
     "id": "10.02",
-    "text": "మళ్ళి వెనక్కి తిరిగొచ్చాక ఆ వానరాలు సంపాతితో \"జటాయువు రామకార్యంలో సహాయం చేశాడు, నువ్వు కూడా రామకార్యంలో ఏమన్నా సహాయం చెయ్యగలవా.",
+    "text": "మనం ప్రాయోపవేశం చేస్తున్నాము కదా మరి దానిని తేవడానికి భయం ఎందుకు, వెళ్ళి తీసుకురండి\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -354,7 +183,7 @@
     "scene": 10,
     "part": 3,
     "id": "10.03",
-    "text": "నీకు సీతమ్మ జాడ ఏమన్నా తెలుసా\" అని అడిగారు.",
+    "text": "అప్పడు అంగదుడు వెళ్ళి ఆ పక్షిని తీసుకొచ్చాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -363,6 +192,177 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
+    "text": "అప్పుడా వానరాలన్నీ ఆ పక్షి చుట్టూ చేరాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "అప్పుడాయన \"అసలు మా జటాయువు ఏమయ్యాడు?\" అని అడిగాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "అంగదుడు మళ్ళి రామ కథ చెప్పడం ప్రారంభించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "అంగదుడు రామ కథ మొత్తం చెప్పి 'నువ్వు ఎవరు?' అని ఆ పక్షిని ప్రశ్నించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "అప్పుడా పక్షి \"సంపాతి అనబడే నేను, జటాయువు సోదరులము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "సూర్యుడు ఉదయించినప్పటినుండి అస్తమించేలోపు ఆయనతో సమానంగా ప్రయాణం చెయ్యాలని మేము ఒకనాడు పందెం కాసుకున్నాము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "అనుకున్న ప్రకారం నేను, జటాయువు సూర్యుడి వెనకాల వెళ్ళిపోతున్నాము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "అలా వెళుతుండగా మిట్ట మధ్యాహ్నం వేళ మేము సూర్యుడికి దగ్గరగా వచ్చాము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 3,
+    "id": "14.03",
+    "text": "అప్పుడా సూర్యుడి వేడిని భరించలేక జటాయువు సప్రహతప్పి కిందపడిపోతున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "పెద్దవాడిని కనుక తమ్ముడిని రక్షించాలని నేను నా రెక్కలని జటాయువుకి అడ్డంగా పెట్టాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "అప్పుడా సూర్యుడి వేడికి నా రెక్కలు కాలిపోయి వింధ్య పర్వతం మీద పడిపోయాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 3,
+    "id": "15.03",
+    "text": "కాని నా తమ్ముడు ఎటు వెళ్ళిపోయాడో నాకు తెలీలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "మళ్ళి ఇంతకాలానికి మీవలన నా తమ్ముడి గురించి విన్నాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "నా తమ్ముడు చనిపోయాడన్న వార్త వినడం వలన నాకు చాలా బాధ కలుగుతోంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "చనిపోయిన నా తమ్ముడికి జలతర్పణ ఇవ్వాలి అనుకుంటున్నాను, కాని నేను ఎగరలేను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "మీరు నన్ను తీసుకెళ్ళి ఆ సముద్ర జలాల దగ్గర దింపండి, నేను నా తమ్ముడికి తర్పణలు ఇస్తాను\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "సంపాతి కోరిక మేరకు వారు ఆయనని సముద్ర తీరానికి తీసుకువెళ్ళారు, ఆయన అక్కడ జటాయువుకి తర్పణలు సమర్పించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "మళ్ళి వెనక్కి తిరిగొచ్చాక ఆ వానరాలు సంపాతితో \"జటాయువు రామకార్యంలో సహాయం చేశాడు, నువ్వు కూడా రామకార్యంలో ఏమన్నా సహాయం చెయ్యగలవా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "నీకు సీతమ్మ జాడ ఏమన్నా తెలుసా\" అని అడిగారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
     "text": "తర్వాత చూద్దాం — సంపాతి చెప్పిన సీతమ్మ జాడ.",
     "complete_verse_block": false,
     "needs_timing_review": false,

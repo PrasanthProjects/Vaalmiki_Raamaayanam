@@ -21,16 +21,7 @@
     "scene": 2,
     "part": 1,
     "id": "02.01",
-    "text": "అప్పుడు సుమంత్రుడు \"రామా, నేను మీతోనే వస్తాను, మీ సేవ చేసుకుంటాను, రథం మీద మిమ్మల్ని అరణ్యాలకి తీసుకువచ్చానో,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 2,
-    "id": "02.02",
-    "text": "రథం మీదే మిమ్మల్ని 14 సంవత్సరాల తరువాత అయోధ్యకి తీసుకువెళతాను\" అన్నాడు.",
+    "text": "అప్పుడు సుమంత్రుడు \"రామా, నేను మీతోనే వస్తాను, మీ సేవ చేసుకుంటాను,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -39,34 +30,7 @@
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "\"నువ్వు వచ్చేస్తే కైకమ్మకి అనుమానం వస్తుంది, రాముడు అరణ్యవాసం చెయ్యకుండా రథం మీద తిరుగుతున్నాడనుకుంటుంది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 2,
-    "id": "03.02",
-    "text": "అందుకని నువ్వు ఖాళీ రథంతో వెనక్కి వెళ్ళి, రాముడు గంగని దాటి అరణ్యాలకి వెళ్ళాడని చెప్పాలి, అప్పుడు ఆమె సంతోషిస్తుంది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "అందుకని నువ్వు బయలుదేరాలి\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "వెంటనే సుమంత్రుడు అయోధ్యకి బయలుదేరాడు.",
+    "text": "రథం మీద మిమ్మల్ని అరణ్యాలకి తీసుకువచ్చానో, రథం మీదే మిమ్మల్ని 14 సంవత్సరాల తరువాత అయోధ్యకి తీసుకువెళతాను\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -75,8 +39,17 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "తత్ క్షీరం రాజ పుత్రాయ గుహః క్షిప్రం ఉపాహరత్ । లక్ష్మణస్య ఆత్మనః చైవ రామః తేన అకరోజ్ జటాః ॥",
-    "complete_verse_block": true,
+    "text": "\"నువ్వు వచ్చేస్తే కైకమ్మకి అనుమానం వస్తుంది, రాముడు అరణ్యవాసం చెయ్యకుండా రథం మీద తిరుగుతున్నాడనుకుంటుంది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 2,
+    "id": "04.02",
+    "text": "అందుకని నువ్వు ఖాళీ రథంతో వెనక్కి వెళ్ళి,",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -84,7 +57,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "అప్పుడు రాముడు గుహుడిని పిలిచి \"గుహా, ఇకనుండి నేను ఒక తపస్వి ఎలా బతుకుతాడో అలా బతకాలి,",
+    "text": "రాముడు గంగని దాటి అరణ్యాలకి వెళ్ళాడని చెప్పాలి, అప్పుడు ఆమె సంతోషిస్తుంది, అందుకని నువ్వు బయలుదేరాలి\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -93,7 +66,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "అందుకని నువ్వు నాకోసం మర్రి పాలు తీసుకురా\" అన్నాడు.",
+    "text": "వెంటనే సుమంత్రుడు అయోధ్యకి బయలుదేరాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -102,26 +75,8 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "అప్పుడు రాముడు గుహుడిని ఆ మర్రిపాలని తన తల మీద, లక్ష్మణుడి తల మీద పొయ్యమన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 2,
-    "id": "06.02",
-    "text": "మర్రిపాలు పోశాక జిగురుతో ఉన్న ఆ జుట్టుని జటల కింద కట్టేసుకున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "అక్కడున్న వారందరూ రాముడి యొక్క ధర్మనిష్టకి ఆశ్చర్యపోయారు.",
-    "complete_verse_block": false,
+    "text": "తత్ క్షీరం రాజ పుత్రాయ గుహః క్షిప్రం ఉపాహరత్ । లక్ష్మణస్య ఆత్మనః చైవ రామః తేన అకరోజ్ జటాః ॥",
+    "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -129,7 +84,16 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "అప్పుడు రాముడు \"నేను ఈ 14 సంవత్సరములు నా క్షాత్ర ధర్మాన్ని పాటిస్తూ, బ్రహ్మచర్యంతో కూడిన అరణ్యవాసాన్ని చేస్తాను\" అన్నాడు.",
+    "text": "అప్పుడు రాముడు గుహుడిని పిలిచి \"గుహా, ఇకనుండి నేను ఒక తపస్వి ఎలా బతుకుతాడో అలా బతకాలి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 2,
+    "id": "07.02",
+    "text": "అందుకని నువ్వు నాకోసం మర్రి పాలు తీసుకురా\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -138,16 +102,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "రాముడు లక్ష్మణుడిని పిలిచి \"ముందు మీ వదినని పడవ ఎక్కించి నువ్వు ఎక్కు\" అని చెప్పి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 2,
-    "id": "08.02",
-    "text": "వారు పడవ ఎక్కాక ఆయన కూడా పడవ ఎక్కాడు, అలా రామలక్ష్మణులు గంగని దాటి ఆవలి ఒడ్డుకి వెళ్ళారు.",
+    "text": "అప్పుడు రాముడు గుహుడిని ఆ మర్రిపాలని తన తల మీద, లక్ష్మణుడి తల మీద పొయ్యమన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -156,7 +111,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "అక్కడినుండి అలా కొంత దూరం వెళ్ళాక చీకటి పడేసరికి వాళ్ళందరూ ఒక చెట్టు కింద విడిది చేశారు,",
+    "text": "మర్రిపాలు పోశాక జిగురుతో ఉన్న ఆ జుట్టుని జటల కింద కట్టేసుకున్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -165,16 +120,7 @@
     "scene": 9,
     "part": 2,
     "id": "09.02",
-    "text": "అప్పుడు రామలక్ష్మణులు వెళ్ళి మూడు మృగాలని సంహరించి, వాటిని తీసుకొని వచ్చి అగ్నిలో బాగా కాల్చి, మాంసాన్ని ముగ్గురూ తిన్నారు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "తరువాత అక్కడే పడి ఉన్న ఎండుటాకులమీద పడుకున్నారు.",
+    "text": "అక్కడున్న వారందరూ రాముడి యొక్క ధర్మనిష్టకి ఆశ్చర్యపోయారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -183,16 +129,7 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "అప్పుడు రాముడు లక్ష్మణుడిని పిలిచి \"లక్ష్మణా, నాకు ఒక ఆలోచన వచ్చింది, భరతుడు యువరాజ పట్టాభిషేకం చేసుకున్నాక కౌసల్యని, సుమిత్రని బంధిస్తాడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 2,
-    "id": "10.02",
-    "text": "అందుకని నువ్వు బయలుదేరి అయోధ్యకి వెళ్ళిపో\" అన్నాడు.",
+    "text": "అప్పుడు రాముడు \"నేను ఈ 14 సంవత్సరములు నా క్షాత్ర ధర్మాన్ని పాటిస్తూ, బ్రహ్మచర్యంతో కూడిన అరణ్యవాసాన్ని చేస్తాను\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -201,6 +138,69 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
+    "text": "రాముడు లక్ష్మణుడిని పిలిచి \"ముందు మీ వదినని పడవ ఎక్కించి నువ్వు ఎక్కు\" అని చెప్పి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "వారు పడవ ఎక్కాక ఆయన కూడా పడవ ఎక్కాడు, అలా రామలక్ష్మణులు గంగని దాటి ఆవలి ఒడ్డుకి వెళ్ళారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "అక్కడినుండి అలా కొంత దూరం వెళ్ళాక చీకటి పడేసరికి వాళ్ళందరూ ఒక చెట్టు కింద విడిది చేశారు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "అప్పుడు రామలక్ష్మణులు వెళ్ళి మూడు మృగాలని సంహరించి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "వాటిని తీసుకొని వచ్చి అగ్నిలో బాగా కాల్చి, మాంసాన్ని ముగ్గురూ తిన్నారు, తరువాత అక్కడే పడి ఉన్న ఎండుటాకులమీద పడుకున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "అప్పుడు రాముడు లక్ష్మణుడిని పిలిచి \"లక్ష్మణా, నాకు ఒక ఆలోచన వచ్చింది, భరతుడు యువరాజ పట్టాభిషేకం చేసుకున్నాక కౌసల్యని, సుమిత్రని బంధిస్తాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "అందుకని నువ్వు బయలుదేరి అయోధ్యకి వెళ్ళిపో\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
     "text": "తర్వాత చూద్దాం — లక్ష్మణుడు ఈ మాటకి ఎలా స్పందిస్తాడో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

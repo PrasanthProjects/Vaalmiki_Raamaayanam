@@ -36,28 +36,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "ఆయన ఊరిపి తీసేసరికి తలుపులు తీసిన వాళ్ళందరూ ఆయన ముక్కులోకి దూరిపోయారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
-    "text": "మళ్ళీ ఆయన ఊపిరి విడిచేసరికి లోపలికి వెళ్ళిన వారు అక్కడున్న గోడలకి, తలుపులకి కొట్టుకొని కిందపడిపోయారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "ఆయనని ఎలా నిద్రలేపాలి అని వారు బాగా ఆలోచించి \"ఈయనకి తినడం అంటే బాగా ఇష్టం.",
+    "text": "ఆయన ఊరిపి తీసేసరికి తలుపులు తీసిన వాళ్ళందరూ ఆయన ముక్కులోకి దూరిపోయారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -66,70 +48,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "అందుకని ఈయనకి ఇష్టమైన పదార్ధాలని తీసుకొని వచ్చి పెడదాము.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "ఎంత నిద్రపోతున్నవాడైనా వాసన పీల్చడం అనేది తప్పదు కదా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "మనం పెట్టిన పదార్ధాల వాసనకి నిద్ర లేస్తాడు \"అని అనుకొని ఆయనకి ఇష్టమైన దున్నపోతులని, జింకలని మొదలైన అనేక మృగాలని చంపి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 5,
-    "id": "03.05",
-    "text": "వాటితో మంచి వాసనలు వచ్చే కూరలు వండారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 6,
-    "id": "03.06",
-    "text": "వండినవాటిని పెద్ద పెద్ద పాత్రలలోకి సర్దారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 7,
-    "id": "03.07",
-    "text": "తరువాత ఆ పాత్రలని తీసుకొని వచ్చి ఆయన పడుకున్న శయనాగారంలో సర్దారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 8,
-    "id": "03.08",
-    "text": "కొన్ని వేల కుంభములతో మద్యాన్ని తీసుకొని వచ్చి పెట్టారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 9,
-    "id": "03.09",
-    "text": "అన్ని ఆహార పదార్ధాలు తీసుకొని వచ్చి పెట్టినా కుంభకర్ణుడికి తెలివి రాలేదు.",
+    "text": "మళ్ళీ ఆయన ఊపిరి విడిచేసరికి లోపలికి వెళ్ళిన వారు అక్కడున్న గోడలకి, తలుపులకి కొట్టుకొని కిందపడిపోయారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -138,7 +57,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "అప్పుడు వారు తెల్లటి శంఖాలను పట్టుకొచ్చి మోగించారు, భేరీలు, మృదంగాలు మోగించారు.",
+    "text": "ఆయనని ఎలా నిద్రలేపాలి అని వారు బాగా ఆలోచించి \"ఈయనకి తినడం అంటే బాగా ఇష్టం.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -147,7 +66,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "పెద్ద పెద్ద శూలాలు, పరిఘలు, తోమరాలు పట్టుకొచ్చి ఆయనని పొడిచారు.",
+    "text": "అందుకని ఈయనకి ఇష్టమైన పదార్ధాలని తీసుకొని వచ్చి పెడదాము.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -156,34 +75,7 @@
     "scene": 4,
     "part": 3,
     "id": "04.03",
-    "text": "ఆ కుంభకర్ణుడి చేతులని కొన్ని వందల మంది రాక్షసులు ఎత్తి కిందపడేశారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "తరువాత వారు ఏనుగుల్ని, కంచర గాడిదలని, ఎద్దులని, ఒంటెలని తెచ్చి ఆయన శరీరం మీదకి తోలారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 5,
-    "id": "04.05",
-    "text": "అవి ఆయన శరీరం మీదకి ఒక వైపు నుండి ఎక్కి మళ్ళి ఇంకొక వైపు నుండి దిగుతున్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 6,
-    "id": "04.06",
-    "text": "వారు అన్ని చేసినా కుంభకర్ణుడు మాత్రం చెలించకుండా అలానే నిద్రపోతున్నాడు.",
+    "text": "ఎంత నిద్రపోతున్నవాడైనా వాసన పీల్చడం అనేది తప్పదు కదా,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -192,7 +84,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "తరువాత వారు బాగా చల్లగా ఉన్న నీటి కడవలని తీసుకొని వచ్చి, ఆ నీటిని ఆయన చెవులలో పోసేశారు.",
+    "text": "మనం పెట్టిన పదార్ధాల వాసనకి నిద్ర లేస్తాడు \"అని అనుకొని ఆయనకి ఇష్టమైన దున్నపోతులని, జింకలని మొదలైన అనేక మృగాలని చంపి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -201,7 +93,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "ఇంక లాభం లేదనుకొని ఆ రాక్షసులు ఆయన చెవులని కొరికెయ్యడం మొదలుపెట్టారు.",
+    "text": "వాటితో మంచి వాసనలు వచ్చే కూరలు వండారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -210,70 +102,7 @@
     "scene": 5,
     "part": 3,
     "id": "05.03",
-    "text": "తరువాత పర్వతాలంత ఎత్తు, బరువు ఉన్న 1000 ఏనుగుల్ని తీసుకొని వచ్చి ఆయన శరీరం మీదకి ఎక్కించారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "అ ఏనుగులు తన శరీరం మీద తిరుగుతుంటే కుంభకర్ణుడికి కొంచెం తెలివొచ్చినట్టనిపించింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "ఈయన మళ్ళి కునుకులోకి వెళ్ళిపోతాడేమో అని అక్కడున్న రాక్షసులు వెంటనే భేరీలు, మృదంగాలు, శంఖాలు మ్రోగించారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 6,
-    "id": "05.06",
-    "text": "కొంతమంది పెద్ద పెద్ద కేకలు వేస్తున్నారు, కొంతమంది పెద్ద పెద్ద కర్రలతో, శూలాలతో ఆయనని పొడుస్తున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 7,
-    "id": "05.07",
-    "text": "అక్కడున్న రాక్షసులందరూ కలిసి ఒకేసారి గట్టిగా అరిచారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 8,
-    "id": "05.08",
-    "text": "అప్పుడా కుంభకర్ణుడు మెల్లగా కన్నులు తెరిచి, రెండు చేతులని కలిపి ఒళ్ళు విరుచుకొని, పెద్దగా ఆవలించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 9,
-    "id": "05.09",
-    "text": "ఆయన నిద్రలేస్తూనే అక్కడున్న పాత్రలలో ఉన్న మాంసాహారాన్ని అంతా తినేశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 10,
-    "id": "05.10",
-    "text": "ఆ పక్కన ఉన్న కల్లుని కూడా తాగేసాడు.",
+    "text": "వండినవాటిని పెద్ద పెద్ద పాత్రలలోకి సర్దారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -282,7 +111,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "అప్పుడా రాక్షసులు \"కుంభకర్ణా!",
+    "text": "తరువాత ఆ పాత్రలని తీసుకొని వచ్చి ఆయన పడుకున్న శయనాగారంలో సర్దారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -291,7 +120,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "ఎన్నడూ లేని ప్రమాదం ఇవ్వాళ లంకకి ఏర్పడింది.",
+    "text": "కొన్ని వేల కుంభములతో మద్యాన్ని తీసుకొని వచ్చి పెట్టారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -300,61 +129,7 @@
     "scene": 6,
     "part": 3,
     "id": "06.03",
-    "text": "మీ అన్నగారు సీతని అపహరించి తీసుకొచ్చారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "కేవలం నరుడైన రాముడు వానరములని తన సైన్యంగా మలుచుకొని 100 యోజనముల సముద్రానికి సేతువు కట్టి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "ఆ సముద్రాన్ని దాటి లంకలోకి ప్రవేశించి యుద్ధోన్ముఖుడై తీవ్రమైన యుద్ధం చేస్తున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 6,
-    "id": "06.06",
-    "text": "మన వైపు ఉన్న రాక్షస బలంలో అతిరథులు, మహారథులైన ఎందరో యోధులు మరణించారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 7,
-    "id": "06.07",
-    "text": "ఇంక దిక్కులేని పరిస్థితులలో మీ అన్నగారు నిన్ను నిద్రలేపమని మమ్మల్ని నియమించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 8,
-    "id": "06.08",
-    "text": "అందుకని మేము మిమ్మల్ని నిద్రలేపాము\" అన్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 9,
-    "id": "06.09",
-    "text": "అప్పుడు కుంభకర్ణుడు \"ఈ మాత్రం దానికి నేను అన్నయ్య దగ్గరికి వెళ్ళడం ఎందుకు, ఇలానే యుద్ధ భూమిలోకి వెళ్ళిపోతాను.",
+    "text": "అన్ని ఆహార పదార్ధాలు తీసుకొని వచ్చి పెట్టినా కుంభకర్ణుడికి తెలివి రాలేదు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -363,7 +138,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "నేను యుద్ధానికి వెళితే యముడు తన సైన్యంతో పారిపోయాడు, ఇంద్రుడు పారిపోయాడు.",
+    "text": "అప్పుడు వారు తెల్లటి శంఖాలను పట్టుకొచ్చి మోగించారు, భేరీలు, మృదంగాలు మోగించారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -372,61 +147,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "నరులైన రామలక్ష్మణులని సంహరించడం నాకు ఒక లెక్కా.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 3,
-    "id": "07.03",
-    "text": "నాకు చాలా ఆకలిగా ఉంది, అందరూ యుద్ధ భూమిలోకి యుద్ధం చేయుటకు వెళితే నేను తినడానికి వెళతాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "అక్కడున్న వానరాలని, భల్లూకాలని తింటాను\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 5,
-    "id": "07.05",
-    "text": "అప్పుడు ఆ రాక్షసులు \"అలా వెళ్ళిపోకయ్యా.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 6,
-    "id": "07.06",
-    "text": "మీ అన్నగారు నీ కోసం ఎదురుచూస్తున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 7,
-    "id": "07.07",
-    "text": "ఆయనతో మాట్లాడి, ఆయన ఎలా నిర్దేసిస్తే అలా వెళ్ళు\" అన్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 8,
-    "id": "07.08",
-    "text": "\"ఇవన్నీ తిన్నాక, స్నానం చేసి వస్తాను\" అని కుంభకర్ణుడు అన్నాడు.",
+    "text": "పెద్ద పెద్ద శూలాలు, పరిఘలు, తోమరాలు పట్టుకొచ్చి ఆయనని పొడిచారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -435,7 +156,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "స్నానం చేసి బయటకి వచ్చిన కుంభకర్ణుడికి దాహం వేసి అక్కడ 1000 కడవలలో ఉన్న కల్లుని తాగి రావణుడి అంతఃపురానికి బయలుదేరాడు.",
+    "text": "ఆ కుంభకర్ణుడి చేతులని కొన్ని వందల మంది రాక్షసులు ఎత్తి కిందపడేశారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -444,25 +165,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "రావణుడి అంతఃపురానికి వెళుతున్న కుంభకర్ణుడిని చూసిన వానరాలు భయంతో పారిపోయాయి, (కుంభకర్ణుడిది అంత పెద్ద శరీరం,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "లంకా పట్టణానికి దూరంగా యుద్ధ భూమిలో ఉన్న వానరాలికి కూడా వాడు కనిపించాడు) కొంతమంది చెట్లు ఎక్కేసారు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "కొంతమంది పర్వత గుహలలోకి దూరిపోయారు, కొంతమంది సేతువెక్కి పారిపోయారు.",
+    "text": "తరువాత వారు ఏనుగుల్ని, కంచర గాడిదలని, ఎద్దులని, ఒంటెలని తెచ్చి ఆయన శరీరం మీదకి తోలారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -471,6 +174,330 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
+    "text": "అవి ఆయన శరీరం మీదకి ఒక వైపు నుండి ఎక్కి మళ్ళి ఇంకొక వైపు నుండి దిగుతున్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "వారు అన్ని చేసినా కుంభకర్ణుడు మాత్రం చెలించకుండా అలానే నిద్రపోతున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "తరువాత వారు బాగా చల్లగా ఉన్న నీటి కడవలని తీసుకొని వచ్చి, ఆ నీటిని ఆయన చెవులలో పోసేశారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "ఇంక లాభం లేదనుకొని ఆ రాక్షసులు ఆయన చెవులని కొరికెయ్యడం మొదలుపెట్టారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 3,
+    "id": "10.03",
+    "text": "తరువాత పర్వతాలంత ఎత్తు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "బరువు ఉన్న 1000 ఏనుగుల్ని తీసుకొని వచ్చి ఆయన శరీరం మీదకి ఎక్కించారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "అ ఏనుగులు తన శరీరం మీద తిరుగుతుంటే కుంభకర్ణుడికి కొంచెం తెలివొచ్చినట్టనిపించింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 3,
+    "id": "11.03",
+    "text": "ఈయన మళ్ళి కునుకులోకి వెళ్ళిపోతాడేమో అని అక్కడున్న రాక్షసులు వెంటనే భేరీలు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "మృదంగాలు, శంఖాలు మ్రోగించారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "కొంతమంది పెద్ద పెద్ద కేకలు వేస్తున్నారు, కొంతమంది పెద్ద పెద్ద కర్రలతో, శూలాలతో ఆయనని పొడుస్తున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 3,
+    "id": "12.03",
+    "text": "అక్కడున్న రాక్షసులందరూ కలిసి ఒకేసారి గట్టిగా అరిచారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "అప్పుడా కుంభకర్ణుడు మెల్లగా కన్నులు తెరిచి, రెండు చేతులని కలిపి ఒళ్ళు విరుచుకొని, పెద్దగా ఆవలించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "ఆయన నిద్రలేస్తూనే అక్కడున్న పాత్రలలో ఉన్న మాంసాహారాన్ని అంతా తినేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 3,
+    "id": "13.03",
+    "text": "ఆ పక్కన ఉన్న కల్లుని కూడా తాగేసాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "అప్పుడా రాక్షసులు \"కుంభకర్ణా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "ఎన్నడూ లేని ప్రమాదం ఇవ్వాళ లంకకి ఏర్పడింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 3,
+    "id": "14.03",
+    "text": "మీ అన్నగారు సీతని అపహరించి తీసుకొచ్చారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 4,
+    "id": "14.04",
+    "text": "కేవలం నరుడైన రాముడు వానరములని తన సైన్యంగా మలుచుకొని 100 యోజనముల సముద్రానికి సేతువు కట్టి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "ఆ సముద్రాన్ని దాటి లంకలోకి ప్రవేశించి యుద్ధోన్ముఖుడై తీవ్రమైన యుద్ధం చేస్తున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "మన వైపు ఉన్న రాక్షస బలంలో అతిరథులు, మహారథులైన ఎందరో యోధులు మరణించారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "ఇంక దిక్కులేని పరిస్థితులలో మీ అన్నగారు నిన్ను నిద్రలేపమని మమ్మల్ని నియమించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "అందుకని మేము మిమ్మల్ని నిద్రలేపాము\" అన్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 3,
+    "id": "16.03",
+    "text": "అప్పుడు కుంభకర్ణుడు \"ఈ మాత్రం దానికి నేను అన్నయ్య దగ్గరికి వెళ్ళడం ఎందుకు, ఇలానే యుద్ధ భూమిలోకి వెళ్ళిపోతాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "నేను యుద్ధానికి వెళితే యముడు తన సైన్యంతో పారిపోయాడు, ఇంద్రుడు పారిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "నరులైన రామలక్ష్మణులని సంహరించడం నాకు ఒక లెక్కా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "నాకు చాలా ఆకలిగా ఉంది, అందరూ యుద్ధ భూమిలోకి యుద్ధం చేయుటకు వెళితే నేను తినడానికి వెళతాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "అక్కడున్న వానరాలని, భల్లూకాలని తింటాను\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 3,
+    "id": "18.03",
+    "text": "అప్పుడు ఆ రాక్షసులు \"అలా వెళ్ళిపోకయ్యా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "మీ అన్నగారు నీ కోసం ఎదురుచూస్తున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "ఆయనతో మాట్లాడి, ఆయన ఎలా నిర్దేసిస్తే అలా వెళ్ళు\" అన్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 3,
+    "id": "19.03",
+    "text": "\"ఇవన్నీ తిన్నాక, స్నానం చేసి వస్తాను\" అని కుంభకర్ణుడు అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "స్నానం చేసి బయటకి వచ్చిన కుంభకర్ణుడికి దాహం వేసి అక్కడ 1000 కడవలలో ఉన్న కల్లుని తాగి రావణుడి అంతఃపురానికి బయలుదేరాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "రావణుడి అంతఃపురానికి వెళుతున్న కుంభకర్ణుడిని చూసిన వానరాలు భయంతో పారిపోయాయి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "(కుంభకర్ణుడిది అంత పెద్ద శరీరం,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "లంకా పట్టణానికి దూరంగా యుద్ధ భూమిలో ఉన్న వానరాలికి కూడా వాడు కనిపించాడు) కొంతమంది చెట్లు ఎక్కేసారు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 3,
+    "id": "21.03",
+    "text": "కొంతమంది పర్వత గుహలలోకి దూరిపోయారు, కొంతమంది సేతువెక్కి పారిపోయారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
     "text": "తర్వాత చూద్దాం — కుంభకర్ణుడి వృత్తాంతం, అన్నగారికి ఆయన చెప్పిన హితవు.",
     "complete_verse_block": false,
     "needs_timing_review": false,

@@ -27,46 +27,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 3,
-    "id": "02.03",
-    "text": "యుద్ధ భూమిలోకి వచ్చిన కుంభకర్ణుడిని ఆ వానరాలు యంత్రము అనుకొని చూస్తున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "హనుమకి, సుగ్రీవుడికి, సుషేనుడికి, గంధమాదనుడికి, నీలుడికి, మైందుడికి మొదలైన నాయకులకి వస్తున్నది యంత్రము కాదు కుంభకర్ణుడు అని తెలుసు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
-    "text": "అందుకని వారు పెద్ద పెద్ద పర్వతాలు, శిలలు, చెట్లు పట్టుకెళ్ళి కుంభకర్ణుడిని కొడుతున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 6,
-    "id": "02.06",
-    "text": "వారు అలా కొడుతుంటే కుంభకర్ణుడు తన శూలాన్ని ఆడిస్తూ ఆ పర్వతాలని, చెట్లని కొట్టాడు, అప్పుడవి చూర్ణమయ్యి కిందపడ్డాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "ఆయన తన అరి చేతులతో కొడుతుంటే వేలకు వేల వానరములు మరణిస్తున్నాయి.",
+    "text": "యుద్ధ భూమిలోకి వచ్చిన కుంభకర్ణుడిని ఆ వానరాలు యంత్రము అనుకొని చూస్తున్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -75,52 +39,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "అలా మరణించిన వానరాలని నోట్లో వేసుకుని నములుతున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "ఆయన అలా నడుస్తూ వెళుతూ ఒక చేతితో 200 మంది వానరాలని పట్టుకొని నోట్లో వేసుకునేవాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "ఆయన నోట్లోకి వెళ్ళిన వానరాలలో కొంతమంది ఆయన చెవుల నుండి బయటకి దుకేస్తున్నారు, కొంతమంది ఆయన ముక్కులో నుండి బయటకి దుకేస్తున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 5,
-    "id": "03.05",
-    "text": "అలా బయటకి వస్తున్న వాళ్ళని కుంభకర్ణుడు మళ్ళి ఏరుకొని తినేస్తున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 6,
-    "id": "03.06",
-    "text": "పెద్ద పెద్ద భల్లూకాలని పట్టుకొని కొరుక్కుని తింటున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 7,
-    "id": "03.07",
-    "text": "ఆయన శూలం పెట్టి కొడుతుంటే కొన్ని వేల వానరాలు చనిపోయాయి.",
+    "text": "హనుమకి, సుగ్రీవుడికి, సుషేనుడికి, గంధమాదనుడికి, నీలుడికి, మైందుడికి మొదలైన నాయకులకి వస్తున్నది యంత్రము కాదు కుంభకర్ణుడు అని తెలుసు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -129,7 +48,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "అక్కడున్న వానరాలకి వచ్చింది యంత్రము కాదు రాక్షసుడే అని తెలిసిపోయింది.",
+    "text": "అందుకని వారు పెద్ద పెద్ద పర్వతాలు, శిలలు, చెట్లు పట్టుకెళ్ళి కుంభకర్ణుడిని కొడుతున్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -138,52 +57,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "అప్పుడు వారు చనిపోయిన వాళ్ళ మీద నుండి, పడిపోయిన వాళ్ళ మీద నుండి దూకుకుంటూ పారిపోయారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 3,
-    "id": "04.03",
-    "text": "కొంతమంది చెట్లు ఎక్కేశారు, కొంతమంది పర్వత గుహలలో దాక్కున్నారు, కొంతమంది సముద్రంలో దూకేశారు, కొంతమంది సేతువు ఎక్కి పారిపోయారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "అప్పుడు అంగదుడు వాళ్ళందరి దగ్గరికి వెళ్ళి అన్నాడు \"ఏరా మీరందరూ ఇలా పారిపోతున్నారు కదా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 5,
-    "id": "04.05",
-    "text": "రేపు ఇంటికి వెళ్ళాక మీ భార్యలు మిమ్మల్ని అడిగితే ఏమి చెబుతారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 6,
-    "id": "04.06",
-    "text": "యుద్ధ భూమిలో కుంభకర్ణుడిని చూసి పారిపోయి వచ్చామని చెబుతార.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 7,
-    "id": "04.07",
-    "text": "మీ పౌరుషం ఏమయ్యింది\" అని అందరినీ వెనక్కి తీసుకువస్తున్నాడు.",
+    "text": "వారు అలా కొడుతుంటే కుంభకర్ణుడు తన శూలాన్ని ఆడిస్తూ ఆ పర్వతాలని, చెట్లని కొట్టాడు, అప్పుడవి చూర్ణమయ్యి కిందపడ్డాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -192,7 +66,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "ఇంతలో నీలుడు, ఋషభుడు, గంధమాధనుడు, సుగ్రీవుడు మొదలైనవారు కుంభకర్ణుడి దగ్గరికి వెళ్ళారు.",
+    "text": "ఆయన తన అరి చేతులతో కొడుతుంటే వేలకు వేల వానరములు మరణిస్తున్నాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -201,7 +75,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "అప్పుడా కుంభకర్ణుడు ఓ ఇద్దరిని చేతితో పట్టుకుని నలిపాడు.",
+    "text": "అలా మరణించిన వానరాలని నోట్లో వేసుకుని నములుతున్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -210,52 +84,7 @@
     "scene": 5,
     "part": 3,
     "id": "05.03",
-    "text": "అప్పుడు వాళ్ళ నోట్లో నుండి, ముక్కులో నుండి, కళ్ళల్లో నుండి, చెవులలో నుండి నెత్తురు వరదలై పారింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "తరువాత వాళ్ళని అవతలికి విసిరేశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "కాని వారు చాలా దేహ ధారుడ్యం, బలము ఉన్నవాళ్లు కనుక కిందపడి మూర్చపోయారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 6,
-    "id": "05.06",
-    "text": "తరువాత ఆ కుంభకర్ణుడు కొంతమందిని పాదాలతో తన్నాడు, కొంతమందిని మోకాళ్ళతో పొడిచాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 7,
-    "id": "05.07",
-    "text": "ఈలోగా సుగ్రీవుడు ఒక పెద్ద పర్వత శిఖరాన్ని తీసుకొని వచ్చి ఆయన మీద పడేశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 8,
-    "id": "05.08",
-    "text": "అది ఆ కుంభకర్ణుడి శరీరానికి తగిలి చూర్ణమయ్యి కిందపడిపోయింది.",
+    "text": "ఆయన అలా నడుస్తూ వెళుతూ ఒక చేతితో 200 మంది వానరాలని పట్టుకొని నోట్లో వేసుకునేవాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -264,79 +93,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "అప్పుడాయన తన శూలంతో సుగ్రీవుడిని కొట్టాడు, ఆ దెబ్బకి సుగ్రీవుడు మూర్చపోయి కిందపడిపోయాడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 2,
-    "id": "06.02",
-    "text": "కాని మళ్ళీ సప్రహ వచ్చి పైకి లెగబోతుంటే కుంభకర్ణుడు అన్నాడు \"సుగ్రీవ!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "నీ జన్మ ఎటువంటిదో నీకు జ్ఞాపకం ఉందా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "నువ్వు ఋక్షరజస్సు కొడుకువి (బ్రహ్మగారి కొడుకైన ఋక్షరజస్సు ఒకనాడు తెలియక శాపం ఉన్న ఒక సరస్సులో స్నానం చేశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "అలా స్నానం చేసేసరికి ఆయన ఒక అప్సరస అయ్యాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 6,
-    "id": "06.06",
-    "text": "అప్పుడు సూర్యుడు, ఇంద్రుడు ఆ అప్సరస యుక్క తలోచెయ్యి పట్టుకున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 7,
-    "id": "06.07",
-    "text": "అప్పుడు వాళ్ళిద్దరి వీర్యము స్కలనమయ్యింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 8,
-    "id": "06.08",
-    "text": "ఇంద్రుడు తన వీర్యాన్ని ఆ అప్సరస యొక్క వాల భాగమునందు విడిచిపెట్టాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 9,
-    "id": "06.09",
-    "text": "సూర్యుడు తన వీర్యాన్ని ఆమె కంఠ భాగమునందు విడిచిపెట్టాడు.",
+    "text": "ఆయన నోట్లోకి వెళ్ళిన వానరాలలో కొంతమంది ఆయన చెవుల నుండి బయటకి దుకేస్తున్నారు, కొంతమంది ఆయన ముక్కులో నుండి బయటకి దుకేస్తున్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -345,7 +102,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "ఆ కంఠ భాగమునుండి సుగ్రీవుడు, వాల భాగమునుండి వాలి పుట్టారు.",
+    "text": "అలా బయటకి వస్తున్న వాళ్ళని కుంభకర్ణుడు మళ్ళి ఏరుకొని తినేస్తున్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -354,7 +111,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "ఆ తరువాత బ్రహ్మగారు ఆ అప్సరసని తీసుకెళ్ళి ఇంకొక తటాకంలో స్నానం చేయించాడు, అప్పుడాయన మళ్ళి తన వానర రూపాన్ని పొందాడు).",
+    "text": "పెద్ద పెద్ద భల్లూకాలని పట్టుకొని కొరుక్కుని తింటున్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -363,16 +120,7 @@
     "scene": 7,
     "part": 3,
     "id": "07.03",
-    "text": "నేను నిన్ను విడిచిపెడతాన\" అని శూలం పట్టుకొని సుగ్రీవుడిని గట్టిగా కొట్టాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "ఆ సుగ్రీవుడు నెత్తురు కక్కుతూ కిందపడిపోయాడు.",
+    "text": "ఆయన శూలం పెట్టి కొడుతుంటే కొన్ని వేల వానరాలు చనిపోయాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -381,7 +129,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "అప్పుడు హనుమంతుడు ఆ కుంభకర్ణుడి చేతిలో ఉన్న శూలాన్ని లాక్కుని తన తొడకేసి కొట్టి వంచేశాడు.",
+    "text": "అక్కడున్న వానరాలకి వచ్చింది యంత్రము కాదు రాక్షసుడే అని తెలిసిపోయింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -390,43 +138,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "అప్పుడా కుంభకర్ణుడు హనుమంతుడిని ఒక దెబ్బ కొట్టాడు, ఆ దెబ్బకి హనుమంతుడు నోటి వెంట రక్తం కక్కుతూ విచలితుడై పడిపోయాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "తరువాత ఆ కుంభకర్ణుడు కిందపడిపోయి ఉన్న సుగ్రీవుడిని తన సంకలో పెట్టుకొని తిరిగి లంకలోకి వెళ్ళిపోదామని బయలుదేరాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "ఆ సమయంలో హనుమంతుడు చూసి అనుకున్నాడు 'నాకు ప్రభువు అయినవాడిని శత్రువు అపహరిస్తుండగా సేవకుడనైన నేను వెళ్ళి ఆయనని రక్షిస్తే,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 5,
-    "id": "08.05",
-    "text": "అది ప్రభువుకి అమర్యాద.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 6,
-    "id": "08.06",
-    "text": "సుగ్రీవుడికే తెలివొస్తుంది, వేచి చూద్దాము \"అని హనుమంతుడు అనుకున్నాడు.",
+    "text": "అప్పుడు వారు చనిపోయిన వాళ్ళ మీద నుండి, పడిపోయిన వాళ్ళ మీద నుండి దూకుకుంటూ పారిపోయారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -435,7 +147,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "ఈలోగా ఆ లంకలో ఉన్న రాక్షస స్త్రీలకి సుగ్రీవుడిని తీసుకువస్తున్న కుంభకర్ణుడిని చూసి చాలా సంతోషం కలిగింది.",
+    "text": "కొంతమంది చెట్లు ఎక్కేశారు, కొంతమంది పర్వత గుహలలో దాక్కున్నారు, కొంతమంది సముద్రంలో దూకేశారు, కొంతమంది సేతువు ఎక్కి పారిపోయారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -444,43 +156,7 @@
     "scene": 9,
     "part": 2,
     "id": "09.02",
-    "text": "వారు అంతఃపుర గోపురముల మీదనుండి, మేడల మీదనుండి చందన ద్రవాలని కుంభకర్ణుడి మీద పోశారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "సువాసనతో కూడిన గంధపు నీళ్ళు మీద పడేసరికి సుగ్రీవుడికి తెలివొచ్చి వెంటనే కుంభకర్ణుడి చెవులు, ముక్కు కొరికేశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 4,
-    "id": "09.04",
-    "text": "తరువాత ఆయన డొక్కల్ని తన గోళ్ళతో చీల్చేశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 5,
-    "id": "09.05",
-    "text": "అలా చీల్చేసేసరికి బాధతో కుంభకర్ణుడు సుగ్రీవుడిని వదిలేశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 6,
-    "id": "09.06",
-    "text": "సుగ్రీవుడు వెంటనే ఆకాశానికి ఎగిరి వెళ్ళిపోయాడు.",
+    "text": "అప్పుడు అంగదుడు వాళ్ళందరి దగ్గరికి వెళ్ళి అన్నాడు \"ఏరా మీరందరూ ఇలా పారిపోతున్నారు కదా,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -489,6 +165,339 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
+    "text": "రేపు ఇంటికి వెళ్ళాక మీ భార్యలు మిమ్మల్ని అడిగితే ఏమి చెబుతారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "యుద్ధ భూమిలో కుంభకర్ణుడిని చూసి పారిపోయి వచ్చామని చెబుతార.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 3,
+    "id": "10.03",
+    "text": "మీ పౌరుషం ఏమయ్యింది\" అని అందరినీ వెనక్కి తీసుకువస్తున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "ఇంతలో నీలుడు, ఋషభుడు, గంధమాధనుడు, సుగ్రీవుడు మొదలైనవారు కుంభకర్ణుడి దగ్గరికి వెళ్ళారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "అప్పుడా కుంభకర్ణుడు ఓ ఇద్దరిని చేతితో పట్టుకుని నలిపాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "అప్పుడు వాళ్ళ నోట్లో నుండి, ముక్కులో నుండి, కళ్ళల్లో నుండి, చెవులలో నుండి నెత్తురు వరదలై పారింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "తరువాత వాళ్ళని అవతలికి విసిరేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 3,
+    "id": "12.03",
+    "text": "కాని వారు చాలా దేహ ధారుడ్యం, బలము ఉన్నవాళ్లు కనుక కిందపడి మూర్చపోయారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "తరువాత ఆ కుంభకర్ణుడు కొంతమందిని పాదాలతో తన్నాడు, కొంతమందిని మోకాళ్ళతో పొడిచాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "ఈలోగా సుగ్రీవుడు ఒక పెద్ద పర్వత శిఖరాన్ని తీసుకొని వచ్చి ఆయన మీద పడేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 3,
+    "id": "13.03",
+    "text": "అది ఆ కుంభకర్ణుడి శరీరానికి తగిలి చూర్ణమయ్యి కిందపడిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "అప్పుడాయన తన శూలంతో సుగ్రీవుడిని కొట్టాడు, ఆ దెబ్బకి సుగ్రీవుడు మూర్చపోయి కిందపడిపోయాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "కాని మళ్ళీ సప్రహ వచ్చి పైకి లెగబోతుంటే కుంభకర్ణుడు అన్నాడు \"సుగ్రీవ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 3,
+    "id": "14.03",
+    "text": "నీ జన్మ ఎటువంటిదో నీకు జ్ఞాపకం ఉందా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "నువ్వు ఋక్షరజస్సు కొడుకువి (బ్రహ్మగారి కొడుకైన ఋక్షరజస్సు ఒకనాడు తెలియక శాపం ఉన్న ఒక సరస్సులో స్నానం చేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "అలా స్నానం చేసేసరికి ఆయన ఒక అప్సరస అయ్యాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 3,
+    "id": "15.03",
+    "text": "అప్పుడు సూర్యుడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "ఇంద్రుడు ఆ అప్సరస యుక్క తలోచెయ్యి పట్టుకున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "అప్పుడు వాళ్ళిద్దరి వీర్యము స్కలనమయ్యింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 3,
+    "id": "16.03",
+    "text": "ఇంద్రుడు తన వీర్యాన్ని ఆ అప్సరస యొక్క వాల భాగమునందు విడిచిపెట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 4,
+    "id": "16.04",
+    "text": "సూర్యుడు తన వీర్యాన్ని ఆమె కంఠ భాగమునందు విడిచిపెట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "ఆ కంఠ భాగమునుండి సుగ్రీవుడు, వాల భాగమునుండి వాలి పుట్టారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "ఆ తరువాత బ్రహ్మగారు ఆ అప్సరసని తీసుకెళ్ళి ఇంకొక తటాకంలో స్నానం చేయించాడు, అప్పుడాయన మళ్ళి తన వానర రూపాన్ని పొందాడు).",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "నేను నిన్ను విడిచిపెడతాన\" అని శూలం పట్టుకొని సుగ్రీవుడిని గట్టిగా కొట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "ఆ సుగ్రీవుడు నెత్తురు కక్కుతూ కిందపడిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "అప్పుడు హనుమంతుడు ఆ కుంభకర్ణుడి చేతిలో ఉన్న శూలాన్ని లాక్కుని తన తొడకేసి కొట్టి వంచేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "అప్పుడా కుంభకర్ణుడు హనుమంతుడిని ఒక దెబ్బ కొట్టాడు, ఆ దెబ్బకి హనుమంతుడు నోటి వెంట రక్తం కక్కుతూ విచలితుడై పడిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "తరువాత ఆ కుంభకర్ణుడు కిందపడిపోయి ఉన్న సుగ్రీవుడిని తన సంకలో పెట్టుకొని తిరిగి లంకలోకి వెళ్ళిపోదామని బయలుదేరాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "ఆ సమయంలో హనుమంతుడు చూసి అనుకున్నాడు 'నాకు ప్రభువు అయినవాడిని శత్రువు అపహరిస్తుండగా సేవకుడనైన నేను వెళ్ళి ఆయనని రక్షిస్తే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "అది ప్రభువుకి అమర్యాద.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 3,
+    "id": "21.03",
+    "text": "సుగ్రీవుడికే తెలివొస్తుంది, వేచి చూద్దాము \"అని హనుమంతుడు అనుకున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "ఈలోగా ఆ లంకలో ఉన్న రాక్షస స్త్రీలకి సుగ్రీవుడిని తీసుకువస్తున్న కుంభకర్ణుడిని చూసి చాలా సంతోషం కలిగింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "వారు అంతఃపుర గోపురముల మీదనుండి, మేడల మీదనుండి చందన ద్రవాలని కుంభకర్ణుడి మీద పోశారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 2,
+    "id": "23.02",
+    "text": "సువాసనతో కూడిన గంధపు నీళ్ళు మీద పడేసరికి సుగ్రీవుడికి తెలివొచ్చి వెంటనే కుంభకర్ణుడి చెవులు, ముక్కు కొరికేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "తరువాత ఆయన డొక్కల్ని తన గోళ్ళతో చీల్చేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 2,
+    "id": "24.02",
+    "text": "అలా చీల్చేసేసరికి బాధతో కుంభకర్ణుడు సుగ్రీవుడిని వదిలేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 3,
+    "id": "24.03",
+    "text": "సుగ్రీవుడు వెంటనే ఆకాశానికి ఎగిరి వెళ్ళిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
     "text": "తర్వాత చూద్దాం — కుంభకర్ణ వధ.",
     "complete_verse_block": false,
     "needs_timing_review": false,

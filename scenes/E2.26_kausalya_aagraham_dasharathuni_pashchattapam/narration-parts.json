@@ -45,55 +45,10 @@
     "seconds": null
   },
   {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "ఎందుకంటే అప్పటిదాకా తమ నడకలని చూసి అందరూ 'హంసనడక' అంటుంటే అవి ఆనందపడేవి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "కాని సీతమ్మ అరణ్యానికి వచ్చాక ఆ హంసలన్నీ నడకలు మానేసి ఒక మూల కూర్చున్నాయంట,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 5,
-    "id": "03.05",
-    "text": "'మీరు ఎందుకు నడవడం లేదు' అని ఎవరన్నా అడిగితే, 'అవి మాకన్నా అందంగా నడిచే ఆవిడ కొత్తగా అరణ్యానికి వచ్చింది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 6,
-    "id": "03.06",
-    "text": "ఆమె నడక ముందు మా నడక ఏపాటిది' అని నడవడం మానేసి ఒక మూలను కూర్చున్నాయంట,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 7,
-    "id": "03.07",
-    "text": "అలా నడిచిందయ్యా సీతమ్మ\" అని సుమంత్రుడు అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "అప్పుడు కౌసల్య \"ఒక భర్త చేత, కొడుకు చేత, జ్ఞాతుల చేత రక్షింపబడాలి, భర్తవై కూడా నువ్వు నాకు రక్షణ ఇవ్వలేదు,",
+    "text": "ఎందుకంటే అప్పటిదాకా తమ నడకలని చూసి అందరూ 'హంసనడక' అంటుంటే అవి ఆనందపడేవి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -102,7 +57,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "నాకు ఉన్న ఒకే ఒక్క కొడుకుని దగ్గర లేకుండా చేసేశావు, నాకు జ్ఞాతి అన్నవాడెవరూ దగ్గరలో లేరు,",
+    "text": "కాని సీతమ్మ అరణ్యానికి వచ్చాక ఆ హంసలన్నీ నడకలు మానేసి ఒక మూల కూర్చున్నాయంట,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -111,16 +66,7 @@
     "scene": 4,
     "part": 3,
     "id": "04.03",
-    "text": "నువ్వు చేసిన ఈ దారుణమైన పని వలన నేను నా కొడుకుకి దూరమయ్యాను, కాబట్టి నేను దిక్కులేని చావైనా చస్తాను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "లేకపోతే రాముడి దగ్గరికైనా వెళతాను, ఇక నేను నీ ముఖం చూడను, నీ దగ్గర ఉండను\" అని పలికింది.",
+    "text": "'మీరు ఎందుకు నడవడం లేదు' అని ఎవరన్నా అడిగితే,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -129,7 +75,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "కౌసల్య మాటలు విన్న దశరథుడు కృంగిపోయి ఇలా అన్నాడు — \"నేను దౌర్భాగ్యుడనే కౌసల్యా, నేను ఎందుకూ పనికిరాని వాడిని, దీనుడిని,",
+    "text": "'అవి మాకన్నా అందంగా నడిచే ఆవిడ కొత్తగా అరణ్యానికి వచ్చింది,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -138,7 +84,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "నేను ధర్మాత్ముడనని కాని, మిమ్మల్ని సరిగ్గా ఒక్కనాడైనా చూశానని కాని నేను అనను, నా కంటికి నిద్ర రావడం లేదు,",
+    "text": "ఆమె నడక ముందు మా నడక ఏపాటిది' అని నడవడం మానేసి ఒక మూలను కూర్చున్నాయంట,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -147,34 +93,7 @@
     "scene": 5,
     "part": 3,
     "id": "05.03",
-    "text": "నోటికి తిండి సహించడం లేదు, నన్ను ఓదార్చే వారు లేరు, నేను ఎంత బెంగ పెట్టుకున్నానో నీకేమి తెలుసు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "ఓదారుస్తావని కదా నీ దగ్గరికి వచ్చాను, పరమ సాత్వికమైన ప్రవర్తన కలిగిన నువ్వు కూడా నన్ను ఇలా పొడిచేస్తే,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "నేను కూడా ఈ క్షణంలోనే ప్రాణాలు విడిచిపెట్టేస్తాను కౌసల్యా, నువ్వైనా కనీసం ఇలా మాట్లాడడం మానవా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 6,
-    "id": "05.06",
-    "text": "పాదములు పట్టుకుంటాను\" అని రెండు చేతులతో నమస్కారం చేశాడు.",
+    "text": "అలా నడిచిందయ్యా సీతమ్మ\" అని సుమంత్రుడు అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -183,8 +102,8 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "న ఏషా హి సా స్త్రీ భవతి శ్లాఘనీయేన ధీమతా । ఉభయోః లోకయోః వీర పత్యా యా సంప్రసాద్యతే ॥",
-    "complete_verse_block": true,
+    "text": "అప్పుడు కౌసల్య \"ఒక భర్త చేత, కొడుకు చేత, జ్ఞాతుల చేత రక్షింపబడాలి, భర్తవై కూడా నువ్వు నాకు రక్షణ ఇవ్వలేదు,",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -192,7 +111,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "కౌసల్య పరుగు పరుగున వచ్చి ఆయన పాదాల వద్ద కూర్చుని,",
+    "text": "నాకు ఉన్న ఒకే ఒక్క కొడుకుని దగ్గర లేకుండా చేసేశావు, నాకు జ్ఞాతి అన్నవాడెవరూ దగ్గరలో లేరు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -201,25 +120,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "ఆయన రెండు చేతులు తన తల మీద పెట్టుకుని \"మహా ధర్మాత్ముడైన భర్త,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 3,
-    "id": "07.03",
-    "text": "భార్య దగ్గర ఇలా రెండు చేతులు పెట్టి నిన్ను బతిమాలుతున్నాను అన్నాడంటే, ఆ జీవితంలో అటువంటి దుర్దినం ఇంక వేరొకటి ఉండదు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "కొడుకు వెళ్ళిపోయాడన్న ఆక్రోశంలో ఇలా మాట్లాడాను, నన్ను క్షమించు\" అని ఆయన కాళ్ళ మీద పడిపోయింది.",
+    "text": "నువ్వు చేసిన ఈ దారుణమైన పని వలన నేను నా కొడుకుకి దూరమయ్యాను,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -228,7 +129,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "తరువాత కౌసల్యాదేవి దశరథుడిని తీసుకెళ్ళి మంచం మీద పడుకోబెట్టింది, అప్పుడాయన \"కౌసల్య, కౌసల్య\" అని కలవరించగా కౌసల్య,",
+    "text": "కాబట్టి నేను దిక్కులేని చావైనా చస్తాను, లేకపోతే రాముడి దగ్గరికైనా వెళతాను, ఇక నేను నీ ముఖం చూడను,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -237,7 +138,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "సుమిత్ర ఇద్దరూ వచ్చి ఆయన పక్కన కూర్చున్నారు.",
+    "text": "నీ దగ్గర ఉండను\" అని పలికింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -246,7 +147,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "దశరథుడు \"నేను ఎందుకింత బాధ పడుతున్నానో నాకు ఇప్పుడు అర్థమయ్యింది, 'పాలు తాగుతున్న పిల్లలకి,",
+    "text": "కౌసల్య మాటలు విన్న దశరథుడు కృంగిపోయి ఇలా అన్నాడు — \"నేను దౌర్భాగ్యుడనే కౌసల్యా, నేను ఎందుకూ పనికిరాని వాడిని, దీనుడిని,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -255,16 +156,7 @@
     "scene": 9,
     "part": 2,
     "id": "09.02",
-    "text": "తల్లుల యొక్క స్తన్యములు కత్తి పెట్టి నరికేసుంటాను, అందుకని నేను ఇంత బాధ పడుతున్నాను' అన్నావు కదా, నీది కాదు దోషం,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "నాకు ఇప్పుడు జ్ఞాపకం వస్తుంది, నీకు ఒక విషయం చెప్తాను జాగ్రత్తగా విను\" అన్నాడు.",
+    "text": "నేను ధర్మాత్ముడనని కాని, మిమ్మల్ని సరిగ్గా ఒక్కనాడైనా చూశానని కాని నేను అనను,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -273,6 +165,159 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
+    "text": "నా కంటికి నిద్ర రావడం లేదు, నోటికి తిండి సహించడం లేదు, నన్ను ఓదార్చే వారు లేరు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "నేను ఎంత బెంగ పెట్టుకున్నానో నీకేమి తెలుసు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 3,
+    "id": "10.03",
+    "text": "ఓదారుస్తావని కదా నీ దగ్గరికి వచ్చాను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "పరమ సాత్వికమైన ప్రవర్తన కలిగిన నువ్వు కూడా నన్ను ఇలా పొడిచేస్తే, నేను కూడా ఈ క్షణంలోనే ప్రాణాలు విడిచిపెట్టేస్తాను కౌసల్యా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "నువ్వైనా కనీసం ఇలా మాట్లాడడం మానవా, పాదములు పట్టుకుంటాను\" అని రెండు చేతులతో నమస్కారం చేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "న ఏషా హి సా స్త్రీ భవతి శ్లాఘనీయేన ధీమతా । ఉభయోః లోకయోః వీర పత్యా యా సంప్రసాద్యతే ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "కౌసల్య పరుగు పరుగున వచ్చి ఆయన పాదాల వద్ద కూర్చుని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "ఆయన రెండు చేతులు తన తల మీద పెట్టుకుని \"మహా ధర్మాత్ముడైన భర్త,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 3,
+    "id": "13.03",
+    "text": "భార్య దగ్గర ఇలా రెండు చేతులు పెట్టి నిన్ను బతిమాలుతున్నాను అన్నాడంటే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "ఆ జీవితంలో అటువంటి దుర్దినం ఇంక వేరొకటి ఉండదు, కొడుకు వెళ్ళిపోయాడన్న ఆక్రోశంలో ఇలా మాట్లాడాను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "నన్ను క్షమించు\" అని ఆయన కాళ్ళ మీద పడిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "తరువాత కౌసల్యాదేవి దశరథుడిని తీసుకెళ్ళి మంచం మీద పడుకోబెట్టింది, అప్పుడాయన \"కౌసల్య, కౌసల్య\" అని కలవరించగా కౌసల్య,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "సుమిత్ర ఇద్దరూ వచ్చి ఆయన పక్కన కూర్చున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "దశరథుడు \"నేను ఎందుకింత బాధ పడుతున్నానో నాకు ఇప్పుడు అర్థమయ్యింది, 'పాలు తాగుతున్న పిల్లలకి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "తల్లుల యొక్క స్తన్యములు కత్తి పెట్టి నరికేసుంటాను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "అందుకని నేను ఇంత బాధ పడుతున్నాను' అన్నావు కదా, నీది కాదు దోషం, నాకు ఇప్పుడు జ్ఞాపకం వస్తుంది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "నీకు ఒక విషయం చెప్తాను జాగ్రత్తగా విను\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
     "text": "తర్వాత చూద్దాం — దశరథుడు గుర్తు చేసుకుంటున్న ఆ పాత సంఘటన ఏంటో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

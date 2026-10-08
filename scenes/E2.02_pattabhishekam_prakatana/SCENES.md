@@ -74,9 +74,9 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 8 — Scene 08
 
-**Visual:** [Dasharatha Visual Lock] alone at night, looking up anxiously at a sky with a visible comet/unusual celestial phenomenon, then at his own aged hands/reflection — the specific catalyst for his decision.
+**Visual:** [Dasharatha Visual Lock] alone at night, looking up anxiously at a sky with a visible comet, small stones falling like rain in the distance; then at his own aged hands.
 
-**Story:** ఒకనాడు దశరథుడు, "నాకు అంతరిక్షంలో మరియు భూమి మీద దురుత్తములు (తోకచుక్కలు, గులకరాళ్ళవర్షం మొదలైనవి) కనిపిస్తున్నాయి, నాకు వృద్ధాప్యం వస్తోంది, ఇంక నేను ఎంతోకాలం బ్రతకను, అందుకని నాకు ప్రియాతిప్రియమైన, సకలగుణాభిరాముడికి తొందరగా యువరాజ్య పట్టాభిషేకం చేసేస్తే ప్రజలందరూ సంతోషంగా ఉంటారు" అని ఆలోచించి —
+**Story:** ఒకనాడు దశరథుడు, "నాకు అంతరిక్షంలో మరియు భూమి మీద దురుత్తములు (తోకచుక్కలు, గులకరాళ్ళవర్షం మొదలైనవి) కనిపిస్తున్నాయి, నాకు వృద్ధాప్యం వస్తోంది,
 
 **Image:** Pending creation.
 
@@ -84,15 +84,31 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 9 — Scene 09
 
-**Visual:** [Dasharatha Visual Lock] convening a large, hastily-assembled court — ministers, visiting kings, officials, and common citizens all gathered; note deliberately who is MISSING from this crowd.
+**Visual:** Dasharatha's face settling into resolve — a faint image of [Rama Visual Lock] crowned in his mind.
 
-**Story:** దశరథ మహారాజు తన మంత్రులని, ఇతర రాజులని, ప్రభుత్వ ఉద్యోగులని, జానపదులని, అయోధ్యా పట్టణవాసులని మొదలైనవారందరిని పిలిచి పెద్ద సమావేశం ఏర్పాటు చేశారు. రాముడికి తొందర తొందరగా యువరాజ్య పట్టాభిషేకం చెయ్యాలనే తొందరలో కైకేయ రాజుకి, జనక మహారాజుకి కబురు పంపలేదు.
+**Story:** ఇంక నేను ఎంతోకాలం బ్రతకను, అందుకని నాకు ప్రియాతిప్రియమైన, సకలగుణాభిరాముడికి తొందరగా యువరాజ్య పట్టాభిషేకం చేసేస్తే ప్రజలందరూ సంతోషంగా ఉంటారు" అని ఆలోచించి —
+
+**Image:** Pending creation.
+
+## 10 — Scene 10
+
+**Visual:** [Dasharatha Visual Lock] convening a large, hastily assembled court — ministers, visiting kings, officials, villagers and citizens streaming in.
+
+**Story:** దశరథ మహారాజు తన మంత్రులని, ఇతర రాజులని, ప్రభుత్వ ఉద్యోగులని, జానపదులని, అయోధ్యా పట్టణవాసులని మొదలైనవారందరిని పిలిచి పెద్ద సమావేశం ఏర్పాటు చేశారు.
 
 **Image:** Pending creation.
 
 **Source note:** This deliberate omission — NOT informing Kaikeyi's father or Janaka, purely out of haste — is a small but real structural detail that will matter later; the visual composition of the assembled crowd should read as large and complete-feeling, so the *specific*, pointed absence only becomes clear through narration, not through an obviously empty seat.
 
-## 10 — Scene 10
+## 11 — Scene 11
+
+**Visual:** Two conspicuously empty seats of honour among the kings — Kekaya and Mithila were not sent for.
+
+**Story:** రాముడికి తొందర తొందరగా యువరాజ్య పట్టాభిషేకం చెయ్యాలనే తొందరలో కైకేయ రాజుకి, జనక మహారాజుకి కబురు పంపలేదు.
+
+**Image:** Pending creation.
+
+## 12 — Scene 12
 
 **Visual:** [Dasharatha Visual Lock] seated, the full assembly settling into their assigned places, a formal court atmosphere.
 
@@ -100,7 +116,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 11 — Scene 11
+## 13 — Scene 13
 
 **Visual:** On-screen verse text.
 
@@ -110,45 +126,101 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — Dasharatha to the assembly (p. 109): "This body, which has moved for the good of the whole world, has grown old in the shade of the white royal umbrella."
 
-## 12 — Scene 12
+## 14 — Scene 14
 
-**Visual:** [Dasharatha Visual Lock] speaking with genuine weariness, gesturing to his own aged form, then to the throne itself.
+**Visual:** [Dasharatha Visual Lock] speaking with genuine weariness beneath the white royal umbrella, gesturing to his own aged form.
 
-**Story:** "ఈ తెల్లటి గొడుగు కింద కొన్ని వేల సంవత్సరాల నుండి కూర్చున్నాను, ఈ తెల్లటి గొడుగు కింద కూర్చుని ఉండగానే నా శరీరానికి వృద్ధాప్యం వచ్చేసింది. ఇప్పుడు నా శరీరం విశ్రాంతిని కోరుకుంటుంది, అందుకని మూడులోకాలని శాసించగలిగే శక్తివంతుడైన నా పెద్ద కుమారుడు రాముడికి యువరాజ్య పట్టాభిషేకం చేద్దామని అనుకుంటున్నాను."
+**Story:** "ఈ తెల్లటి గొడుగు కింద కొన్ని వేల సంవత్సరాల నుండి కూర్చున్నాను, ఈ తెల్లటి గొడుగు కింద కూర్చుని ఉండగానే నా శరీరానికి వృద్ధాప్యం వచ్చేసింది.
 
 **Image:** Pending creation.
 
-## 13 — Scene 13
+## 15 — Scene 15
 
-**Visual:** [Dasharatha Visual Lock] shown being unusually, deliberately self-questioning for a reigning monarch — genuinely inviting scrutiny of his own judgment rather than simply announcing a decree.
+**Visual:** Dasharatha gesturing to the throne, then naming Rama; the assembly listening intently.
 
-**Story:** "కాని నా అంతట నేను తీసుకున్న నిర్ణయం కచ్చితంగా ఉండకపోవచ్చు, రాముడు నా పెద్ద కుమారుడన్న పక్షపాత బుద్ధితో నేను ఈ నిర్ణయం తీసుకొని ఉండవచ్చు, నేను న్యాయాన్యాయ విచారణ చేసి ఉండకపోవచ్చు. ఈ సింహాసనం మీద కూర్చునేవాడు ఈ రాజ్యాన్ని ధర్మబద్ధంగా పాలించాలి, ప్రజలని తన బిడ్డలుగా చూసుకోవాలి, రాముడు పట్టాభిషేకానికి అర్హుడు అని నేను అనుకుంటున్నాను, కాని రాముడు అలాంటివాడో కాదో మీరు విచారించండి, నిష్పక్షపాతంగా రాగద్వేషాలు లేకుండా ఆలోచించి నిర్ణయించండి, మీరందరూ కూడా రాముడు పట్టాభిషేకానికి అర్హుడు అని అనుకుంటే పట్టాభిషేకం చేస్తాను, మీరందరూ బాగా ఆలోచించి మీ నిర్ణయాన్ని చెప్పండి" అన్నాడు.
+**Story:** ఇప్పుడు నా శరీరం విశ్రాంతిని కోరుకుంటుంది, అందుకని మూడులోకాలని శాసించగలిగే శక్తివంతుడైన నా పెద్ద కుమారుడు రాముడికి యువరాజ్య పట్టాభిషేకం చేద్దామని అనుకుంటున్నాను."
+
+**Image:** Pending creation.
+
+## 16 — Scene 16
+
+**Visual:** [Dasharatha Visual Lock] unusually self-questioning for a reigning monarch — perhaps I am partial to my eldest son.
+
+**Story:** "కాని నా అంతట నేను తీసుకున్న నిర్ణయం కచ్చితంగా ఉండకపోవచ్చు, రాముడు నా పెద్ద కుమారుడన్న పక్షపాత బుద్ధితో నేను ఈ నిర్ణయం తీసుకొని ఉండవచ్చు, నేను న్యాయాన్యాయ విచారణ చేసి ఉండకపోవచ్చు.
 
 **Image:** Pending creation.
 
 **Source note:** This is a striking act of genuine democratic humility from an absolute monarch — worth letting the pacing sit with it; Dasharatha isn't performing consultation, he's genuinely inviting the possibility of "no."
 
-## 14 — Scene 14
+## 17 — Scene 17
 
-**Visual:** Wide shot: the ENTIRE assembly erupting spontaneously in unanimous joy at once — a wall of sound and motion, the palace itself seeming to shake with the collective shout.
+**Visual:** Dasharatha describing what the throne demands; the assembly's thoughtful faces.
 
-**Story:** అక్కడున్నవాళ్ళందరూ ఒకేసారి సంతోషంతో గట్టిగా — "దశరథ మహారాజా! మీరు చెప్పిన ప్రతిపాదనకి మేము అంగీకరిస్తున్నాము, వెంటనే రాముడికి యువరాజ్య పట్టాభిషేకం చేయండి. రాముడు పట్టాభిషేకం చేయించుకొని, ఏనుగు మీద ఎక్కి, తెల్లటి గొడుగు కింద ఊరేగుతుంటే ఎప్పుడు చూస్తామా అని మా మనసులు ఉన్నాయి" అని వారందరూ అరిచిన అరుపుకి అక్కడున్న అంతఃపుర ప్రాకారం కదిలిపోయిందా అన్నట్టుగా ఉంది.
+**Story:** ఈ సింహాసనం మీద కూర్చునేవాడు ఈ రాజ్యాన్ని ధర్మబద్ధంగా పాలించాలి, ప్రజలని తన బిడ్డలుగా చూసుకోవాలి, రాముడు పట్టాభిషేకానికి అర్హుడు అని నేను అనుకుంటున్నాను, కాని రాముడు అలాంటివాడో కాదో మీరు విచారించండి,
+
+**Image:** Pending creation.
+
+## 18 — Scene 18
+
+**Visual:** Dasharatha opening his hands to the assembly — judge without favour and tell me.
+
+**Story:** నిష్పక్షపాతంగా రాగద్వేషాలు లేకుండా ఆలోచించి నిర్ణయించండి, మీరందరూ కూడా రాముడు పట్టాభిషేకానికి అర్హుడు అని అనుకుంటే పట్టాభిషేకం చేస్తాను, మీరందరూ బాగా ఆలోచించి మీ నిర్ణయాన్ని చెప్పండి" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 19 — Scene 19
+
+**Visual:** Wide shot: the ENTIRE assembly erupting at once in unanimous joy.
+
+**Story:** అక్కడున్నవాళ్ళందరూ ఒకేసారి సంతోషంతో గట్టిగా — "దశరథ మహారాజా! మీరు చెప్పిన ప్రతిపాదనకి మేము అంగీకరిస్తున్నాము, వెంటనే రాముడికి యువరాజ్య పట్టాభిషేకం చేయండి.
 
 **Image:** Pending creation.
 
 **Source note:** The "the palace walls seemed to shake" image is a vivid, specific hyperbole from the text — worth a genuinely large-scale sound/visual treatment, the loudest, most unified crowd reaction in the series so far.
 
-## 15 — Scene 15
+## 20 — Scene 20
 
-**Visual:** [Dasharatha Visual Lock] moved, asking a pointed follow-up question directly to the crowd — genuinely testing whether their enthusiasm reflects real satisfaction with his own rule, not just excitement about Rama.
+**Visual:** A wall of sound and motion — the crowd imagining Rama on the royal elephant beneath the white umbrella; the palace walls seeming to shake.
 
-**Story:** ఈ మాటలు విన్న దశరథుడు సంతోషించి, వాళ్ళని ఒక మాట అడిగాడు, అది ఏమిటంటే — "కొన్ని వేల సంవత్సరములుగా మీ అందరినీ కన్నబిడ్డలుగా చూసుకుంటూ, ధర్మం తప్పకుండా పరిపాలన చేశాను, ఇవ్వాళ నేను రాముడికి యువరాజ్య పట్టాభిషేకం చేస్తానంటే, మీలో ఒక్కరు కూడా 'దశరథా! ఇప్పుడు మీ వలన వచ్చిన లోటు ఏమిటి, కొన్ని వేల సంవత్సరాల నుండి ధర్మం తప్పకుండా మమ్మల్ని తండ్రిలా చూసుకున్నావు' అని ఒక్కడు అనలేదు, 'నా కొడుకుకి యువరాజ్య పట్టాభిషేకం చేస్తే చూడాలని ఉంది' అన్నారు, నేను అన్నానని మీరు అన్నారా — నా పాలనలో లోపాలు కనబడ్డాయా, నాకన్నా గొప్ప గుణములు రాముడిలో కనబడ్డాయా, రాముడు మీకు యువరాజుగా ఎందుకు కావాలో చెప్పండి" అని అన్నాడు.
+**Story:** రాముడు పట్టాభిషేకం చేయించుకొని, ఏనుగు మీద ఎక్కి, తెల్లటి గొడుగు కింద ఊరేగుతుంటే ఎప్పుడు చూస్తామా అని మా మనసులు ఉన్నాయి" అని వారందరూ అరిచిన అరుపుకి అక్కడున్న అంతఃపుర ప్రాకారం కదిలిపోయిందా అన్నట్టుగా ఉంది.
+
+**Image:** Pending creation.
+
+## 21 — Scene 21
+
+**Visual:** [Dasharatha Visual Lock] moved, raising a hand for quiet and beginning a pointed question.
+
+**Story:** ఈ మాటలు విన్న దశరథుడు సంతోషించి, వాళ్ళని ఒక మాట అడిగాడు, అది ఏమిటంటే — "కొన్ని వేల సంవత్సరములుగా మీ అందరినీ కన్నబిడ్డలుగా చూసుకుంటూ,
 
 **Image:** Pending creation.
 
 **Source note:** This is Dasharatha's second act of genuine self-scrutiny in this same scene — he isn't fishing for compliments, he's checking whether the crowd's answer is really about Rama's merit or an implicit critique of his own reign; a subtly insecure, very human moment from an otherwise commanding king.
 
-## 16 — Scene 16
+## 22 — Scene 22
+
+**Visual:** Dasharatha, half-smiling, half-hurt — not one of you said "what have we lacked under you?"
+
+**Story:** ధర్మం తప్పకుండా పరిపాలన చేశాను, ఇవ్వాళ నేను రాముడికి యువరాజ్య పట్టాభిషేకం చేస్తానంటే, మీలో ఒక్కరు కూడా 'దశరథా! ఇప్పుడు మీ వలన వచ్చిన లోటు ఏమిటి,
+
+**Image:** Pending creation.
+
+## 23 — Scene 23
+
+**Visual:** The crowd exchanging glances as he presses the point.
+
+**Story:** కొన్ని వేల సంవత్సరాల నుండి ధర్మం తప్పకుండా మమ్మల్ని తండ్రిలా చూసుకున్నావు' అని ఒక్కడు అనలేదు, 'నా కొడుకుకి యువరాజ్య పట్టాభిషేకం చేస్తే చూడాలని ఉంది' అన్నారు,
+
+**Image:** Pending creation.
+
+## 24 — Scene 24
+
+**Visual:** Dasharatha leaning forward on the throne — tell me why you want Rama.
+
+**Story:** నేను అన్నానని మీరు అన్నారా — నా పాలనలో లోపాలు కనబడ్డాయా, నాకన్నా గొప్ప గుణములు రాముడిలో కనబడ్డాయా, రాముడు మీకు యువరాజుగా ఎందుకు కావాలో చెప్పండి" అని అన్నాడు.
+
+**Image:** Pending creation.
+
+## 25 — Scene 25
 
 **Visual:** On-screen verse text.
 
@@ -158,37 +230,85 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — the assembly's reply: Rama is a righteous man devoted to truth and dharma, and dharma itself, together with prosperity, flows from Rama.
 
-## 17 — Scene 17
+## 26 — Scene 26
 
-**Visual:** [Generic crowd Visual Lock] several voices/individuals stepping forward in turn, each offering a distinct, specific reason — a structured montage of testimonials rather than a single vague cheer.
+**Visual:** [Generic crowd Visual Lock] one elder stepping forward — Rama is a man of truth and dharma.
 
-**Story:** "ఈ సమస్త లోకములో రాముడు సత్పురుషుడు, ఆయనకి సత్యము-ధర్మము కావాలి, అన్నిటికీమించి ధర్మాన్ని లక్ష్మిని కలిపి ఉంచడం రాముడికి తెలుసు" అన్నారు. అలాగే, "రాముడిని చూస్తే పౌర్ణమి నాటి చంద్రుడిని చూసినంత ఆహ్లాదంగా ఉంటుంది, భూమికి ఎంత ఓర్పు ఉందో రాముడికి అంత ఓర్పు ఉంది, బృహస్పతికి ఎంత బుద్ధి ఉందో రాముడికి అంత బుద్ధి ఉంది, ఇంద్రుడికి ఎంత శక్తి ఉందో రాముడికి అంత శక్తి ఉంది, ఇన్ని గుణములు ఉన్నాయి కనుక మేము రాముడిని రాజుగా కోరుకుంటున్నాము."
+**Story:** "ఈ సమస్త లోకములో రాముడు సత్పురుషుడు, ఆయనకి సత్యము-ధర్మము కావాలి, అన్నిటికీమించి ధర్మాన్ని లక్ష్మిని కలిపి ఉంచడం రాముడికి తెలుసు" అన్నారు.
 
 **Image:** Pending creation.
 
 **Source note:** These cosmic-comparison similes (moon, earth's patience, Brihaspati's wisdom, Indra's power) are formal praise-poetry conventions — treat the on-screen delivery with some ceremonial weight rather than casual crowd chatter.
 
-## 18 — Scene 18
+## 27 — Scene 27
 
-**Visual:** Another testimonial, more specific and personal — describing Rama's particular habit as a victorious returning warrior, greeting ordinary citizens himself rather than waiting to be greeted.
+**Visual:** A second voice — like the full moon, patient as the earth; soft cosmic insets for each simile.
 
-**Story:** అలాగే — "రాముడు లక్ష్మణుడితో కలిసి యుద్ధానికి వెళితే విజయం చేపట్టకుండా రాముడు రాడు, రాముడు చాలా కాలం యుద్ధం చేసి అయోధ్యకి తిరిగొస్తే, లోపలికి వెళ్ళి సంతోషంగా విశ్రాంతిగా కాలం గడపడు, ఆయన స్నానం చేసి వెంటనే ఏనుగో, రథమో ఎక్కి అయోధ్యా ప్రజల దగ్గరికి వచ్చి, ముందు ఆయనే పలకరించి, కుశల ప్రశ్నలు వేస్తాడు, ప్రతి ఇంటిముందు నుండి వెళుతూ, కనపడ్డ వారందరిని ముందు తాను పిలిచి ప్రశ్నిస్తాడు — ఎవరయ్యా ఇలా ప్రశ్నించే రాజు? అటువంటి గుణం నీ కుమారుడిలో ఉంది, అందుకని ఆయన మాకు యువరాజుగా కావాలి" అని అన్నారు.
+**Story:** అలాగే, "రాముడిని చూస్తే పౌర్ణమి నాటి చంద్రుడిని చూసినంత ఆహ్లాదంగా ఉంటుంది, భూమికి ఎంత ఓర్పు ఉందో రాముడికి అంత ఓర్పు ఉంది,
+
+**Image:** Pending creation.
+
+## 28 — Scene 28
+
+**Visual:** A third — wise as Brihaspati, strong as Indra; the crowd murmuring agreement.
+
+**Story:** బృహస్పతికి ఎంత బుద్ధి ఉందో రాముడికి అంత బుద్ధి ఉంది, ఇంద్రుడికి ఎంత శక్తి ఉందో రాముడికి అంత శక్తి ఉంది, ఇన్ని గుణములు ఉన్నాయి కనుక మేము రాముడిని రాజుగా కోరుకుంటున్నాము."
+
+**Image:** Pending creation.
+
+## 29 — Scene 29
+
+**Visual:** Testimonial inset: [Rama and Lakshmana Visual Locks] returning victorious from a campaign.
+
+**Story:** అలాగే — "రాముడు లక్ష్మణుడితో కలిసి యుద్ధానికి వెళితే విజయం చేపట్టకుండా రాముడు రాడు, రాముడు చాలా కాలం యుద్ధం చేసి అయోధ్యకి తిరిగొస్తే, లోపలికి వెళ్ళి సంతోషంగా విశ్రాంతిగా కాలం గడపడు,
 
 **Image:** Pending creation.
 
 **Source note:** This concrete, specific anecdote (returning from war and greeting citizens before resting) is a much stronger piece of testimony than generic praise — matches and confirms the "greets everyone first" detail already established about Rama's character in E2.01; a deliberate structural echo.
 
-## 19 — Scene 19
+## 30 — Scene 30
 
-**Visual:** Final testimonial, the most emotionally intimate — describing ordinary townspeople (women, children, common folk with no personal connection to Rama) praying daily for his wellbeing without being asked, out of pure devotion.
+**Visual:** Rama, freshly bathed, riding out on an elephant straight to the people, greeting them first.
 
-**Story:** అలాగే — "ప్రజలు సుఖంగా ఉంటే, తాను సంతోషించినట్టు సంతోషిస్తాడు, మమ్మల్ని ఎంతో ప్రేమగా చూసుకుంటాడు (ప్రేమ అంటే — తాను అనుభవించక పోయినా తనవారు అనుభవిస్తుంటే, వారు అనుభవించిన ఆనందాన్ని చూసి తాను ఆనందపడడం), ప్రజలకి ఏదన్నా కష్టం వచ్చి పోయిన తరువాత కూడా రాముడు మాత్రం 'ప్రజలకు ఈ ఇంతటి కష్టము వచ్చినదే' అని తలుచుకుని బాధపడుతూనే ఉంటాడు, అసలు ఏమీ తెలియనటువంటి జానపదులు, స్త్రీలు, పిల్లలు, రాముడికి ఏమీ కానటువంటి వారు రోజూ గుడిలో రాముడు ఆరోగ్యంగా ఉండాలని, ఆయన మమ్మల్ని చక్కగా చూడాలి, ఆయన సంతోషంగా ఉండాలని ప్రార్థిస్తుంటారు, అందుకని రాముడు మాకు రాజుగా కావాలి దశరథ" అన్నారు వాళ్ళందరూ.
+**Story:** ఆయన స్నానం చేసి వెంటనే ఏనుగో, రథమో ఎక్కి అయోధ్యా ప్రజల దగ్గరికి వచ్చి, ముందు ఆయనే పలకరించి, కుశల ప్రశ్నలు వేస్తాడు, ప్రతి ఇంటిముందు నుండి వెళుతూ,
+
+**Image:** Pending creation.
+
+## 31 — Scene 31
+
+**Visual:** Rama stopping before house after house, asking after each family; back to the speaker before the king.
+
+**Story:** కనపడ్డ వారందరిని ముందు తాను పిలిచి ప్రశ్నిస్తాడు — ఎవరయ్యా ఇలా ప్రశ్నించే రాజు? అటువంటి గుణం నీ కుమారుడిలో ఉంది, అందుకని ఆయన మాకు యువరాజుగా కావాలి" అని అన్నారు.
+
+**Image:** Pending creation.
+
+## 32 — Scene 32
+
+**Visual:** The most intimate testimonial — [Rama Visual Lock] sharing the people's joy as his own.
+
+**Story:** అలాగే — "ప్రజలు సుఖంగా ఉంటే, తాను సంతోషించినట్టు సంతోషిస్తాడు, మమ్మల్ని ఎంతో ప్రేమగా చూసుకుంటాడు (ప్రేమ అంటే — తాను అనుభవించక పోయినా తనవారు అనుభవిస్తుంటే, వారు అనుభవించిన ఆనందాన్ని చూసి తాను ఆనందపడడం),
 
 **Image:** Pending creation.
 
 **Source note:** The definition of love given here ("finding joy in others' joy even without sharing in the experience yourself") is a genuinely precise, quotable articulation — and the detail of strangers praying for Rama unprompted is the episode's emotional peak; let this land as the final, most powerful testimony before Dasharatha's decision is sealed.
 
-## 20 — Scene 20
+## 33 — Scene 33
+
+**Visual:** Rama still grieving over a hardship the people themselves have already forgotten.
+
+**Story:** ప్రజలకి ఏదన్నా కష్టం వచ్చి పోయిన తరువాత కూడా రాముడు మాత్రం 'ప్రజలకు ఈ ఇంతటి కష్టము వచ్చినదే' అని తలుచుకుని బాధపడుతూనే ఉంటాడు, అసలు ఏమీ తెలియనటువంటి జానపదులు, స్త్రీలు, పిల్లలు,
+
+**Image:** Pending creation.
+
+## 34 — Scene 34
+
+**Visual:** Ordinary townsfolk — women, children, villagers with no tie to Rama — praying for him daily at a temple; the whole crowd turning to the king.
+
+**Story:** రాముడికి ఏమీ కానటువంటి వారు రోజూ గుడిలో రాముడు ఆరోగ్యంగా ఉండాలని, ఆయన మమ్మల్ని చక్కగా చూడాలి, ఆయన సంతోషంగా ఉండాలని ప్రార్థిస్తుంటారు, అందుకని రాముడు మాకు రాజుగా కావాలి దశరథ" అన్నారు వాళ్ళందరూ.
+
+**Image:** Pending creation.
+
+## 35 — Scene 35
 
 **Visual:** End card.
 

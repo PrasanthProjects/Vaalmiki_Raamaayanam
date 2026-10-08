@@ -45,64 +45,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "మళ్ళి ఉత్తర దిక్కుకి వెళ్ళి మా అన్నయ్యని చావగొట్టి పుష్పక విమానం తెచ్చుకున్నాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
-    "text": "నాకు కాని కోపం వచ్చి కనుబొమ్మలని ముడేస్తే, ఇంద్రుడు దేవతలతో సహా పారిపోతాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 6,
-    "id": "02.06",
-    "text": "దశరథుడి చేత వెళ్ళగొట్టబడి, రాజ్యం లేక, అరణ్యాలలో తిరుగుతున్న ఆ రాముడిని నమ్ముకుంటావేంటి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 7,
-    "id": "02.07",
-    "text": "నా దగ్గరున్న ఐశ్వర్యాన్ని చూసి నా భార్యవి అవ్వు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 8,
-    "id": "02.08",
-    "text": "నేను చిటికిన వేలితో చేసే యుద్ధానికి రాముడు సరిపోడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 9,
-    "id": "02.09",
-    "text": "ఏమి చెప్పమంటావు నీ అదృష్టం, నా కన్ను నీ మీద పడింది, నన్ను నువ్వు పొందు\" అని గర్వంగా అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "అప్పుడు సీతమ్మ \"కుబేరుడి తమ్ముడిని అంటావు, పదిమంది నిలేదీసేటట్టుగా ఇలా ప్రవర్తించడానికి నీకు సిగ్గువెయ్యటం లేదా.",
+    "text": "మళ్ళి ఉత్తర దిక్కుకి వెళ్ళి మా అన్నయ్యని చావగొట్టి పుష్పక విమానం తెచ్చుకున్నాను.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -111,25 +57,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "ఎందుకురా ఈ ప్రవర్తన నీకు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "పద్దాక రాముడు పనికిమాలినవాడు అంటున్నావు, మరి ఆయన లేనప్పుడు నన్ను తీసుకువెళ్ళాలని ఎందుకు ప్రయత్నిస్తున్నావు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "రాముడు వచ్చేవరకు అలా నిలబడు చూద్దాము\" అని పలికింది.",
+    "text": "నాకు కాని కోపం వచ్చి కనుబొమ్మలని ముడేస్తే, ఇంద్రుడు దేవతలతో సహా పారిపోతాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -138,7 +66,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "అప్పుడు ఆ రావణుడు తన శరీరాన్ని పర్వతమంత పెంచి, తన నిజస్వరూపాన్ని బయటపెట్టాడు.",
+    "text": "దశరథుడి చేత వెళ్ళగొట్టబడి, రాజ్యం లేక, అరణ్యాలలో తిరుగుతున్న ఆ రాముడిని నమ్ముకుంటావేంటి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -147,25 +75,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "ధనుర్బాణాలతో, కుండలాలతో మెరిసిపోతున్నాడు, ఆకాశం నుండి దిగి వచ్చిన నల్లటి మబ్బులా ఉన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 3,
-    "id": "04.03",
-    "text": "అప్పుడాయన \"నాతో సమానమైన వాడు ఎక్కడుంటాడు, నిన్ను ఇప్పుడు ఎలా తీసుకెళ్ళిపోతానో చూడు\" అని, అపారమైన కామంతో కన్ను మిన్ను కానక,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "భయపడుతున్న సీతమ్మ దగ్గరికి వచ్చి —",
+    "text": "నా దగ్గరున్న ఐశ్వర్యాన్ని చూసి నా భార్యవి అవ్వు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -174,7 +84,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "తన ఎడమ చేతితో సీతమ్మ తల్లి జుట్టు గట్టిగా పట్టుకొని, కుడి చేతిని సీతమ్మ తొడల కింద పెట్టి,",
+    "text": "నేను చిటికిన వేలితో చేసే యుద్ధానికి రాముడు సరిపోడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -183,25 +93,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "ఆవిడని పైకి ఎత్తాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 3,
-    "id": "05.03",
-    "text": "పైకి ఎత్తి ఆశ్రమం బయటకి వచ్చాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "అప్పటివరకూ ఎవరికీ కనపడకుండా అదృశ్యంగా ఉన్న ఆ బంగారు రథం ఒక్కసారి ప్రత్యక్షమయ్యి భూమి మీదకి దిగింది.",
+    "text": "ఏమి చెప్పమంటావు నీ అదృష్టం, నా కన్ను నీ మీద పడింది, నన్ను నువ్వు పొందు\" అని గర్వంగా అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -210,7 +102,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "ఆడ త్రాచుపాము కొట్టుకున్నట్టు కొట్టుకుంటున్న సీతమ్మని పరుషమైన మాటలతో భయపెడుతూ, రథంలో బలవంతంగా తన తొడల మీద కూర్చోపెట్టుకున్నాడు.",
+    "text": "అప్పుడు సీతమ్మ \"కుబేరుడి తమ్ముడిని అంటావు, పదిమంది నిలేదీసేటట్టుగా ఇలా ప్రవర్తించడానికి నీకు సిగ్గువెయ్యటం లేదా.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -219,7 +111,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "అప్పుడాయన రథాన్ని బయలుదేరు అనేసరికి, ఆ రథం బయలుదేరింది.",
+    "text": "ఎందుకురా ఈ ప్రవర్తన నీకు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -228,7 +120,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "ఆకాశమార్గంలో వెళుతున్న ఆ రథం నుండి సీతమ్మ \"రామా, రామా, మీరు ఎక్కడో అరణ్యంలో దూరంగా ఉండిపోయారు.",
+    "text": "పద్దాక రాముడు పనికిమాలినవాడు అంటున్నావు, మరి ఆయన లేనప్పుడు నన్ను తీసుకువెళ్ళాలని ఎందుకు ప్రయత్నిస్తున్నావు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -237,97 +129,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "నా కేక మీకు ఎలా వినబడుతుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 3,
-    "id": "07.03",
-    "text": "ఈ దుష్టాత్ముడు నన్ను ఎత్తుకుపోతున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "ధర్మం కోసమని జీవితాన్ని, రాజ్యాన్ని త్యాగం చేసిన ఓ రామా!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 5,
-    "id": "07.05",
-    "text": "నీ భార్యను ఇవ్వాళ ఒక రాక్షసుడు అపహరిస్తున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 6,
-    "id": "07.06",
-    "text": "ఈ విషయం మీకు తెలియదు కదా.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 7,
-    "id": "07.07",
-    "text": "లక్ష్మణా!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 8,
-    "id": "07.08",
-    "text": "సర్వకాలముల యందు రాముడిని అనుసరించి ఉండేటటువంటివాడ, నన్ను రావణాసురుడు ఎత్తుకుపోతున్నాడన్న విషయం నీకు తెలియదు కదా.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 9,
-    "id": "07.09",
-    "text": "రక్షించండి, రక్షించండి\" అని పెద్దగా కేకలు వేస్తూ సీతమ్మ ఏడుస్తోంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 10,
-    "id": "07.10",
-    "text": "అలాగే \"ఓ మృగాల్లారా, ఓ పక్షుల్లారా, ఓ పర్వతాల్లారా, ఓ భూమి, ఓ గోదావరీ మీ అందరూ దయచేసి వినండి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 11,
-    "id": "07.11",
-    "text": "నన్ను రావణాసురుడు అపహరించాడన్న వార్త రాముడికి తెలియచెయ్యండి\" అని ఏడుస్తూ ఆ తల్లి రావణుడి తొడ నుండి తప్పుకోవడానికి ప్రయత్నిస్తుంటే,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 12,
-    "id": "07.12",
-    "text": "20 బాహువులతో ఆడ త్రాచుని నొక్కినట్టు నొక్కి తన తొడ మీద కూర్చోపెట్టుకున్నాడు.",
+    "text": "రాముడు వచ్చేవరకు అలా నిలబడు చూద్దాము\" అని పలికింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -336,16 +138,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "అలా రావణుడు సీతమ్మతో వెళ్ళిపోతుంటే, అక్కడే చెట్టు మీద కూర్చొని ఉన్న వృద్ధుడైన జటాయువు కనబడ్డాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 2,
-    "id": "08.02",
-    "text": "అప్పటికి ఆయనకి 60,000 సంవత్సరములు.",
+    "text": "అప్పుడు ఆ రావణుడు తన శరీరాన్ని పర్వతమంత పెంచి, తన నిజస్వరూపాన్ని బయటపెట్టాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -354,7 +147,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "అప్పుడా జటాయువు \"దుష్టుడైన ఓ రావణా!",
+    "text": "ధనుర్బాణాలతో, కుండలాలతో మెరిసిపోతున్నాడు, ఆకాశం నుండి దిగి వచ్చిన నల్లటి మబ్బులా ఉన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -363,124 +156,7 @@
     "scene": 9,
     "part": 2,
     "id": "09.02",
-    "text": "నువ్వు చెయ్యకూడని పని చేస్తున్నావు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "ధర్మం ఆచరించడం కోసమని రాజ్యాన్ని విడిచిపెట్టి, అరణ్యాలకి వచ్చి తాపసిలా జీవిస్తున్న రాముడి ఇల్లాలిని అపహరిస్తున్నావు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 4,
-    "id": "09.04",
-    "text": "దీనిచేత నువ్వు ప్రమాదాన్ని తెచ్చుకుంటావు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 5,
-    "id": "09.05",
-    "text": "ఇప్పటికైనా నీ బుద్ధి మార్చుకో.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 6,
-    "id": "09.06",
-    "text": "రాజ్యంలో పరిపాలింపబడుతున్న ప్రజలకి ధర్మంలో కాని, అర్థంలో కాని, కామంలో కాని ఎలా ప్రవర్తించాలి అని అనుమానమొస్తే,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 7,
-    "id": "09.07",
-    "text": "తమ రాజు ఎలా ప్రవర్తిస్తున్నాడో చూసి, వారు అలాగే బ్రతుకుతారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 8,
-    "id": "09.08",
-    "text": "రాజే ధర్మం తప్పిపోతే ప్రజలు కూడా ధర్మం తప్పిపోతారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 9,
-    "id": "09.09",
-    "text": "పనికిమాలినవాడికి స్వర్గానికి వెళ్ళడం కోసం విమానం ఇచ్చినట్టు, నీకు రాజ్యం ఇచ్చినవాడు ఎవడురా?",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 10,
-    "id": "09.10",
-    "text": "నిన్ను రాజుని చేసినవాడు ఎవడురా?",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 11,
-    "id": "09.11",
-    "text": "నేను వృద్ధుడిని, నాకు కవచం లేదు, రథం లేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 12,
-    "id": "09.12",
-    "text": "నువ్వేమో యువకుడివి, కవచం కట్టుకున్నావు, చేతిలో ధనుర్బాణాలు ఉన్నాయి, రథం మీద ఉన్నావు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 13,
-    "id": "09.13",
-    "text": "అలాగని నిన్ను విడిచిపెడతాను అనుకున్నావా.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 14,
-    "id": "09.14",
-    "text": "నా ప్రాణములు ఉన్నంతవరకూ నువ్వు సీతమ్మని తీసుకెళ్ళకుండా నిగ్రహిస్తాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 15,
-    "id": "09.15",
-    "text": "నా పౌరుష పరాక్రమాలు అంటే ఏంటో చూద్దువు\" అని పెద్ద పెద్ద రెక్కల ఊపుతూ రావణుడి మీదకి యుద్ధానికి వెళ్ళాడు.",
+    "text": "అప్పుడాయన \"నాతో సమానమైన వాడు ఎక్కడుంటాడు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -489,6 +165,330 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
+    "text": "నిన్ను ఇప్పుడు ఎలా తీసుకెళ్ళిపోతానో చూడు\" అని, అపారమైన కామంతో కన్ను మిన్ను కానక, భయపడుతున్న సీతమ్మ దగ్గరికి వచ్చి —",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "తన ఎడమ చేతితో సీతమ్మ తల్లి జుట్టు గట్టిగా పట్టుకొని, కుడి చేతిని సీతమ్మ తొడల కింద పెట్టి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "ఆవిడని పైకి ఎత్తాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "పైకి ఎత్తి ఆశ్రమం బయటకి వచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "అప్పటివరకూ ఎవరికీ కనపడకుండా అదృశ్యంగా ఉన్న ఆ బంగారు రథం ఒక్కసారి ప్రత్యక్షమయ్యి భూమి మీదకి దిగింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "ఆడ త్రాచుపాము కొట్టుకున్నట్టు కొట్టుకుంటున్న సీతమ్మని పరుషమైన మాటలతో భయపెడుతూ, రథంలో బలవంతంగా తన తొడల మీద కూర్చోపెట్టుకున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "అప్పుడాయన రథాన్ని బయలుదేరు అనేసరికి, ఆ రథం బయలుదేరింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "ఆకాశమార్గంలో వెళుతున్న ఆ రథం నుండి సీతమ్మ \"రామా, రామా, మీరు ఎక్కడో అరణ్యంలో దూరంగా ఉండిపోయారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "నా కేక మీకు ఎలా వినబడుతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "ఈ దుష్టాత్ముడు నన్ను ఎత్తుకుపోతున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "ధర్మం కోసమని జీవితాన్ని, రాజ్యాన్ని త్యాగం చేసిన ఓ రామా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 3,
+    "id": "15.03",
+    "text": "నీ భార్యను ఇవ్వాళ ఒక రాక్షసుడు అపహరిస్తున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "ఈ విషయం మీకు తెలియదు కదా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "లక్ష్మణా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 3,
+    "id": "16.03",
+    "text": "సర్వకాలముల యందు రాముడిని అనుసరించి ఉండేటటువంటివాడ, నన్ను రావణాసురుడు ఎత్తుకుపోతున్నాడన్న విషయం నీకు తెలియదు కదా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "రక్షించండి, రక్షించండి\" అని పెద్దగా కేకలు వేస్తూ సీతమ్మ ఏడుస్తోంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "అలాగే \"ఓ మృగాల్లారా, ఓ పక్షుల్లారా, ఓ పర్వతాల్లారా, ఓ భూమి, ఓ గోదావరీ మీ అందరూ దయచేసి వినండి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "నన్ను రావణాసురుడు అపహరించాడన్న వార్త రాముడికి తెలియచెయ్యండి\" అని ఏడుస్తూ ఆ తల్లి రావణుడి తొడ నుండి తప్పుకోవడానికి ప్రయత్నిస్తుంటే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "20 బాహువులతో ఆడ త్రాచుని నొక్కినట్టు నొక్కి తన తొడ మీద కూర్చోపెట్టుకున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "అలా రావణుడు సీతమ్మతో వెళ్ళిపోతుంటే, అక్కడే చెట్టు మీద కూర్చొని ఉన్న వృద్ధుడైన జటాయువు కనబడ్డాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "అప్పటికి ఆయనకి 60,000 సంవత్సరములు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "అప్పుడా జటాయువు \"దుష్టుడైన ఓ రావణా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "నువ్వు చెయ్యకూడని పని చేస్తున్నావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 3,
+    "id": "20.03",
+    "text": "ధర్మం ఆచరించడం కోసమని రాజ్యాన్ని విడిచిపెట్టి, అరణ్యాలకి వచ్చి తాపసిలా జీవిస్తున్న రాముడి ఇల్లాలిని అపహరిస్తున్నావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 4,
+    "id": "20.04",
+    "text": "దీనిచేత నువ్వు ప్రమాదాన్ని తెచ్చుకుంటావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "ఇప్పటికైనా నీ బుద్ధి మార్చుకో.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "రాజ్యంలో పరిపాలింపబడుతున్న ప్రజలకి ధర్మంలో కాని, అర్థంలో కాని, కామంలో కాని ఎలా ప్రవర్తించాలి అని అనుమానమొస్తే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 3,
+    "id": "21.03",
+    "text": "తమ రాజు ఎలా ప్రవర్తిస్తున్నాడో చూసి, వారు అలాగే బ్రతుకుతారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "రాజే ధర్మం తప్పిపోతే ప్రజలు కూడా ధర్మం తప్పిపోతారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "పనికిమాలినవాడికి స్వర్గానికి వెళ్ళడం కోసం విమానం ఇచ్చినట్టు, నీకు రాజ్యం ఇచ్చినవాడు ఎవడురా?",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 3,
+    "id": "22.03",
+    "text": "నిన్ను రాజుని చేసినవాడు ఎవడురా?",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "నేను వృద్ధుడిని, నాకు కవచం లేదు, రథం లేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 2,
+    "id": "23.02",
+    "text": "నువ్వేమో యువకుడివి, కవచం కట్టుకున్నావు, చేతిలో ధనుర్బాణాలు ఉన్నాయి, రథం మీద ఉన్నావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 3,
+    "id": "23.03",
+    "text": "అలాగని నిన్ను విడిచిపెడతాను అనుకున్నావా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "నా ప్రాణములు ఉన్నంతవరకూ నువ్వు సీతమ్మని తీసుకెళ్ళకుండా నిగ్రహిస్తాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 2,
+    "id": "24.02",
+    "text": "నా పౌరుష పరాక్రమాలు అంటే ఏంటో చూద్దువు\" అని పెద్ద పెద్ద రెక్కల ఊపుతూ రావణుడి మీదకి యుద్ధానికి వెళ్ళాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
     "text": "తర్వాత చూద్దాం — జటాయువు రావణుడితో ఎలా పోరాడాడో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

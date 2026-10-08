@@ -26,7 +26,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-**Source note:** 🔴 VERSE — completes the birth-moment verse; recite scenes 2 and E1.04's scene 39 as one continuous unit when episodes are stitched for recording, even though they're scripted across two files.
+**Source note:** 🔴 VERSE — completes the birth-moment verse; recite scenes 2 and E1.04's scene 63 as one continuous unit when episodes are stitched for recording, even though they're scripted across two files.
 
 ## 3 — Scene 03
 
@@ -64,9 +64,9 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 7 — Scene 07
 
-**Visual:** Cut to the divine realm: [Brahma Visual Lock] holding court with [generic devatalu Visual Lock] gathered.
+**Visual:** Cut to the divine realm: [Brahma Visual Lock] holding court with [generic devatalu Visual Lock] gathered, announcing that Vishnu has descended as Rama.
 
-**Story:** అదే సమయంలో బ్రహ్మగారు దేవతలతో ఒక సభ తీర్చారు — "శ్రీమహావిష్ణువు భూలోకములో రాముడిగా అవతరించారు, రావణసంహారములో రాముడికి సహాయం చేయుటకు మీరు మీ అంశలతో కొంతమందిని సృష్టించండి. పార్వతీదేవి శాపం వలన మీకు మీ భార్యలవలన సంతానము కలగదు, కావున మీతో సమానమైన తేజస్సు, పరాక్రమము కలిగిన వానరాలని గంధర్వ, అప్సరస, కిన్నెర స్త్రీలందు కనండి" అని చెప్పారు.
+**Story:** అదే సమయంలో బ్రహ్మగారు దేవతలతో ఒక సభ తీర్చారు — "శ్రీమహావిష్ణువు భూలోకములో రాముడిగా అవతరించారు, రావణసంహారములో రాముడికి సహాయం చేయుటకు మీరు మీ అంశలతో కొంతమందిని సృష్టించండి.
 
 **Image:** Pending creation.
 
@@ -74,13 +74,21 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 8 — Scene 08
 
+**Visual:** Brahma instructing the devas to bring forth vanaras of their own radiance and strength — soft light-motifs leaving each deva and descending toward the forests of the earth.
+
+**Story:** పార్వతీదేవి శాపం వలన మీకు మీ భార్యలవలన సంతానము కలగదు, కావున మీతో సమానమైన తేజస్సు, పరాక్రమము కలిగిన వానరాలని గంధర్వ, అప్సరస, కిన్నెర స్త్రీలందు కనండి" అని చెప్పారు.
+
+**Image:** Pending creation.
+
+## 9 — Scene 09
+
 **Visual:** [Generic devatalu Visual Lock] responding with joy.
 
 **Story:** దేవతలందరూ రామకార్యం కోసం పుట్టడం మన అదృష్టమని ఆనందపడ్డారు.
 
 **Image:** Pending creation.
 
-## 9 — Scene 09
+## 10 — Scene 10
 
 **Visual:** [Brahma Visual Lock] adding a lighter, almost humorous aside about Jambavantha's origin.
 
@@ -90,17 +98,25 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** A rare moment of warmth/humor in an otherwise solemn scene — let the Narrator's tone lighten slightly here per his standing "shifts warmth register with content" rule.
 
-## 10 — Scene 10
+## 11 — Scene 11
 
-**Visual:** A roll-call montage — soft light-motifs for each named deity, no need for individual character designs yet since these vanaras get proper introductions later in Kishkindha Khaanda; keep this visually abstract (light/silhouette) rather than committing to designs this early.
+**Visual:** A roll-call montage — soft light-motifs for each named deity (Indra, Surya, Brihaspati, Kubera), each becoming a vanara silhouette; keep it abstract (light/silhouette), no designs yet.
 
-**Story:** ఇంద్రుడి అంశతో వాలి జన్మించాడు, సూర్యుడి అంశతో సుగ్రీవుడు జన్మించాడు, బృహస్పతి అంశతో తారుడు జన్మించాడు, కుబేరుడి అంశతో గంధమాదనుడు జన్మించాడు, అశ్విని దేవతల అంశతో మైందుడు, ద్వివిదుడు జన్మించారు, అగ్ని అంశతో నీలుడు జన్మించాడు, వాయువు అంశతో హనుమంతుడు జన్మించాడు, పర్జన్యుడికి శరభుడు, వరుణుడికి సుషేణుడు జన్మించాడు.
+**Story:** ఇంద్రుడి అంశతో వాలి జన్మించాడు, సూర్యుడి అంశతో సుగ్రీవుడు జన్మించాడు, బృహస్పతి అంశతో తారుడు జన్మించాడు, కుబేరుడి అంశతో గంధమాదనుడు జన్మించాడు,
 
 **Image:** Pending creation.
 
 **Source note:** Note for the Character Bible: this confirms Vali is Indra's son, Sugriva is Surya's son, Hanuman is Vayu's son — already reflected correctly in the existing Character Bible entries, no changes needed there.
 
-## 11 — Scene 11
+## 12 — Scene 12
+
+**Visual:** The roll-call continues — the Ashvins, Agni, Vayu, Parjanya, Varuna; the Vayu light glows a little brighter for Hanuman. Silhouettes only.
+
+**Story:** అశ్విని దేవతల అంశతో మైందుడు, ద్వివిదుడు జన్మించారు, అగ్ని అంశతో నీలుడు జన్మించాడు, వాయువు అంశతో హనుమంతుడు జన్మించాడు, పర్జన్యుడికి శరభుడు, వరుణుడికి సుషేణుడు జన్మించాడు.
+
+**Image:** Pending creation.
+
+## 13 — Scene 13
 
 **Visual:** [Use generic Maharshi-group Visual Lock] also creating vanaras in turn, implying an even vaster army.
 
@@ -110,7 +126,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** The "crores and crores" figure is the text's own — narrate as its own hyperbolic-epic scale statement.
 
-## 12 — Scene 12
+## 14 — Scene 14
 
 **Visual:** Cut back to Ayodhya, 11 days after the births — [Dasharatha and Vashishtha Visual Locks] presiding over the naming ceremony, the four infants present.
 
@@ -118,27 +134,51 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 13 — Scene 13
+## 15 — Scene 15
 
-**Visual:** On-screen verse text for the naming verse.
+**Visual:** On-screen verse text for the naming verse, first shloka.
 
-**Story:** అతీత్య ఏకాదశ ఆహం తు నామ కర్మ తథా అకరోత్ । జ్యేష్ఠం రామం మహాత్మానం భరతం కైకయీ సుతం ॥ సౌమిత్రిం లక్ష్మణం ఇతి శత్రుఘ్నం అపరం తథా । వసిష్ఠః పరమ ప్రీతో నామాని కురుతే తదా ॥
+**Story:** అతీత్య ఏకాదశ ఆహం తు నామ కర్మ తథా అకరోత్ । జ్యేష్ఠం రామం మహాత్మానం భరతం కైకయీ సుతం ॥
 
 **Image:** Pending creation.
 
 **Source note:** 🔴 VERSE — the naming verse; note "పరమ ప్రీతో" here uses the Й=ప్రీ mapping decoded earlier in this project's text-correction pass — a good cross-check point during the manual verse-verification pass.
 
-## 14 — Scene 14
+## 16 — Scene 16
 
-**Visual:** [Vashishtha Visual Lock] explaining each name's etymology directly — a teaching moment, shown as him speaking to the assembled court.
+**Visual:** Same verse card, second shloka completing the naming verse.
 
-**Story:** సర్వజనులు ఆయన గుణములు చూసి పొంగిపోయెదరు కనుక ఆయనకి రామ (రా అంటే అగ్ని బీజం, మ అంటే అమృత బీజం) అని, సుమిత్ర కుమారుడైన సౌమిత్రి అపారమైన లక్ష్మీ సంపన్నుడు (రామ సేవే ఆయన లక్ష్మి) కనుక ఆయనకి లక్ష్మణ అని, కైకేయ కుమారుడు భరించే గుణము కలవాడు కనుక ఆయనకి భరత అని, శత్రువులను (అంతః శత్రువులు) సంహరించగలవాడు కనుక శత్రుఘ్న అని నామకరణం చేశారు వశిష్ఠ మహర్షి.
+**Story:** సౌమిత్రిం లక్ష్మణం ఇతి శత్రుఘ్నం అపరం తథా । వసిష్ఠః పరమ ప్రీతో నామాని కురుతే తదా ॥
+
+**Image:** Pending creation.
+
+## 17 — Scene 17
+
+**Visual:** [Vashishtha Visual Lock] at the naming ceremony, holding the eldest infant; overlay "రామ" with its two seed-syllables at the spoken cue.
+
+**Story:** సర్వజనులు ఆయన గుణములు చూసి పొంగిపోయెదరు కనుక ఆయనకి రామ (రా అంటే అగ్ని బీజం, మ అంటే అమృత బీజం) అని,
 
 **Image:** Pending creation.
 
 **Source note:** This etymology passage is genuinely important — each name's meaning recurs in later episodes' thematic framing (per the Parichayam episode's own emphasis on names/meaning) — narrate clearly, don't rush it.
 
-## 15 — Scene 15
+## 18 — Scene 18
+
+**Visual:** Vashishtha blessing Sumitra's first son; overlay "లక్ష్మణ".
+
+**Story:** సుమిత్ర కుమారుడైన సౌమిత్రి అపారమైన లక్ష్మీ సంపన్నుడు (రామ సేవే ఆయన లక్ష్మి) కనుక ఆయనకి లక్ష్మణ అని,
+
+**Image:** Pending creation.
+
+## 19 — Scene 19
+
+**Visual:** Vashishtha naming the remaining two infants before the assembled court; overlays "భరత" and "శత్రుఘ్న".
+
+**Story:** కైకేయ కుమారుడు భరించే గుణము కలవాడు కనుక ఆయనకి భరత అని, శత్రువులను (అంతః శత్రువులు) సంహరించగలవాడు కనుక శత్రుఘ్న అని నామకరణం చేశారు వశిష్ఠ మహర్షి.
+
+**Image:** Pending creation.
+
+## 20 — Scene 20
 
 **Visual:** Montage: [use RAMA-S1/LAKSHMANA-S1/etc. Visual Locks — the boyhood stage, first appearance of this stage] the four brothers growing up together, studying, playing, serving their father — per Character Bible's boyhood-stage description.
 
@@ -148,7 +188,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This is Rama's FIRST appearance at his S1/boyhood Visual Lock stage — apply it here for the first time in the series.
 
-## 16 — Scene 16
+## 21 — Scene 21
 
 **Visual:** [Dasharatha Visual Lock] watching [Rama-S1 Visual Lock] walk down the royal road, a warm nostalgic expression — the text's own specific image of Dasharatha seeing his own youth reflected in his son.
 
@@ -156,7 +196,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 17 — Scene 17
+## 22 — Scene 22
 
 **Visual:** [Dasharatha Visual Lock] in court, raising the subject of the princes' marriages — the first mention of what will eventually become the Mithila/swayamvara arc.
 
@@ -166,7 +206,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This "age 12" detail is a specific textual data point relevant to the series' locked age-scheme — cross-reference against the Character Bible's Stage table once the swayamvara episode is scripted, to confirm internal consistency.
 
-## 18 — Scene 18
+## 23 — Scene 23
 
 **Visual:** A messenger entering mid-sentence — [Vishwamitra Visual Lock] waiting outside the court, the scene cutting Dasharatha's sentence short, building anticipation.
 
@@ -176,7 +216,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This is Vishwamitra's entrance — the pivot into the next major arc.
 
-## 19 — Scene 19
+## 24 — Scene 24
 
 **Visual:** [Dasharatha Visual Lock] rising immediately, going out to greet him with full honor — establishing Vishwamitra's stature per his Character Bible's "commanding, kings do not refuse him" note, even before he speaks.
 
@@ -184,7 +224,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 20 — Scene 20
+## 25 — Scene 25
 
 **Visual:** End card.
 

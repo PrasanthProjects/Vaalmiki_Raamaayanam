@@ -36,46 +36,10 @@
     "seconds": null
   },
   {
-    "scene": 3,
-    "part": 2,
-    "id": "03.02",
-    "text": "డొక్కలతో పొడుస్తూ సేద్యం చేయిస్తుంటే సురభి కన్నుల వెంట నీరు కార్చింది (ఈ భూమండలం మీద ఉన్న ఆవులు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "ఎద్దులు ఆ సురభి యొక్క సంతానమే).\"",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "దేవేంద్రుడు ఐరావతం మీద వెళుతుండగా, ఆయన చేతి మీద సురభి కన్నీటి చుక్కలు పడ్డాయి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 2,
-    "id": "04.02",
-    "text": "దివ్యపరిమళం కలిగిన కన్నీటి బిందువులు ఎవరివా అని ఇంద్రుడు పైకి చూసేసరికి, సురభి ఏడుస్తూ కనిపించింది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 3,
-    "id": "04.03",
-    "text": "వెంటనే ఇంద్రుడు ఐరావతం దిగి \"అమ్మా, ఎందుకు ఏడుస్తున్నావు\" అని అడిగాడు.",
+    "text": "డొక్కలతో పొడుస్తూ సేద్యం చేయిస్తుంటే సురభి కన్నుల వెంట నీరు కార్చింది (ఈ భూమండలం మీద ఉన్న ఆవులు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -84,25 +48,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "అప్పుడా సురభి \"నాకు కొన్ని కోట్ల మంది బిడ్డలు ఉండచ్చు, ఈ భూమండలంలో ఉన్న ఆవులు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 2,
-    "id": "05.02",
-    "text": "ఎద్దులు నా శరీరం నుండి వచ్చినవే, ఇంతమంది బిడ్డలు ఉన్నా ఈ రెండు ఎద్దులని రైతు పొడుస్తూ, ఎండలో సేద్యం చేయిస్తుంటే,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 3,
-    "id": "05.03",
-    "text": "నా బిడ్డలని ఇంత కష్టపెడుతున్నాడని దుఃఖం ఆగక ఏడిచాను\" అని, కోట్ల మంది బిడ్డలు కలిగిన సురభి అని పలికింది.",
+    "text": "ఎద్దులు ఆ సురభి యొక్క సంతానమే).\"",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -111,16 +57,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "\"మరి ఒక్కగానొక్క కుమారుడు అమ్మా కౌసల్యకి, లేకలేక పుట్టినవాడు, ధర్మాత్ముడు, అటువంటి వాడిని 14 సంవత్సరములు అరణ్యాలకి పంపావే,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 2,
-    "id": "06.02",
-    "text": "కొడుకు పక్కన లేడని, భర్త మరణించాడని కౌసల్య ఎంత ఏడుస్తుందో ఆలోచించావా\" అన్నాడు.",
+    "text": "దేవేంద్రుడు ఐరావతం మీద వెళుతుండగా, ఆయన చేతి మీద సురభి కన్నీటి చుక్కలు పడ్డాయి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -129,16 +66,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "\"నువ్వు చెప్తే రాజ్యాన్ని ఏలుతాననుకున్నావా, ఒక్కనాటికి అది జరగదు, ఇక నువ్వు బతికుండడం అనవసరం, వెంటనే అంతఃపురానికి వెళ్ళి ఉరివేసుకో,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 2,
-    "id": "07.02",
-    "text": "అదొక్కటే నీకు ప్రాయశ్చిత్తం\" అని భరతుడు అన్నాడు.",
+    "text": "దివ్యపరిమళం కలిగిన కన్నీటి బిందువులు ఎవరివా అని ఇంద్రుడు పైకి చూసేసరికి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -147,7 +75,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "ఈ మాటలు విన్న కైకేయ మీద పిడుగుపడినట్టు అయ్యింది, భరతుడు వేసిన కేకలకి మంత్రులందరూ చుట్టూ చేరారు.",
+    "text": "సురభి ఏడుస్తూ కనిపించింది, వెంటనే ఇంద్రుడు ఐరావతం దిగి \"అమ్మా, ఎందుకు ఏడుస్తున్నావు\" అని అడిగాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -156,6 +84,96 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
+    "text": "అప్పుడా సురభి \"నాకు కొన్ని కోట్ల మంది బిడ్డలు ఉండచ్చు, ఈ భూమండలంలో ఉన్న ఆవులు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "ఎద్దులు నా శరీరం నుండి వచ్చినవే, ఇంతమంది బిడ్డలు ఉన్నా ఈ రెండు ఎద్దులని రైతు పొడుస్తూ,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "ఎండలో సేద్యం చేయిస్తుంటే, నా బిడ్డలని ఇంత కష్టపెడుతున్నాడని దుఃఖం ఆగక ఏడిచాను\" అని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "కోట్ల మంది బిడ్డలు కలిగిన సురభి అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "\"మరి ఒక్కగానొక్క కుమారుడు అమ్మా కౌసల్యకి, లేకలేక పుట్టినవాడు, ధర్మాత్ముడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "అటువంటి వాడిని 14 సంవత్సరములు అరణ్యాలకి పంపావే, కొడుకు పక్కన లేడని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "భర్త మరణించాడని కౌసల్య ఎంత ఏడుస్తుందో ఆలోచించావా\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "\"నువ్వు చెప్తే రాజ్యాన్ని ఏలుతాననుకున్నావా, ఒక్కనాటికి అది జరగదు, ఇక నువ్వు బతికుండడం అనవసరం, వెంటనే అంతఃపురానికి వెళ్ళి ఉరివేసుకో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "అదొక్కటే నీకు ప్రాయశ్చిత్తం\" అని భరతుడు అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "ఈ మాటలు విన్న కైకేయ మీద పిడుగుపడినట్టు అయ్యింది, భరతుడు వేసిన కేకలకి మంత్రులందరూ చుట్టూ చేరారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
     "text": "తర్వాత చూద్దాం — ఈ కేకలు విన్న కౌసల్య ఏమి చేస్తుందో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

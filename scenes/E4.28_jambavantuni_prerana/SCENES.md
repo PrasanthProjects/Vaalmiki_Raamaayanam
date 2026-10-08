@@ -20,9 +20,9 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 2 — Scene 02
 
-**Visual:** The vanaras arriving on the northern shore of the southern ocean (the p. 418 illustration): the sea stretching to the horizon, their joy fading into silence.
+**Visual:** The vanaras arriving on the northern shore of the southern ocean, the sea stretching to the horizon.
 
-**Story:** సముద్రాన్ని దాటుదామని వాళ్ళందరూ కలిసి సముద్రం యొక్క ఉత్తర తీరానికి చేరుకున్నారు. అప్పుడు వారు అనుకున్నారు "ఈ 100 యోజనముల సముద్రాన్ని దాటి ఆవలి ఒడ్డుకి వెళ్ళగలిగినవాడు ఎవడు. మిగిలిన వానర జాతికి ఎవడు ప్రాణప్రదానము చెయ్యగలిగినవాడు. ఈ సముద్రం దగ్గర నిలబడిపోయిన వానరాలు సంతోషంగా తిరిగి వెళ్ళి తమ భార్యాపిల్లలని చూసేటట్టు చెయ్యగలిగినవాడు ఎవడు. ఎవరివలన ఈ కార్యం జరుగుతుంది, ఎవరు అంతటి సమర్ధుడు" అని అడిగారు.
+**Story:** సముద్రాన్ని దాటుదామని వాళ్ళందరూ కలిసి సముద్రం యొక్క ఉత్తర తీరానికి చేరుకున్నారు. అప్పుడు వారు అనుకున్నారు "ఈ 100 యోజనముల సముద్రాన్ని దాటి ఆవలి ఒడ్డుకి వెళ్ళగలిగినవాడు ఎవడు. మిగిలిన వానర జాతికి ఎవడు ప్రాణప్రదానము చెయ్యగలిగినవాడు.
 
 **Image:** Pending creation.
 
@@ -30,63 +30,159 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 3 — Scene 03
 
+**Visual:** Their joy fading into silence — who can cross it?
+
+**Story:** ఈ సముద్రం దగ్గర నిలబడిపోయిన వానరాలు సంతోషంగా తిరిగి వెళ్ళి తమ భార్యాపిల్లలని చూసేటట్టు చెయ్యగలిగినవాడు ఎవడు. ఎవరివలన ఈ కార్యం జరుగుతుంది, ఎవరు అంతటి సమర్ధుడు" అని అడిగారు.
+
+**Image:** Pending creation.
+
+## 4 — Scene 04
+
 **Visual:** One chief after another rising and naming his reach — thirty, forty, fifty, sixty, seventy, eighty yojanas — and sitting down again.
 
 **Story:** అప్పుడు శరభుడు లేచి, నేను 30 యోజనములు వెళతాను అన్నాడు, అలాగే ఋషభుడు 40 యోజనములు వెళతాను అన్నాడు, గంధమాదనుడు 50, మైందుడు 60, ద్వివిదుడు 70, సుషేణుడు 80.
 
 **Image:** Pending creation.
 
-## 4 — Scene 04
+## 5 — Scene 05
 
-**Visual:** [Jambavan — the aged king of bears: huge, grizzled, grave and kindly; fix a Character Bible lock before production] rising; a brief painted inset of his youth, circling Vishnu's Trivikrama form; then [Angada — per E4.12] speaking up.
+**Visual:** [Jambavan — the aged king of bears: huge, grizzled, grave and kindly; fix a Character Bible lock before production] rising; a brief painted inset of his youth, circling Vishnu's Trivikrama form.
 
-**Story:** అప్పుడు జాంబవంతుడు లేచి అన్నాడు "నేను యవ్వనంలో ఉన్నప్పుడు చాలా బలంగా ఉండేవాడిని. పరమేశ్వరుడు త్రివిక్రమావతారంతో (వామన) పెరిగిపోతుంటే నేను ఆయనకి 21 సార్లు ప్రదక్షిణ చేశాను. కాని ఇప్పుడు నేను ముసలివాడిని అయిపోయాను, నేను ఇప్పుడు 90 యోజనాలు ఎగరగలను" అన్నాడు. అప్పుడు అంగదుడు అన్నాడు " నేను 100 యోజనాలు వెళ్ళగలను, కాని తిరిగి మళ్ళి ఈ 100 యోజనాలు రాలేను" అన్నాడు.
+**Story:** అప్పుడు జాంబవంతుడు లేచి అన్నాడు "నేను యవ్వనంలో ఉన్నప్పుడు చాలా బలంగా ఉండేవాడిని. పరమేశ్వరుడు త్రివిక్రమావతారంతో (వామన) పెరిగిపోతుంటే నేను ఆయనకి 21 సార్లు ప్రదక్షిణ చేశాను.
 
 **Image:** Pending creation.
 
 **Source note:** Jambavan can do ninety; Angada a hundred — but not the return.
 
-## 5 — Scene 05
+## 6 — Scene 06
 
-**Visual:** [Jambavan — the aged king of bears: huge, grizzled, grave and kindly; fix a Character Bible lock before production] checking [Angada — per E4.12] with a raised hand, then walking across the sand to where [Hanuman Visual Lock] sits apart, alone and silent.
+**Visual:** Jambavan — now I can leap only ninety; then [Angada] speaking up — a hundred, but not the return.
 
-**Story:** అప్పుడు జాంబవంతుడు "అయ్యో, అది మహా పాపం. ప్రభువు వెళ్ళి పని చేస్తుంటే, ఆయనని సేవించేవారు హాయిగా కూర్చుంటే అది చాలా అసహ్యంగా ఉంటుంది. నువ్వు వెళ్ళకూడదు, నువ్వు మాకు పనిని పురమాయించాలి. ఎవరిని పంపాలో నాకు తెలుసు, వాడిని నేను పంపిస్తాను, మీరందరూ చూడండి" అని ఒక్కడిగా కూర్చున్న హనుమంతుడి దగ్గరికి వెళ్ళి "ఏమయ్యా హనుమా! ఏమి తెలియని వాడిలా ఇలా కూర్చున్నావు.
+**Story:** కాని ఇప్పుడు నేను ముసలివాడిని అయిపోయాను, నేను ఇప్పుడు 90 యోజనాలు ఎగరగలను" అన్నాడు. అప్పుడు అంగదుడు అన్నాడు " నేను 100 యోజనాలు వెళ్ళగలను, కాని తిరిగి మళ్ళి ఈ 100 యోజనాలు రాలేను" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 7 — Scene 07
+
+**Visual:** [Jambavan] checking [Angada] with a raised hand — the prince must command, not go.
+
+**Story:** అప్పుడు జాంబవంతుడు "అయ్యో, అది మహా పాపం. ప్రభువు వెళ్ళి పని చేస్తుంటే, ఆయనని సేవించేవారు హాయిగా కూర్చుంటే అది చాలా అసహ్యంగా ఉంటుంది. నువ్వు వెళ్ళకూడదు, నువ్వు మాకు పనిని పురమాయించాలి.
 
 **Image:** Pending creation.
 
 **Source note:** The prince must command, not go. Jambavan knows whom to send.
 
-## 6 — Scene 06
+## 8 — Scene 08
 
-**Visual:** Painted inset: Anjana in human form on a mountain peak; the Wind-god embracing her unseen; her rebuke; Vayu's promise of a son equal to himself.
+**Visual:** Jambavan walking across the sand to where [Hanuman Visual Lock] sits apart, alone and silent.
 
-**Story:** ఒకానొకప్పుడు అప్సరసలలో శ్రేష్టురాలైన పుంజికస్థల అనబడే ఒక అప్సరస శాపవశం చేత కుంజరుడు అనే వానరానికి కుమార్తెగా జన్మించింది. ఆమెకి అంజనా అని పేరు పెట్టారు. ఆమె నీ తండ్రి అయిన కేసరి యొక్క భార్య. నీ తల్లి కామరూపి అవడంచేత ఒకనాడు మనుష్య రూపం దాల్చి ఒక పర్వత శిఖరం మీద నిలబడింది. వాయువు ఆమెని చూసి మోహించి, తన దీర్ఘమైన బాహువుల చేత గట్టిగా కౌగలించుకున్నాడు. అప్పుడా తల్లి 'ఎవడురా దుర్మార్గుడు నా పాతివ్రత్యాన్ని చెరప చూస్తున్నవాడు' అని పలికింది. అప్పుడా వాయువు అన్నాడు 'అమ్మా! బ్రహ్మగారు మా తేజస్సులని వానర స్త్రీలయందు ప్రవేశపెట్టి వానరాలని సృష్టించామన్నారు. అందుకని నీ పాతివ్రత్యానికి భంగం కలగకుండా గొప్ప పరాక్రమము ఉన్నవాడు, బుద్ధిమంతుడు, నాతో సమానంగా దూకగలిగినవాడు, ఎగరగలిగినవాడైన పుత్రుడు కేవలం నిన్ను నేను మానసికముగా చూసినంత మాత్రాన నీ కడుపుయందు జన్మించనున్నాడు' అన్నాడు. ఆ కారణం చేత నువ్వు జన్మించావు.
+**Story:** ఎవరిని పంపాలో నాకు తెలుసు, వాడిని నేను పంపిస్తాను, మీరందరూ చూడండి" అని ఒక్కడిగా కూర్చున్న హనుమంతుడి దగ్గరికి వెళ్ళి "ఏమయ్యా హనుమా! ఏమి తెలియని వాడిలా ఇలా కూర్చున్నావు.
+
+**Image:** Pending creation.
+
+## 9 — Scene 09
+
+**Visual:** Painted inset: the apsara Punjikasthala born by a curse as the vanara maiden Anjana.
+
+**Story:** ఒకానొకప్పుడు అప్సరసలలో శ్రేష్టురాలైన పుంజికస్థల అనబడే ఒక అప్సరస శాపవశం చేత కుంజరుడు అనే వానరానికి కుమార్తెగా జన్మించింది. ఆమెకి అంజనా అని పేరు పెట్టారు.
 
 **Image:** Pending creation.
 
 **Source note:** Hanuman's birth, told to him by Jambavan.
 
-## 7 — Scene 07
+## 10 — Scene 10
 
-**Visual:** Painted inset: the infant Hanuman leaping at the rising sun as at a fruit; Indra's thunderbolt; the child falling, his jaw struck; Vayu withdrawing all wind; Brahma and Indra hastening with boons.
+**Visual:** Anjana in human form on a mountain peak.
 
-**Story:** నువ్వు పుట్టగానే ఆకాశంలో ఉన్న సూర్యుడిని చూసి తినే ఫలం అనుకొని ఆయనని పట్టుకోబోయావు. సూర్య పధానికి అడ్డు వస్తున్నావని కోపమొచ్చి ఇంద్రుడు వజ్రాయుధం పెట్టి కొడితే, నీ ఎడమ దవడ చొట్టపడి కింద పడ్డావు. సొట్టపడ్డ హనుములు కలిగినవాడివి కనుక నిన్ను హనుమ అని పిలిచారు. నువ్వు అలా పడిపోవడం చేత నీ తండ్రి అయిన వాయుదేవుడికి కోపం వచ్చి భూమిమీద వీచడం మానేశాడు. అప్పుడు బ్రహ్మగారు పరుగు పరుగున వచ్చి, గాలి వీచకపోతే సృష్టి ఆగిపోతుందని "హనుమా! ఏ అస్త్రము చేత, ఏ శస్త్రము చేత నిన్ను ఎవరూ బంధించలేరు" అని వరం ఇచ్చారు. అలాగే ఇంద్రుడు నీకు స్వచ్ఛంద మరణ వరం ఇచ్చాడు. నీ అంత నువ్వు సంకల్పం చేసి శరీరాన్ని విడిచిపెట్టాలి కాని, నిన్ను పడగొట్టగలిగే పురుషుడు ఈ బ్రహ్మాండంలో ఎక్కడా ఉండడు.
+**Story:** ఆమె నీ తండ్రి అయిన కేసరి యొక్క భార్య. నీ తల్లి కామరూపి అవడంచేత ఒకనాడు మనుష్య రూపం దాల్చి ఒక పర్వత శిఖరం మీద నిలబడింది.
+
+**Image:** Pending creation.
+
+## 11 — Scene 11
+
+**Visual:** The Wind-god embracing her unseen; her rebuke.
+
+**Story:** వాయువు ఆమెని చూసి మోహించి, తన దీర్ఘమైన బాహువుల చేత గట్టిగా కౌగలించుకున్నాడు. అప్పుడా తల్లి 'ఎవడురా దుర్మార్గుడు నా పాతివ్రత్యాన్ని చెరప చూస్తున్నవాడు' అని పలికింది.
+
+**Image:** Pending creation.
+
+## 12 — Scene 12
+
+**Visual:** Vayu's answer.
+
+**Story:** అప్పుడా వాయువు అన్నాడు 'అమ్మా! బ్రహ్మగారు మా తేజస్సులని వానర స్త్రీలయందు ప్రవేశపెట్టి వానరాలని సృష్టించామన్నారు. అందుకని నీ పాతివ్రత్యానికి భంగం కలగకుండా గొప్ప పరాక్రమము ఉన్నవాడు,
+
+**Image:** Pending creation.
+
+## 13 — Scene 13
+
+**Visual:** His promise of a son equal to himself.
+
+**Story:** బుద్ధిమంతుడు, నాతో సమానంగా దూకగలిగినవాడు, ఎగరగలిగినవాడైన పుత్రుడు కేవలం నిన్ను నేను మానసికముగా చూసినంత మాత్రాన నీ కడుపుయందు జన్మించనున్నాడు' అన్నాడు. ఆ కారణం చేత నువ్వు జన్మించావు.
+
+**Image:** Pending creation.
+
+## 14 — Scene 14
+
+**Visual:** Painted inset: the infant Hanuman leaping at the rising sun as at a fruit; Indra's thunderbolt; the child falling.
+
+**Story:** నువ్వు పుట్టగానే ఆకాశంలో ఉన్న సూర్యుడిని చూసి తినే ఫలం అనుకొని ఆయనని పట్టుకోబోయావు. సూర్య పధానికి అడ్డు వస్తున్నావని కోపమొచ్చి ఇంద్రుడు వజ్రాయుధం పెట్టి కొడితే, నీ ఎడమ దవడ చొట్టపడి కింద పడ్డావు.
 
 **Image:** Pending creation.
 
 **Source note:** Why he is called Hanuman — and the two boons: no weapon can bind him; death only at his own will.
 
-## 8 — Scene 08
+## 15 — Scene 15
 
-**Visual:** [Jambavan — the aged king of bears: huge, grizzled, grave and kindly; fix a Character Bible lock before production] standing over [Hanuman Visual Lock], voice rising; painted flashes of Garuda snatching serpents from the sea and of the gale snapping great boughs.
+**Visual:** Overlay "హనుమ"; Vayu withdrawing all wind from the world.
 
-**Story:** నేను ఎన్నో సందర్భాలలో సముద్రంలో ఉన్న పాముల్ని గరుగ్మంతుడు తన్నుకుపోతుండగా చూశాను. నీ తండ్రి అయిన వాయుదేవుడు ప్రభంజనుడై వీస్తే పెద్ద పెద్ద చెట్ల యొక్క కొమ్మలని విరిచేస్తాడు. అటువంటి శక్తిమంతుడైన వాయుదేవుడి కుమారుడవైన నీకు ఆ గమన శక్తి ఉంది, గరుగ్మంతుడికి ఆ గమన శక్తి ఉంది. ఇవ్వాళ కొన్ని కోట్ల వానరముల భవిత, సౌభాగ్యము, ప్రాణములు నీ చేతులలో ఉన్నాయి. నీ వీర్యమును, తేజస్సును, పరాక్రమమును ఒక్కసారి పుంజుకో. 100 యోజనముల సముద్రాన్ని అవలీలగా దాటి సీతమ్మ జాడ కనిపెట్టి ఇక్కడికి రా. హనుమా! నీ శక్తిని చూపించు" అని జాంబవంతుడు అన్నాడు.
+**Story:** సొట్టపడ్డ హనుములు కలిగినవాడివి కనుక నిన్ను హనుమ అని పిలిచారు. నువ్వు అలా పడిపోవడం చేత నీ తండ్రి అయిన వాయుదేవుడికి కోపం వచ్చి భూమిమీద వీచడం మానేశాడు.
+
+**Image:** Pending creation.
+
+## 16 — Scene 16
+
+**Visual:** Brahma hastening with a boon — no weapon will bind him.
+
+**Story:** అప్పుడు బ్రహ్మగారు పరుగు పరుగున వచ్చి, గాలి వీచకపోతే సృష్టి ఆగిపోతుందని "హనుమా! ఏ అస్త్రము చేత, ఏ శస్త్రము చేత నిన్ను ఎవరూ బంధించలేరు" అని వరం ఇచ్చారు.
+
+**Image:** Pending creation.
+
+## 17 — Scene 17
+
+**Visual:** Indra's boon — death only at his own will.
+
+**Story:** అలాగే ఇంద్రుడు నీకు స్వచ్ఛంద మరణ వరం ఇచ్చాడు. నీ అంత నువ్వు సంకల్పం చేసి శరీరాన్ని విడిచిపెట్టాలి కాని, నిన్ను పడగొట్టగలిగే పురుషుడు ఈ బ్రహ్మాండంలో ఎక్కడా ఉండడు.
+
+**Image:** Pending creation.
+
+## 18 — Scene 18
+
+**Visual:** [Jambavan] standing over [Hanuman Visual Lock], voice rising; painted flashes of Garuda snatching serpents from the sea and of the gale snapping great boughs.
+
+**Story:** నేను ఎన్నో సందర్భాలలో సముద్రంలో ఉన్న పాముల్ని గరుగ్మంతుడు తన్నుకుపోతుండగా చూశాను. నీ తండ్రి అయిన వాయుదేవుడు ప్రభంజనుడై వీస్తే పెద్ద పెద్ద చెట్ల యొక్క కొమ్మలని విరిచేస్తాడు.
 
 **Image:** Pending creation.
 
 **Source note:** "The fate of crores of vanaras is in your hands. Hanuma, show your strength."
 
-## 9 — Scene 09
+## 19 — Scene 19
+
+**Visual:** Jambavan — the fate of crores of vanaras is in your hands.
+
+**Story:** అటువంటి శక్తిమంతుడైన వాయుదేవుడి కుమారుడవైన నీకు ఆ గమన శక్తి ఉంది, గరుగ్మంతుడికి ఆ గమన శక్తి ఉంది. ఇవ్వాళ కొన్ని కోట్ల వానరముల భవిత, సౌభాగ్యము, ప్రాణములు నీ చేతులలో ఉన్నాయి.
+
+**Image:** Pending creation.
+
+## 20 — Scene 20
+
+**Visual:** Jambavan — Hanuma, show your strength.
+
+**Story:** నీ వీర్యమును, తేజస్సును, పరాక్రమమును ఒక్కసారి పుంజుకో. 100 యోజనముల సముద్రాన్ని అవలీలగా దాటి సీతమ్మ జాడ కనిపెట్టి ఇక్కడికి రా. హనుమా! నీ శక్తిని చూపించు" అని జాంబవంతుడు అన్నాడు.
+
+**Image:** Pending creation.
+
+## 21 — Scene 21
 
 **Visual:** End card.
 

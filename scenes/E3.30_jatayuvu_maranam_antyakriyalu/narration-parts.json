@@ -36,73 +36,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 3,
-    "id": "02.03",
-    "text": "నువ్వు, లక్ష్మణుడు లేని సమయంలో రావణాసురుడు సీతమ్మని అపహరించి తీసుకుపోయాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "సీతమ్మని అపహరిస్తుంటే రావణాసురిడితో యుద్ధం చేశానయ్యా, నా శక్తి మేర అడ్డుపడ్డాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
-    "text": "రావణుడి రథాన్ని, సారధిని, ధ్వజాన్ని పడగొట్టాను, కాని వాడిని నిగ్రహించలేకపోయాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 6,
-    "id": "02.06",
-    "text": "ఆకాశమార్గంలో సీతమ్మని ఎత్తుకుపోతూ ధూళిని, మేఘాల్ని సృష్టి చేశాడు, ఖడ్గంతో నా రెక్కలని కోసేశాడు, నా పాదములు నరికేశాడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 7,
-    "id": "02.07",
-    "text": "అందుకని నేను ఏమి చెయ్యలేకపోయాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 8,
-    "id": "02.08",
-    "text": "రామ!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 9,
-    "id": "02.09",
-    "text": "నేను చచ్చిపోయానయ్య, ఇంకొక్కసారి నన్ను చంపకు\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "జటాయువు మాటలు విన్న రాముడు, ఆ కోదండంతో పరిగెత్తుకుంటూ వెళ్ళి జటాయువుని గట్టిగా కౌగలించుకుని ఏడిచాడు.",
+    "text": "నువ్వు, లక్ష్మణుడు లేని సమయంలో రావణాసురుడు సీతమ్మని అపహరించి తీసుకుపోయాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -111,7 +48,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "ఆయన అలా ఏడుస్తున్నప్పుడు ఆ కోదండం చేతినుండి విడిపోయి కింద పడిపోయింది.",
+    "text": "సీతమ్మని అపహరిస్తుంటే రావణాసురిడితో యుద్ధం చేశానయ్యా, నా శక్తి మేర అడ్డుపడ్డాను.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -120,7 +57,7 @@
     "scene": 3,
     "part": 3,
     "id": "03.03",
-    "text": "రాముడితో పాటు లక్ష్మణుడు కూడా జటాయువు మీద పడి ఏడిచాడు.",
+    "text": "రావణుడి రథాన్ని, సారధిని, ధ్వజాన్ని పడగొట్టాను, కాని వాడిని నిగ్రహించలేకపోయాను.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -129,8 +66,35 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "రాజ్యం భ్రష్టం వనే వాసః సీతా నష్టా మృతే ద్విజః । ఈదృశీ ఇయం మమా లక్ష్మీః నిర్దహేత్ అపి పావకం ॥",
-    "complete_verse_block": true,
+    "text": "ఆకాశమార్గంలో సీతమ్మని ఎత్తుకుపోతూ ధూళిని, మేఘాల్ని సృష్టి చేశాడు, ఖడ్గంతో నా రెక్కలని కోసేశాడు, నా పాదములు నరికేశాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 2,
+    "id": "04.02",
+    "text": "అందుకని నేను ఏమి చెయ్యలేకపోయాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 3,
+    "id": "04.03",
+    "text": "రామ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 4,
+    "id": "04.04",
+    "text": "నేను చచ్చిపోయానయ్య, ఇంకొక్కసారి నన్ను చంపకు\" అన్నాడు.",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -138,70 +102,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "అప్పుడు రాముడు \"నాకు రాజ్యం పోయింది, అరణ్యానికి వచ్చాను, సీతని పోగొట్టుకున్నాను, నమ్మిన స్నేహితుడైన జటాయువు మరణిస్తున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 2,
-    "id": "05.02",
-    "text": "ఇవ్వాళ నేను పొందుతున్న శోకానికి అగ్నిని తీసుకొని వచ్చి అక్కడ పెడితే, ఆ అగ్నిని నా శోకం కాల్చేస్తుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 3,
-    "id": "05.03",
-    "text": "అంత శోకంలో నేను ఉన్నాను లక్ష్మణా!\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "అలాగే \"జటాయు!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "నాకోసం నువ్వు ఇంత కష్టపడ్డావు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 6,
-    "id": "05.06",
-    "text": "ఒక్కసారి చెప్పు ఆ రావణుడు ఎక్కడ ఉంటాడు, అతని పౌరుష పరాక్రమాలు ఎటువంటివి, సీతని ఎటువైపుకి తీసుకు వెళ్ళాడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 7,
-    "id": "05.07",
-    "text": "ఏ రాజ్యాన్ని పరిపాలిస్తాడు, అతని స్వరూపం ఏమిటి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 8,
-    "id": "05.08",
-    "text": "నాకు చెప్పు\" అన్నాడు.",
+    "text": "జటాయువు మాటలు విన్న రాముడు, ఆ కోదండంతో పరిగెత్తుకుంటూ వెళ్ళి జటాయువుని గట్టిగా కౌగలించుకుని ఏడిచాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -210,7 +111,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "అప్పుడా జటాయువు \"ఆ రావణుడు సీతమ్మని అపహరించి, మేఘములను, ధూళిని సృష్టించి, సీతమ్మని తన ఒడిలో కూర్చోపెట్టుకుని,",
+    "text": "ఆయన అలా ఏడుస్తున్నప్పుడు ఆ కోదండం చేతినుండి విడిపోయి కింద పడిపోయింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -219,79 +120,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "ఆకాశ మార్గంలో దక్షిణ దిక్కుకి తీసుకెళ్ళిపోయాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "ఇంతకన్నా చెప్పాలని ఉంది కాని, నా రెక్కలు తెగిపోవడం వలన, నా కళ్ళు కనపడడం మానేశాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "నా నోటి వెంట మాట రావడంలేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "నువ్వు మాట్లాడుతున్నది వినపడడం లేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 6,
-    "id": "06.06",
-    "text": "నాలో ఉన్న భావాలని చెప్పగలుగుతున్నానో, చెప్పలేకపోతున్నానో తెలియని పరిస్థితి ఏర్పడుతుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 7,
-    "id": "06.07",
-    "text": "అన్నిటినీ మించి ఈ అరణ్యం అంతా నాకు బంగారంగా కనపడుతుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 8,
-    "id": "06.08",
-    "text": "వింద అనే ముహూర్తంలో రావణుడు దొంగిలించాడు కనుక, నీ వస్తువు నీకు దొరుకుతుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 9,
-    "id": "06.09",
-    "text": "ఆ ముహూర్తంలో దొంగలించబడ్డ వస్తువుని తిరిగి యజమాని పొందుతాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 10,
-    "id": "06.10",
-    "text": "నువ్వు సీతమ్మని పొందుతావు, మీ ఇద్దరికీ పట్టాభిషేకం అవుతుంది, నువ్వు చాలా కాలం రాజ్యపాలన చేస్తావయ్య\" అని",
+    "text": "రాముడితో పాటు లక్ష్మణుడు కూడా జటాయువు మీద పడి ఏడిచాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -300,26 +129,8 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "చెబుతుండగా ఆయన నోటినుండి రక్తంతో కూడిన మాంసం ముద్దని కక్కి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 2,
-    "id": "07.02",
-    "text": "తన చిట్టచివర ప్రాణాలని కూడా లాగి \"ఆ రావణాసురుడి తండ్రి విశ్రవసో బ్రహ్మ, ఆయన తమ్ముడు కుబేరుడు\" అని చెప్పి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 3,
-    "id": "07.03",
-    "text": "శిరస్సు పక్కకి పడిపోగా, ఆ జటాయువు మరణించాడు.",
-    "complete_verse_block": false,
+    "text": "రాజ్యం భ్రష్టం వనే వాసః సీతా నష్టా మృతే ద్విజః । ఈదృశీ ఇయం మమా లక్ష్మీః నిర్దహేత్ అపి పావకం ॥",
+    "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -327,70 +138,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "అప్పుడు రాముడు \"చూశావా లక్ష్మణా!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 2,
-    "id": "08.02",
-    "text": "రావణుడు సీతని బలవంతంగా అపహరించుకుపోతుంటే, తన ప్రాణాలను అడ్డుపెట్టి ఈ పక్షి సీతని కాపాడే ప్రయత్నం చేసింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "మనం ఆలోచించి చూస్తే, ధర్మాన్ని పాటించేవారు, శూరులైనవారు, శరణాగతి చేసినవారిని రక్షించేవారు మనుష్యులలోనే కాదు, జంతువులలో కూడా ఉన్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "సీతని అపహరించారు అన్న సంగతి తెలుసుకున్నప్పుడు నేను పొందిన దుఖం కన్నా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 5,
-    "id": "08.05",
-    "text": "ఒక పక్షి నాకు ఉపకారం చెయ్యడం కోసమని తన ప్రాణాలు వదిలేసిందని తెలుసుకొని నేను ఇవ్వాళ ఎక్కువ దుఖం పొందుతున్నాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 6,
-    "id": "08.06",
-    "text": "నాయనా లక్ష్మణా!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 7,
-    "id": "08.07",
-    "text": "దశరథ మహారాజు మనకి ఎలా గౌరవించదగ్గవాడో, ఆయనకి స్నేహితుడైన జటాయువు కూడా మనకి గౌరవింపదగ్గవాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 8,
-    "id": "08.08",
-    "text": "ఆనాడు నేను తండ్రిగారికి ఎలా అంత్యేష్టి సంస్కారం చేశానో, జటాయువుకి ఇవ్వాళ అలా చెయ్యాలని అనుకుంటున్నాను.",
+    "text": "అప్పుడు రాముడు \"నాకు రాజ్యం పోయింది, అరణ్యానికి వచ్చాను, సీతని పోగొట్టుకున్నాను, నమ్మిన స్నేహితుడైన జటాయువు మరణిస్తున్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -399,7 +147,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "అందుకని లక్ష్మణా!",
+    "text": "ఇవ్వాళ నేను పొందుతున్న శోకానికి అగ్నిని తీసుకొని వచ్చి అక్కడ పెడితే, ఆ అగ్నిని నా శోకం కాల్చేస్తుంది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -408,7 +156,7 @@
     "scene": 9,
     "part": 2,
     "id": "09.02",
-    "text": "అక్కడ ఏనుగులు చెట్లని ఒరుసుకుంటూ వెళ్ళినప్పుడు, ఆ చెట్ల యొక్క ఎండుకర్రలు కిందపడతాయి, నువ్వు వెళ్ళి ఆ కర్రలని పట్టుకురా.",
+    "text": "అంత శోకంలో నేను ఉన్నాను లక్ష్మణా!\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -417,7 +165,7 @@
     "scene": 9,
     "part": 3,
     "id": "09.03",
-    "text": "మనం ఈ జటాయువు శరీరాన్ని చితి మీద పెడదాము.",
+    "text": "అలాగే \"జటాయు!",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -426,43 +174,7 @@
     "scene": 9,
     "part": 4,
     "id": "09.04",
-    "text": "ఆయన శరీరాన్ని అగ్నిలో కాల్చాక, రోహి మాంసాన్ని పిండంగా పెడదాము\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 5,
-    "id": "09.05",
-    "text": "(రోహి అనేది ఒక మృగం పేరు, జటాయువు మాంసం తింటాడు కనుక ఆయనకి ఆ మృగ మాంసంతో పిండం పెట్టారు).",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 6,
-    "id": "09.06",
-    "text": "ఆ జటాయువుకి పిండాలు పెట్టాక గోదావరి నదికి వెళ్ళి ఉదకక్రియలు చేసి \"నాచేత సంస్కరింపబడుతున్న ఓ జటాయువా!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 7,
-    "id": "09.07",
-    "text": "నేను నీకు అనుజ్ఞ ఇస్తున్నాను, నీకు ఇష్టం వచ్చిన ఉత్తమలోకాలకి వెళ్ళు\" అని రాముడు అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 8,
-    "id": "09.08",
-    "text": "తరువాత నదిలో జలతర్పణ చేశారు.",
+    "text": "నాకోసం నువ్వు ఇంత కష్టపడ్డావు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -471,7 +183,25 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "జటాయువు ఉత్తమలోకాలని పొందాడు అని వాల్మీకి మహర్షి చెప్పారు.",
+    "text": "ఒక్కసారి చెప్పు ఆ రావణుడు ఎక్కడ ఉంటాడు, అతని పౌరుష పరాక్రమాలు ఎటువంటివి, సీతని ఎటువైపుకి తీసుకు వెళ్ళాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "ఏ రాజ్యాన్ని పరిపాలిస్తాడు, అతని స్వరూపం ఏమిటి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 3,
+    "id": "10.03",
+    "text": "నాకు చెప్పు\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -480,6 +210,276 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
+    "text": "అప్పుడా జటాయువు \"ఆ రావణుడు సీతమ్మని అపహరించి, మేఘములను, ధూళిని సృష్టించి, సీతమ్మని తన ఒడిలో కూర్చోపెట్టుకుని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "ఆకాశ మార్గంలో దక్షిణ దిక్కుకి తీసుకెళ్ళిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "ఇంతకన్నా చెప్పాలని ఉంది కాని, నా రెక్కలు తెగిపోవడం వలన, నా కళ్ళు కనపడడం మానేశాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "నా నోటి వెంట మాట రావడంలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 3,
+    "id": "12.03",
+    "text": "నువ్వు మాట్లాడుతున్నది వినపడడం లేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "నాలో ఉన్న భావాలని చెప్పగలుగుతున్నానో, చెప్పలేకపోతున్నానో తెలియని పరిస్థితి ఏర్పడుతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "అన్నిటినీ మించి ఈ అరణ్యం అంతా నాకు బంగారంగా కనపడుతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 3,
+    "id": "13.03",
+    "text": "వింద అనే ముహూర్తంలో రావణుడు దొంగిలించాడు కనుక, నీ వస్తువు నీకు దొరుకుతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "ఆ ముహూర్తంలో దొంగలించబడ్డ వస్తువుని తిరిగి యజమాని పొందుతాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "నువ్వు సీతమ్మని పొందుతావు, మీ ఇద్దరికీ పట్టాభిషేకం అవుతుంది, నువ్వు చాలా కాలం రాజ్యపాలన చేస్తావయ్య\" అని",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "చెబుతుండగా ఆయన నోటినుండి రక్తంతో కూడిన మాంసం ముద్దని కక్కి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "తన చిట్టచివర ప్రాణాలని కూడా లాగి \"ఆ రావణాసురుడి తండ్రి విశ్రవసో బ్రహ్మ,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "ఆయన తమ్ముడు కుబేరుడు\" అని చెప్పి, శిరస్సు పక్కకి పడిపోగా, ఆ జటాయువు మరణించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "అప్పుడు రాముడు \"చూశావా లక్ష్మణా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "రావణుడు సీతని బలవంతంగా అపహరించుకుపోతుంటే, తన ప్రాణాలను అడ్డుపెట్టి ఈ పక్షి సీతని కాపాడే ప్రయత్నం చేసింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "మనం ఆలోచించి చూస్తే, ధర్మాన్ని పాటించేవారు, శూరులైనవారు, శరణాగతి చేసినవారిని రక్షించేవారు మనుష్యులలోనే కాదు, జంతువులలో కూడా ఉన్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "సీతని అపహరించారు అన్న సంగతి తెలుసుకున్నప్పుడు నేను పొందిన దుఖం కన్నా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "ఒక పక్షి నాకు ఉపకారం చెయ్యడం కోసమని తన ప్రాణాలు వదిలేసిందని తెలుసుకొని నేను ఇవ్వాళ ఎక్కువ దుఖం పొందుతున్నాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "నాయనా లక్ష్మణా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "దశరథ మహారాజు మనకి ఎలా గౌరవించదగ్గవాడో, ఆయనకి స్నేహితుడైన జటాయువు కూడా మనకి గౌరవింపదగ్గవాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 3,
+    "id": "20.03",
+    "text": "ఆనాడు నేను తండ్రిగారికి ఎలా అంత్యేష్టి సంస్కారం చేశానో, జటాయువుకి ఇవ్వాళ అలా చెయ్యాలని అనుకుంటున్నాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "అందుకని లక్ష్మణా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "అక్కడ ఏనుగులు చెట్లని ఒరుసుకుంటూ వెళ్ళినప్పుడు, ఆ చెట్ల యొక్క ఎండుకర్రలు కిందపడతాయి, నువ్వు వెళ్ళి ఆ కర్రలని పట్టుకురా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 3,
+    "id": "21.03",
+    "text": "మనం ఈ జటాయువు శరీరాన్ని చితి మీద పెడదాము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "ఆయన శరీరాన్ని అగ్నిలో కాల్చాక, రోహి మాంసాన్ని పిండంగా పెడదాము\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "(రోహి అనేది ఒక మృగం పేరు, జటాయువు మాంసం తింటాడు కనుక ఆయనకి ఆ మృగ మాంసంతో పిండం పెట్టారు).",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "ఆ జటాయువుకి పిండాలు పెట్టాక గోదావరి నదికి వెళ్ళి ఉదకక్రియలు చేసి \"నాచేత సంస్కరింపబడుతున్న ఓ జటాయువా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "నేను నీకు అనుజ్ఞ ఇస్తున్నాను, నీకు ఇష్టం వచ్చిన ఉత్తమలోకాలకి వెళ్ళు\" అని రాముడు అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 2,
+    "id": "24.02",
+    "text": "తరువాత నదిలో జలతర్పణ చేశారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
+    "text": "జటాయువు ఉత్తమలోకాలని పొందాడు అని వాల్మీకి మహర్షి చెప్పారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 1,
+    "id": "26.01",
     "text": "తర్వాత చూద్దాం — దక్షిణ దిక్కుకి వెళుతున్న రామలక్ష్మణులకి ఏమి ఎదురైందో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

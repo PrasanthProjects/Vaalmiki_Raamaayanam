@@ -40,9 +40,9 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 4 — Scene 04
 
-**Visual:** [Sampati — Jatayu's elder brother: an immense, ancient vulture of the same kind as the Jatayu lock, but wingless, the wing-stumps scorched; fix a lock before production] dragging himself onto a crag above them, eyeing the motionless vanaras with hungry satisfaction.
+**Visual:** [Sampati — Jatayu's elder brother: an immense, ancient vulture of the same kind as the Jatayu lock, but wingless, the wing-stumps scorched; fix a lock before production] dragging himself onto a crag above them.
 
-**Story:** వీళ్ళందరూ రామ కథ చెప్పుకుంటూ ఉండగా అక్కడున్న కొండ శిఖరం మీదకి ఒక పెద్ద పక్షి వచ్చింది, కాని దానికి రెక్కలు లేవు. ఆ పక్షి ఇంతమంది వానరాలని చూసి 'ఆహా ఏమి నా అదృష్టము, ఒకడిని తింటే మిగిలిన వారు పారిపోతారు, కాని వీళ్ళు ప్రాయోపవేశం చేస్తున్నారు కనుక ఎవరూ కదలరు. మెల్లగా ఒక్కొక్కరిని తినవచ్చు' అని ఆ పక్షి అనుకుంది.
+**Story:** వీళ్ళందరూ రామ కథ చెప్పుకుంటూ ఉండగా అక్కడున్న కొండ శిఖరం మీదకి ఒక పెద్ద పక్షి వచ్చింది, కాని దానికి రెక్కలు లేవు. ఆ పక్షి ఇంతమంది వానరాలని చూసి 'ఆహా ఏమి నా అదృష్టము,
 
 **Image:** Pending creation.
 
@@ -50,61 +50,133 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 5 — Scene 05
 
-**Visual:** [Sampati — Jatayu's elder brother: an immense, ancient vulture of the same kind as the Jatayu lock, but wingless, the wing-stumps scorched; fix a lock before production] stiffening as he catches a name; crying out from the crag, shaken.
+**Visual:** Sampati eyeing the motionless vanaras with hungry satisfaction.
 
-**Story:** ఆ వానరాలు చెప్పుకుంటున్న రామ కథ వింటున్న ఆ పక్షి గట్టిగా ఒక మాట అని పలికింది "నా మనస్సు కంపించిపోయేటట్టుగా, నా సోదరుడైన జటాయువు రావణాసురుడి చేత వధింపబడ్డాడన్న మాట చెప్పినవాడు ఎవడురా ఇక్కడ. అసలు నా తమ్ముడు అక్కడికి ఎందుకు వెళ్ళాడు. దశరథ మహారాజు జటాయువుకి స్నేహితుడు, దశరథుడు ఏ కారణం చేత మరణించాడు. నా రెక్కలు కాలిపోయాయి, నా అంతట నేను మీ దగ్గర కుర్చోలేను. ఎవరన్నా వచ్చి నన్ను దించండిరా" అని పలికింది.
+**Story:** ఒకడిని తింటే మిగిలిన వారు పారిపోతారు, కాని వీళ్ళు ప్రాయోపవేశం చేస్తున్నారు కనుక ఎవరూ కదలరు. మెల్లగా ఒక్కొక్కరిని తినవచ్చు' అని ఆ పక్షి అనుకుంది.
+
+**Image:** Pending creation.
+
+## 6 — Scene 06
+
+**Visual:** [Sampati] stiffening as he catches a name; crying out from the crag, shaken.
+
+**Story:** ఆ వానరాలు చెప్పుకుంటున్న రామ కథ వింటున్న ఆ పక్షి గట్టిగా ఒక మాట అని పలికింది "నా మనస్సు కంపించిపోయేటట్టుగా, నా సోదరుడైన జటాయువు రావణాసురుడి చేత వధింపబడ్డాడన్న మాట చెప్పినవాడు ఎవడురా ఇక్కడ.
 
 **Image:** Pending creation.
 
 **Source note:** He hears of Jatayu's death from the vanaras' talk.
 
-## 6 — Scene 06
-
-**Visual:** The vanaras whispering in suspicion; one shrugging — we are dying anyway; [Angada — per E4.12] climbing up and carrying the great bird down.
-
-**Story:** కాని కింద పడుకున్న వానరాలు ఒకరితో ఒకరు "అదంతా ఒట్టిదే, మనల్ని తినెయ్యడానికి అలా అంటుంది. మనం అక్కడికి వెళితే అది మనల్ని తినేస్తుంది" అన్నారు. వాళ్ళల్లో ఒకడు అన్నాడు "అది మనల్ని నిజంగా చంపేసిందే అనుకో, మనం ప్రాయోపవేశం చేస్తున్నాము కదా మరి దానిని తేవడానికి భయం ఎందుకు, వెళ్ళి తీసుకురండి" అన్నాడు. అప్పడు అంగదుడు వెళ్ళి ఆ పక్షిని తీసుకొచ్చాడు.
-
-**Image:** Pending creation.
-
-**Source note:** Vanara logic: if we mean to die, why fear being eaten?
-
 ## 7 — Scene 07
 
-**Visual:** The vanaras ringed round [Sampati — Jatayu's elder brother: an immense, ancient vulture of the same kind as the Jatayu lock, but wingless, the wing-stumps scorched; fix a lock before production]; [Angada — per E4.12] telling Rama's whole story again; then asking who he is.
+**Visual:** Sampati asking how his brother came to be there, and how Dasharatha died.
 
-**Story:** అప్పుడా వానరాలన్నీ ఆ పక్షి చుట్టూ చేరాయి. అప్పుడాయన "అసలు మా జటాయువు ఏమయ్యాడు?" అని అడిగాడు. అంగదుడు మళ్ళి రామ కథ చెప్పడం ప్రారంభించాడు. అంగదుడు రామ కథ మొత్తం చెప్పి 'నువ్వు ఎవరు?' అని ఆ పక్షిని ప్రశ్నించాడు.
+**Story:** అసలు నా తమ్ముడు అక్కడికి ఎందుకు వెళ్ళాడు. దశరథ మహారాజు జటాయువుకి స్నేహితుడు, దశరథుడు ఏ కారణం చేత మరణించాడు.
 
 **Image:** Pending creation.
 
 ## 8 — Scene 08
 
-**Visual:** Painted inset (the p. 408 illustration): two great young vultures racing the sun across the sky; at noon the younger faltering; the elder spreading his wings above him; the wings catching fire; the fall onto the Vindhya.
+**Visual:** Sampati showing his scorched wing-stumps, asking to be helped down.
 
-**Story:** అప్పుడా పక్షి "సంపాతి అనబడే నేను, జటాయువు సోదరులము. సూర్యుడు ఉదయించినప్పటినుండి అస్తమించేలోపు ఆయనతో సమానంగా ప్రయాణం చెయ్యాలని మేము ఒకనాడు పందెం కాసుకున్నాము. అనుకున్న ప్రకారం నేను, జటాయువు సూర్యుడి వెనకాల వెళ్ళిపోతున్నాము. అలా వెళుతుండగా మిట్ట మధ్యాహ్నం వేళ మేము సూర్యుడికి దగ్గరగా వచ్చాము. అప్పుడా సూర్యుడి వేడిని భరించలేక జటాయువు సప్రహతప్పి కిందపడిపోతున్నాడు. పెద్దవాడిని కనుక తమ్ముడిని రక్షించాలని నేను నా రెక్కలని జటాయువుకి అడ్డంగా పెట్టాను. అప్పుడా సూర్యుడి వేడికి నా రెక్కలు కాలిపోయి వింధ్య పర్వతం మీద పడిపోయాను. కాని నా తమ్ముడు ఎటు వెళ్ళిపోయాడో నాకు తెలీలేదు.
+**Story:** నా రెక్కలు కాలిపోయాయి, నా అంతట నేను మీ దగ్గర కుర్చోలేను. ఎవరన్నా వచ్చి నన్ను దించండిరా" అని పలికింది.
+
+**Image:** Pending creation.
+
+## 9 — Scene 09
+
+**Visual:** The vanaras whispering in suspicion.
+
+**Story:** కాని కింద పడుకున్న వానరాలు ఒకరితో ఒకరు "అదంతా ఒట్టిదే, మనల్ని తినెయ్యడానికి అలా అంటుంది. మనం అక్కడికి వెళితే అది మనల్ని తినేస్తుంది" అన్నారు.
+
+**Image:** Pending creation.
+
+**Source note:** Vanara logic: if we mean to die, why fear being eaten?
+
+## 10 — Scene 10
+
+**Visual:** One shrugging — we are dying anyway; [Angada] climbing up and carrying the great bird down.
+
+**Story:** వాళ్ళల్లో ఒకడు అన్నాడు "అది మనల్ని నిజంగా చంపేసిందే అనుకో, మనం ప్రాయోపవేశం చేస్తున్నాము కదా మరి దానిని తేవడానికి భయం ఎందుకు, వెళ్ళి తీసుకురండి" అన్నాడు. అప్పడు అంగదుడు వెళ్ళి ఆ పక్షిని తీసుకొచ్చాడు.
+
+**Image:** Pending creation.
+
+## 11 — Scene 11
+
+**Visual:** The vanaras ringed round [Sampati]; the old bird asking what became of Jatayu.
+
+**Story:** అప్పుడా వానరాలన్నీ ఆ పక్షి చుట్టూ చేరాయి. అప్పుడాయన "అసలు మా జటాయువు ఏమయ్యాడు?" అని అడిగాడు.
+
+**Image:** Pending creation.
+
+## 12 — Scene 12
+
+**Visual:** [Angada] telling Rama's whole story again, then asking who he is.
+
+**Story:** అంగదుడు మళ్ళి రామ కథ చెప్పడం ప్రారంభించాడు. అంగదుడు రామ కథ మొత్తం చెప్పి 'నువ్వు ఎవరు?' అని ఆ పక్షిని ప్రశ్నించాడు.
+
+**Image:** Pending creation.
+
+## 13 — Scene 13
+
+**Visual:** Painted inset: two great young vultures racing the sun across the sky.
+
+**Story:** అప్పుడా పక్షి "సంపాతి అనబడే నేను, జటాయువు సోదరులము. సూర్యుడు ఉదయించినప్పటినుండి అస్తమించేలోపు ఆయనతో సమానంగా ప్రయాణం చెయ్యాలని మేము ఒకనాడు పందెం కాసుకున్నాము.
 
 **Image:** Pending creation.
 
 **Source note:** Sampati shielded Jatayu from the sun and lost his wings for it.
 
-## 9 — Scene 09
+## 14 — Scene 14
 
-**Visual:** [Sampati — Jatayu's elder brother: an immense, ancient vulture of the same kind as the Jatayu lock, but wingless, the wing-stumps scorched; fix a lock before production] bowed with grief, asking to be carried to the sea.
+**Visual:** At noon the younger faltering in the heat.
 
-**Story:** మళ్ళి ఇంతకాలానికి మీవలన నా తమ్ముడి గురించి విన్నాను. నా తమ్ముడు చనిపోయాడన్న వార్త వినడం వలన నాకు చాలా బాధ కలుగుతోంది. చనిపోయిన నా తమ్ముడికి జలతర్పణ ఇవ్వాలి అనుకుంటున్నాను, కాని నేను ఎగరలేను. మీరు నన్ను తీసుకెళ్ళి ఆ సముద్ర జలాల దగ్గర దింపండి, నేను నా తమ్ముడికి తర్పణలు ఇస్తాను" అన్నాడు.
+**Story:** అనుకున్న ప్రకారం నేను, జటాయువు సూర్యుడి వెనకాల వెళ్ళిపోతున్నాము. అలా వెళుతుండగా మిట్ట మధ్యాహ్నం వేళ మేము సూర్యుడికి దగ్గరగా వచ్చాము. అప్పుడా సూర్యుడి వేడిని భరించలేక జటాయువు సప్రహతప్పి కిందపడిపోతున్నాడు.
 
 **Image:** Pending creation.
 
-## 10 — Scene 10
+## 15 — Scene 15
 
-**Visual:** The vanaras bearing [Sampati — Jatayu's elder brother: an immense, ancient vulture of the same kind as the Jatayu lock, but wingless, the wing-stumps scorched; fix a lock before production] to the shore; he offers water to his brother's spirit; back on the hillside they put their question.
+**Visual:** The elder spreading his wings above him; the wings catching fire; the fall onto the Vindhya.
 
-**Story:** సంపాతి కోరిక మేరకు వారు ఆయనని సముద్ర తీరానికి తీసుకువెళ్ళారు, ఆయన అక్కడ జటాయువుకి తర్పణలు సమర్పించాడు. మళ్ళి వెనక్కి తిరిగొచ్చాక ఆ వానరాలు సంపాతితో "జటాయువు రామకార్యంలో సహాయం చేశాడు, నువ్వు కూడా రామకార్యంలో ఏమన్నా సహాయం చెయ్యగలవా. నీకు సీతమ్మ జాడ ఏమన్నా తెలుసా" అని అడిగారు.
+**Story:** పెద్దవాడిని కనుక తమ్ముడిని రక్షించాలని నేను నా రెక్కలని జటాయువుకి అడ్డంగా పెట్టాను. అప్పుడా సూర్యుడి వేడికి నా రెక్కలు కాలిపోయి వింధ్య పర్వతం మీద పడిపోయాను. కాని నా తమ్ముడు ఎటు వెళ్ళిపోయాడో నాకు తెలీలేదు.
+
+**Image:** Pending creation.
+
+## 16 — Scene 16
+
+**Visual:** [Sampati] bowed with grief at the news.
+
+**Story:** మళ్ళి ఇంతకాలానికి మీవలన నా తమ్ముడి గురించి విన్నాను. నా తమ్ముడు చనిపోయాడన్న వార్త వినడం వలన నాకు చాలా బాధ కలుగుతోంది.
+
+**Image:** Pending creation.
+
+## 17 — Scene 17
+
+**Visual:** Sampati asking to be carried to the sea to offer water for his brother.
+
+**Story:** చనిపోయిన నా తమ్ముడికి జలతర్పణ ఇవ్వాలి అనుకుంటున్నాను, కాని నేను ఎగరలేను. మీరు నన్ను తీసుకెళ్ళి ఆ సముద్ర జలాల దగ్గర దింపండి, నేను నా తమ్ముడికి తర్పణలు ఇస్తాను" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 18 — Scene 18
+
+**Visual:** The vanaras bearing [Sampati] to the shore; he offers water to his brother's spirit.
+
+**Story:** సంపాతి కోరిక మేరకు వారు ఆయనని సముద్ర తీరానికి తీసుకువెళ్ళారు, ఆయన అక్కడ జటాయువుకి తర్పణలు సమర్పించాడు.
 
 **Image:** Pending creation.
 
 **Source note:** Jatayu helped Rama — can his brother help too?
 
-## 11 — Scene 11
+## 19 — Scene 19
+
+**Visual:** Back on the hillside the vanaras put their question — can you help Rama's work?
+
+**Story:** మళ్ళి వెనక్కి తిరిగొచ్చాక ఆ వానరాలు సంపాతితో "జటాయువు రామకార్యంలో సహాయం చేశాడు, నువ్వు కూడా రామకార్యంలో ఏమన్నా సహాయం చెయ్యగలవా. నీకు సీతమ్మ జాడ ఏమన్నా తెలుసా" అని అడిగారు.
+
+**Image:** Pending creation.
+
+## 20 — Scene 20
 
 **Visual:** End card.
 

@@ -72,55 +72,10 @@
     "seconds": null
   },
   {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "ఇంకొకడు 'నేను సముద్రాల్ని కలిపెస్తాను' అని, మరొకడు 'నేను పర్వతాలని కుదిపెస్తాను' అని అంటున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 5,
-    "id": "03.05",
-    "text": "'నేను వెళ్ళిన త్రోవలో ఇక చెట్లు ఉండవు, నా తొడల వేగానికి విరిచేస్తాను రా' అని ఒకడు అంటున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 6,
-    "id": "03.06",
-    "text": "'మీరందరూ విశ్రాంతి తీసుకొండిరా, ఆ పదితలల పురుగుని తీసుకొని వచ్చి రాముడి పాదాల దగ్గర పడేస్తాను' అని ఒకడు అంటున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 7,
-    "id": "03.07",
-    "text": "అలా అందరూ తొడలు కొట్టుకుంటూ, తోకలకి ముద్దులు పెట్టుకుంటూ, పైకి కిందకి ఎగురుతూ సంతోషపడిపోతున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 8,
-    "id": "03.08",
-    "text": "అలా అందరూ సుగ్రీవుడి ఆజ్ఞ ప్రకారం నాలు దిక్కులకి వెళ్ళిపోయారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "అప్పుడు రాముడు సుగ్రీవుడితో \"ఇన్ని దిక్కులలో ఉన్న విశేషాలు నీకు ఎలా తెలుసయ్య సుగ్రీవా?\" అన్నాడు.",
+    "text": "ఇంకొకడు 'నేను సముద్రాల్ని కలిపెస్తాను' అని, మరొకడు 'నేను పర్వతాలని కుదిపెస్తాను' అని అంటున్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -129,34 +84,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "సుగ్రీవుడు అన్నాడు \"నన్ను చంపుతానని వాలి వెంటపడితే ఈ భూమి చుట్టూ తిరిగాను, ఇవన్నీ అప్పుడు చూశాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 3,
-    "id": "04.03",
-    "text": "నేను ఎక్కడికి వెళ్ళినా వాలి నావెంట పడ్డాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "ఆఖరికి హనుమంతుడు వాలికి ఉన్న శాపం గురించి చెబితే అప్పుడు ఋష్యమూక పర్వతం మీద కూర్చున్నాను\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 5,
-    "id": "04.05",
-    "text": "అలా వానరాలన్నీ నాలుగు దిక్కులకి వెళ్ళడం వలన రాముడు, లక్ష్మణుడు, సుగ్రీవుడు సంతోషించారు.",
+    "text": "'నేను వెళ్ళిన త్రోవలో ఇక చెట్లు ఉండవు, నా తొడల వేగానికి విరిచేస్తాను రా' అని ఒకడు అంటున్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -165,16 +93,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "సుగ్రీవుడి ఆజ్ఞ ప్రకారం 4 దిక్కులకి వెళ్ళిన వానరములలో 3 దిక్కులకి వెళ్ళిన వానరములు నెల రోజుల తరువాత వెనక్కి తిరిగి వచ్చేశాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 2,
-    "id": "05.02",
-    "text": "వారు అన్ని ప్రాంతాలని వెతికినా సీతమ్మ జాడ ఎక్కడా కనపడలేదు.",
+    "text": "'మీరందరూ విశ్రాంతి తీసుకొండిరా, ఆ పదితలల పురుగుని తీసుకొని వచ్చి రాముడి పాదాల దగ్గర పడేస్తాను' అని ఒకడు అంటున్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -183,7 +102,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "దక్షిణ దిక్కుకి వెళ్ళిన వానరములు వింధ్య పర్వతం దగ్గరికి వెళ్ళి, ఆ పర్వతంలో ఉన్న చెట్లని, గుహలని, సరస్సులని,",
+    "text": "అలా అందరూ తొడలు కొట్టుకుంటూ, తోకలకి ముద్దులు పెట్టుకుంటూ, పైకి కిందకి ఎగురుతూ సంతోషపడిపోతున్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -192,79 +111,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "మార్గమధ్యంలో ఉన్న నదులని, పట్టణాలని, గ్రామాలని అన్వేషిస్తూ వెళుతున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "అలా కొంతదూరం వెళ్ళాక నిర్జనమైన అరణ్యానికి చేరుకున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "అక్కడ చెట్లకి ఒక పండు లేదు, ఆకులు లేవు, ఒక జంతువు కూడా కనబడడం లేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "అక్కడ తినడానికి కనీసం మూలములు కూడా కనపడలేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 6,
-    "id": "06.06",
-    "text": "ఒకప్పుడు కణ్డువు అనే మహర్షి ఈ అరణ్య ప్రాంతంలో ఉండేవారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 7,
-    "id": "06.07",
-    "text": "ఆయన తపఃశక్తికి దేవతలు కూడా భయపడేవారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 8,
-    "id": "06.08",
-    "text": "అటువంటి సమయంలో కణ్డువ మహర్షి కుమారుడు ఈ అరణ్యంలో శరీరాన్ని విడిచిపెట్టాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 9,
-    "id": "06.09",
-    "text": "అప్పుడు కణ్డువ మహర్షికి ఈ అరణ్యంపట్ల ఒక రకమైన ఖేదం ఏర్పడి ఈ అరణ్యంలో మనుష్యులు కాని, పక్షులు కాని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 10,
-    "id": "06.10",
-    "text": "చెట్లు కాని, జంతువులు కాని ఏమి ఉండవు అని శపించారు.",
+    "text": "అలా అందరూ సుగ్రీవుడి ఆజ్ఞ ప్రకారం నాలు దిక్కులకి వెళ్ళిపోయారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -273,52 +120,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "వారు ఆ అరణ్యాన్ని దాటి ముందుకి వెళ్ళగా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 2,
-    "id": "07.02",
-    "text": "ఒక గుహ నుండి భయంకరమైన ఆకారం కలిగిన రాక్షసుడు బయటకి వచ్చి వానరాల మీదకి పరుగులు తీశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 3,
-    "id": "07.03",
-    "text": "ఆ రాక్షసుడిని చూసి దేవతలు కూడా భయపడతారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "అలా వస్తున్న రాక్షసుడిని చూసిన అంగదుడు వస్తున్నది రావణుడే అనుకొని, తన శక్తినంతా కూడబెట్టి అరిచేతితో ఒక దెబ్బ కొట్టాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 5,
-    "id": "07.05",
-    "text": "ఆ దెబ్బకి రాక్షసుడి నవరంధ్రములనుండి రక్తము కారి కిందపడిపోయి మరణించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 6,
-    "id": "07.06",
-    "text": "అప్పుడు వారు ఆ రాక్షసుడు ఉన్నటువంటి గుహని వెతికారు, కాని ఎక్కడా సీతమ్మ జాడ కనపడలేదు.",
+    "text": "అప్పుడు రాముడు సుగ్రీవుడితో \"ఇన్ని దిక్కులలో ఉన్న విశేషాలు నీకు ఎలా తెలుసయ్య సుగ్రీవా?\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -327,7 +129,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "అలా వారు ఎన్ని ప్రాంతాలని వెతికినా ఏమి ప్రయోజనం లేకపోయింది.",
+    "text": "సుగ్రీవుడు అన్నాడు \"నన్ను చంపుతానని వాలి వెంటపడితే ఈ భూమి చుట్టూ తిరిగాను, ఇవన్నీ అప్పుడు చూశాను.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -336,52 +138,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "వాళ్ళకి ఎక్కడా నీరు, ఆహారము దొరకలేదు, దాంతో వాళ్ళకి విపరీతంగా ఆకలి వేసింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "అప్పుడు వారు తడిరెక్కలతో ఎక్కడినుంచన్నా పక్షులు వస్తున్నాయేమో అని వెతుకుతున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "అప్పుడు వాళ్ళకి ఒక బిలం నుండి తడి రెక్కలతో పక్షులు రావడం కనపడింది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 5,
-    "id": "08.05",
-    "text": "వాటి వెనకాల కొన్ని జంతువులు తడి శరీరాలతో బయటకి వస్తున్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 6,
-    "id": "08.06",
-    "text": "అప్పుడా వానరాలు గడ్డితో, లతలతో కప్పబడి ఉన్న ఆ బిలంలోకి ప్రవేశించారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 7,
-    "id": "08.07",
-    "text": "లోపలికి వెళితే అంతా చీకటిగా ఉంది, అందుకని ఆ వానరాలు ఒకరి చేతులని ఒకరు పట్టుకొని మెల్లగా లోపలికి వెళ్ళారు.",
+    "text": "నేను ఎక్కడికి వెళ్ళినా వాలి నావెంట పడ్డాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -390,7 +147,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "తీరా లోపలికి వెళ్ళి చూస్తే, అక్కడ లేని వృక్షం లేదు, అక్కడ లేని లత లేదు, చెట్లన్నీ పండ్లతో,",
+    "text": "ఆఖరికి హనుమంతుడు వాలికి ఉన్న శాపం గురించి చెబితే అప్పుడు ఋష్యమూక పర్వతం మీద కూర్చున్నాను\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -399,70 +156,7 @@
     "scene": 9,
     "part": 2,
     "id": "09.02",
-    "text": "పుష్పాలతో పరమ శోభితంగా ఉన్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "ఆ చెట్లకి పెద్ద పెద్ద తేనెపట్లు ఉన్నాయి, అక్కడున్న సరోవరాలలో బంగారంతో చెయ్యబడ్డ తామరపువ్వులు వికసించి ఉన్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 4,
-    "id": "09.04",
-    "text": "ఆ బంగారు పువ్వు నుండి పడిన పుప్పుడి చేత ఆ సరస్సులలోని నీరు చాలా తీయగా ఉంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 5,
-    "id": "09.05",
-    "text": "అక్కడ అంతస్తులతో కూడిన మేడలు ఉన్నాయి, ఒక అంతస్తు బంగారంతో, మరొక అంతస్తు వెండితో, మరొక అంతస్తు బంగారంతో,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 6,
-    "id": "09.06",
-    "text": "అలా అంతస్తులన్ని బంగారం, వెండితో తాపడం చెయ్యబడి ఉన్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 7,
-    "id": "09.07",
-    "text": "ఎక్కడ చూసినా వజ్రాలు పొదగబడ్డ బంగారు శయనాలు, ఆసనాలు ఉన్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 8,
-    "id": "09.08",
-    "text": "ఆ వానరాలు ఈ ప్రాంతాన్ని చూసి ఆశ్చర్యపోయారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 9,
-    "id": "09.09",
-    "text": "అక్కడ సరోవరాలలో ఉన్న నీటిని తాగి దాహం తీర్చుకున్నారు.",
+    "text": "అలా వానరాలన్నీ నాలుగు దిక్కులకి వెళ్ళడం వలన రాముడు, లక్ష్మణుడు, సుగ్రీవుడు సంతోషించారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -471,6 +165,312 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
+    "text": "సుగ్రీవుడి ఆజ్ఞ ప్రకారం 4 దిక్కులకి వెళ్ళిన వానరములలో 3 దిక్కులకి వెళ్ళిన వానరములు నెల రోజుల తరువాత వెనక్కి తిరిగి వచ్చేశాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "వారు అన్ని ప్రాంతాలని వెతికినా సీతమ్మ జాడ ఎక్కడా కనపడలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "దక్షిణ దిక్కుకి వెళ్ళిన వానరములు వింధ్య పర్వతం దగ్గరికి వెళ్ళి, ఆ పర్వతంలో ఉన్న చెట్లని, గుహలని, సరస్సులని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "మార్గమధ్యంలో ఉన్న నదులని, పట్టణాలని, గ్రామాలని అన్వేషిస్తూ వెళుతున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "అలా కొంతదూరం వెళ్ళాక నిర్జనమైన అరణ్యానికి చేరుకున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "అక్కడ చెట్లకి ఒక పండు లేదు, ఆకులు లేవు, ఒక జంతువు కూడా కనబడడం లేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 3,
+    "id": "12.03",
+    "text": "అక్కడ తినడానికి కనీసం మూలములు కూడా కనపడలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "ఒకప్పుడు కణ్డువు అనే మహర్షి ఈ అరణ్య ప్రాంతంలో ఉండేవారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "ఆయన తపఃశక్తికి దేవతలు కూడా భయపడేవారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 3,
+    "id": "13.03",
+    "text": "అటువంటి సమయంలో కణ్డువ మహర్షి కుమారుడు ఈ అరణ్యంలో శరీరాన్ని విడిచిపెట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "అప్పుడు కణ్డువ మహర్షికి ఈ అరణ్యంపట్ల ఒక రకమైన ఖేదం ఏర్పడి ఈ అరణ్యంలో మనుష్యులు కాని, పక్షులు కాని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "చెట్లు కాని, జంతువులు కాని ఏమి ఉండవు అని శపించారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "వారు ఆ అరణ్యాన్ని దాటి ముందుకి వెళ్ళగా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "ఒక గుహ నుండి భయంకరమైన ఆకారం కలిగిన రాక్షసుడు బయటకి వచ్చి వానరాల మీదకి పరుగులు తీశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "ఆ రాక్షసుడిని చూసి దేవతలు కూడా భయపడతారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "అలా వస్తున్న రాక్షసుడిని చూసిన అంగదుడు వస్తున్నది రావణుడే అనుకొని, తన శక్తినంతా కూడబెట్టి అరిచేతితో ఒక దెబ్బ కొట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "ఆ దెబ్బకి రాక్షసుడి నవరంధ్రములనుండి రక్తము కారి కిందపడిపోయి మరణించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "అప్పుడు వారు ఆ రాక్షసుడు ఉన్నటువంటి గుహని వెతికారు, కాని ఎక్కడా సీతమ్మ జాడ కనపడలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "అలా వారు ఎన్ని ప్రాంతాలని వెతికినా ఏమి ప్రయోజనం లేకపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "వాళ్ళకి ఎక్కడా నీరు, ఆహారము దొరకలేదు, దాంతో వాళ్ళకి విపరీతంగా ఆకలి వేసింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "అప్పుడు వారు తడిరెక్కలతో ఎక్కడినుంచన్నా పక్షులు వస్తున్నాయేమో అని వెతుకుతున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "అప్పుడు వాళ్ళకి ఒక బిలం నుండి తడి రెక్కలతో పక్షులు రావడం కనపడింది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 3,
+    "id": "19.03",
+    "text": "వాటి వెనకాల కొన్ని జంతువులు తడి శరీరాలతో బయటకి వస్తున్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "అప్పుడా వానరాలు గడ్డితో, లతలతో కప్పబడి ఉన్న ఆ బిలంలోకి ప్రవేశించారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "లోపలికి వెళితే అంతా చీకటిగా ఉంది, అందుకని ఆ వానరాలు ఒకరి చేతులని ఒకరు పట్టుకొని మెల్లగా లోపలికి వెళ్ళారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "తీరా లోపలికి వెళ్ళి చూస్తే, అక్కడ లేని వృక్షం లేదు, అక్కడ లేని లత లేదు, చెట్లన్నీ పండ్లతో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "పుష్పాలతో పరమ శోభితంగా ఉన్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "ఆ చెట్లకి పెద్ద పెద్ద తేనెపట్లు ఉన్నాయి, అక్కడున్న సరోవరాలలో బంగారంతో చెయ్యబడ్డ తామరపువ్వులు వికసించి ఉన్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "ఆ బంగారు పువ్వు నుండి పడిన పుప్పుడి చేత ఆ సరస్సులలోని నీరు చాలా తీయగా ఉంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "అక్కడ అంతస్తులతో కూడిన మేడలు ఉన్నాయి, ఒక అంతస్తు బంగారంతో, మరొక అంతస్తు వెండితో, మరొక అంతస్తు బంగారంతో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 2,
+    "id": "23.02",
+    "text": "అలా అంతస్తులన్ని బంగారం, వెండితో తాపడం చెయ్యబడి ఉన్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "ఎక్కడ చూసినా వజ్రాలు పొదగబడ్డ బంగారు శయనాలు, ఆసనాలు ఉన్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 2,
+    "id": "24.02",
+    "text": "ఆ వానరాలు ఈ ప్రాంతాన్ని చూసి ఆశ్చర్యపోయారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 3,
+    "id": "24.03",
+    "text": "అక్కడ సరోవరాలలో ఉన్న నీటిని తాగి దాహం తీర్చుకున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
     "text": "తర్వాత చూద్దాం — ఆ బిలంలో వానరాలకి కనిపించిన తపస్విని స్వయంప్రభ.",
     "complete_verse_block": false,
     "needs_timing_review": false,

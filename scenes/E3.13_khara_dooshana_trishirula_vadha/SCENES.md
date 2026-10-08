@@ -20,9 +20,9 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 2 — Scene 02
 
-**Visual:** [Dushana Visual Lock] charging with his iron club; [Rama, RAMA-S4] cutting him down in one exchange; Dushana crashing to the ground like a fallen elephant; then [Trishira, three-crested helmet] sent in by Khara and falling in turn.
+**Visual:** [Dushana Visual Lock] charging with his iron club; [Rama, RAMA-S4] meeting him in one exchange (the blow off-frame).
 
-**Story:** దూషణుడు ఆగ్రహంతో ఒక పరిఘని పట్టుకొని రాముడి మీదకి వచ్చాడు, అప్పుడు రాముడు వాడి రెండు చేతులు నరికి ఒక దెబ్బ కొట్టాడు. రాముడు కొట్టిన దెబ్బకి ఆ దూషణుడు ఏనుగు పడిపోయినట్టు నేల మీద పడి మరణించాడు. ఇంక ఆ యుద్ధరంగంలో ఖరుడు, త్రిశిరస్కుడు మాత్రమే మిగిలారు. ఖరుడి ఆజ్ఞ మేరకు త్రిశిరస్కుడు యుద్ధానికి వచ్చి రాముడి చేతిలో మరణించాడు.
+**Story:** దూషణుడు ఆగ్రహంతో ఒక పరిఘని పట్టుకొని రాముడి మీదకి వచ్చాడు, అప్పుడు రాముడు వాడి రెండు చేతులు నరికి ఒక దెబ్బ కొట్టాడు.
 
 **Image:** Pending creation.
 
@@ -30,45 +30,125 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 3 — Scene 03
 
-**Visual:** [Khara Visual Lock] storming in on his chariot at tremendous speed and striking Rama's fist as he nocks an arrow — the bowstring snaps, the bow breaks; Khara's arrows tearing off Rama's breastplate; blood running down Rama's chest like streams down a mountainside.
+**Visual:** Dushana crashing to the ground like a fallen elephant; then [Trishira, three-crested helmet] sent in by Khara and falling in turn.
 
-**Story:** అప్పుడు ఖరుడు రాముడితో భయంకరమైన యుద్ధం చేశాడు. రాముడు వింటినారిలో బాణం తొడుగుతుంటే, ఆ ఖరుడు అపారమైన వేగంతో తన రథంలో వచ్చి రాముడి పిడికిలి మీద కొట్టాడు. ఆ దెబ్బకి వింటినారి తెగిపోయి ఆ ధనుస్సు విరిగిపోయింది. అప్పుడా ఖరుడు అమితమైన వేగంతో రాముడి గుండెల మీద బాణాలని వేసేసరికి, ఆయన కవచం పిట్లిపోయి కింద పడిపోయింది. అప్పుడాయన రాముడి గుండెల మీద బాణాలతో కొట్టాడు, ఆ దెబ్బలకి పర్వతాల నుండి సెలయేళ్ళు పారినట్టు, రాముడి గుండెల నుండి రక్తం కారింది.
+**Story:** రాముడు కొట్టిన దెబ్బకి ఆ దూషణుడు ఏనుగు పడిపోయినట్టు నేల మీద పడి మరణించాడు. ఇంక ఆ యుద్ధరంగంలో ఖరుడు, త్రిశిరస్కుడు మాత్రమే మిగిలారు. ఖరుడి ఆజ్ఞ మేరకు త్రిశిరస్కుడు యుద్ధానికి వచ్చి రాముడి చేతిలో మరణించాడు.
+
+**Image:** Pending creation.
+
+## 4 — Scene 04
+
+**Visual:** [Khara Visual Lock] storming in on his chariot at tremendous speed and striking Rama's fist as he nocks an arrow.
+
+**Story:** అప్పుడు ఖరుడు రాముడితో భయంకరమైన యుద్ధం చేశాడు. రాముడు వింటినారిలో బాణం తొడుగుతుంటే, ఆ ఖరుడు అపారమైన వేగంతో తన రథంలో వచ్చి రాముడి పిడికిలి మీద కొట్టాడు.
 
 **Image:** Pending creation.
 
 **Source note:** The one moment Rama is truly pressed in this battle — his bow broken, his armour gone. Keep him steady, never panicked.
 
-## 4 — Scene 04
+## 5 — Scene 05
 
-**Visual:** [Rama, RAMA-S4] reaching for Vishnu's bow — Agastya's gift from E3.07, set close by — and addressing Khara with grave calm: a sinner cannot survive even if he rules three worlds; the world bows to him for a while, then kills him as a crowd beats a lone snake.
+**Visual:** The bowstring snapping, the bow breaking; Khara's arrows tearing off Rama's breastplate.
 
-**Story:** అప్పుడు రాముడు పక్కనే ఉన్న అగస్త్య మహర్షి ప్రసాదమైన విష్ణు ధనుస్సుని తీసుకుని ఖరుడితో ఇలా అన్నాడు "వాడు మూడులోకములను పరిపాలించగల సమర్థుడైనా, పాపకర్మలను చేస్తున్నవాడు మాత్రం బతకడు. లోకానికి విరుద్ధమైన పనులు చేస్తూ బతికేవాడికి కొంతకాలం లోకము తలవంచి ఉండవచ్చు, కాని వాళ్ళకి ఒకసారి అవకాసం వస్తే, పదిమందిలో ఒక్కత్తె వెళ్ళిపోతున్న పాము కనబడితే అందరూ కర్రలతో కొట్టి చంపినట్టు, అందరూ కలిసి అటువంటివాడిని చంపేస్తారు.
+**Story:** ఆ దెబ్బకి వింటినారి తెగిపోయి ఆ ధనుస్సు విరిగిపోయింది. అప్పుడా ఖరుడు అమితమైన వేగంతో రాముడి గుండెల మీద బాణాలని వేసేసరికి, ఆయన కవచం పిట్లిపోయి కింద పడిపోయింది.
 
 **Image:** Pending creation.
 
-**Source note:** Vishnu's bow is the payoff of Agastya's gift — make the continuity explicit (same bow design as E3.07 scene 7).
+## 6 — Scene 06
 
-## 5 — Scene 05
+**Visual:** Blood running down Rama's chest like streams down a mountainside — restrained.
 
-**Visual:** [Rama] continuing, the new bow drawn; intercut: sages at prayer in their huts; a tree flowering in its own season; the scorched earth of Janasthana.
+**Story:** అప్పుడాయన రాముడి గుండెల మీద బాణాలతో కొట్టాడు, ఆ దెబ్బలకి పర్వతాల నుండి సెలయేళ్ళు పారినట్టు, రాముడి గుండెల నుండి రక్తం కారింది.
 
-**Story:** ఎక్కడో పర్ణశాలల్లో కూర్చుని తపస్సు చేసుకునే ఋషుల మీద నీకు ఎందుకు ఆగ్రహం, వాళ్ళని ఎందుకు బాధ పెట్టావు. వాళ్ళని బాధ పెట్టిన ఫలితాన్ని నువ్వు ఇప్పుడు అనుభవిస్తావు. ఏ ఋతువులో ఏ పువ్వు పుయ్యాలో, ఆ ఋతువులో ఆ పువ్వు పూస్తుంది. అలా పాపము యొక్క ఫలితాన్ని ఎప్పుడు ఇవ్వాలో పరమేశ్వరుడికి తెలుసు, ఆయన ఇవ్వడం సిద్ధం చేసిననాడు ఆ ఫలాన్ని అనుభవించాలి. ఏ భూమిని నువ్వు ఇంతకాలం బాధ పెట్టావో, ఆ భూమి ఈనాడు నీ ఒంట్లోనుండి కారే వేడి నెత్తురు తాగుతుంది. నువ్వు ఇంతకాలం చేసిన పాపాలకి ఫలితంగా నీ కుత్తుకని తీసేస్తున్నాను" అన్నాడు.
+**Image:** Pending creation.
+
+## 7 — Scene 07
+
+**Visual:** [Rama, RAMA-S4] reaching for Vishnu's bow — Agastya's gift, set close by — and addressing Khara with grave calm.
+
+**Story:** అప్పుడు రాముడు పక్కనే ఉన్న అగస్త్య మహర్షి ప్రసాదమైన విష్ణు ధనుస్సుని తీసుకుని ఖరుడితో ఇలా అన్నాడు "వాడు మూడులోకములను పరిపాలించగల సమర్థుడైనా,
+
+**Image:** Pending creation.
+
+**Source note:** Vishnu's bow is the payoff of Agastya's gift — make the continuity explicit (same bow design as E3.07 scenes 13-15).
+
+## 8 — Scene 08
+
+**Visual:** Rama — the world bows to a wrongdoer only for a while.
+
+**Story:** పాపకర్మలను చేస్తున్నవాడు మాత్రం బతకడు. లోకానికి విరుద్ధమైన పనులు చేస్తూ బతికేవాడికి కొంతకాలం లోకము తలవంచి ఉండవచ్చు,
+
+**Image:** Pending creation.
+
+## 9 — Scene 09
+
+**Visual:** His image shown briefly — a crowd turning on a lone snake.
+
+**Story:** కాని వాళ్ళకి ఒకసారి అవకాసం వస్తే, పదిమందిలో ఒక్కత్తె వెళ్ళిపోతున్న పాము కనబడితే అందరూ కర్రలతో కొట్టి చంపినట్టు, అందరూ కలిసి అటువంటివాడిని చంపేస్తారు.
+
+**Image:** Pending creation.
+
+## 10 — Scene 10
+
+**Visual:** [Rama] continuing, the new bow drawn; intercut: sages at prayer in their huts.
+
+**Story:** ఎక్కడో పర్ణశాలల్లో కూర్చుని తపస్సు చేసుకునే ఋషుల మీద నీకు ఎందుకు ఆగ్రహం, వాళ్ళని ఎందుకు బాధ పెట్టావు. వాళ్ళని బాధ పెట్టిన ఫలితాన్ని నువ్వు ఇప్పుడు అనుభవిస్తావు.
 
 **Image:** Pending creation.
 
 **Source note:** The flower-in-its-season image is Rama's teaching on karma — give it a gentle visual. This speech fulfils the vow to the sages (E3.02, E3.05).
 
-## 6 — Scene 06
+## 11 — Scene 11
 
-**Visual:** [Khara] hurling a mace like Yama's noose — it scorches trees as it flies; Rama's arrows shattering it mid-air; his next arrows bringing down Khara's banner, horses and charioteer; Khara tearing up a great sala tree and hurling it — cut to pieces by iron arrows; Khara lunging on foot; one arrow; Khara falling dead.
+**Visual:** A tree flowering in its own season — Rama's teaching on the ripening of deeds.
 
-**Story:** ఆ మాటలకి ఆగ్రహించిన ఖరుడు యమపాశం లాంటి ఒక అద్భుతమైన గదని రాముడి మీదకి వేశాడు. ఆ గద దారిలో అడ్డొచ్చిన చెట్లని కాల్చుకుంటూ రాముడి మీదకి దూసుకువచ్చింది. అప్పుడు రాముడు ఏకకాలంలో కొన్ని బాణములను ప్రయోగించగా, ఆ గద మార్గమధ్యలోనే తుత్తునియలు అయిపోయింది. తరువాత రాముడు వేసిన బాణాలకి ఆ ఖరుడి ధ్వజం, గుర్రాలు, సారధి పడిపోయారు. ఆ బాణాలు ఖరుడి గుండెల్లో దిగేసరికి, ఆయన గుండెల్లో నుండి నెత్తురు ఏరులై ప్రవహించింది. ఇక తాను చనిపోతానన్న ఆక్రోశంతో, అక్కడ ఉన్న ఒక పెద్ద సాలవృక్షాన్ని పెరికించి, దాన్ని రాముడి మీద వెయ్యబోగా, రాముడు ఆ చెట్టుని నారాచ బాణములతో ముక్కలు చేశాడు. అప్పుడా ఖరుడు రాముడి మీద పడబోగా, ఆయన బాణం పెట్టి కొట్టగానే, ఖరుడు భూమి మీద పడి మరణించాడు.
+**Story:** ఏ ఋతువులో ఏ పువ్వు పుయ్యాలో, ఆ ఋతువులో ఆ పువ్వు పూస్తుంది. అలా పాపము యొక్క ఫలితాన్ని ఎప్పుడు ఇవ్వాలో పరమేశ్వరుడికి తెలుసు, ఆయన ఇవ్వడం సిద్ధం చేసిననాడు ఆ ఫలాన్ని అనుభవించాలి.
+
+**Image:** Pending creation.
+
+## 12 — Scene 12
+
+**Visual:** The scorched earth of Janasthana; Rama's final sentence on Khara.
+
+**Story:** ఏ భూమిని నువ్వు ఇంతకాలం బాధ పెట్టావో, ఆ భూమి ఈనాడు నీ ఒంట్లోనుండి కారే వేడి నెత్తురు తాగుతుంది. నువ్వు ఇంతకాలం చేసిన పాపాలకి ఫలితంగా నీ కుత్తుకని తీసేస్తున్నాను" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 13 — Scene 13
+
+**Visual:** [Khara] hurling a mace like Yama's noose — it scorches trees as it flies.
+
+**Story:** ఆ మాటలకి ఆగ్రహించిన ఖరుడు యమపాశం లాంటి ఒక అద్భుతమైన గదని రాముడి మీదకి వేశాడు. ఆ గద దారిలో అడ్డొచ్చిన చెట్లని కాల్చుకుంటూ రాముడి మీదకి దూసుకువచ్చింది.
 
 **Image:** Pending creation.
 
 **Source note:** Three escalating attacks (mace, tree, bare hands), three answers. Khara's fall ends the battle of Janasthana — hold the wide shot.
 
-## 7 — Scene 07
+## 14 — Scene 14
+
+**Visual:** Rama's arrows shattering it mid-air; his next arrows bringing down Khara's banner, horses and charioteer.
+
+**Story:** అప్పుడు రాముడు ఏకకాలంలో కొన్ని బాణములను ప్రయోగించగా, ఆ గద మార్గమధ్యలోనే తుత్తునియలు అయిపోయింది. తరువాత రాముడు వేసిన బాణాలకి ఆ ఖరుడి ధ్వజం, గుర్రాలు, సారధి పడిపోయారు.
+
+**Image:** Pending creation.
+
+## 15 — Scene 15
+
+**Visual:** Khara, wounded, tearing up a great sala tree.
+
+**Story:** ఆ బాణాలు ఖరుడి గుండెల్లో దిగేసరికి, ఆయన గుండెల్లో నుండి నెత్తురు ఏరులై ప్రవహించింది. ఇక తాను చనిపోతానన్న ఆక్రోశంతో, అక్కడ ఉన్న ఒక పెద్ద సాలవృక్షాన్ని పెరికించి,
+
+**Image:** Pending creation.
+
+## 16 — Scene 16
+
+**Visual:** The tree cut to pieces by iron arrows; Khara lunging on foot; one arrow; Khara falling.
+
+**Story:** దాన్ని రాముడి మీద వెయ్యబోగా, రాముడు ఆ చెట్టుని నారాచ బాణములతో ముక్కలు చేశాడు. అప్పుడా ఖరుడు రాముడి మీద పడబోగా, ఆయన బాణం పెట్టి కొట్టగానే, ఖరుడు భూమి మీద పడి మరణించాడు.
+
+**Image:** Pending creation.
+
+## 17 — Scene 17
 
 **Visual:** On-screen shloka text over the quiet battlefield at dusk.
 
@@ -78,17 +158,33 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — flagged for the manual audit (printed "రక్ష్సాం"): "In a muhurta and a half, with his sharp arrows, Rama slew in that great battle fourteen thousand shape-shifting rakshasas led by Khara and Dushana."
 
-## 8 — Scene 08
+## 18 — Scene 18
 
-**Visual:** Flowers raining down on [Rama]; rejoicing sages; [Sita, SITA-S3] running down from the cave and embracing him from the front, the side, from behind, again and again, her face shining like the full moon; [Lakshmana] beaming; the three going happily into the hut (the p. 265 illustration). Devotional treatment: flowers falling in slow motion, warm evening light, a sustained veena drone.
+**Visual:** Flowers raining down on [Rama]; rejoicing sages. Devotional treatment: slow motion, warm evening light, a sustained veena drone.
 
-**Story:** రాముడు ఆ 14,000 మంది రాక్షసులని ఒక గంటా 12 నిమిషాల్లో సంహరించాడు. ఆయన తిరిగి వెనక్కి వస్తుంటే పైనుండి పుష్పవృష్టి కురిసింది. అక్కడున్న ఋషులందరూ ఎంతో సంతోషించారు. అప్పటిదాకా ఏమి జరుగుతోందో అని కంగారుపడుతూ చూస్తున్న సీతమ్మ ఒక్కసారి పరుగుపరుగున వచ్చి రాముడిని ముందునుండి గట్టిగా కౌగలించుకుంది. పూర్ణచంద్రుడిలా వెలిగిపోతున్న ముఖంతో సీతమ్మ రాముడిని పక్కన నుండి, వెనక నుండి, మళ్ళీ మళ్ళీ కౌగలించుకుంది. అన్నయ్య చేసిన శత్రు సంహారానికి లక్ష్మణుడు పొంగిపోయాడు. చంద్రుడివంటి ముఖంతో సీతమ్మ కౌగలించుకునేసరికి రాముడు తన కష్టాన్నంతా మరిచిపోయాడు. అప్పుడు వాళ్ళంతా ఆనందంగా పర్ణశాలలోకి వెళ్ళారు.
+**Story:** రాముడు ఆ 14,000 మంది రాక్షసులని ఒక గంటా 12 నిమిషాల్లో సంహరించాడు. ఆయన తిరిగి వెనక్కి వస్తుంటే పైనుండి పుష్పవృష్టి కురిసింది. అక్కడున్న ఋషులందరూ ఎంతో సంతోషించారు.
 
 **Image:** Pending creation.
 
 **Source note:** "ఒక గంటా 12 నిమిషాల్లో" is the source's own reckoning of the muhurta-and-a-half. Sita's joy is the emotional release of two episodes of battle — let it be tender and unhurried. This is the last fully happy moment before the abduction arc.
 
-## 9 — Scene 09
+## 19 — Scene 19
+
+**Visual:** [Sita, SITA-S3] running down from the cave and embracing him again and again, her face shining like the full moon.
+
+**Story:** అప్పటిదాకా ఏమి జరుగుతోందో అని కంగారుపడుతూ చూస్తున్న సీతమ్మ ఒక్కసారి పరుగుపరుగున వచ్చి రాముడిని ముందునుండి గట్టిగా కౌగలించుకుంది. పూర్ణచంద్రుడిలా వెలిగిపోతున్న ముఖంతో సీతమ్మ రాముడిని పక్కన నుండి, వెనక నుండి, మళ్ళీ మళ్ళీ కౌగలించుకుంది.
+
+**Image:** Pending creation.
+
+## 20 — Scene 20
+
+**Visual:** [Lakshmana] beaming; the three going happily into the hut.
+
+**Story:** అన్నయ్య చేసిన శత్రు సంహారానికి లక్ష్మణుడు పొంగిపోయాడు. చంద్రుడివంటి ముఖంతో సీతమ్మ కౌగలించుకునేసరికి రాముడు తన కష్టాన్నంతా మరిచిపోయాడు. అప్పుడు వాళ్ళంతా ఆనందంగా పర్ణశాలలోకి వెళ్ళారు.
+
+**Image:** Pending creation.
+
+## 21 — Scene 21
 
 **Visual:** End card.
 

@@ -36,37 +36,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 3,
-    "id": "02.03",
-    "text": "రాముడు కొట్టిన దెబ్బకి ఆ దూషణుడు ఏనుగు పడిపోయినట్టు నేల మీద పడి మరణించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "ఇంక ఆ యుద్ధరంగంలో ఖరుడు, త్రిశిరస్కుడు మాత్రమే మిగిలారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
-    "text": "ఖరుడి ఆజ్ఞ మేరకు త్రిశిరస్కుడు యుద్ధానికి వచ్చి రాముడి చేతిలో మరణించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "అప్పుడు ఖరుడు రాముడితో భయంకరమైన యుద్ధం చేశాడు.",
+    "text": "రాముడు కొట్టిన దెబ్బకి ఆ దూషణుడు ఏనుగు పడిపోయినట్టు నేల మీద పడి మరణించాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -75,7 +48,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "రాముడు వింటినారిలో బాణం తొడుగుతుంటే, ఆ ఖరుడు అపారమైన వేగంతో తన రథంలో వచ్చి రాముడి పిడికిలి మీద కొట్టాడు.",
+    "text": "ఇంక ఆ యుద్ధరంగంలో ఖరుడు, త్రిశిరస్కుడు మాత్రమే మిగిలారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -84,34 +57,7 @@
     "scene": 3,
     "part": 3,
     "id": "03.03",
-    "text": "ఆ దెబ్బకి వింటినారి తెగిపోయి ఆ ధనుస్సు విరిగిపోయింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "అప్పుడా ఖరుడు అమితమైన వేగంతో రాముడి గుండెల మీద బాణాలని వేసేసరికి, ఆయన కవచం పిట్లిపోయి కింద పడిపోయింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 5,
-    "id": "03.05",
-    "text": "అప్పుడాయన రాముడి గుండెల మీద బాణాలతో కొట్టాడు, ఆ దెబ్బలకి పర్వతాల నుండి సెలయేళ్ళు పారినట్టు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 6,
-    "id": "03.06",
-    "text": "రాముడి గుండెల నుండి రక్తం కారింది.",
+    "text": "ఖరుడి ఆజ్ఞ మేరకు త్రిశిరస్కుడు యుద్ధానికి వచ్చి రాముడి చేతిలో మరణించాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -120,7 +66,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "అప్పుడు రాముడు పక్కనే ఉన్న అగస్త్య మహర్షి ప్రసాదమైన విష్ణు ధనుస్సుని తీసుకుని ఖరుడితో ఇలా అన్నాడు \"వాడు మూడులోకములను పరిపాలించగల సమర్థుడైనా,",
+    "text": "అప్పుడు ఖరుడు రాముడితో భయంకరమైన యుద్ధం చేశాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -129,25 +75,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "పాపకర్మలను చేస్తున్నవాడు మాత్రం బతకడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 3,
-    "id": "04.03",
-    "text": "లోకానికి విరుద్ధమైన పనులు చేస్తూ బతికేవాడికి కొంతకాలం లోకము తలవంచి ఉండవచ్చు, కాని వాళ్ళకి ఒకసారి అవకాసం వస్తే,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "పదిమందిలో ఒక్కత్తె వెళ్ళిపోతున్న పాము కనబడితే అందరూ కర్రలతో కొట్టి చంపినట్టు, అందరూ కలిసి అటువంటివాడిని చంపేస్తారు.",
+    "text": "రాముడు వింటినారిలో బాణం తొడుగుతుంటే, ఆ ఖరుడు అపారమైన వేగంతో తన రథంలో వచ్చి రాముడి పిడికిలి మీద కొట్టాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -156,7 +84,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "ఎక్కడో పర్ణశాలల్లో కూర్చుని తపస్సు చేసుకునే ఋషుల మీద నీకు ఎందుకు ఆగ్రహం, వాళ్ళని ఎందుకు బాధ పెట్టావు.",
+    "text": "ఆ దెబ్బకి వింటినారి తెగిపోయి ఆ ధనుస్సు విరిగిపోయింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -165,43 +93,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "వాళ్ళని బాధ పెట్టిన ఫలితాన్ని నువ్వు ఇప్పుడు అనుభవిస్తావు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 3,
-    "id": "05.03",
-    "text": "ఏ ఋతువులో ఏ పువ్వు పుయ్యాలో, ఆ ఋతువులో ఆ పువ్వు పూస్తుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "అలా పాపము యొక్క ఫలితాన్ని ఎప్పుడు ఇవ్వాలో పరమేశ్వరుడికి తెలుసు, ఆయన ఇవ్వడం సిద్ధం చేసిననాడు ఆ ఫలాన్ని అనుభవించాలి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "ఏ భూమిని నువ్వు ఇంతకాలం బాధ పెట్టావో, ఆ భూమి ఈనాడు నీ ఒంట్లోనుండి కారే వేడి నెత్తురు తాగుతుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 6,
-    "id": "05.06",
-    "text": "నువ్వు ఇంతకాలం చేసిన పాపాలకి ఫలితంగా నీ కుత్తుకని తీసేస్తున్నాను\" అన్నాడు.",
+    "text": "అప్పుడా ఖరుడు అమితమైన వేగంతో రాముడి గుండెల మీద బాణాలని వేసేసరికి, ఆయన కవచం పిట్లిపోయి కింద పడిపోయింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -210,7 +102,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "ఆ మాటలకి ఆగ్రహించిన ఖరుడు యమపాశం లాంటి ఒక అద్భుతమైన గదని రాముడి మీదకి వేశాడు.",
+    "text": "అప్పుడాయన రాముడి గుండెల మీద బాణాలతో కొట్టాడు, ఆ దెబ్బలకి పర్వతాల నుండి సెలయేళ్ళు పారినట్టు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -219,61 +111,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "ఆ గద దారిలో అడ్డొచ్చిన చెట్లని కాల్చుకుంటూ రాముడి మీదకి దూసుకువచ్చింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "అప్పుడు రాముడు ఏకకాలంలో కొన్ని బాణములను ప్రయోగించగా, ఆ గద మార్గమధ్యలోనే తుత్తునియలు అయిపోయింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "తరువాత రాముడు వేసిన బాణాలకి ఆ ఖరుడి ధ్వజం, గుర్రాలు, సారధి పడిపోయారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "ఆ బాణాలు ఖరుడి గుండెల్లో దిగేసరికి, ఆయన గుండెల్లో నుండి నెత్తురు ఏరులై ప్రవహించింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 6,
-    "id": "06.06",
-    "text": "ఇక తాను చనిపోతానన్న ఆక్రోశంతో, అక్కడ ఉన్న ఒక పెద్ద సాలవృక్షాన్ని పెరికించి, దాన్ని రాముడి మీద వెయ్యబోగా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 7,
-    "id": "06.07",
-    "text": "రాముడు ఆ చెట్టుని నారాచ బాణములతో ముక్కలు చేశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 8,
-    "id": "06.08",
-    "text": "అప్పుడా ఖరుడు రాముడి మీద పడబోగా, ఆయన బాణం పెట్టి కొట్టగానే, ఖరుడు భూమి మీద పడి మరణించాడు.",
+    "text": "రాముడి గుండెల నుండి రక్తం కారింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -282,8 +120,8 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "అర్థ అధిక ముహూర్తేన రామేణ నిశితైః శరైః । చతుర్ దశ సహస్రాణి రక్షసాం కామ రూపిణాం । ఖర దూషణ ముఖ్యానాం నిహతాని మహామృధే ॥",
-    "complete_verse_block": true,
+    "text": "అప్పుడు రాముడు పక్కనే ఉన్న అగస్త్య మహర్షి ప్రసాదమైన విష్ణు ధనుస్సుని తీసుకుని ఖరుడితో ఇలా అన్నాడు \"వాడు మూడులోకములను పరిపాలించగల సమర్థుడైనా,",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -291,7 +129,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "రాముడు ఆ 14,000 మంది రాక్షసులని ఒక గంటా 12 నిమిషాల్లో సంహరించాడు.",
+    "text": "పాపకర్మలను చేస్తున్నవాడు మాత్రం బతకడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -300,61 +138,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "ఆయన తిరిగి వెనక్కి వస్తుంటే పైనుండి పుష్పవృష్టి కురిసింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "అక్కడున్న ఋషులందరూ ఎంతో సంతోషించారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "అప్పటిదాకా ఏమి జరుగుతోందో అని కంగారుపడుతూ చూస్తున్న సీతమ్మ ఒక్కసారి పరుగుపరుగున వచ్చి రాముడిని ముందునుండి గట్టిగా కౌగలించుకుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 5,
-    "id": "08.05",
-    "text": "పూర్ణచంద్రుడిలా వెలిగిపోతున్న ముఖంతో సీతమ్మ రాముడిని పక్కన నుండి, వెనక నుండి, మళ్ళీ మళ్ళీ కౌగలించుకుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 6,
-    "id": "08.06",
-    "text": "అన్నయ్య చేసిన శత్రు సంహారానికి లక్ష్మణుడు పొంగిపోయాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 7,
-    "id": "08.07",
-    "text": "చంద్రుడివంటి ముఖంతో సీతమ్మ కౌగలించుకునేసరికి రాముడు తన కష్టాన్నంతా మరిచిపోయాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 8,
-    "id": "08.08",
-    "text": "అప్పుడు వాళ్ళంతా ఆనందంగా పర్ణశాలలోకి వెళ్ళారు.",
+    "text": "లోకానికి విరుద్ధమైన పనులు చేస్తూ బతికేవాడికి కొంతకాలం లోకము తలవంచి ఉండవచ్చు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -363,6 +147,231 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
+    "text": "కాని వాళ్ళకి ఒకసారి అవకాసం వస్తే, పదిమందిలో ఒక్కత్తె వెళ్ళిపోతున్న పాము కనబడితే అందరూ కర్రలతో కొట్టి చంపినట్టు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "అందరూ కలిసి అటువంటివాడిని చంపేస్తారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "ఎక్కడో పర్ణశాలల్లో కూర్చుని తపస్సు చేసుకునే ఋషుల మీద నీకు ఎందుకు ఆగ్రహం, వాళ్ళని ఎందుకు బాధ పెట్టావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "వాళ్ళని బాధ పెట్టిన ఫలితాన్ని నువ్వు ఇప్పుడు అనుభవిస్తావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "ఏ ఋతువులో ఏ పువ్వు పుయ్యాలో, ఆ ఋతువులో ఆ పువ్వు పూస్తుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "అలా పాపము యొక్క ఫలితాన్ని ఎప్పుడు ఇవ్వాలో పరమేశ్వరుడికి తెలుసు, ఆయన ఇవ్వడం సిద్ధం చేసిననాడు ఆ ఫలాన్ని అనుభవించాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "ఏ భూమిని నువ్వు ఇంతకాలం బాధ పెట్టావో, ఆ భూమి ఈనాడు నీ ఒంట్లోనుండి కారే వేడి నెత్తురు తాగుతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "నువ్వు ఇంతకాలం చేసిన పాపాలకి ఫలితంగా నీ కుత్తుకని తీసేస్తున్నాను\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "ఆ మాటలకి ఆగ్రహించిన ఖరుడు యమపాశం లాంటి ఒక అద్భుతమైన గదని రాముడి మీదకి వేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "ఆ గద దారిలో అడ్డొచ్చిన చెట్లని కాల్చుకుంటూ రాముడి మీదకి దూసుకువచ్చింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "అప్పుడు రాముడు ఏకకాలంలో కొన్ని బాణములను ప్రయోగించగా, ఆ గద మార్గమధ్యలోనే తుత్తునియలు అయిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "తరువాత రాముడు వేసిన బాణాలకి ఆ ఖరుడి ధ్వజం, గుర్రాలు, సారధి పడిపోయారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "ఆ బాణాలు ఖరుడి గుండెల్లో దిగేసరికి, ఆయన గుండెల్లో నుండి నెత్తురు ఏరులై ప్రవహించింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "ఇక తాను చనిపోతానన్న ఆక్రోశంతో, అక్కడ ఉన్న ఒక పెద్ద సాలవృక్షాన్ని పెరికించి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "దాన్ని రాముడి మీద వెయ్యబోగా, రాముడు ఆ చెట్టుని నారాచ బాణములతో ముక్కలు చేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "అప్పుడా ఖరుడు రాముడి మీద పడబోగా, ఆయన బాణం పెట్టి కొట్టగానే, ఖరుడు భూమి మీద పడి మరణించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "అర్థ అధిక ముహూర్తేన రామేణ నిశితైః శరైః । చతుర్ దశ సహస్రాణి రక్షసాం కామ రూపిణాం । ఖర దూషణ ముఖ్యానాం నిహతాని మహామృధే ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "రాముడు ఆ 14,000 మంది రాక్షసులని ఒక గంటా 12 నిమిషాల్లో సంహరించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "ఆయన తిరిగి వెనక్కి వస్తుంటే పైనుండి పుష్పవృష్టి కురిసింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 3,
+    "id": "18.03",
+    "text": "అక్కడున్న ఋషులందరూ ఎంతో సంతోషించారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "అప్పటిదాకా ఏమి జరుగుతోందో అని కంగారుపడుతూ చూస్తున్న సీతమ్మ ఒక్కసారి పరుగుపరుగున వచ్చి రాముడిని ముందునుండి గట్టిగా కౌగలించుకుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "పూర్ణచంద్రుడిలా వెలిగిపోతున్న ముఖంతో సీతమ్మ రాముడిని పక్కన నుండి, వెనక నుండి, మళ్ళీ మళ్ళీ కౌగలించుకుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "అన్నయ్య చేసిన శత్రు సంహారానికి లక్ష్మణుడు పొంగిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "చంద్రుడివంటి ముఖంతో సీతమ్మ కౌగలించుకునేసరికి రాముడు తన కష్టాన్నంతా మరిచిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 3,
+    "id": "20.03",
+    "text": "అప్పుడు వాళ్ళంతా ఆనందంగా పర్ణశాలలోకి వెళ్ళారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
     "text": "తర్వాత చూద్దాం — ఈ వార్త లంకకి ఎలా చేరిందో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

@@ -45,37 +45,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "బయట నుండి చూస్తే చిన్న బిలంలా ఉంది, లోపలికి వస్తే ఇంత అద్భుతంగా ఉంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
-    "text": "అసలు ఈ గుహ ఎవరిది, ఈ మేడలు ఎవరివి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 6,
-    "id": "02.06",
-    "text": "మాకు చాలా చిత్రంగా ఉంది\" అన్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "అప్పుడా స్త్రీ \"పూర్వం దానవ రాజు దగ్గర మయుడనే శిల్పి ఉండేవాడు.",
+    "text": "బయట నుండి చూస్తే చిన్న బిలంలా ఉంది, లోపలికి వస్తే ఇంత అద్భుతంగా ఉంది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -84,7 +57,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "ఆ మయుడికి అనేక మాయా శక్తులు ఉన్నాయి.",
+    "text": "అసలు ఈ గుహ ఎవరిది, ఈ మేడలు ఎవరివి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -93,61 +66,7 @@
     "scene": 3,
     "part": 3,
     "id": "03.03",
-    "text": "ఆయన బంగారంతో ఈ ప్రాంతాన్ని నిర్మించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "ఆ మయుడు బ్రహ్మని గూర్చి 1000 సంవత్సరములు తపస్సు చేశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 5,
-    "id": "03.05",
-    "text": "మయుడి తపస్సుకి ప్రీతి చెందిన బ్రహ్మదేవుడు ఆయనకి విశేషమైన వరాలని ఇచ్చాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 6,
-    "id": "03.06",
-    "text": "తదనంతరం శుక్రాచార్యుల యొక్క ధనమంతా తీసుకొని వచ్చి మయుడికి ఇచ్చారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 7,
-    "id": "03.07",
-    "text": "కాని ఆ మయుడు హేమ అనే అప్సరస స్త్రీ యందు మనస్సు పెట్టుకున్నాడని తెలిసి, ఇంద్రుడు ఆయనని తన వజ్రాయుధంతో సంహరించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 8,
-    "id": "03.08",
-    "text": "మయుడు హేమ అనే అప్సరస స్త్రీ యందు మనస్సు పెట్టుకున్నాడు కనుక,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 9,
-    "id": "03.09",
-    "text": "ఈ గుహలో ఉన్న సమస్త ఐశ్వర్యము కూడా హేమకి చెందుతుందని బ్రహ్మగారు తీర్పు ఇచ్చారు.",
+    "text": "మాకు చాలా చిత్రంగా ఉంది\" అన్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -156,7 +75,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "అప్పుడా హేమ ఈ ఐశ్వర్యానికి కాపలాగ ఉండడానికి నన్ను నియమించింది.",
+    "text": "అప్పుడా స్త్రీ \"పూర్వం దానవ రాజు దగ్గర మయుడనే శిల్పి ఉండేవాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -165,7 +84,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "నేను మేరుసావర్ణి యొక్క కుమార్తెని, నా పేరు స్వయంప్రభ.",
+    "text": "ఆ మయుడికి అనేక మాయా శక్తులు ఉన్నాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -174,7 +93,7 @@
     "scene": 4,
     "part": 3,
     "id": "04.03",
-    "text": "నాకు స్నేహితురాలైన హేమ నృత్యమునందు, సంగీతమునందు ప్రావీణ్యము కలిగిన స్త్రి.",
+    "text": "ఆయన బంగారంతో ఈ ప్రాంతాన్ని నిర్మించాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -183,43 +102,7 @@
     "scene": 4,
     "part": 4,
     "id": "04.04",
-    "text": "ఆమె నన్ను పిలిచి ఈ ఐశ్వర్యాన్ని, గుహని కాపాడమని అడిగింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 5,
-    "id": "04.05",
-    "text": "స్నేహము మీద ఉన్న అనురక్తి చేత నేను ఈ గుహని కాపాడుతూ ఉంటాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 6,
-    "id": "04.06",
-    "text": "మిమ్మల్ని చూస్తుంటే బాగా అలసిపోయినట్టున్నారు కనుక మీకు కావలసిన కందమూలాలని, ఫలాలని ఆరగించండి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 7,
-    "id": "04.07",
-    "text": "నీళ్ళు, తేనె కావలసినంత తాగి విశ్రాంతి తీసుకోండి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 8,
-    "id": "04.08",
-    "text": "విశ్రమించిన తరువాత మీరు ఎవరో, ఇక్కడికి ఎందుకు వచ్చారో నాకు చెప్పండి\" అని పలికింది.",
+    "text": "ఆ మయుడు బ్రహ్మని గూర్చి 1000 సంవత్సరములు తపస్సు చేశాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -228,7 +111,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "అప్పుడా వానరాలు కడుపునిండా కావలసిన పదార్ధాలని తిని విశ్రమించారు.",
+    "text": "మయుడి తపస్సుకి ప్రీతి చెందిన బ్రహ్మదేవుడు ఆయనకి విశేషమైన వరాలని ఇచ్చాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -237,7 +120,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "అప్పుడు హనుమంతుడు స్వయంప్రభతో \"దశరథ మహారాజు కుమారుడైన రాముడు తండ్రికి ఇచ్చిన మాట ప్రకారం తన భార్య అయిన సీతమ్మతో,",
+    "text": "తదనంతరం శుక్రాచార్యుల యొక్క ధనమంతా తీసుకొని వచ్చి మయుడికి ఇచ్చారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -246,88 +129,7 @@
     "scene": 5,
     "part": 3,
     "id": "05.03",
-    "text": "తమ్ముడైన లక్ష్మణుడితో కలిసి అరణ్యవాసానికి వచ్చాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "కాని సీతమ్మని రావణాసురుడనే రాక్షసుడు అపహరించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "అపహరింపబడ్డ సీతమ్మని వెతుకుతూ వారు కిష్కిందకి చేరుకున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 6,
-    "id": "05.06",
-    "text": "అక్కడ వారు సుగ్రీవుడితో మైత్రి కుదుర్చుకున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 7,
-    "id": "05.07",
-    "text": "సుగ్రీవుడు రాముడికి ఇచ్చిన మాట నిలబెట్టుకోవడం కోసం నాలుగు దిక్కులకి వానరాలని పంపించాడు, సీతమ్మని వెతకడం కోసం.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 8,
-    "id": "05.08",
-    "text": "దక్షిణ దిక్కుకి యువరాజైన అంగదుడి నాయకత్వంలో వచ్చిన వానర సమూహములో నేను ఒకడిని, నన్ను హనుమ అంటారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 9,
-    "id": "05.09",
-    "text": "సీతమ్మ జాడ కనిపెట్టడం కోసం వెతుకుతున్న మాకు ఎక్కడా ఆహారం, నీరు దొరకలేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 10,
-    "id": "05.10",
-    "text": "అటువంటి సమయంలో తడి రెక్కలతో పక్షులు ఈ గుహ నుండి బయటకి రావడం చూశాము.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 11,
-    "id": "05.11",
-    "text": "ఇక్కడ నీళ్ళు దొరుకుతాయనే ఆశతో మేము ఈ గుహలోకి ప్రవేశించాము.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 12,
-    "id": "05.12",
-    "text": "సీతమ్మ జాడ మాకు చెప్పగలవా\" అని అడిగాడు.",
+    "text": "కాని ఆ మయుడు హేమ అనే అప్సరస స్త్రీ యందు మనస్సు పెట్టుకున్నాడని తెలిసి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -336,7 +138,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "అప్పుడా స్వయంప్రభ \"ఈ గుహలోకి మృగములు తప్ప మిగిలినవి ఎవన్నా ప్రవేశిస్తే, ప్రాణాలతో బయటకి వెళ్ళడం కుదరదు.",
+    "text": "ఇంద్రుడు ఆయనని తన వజ్రాయుధంతో సంహరించాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -345,7 +147,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "కాని మిమ్మల్ని చూస్తే జాలేస్తుంది, అందుకని మీ అందరినీ నా తపఃశక్తి చేత బయటకి పంపిస్తాను.",
+    "text": "మయుడు హేమ అనే అప్సరస స్త్రీ యందు మనస్సు పెట్టుకున్నాడు కనుక,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -354,52 +156,7 @@
     "scene": 6,
     "part": 3,
     "id": "06.03",
-    "text": "మీరు కళ్ళు మూసుకొని, కళ్ళ మీద చేతులు పెట్టుకోండి\" అని పలికింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "అప్పుడా వానరాలు మృదువైన కనురెప్పల్ని మూసి, తమ మృదువైన చేతులతో ఆ కన్నులని మూసుకున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "మళ్ళి ఉత్తర క్షణంలో కనులు తెరిచేసరికి వాళ్ళందరూ వింధ్య పర్వతం మీద ఉన్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 6,
-    "id": "06.06",
-    "text": "ఆ ప్రాంతంలోని చెట్లు పువ్వులతో, పండ్లతో శోభిల్లుతుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 7,
-    "id": "06.07",
-    "text": "అప్పుడా స్వయంప్రభ \"మీరు ఈ గుహలో 4 నెలలపాటు ఉండిపోయారు\" అని చెప్పి గుహలోకి వెళ్ళిపోయింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 8,
-    "id": "06.08",
-    "text": "(ఆ గుహలో వానరాలు గడిపింది కొంత సమయమే అయినా, ఆ గుహలో ఉన్నంత సేపు వాళ్ళకి కాలం తెలీలేదు.)",
+    "text": "ఈ గుహలో ఉన్న సమస్త ఐశ్వర్యము కూడా హేమకి చెందుతుందని బ్రహ్మగారు తీర్పు ఇచ్చారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -408,6 +165,267 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
+    "text": "అప్పుడా హేమ ఈ ఐశ్వర్యానికి కాపలాగ ఉండడానికి నన్ను నియమించింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 2,
+    "id": "07.02",
+    "text": "నేను మేరుసావర్ణి యొక్క కుమార్తెని, నా పేరు స్వయంప్రభ.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 3,
+    "id": "07.03",
+    "text": "నాకు స్నేహితురాలైన హేమ నృత్యమునందు, సంగీతమునందు ప్రావీణ్యము కలిగిన స్త్రి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 1,
+    "id": "08.01",
+    "text": "ఆమె నన్ను పిలిచి ఈ ఐశ్వర్యాన్ని, గుహని కాపాడమని అడిగింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 2,
+    "id": "08.02",
+    "text": "స్నేహము మీద ఉన్న అనురక్తి చేత నేను ఈ గుహని కాపాడుతూ ఉంటాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 1,
+    "id": "09.01",
+    "text": "మిమ్మల్ని చూస్తుంటే బాగా అలసిపోయినట్టున్నారు కనుక మీకు కావలసిన కందమూలాలని, ఫలాలని ఆరగించండి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "నీళ్ళు, తేనె కావలసినంత తాగి విశ్రాంతి తీసుకోండి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 3,
+    "id": "09.03",
+    "text": "విశ్రమించిన తరువాత మీరు ఎవరో, ఇక్కడికి ఎందుకు వచ్చారో నాకు చెప్పండి\" అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "అప్పుడా వానరాలు కడుపునిండా కావలసిన పదార్ధాలని తిని విశ్రమించారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "అప్పుడు హనుమంతుడు స్వయంప్రభతో \"దశరథ మహారాజు కుమారుడైన రాముడు తండ్రికి ఇచ్చిన మాట ప్రకారం తన భార్య అయిన సీతమ్మతో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 3,
+    "id": "10.03",
+    "text": "తమ్ముడైన లక్ష్మణుడితో కలిసి అరణ్యవాసానికి వచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "కాని సీతమ్మని రావణాసురుడనే రాక్షసుడు అపహరించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "అపహరింపబడ్డ సీతమ్మని వెతుకుతూ వారు కిష్కిందకి చేరుకున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 3,
+    "id": "11.03",
+    "text": "అక్కడ వారు సుగ్రీవుడితో మైత్రి కుదుర్చుకున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 4,
+    "id": "11.04",
+    "text": "సుగ్రీవుడు రాముడికి ఇచ్చిన మాట నిలబెట్టుకోవడం కోసం నాలుగు దిక్కులకి వానరాలని పంపించాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "సీతమ్మని వెతకడం కోసం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "దక్షిణ దిక్కుకి యువరాజైన అంగదుడి నాయకత్వంలో వచ్చిన వానర సమూహములో నేను ఒకడిని, నన్ను హనుమ అంటారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 3,
+    "id": "12.03",
+    "text": "సీతమ్మ జాడ కనిపెట్టడం కోసం వెతుకుతున్న మాకు ఎక్కడా ఆహారం, నీరు దొరకలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "అటువంటి సమయంలో తడి రెక్కలతో పక్షులు ఈ గుహ నుండి బయటకి రావడం చూశాము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "ఇక్కడ నీళ్ళు దొరుకుతాయనే ఆశతో మేము ఈ గుహలోకి ప్రవేశించాము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 3,
+    "id": "13.03",
+    "text": "సీతమ్మ జాడ మాకు చెప్పగలవా\" అని అడిగాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "అప్పుడా స్వయంప్రభ \"ఈ గుహలోకి మృగములు తప్ప మిగిలినవి ఎవన్నా ప్రవేశిస్తే, ప్రాణాలతో బయటకి వెళ్ళడం కుదరదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "కాని మిమ్మల్ని చూస్తే జాలేస్తుంది, అందుకని మీ అందరినీ నా తపఃశక్తి చేత బయటకి పంపిస్తాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "మీరు కళ్ళు మూసుకొని, కళ్ళ మీద చేతులు పెట్టుకోండి\" అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "అప్పుడా వానరాలు మృదువైన కనురెప్పల్ని మూసి, తమ మృదువైన చేతులతో ఆ కన్నులని మూసుకున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "మళ్ళి ఉత్తర క్షణంలో కనులు తెరిచేసరికి వాళ్ళందరూ వింధ్య పర్వతం మీద ఉన్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "ఆ ప్రాంతంలోని చెట్లు పువ్వులతో, పండ్లతో శోభిల్లుతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "అప్పుడా స్వయంప్రభ \"మీరు ఈ గుహలో 4 నెలలపాటు ఉండిపోయారు\" అని చెప్పి గుహలోకి వెళ్ళిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "(ఆ గుహలో వానరాలు గడిపింది కొంత సమయమే అయినా, ఆ గుహలో ఉన్నంత సేపు వాళ్ళకి కాలం తెలీలేదు.)",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
     "text": "తర్వాత చూద్దాం — గడువు దాటిపోయిందని అంగదుడి నిరాశ, హనుమంతుడి మాటలు.",
     "complete_verse_block": false,
     "needs_timing_review": false,

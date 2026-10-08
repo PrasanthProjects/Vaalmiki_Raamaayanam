@@ -36,29 +36,20 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 3,
-    "id": "02.03",
+    "scene": 3,
+    "part": 1,
+    "id": "03.01",
     "text": "నేను అదృష్టవంతుడిని అయితే, అసలు రాముడిని అరణ్యాలకి వెళ్ళు అన్న మాట అనకుండా ఇప్పుడే మరణించాలని కోరుకుంటున్నాను,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
+    "scene": 3,
+    "part": 2,
+    "id": "03.02",
     "text": "మరొక్కసారి పాదాలు పట్టుకుంటాను\" అని మళ్ళీ కైకేయ పాదాల మీద పడబోగా ఆవిడ మళ్ళీ తప్పుకుంది.",
     "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 1,
-    "id": "03.01",
-    "text": "త్వం కత్థసే మహా రాజ సత్య వాదీ దృఢ వ్రతః । మమ చ ఇమం వరం కస్మాత్ విధారయితుం ఇచ్ఛసి ॥",
-    "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -66,35 +57,8 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "\"సత్యం, ధర్మం అని అంటావు, సత్యానికి ధర్మానికి కట్టుబడ్డానంటావు, రోజూ ఇన్ని ప్రగల్భాలు చెప్తావు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 2,
-    "id": "04.02",
-    "text": "రెండు వరాలు నేను అడిగితే ఇంత బాధపడుతున్నావు, మాట తప్పుతున్నది నువ్వు కాదా\" అని అడిగింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 3,
-    "id": "04.03",
-    "text": "దశరథుడు ఎంత బతిమాలినా కైకేయ ఒప్పుకోవడంలేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "ఏడ్చి ఏడ్చి ఆయన కళ్ళన్నీ ఉబ్బిపోయాయి, జుట్టు చెరిగిపోయింది, నీరసం వచ్చింది.",
-    "complete_verse_block": false,
+    "text": "త్వం కత్థసే మహా రాజ సత్య వాదీ దృఢ వ్రతః । మమ చ ఇమం వరం కస్మాత్ విధారయితుం ఇచ్ఛసి ॥",
+    "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -102,7 +66,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "అప్పుడాయన \"ఓ రాత్రీ, నాకు నువ్వన్నా ఒక వరం ఇవ్వు, ఈ రాత్రిని ఇలాగే ఉండనీ, తెల్లవారనివ్వమాకు,",
+    "text": "\"సత్యం, ధర్మం అని అంటావు, సత్యానికి ధర్మానికి కట్టుబడ్డానంటావు, రోజూ ఇన్ని ప్రగల్భాలు చెప్తావు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -111,34 +75,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "తెల్లవారితే రాముడితో నేను ఏమి మాట్లాడను, అందుకని నువ్వు ఇలాగే ఉండిపో.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 3,
-    "id": "05.03",
-    "text": "వద్దులే, నువ్వు తొందరగా వెళ్ళిపో, ఎందుకంటే ఇలా చీకటిగానే ఉంటే నేను ఇక్కడే ఉండాల్సివస్తుంది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "నేను అంతసేపు ఈ కైకేయని చూస్తూ ఉండలేను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "కాబట్టి నువ్వు తొందరగా తెల్లవారిపో\" అంటూ తాను ఏమి మాట్లాడుతున్నాడో తెలియని స్థితిలో వెళ్ళిపోయాడు.",
+    "text": "రెండు వరాలు నేను అడిగితే ఇంత బాధపడుతున్నావు, మాట తప్పుతున్నది నువ్వు కాదా\" అని అడిగింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -147,7 +84,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "మెల్లగా తెల్లవారుతోంది.",
+    "text": "దశరథుడు ఎంత బతిమాలినా కైకేయ ఒప్పుకోవడంలేదు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -156,16 +93,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "అప్పుడు కైకేయ \"ఇప్పుడు తెల్లవారుతోంది, రాముడు ఆశీర్వాదం కోసం వస్తాడు, రాముడిని చూసిన తరువాత వాత్సల్యంతో మాట మార్చినా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "భరతుడికి రాజ్యం ఇవ్వకపోయినా, రాముడిని అరణ్యాలకి పంపకపోయినా విషం తాగి ఇదే గదిలో చనిపోతాను\" అని పలికింది.",
+    "text": "ఏడ్చి ఏడ్చి ఆయన కళ్ళన్నీ ఉబ్బిపోయాయి, జుట్టు చెరిగిపోయింది, నీరసం వచ్చింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -174,16 +102,43 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "అప్పుడు దశరథుడు — యః తే మంత్ర కృతః పాణిర్ అగ్నౌ పాపే మయా ధృతః । తం త్యజామి స్వజం చైవ తవ పుత్రం సహ త్వయా ॥ \"నువ్వు నన్ను ఇంత బాధపెట్టావు కాబట్టి, రాముడిని చూసి చనిపోతాను అంటే ఆ వరం కూడా ఇవ్వలేదు కనుక, మంత్రపూర్వకంగా అగ్ని సమక్షంలో పాణిగ్రహణం చేశానో అటువంటి నిన్ను ఇప్పుడే విడిచిపెడుతున్నాను, ఇక నువ్వు నాకు భార్యవి కావు, నువ్వు కొడుకుతో కలిసి రాజ్యం ఏలుకొండి, ఎవడికోసమైతే నువ్వు ఇంత దారుణానికి దిగజారావో ఆ కొడుకుని కూడా వదిలేస్తున్నాను, భరతుడు నా శరీరాన్ని ముట్టుకోకూడదు\" అన్నాడు.",
-    "complete_verse_block": true,
-    "needs_timing_review": true,
+    "text": "అప్పుడాయన \"ఓ రాత్రీ, నాకు నువ్వన్నా ఒక వరం ఇవ్వు, ఈ రాత్రిని ఇలాగే ఉండనీ, తెల్లవారనివ్వమాకు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 2,
+    "id": "07.02",
+    "text": "తెల్లవారితే రాముడితో నేను ఏమి మాట్లాడను, అందుకని నువ్వు ఇలాగే ఉండిపో.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
     "seconds": null
   },
   {
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "తెల్లవారగానే పట్టాభిషేకానికి చెయ్యాల్సిన ఏర్పాట్లన్నీ చేస్తున్నారు, బ్రాహ్మణులు, జానపదులు, సామంతరాజులు మొదలైన వారందరూ రాజు కోసం ఎదురుచూస్తున్నారు.",
+    "text": "వద్దులే, నువ్వు తొందరగా వెళ్ళిపో, ఎందుకంటే ఇలా చీకటిగానే ఉంటే నేను ఇక్కడే ఉండాల్సివస్తుంది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 2,
+    "id": "08.02",
+    "text": "నేను అంతసేపు ఈ కైకేయని చూస్తూ ఉండలేను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 3,
+    "id": "08.03",
+    "text": "కాబట్టి నువ్వు తొందరగా తెల్లవారిపో\" అంటూ తాను ఏమి మాట్లాడుతున్నాడో తెలియని స్థితిలో వెళ్ళిపోయాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -192,7 +147,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "అప్పుడు సుమంత్రుడు దశరథ మహారాజుని కలుద్దామని లోపలికి వెళ్ళి, \"మాతలి ఇంద్రుడిని ఎలా నిద్రలేపుతాడో,",
+    "text": "మెల్లగా తెల్లవారుతోంది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -201,16 +156,7 @@
     "scene": 9,
     "part": 2,
     "id": "09.02",
-    "text": "సూర్యుడు సమస్త లోకాలని ఎలా తన కిరణముల చేత నిద్రలేపుతాడో, నేను నిన్ను అలా నిద్రలేపుతున్నాను, కాబట్టి ఓ మహారాజ,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "నిద్రలేచి బయటకి రండి\" అని అన్నాడు.",
+    "text": "అప్పుడు కైకేయ \"ఇప్పుడు తెల్లవారుతోంది, రాముడు ఆశీర్వాదం కోసం వస్తాడు, రాముడిని చూసిన తరువాత వాత్సల్యంతో మాట మార్చినా,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -219,16 +165,7 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "యువరాజ పట్టాభిషేకం కోసం అందరూ బయట వేచి ఉన్నారు, ఏమి చెయ్యమంటారు అని సుమంత్రుడు దశరథుడిని అడుగగా, దశరథుడు మాట్లాడలేక,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 2,
-    "id": "10.02",
-    "text": "కన్నుల నుండి నీటి ధారలు పడిపోతుండగా మరోసారి స్పృహ తప్పి పడిపోయాడు.",
+    "text": "భరతుడికి రాజ్యం ఇవ్వకపోయినా, రాముడిని అరణ్యాలకి పంపకపోయినా విషం తాగి ఇదే గదిలో చనిపోతాను\" అని పలికింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -237,25 +174,16 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
-    "text": "రాజు ఇలా పడిపోయాడు ఏమిటని సుమంత్రుడు కైకేయని అడుగగా, \"ఏమీలేదయ్యా సుమంత్రా, రాముడికి పట్టాభిషేకం అన్న సంతోషంలో ఆయనకి నిద్రపట్టలేదు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 2,
-    "id": "11.02",
-    "text": "ఇప్పుడే నిద్రపట్టింది అందుకని అలా పడిపోయాడు, నువ్వు గబగబా వెళ్ళి రాజు పిలుస్తున్నాడని చెప్పి రాముడిని తీసుకురా\" అని పలికింది కైకేయ.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
+    "text": "అప్పుడు దశరథుడు — యః తే మంత్ర కృతః పాణిర్ అగ్నౌ పాపే మయా ధృతః । తం త్యజామి స్వజం చైవ తవ పుత్రం సహ త్వయా ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": true,
     "seconds": null
   },
   {
     "scene": 12,
     "part": 1,
     "id": "12.01",
-    "text": "అక్కడే ఉన్న వశిష్ఠుడు మరియు ఇతర సామంతరాజులు దశరథ మహారాజు ఇంకా బయటకి ఎందుకు రావడం లేదు,",
+    "text": "\"నువ్వు నన్ను ఇంత బాధపెట్టావు కాబట్టి, రాముడిని చూసి చనిపోతాను అంటే ఆ వరం కూడా ఇవ్వలేదు కనుక,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -264,25 +192,7 @@
     "scene": 12,
     "part": 2,
     "id": "12.02",
-    "text": "మాకు దర్శనం ఎందుకు ఇవ్వడం లేదని అడుగగా, సుమంత్రుడు మళ్ళీ లోపలికి వెళ్ళి దశరథుడిని స్తోత్రం చెయ్యబోగా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 3,
-    "id": "12.03",
-    "text": "\"రాముడిని తీసుకు రమ్మన్నానుగా, తొందరగా వెళ్ళి రాముడిని తీసుకురా\" అని దశరథుడు అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 4,
-    "id": "12.04",
-    "text": "వెంటనే సుమంత్రుడు రాముడిని తీసుకురావడానికి బయలుదేరాడు.",
+    "text": "మంత్రపూర్వకంగా అగ్ని సమక్షంలో పాణిగ్రహణం చేశానో అటువంటి నిన్ను ఇప్పుడే విడిచిపెడుతున్నాను,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -291,7 +201,7 @@
     "scene": 13,
     "part": 1,
     "id": "13.01",
-    "text": "రాముడి అంతఃపురం ప్రజలందరితో నిండిపోయి ఎంత శోభాయమానంగా ఉంది, రాముడు స్నేహితులతో బాటు జానపదులతో ప్రదేశం కళకళలాడుతోంది,",
+    "text": "ఇక నువ్వు నాకు భార్యవి కావు, నువ్వు కొడుకుతో కలిసి రాజ్యం ఏలుకొండి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -300,25 +210,7 @@
     "scene": 13,
     "part": 2,
     "id": "13.02",
-    "text": "సీతమ్మ చేత అలంకారం చేయబడ్డ రాముడు ఎంతో చక్కగా ఉన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 3,
-    "id": "13.03",
-    "text": "సుమంత్రుడు వచ్చి \"దశరథ మహారాజు మిమ్మల్ని రమ్మంటున్నారు\" అని చెప్పగా రాముడు సుమంత్రుడితో కలిసి బయలుదేరాడు, రాముడితో పాటు లక్ష్మణుడు బయలుదేరాడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 4,
-    "id": "13.04",
-    "text": "మిగతా జనసమూహం అనుసరించి బయలుదేరింది.",
+    "text": "ఎవడికోసమైతే నువ్వు ఇంత దారుణానికి దిగజారావో ఆ కొడుకుని కూడా వదిలేస్తున్నాను, భరతుడు నా శరీరాన్ని ముట్టుకోకూడదు\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -327,25 +219,7 @@
     "scene": 14,
     "part": 1,
     "id": "14.01",
-    "text": "దశరథుడి అంతఃపురానికి చేరుకోగానే మిగతావారందరూ బయటనే ఉండిపోయారు, రాముడు లక్ష్మణుడు లోపలికి వెళ్ళారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 14,
-    "part": 2,
-    "id": "14.02",
-    "text": "జీవచ్ఛవంలా ఉన్న తన తండ్రిని చూసి రాముడు ఆశ్చర్యపోయాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 14,
-    "part": 3,
-    "id": "14.03",
-    "text": "రాముడిని చూడగానే దశరథుడు మూర్ఛపోయాడు.",
+    "text": "తెల్లవారగానే పట్టాభిషేకానికి చెయ్యాల్సిన ఏర్పాట్లన్నీ చేస్తున్నారు, బ్రాహ్మణులు, జానపదులు, సామంతరాజులు మొదలైన వారందరూ రాజు కోసం ఎదురుచూస్తున్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -354,7 +228,7 @@
     "scene": 15,
     "part": 1,
     "id": "15.01",
-    "text": "రాముడు ఇలా అన్నాడు — \"అమ్మా, నేను నాన్నగారిని ఎప్పుడూ ఇలా చూడలేదు, ఎందుకమ్మా నాన్నగారు ఇలా ఉన్నారు.",
+    "text": "అప్పుడు సుమంత్రుడు దశరథ మహారాజుని కలుద్దామని లోపలికి వెళ్ళి, \"మాతలి ఇంద్రుడిని ఎలా నిద్రలేపుతాడో,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -363,25 +237,7 @@
     "scene": 15,
     "part": 2,
     "id": "15.02",
-    "text": "నావలన ఏమన్నా పొరపాటు జరిగిఉంటే చెప్పమ్మా, దిద్దుకుంటాను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 15,
-    "part": 3,
-    "id": "15.03",
-    "text": "ఒక్క నిమిషం నా వలన నాన్నగారు బాధ పడినా ఈ జీవితం నాకు వద్దు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 15,
-    "part": 4,
-    "id": "15.04",
-    "text": "నాకు నిజం చెప్పవా, కౌసల్యని కాని, సుమిత్రకి కాని ఏదన్నా సుస్తి చేసిందా, నాకు సత్యం చెప్పు తల్లీ\" అన్నాడు.",
+    "text": "సూర్యుడు సమస్త లోకాలని ఎలా తన కిరణముల చేత నిద్రలేపుతాడో,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -390,34 +246,7 @@
     "scene": 16,
     "part": 1,
     "id": "16.01",
-    "text": "అప్పుడు కైకేయ \"ఏం చేస్తే మీ నాన్నకి ఈ శోకం పోతుందో చెప్తాను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 16,
-    "part": 2,
-    "id": "16.02",
-    "text": "తీరా చెప్పాక ఇది నాకు కష్టం అని నువ్వు అనకూడదు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 16,
-    "part": 3,
-    "id": "16.03",
-    "text": "అది నీకు కష్టమే అయినా నువ్వు ఆ పని చేస్తే మాత్రం మీ నాన్న మళ్ళీ సంతోషంగా ఉంటాడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 16,
-    "part": 4,
-    "id": "16.04",
-    "text": "అలా నాకు మాట ఇవ్వు రామ, నీకు చెప్తాను\" అని పలికింది.",
+    "text": "నేను నిన్ను అలా నిద్రలేపుతున్నాను, కాబట్టి ఓ మహారాజ, నిద్రలేచి బయటకి రండి\" అని అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -426,7 +255,7 @@
     "scene": 17,
     "part": 1,
     "id": "17.01",
-    "text": "ఈ మాట రాముడితో కైకేయ చెప్తుంటే విన్న దశరథుడు \"ఛీ!\" అని తలవంచుకున్నాడు.",
+    "text": "యువరాజ పట్టాభిషేకం కోసం అందరూ బయట వేచి ఉన్నారు, ఏమి చెయ్యమంటారు అని సుమంత్రుడు దశరథుడిని అడుగగా,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -435,6 +264,222 @@
     "scene": 18,
     "part": 1,
     "id": "18.01",
+    "text": "దశరథుడు మాట్లాడలేక, కన్నుల నుండి నీటి ధారలు పడిపోతుండగా మరోసారి స్పృహ తప్పి పడిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "రాజు ఇలా పడిపోయాడు ఏమిటని సుమంత్రుడు కైకేయని అడుగగా, \"ఏమీలేదయ్యా సుమంత్రా, రాముడికి పట్టాభిషేకం అన్న సంతోషంలో ఆయనకి నిద్రపట్టలేదు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "ఇప్పుడే నిద్రపట్టింది అందుకని అలా పడిపోయాడు, నువ్వు గబగబా వెళ్ళి రాజు పిలుస్తున్నాడని చెప్పి రాముడిని తీసుకురా\" అని పలికింది కైకేయ.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "అక్కడే ఉన్న వశిష్ఠుడు మరియు ఇతర సామంతరాజులు దశరథ మహారాజు ఇంకా బయటకి ఎందుకు రావడం లేదు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "మాకు దర్శనం ఎందుకు ఇవ్వడం లేదని అడుగగా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "సుమంత్రుడు మళ్ళీ లోపలికి వెళ్ళి దశరథుడిని స్తోత్రం చెయ్యబోగా, \"రాముడిని తీసుకు రమ్మన్నానుగా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "తొందరగా వెళ్ళి రాముడిని తీసుకురా\" అని దశరథుడు అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 3,
+    "id": "22.03",
+    "text": "వెంటనే సుమంత్రుడు రాముడిని తీసుకురావడానికి బయలుదేరాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "రాముడి అంతఃపురం ప్రజలందరితో నిండిపోయి ఎంత శోభాయమానంగా ఉంది, రాముడు స్నేహితులతో బాటు జానపదులతో ప్రదేశం కళకళలాడుతోంది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 2,
+    "id": "23.02",
+    "text": "సీతమ్మ చేత అలంకారం చేయబడ్డ రాముడు ఎంతో చక్కగా ఉన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "సుమంత్రుడు వచ్చి \"దశరథ మహారాజు మిమ్మల్ని రమ్మంటున్నారు\" అని చెప్పగా రాముడు సుమంత్రుడితో కలిసి బయలుదేరాడు, రాముడితో పాటు లక్ష్మణుడు బయలుదేరాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 2,
+    "id": "24.02",
+    "text": "మిగతా జనసమూహం అనుసరించి బయలుదేరింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
+    "text": "దశరథుడి అంతఃపురానికి చేరుకోగానే మిగతావారందరూ బయటనే ఉండిపోయారు, రాముడు లక్ష్మణుడు లోపలికి వెళ్ళారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 2,
+    "id": "25.02",
+    "text": "జీవచ్ఛవంలా ఉన్న తన తండ్రిని చూసి రాముడు ఆశ్చర్యపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 3,
+    "id": "25.03",
+    "text": "రాముడిని చూడగానే దశరథుడు మూర్ఛపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 1,
+    "id": "26.01",
+    "text": "రాముడు ఇలా అన్నాడు — \"అమ్మా, నేను నాన్నగారిని ఎప్పుడూ ఇలా చూడలేదు, ఎందుకమ్మా నాన్నగారు ఇలా ఉన్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 2,
+    "id": "26.02",
+    "text": "నావలన ఏమన్నా పొరపాటు జరిగిఉంటే చెప్పమ్మా, దిద్దుకుంటాను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 1,
+    "id": "27.01",
+    "text": "ఒక్క నిమిషం నా వలన నాన్నగారు బాధ పడినా ఈ జీవితం నాకు వద్దు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 2,
+    "id": "27.02",
+    "text": "నాకు నిజం చెప్పవా, కౌసల్యని కాని, సుమిత్రకి కాని ఏదన్నా సుస్తి చేసిందా, నాకు సత్యం చెప్పు తల్లీ\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 1,
+    "id": "28.01",
+    "text": "అప్పుడు కైకేయ \"ఏం చేస్తే మీ నాన్నకి ఈ శోకం పోతుందో చెప్తాను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 2,
+    "id": "28.02",
+    "text": "తీరా చెప్పాక ఇది నాకు కష్టం అని నువ్వు అనకూడదు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 29,
+    "part": 1,
+    "id": "29.01",
+    "text": "అది నీకు కష్టమే అయినా నువ్వు ఆ పని చేస్తే మాత్రం మీ నాన్న మళ్ళీ సంతోషంగా ఉంటాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 29,
+    "part": 2,
+    "id": "29.02",
+    "text": "అలా నాకు మాట ఇవ్వు రామ, నీకు చెప్తాను\" అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 30,
+    "part": 1,
+    "id": "30.01",
+    "text": "ఈ మాట రాముడితో కైకేయ చెప్తుంటే విన్న దశరథుడు \"ఛీ!\" అని తలవంచుకున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 31,
+    "part": 1,
+    "id": "31.01",
     "text": "తర్వాత చూద్దాం — రాముడు ఏమని బదులిస్తాడో, కైకేయ ఆయనకి నిజం ఎలా చెప్తుందో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

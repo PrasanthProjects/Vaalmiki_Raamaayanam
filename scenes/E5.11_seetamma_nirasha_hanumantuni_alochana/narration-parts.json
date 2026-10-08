@@ -36,64 +36,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 3,
-    "id": "02.03",
-    "text": "ప్రతి ఇంట ఏడుపులు వినపడతాయి\" అని, ఈ లంకని పాలిస్తున్న రావణుడికి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "ఇక్కడున్న వాళ్ళకి ధర్మమునందు పూనిక లేదు అందుకనే నన్ను తీసుకొని వచ్చి ఇక్కడ పెట్టాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
-    "text": "ఈ 2 నెలల గడువు తరువాత రావణుడి చేతిలో మరణించడం కన్నా ఇప్పుడే మరణించడం ఉత్తమం అనుకొని' కాలమే మృగ స్వరూపంలో వచ్చి నన్ను మోహపెట్టింది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 6,
-    "id": "02.06",
-    "text": "నేను అల్ప భాగ్యం ఉన్నదానిని అందుకనే ఆ మృగాన్ని చూసి మోహపడి రాముడిని వదిలేశాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 7,
-    "id": "02.07",
-    "text": "రాముడు పక్కన ఉంటే అన్నీ ఉండేవి, రాముడిని వదిలేశాను అన్నీ పోయాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 8,
-    "id": "02.08",
-    "text": "రాముడి తరవాత పుట్టిన వాడిని వదిలాను, లక్ష్మణుడికి ముందు పుట్టినవాడు దూరం అయ్యాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "రామా!",
+    "text": "ప్రతి ఇంట ఏడుపులు వినపడతాయి\" అని, ఈ లంకని పాలిస్తున్న రావణుడికి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -102,79 +48,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "రావణుడు 10 నెలల నుండి తన ఐశ్వర్యాన్ని చూపిస్తూ నన్ను లోభాపెట్టాలని చూశాడు, కాని నేను లొంగలేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "నా భర్తే నాకు దైవం అని నమ్మాను, భూమిమీద పడుకున్నాను, ఉపవాసాలు చేశాను, ధర్మాన్ని పాటించాను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "ఇన్ని చేస్తే నాకు రామానుగ్రహం కలుగుతుందని అనుకున్నాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 5,
-    "id": "03.05",
-    "text": "కాని నువ్వు రాలేదు, నన్ను కరుణించలేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 6,
-    "id": "03.06",
-    "text": "నా పాతివ్రత్యం విఫలమయ్యింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 7,
-    "id": "03.07",
-    "text": "కృతఘ్నుడైన వ్యక్తికి ఉపకారం చేస్తే ఆ ఉపకారము ఎలా మరువబడుతుందో, అలా నేను చేసిన ఉపాసన,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 8,
-    "id": "03.08",
-    "text": "నేను పాటించిన పాతివ్రత్యం అన్నీ కూడా నిష్ప్రయోజనం అయ్యాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 9,
-    "id": "03.09",
-    "text": "ఇక్కడ పొడుచుకొని చనిపోదామంటే కత్తి ఇచ్చేవారు లేరు, విషం తాగి చనిపోదామంటే విషం ఇచ్చే వారు లేరు' అనుకొని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 10,
-    "id": "03.10",
-    "text": "తన కేశపాశములని(జుట్టుని) చెట్టు కొమ్మకి తాడులా బిగించి ఉరి వేసుకొని చనిపోవాలని నిర్ణయించుకుంది.",
+    "text": "ఇక్కడున్న వాళ్ళకి ధర్మమునందు పూనిక లేదు అందుకనే నన్ను తీసుకొని వచ్చి ఇక్కడ పెట్టాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -183,61 +57,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "సీతమ్మ తన జుట్టుని ఆ శింశుపా వృక్షం యొక్క కొమ్మకి గట్టిగా బిగించి చనిపోదామని సిద్ధపడుతున్న తరుణంలో ఆమెకి శుభశకునములు కనపడ్డాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 2,
-    "id": "04.02",
-    "text": "సరోవరంలో నీటి పైభాగమునందు అరవిసిరిన తెల్ల పద్మమునకు నీటి లోపలికి కాడ ఉంటుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 3,
-    "id": "04.03",
-    "text": "ఆ నీటిలోకి ఉండిపోయిన కాడ పక్కకి ఒక చాప వచ్చి నిలబడింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "ఆ చాప అక్కడినుండి వెళ్ళిపోయేముందు తన తోకని కదిపి వెళ్ళిపోయింది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 5,
-    "id": "04.05",
-    "text": "అప్పుడా తోక వెళ్ళి ఆ పద్మము యొక్క కాడకి తగలడం వలన ఆ కాడ కదిలింది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 6,
-    "id": "04.06",
-    "text": "కాడతోపాటు పైన ఉన్న పువ్వు కూడా కదిలింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 7,
-    "id": "04.07",
-    "text": "ఆ పువ్వు ఎలా కదిలిందో సీతమ్మ కన్ను కూడా ఆ సమయంలో అలా అందంగా అటూ ఇటూ కదిలింది.",
+    "text": "ఈ 2 నెలల గడువు తరువాత రావణుడి చేతిలో మరణించడం కన్నా ఇప్పుడే మరణించడం ఉత్తమం అనుకొని' కాలమే మృగ స్వరూపంలో వచ్చి నన్ను మోహపెట్టింది,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -246,70 +66,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "అప్పటిదాకా పైన ఉండి సీతమ్మని చూస్తున్న హనుమంతుడు అనుకున్నాడు 'ఈశ్వరానుగ్రహం చేత నాకు సీతమ్మ దర్శనం అయ్యింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 2,
-    "id": "05.02",
-    "text": "రావణుడిని చూశాను, రావణుడు సీతమ్మతో మాట్లాడిన మాటలు విన్నాను, త్రిజటా స్వప్నం విన్నాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 3,
-    "id": "05.03",
-    "text": "సీతమ్మని జగన్మాతగా తెలుసుకున్నాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "నేను సీతమ్మని చూశాను అన్న విషయాన్ని ఇప్పుడే వెళ్ళి రాముడికి చెప్పలేను, ఎందుకంటే అమ్మ ఇప్పుడు ఉరి పోసుకుంటుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "నేను ఇప్పుడు సీతమ్మని ఓదార్చాలి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 6,
-    "id": "05.06",
-    "text": "ఇప్పుడు నేను అమ్మని ఓదార్చి మాట్లాడకుండా వెళ్ళిపోతే,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 7,
-    "id": "05.07",
-    "text": "రేపుపొద్దున్న సీతమ్మ ఉరి పోసుకొని చనిపోయిందన్న విషయం రాముడికి తెలిస్తే ఆయన బాణముల చేత ఈ సమస్త బ్రహ్మాండములను క్షోభింప చేస్తాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 8,
-    "id": "05.08",
-    "text": "నేను చాలా పండితుడని అనుకున్న వివేచనాశీలత లేని మంత్రి చేత, దూత చేత కార్యములు చెడిపోతాయి.",
+    "text": "నేను అల్ప భాగ్యం ఉన్నదానిని అందుకనే ఆ మృగాన్ని చూసి మోహపడి రాముడిని వదిలేశాను.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -318,7 +75,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "ఇప్పుడు నేను ఏమి చెయ్యాలి?",
+    "text": "రాముడు పక్కన ఉంటే అన్నీ ఉండేవి, రాముడిని వదిలేశాను అన్నీ పోయాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -327,34 +84,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "నేను గట్టిగా మాట్లాడితే చుట్టూ ఉన్న ఈ రాక్షస స్త్రీలు నా మాటలని విని, నా మీదకి వస్తారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "అప్పుడు నాకు వాళ్ళకి యుద్ధం జరుగుతుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "జయాపజయములను విధి నిర్ణయిస్తుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "కాని రాముడు లంకా పట్టణాన్ని చేరేలోపల నేను చేసిన అల్లరి చేత సీతమ్మని రావణుడు వేరొకచోట దాచవచ్చు.",
+    "text": "రాముడి తరవాత పుట్టిన వాడిని వదిలాను, లక్ష్మణుడికి ముందు పుట్టినవాడు దూరం అయ్యాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -363,7 +93,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "ఇప్పుడు నేను వానర బాషలో మాట్లాడితే సీతమ్మకి ఆ బాష అర్ధం కాదు.",
+    "text": "రామా!",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -372,70 +102,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "మనుష్య బాషలో మాట్లాడితే రాక్షసులు గుర్తు పడతారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 3,
-    "id": "07.03",
-    "text": "వానరరూపంలో ఉన్న నేను మనుష్య బాషలో మాట్లాడితే,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "ఇది కచ్చితంగా రావణ మాయె అని భయపడి సీతమ్మ ఇంకా గట్టిగా ఉరి బిగించుకుంటుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 5,
-    "id": "07.05",
-    "text": "నా కారణంగా సీతమ్మ ప్రాణాలను విడిచిపెడితే ఆ పాపం నాకు అంటుకుంటుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 6,
-    "id": "07.06",
-    "text": "ఇప్పుడు నేను ఏమి చెయ్యాలి?",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 7,
-    "id": "07.07",
-    "text": "ఏమి మాట్లాడి సీతమ్మని ఒదార్చాలి?",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 8,
-    "id": "07.08",
-    "text": "అని అనుకుంటూ, \"సీతమ్మ ఉరి పోసుకోవడం మానేసి నా వైపు చూడాలంటే రామనామం ఒక్కటే మార్గము.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 9,
-    "id": "07.09",
-    "text": "సీతమ్మకి చాలా ఇష్టమైన రామ కథని చెబుతాను\" అని అనుకొని హనుమంతుడు రామ కథ చెప్పడం ప్రారంభించాడు.",
+    "text": "రావణుడు 10 నెలల నుండి తన ఐశ్వర్యాన్ని చూపిస్తూ నన్ను లోభాపెట్టాలని చూశాడు, కాని నేను లొంగలేదు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -444,6 +111,339 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
+    "text": "నా భర్తే నాకు దైవం అని నమ్మాను, భూమిమీద పడుకున్నాను, ఉపవాసాలు చేశాను, ధర్మాన్ని పాటించాను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 2,
+    "id": "08.02",
+    "text": "ఇన్ని చేస్తే నాకు రామానుగ్రహం కలుగుతుందని అనుకున్నాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 3,
+    "id": "08.03",
+    "text": "కాని నువ్వు రాలేదు, నన్ను కరుణించలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 1,
+    "id": "09.01",
+    "text": "నా పాతివ్రత్యం విఫలమయ్యింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "కృతఘ్నుడైన వ్యక్తికి ఉపకారం చేస్తే ఆ ఉపకారము ఎలా మరువబడుతుందో, అలా నేను చేసిన ఉపాసన,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 3,
+    "id": "09.03",
+    "text": "నేను పాటించిన పాతివ్రత్యం అన్నీ కూడా నిష్ప్రయోజనం అయ్యాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "ఇక్కడ పొడుచుకొని చనిపోదామంటే కత్తి ఇచ్చేవారు లేరు, విషం తాగి చనిపోదామంటే విషం ఇచ్చే వారు లేరు' అనుకొని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "తన కేశపాశములని(జుట్టుని) చెట్టు కొమ్మకి తాడులా బిగించి ఉరి వేసుకొని చనిపోవాలని నిర్ణయించుకుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "సీతమ్మ తన జుట్టుని ఆ శింశుపా వృక్షం యొక్క కొమ్మకి గట్టిగా బిగించి చనిపోదామని సిద్ధపడుతున్న తరుణంలో ఆమెకి శుభశకునములు కనపడ్డాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "సరోవరంలో నీటి పైభాగమునందు అరవిసిరిన తెల్ల పద్మమునకు నీటి లోపలికి కాడ ఉంటుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "ఆ నీటిలోకి ఉండిపోయిన కాడ పక్కకి ఒక చాప వచ్చి నిలబడింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "ఆ చాప అక్కడినుండి వెళ్ళిపోయేముందు తన తోకని కదిపి వెళ్ళిపోయింది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "అప్పుడా తోక వెళ్ళి ఆ పద్మము యొక్క కాడకి తగలడం వలన ఆ కాడ కదిలింది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 3,
+    "id": "13.03",
+    "text": "కాడతోపాటు పైన ఉన్న పువ్వు కూడా కదిలింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "ఆ పువ్వు ఎలా కదిలిందో సీతమ్మ కన్ను కూడా ఆ సమయంలో అలా అందంగా అటూ ఇటూ కదిలింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "అప్పటిదాకా పైన ఉండి సీతమ్మని చూస్తున్న హనుమంతుడు అనుకున్నాడు 'ఈశ్వరానుగ్రహం చేత నాకు సీతమ్మ దర్శనం అయ్యింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "రావణుడిని చూశాను, రావణుడు సీతమ్మతో మాట్లాడిన మాటలు విన్నాను, త్రిజటా స్వప్నం విన్నాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 3,
+    "id": "15.03",
+    "text": "సీతమ్మని జగన్మాతగా తెలుసుకున్నాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "నేను సీతమ్మని చూశాను అన్న విషయాన్ని ఇప్పుడే వెళ్ళి రాముడికి చెప్పలేను, ఎందుకంటే అమ్మ ఇప్పుడు ఉరి పోసుకుంటుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "నేను ఇప్పుడు సీతమ్మని ఓదార్చాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 3,
+    "id": "16.03",
+    "text": "ఇప్పుడు నేను అమ్మని ఓదార్చి మాట్లాడకుండా వెళ్ళిపోతే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "రేపుపొద్దున్న సీతమ్మ ఉరి పోసుకొని చనిపోయిందన్న విషయం రాముడికి తెలిస్తే ఆయన బాణముల చేత ఈ సమస్త బ్రహ్మాండములను క్షోభింప చేస్తాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "నేను చాలా పండితుడని అనుకున్న వివేచనాశీలత లేని మంత్రి చేత, దూత చేత కార్యములు చెడిపోతాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "ఇప్పుడు నేను ఏమి చెయ్యాలి?",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "నేను గట్టిగా మాట్లాడితే చుట్టూ ఉన్న ఈ రాక్షస స్త్రీలు నా మాటలని విని, నా మీదకి వస్తారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "అప్పుడు నాకు వాళ్ళకి యుద్ధం జరుగుతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "జయాపజయములను విధి నిర్ణయిస్తుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 3,
+    "id": "19.03",
+    "text": "కాని రాముడు లంకా పట్టణాన్ని చేరేలోపల నేను చేసిన అల్లరి చేత సీతమ్మని రావణుడు వేరొకచోట దాచవచ్చు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "ఇప్పుడు నేను వానర బాషలో మాట్లాడితే సీతమ్మకి ఆ బాష అర్ధం కాదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "మనుష్య బాషలో మాట్లాడితే రాక్షసులు గుర్తు పడతారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 3,
+    "id": "20.03",
+    "text": "వానరరూపంలో ఉన్న నేను మనుష్య బాషలో మాట్లాడితే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "ఇది కచ్చితంగా రావణ మాయె అని భయపడి సీతమ్మ ఇంకా గట్టిగా ఉరి బిగించుకుంటుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "నా కారణంగా సీతమ్మ ప్రాణాలను విడిచిపెడితే ఆ పాపం నాకు అంటుకుంటుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 3,
+    "id": "21.03",
+    "text": "ఇప్పుడు నేను ఏమి చెయ్యాలి?",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 4,
+    "id": "21.04",
+    "text": "ఏమి మాట్లాడి సీతమ్మని ఒదార్చాలి?",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "అని అనుకుంటూ, \"సీతమ్మ ఉరి పోసుకోవడం మానేసి నా వైపు చూడాలంటే రామనామం ఒక్కటే మార్గము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "సీతమ్మకి చాలా ఇష్టమైన రామ కథని చెబుతాను\" అని అనుకొని హనుమంతుడు రామ కథ చెప్పడం ప్రారంభించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
     "text": "తర్వాత చూద్దాం — హనుమంతుడు చెప్పిన రామ కథ, సీతమ్మతో సంభాషణ.",
     "complete_verse_block": false,
     "needs_timing_review": false,

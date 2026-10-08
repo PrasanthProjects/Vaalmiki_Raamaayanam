@@ -126,28 +126,19 @@
     "seconds": null
   },
   {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
+    "scene": 7,
+    "part": 1,
+    "id": "07.01",
     "text": "ఆ సరోవరం నుండి ప్రవహించినదే సరయు నది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
   {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "పవిత్రమైన ఆ సరయు నది ఈ ప్రాంతములో గంగా నదితో సంగమిస్తుంది, కాబట్టి ఒకసారి ఆ నదీ సంగమానికి నమస్కరించమన్నాడు.\"",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 7,
-    "part": 1,
-    "id": "07.01",
-    "text": "అవతలి ఒడ్డుకు చేరాక అందరూ పడవ దిగి అరణ్యంగుండా తమ ప్రయాణం కొనసాగించారు.",
+    "part": 2,
+    "id": "07.02",
+    "text": "పవిత్రమైన ఆ సరయు నది ఈ ప్రాంతములో గంగా నదితో సంగమిస్తుంది, కాబట్టి ఒకసారి ఆ నదీ సంగమానికి నమస్కరించమన్నాడు.\"",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -156,7 +147,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "వారు వెళుతుంటే అక్కడున్న అరణ్యములో పక్షులు భయంకరమైన శబ్దాలు చేస్తున్నాయి, పులులు, సింహాలు, ఏనుగులు తిరుగుతున్నాయి.",
+    "text": "అవతలి ఒడ్డుకు చేరాక అందరూ పడవ దిగి అరణ్యంగుండా తమ ప్రయాణం కొనసాగించారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -165,43 +156,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "ఈ అరణ్యం ఇంత భయంకరంగా ఎందుకుందని రామలక్ష్మణులు విశ్వామిత్రుడిని అడగగా, ఆయన ఇలా చెప్పారు — \"పూర్వము ఇక్కడ మలదము,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 2,
-    "id": "09.02",
-    "text": "కరూషము అనే రెండు జనపదాలు ఉండేవి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "ఎంతో సంతోషంగా ఉండాల్సిన ఈ రెండు పట్టణాలు ఇవాళ అలా లేవు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 4,
-    "id": "09.04",
-    "text": "దీనికంతటికి కారణం తాటక అనే ఒక రాక్షసి — ఆమె ఒక యక్ష కాంత, రాక్షసిగా మారి ఇక్కడున్న జానపదులందరినీ హింసించేది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 5,
-    "id": "09.05",
-    "text": "అందుకనే ఇక్కడ ఎవరూ లేరు\" అన్నాడు.",
+    "text": "వారు వెళుతుంటే అక్కడున్న అరణ్యములో పక్షులు భయంకరమైన శబ్దాలు చేస్తున్నాయి, పులులు, సింహాలు, ఏనుగులు తిరుగుతున్నాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -210,7 +165,7 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "అప్పుడు రాముడు, \"ఈ నగరాలు ఎలా ఏర్పడ్డాయి\" అని అడగగా విశ్వామిత్రుడు ఇలా చెప్పాడు —",
+    "text": "ఈ అరణ్యం ఇంత భయంకరంగా ఎందుకుందని రామలక్ష్మణులు విశ్వామిత్రుడిని అడగగా, ఆయన ఇలా చెప్పారు — \"పూర్వము ఇక్కడ మలదము,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -219,34 +174,7 @@
     "scene": 10,
     "part": 2,
     "id": "10.02",
-    "text": "\"ఒకప్పుడు ఇంద్రుడు వృత్రాసురుడనే రాక్షసుడిని సంహరించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 3,
-    "id": "10.03",
-    "text": "వృత్రాసురుడు బ్రాహ్మణుడు కావడం వలన ఆయనని చంపినందుకు ఇంద్రుడికి బ్రహ్మహత్యా పాతకం వచ్చింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 4,
-    "id": "10.04",
-    "text": "ఆ పాతకం వలన ఇంద్రుడికి రెండు లక్షణాలు వచ్చాయి — ఆయనకి శరీరంలో మలం పుట్టడం ప్రారంభమయ్యింది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 5,
-    "id": "10.05",
-    "text": "అలాగే ఆకలి కూడా కలిగింది.\"",
+    "text": "కరూషము అనే రెండు జనపదాలు ఉండేవి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -255,25 +183,7 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
-    "text": "\"అప్పుడు ఆయన ఋషులని ఆశ్రయిస్తే వారు ఆ రెండు లక్షణాలని తొలగించారు, కాని ఆ రెండు భూమి మీద పడ్డాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 2,
-    "id": "11.02",
-    "text": "అవి పడ్డ ప్రదేశాలని మలదము, కరూషము అనే రెండు జానపదములుగా వర్ధిల్లుతాయి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 3,
-    "id": "11.03",
-    "text": "ఇక్కడున్న ప్రజలు సుఖసంతోషములతో ఆనందంగా ఉంటారని ఇంద్రుడు వరం ఇచ్చాడు.\"",
+    "text": "ఎంతో సంతోషంగా ఉండాల్సిన ఈ రెండు పట్టణాలు ఇవాళ అలా లేవు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -282,7 +192,7 @@
     "scene": 12,
     "part": 1,
     "id": "12.01",
-    "text": "\"అలాగే పూర్వ కాలములో సుకేతు అనే యక్షుడికి పిల్లలు లేకపోతే బ్రహ్మ గూర్చి తపస్సు చేశాడు.",
+    "text": "దీనికంతటికి కారణం తాటక అనే ఒక రాక్షసి — ఆమె ఒక యక్ష కాంత, రాక్షసిగా మారి ఇక్కడున్న జానపదులందరినీ హింసించేది,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -291,25 +201,7 @@
     "scene": 12,
     "part": 2,
     "id": "12.02",
-    "text": "బ్రహ్మదేవుడు ప్రత్యక్షమై 'నేను నీకు కొడుకులని ఇవ్వను, ఒక కూతురుని ఇస్తాను, ఆమె కామరూపి, మహా అందగత్తె,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 3,
-    "id": "12.03",
-    "text": "ఆమెకి 1000 ఏనుగుల బలముంటుంది' అని వరం ఇచ్చాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 4,
-    "id": "12.04",
-    "text": "ఆమె పేరు తాటక.\"",
+    "text": "అందుకనే ఇక్కడ ఎవరూ లేరు\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -318,7 +210,7 @@
     "scene": 13,
     "part": 1,
     "id": "13.01",
-    "text": "\"ఆమెకి యవ్వనం వచ్చాక సుందుడుకి ఇచ్చి వివాహం చేశారు.",
+    "text": "అప్పుడు రాముడు, \"ఈ నగరాలు ఎలా ఏర్పడ్డాయి\" అని అడగగా విశ్వామిత్రుడు ఇలా చెప్పాడు —",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -327,16 +219,7 @@
     "scene": 13,
     "part": 2,
     "id": "13.02",
-    "text": "వాళ్ళకి మారీచుడు జన్మించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 3,
-    "id": "13.03",
-    "text": "1000 ఏనుగుల బలం ఉండడం వలన, గర్వముతో, అరణ్యములో ఇష్టమొచ్చినట్టు తిరిగేవారు.\"",
+    "text": "\"ఒకప్పుడు ఇంద్రుడు వృత్రాసురుడనే రాక్షసుడిని సంహరించాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -345,25 +228,7 @@
     "scene": 14,
     "part": 1,
     "id": "14.01",
-    "text": "\"ఒకనాడు సుందుడు అగస్త్య మహర్షి మీద దాడికి దిగాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 14,
-    "part": 2,
-    "id": "14.02",
-    "text": "ఆయనకి ఆగ్రహం వచ్చి సుందుడిని సంహరించారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 14,
-    "part": 3,
-    "id": "14.03",
-    "text": "ఇది గమనించిన తాటక తన కుమారుడితో కలిసి అగస్త్య మహర్షి మీదకి వచ్చింది,\"",
+    "text": "వృత్రాసురుడు బ్రాహ్మణుడు కావడం వలన ఆయనని చంపినందుకు ఇంద్రుడికి బ్రహ్మహత్యా పాతకం వచ్చింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -372,7 +237,7 @@
     "scene": 15,
     "part": 1,
     "id": "15.01",
-    "text": "\"అప్పుడాయన తాటకని 'నీకు వికృతరూపం వచ్చుగాక' అని, మారీచుడిని 'ఇవ్వాళ్టినుండి రాక్షసుడివి అవుతావని' శపించారు.",
+    "text": "ఆ పాతకం వలన ఇంద్రుడికి రెండు లక్షణాలు వచ్చాయి — ఆయనకి శరీరంలో మలం పుట్టడం ప్రారంభమయ్యింది,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -381,16 +246,7 @@
     "scene": 15,
     "part": 2,
     "id": "15.02",
-    "text": "ఆ తాటక ఈ రెండు నగరాల్లో సంచరిస్తుంది, ఆమె నరమాంస భక్షణకి అలవాటుపడింది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 15,
-    "part": 3,
-    "id": "15.03",
-    "text": "అందుకే ఈ నగరాలలోని జనాలు ఊరు వదిలి వెళ్ళిపోయారు.\"",
+    "text": "అలాగే ఆకలి కూడా కలిగింది.\"",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -399,43 +255,7 @@
     "scene": 16,
     "part": 1,
     "id": "16.01",
-    "text": "\"కాబట్టి రామా, నువ్వు ఇప్పుడు ఆ తాటకని సంహరించాలి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 16,
-    "part": 2,
-    "id": "16.02",
-    "text": "నువ్వు చేసే పని దోషమే అయినా, ప్రజాకంటకులైన వాళ్ళని రాజు సంహరించి తీరాలి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 16,
-    "part": 3,
-    "id": "16.03",
-    "text": "పూర్వకాలములో మందర అనేటువంటి ఒక [భూమిని సంహరించడానికి ప్రయత్నిస్తే] ఆమెని సంహరించారు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 16,
-    "part": 4,
-    "id": "16.04",
-    "text": "అలాగే భృగు మహర్షి భార్య ఇంద్రుడిని సంహరించడం కోసం తపస్సు ప్రారంభిస్తే శ్రీమహావిష్ణువు ఆమెని సంహరించారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 16,
-    "part": 5,
-    "id": "16.05",
-    "text": "నువ్వు కూడా ఈ తాటకని సంహరించు\" అని విశ్వామిత్రుడు అన్నాడు.",
+    "text": "\"అప్పుడు ఆయన ఋషులని ఆశ్రయిస్తే వారు ఆ రెండు లక్షణాలని తొలగించారు, కాని ఆ రెండు భూమి మీద పడ్డాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -444,7 +264,16 @@
     "scene": 17,
     "part": 1,
     "id": "17.01",
-    "text": "అప్పుడు రాముడు —",
+    "text": "అవి పడ్డ ప్రదేశాలని మలదము, కరూషము అనే రెండు జానపదములుగా వర్ధిల్లుతాయి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "ఇక్కడున్న ప్రజలు సుఖసంతోషములతో ఆనందంగా ఉంటారని ఇంద్రుడు వరం ఇచ్చాడు.\"",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -453,16 +282,16 @@
     "scene": 18,
     "part": 1,
     "id": "18.01",
-    "text": "పితుర్ వచన నిర్దేశాత్ పితుర్ వచన గౌరవాత్ । వచనం కౌశికస్య ఇతి కర్తవ్యం అవిశఙ్కయా ॥ గో బ్రాహ్మణ హితార్థాయ దేశస్య చ హితాయ చ । తవ చైవ అప్రమేయస్య వచనం కర్తుం ఉద్యతః ॥",
-    "complete_verse_block": true,
-    "needs_timing_review": true,
+    "text": "\"అలాగే పూర్వ కాలములో సుకేతు అనే యక్షుడికి పిల్లలు లేకపోతే బ్రహ్మ గూర్చి తపస్సు చేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
     "seconds": null
   },
   {
     "scene": 19,
     "part": 1,
     "id": "19.01",
-    "text": "\"మా తండ్రిగారు మీరు ఏది చెయ్యమంటే అది చెయ్యమన్నారు, గురువుగారైన మీరు చెప్పారు కనుక లోకాన్ని రక్షించడం కోసం, బ్రాహ్మణులను, గోవులను,",
+    "text": "బ్రహ్మదేవుడు ప్రత్యక్షమై 'నేను నీకు కొడుకులని ఇవ్వను, ఒక కూతురుని ఇస్తాను, ఆమె కామరూపి, మహా అందగత్తె,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -471,7 +300,16 @@
     "scene": 19,
     "part": 2,
     "id": "19.02",
-    "text": "ఇక్కడ ఉంటున్న అన్ని ప్రాణులను కాపాడడం కోసం సుక్షత్రియుడనైన నేను తాటకని తప్పక సంహరిస్తాను\" అని రాముడు తన ధనుస్సు తీసుకొని ధనుష్టంకారం చేశాడు.",
+    "text": "ఆమెకి 1000 ఏనుగుల బలముంటుంది' అని వరం ఇచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 3,
+    "id": "19.03",
+    "text": "ఆమె పేరు తాటక.\"",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -480,7 +318,7 @@
     "scene": 20,
     "part": 1,
     "id": "20.01",
-    "text": "ధ్వని విన్న తాటక అది ఎటువైపు నుండి వస్తుందో అటు వైపు బయలుదేరింది.",
+    "text": "\"ఆమెకి యవ్వనం వచ్చాక సుందుడుకి ఇచ్చి వివాహం చేశారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -489,7 +327,16 @@
     "scene": 20,
     "part": 2,
     "id": "20.02",
-    "text": "తాటక రామలక్ష్మణులున్న ప్రదేశానికి వచ్చింది.",
+    "text": "వాళ్ళకి మారీచుడు జన్మించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 3,
+    "id": "20.03",
+    "text": "1000 ఏనుగుల బలం ఉండడం వలన, గర్వముతో, అరణ్యములో ఇష్టమొచ్చినట్టు తిరిగేవారు.\"",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -498,7 +345,25 @@
     "scene": 21,
     "part": 1,
     "id": "21.01",
-    "text": "తాటకని చూసిన రాముడు లక్ష్మణుడితో, \"ఈ తాటకని ఓ మోస్తరు వారు చూస్తే గుండె ఆగి చనిపోతారు లక్ష్మణా\" అన్నాడు.",
+    "text": "\"ఒకనాడు సుందుడు అగస్త్య మహర్షి మీద దాడికి దిగాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "ఆయనకి ఆగ్రహం వచ్చి సుందుడిని సంహరించారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 3,
+    "id": "21.03",
+    "text": "ఇది గమనించిన తాటక తన కుమారుడితో కలిసి అగస్త్య మహర్షి మీదకి వచ్చింది,\"",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -507,6 +372,150 @@
     "scene": 22,
     "part": 1,
     "id": "22.01",
+    "text": "\"అప్పుడాయన తాటకని 'నీకు వికృతరూపం వచ్చుగాక' అని, మారీచుడిని 'ఇవ్వాళ్టినుండి రాక్షసుడివి అవుతావని' శపించారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "ఆ తాటక ఈ రెండు నగరాల్లో సంచరిస్తుంది, ఆమె నరమాంస భక్షణకి అలవాటుపడింది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 3,
+    "id": "22.03",
+    "text": "అందుకే ఈ నగరాలలోని జనాలు ఊరు వదిలి వెళ్ళిపోయారు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "\"కాబట్టి రామా, నువ్వు ఇప్పుడు ఆ తాటకని సంహరించాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 2,
+    "id": "23.02",
+    "text": "నువ్వు చేసే పని దోషమే అయినా, ప్రజాకంటకులైన వాళ్ళని రాజు సంహరించి తీరాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 3,
+    "id": "23.03",
+    "text": "పూర్వకాలములో మందర అనేటువంటి ఒక [భూమిని సంహరించడానికి ప్రయత్నిస్తే] ఆమెని సంహరించారు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "అలాగే భృగు మహర్షి భార్య ఇంద్రుడిని సంహరించడం కోసం తపస్సు ప్రారంభిస్తే శ్రీమహావిష్ణువు ఆమెని సంహరించారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 2,
+    "id": "24.02",
+    "text": "నువ్వు కూడా ఈ తాటకని సంహరించు\" అని విశ్వామిత్రుడు అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
+    "text": "అప్పుడు రాముడు —",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 1,
+    "id": "26.01",
+    "text": "పితుర్ వచన నిర్దేశాత్ పితుర్ వచన గౌరవాత్ । వచనం కౌశికస్య ఇతి కర్తవ్యం అవిశఙ్కయా ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 1,
+    "id": "27.01",
+    "text": "గో బ్రాహ్మణ హితార్థాయ దేశస్య చ హితాయ చ । తవ చైవ అప్రమేయస్య వచనం కర్తుం ఉద్యతః ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 1,
+    "id": "28.01",
+    "text": "\"మా తండ్రిగారు మీరు ఏది చెయ్యమంటే అది చెయ్యమన్నారు, గురువుగారైన మీరు చెప్పారు కనుక లోకాన్ని రక్షించడం కోసం, బ్రాహ్మణులను, గోవులను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 29,
+    "part": 1,
+    "id": "29.01",
+    "text": "ఇక్కడ ఉంటున్న అన్ని ప్రాణులను కాపాడడం కోసం సుక్షత్రియుడనైన నేను తాటకని తప్పక సంహరిస్తాను\" అని రాముడు తన ధనుస్సు తీసుకొని ధనుష్టంకారం చేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 30,
+    "part": 1,
+    "id": "30.01",
+    "text": "ధ్వని విన్న తాటక అది ఎటువైపు నుండి వస్తుందో అటు వైపు బయలుదేరింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 30,
+    "part": 2,
+    "id": "30.02",
+    "text": "తాటక రామలక్ష్మణులున్న ప్రదేశానికి వచ్చింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 31,
+    "part": 1,
+    "id": "31.01",
+    "text": "తాటకని చూసిన రాముడు లక్ష్మణుడితో, \"ఈ తాటకని ఓ మోస్తరు వారు చూస్తే గుండె ఆగి చనిపోతారు లక్ష్మణా\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 32,
+    "part": 1,
+    "id": "32.01",
     "text": "తర్వాత చూద్దాం — తాటకా సంహారం, మరియు విశ్వామిత్రుడు రామలక్ష్మణులకు ఇచ్చిన దివ్యాస్త్రాలు.",
     "complete_verse_block": false,
     "needs_timing_review": false,

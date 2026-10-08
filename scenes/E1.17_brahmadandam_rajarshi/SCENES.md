@@ -56,15 +56,23 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 6 — Scene 06
 
-**Visual:** An overwhelming montage — [Young King Vishwamitra] hurling a long, escalating sequence of named weapons all at once, one after another with no pause, all of them simply vanishing into the same staff. (Location register: Mythic inset, escalating futility)
+**Visual:** An overwhelming montage — [Young King Vishwamitra] hurling named weapon after named weapon with quickening cuts. (Location register: Mythic inset, escalating futility)
 
-**Story:** "అప్పుడాయన ఒకేసారి వారుణాస్త్రం, ఇంద్రాస్త్రం, పాశుపతాస్త్రం, ఐషీకాస్త్రం, మానవాస్త్రం, గాంధర్వాస్త్రం, బ్రహ్మపాశం, కాలపాశం, వారుణపాశం, పినాకాస్త్రం, క్రౌంచాస్త్రం, ధర్మచక్రం, కాలచక్రం, విష్ణుచక్రం, శూలం, కంకాళం అనే కంకణం, రకరకాల పిడుగులు, ముసలం, పెద్ద పెద్ద గదలు మొదలైన రకరకాల అస్త్రాలని వశిష్ఠుడి మీద వేశాడు, కాని ఆయన వేసినవన్నీ వశిష్ఠుడి బ్రహ్మదండంలోకి వెళ్ళిపోయాయి."
+**Story:** "అప్పుడాయన ఒకేసారి వారుణాస్త్రం, ఇంద్రాస్త్రం, పాశుపతాస్త్రం, ఐషీకాస్త్రం, మానవాస్త్రం, గాంధర్వాస్త్రం, బ్రహ్మపాశం, కాలపాశం, వారుణపాశం, పినాకాస్త్రం, క్రౌంచాస్త్రం, ధర్మచక్రం, కాలచక్రం, విష్ణుచక్రం, శూలం, కంకాళం అనే కంకణం,
 
 **Image:** Pending creation.
 
 **Source note:** This exhaustive weapon-list, all failing identically, is deliberately repetitive by design — a visual montage with quickening cuts (each weapon vanishing faster than the last) conveys the growing futility better than lingering on each one individually.
 
 ## 7 — Scene 07
+
+**Visual:** Every weapon vanishing into [Vashishtha Visual Lock]'s upright staff, the brahmadanda, which only glows brighter. (Location register: Mythic inset, escalating futility)
+
+**Story:** రకరకాల పిడుగులు, ముసలం, పెద్ద పెద్ద గదలు మొదలైన రకరకాల అస్త్రాలని వశిష్ఠుడి మీద వేశాడు, కాని ఆయన వేసినవన్నీ వశిష్ఠుడి బ్రహ్మదండంలోకి వెళ్ళిపోయాయి."
+
+**Image:** Pending creation.
+
+## 8 — Scene 08
 
 **Visual:** The final, most terrible option: [Young King Vishwamitra Visual Lock] invoking the Brahmastra itself — the whole world visibly reacting in dread before he even releases it. (Location register: Mythic inset, cosmic-scale dread)
 
@@ -74,7 +82,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** The Brahmastra is established elsewhere in this series (E1.08) as one of the weapons Rama himself later carries — this scene shows exactly how catastrophic a weapon it is, retroactively raising the stakes of every future scene where it's mentioned.
 
-## 8 — Scene 08
+## 9 — Scene 09
 
 **Visual:** [Vishwamitra] releasing the Brahmastra — and it, too, vanishing into the staff in total silence, no different from any lesser weapon before it. (Location register: Mythic inset, anticlimax by design)
 
@@ -84,7 +92,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** The deliberate anticlimax here — the most terrifying weapon in existence absorbed with total silence, no more dramatic than the ones before it — IS the point; resist any urge to make this visually bigger than the earlier absorptions, the flatness is what conveys Vashishtha's true scale of power.
 
-## 9 — Scene 09
+## 10 — Scene 10
 
 **Visual:** On-screen verse text; [Young King Vishwamitra Visual Lock] stepping down from his chariot in total defeat, speaking his own devastating self-assessment aloud. (Location register: Mythic inset)
 
@@ -94,17 +102,33 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — Vishwamitra's own lament: "Shame on mere Kshatriya strength — Brahmic power is the true strength; with a single Brahma-staff, all my weapons were defeated."
 
-## 10 — Scene 10
+## 11 — Scene 11
 
-**Visual:** [Young King Vishwamitra Visual Lock] speaking plainly, the realization complete. (Location register: Mythic inset)
+**Visual:** [Young King Vishwamitra Visual Lock] lowering his bow in disgust at his own strength. (Location register: Mythic inset)
 
-**Story:** "'ఛీ! ఆ బ్రహ్మర్షి బలం ముందు ఈ క్షత్రియ బలం ఎందుకు పనికొస్తుంది, ఎన్నో అస్త్రాలని నేర్చుకున్నాను, అన్నీ ప్రయోగించాను, కాని ఆయన ఒక కర్రముక్క పట్టుకొని నా అస్త్రాలన్నిటిని మింగేసారు' అని ఆ రథం దిగి పోయాడు. 'వశిష్ఠుడు బ్రహ్మర్షి కనుక నేను ఆయనని ఓడించలేకపోయాను, కాబట్టి నేనూ బ్రహ్మర్షిని అవుతాను' అని విశ్వామిత్రుడు దక్షిణ దిక్కుకి వెళ్ళాడు."
+**Story:** "'ఛీ! ఆ బ్రహ్మర్షి బలం ముందు ఈ క్షత్రియ బలం ఎందుకు పనికొస్తుంది, ఎన్నో అస్త్రాలని నేర్చుకున్నాను,
 
 **Image:** Pending creation.
 
 **Source note:** This line ("a mere piece of wood swallowed all my weapons") is Vishwamitra's complete and total humbling — the entire flashback arc's purpose, delivered in one plain, unadorned sentence; let it land without any additional narrative embellishment.
 
-## 11 — Scene 11
+## 12 — Scene 12
+
+**Visual:** He steps down from his chariot and walks away — a mere stick swallowed everything. (Location register: Mythic inset)
+
+**Story:** అన్నీ ప్రయోగించాను, కాని ఆయన ఒక కర్రముక్క పట్టుకొని నా అస్త్రాలన్నిటిని మింగేసారు' అని ఆ రథం దిగి పోయాడు.
+
+**Image:** Pending creation.
+
+## 13 — Scene 13
+
+**Visual:** Vishwamitra walking south with a new resolve, the battlefield behind him. (Location register: Mythic inset)
+
+**Story:** 'వశిష్ఠుడు బ్రహ్మర్షి కనుక నేను ఆయనని ఓడించలేకపోయాను, కాబట్టి నేనూ బ్రహ్మర్షిని అవుతాను' అని విశ్వామిత్రుడు దక్షిణ దిక్కుకి వెళ్ళాడు."
+
+**Image:** Pending creation.
+
+## 14 — Scene 14
 
 **Visual:** [Young King Vishwamitra Visual Lock] departing with his senior wife into a new, austere life; a time-lapse of a thousand years of severe tapasya, four new sons being born along the way, shown as a brief passage-of-time montage. (Location register: New location, ascetic tapasya)
 
@@ -114,17 +138,25 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Note: these four new sons are entirely separate from the 100 sons destroyed by Vashishtha in E1.16 — a fresh beginning; no individual locks needed, treat as a brief lineage note.
 
-## 12 — Scene 12
+## 15 — Scene 15
 
-**Visual:** [Brahma Visual Lock] appearing, pleased — but the honor he grants is a partial one, not yet the full status Vishwamitra is seeking. (Location register: Ascetic tapasya site)
+**Visual:** [Brahma Visual Lock] appearing, pleased, before Vishwamitra in tapasya. (Location register: Ascetic tapasya site)
 
-**Story:** "ఆయన తపస్సుకి సంతోషించిన బ్రహ్మదేవుడు ప్రత్యక్షమై ఇలా అన్నారు — 'నువ్వు చేసిన ఈ తపస్సు చేత రాజర్షి లోకాలని గెలిచావు, ఇవ్వాళ నుండి నిన్ను విశ్వామిత్ర మహారాజు అని కాకుండా రాజర్షి విశ్వామిత్రుడు అని పిలుస్తారు' అని చెప్పారు."
+**Story:** "ఆయన తపస్సుకి సంతోషించిన బ్రహ్మదేవుడు ప్రత్యక్షమై ఇలా అన్నారు — 'నువ్వు చేసిన ఈ తపస్సు చేత రాజర్షి లోకాలని గెలిచావు,
 
 **Image:** Pending creation.
 
 **Source note:** Rajarshi (royal-sage) is a real, meaningful title — but a step below the Brahmarshi status Vishwamitra actually wants, and he knows it.
 
-## 13 — Scene 13
+## 16 — Scene 16
+
+**Visual:** Brahma conferring the title; overlay "రాజర్షి" — Vishwamitra's face showing it is not yet what he seeks. (Location register: Ascetic tapasya site)
+
+**Story:** ఇవ్వాళ నుండి నిన్ను విశ్వామిత్ర మహారాజు అని కాకుండా రాజర్షి విశ్వామిత్రుడు అని పిలుస్తారు' అని చెప్పారు."
+
+**Image:** Pending creation.
+
+## 17 — Scene 17
 
 **Visual:** [Vishwamitra Visual Lock] receiving the title without joy — a man who has come far, but not far enough by his own measure. (Location register: Ascetic tapasya site)
 
@@ -134,7 +166,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** End the episode on this quiet dissatisfaction — a clean act-break before the next, entirely different story (Trishanku) begins, which the text itself introduces as happening "in that same era" rather than as a direct continuation.
 
-## 14 — Scene 14
+## 18 — Scene 18
 
 **Visual:** End card.
 

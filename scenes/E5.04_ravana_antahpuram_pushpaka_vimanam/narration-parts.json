@@ -45,46 +45,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "ఆ వెనక కక్ష్యలో కొంతమంది కత్తులు పట్టుకొని తిరుగుతుంటారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
-    "text": "ఆ తరువాత కక్ష్యలో, ప్రభువు నిద్రలేవగానే ఒంటికి రాయడానికి కొంతమంది చందనం తీస్తుంటారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 6,
-    "id": "02.06",
-    "text": "తరువాత కక్ష్యలో ఆయన ధరించే పుష్పమాలికలు ఉంటాయి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 7,
-    "id": "02.07",
-    "text": "ఆ వెనకాల ఆయనకి బాగా నిద్ర పట్టడానికి వాద్యపరికరాల మీద సన్నటి సంగీతాన్ని కొంతమంది వాయిస్తూ ఉంటారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "'ఇంకా అందరూ నిద్రపోలేదు కనుక కొంతసేపయ్యాక రావణ అంతఃపురంలోకి వెళ్ళి చూస్తాను' అని హనుమంతుడు అనుకొని,",
+    "text": "ఆ వెనక కక్ష్యలో కొంతమంది కత్తులు పట్టుకొని తిరుగుతుంటారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -93,61 +57,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "బయటకి వచ్చి మళ్ళీ కొన్ని ఇళ్ళల్లోకి వెళ్ళి చూశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "ఆ ఇళ్ళల్లో ఉన్న రాక్షసులు లంకకి పూజ చేస్తూ శంఖాలు, భేరీలు, గంటలు మోగిస్తున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "అక్కడ ఉన్న ఇళ్ళు చూసి \"ఇది ఇంద్రపురా, గంధర్వ నగరమా, పొరపాటున నేను స్వర్గలోకానికి వచ్చానా?.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 5,
-    "id": "03.05",
-    "text": "అసలు ఇంద్రుడికి ఎన్ని భోగాలు ఉన్నాయో అవన్నీ ఈ లంకా పట్టణంలో కనిపిస్తున్నాయి\" అనుకున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 6,
-    "id": "03.06",
-    "text": "అక్కడున్న ఇళ్ళల్లో ఎంత గొప్ప పండితుడైనా ఒక్క దోషాన్ని కూడా చూపలేడు, అంత అద్భుతంగా అక్కడి ఇళ్ళు ఉన్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 7,
-    "id": "03.07",
-    "text": "దేవతలకి కూడా ఆ ఇళ్ళల్లోకి వస్తే పూజ చేసుకోవాలనిపిస్తుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 8,
-    "id": "03.08",
-    "text": "అక్కడున్న కిటికీలు కూడా వజ్ర వైడుర్యాలతో అలంకరింపబడి చాలా అందంగా ఉన్నాయి.",
+    "text": "ఆ తరువాత కక్ష్యలో, ప్రభువు నిద్రలేవగానే ఒంటికి రాయడానికి కొంతమంది చందనం తీస్తుంటారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -156,7 +66,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "ఆ లంకా పట్టణం యొక్క శోభని హనుమంతుడు చాలా బలంతో చూశాడు (లంకా పట్టణం యొక్క సౌందర్యాన్ని చూసి,",
+    "text": "తరువాత కక్ష్యలో ఆయన ధరించే పుష్పమాలికలు ఉంటాయి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -165,61 +75,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "తాను వచ్చిన కార్యాన్ని మరిచిపోకుండా ఉండాలని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 3,
-    "id": "04.03",
-    "text": "హనుమంతుడు ఆ నగరం యొక్క సౌందర్యాన్ని చూస్తున్నప్పుడు సీతమ్మని కనిపెట్టాలనే విషయాన్ని మనస్సులో బలంగా పెట్టుకొని ఉన్నాడు).",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "ఆ రాక్షసుల ఇళ్లన్నీ వెతికిన తరువాత హనుమంతుడు మెల్లగా రావణ అంతఃపురంలోకి ప్రవేశించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 5,
-    "id": "04.05",
-    "text": "అప్పుడాయన రావణ అంతఃపురంలో ఉన్న పుష్పక విమానంలోకి ప్రవేశించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 6,
-    "id": "04.06",
-    "text": "(పుష్పక విమానాన్ని మొట్టమొదట విశ్వకర్మ నిర్మించి బ్రహ్మకి ఇచ్చాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 7,
-    "id": "04.07",
-    "text": "కొంతకాలానికి కుబేరుడు బ్రహ్మని గురించి తపస్సు చేస్తే, బ్రహ్మదేవుడు కుబేరుడికి పుష్పక విమానాన్ని ఇచ్చాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 8,
-    "id": "04.08",
-    "text": "కుబేరుడి తమ్ముడైన రావణుడు ఆయనని చావగొట్టి ఆ విమానాన్ని తెచ్చుకున్నాడు).",
+    "text": "ఆ వెనకాల ఆయనకి బాగా నిద్ర పట్టడానికి వాద్యపరికరాల మీద సన్నటి సంగీతాన్ని కొంతమంది వాయిస్తూ ఉంటారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -228,7 +84,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "ఆ పుష్పక విమానంలో కూర్చుని మనస్సులో ఒక ప్రదేశాన్ని ఊహించుకుంటే, అది వాళ్ళని కన్నుమూసి తెరిసేలోగా అక్కడికి తీసుకువెళుతుంది.",
+    "text": "'ఇంకా అందరూ నిద్రపోలేదు కనుక కొంతసేపయ్యాక రావణ అంతఃపురంలోకి వెళ్ళి చూస్తాను' అని హనుమంతుడు అనుకొని,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -237,61 +93,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "ఆ పుష్పకానికి వజ్ర వైడుర్యాలతో నగిషీలు పెట్టబడి ఉంటాయి, అందులో సరోవరాలు, పద్మాలు, ఉద్యానవనాలు, బంగారంతో చెయ్యబడ్డ వేదికలు, కూర్చోవడానికి ఆసనాలు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 3,
-    "id": "05.03",
-    "text": "పడుకోడానికి తల్పాలు, విహరించడానికి ప్రదేశాలు ఉంటాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "అందులోకి ఎంతమంది ఎక్కినా, ఇంకా ఒకడికి చోటు ఉంటుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "అందులో ఉన్న తివాచి మీద ఈ భూమండలం అంతా చిత్రీకరించబడి ఉంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 6,
-    "id": "05.06",
-    "text": "ఈ భూమి మీద ఎన్ని పర్వతాలు ఉన్నాయో, అవన్నీ ఆ తివాచి మీద చెక్కబడి ఉన్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 7,
-    "id": "05.07",
-    "text": "అలాగే ఏ పర్వతం మీద ఎన్ని చెట్లు ఉన్నాయో, అన్ని చెట్లు అందులో ఉన్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 8,
-    "id": "05.08",
-    "text": "వాటితో పాటు ఆ చెట్లకి ఉన్న పువ్వులే కాకుండా ఆ పువ్వులలో ఉన్న కేసరములు కూడా చెక్కబడి ఉన్నాయి.",
+    "text": "బయటకి వచ్చి మళ్ళీ కొన్ని ఇళ్ళల్లోకి వెళ్ళి చూశాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -300,7 +102,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "దానికి కొంచెం పక్కనే లక్ష్మీదేవి పద్మములలో పద్మాసనం వేసుకొని, నాలుగు చేతులతో కూర్చున్నట్టుగా, రెండు ఏనుగులు బంగారు కలశములు పట్టుకొని,",
+    "text": "ఆ ఇళ్ళల్లో ఉన్న రాక్షసులు లంకకి పూజ చేస్తూ శంఖాలు, భేరీలు, గంటలు మోగిస్తున్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -309,52 +111,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "పద్మపు రేకులతో అమ్మవారిని అభిషేకిస్తున్నట్టుగా అక్కడ ఒక చిత్రం ఉంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "అప్పుడు హనుమంతుడు \"మా అమ్మ ఇలాంటి స్థలంలో, ఇలా రాక్షసులతో మధ్యం సేవించి, ఆనందంగా ఉండదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "మా అమ్మ కన్నులవెంట వేడి నీరు కారుతూ వక్షస్థలం మీద పడిపోతూ ఉంటుంది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "రాముడి చేత కట్టబడిన దీర్ఘమైన మంగళసూత్రం మా అమ్మ మెడలో మెరుస్తూ ఉంటుంది, మా అమ్మ కన్నులకు ఉన్న వెంట్రుకలు నల్లగా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 6,
-    "id": "06.06",
-    "text": "ఒత్తుగా ఉంటాయి, పరిపూర్ణమైన ప్రేమ కురిపించే కన్నులతో మా అమ్మ ఉంటుంది, వనంలో ఉన్న నెమలిలా మా అమ్మ ఉంటుంది\" అనుకుంటూ,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 7,
-    "id": "06.07",
-    "text": "పుష్పక విమానం నుండి కిందకి దిగి, రావణాసురుడు పడుకున్న శయనాగారం వైపు వెళ్ళాడు.",
+    "text": "అక్కడ ఉన్న ఇళ్ళు చూసి \"ఇది ఇంద్రపురా, గంధర్వ నగరమా, పొరపాటున నేను స్వర్గలోకానికి వచ్చానా?.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -363,7 +120,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "రావణాసురుడు పడుకున్న ఆ మందిరంలో గోడలకి కాగడాలు పెట్టబడి ఉన్నాయి.",
+    "text": "అసలు ఇంద్రుడికి ఎన్ని భోగాలు ఉన్నాయో అవన్నీ ఈ లంకా పట్టణంలో కనిపిస్తున్నాయి\" అనుకున్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -372,52 +129,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "ఆయన పడుకున్న తల్పము బంగారంతో చెయ్యబడింది, అక్కడ పడుకున్న స్త్రీలు ధరించిన ఆభరణములు ఎర్రటి బంగారంతో చెయ్యబడినవి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 3,
-    "id": "07.03",
-    "text": "రావణాసురుడు పెట్టుకున్నవి బంగారంతో చెయ్యబడిన ఆభరణములు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "గోడలకి ఉన్న కాగడాల నుండి వస్తున్న కాంతి, అక్కడ ఉన్న స్త్రీల ఆభరణముల నుండి వస్తున్న కాంతితో కలిసి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 5,
-    "id": "07.05",
-    "text": "ఏదో మండిపోతుందా అన్నట్టుగా ఒక ఎర్రటి కాంతి ఆ ప్రదేశాన్ని ఆవరించింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 6,
-    "id": "07.06",
-    "text": "అక్కడ వెలుగుతున్న కాగడాలు అటూ ఇటూ కదలకుండా అలాగే నిలబడి వెలుగుతున్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 7,
-    "id": "07.07",
-    "text": "ఆ కాగడాలని చూస్తుంటే, జూదంలో ఓడిపోయినా కాని ఇంటికి వెళ్ళకుండా, పక్కవాడి ఆటని దీక్షగా చూస్తున్న జూదరిలా ఉన్నాయి.",
+    "text": "అక్కడున్న ఇళ్ళల్లో ఎంత గొప్ప పండితుడైనా ఒక్క దోషాన్ని కూడా చూపలేడు, అంత అద్భుతంగా అక్కడి ఇళ్ళు ఉన్నాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -426,7 +138,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "అక్కడ పడుకున్న స్త్రీలు ఒకరి మీద ఒకరు చెయ్యి వేసుకుని, ఒంటి మీద వస్త్రం సరిగ్గా లేకుండా పడుకొని ఉన్నారు.",
+    "text": "దేవతలకి కూడా ఆ ఇళ్ళల్లోకి వస్తే పూజ చేసుకోవాలనిపిస్తుంది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -435,34 +147,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "అందరి ముఖాలు పద్మాలలా ఉన్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "అలా కొన్ని వేల స్త్రీలు మదవిహ్వలులై, రావణాసురుడితో కామోప భోగాన్ని అనుభవించి, విశేషమైన మధ్యపానం చేసి, మత్తెక్కి, బడలి నిద్రపోతున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "అక్కడ ఉన్న వేల స్త్రీలు తక్కువ జాతిలో జన్మించినవారు కాదు, ఎవరూ సౌందర్యం తక్కువైనవారు కాదు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 5,
-    "id": "08.05",
-    "text": "ఇంతకముందు వేరొక పురుషుడిని పొందినవారు కాదు, నడువడి తెలియనివారు కాదు, వీళ్ళందరూ రావణుడిని కోరుకుని వచ్చినవారు.",
+    "text": "అక్కడున్న కిటికీలు కూడా వజ్ర వైడుర్యాలతో అలంకరింపబడి చాలా అందంగా ఉన్నాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -471,6 +156,321 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
+    "text": "ఆ లంకా పట్టణం యొక్క శోభని హనుమంతుడు చాలా బలంతో చూశాడు (లంకా పట్టణం యొక్క సౌందర్యాన్ని చూసి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "తాను వచ్చిన కార్యాన్ని మరిచిపోకుండా ఉండాలని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "హనుమంతుడు ఆ నగరం యొక్క సౌందర్యాన్ని చూస్తున్నప్పుడు సీతమ్మని కనిపెట్టాలనే విషయాన్ని మనస్సులో బలంగా పెట్టుకొని ఉన్నాడు).",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "ఆ రాక్షసుల ఇళ్లన్నీ వెతికిన తరువాత హనుమంతుడు మెల్లగా రావణ అంతఃపురంలోకి ప్రవేశించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "అప్పుడాయన రావణ అంతఃపురంలో ఉన్న పుష్పక విమానంలోకి ప్రవేశించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "(పుష్పక విమానాన్ని మొట్టమొదట విశ్వకర్మ నిర్మించి బ్రహ్మకి ఇచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "కొంతకాలానికి కుబేరుడు బ్రహ్మని గురించి తపస్సు చేస్తే, బ్రహ్మదేవుడు కుబేరుడికి పుష్పక విమానాన్ని ఇచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "కుబేరుడి తమ్ముడైన రావణుడు ఆయనని చావగొట్టి ఆ విమానాన్ని తెచ్చుకున్నాడు).",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "ఆ పుష్పక విమానంలో కూర్చుని మనస్సులో ఒక ప్రదేశాన్ని ఊహించుకుంటే, అది వాళ్ళని కన్నుమూసి తెరిసేలోగా అక్కడికి తీసుకువెళుతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "ఆ పుష్పకానికి వజ్ర వైడుర్యాలతో నగిషీలు పెట్టబడి ఉంటాయి, అందులో సరోవరాలు, పద్మాలు, ఉద్యానవనాలు, బంగారంతో చెయ్యబడ్డ వేదికలు, కూర్చోవడానికి ఆసనాలు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "పడుకోడానికి తల్పాలు, విహరించడానికి ప్రదేశాలు ఉంటాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "అందులోకి ఎంతమంది ఎక్కినా, ఇంకా ఒకడికి చోటు ఉంటుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "అందులో ఉన్న తివాచి మీద ఈ భూమండలం అంతా చిత్రీకరించబడి ఉంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 3,
+    "id": "15.03",
+    "text": "ఈ భూమి మీద ఎన్ని పర్వతాలు ఉన్నాయో, అవన్నీ ఆ తివాచి మీద చెక్కబడి ఉన్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "అలాగే ఏ పర్వతం మీద ఎన్ని చెట్లు ఉన్నాయో, అన్ని చెట్లు అందులో ఉన్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "వాటితో పాటు ఆ చెట్లకి ఉన్న పువ్వులే కాకుండా ఆ పువ్వులలో ఉన్న కేసరములు కూడా చెక్కబడి ఉన్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "దానికి కొంచెం పక్కనే లక్ష్మీదేవి పద్మములలో పద్మాసనం వేసుకొని, నాలుగు చేతులతో కూర్చున్నట్టుగా, రెండు ఏనుగులు బంగారు కలశములు పట్టుకొని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "పద్మపు రేకులతో అమ్మవారిని అభిషేకిస్తున్నట్టుగా అక్కడ ఒక చిత్రం ఉంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "అప్పుడు హనుమంతుడు \"మా అమ్మ ఇలాంటి స్థలంలో, ఇలా రాక్షసులతో మధ్యం సేవించి, ఆనందంగా ఉండదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "మా అమ్మ కన్నులవెంట వేడి నీరు కారుతూ వక్షస్థలం మీద పడిపోతూ ఉంటుంది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "రాముడి చేత కట్టబడిన దీర్ఘమైన మంగళసూత్రం మా అమ్మ మెడలో మెరుస్తూ ఉంటుంది, మా అమ్మ కన్నులకు ఉన్న వెంట్రుకలు నల్లగా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "ఒత్తుగా ఉంటాయి, పరిపూర్ణమైన ప్రేమ కురిపించే కన్నులతో మా అమ్మ ఉంటుంది, వనంలో ఉన్న నెమలిలా మా అమ్మ ఉంటుంది\" అనుకుంటూ,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "పుష్పక విమానం నుండి కిందకి దిగి, రావణాసురుడు పడుకున్న శయనాగారం వైపు వెళ్ళాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "రావణాసురుడు పడుకున్న ఆ మందిరంలో గోడలకి కాగడాలు పెట్టబడి ఉన్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "ఆయన పడుకున్న తల్పము బంగారంతో చెయ్యబడింది, అక్కడ పడుకున్న స్త్రీలు ధరించిన ఆభరణములు ఎర్రటి బంగారంతో చెయ్యబడినవి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 3,
+    "id": "21.03",
+    "text": "రావణాసురుడు పెట్టుకున్నవి బంగారంతో చెయ్యబడిన ఆభరణములు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "గోడలకి ఉన్న కాగడాల నుండి వస్తున్న కాంతి, అక్కడ ఉన్న స్త్రీల ఆభరణముల నుండి వస్తున్న కాంతితో కలిసి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "ఏదో మండిపోతుందా అన్నట్టుగా ఒక ఎర్రటి కాంతి ఆ ప్రదేశాన్ని ఆవరించింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "అక్కడ వెలుగుతున్న కాగడాలు అటూ ఇటూ కదలకుండా అలాగే నిలబడి వెలుగుతున్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 2,
+    "id": "23.02",
+    "text": "ఆ కాగడాలని చూస్తుంటే, జూదంలో ఓడిపోయినా కాని ఇంటికి వెళ్ళకుండా, పక్కవాడి ఆటని దీక్షగా చూస్తున్న జూదరిలా ఉన్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "అక్కడ పడుకున్న స్త్రీలు ఒకరి మీద ఒకరు చెయ్యి వేసుకుని, ఒంటి మీద వస్త్రం సరిగ్గా లేకుండా పడుకొని ఉన్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
+    "text": "అందరి ముఖాలు పద్మాలలా ఉన్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 2,
+    "id": "25.02",
+    "text": "అలా కొన్ని వేల స్త్రీలు మదవిహ్వలులై, రావణాసురుడితో కామోప భోగాన్ని అనుభవించి, విశేషమైన మధ్యపానం చేసి, మత్తెక్కి, బడలి నిద్రపోతున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 1,
+    "id": "26.01",
+    "text": "అక్కడ ఉన్న వేల స్త్రీలు తక్కువ జాతిలో జన్మించినవారు కాదు, ఎవరూ సౌందర్యం తక్కువైనవారు కాదు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 2,
+    "id": "26.02",
+    "text": "ఇంతకముందు వేరొక పురుషుడిని పొందినవారు కాదు, నడువడి తెలియనివారు కాదు, వీళ్ళందరూ రావణుడిని కోరుకుని వచ్చినవారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 1,
+    "id": "27.01",
     "text": "తర్వాత చూద్దాం — నిద్రిస్తున్న రావణుడు, మండోదరి.",
     "complete_verse_block": false,
     "needs_timing_review": false,

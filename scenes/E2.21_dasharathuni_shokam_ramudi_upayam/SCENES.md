@@ -38,9 +38,9 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 4 — Scene 04
 
-**Visual:** [Dasharatha Visual Lock] — now blind, reaching out — making a raw, almost childlike request of Kausalya: since his sight left with Rama, he asks her to touch him, reasoning that her touch, as Rama's mother, might feel like Rama's own.
+**Visual:** [Dasharatha Visual Lock], sightless now, reaching out toward [Kausalya Visual Lock] — my sight went with Rama.
 
-**Story:** అప్పుడాయన కౌసల్యతో ఇలా అన్నాడు — "ఇక నేను ఎంతో సేపు బతకను, నేను చనిపోయేలోపల రాముడు ఎలాగు నన్ను ముట్టుకోలేడు, రాముడితో పాటే నా చూపు వెళ్ళిపోయింది, అందుకని రాముడి తల్లివైన నువ్వు నన్ను ఒకసారి ముట్టుకో, నువ్వు ముట్టుకుంటే రాముడు ముట్టుకున్నట్టు ఉంటుందేమో, ఒకసారి నన్ను ముట్టుకోవా కౌసల్యా" అన్నాడు.
+**Story:** అప్పుడాయన కౌసల్యతో ఇలా అన్నాడు — "ఇక నేను ఎంతో సేపు బతకను, నేను చనిపోయేలోపల రాముడు ఎలాగు నన్ను ముట్టుకోలేడు, రాముడితో పాటే నా చూపు వెళ్ళిపోయింది,
 
 **Image:** Pending creation.
 
@@ -48,15 +48,31 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 5 — Scene 05
 
-**Visual:** [Kausalya Visual Lock] responding not with comfort but with sharp, bitter anger — naming his own responsibility plainly: he sent her son to the forest, and now the whole country suffers for his choices; asking, pointedly, if he's satisfied now.
+**Visual:** Dasharatha's childlike plea — touch me once; your touch may feel like his.
 
-**Story:** "అవునులే, కన్న కొడుకుని అరణ్యాలకి పంపించావు, ఇవ్వాళ నన్ను ఇలాంటి దౌర్భాగ్యస్థితిలో పడేశావు, నీ వలన దేశం అంతా బాధపడుతోంది, ఇప్పటికైనా నీకు సంతోషంగా ఉందా రాజా" అని కౌసల్య పలికింది.
+**Story:** అందుకని రాముడి తల్లివైన నువ్వు నన్ను ఒకసారి ముట్టుకో, నువ్వు ముట్టుకుంటే రాముడు ముట్టుకున్నట్టు ఉంటుందేమో, ఒకసారి నన్ను ముట్టుకోవా కౌసల్యా" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 6 — Scene 06
+
+**Visual:** [Kausalya Visual Lock] answering with sharp, bitter anger — you sent my son to the forest.
+
+**Story:** "అవునులే, కన్న కొడుకుని అరణ్యాలకి పంపించావు, ఇవ్వాళ నన్ను ఇలాంటి దౌర్భాగ్యస్థితిలో పడేశావు,
 
 **Image:** Pending creation.
 
 **Source note:** The first time in the entire sequence that Kausalya turns her grief directly into anger AT Dasharatha himself, rather than pure sorrow — a notable, sharp escalation; she has stood by him with dignity through E2.11 and E2.19, and this is the moment even her composure cracks into open blame.
 
-## 6 — Scene 06
+## 7 — Scene 07
+
+**Visual:** Kausalya gesturing at the darkened city — are you content now, king?
+
+**Story:** నీ వలన దేశం అంతా బాధపడుతోంది, ఇప్పటికైనా నీకు సంతోషంగా ఉందా రాజా" అని కౌసల్య పలికింది.
+
+**Image:** Pending creation.
+
+## 8 — Scene 08
 
 **Visual:** [Dasharatha Visual Lock] responding with quiet, wounded resignation — using a striking self-deprecating image (kicking a fallen horse) to describe her words, before collapsing into unconsciousness once more.
 
@@ -66,27 +82,43 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** The "fallen horse" image is the text's own vivid self-description — a man already destroyed, wounded further by the one person he came to for comfort; end this half of the episode on this quiet, devastating image before shifting to Rama's practical scene by the river.
 
-## 7 — Scene 07
+## 9 — Scene 09
 
-**Visual:** Tonal shift back to the riverbank at dawn — [Rama Visual Lock] waking early, calling [Sumantra Visual Lock] aside, explaining his concern for the elderly Brahmins and citizens who followed them: fourteen years of hardship would be too much to ask of them, so he intends to slip away before they wake.
+**Visual:** Dawn on the bank of the Tamasa: [Rama Visual Lock] calling [Sumantra Visual Lock] aside, the elderly brahmins asleep nearby.
 
-**Story:** అటుపక్క తెల్లవారుతుండగా రాముడు సుమంత్రుడిని పిలిచి "వీళ్ళందరూ వృద్ధులైన బ్రాహ్మణులు, నా మీద ఉన్న ప్రేమతో నా వెనకాల వచ్చారు, 14 సంవత్సరములు నేను కనపడకపోతే వాళ్ళు బాధ పడతారు, అందుచేత నేను కనపడకపోతే వాళ్ళు వెనక్కి వెళ్ళిపోతారు" అన్నాడు.
+**Story:** అటుపక్క తెల్లవారుతుండగా రాముడు సుమంత్రుడిని పిలిచి "వీళ్ళందరూ వృద్ధులైన బ్రాహ్మణులు, నా మీద ఉన్న ప్రేమతో నా వెనకాల వచ్చారు,
 
 **Image:** Pending creation.
 
 **Source note:** A clean tonal contrast to the raw domestic grief of the previous scenes — Rama, at the same early morning hour, is already composed and practically planning how to spare his followers unnecessary suffering; his compassion here operates through quiet strategy, not grand gesture.
 
-## 8 — Scene 08
+## 10 — Scene 10
 
-**Visual:** [Rama Visual Lock] laying out the specific ruse in careful detail — drive the chariot north first (toward Ayodhya) for some distance, then loop back over grass and bushes rather than the road to avoid leaving tracks, before finally crossing the Tamasa river; this way the pursuing crowd, waking to find the tracks leading back toward the city, will assume they've already gone home.
+**Visual:** Rama looking at the sleepers with compassion — if they cannot see me, they will go home.
 
-**Story:** "తెల్లవారుజామున అందరూ గాఢ నిద్రలో ఉండగానే మనం వెళ్ళిపోదాం, వీళ్ళు వెనక్కి వెళ్ళకుండా రాముడు ఎటు వెళ్ళాడో గుర్తుపడదామని రథ చక్రాల వెనక వస్తారు, అందుకని రథాన్ని ముందు ఉత్తర దిక్కుకి పోనివ్వు, ఉత్తర దిక్కున అయోధ్య ఉంది, అలా కొంతదూరం పోనిచ్చాక, రథాన్ని వెనక్కి తిప్పి గడ్డిమీద, పొదల మీద నుండి పోనిచ్చి తమసా నదిని దాటించు, అప్పుడు వాళ్ళకి రథచక్రాల గుర్తులు కనపడకపోయేసరికి వాళ్ళందరూ అయోధ్యకి వెళతారు" అన్నాడు.
+**Story:** 14 సంవత్సరములు నేను కనపడకపోతే వాళ్ళు బాధ పడతారు, అందుచేత నేను కనపడకపోతే వాళ్ళు వెనక్కి వెళ్ళిపోతారు" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 11 — Scene 11
+
+**Visual:** [Rama Visual Lock] laying out the ruse — the chariot driven north toward Ayodhya first.
+
+**Story:** "తెల్లవారుజామున అందరూ గాఢ నిద్రలో ఉండగానే మనం వెళ్ళిపోదాం, వీళ్ళు వెనక్కి వెళ్ళకుండా రాముడు ఎటు వెళ్ళాడో గుర్తుపడదామని రథ చక్రాల వెనక వస్తారు, అందుకని రథాన్ని ముందు ఉత్తర దిక్కుకి పోనివ్వు,
 
 **Image:** Pending creation.
 
 **Source note:** A genuinely clever, deliberate piece of tactical thinking from Rama — worth rendering visually as a clear, legible plan (perhaps a brief overhead/map-like shot of the route: north, then looping back through grass, then across the river) so the audience can actually follow the mechanics of the deception, since the next scene shows it executed exactly as described.
 
-## 9 — Scene 09
+## 12 — Scene 12
+
+**Visual:** The chariot looping back over grass and bushes, leaving no tracks, then crossing the Tamasa.
+
+**Story:** ఉత్తర దిక్కున అయోధ్య ఉంది, అలా కొంతదూరం పోనిచ్చాక, రథాన్ని వెనక్కి తిప్పి గడ్డిమీద, పొదల మీద నుండి పోనిచ్చి తమసా నదిని దాటించు, అప్పుడు వాళ్ళకి రథచక్రాల గుర్తులు కనపడకపోయేసరికి వాళ్ళందరూ అయోధ్యకి వెళతారు" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 13 — Scene 13
 
 **Visual:** [Rama, Sita, Lakshmana Visual Locks] and [Sumantra Visual Lock] executing the plan silently at first light — the chariot moving north, then quietly doubling back off the road, crossing the Tamasa river, and reaching the far bank undetected.
 
@@ -96,7 +128,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** The successful, silent execution of the exact plan described in the previous scene — a satisfying, quiet visual payoff; no dialogue needed here, just the plan unfolding precisely as stated.
 
-## 10 — Scene 10
+## 14 — Scene 14
 
 **Visual:** End card.
 

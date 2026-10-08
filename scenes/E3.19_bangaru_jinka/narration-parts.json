@@ -45,73 +45,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "ఇంద్రనీలము ప్రకాశించినట్టు దాని కొమ్ములు ప్రకాశిస్తున్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
-    "text": "సగం నల్లకలువ రంగులో, సగం ఎర్రకలువ రంగులో ఆ జింక యొక్క ముఖం ఉంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 6,
-    "id": "02.06",
-    "text": "దాని కడుపు ముత్యాలు మెరిసినట్టు మెరుస్తుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 7,
-    "id": "02.07",
-    "text": "సన్నని కాళ్ళతో ఉంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 8,
-    "id": "02.08",
-    "text": "సృష్టిలో ఇప్పటి వరకూ ఎవరూ ఎరుగని రూపాన్ని మారీచుడు పొంది, గంతులేసుకుంటూ ఆశ్రమంలోకి ప్రవేశించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 9,
-    "id": "02.09",
-    "text": "అక్కడున్నటువంటి లేత చిగుళ్ళని తింటూ, అటూ ఇటూ పరుగులు తీస్తూ, అక్కడున్న మృగాల దగ్గరికి వెళుతూ,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 10,
-    "id": "02.10",
-    "text": "మళ్ళీ తిరిగి వస్తూ ఒక జింక ప్రవర్తించినట్టు ప్రవర్తించడానికి ప్రయత్నిస్తున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "కాని మారీచుడు మిగతా మృగాల దగ్గరికి వెళ్ళేసరికి, అవి ఈయనని రాక్షసుడిగా కనిపెట్టి దిక్కులు పట్టి పారిపోయాయి.",
+    "text": "ఇంద్రనీలము ప్రకాశించినట్టు దాని కొమ్ములు ప్రకాశిస్తున్నాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -120,79 +57,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "అదే సమయంలో సీతమ్మ పువ్వులు కొయ్యడానికని అటుగా వెళ్ళింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "ఆవిడ కర్ణికారవ వృక్షం యొక్క పూవులు కోస్తుంటే, ఆవిడకి అభిముఖంగా వచ్చి మారీచుడు నిలబడ్డాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "ఆ జింకని చూసిన సీతమ్మ పొంగిపోయి \"రామా!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 5,
-    "id": "03.05",
-    "text": "లక్ష్మణా!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 6,
-    "id": "03.06",
-    "text": "మీరు మీ ఆయుధములను ధరించి వెంటనే రండి\" అని పలికింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 7,
-    "id": "03.07",
-    "text": "రామలక్ష్మణులు వచ్చాక, సీతమ్మ వాళ్ళతో \"ఎదురుగా ఉన్న ఆ మృగాన్ని చూశారా, ఎంత అందంగా ఉందో.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 8,
-    "id": "03.08",
-    "text": "సృష్టిలో ఇలాంటి మృగాన్ని నేను ఇప్పటివరకు చూడలేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 9,
-    "id": "03.09",
-    "text": "ఆ బంగారు రంగు చర్మము, వెండి చుక్కలు\" అని సీతమ్మ ఆ మృగాన్ని గూర్చి వర్ణించబోతుండగా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 10,
-    "id": "03.10",
-    "text": "వెంటనే లక్ష్మణుడు ఇలా అన్నాడు —",
+    "text": "సగం నల్లకలువ రంగులో, సగం ఎర్రకలువ రంగులో ఆ జింక యొక్క ముఖం ఉంది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -201,8 +66,26 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "శంకమానః తు తం దృష్ట్వా లక్ష్మణో రామం అబ్రవీత్ । తం ఏవ ఏనం అహం మన్యే మారీచం రాక్షసం మృగం ॥",
-    "complete_verse_block": true,
+    "text": "దాని కడుపు ముత్యాలు మెరిసినట్టు మెరుస్తుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 2,
+    "id": "04.02",
+    "text": "సన్నని కాళ్ళతో ఉంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 3,
+    "id": "04.03",
+    "text": "సృష్టిలో ఇప్పటి వరకూ ఎవరూ ఎరుగని రూపాన్ని మారీచుడు పొంది, గంతులేసుకుంటూ ఆశ్రమంలోకి ప్రవేశించాడు.",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -210,7 +93,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "\"అన్నయ్యా, ఇది మృగం కాదు, ఇది మారీచుడు.",
+    "text": "అక్కడున్నటువంటి లేత చిగుళ్ళని తింటూ, అటూ ఇటూ పరుగులు తీస్తూ, అక్కడున్న మృగాల దగ్గరికి వెళుతూ,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -219,25 +102,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "ఈ సృష్టిలో ఎక్కడా ఇటువంటి జింక లేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 3,
-    "id": "05.03",
-    "text": "ఈ మారీచుడు ఇలా కామరూపాన్ని పొంది, వేటకి వచ్చిన ఎందరో రాజులని ఆకర్షించి, భుజించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "నామాట నమ్ము, ఇది కచ్చితంగా మారీచుడి మాయ\" అన్నాడు.",
+    "text": "మళ్ళీ తిరిగి వస్తూ ఒక జింక ప్రవర్తించినట్టు ప్రవర్తించడానికి ప్రయత్నిస్తున్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -246,7 +111,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "అప్పుడు సీతమ్మ లక్ష్మణుడిని ఇంక మాట్లాడవద్దు అన్నట్టు వారించి రాముడితో \"ఆర్యపుత్రా!",
+    "text": "కాని మారీచుడు మిగతా మృగాల దగ్గరికి వెళ్ళేసరికి, అవి ఈయనని రాక్షసుడిగా కనిపెట్టి దిక్కులు పట్టి పారిపోయాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -255,25 +120,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "నా మనస్సుని ఈ మృగం హరిస్తోంది, నాకు ఆడుకోవడానికి ఆ మృగాన్ని తెచ్చి ఇవ్వండి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "చంద్రుడు అరణ్యాన్ని ప్రకాశింపచేసినట్టు, ఒంటి మీద రత్నాలలాంటి చుక్కలతో ఈ జింక అరణ్యాన్ని ప్రకాశింపచేస్తుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "మనం కట్టుకున్న ఆశ్రమంలో ఎన్నో మృగాలు ఉన్నాయి, వాటితో పాటు ఈ జింక కూడా ఉంటే నాకు ఎంతో సంతోషంగా ఉంటుంది.",
+    "text": "అదే సమయంలో సీతమ్మ పువ్వులు కొయ్యడానికని అటుగా వెళ్ళింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -282,7 +129,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "ఆహా, ఏమి లక్ష్మీ స్వరూపం, ఏమి అందం, ఏమి ప్రకాశం, మీరు ఎలాగన్నా సరే ఆ మృగాన్ని పట్టి నాకు ఇవ్వండి.",
+    "text": "ఆవిడ కర్ణికారవ వృక్షం యొక్క పూవులు కోస్తుంటే, ఆవిడకి అభిముఖంగా వచ్చి మారీచుడు నిలబడ్డాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -291,7 +138,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "ఇంక కొంతకాలంలో ఈ అరణ్యవాసం పూర్తయిపోయి మనం అంతఃపురానికి వెళ్ళిపోతాము.",
+    "text": "ఆ జింకని చూసిన సీతమ్మ పొంగిపోయి \"రామా!",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -300,7 +147,7 @@
     "scene": 7,
     "part": 3,
     "id": "07.03",
-    "text": "అప్పుడు ఈ మృగాన్ని తీసుకొనివెళదాము.",
+    "text": "లక్ష్మణా!",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -309,88 +156,7 @@
     "scene": 7,
     "part": 4,
     "id": "07.04",
-    "text": "ఈ మృగం భవిష్యత్తులో అంతఃపురాన్ని శోభింపచేస్తుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 5,
-    "id": "07.05",
-    "text": "మనం అంతఃపురానికి వెళ్ళగానే భరతుడు ఈ మృగాన్ని చూసి 'అబ్బ, ఏమి మృగం వదిన' అంటాడు, అత్తగార్లు అందరూ చూసి 'అబ్బ,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 6,
-    "id": "07.06",
-    "text": "ఏమి మృగం' అంటారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 7,
-    "id": "07.07",
-    "text": "అందుకని మీరు దాన్ని జీవించి ఉండగానన్నా పట్టుకురండి, లేకపోతే చంపైనా తీసుకురండి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 8,
-    "id": "07.08",
-    "text": "మీరు ఒకవేళ దాన్ని చంపి తీసుకువస్తే, దాని చర్మాన్ని ఒలుచుకొని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 9,
-    "id": "07.09",
-    "text": "లేత పచ్చగడ్డి మీద ఈ జింక చర్మాన్ని పరుచుకొని దాని మీద కూర్చుంటే, ఎంతబాగుంటుందో.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 10,
-    "id": "07.10",
-    "text": "రామ!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 11,
-    "id": "07.11",
-    "text": "నేను స్త్రీని కావడం చేత, ఏదన్నా కోరిక కలిగేటప్పటికి భావంలో వ్యగ్రత ఏర్పడుతుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 12,
-    "id": "07.12",
-    "text": "'ఎలాగైనా నా కోరిక తీర్చవలసిందే' అని మంకుపట్టు పట్టినట్టు మాట్లాడానా.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 13,
-    "id": "07.13",
-    "text": "అలా మాట్లాడితే ఏమి అనుకోకండే\" అని పలికింది.",
+    "text": "మీరు మీ ఆయుధములను ధరించి వెంటనే రండి\" అని పలికింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -399,7 +165,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "అప్పుడు రాముడు లక్ష్మణుడి వంక చూసి \"లక్ష్మణా!",
+    "text": "రామలక్ష్మణులు వచ్చాక, సీతమ్మ వాళ్ళతో \"ఎదురుగా ఉన్న ఆ మృగాన్ని చూశారా, ఎంత అందంగా ఉందో.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -408,124 +174,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "మీ వదిన ఈ 13 సంవత్సరాల అరణ్యవాసంలో ఏమి అడగలేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "మొట్టమొదటి సారి ఈ జింకని అడుగుతుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "ఆ మృగం పట్ల ఎంత వ్యామోహాన్ని పెంచుకుందో మీ వదిన మాటలలో స్పష్టంగా అర్థమవుతోంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 5,
-    "id": "08.05",
-    "text": "ఆమె ఇంతగా ఈ మృగాన్ని అడుగుతుంటే, తీసుకురాను అని నేను ఎలా అనగలను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 6,
-    "id": "08.06",
-    "text": "అందుకని నేను ఆ మృగాన్ని పట్టుకొని తీసుకువస్తాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 7,
-    "id": "08.07",
-    "text": "ఒకవేళ నేను దాన్ని ప్రాణాలతో తీసుకురాలేకపోతే, దాని శరీరాన్ని అయినా తీసుకువస్తాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 8,
-    "id": "08.08",
-    "text": "మీ వదిన చెప్పినట్టు ఇలాంటి మృగాన్ని నేనూ ఎక్కడా చూడలేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 9,
-    "id": "08.09",
-    "text": "ఇలాంటివి నాకు తెలిసి రెండే ఉన్నాయి, ఒకటి చంద్రుడిలో ఉంది, ఇది భూమి మీద ఉంది (దీని అర్థం ఏంటంటే,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 10,
-    "id": "08.10",
-    "text": "చంద్రుడిలో ఎటువంటి మృగం ఉండదు, అలాగే భూమి మీద ఇది ఉందంటే, ఈ రెండూ మాయే అని అర్థం).",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 11,
-    "id": "08.11",
-    "text": "ఒకవేళ నువ్వు చెప్పినట్టు ఆ మృగం మారీచుడే అయితే నేను వాడిని సంహరిస్తాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 12,
-    "id": "08.12",
-    "text": "లక్ష్మణా!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 13,
-    "id": "08.13",
-    "text": "చాలా జాగ్రత్త సుమా.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 14,
-    "id": "08.14",
-    "text": "ప్రతి క్షణమూ నువ్వు శంకిస్తూనే ఉండాలి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 15,
-    "id": "08.15",
-    "text": "నువ్వు మరియు జటాయువు సీతని జాగ్రత్తగా కాపాడండి\" అని చెప్పి, రాముడు ఆ మృగాన్ని పట్టుకోవడానికని దాని వెనకాల వెళ్ళాడు.",
+    "text": "సృష్టిలో ఇలాంటి మృగాన్ని నేను ఇప్పటివరకు చూడలేదు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -534,6 +183,366 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
+    "text": "ఆ బంగారు రంగు చర్మము, వెండి చుక్కలు\" అని సీతమ్మ ఆ మృగాన్ని గూర్చి వర్ణించబోతుండగా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "వెంటనే లక్ష్మణుడు ఇలా అన్నాడు —",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "శంకమానః తు తం దృష్ట్వా లక్ష్మణో రామం అబ్రవీత్ । తం ఏవ ఏనం అహం మన్యే మారీచం రాక్షసం మృగం ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "\"అన్నయ్యా, ఇది మృగం కాదు, ఇది మారీచుడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "ఈ సృష్టిలో ఎక్కడా ఇటువంటి జింక లేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "ఈ మారీచుడు ఇలా కామరూపాన్ని పొంది, వేటకి వచ్చిన ఎందరో రాజులని ఆకర్షించి, భుజించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "నామాట నమ్ము, ఇది కచ్చితంగా మారీచుడి మాయ\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "అప్పుడు సీతమ్మ లక్ష్మణుడిని ఇంక మాట్లాడవద్దు అన్నట్టు వారించి రాముడితో \"ఆర్యపుత్రా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "నా మనస్సుని ఈ మృగం హరిస్తోంది, నాకు ఆడుకోవడానికి ఆ మృగాన్ని తెచ్చి ఇవ్వండి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "చంద్రుడు అరణ్యాన్ని ప్రకాశింపచేసినట్టు, ఒంటి మీద రత్నాలలాంటి చుక్కలతో ఈ జింక అరణ్యాన్ని ప్రకాశింపచేస్తుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "మనం కట్టుకున్న ఆశ్రమంలో ఎన్నో మృగాలు ఉన్నాయి, వాటితో పాటు ఈ జింక కూడా ఉంటే నాకు ఎంతో సంతోషంగా ఉంటుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "ఆహా, ఏమి లక్ష్మీ స్వరూపం, ఏమి అందం, ఏమి ప్రకాశం, మీరు ఎలాగన్నా సరే ఆ మృగాన్ని పట్టి నాకు ఇవ్వండి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "ఇంక కొంతకాలంలో ఈ అరణ్యవాసం పూర్తయిపోయి మనం అంతఃపురానికి వెళ్ళిపోతాము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "అప్పుడు ఈ మృగాన్ని తీసుకొనివెళదాము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "ఈ మృగం భవిష్యత్తులో అంతఃపురాన్ని శోభింపచేస్తుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 3,
+    "id": "17.03",
+    "text": "మనం అంతఃపురానికి వెళ్ళగానే భరతుడు ఈ మృగాన్ని చూసి 'అబ్బ, ఏమి మృగం వదిన' అంటాడు, అత్తగార్లు అందరూ చూసి 'అబ్బ,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 4,
+    "id": "17.04",
+    "text": "ఏమి మృగం' అంటారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "అందుకని మీరు దాన్ని జీవించి ఉండగానన్నా పట్టుకురండి, లేకపోతే చంపైనా తీసుకురండి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "మీరు ఒకవేళ దాన్ని చంపి తీసుకువస్తే, దాని చర్మాన్ని ఒలుచుకొని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 3,
+    "id": "18.03",
+    "text": "లేత పచ్చగడ్డి మీద ఈ జింక చర్మాన్ని పరుచుకొని దాని మీద కూర్చుంటే, ఎంతబాగుంటుందో.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "రామ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "నేను స్త్రీని కావడం చేత, ఏదన్నా కోరిక కలిగేటప్పటికి భావంలో వ్యగ్రత ఏర్పడుతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 3,
+    "id": "19.03",
+    "text": "'ఎలాగైనా నా కోరిక తీర్చవలసిందే' అని మంకుపట్టు పట్టినట్టు మాట్లాడానా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 4,
+    "id": "19.04",
+    "text": "అలా మాట్లాడితే ఏమి అనుకోకండే\" అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "అప్పుడు రాముడు లక్ష్మణుడి వంక చూసి \"లక్ష్మణా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "మీ వదిన ఈ 13 సంవత్సరాల అరణ్యవాసంలో ఏమి అడగలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 3,
+    "id": "20.03",
+    "text": "మొట్టమొదటి సారి ఈ జింకని అడుగుతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "ఆ మృగం పట్ల ఎంత వ్యామోహాన్ని పెంచుకుందో మీ వదిన మాటలలో స్పష్టంగా అర్థమవుతోంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "ఆమె ఇంతగా ఈ మృగాన్ని అడుగుతుంటే, తీసుకురాను అని నేను ఎలా అనగలను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "అందుకని నేను ఆ మృగాన్ని పట్టుకొని తీసుకువస్తాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "ఒకవేళ నేను దాన్ని ప్రాణాలతో తీసుకురాలేకపోతే, దాని శరీరాన్ని అయినా తీసుకువస్తాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 3,
+    "id": "22.03",
+    "text": "మీ వదిన చెప్పినట్టు ఇలాంటి మృగాన్ని నేనూ ఎక్కడా చూడలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "ఇలాంటివి నాకు తెలిసి రెండే ఉన్నాయి, ఒకటి చంద్రుడిలో ఉంది, ఇది భూమి మీద ఉంది (దీని అర్థం ఏంటంటే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 2,
+    "id": "23.02",
+    "text": "చంద్రుడిలో ఎటువంటి మృగం ఉండదు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "అలాగే భూమి మీద ఇది ఉందంటే, ఈ రెండూ మాయే అని అర్థం).",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 2,
+    "id": "24.02",
+    "text": "ఒకవేళ నువ్వు చెప్పినట్టు ఆ మృగం మారీచుడే అయితే నేను వాడిని సంహరిస్తాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
+    "text": "లక్ష్మణా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 2,
+    "id": "25.02",
+    "text": "చాలా జాగ్రత్త సుమా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 3,
+    "id": "25.03",
+    "text": "ప్రతి క్షణమూ నువ్వు శంకిస్తూనే ఉండాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 4,
+    "id": "25.04",
+    "text": "నువ్వు మరియు జటాయువు సీతని జాగ్రత్తగా కాపాడండి\" అని చెప్పి, రాముడు ఆ మృగాన్ని పట్టుకోవడానికని దాని వెనకాల వెళ్ళాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 1,
+    "id": "26.01",
     "text": "తర్వాత చూద్దాం — ఆ జింక రాముడిని ఎంత దూరం తీసుకువెళ్ళిందో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

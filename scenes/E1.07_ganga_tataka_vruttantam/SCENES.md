@@ -54,13 +54,21 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 6 — Scene 06
 
-**Visual:** [Vishwamitra Visual Lock] explaining — a brief mythic inset: [Brahma Visual Lock] shaping a lake atop Kailasa with his mind, water flowing down as a river. (Location register: Mythic inset, desaturated)
+**Visual:** [Vishwamitra Visual Lock] explaining — a brief mythic inset: [Brahma Visual Lock] shaping a lake atop Kailasa with his mind. (Location register: Mythic inset, desaturated)
 
-**Story:** అప్పుడు ఆయన ఇలా చెప్పాడు — "ఒకనాడు బ్రహ్మగారు తన మనస్సుతో కైలాస పర్వత శిఖరాల మీద ఒక సరోవరాన్ని నిర్మించారు. ఆ సరస్సుకి మానస సరోవరం అని పేరు. ఆ సరోవరం నుండి ప్రవహించినదే సరయు నది. పవిత్రమైన ఆ సరయు నది ఈ ప్రాంతములో గంగా నదితో సంగమిస్తుంది, కాబట్టి ఒకసారి ఆ నదీ సంగమానికి నమస్కరించమన్నాడు."
+**Story:** అప్పుడు ఆయన ఇలా చెప్పాడు — "ఒకనాడు బ్రహ్మగారు తన మనస్సుతో కైలాస పర్వత శిఖరాల మీద ఒక సరోవరాన్ని నిర్మించారు. ఆ సరస్సుకి మానస సరోవరం అని పేరు.
 
 **Image:** Pending creation.
 
 ## 7 — Scene 07
+
+**Visual:** Water flowing down from the lake as the river Sarayu and meeting the Ganga; the princes bowing to the confluence. (Location register: Mythic inset, desaturated)
+
+**Story:** ఆ సరోవరం నుండి ప్రవహించినదే సరయు నది. పవిత్రమైన ఆ సరయు నది ఈ ప్రాంతములో గంగా నదితో సంగమిస్తుంది, కాబట్టి ఒకసారి ఆ నదీ సంగమానికి నమస్కరించమన్నాడు."
+
+**Image:** Pending creation.
+
+## 8 — Scene 08
 
 **Visual:** [Rama/Lakshmana Visual Locks] bowing respectfully toward the confluence's roaring waters, then the group disembarking on the far bank. (Location register: Riverbank, far side)
 
@@ -68,7 +76,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 8 — Scene 08
+## 9 — Scene 09
 
 **Visual:** A tonal shift — the forest ahead sounds wrong: [use generic forest wildlife Visual Lock] birds shrieking, tigers/lions/elephants roaming visibly agitated, an oppressive atmosphere replacing the previous scenes' calm. (Location register: Dense forest, unusually threatening)
 
@@ -76,45 +84,93 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 9 — Scene 09
+## 10 — Scene 10
 
-**Visual:** [Rama/Lakshmana Visual Locks] asking why; [Vishwamitra Visual Lock] beginning a two-part backstory — first the Malada-Karusha founding story. (Location register: Dense forest)
+**Visual:** [Rama/Lakshmana Visual Locks] at the edge of a dark, dreadful forest, asking why; [Vishwamitra Visual Lock] beginning the story of two once-thriving towns. (Location register: Dense forest)
 
-**Story:** ఈ అరణ్యం ఇంత భయంకరంగా ఎందుకుందని రామలక్ష్మణులు విశ్వామిత్రుడిని అడగగా, ఆయన ఇలా చెప్పారు — "పూర్వము ఇక్కడ మలదము, కరూషము అనే రెండు జనపదాలు ఉండేవి. ఎంతో సంతోషంగా ఉండాల్సిన ఈ రెండు పట్టణాలు ఇవాళ అలా లేవు. దీనికంతటికి కారణం తాటక అనే ఒక రాక్షసి — ఆమె ఒక యక్ష కాంత, రాక్షసిగా మారి ఇక్కడున్న జానపదులందరినీ హింసించేది, అందుకనే ఇక్కడ ఎవరూ లేరు" అన్నాడు.
+**Story:** ఈ అరణ్యం ఇంత భయంకరంగా ఎందుకుందని రామలక్ష్మణులు విశ్వామిత్రుడిని అడగగా, ఆయన ఇలా చెప్పారు — "పూర్వము ఇక్కడ మలదము, కరూషము అనే రెండు జనపదాలు ఉండేవి.
 
 **Image:** Pending creation.
 
 **Source note:** Tataka's name spoken here for the first time — no visual reveal yet, per the "held back for the confrontation" note; keep the visual purely atmospheric (agitated wildlife, oppressive forest), not a monster tease.
 
-## 10 — Scene 10
-
-**Visual:** Mythic inset: [Indra Visual Lock] in a fierce battle-flash killing a Brahmin-rakshasa (Vritrasura, implied rather than fully designed — a single-scene antagonist not worth a dedicated Character Bible entry), then visibly afflicted — grime/impurity motif and a hunger-motif overlaid on his form. (Location register: Mythic inset, desaturated)
-
-**Story:** అప్పుడు రాముడు, "ఈ నగరాలు ఎలా ఏర్పడ్డాయి" అని అడగగా విశ్వామిత్రుడు ఇలా చెప్పాడు — "ఒకప్పుడు ఇంద్రుడు వృత్రాసురుడనే రాక్షసుడిని సంహరించాడు. వృత్రాసురుడు బ్రాహ్మణుడు కావడం వలన ఆయనని చంపినందుకు ఇంద్రుడికి బ్రహ్మహత్యా పాతకం వచ్చింది. ఆ పాతకం వలన ఇంద్రుడికి రెండు లక్షణాలు వచ్చాయి — ఆయనకి శరీరంలో మలం పుట్టడం ప్రారంభమయ్యింది, అలాగే ఆకలి కూడా కలిగింది."
-
-**Image:** Pending creation.
-
-**Source note:** This is one of the more unusual/earthy details in the text (the origin of "మలదము" from Indra's sin literally meaning impurity) — narrate matter-of-factly as the etymology it is, without discomfort or over-explanation.
-
 ## 11 — Scene 11
 
-**Visual:** [Indra Visual Lock] visiting sages, the two afflictions being ritually removed and falling to earth — two soft light-motifs landing and blossoming into the two named regions. (Location register: Mythic inset → present-day forest)
+**Visual:** The two towns now deserted and overgrown — purely atmospheric. (Location register: Dense forest)
 
-**Story:** "అప్పుడు ఆయన ఋషులని ఆశ్రయిస్తే వారు ఆ రెండు లక్షణాలని తొలగించారు, కాని ఆ రెండు భూమి మీద పడ్డాయి. అవి పడ్డ ప్రదేశాలని మలదము, కరూషము అనే రెండు జానపదములుగా వర్ధిల్లుతాయి, ఇక్కడున్న ప్రజలు సుఖసంతోషములతో ఆనందంగా ఉంటారని ఇంద్రుడు వరం ఇచ్చాడు."
+**Story:** ఎంతో సంతోషంగా ఉండాల్సిన ఈ రెండు పట్టణాలు ఇవాళ అలా లేవు.
 
 **Image:** Pending creation.
 
 ## 12 — Scene 12
 
-**Visual:** Second backstory begins: [use a generic Yaksha visual — no lock exists, one-scene character, treat similar to a lesser devata] Suketu performing tapasya; [Brahma Visual Lock] appearing to grant a daughter instead of sons. (Location register: Mythic inset, desaturated)
+**Visual:** An unseen menace in the forest (agitated birds, bent trees) as Tataka is named — no visual reveal yet. (Location register: Dense forest)
 
-**Story:** "అలాగే పూర్వ కాలములో సుకేతు అనే యక్షుడికి పిల్లలు లేకపోతే బ్రహ్మ గూర్చి తపస్సు చేశాడు. బ్రహ్మదేవుడు ప్రత్యక్షమై 'నేను నీకు కొడుకులని ఇవ్వను, ఒక కూతురుని ఇస్తాను, ఆమె కామరూపి, మహా అందగత్తె, ఆమెకి 1000 ఏనుగుల బలముంటుంది' అని వరం ఇచ్చాడు. ఆమె పేరు తాటక."
+**Story:** దీనికంతటికి కారణం తాటక అనే ఒక రాక్షసి — ఆమె ఒక యక్ష కాంత, రాక్షసిగా మారి ఇక్కడున్న జానపదులందరినీ హింసించేది, అందుకనే ఇక్కడ ఎవరూ లేరు" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 13 — Scene 13
+
+**Visual:** Mythic inset: [Indra Visual Lock] in a fierce battle-flash striking down Vritrasura (implied, not fully designed). (Location register: Mythic inset, desaturated)
+
+**Story:** అప్పుడు రాముడు, "ఈ నగరాలు ఎలా ఏర్పడ్డాయి" అని అడగగా విశ్వామిత్రుడు ఇలా చెప్పాడు — "ఒకప్పుడు ఇంద్రుడు వృత్రాసురుడనే రాక్షసుడిని సంహరించాడు.
+
+**Image:** Pending creation.
+
+**Source note:** This is one of the more unusual/earthy details in the text (the origin of "మలదము" from Indra's sin literally meaning impurity) — narrate matter-of-factly as the etymology it is, without discomfort or over-explanation.
+
+## 14 — Scene 14
+
+**Visual:** Indra standing over the fallen foe, a dark stain of sin settling on him. (Location register: Mythic inset, desaturated)
+
+**Story:** వృత్రాసురుడు బ్రాహ్మణుడు కావడం వలన ఆయనని చంపినందుకు ఇంద్రుడికి బ్రహ్మహత్యా పాతకం వచ్చింది.
+
+**Image:** Pending creation.
+
+## 15 — Scene 15
+
+**Visual:** Indra visibly afflicted — a grime/impurity motif and a hunger motif overlaid on his form. (Location register: Mythic inset, desaturated)
+
+**Story:** ఆ పాతకం వలన ఇంద్రుడికి రెండు లక్షణాలు వచ్చాయి — ఆయనకి శరీరంలో మలం పుట్టడం ప్రారంభమయ్యింది, అలాగే ఆకలి కూడా కలిగింది."
+
+**Image:** Pending creation.
+
+## 16 — Scene 16
+
+**Visual:** [Indra Visual Lock] before a group of sages, the two afflictions being ritually removed and falling to earth as two soft light-motifs. (Location register: Mythic inset → present-day forest)
+
+**Story:** "అప్పుడు ఆయన ఋషులని ఆశ్రయిస్తే వారు ఆ రెండు లక్షణాలని తొలగించారు, కాని ఆ రెండు భూమి మీద పడ్డాయి.
+
+**Image:** Pending creation.
+
+## 17 — Scene 17
+
+**Visual:** The two lights landing and blossoming into two prosperous regions; Indra blessing the land. (Location register: Mythic inset → present-day forest)
+
+**Story:** అవి పడ్డ ప్రదేశాలని మలదము, కరూషము అనే రెండు జానపదములుగా వర్ధిల్లుతాయి, ఇక్కడున్న ప్రజలు సుఖసంతోషములతో ఆనందంగా ఉంటారని ఇంద్రుడు వరం ఇచ్చాడు."
+
+**Image:** Pending creation.
+
+## 18 — Scene 18
+
+**Visual:** Second backstory begins: the yaksha Suketu (generic, one-scene character) performing tapasya. (Location register: Mythic inset, desaturated)
+
+**Story:** "అలాగే పూర్వ కాలములో సుకేతు అనే యక్షుడికి పిల్లలు లేకపోతే బ్రహ్మ గూర్చి తపస్సు చేశాడు.
 
 **Image:** Pending creation.
 
 **Source note:** This is Tataka's origin — she begins as a blessed, beautiful yakshini, not born monstrous — an important character beat: she's cursed later, not evil from birth.
 
-## 13 — Scene 13
+## 19 — Scene 19
+
+**Visual:** [Brahma Visual Lock] appearing to grant a daughter instead of sons — a radiant, beautiful young yakshini with immense strength: Tataka as she began. (Location register: Mythic inset, desaturated)
+
+**Story:** బ్రహ్మదేవుడు ప్రత్యక్షమై 'నేను నీకు కొడుకులని ఇవ్వను, ఒక కూతురుని ఇస్తాను, ఆమె కామరూపి, మహా అందగత్తె, ఆమెకి 1000 ఏనుగుల బలముంటుంది' అని వరం ఇచ్చాడు. ఆమె పేరు తాటక."
+
+**Image:** Pending creation.
+
+## 20 — Scene 20
 
 **Visual:** [Young Tataka Visual Lock — pre-curse: per this being her origin, a beautiful yakshini form, distinct from her eventual monstrous Character Bible lock; note this pre-curse appearance for the Character Bible if any earlier flashback needs her] marrying Sunda; [infant Maricha] born to them; both living wild and proud in the forest. (Location register: Mythic inset)
 
@@ -124,7 +180,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Maricha's birth — a significant character connection: the golden-deer antagonist of Aranya Khaanda is Tataka's own son, established here at the very start of the series. Worth a narration beat of its own weight even though it's a brief line.
 
-## 14 — Scene 14
+## 21 — Scene 21
 
 **Visual:** [Sunda — one-scene character, generic warrior/yaksha visual] attacking [Agastya Visual Lock] in meditation; [Agastya] retaliating and killing Sunda; [Tataka and young Maricha Visual Locks] arriving to find him dead, attacking Agastya in turn. (Location register: Mythic inset)
 
@@ -132,7 +188,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 15 — Scene 15
+## 22 — Scene 22
 
 **Visual:** [Agastya Visual Lock] delivering the twin curse — [Tataka] transforming into her monstrous Character Bible form in real-time (the moment her locked design comes into being); [young Maricha] shown with a rakshasa-transformation motif overlaid. (Location register: Mythic inset → present-day forest)
 
@@ -140,19 +196,27 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-**Source note:** This is the moment Tataka's Character Bible Visual Lock officially "activates" — everything before this line in the flashback uses her brief pre-curse description from scene 13, everything from here forward (including the live confrontation ahead) uses her full monstrous lock.
+**Source note:** This is the moment Tataka's Character Bible Visual Lock officially "activates" — everything before this line in the flashback uses her brief pre-curse description from scene 20, everything from here forward (including the live confrontation ahead) uses her full monstrous lock.
 
-## 16 — Scene 16
+## 23 — Scene 23
 
-**Visual:** [Vishwamitra Visual Lock] turning back to address Rama directly, the flashback frame closing, back to present-tense forest. (Location register: Dense forest, present)
+**Visual:** [Vishwamitra Visual Lock] turning back to address Rama directly, the flashback frame closing, back to the present-tense forest. (Location register: Dense forest, present)
 
-**Story:** "కాబట్టి రామా, నువ్వు ఇప్పుడు ఆ తాటకని సంహరించాలి. నువ్వు చేసే పని దోషమే అయినా, ప్రజాకంటకులైన వాళ్ళని రాజు సంహరించి తీరాలి. పూర్వకాలములో మందర అనేటువంటి ఒక [భూమిని సంహరించడానికి ప్రయత్నిస్తే] ఆమెని సంహరించారు, అలాగే భృగు మహర్షి భార్య ఇంద్రుడిని సంహరించడం కోసం తపస్సు ప్రారంభిస్తే శ్రీమహావిష్ణువు ఆమెని సంహరించారు. నువ్వు కూడా ఈ తాటకని సంహరించు" అని విశ్వామిత్రుడు అన్నాడు.
+**Story:** "కాబట్టి రామా, నువ్వు ఇప్పుడు ఆ తాటకని సంహరించాలి. నువ్వు చేసే పని దోషమే అయినా, ప్రజాకంటకులైన వాళ్ళని రాజు సంహరించి తీరాలి. పూర్వకాలములో మందర అనేటువంటి ఒక [భూమిని సంహరించడానికి ప్రయత్నిస్తే] ఆమెని సంహరించారు,
 
 **Image:** Pending creation.
 
-**Source note:** Vishwamitra directly names two precedents of women being justly killed for their crimes — this is the text's own argument addressing Rama's coming hesitation (scene 18) about the ethics of killing a woman; keep both precedent-examples in the narration exactly as given, since Rama's answer in the next scene directly responds to this reasoning.
+**Source note:** Vishwamitra directly names two precedents of women being justly killed for their crimes — this is the text's own argument addressing Rama's coming hesitation (scenes 26-27) about the ethics of killing a woman; keep both precedent-examples in the narration exactly as given, since Rama's answer in the next scene directly responds to this reasoning.
 
-## 17 — Scene 17
+## 24 — Scene 24
+
+**Visual:** Brief inset of the second precedent — Vishnu and the wife of Bhrigu, shown in silhouette only — then Vishwamitra's direct command to Rama. (Location register: Dense forest, present)
+
+**Story:** అలాగే భృగు మహర్షి భార్య ఇంద్రుడిని సంహరించడం కోసం తపస్సు ప్రారంభిస్తే శ్రీమహావిష్ణువు ఆమెని సంహరించారు. నువ్వు కూడా ఈ తాటకని సంహరించు" అని విశ్వామిత్రుడు అన్నాడు.
+
+**Image:** Pending creation.
+
+## 25 — Scene 25
 
 **Visual:** [Rama Visual Lock] steady, respectful, but clearly weighing the moral question before answering. (Location register: Dense forest)
 
@@ -162,25 +226,41 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Bridges into the verse.
 
-## 18 — Scene 18
+## 26 — Scene 26
 
-**Visual:** On-screen verse text. (Location register: Dense forest)
+**Visual:** On-screen verse text, first shloka of Rama's pledge. (Location register: Dense forest)
 
-**Story:** పితుర్ వచన నిర్దేశాత్ పితుర్ వచన గౌరవాత్ । వచనం కౌశికస్య ఇతి కర్తవ్యం అవిశఙ్కయా ॥ గో బ్రాహ్మణ హితార్థాయ దేశస్య చ హితాయ చ । తవ చైవ అప్రమేయస్య వచనం కర్తుం ఉద్యతః ॥
+**Story:** పితుర్ వచన నిర్దేశాత్ పితుర్ వచన గౌరవాత్ । వచనం కౌశికస్య ఇతి కర్తవ్యం అవిశఙ్కయా ॥
 
 **Image:** Pending creation.
 
 **Source note:** 🔴 VERSE — Rama's pledge, framing his obedience as coming through his father's word, honoring Vishwamitra's request, and serving both Brahmins and the land.
 
-## 19 — Scene 19
+## 27 — Scene 27
 
-**Visual:** [Rama Visual Lock] speaking the pledge aloud, then drawing his bow and sounding the string — a deliberate, confident, non-hesitant action. (Location register: Dense forest)
+**Visual:** Same verse card, second shloka completing the pledge. (Location register: Dense forest)
 
-**Story:** "మా తండ్రిగారు మీరు ఏది చెయ్యమంటే అది చెయ్యమన్నారు, గురువుగారైన మీరు చెప్పారు కనుక లోకాన్ని రక్షించడం కోసం, బ్రాహ్మణులను, గోవులను, ఇక్కడ ఉంటున్న అన్ని ప్రాణులను కాపాడడం కోసం సుక్షత్రియుడనైన నేను తాటకని తప్పక సంహరిస్తాను" అని రాముడు తన ధనుస్సు తీసుకొని ధనుష్టంకారం చేశాడు.
+**Story:** గో బ్రాహ్మణ హితార్థాయ దేశస్య చ హితాయ చ । తవ చైవ అప్రమేయస్య వచనం కర్తుం ఉద్యతః ॥
 
 **Image:** Pending creation.
 
-## 20 — Scene 20
+## 28 — Scene 28
+
+**Visual:** [Rama Visual Lock] speaking the pledge aloud to [Vishwamitra Visual Lock], hand on his heart. (Location register: Dense forest)
+
+**Story:** "మా తండ్రిగారు మీరు ఏది చెయ్యమంటే అది చెయ్యమన్నారు, గురువుగారైన మీరు చెప్పారు కనుక లోకాన్ని రక్షించడం కోసం, బ్రాహ్మణులను, గోవులను,
+
+**Image:** Pending creation.
+
+## 29 — Scene 29
+
+**Visual:** Rama drawing his bow and sounding the string — a deliberate, confident action; the sound rolling through the forest. (Location register: Dense forest)
+
+**Story:** ఇక్కడ ఉంటున్న అన్ని ప్రాణులను కాపాడడం కోసం సుక్షత్రియుడనైన నేను తాటకని తప్పక సంహరిస్తాను" అని రాముడు తన ధనుస్సు తీసుకొని ధనుష్టంకారం చేశాడు.
+
+**Image:** Pending creation.
+
+## 30 — Scene 30
 
 **Visual:** The bowstring's sound traveling through the forest; [use Tataka Visual Lock — FIRST full reveal, her complete monstrous Character Bible lock] turning toward the sound, beginning to move. (Location register: Dense forest)
 
@@ -190,7 +270,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This is Tataka's full-reveal shot — give it real visual weight after nine scenes of buildup; her Character Bible lock (towering, dark rough grey-green/brown skin, clawed hands, primal hide clothing) should be unmistakable and imposing here.
 
-## 21 — Scene 21
+## 31 — Scene 31
 
 **Visual:** [Rama Visual Lock] seeing her fully for the first time, turning to Lakshmana with a specific, almost startling line. (Location register: Dense forest)
 
@@ -200,7 +280,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** End the episode on this line — a striking, almost wry understatement from Rama at the sight of her, holding the actual combat for E1.08.
 
-## 22 — Scene 22
+## 32 — Scene 32
 
 **Visual:** End card.
 

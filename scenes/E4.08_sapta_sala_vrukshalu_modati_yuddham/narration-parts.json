@@ -54,46 +54,10 @@
     "seconds": null
   },
   {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "ఆనాడు దుందుభి యొక్క శరీరాన్ని మా అన్నయ్య విసిరేస్తే అది యోజనం దూరం వెళ్ళి పడింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "రాముడిని ఈ అస్థిపంజరాన్ని తన కాలితో తన్నమనండి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 5,
-    "id": "03.05",
-    "text": "200 ధనుస్సుల దూరం కాని రాముడు తంతే నేను నమ్ముతాను\" అని లక్ష్మణుడితో అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "అప్పడు రాముడు \"సరేనయ్యా అలాగే చేస్తాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 2,
-    "id": "04.02",
-    "text": "నీకు నమ్మకం కలిగించడం కోసం నువ్వు చెప్పిన పని తప్పకుండా చేస్తాను\" అన్నాడు.",
+    "text": "ఆనాడు దుందుభి యొక్క శరీరాన్ని మా అన్నయ్య విసిరేస్తే అది యోజనం దూరం వెళ్ళి పడింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -102,8 +66,17 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "రాఘవో దుందుభేః కాయం పాద అంగుష్ఠేన లీలయా । తోలయిత్వా మహాబాహుః చిక్షేప దశ యోజనం ॥",
-    "complete_verse_block": true,
+    "text": "రాముడిని ఈ అస్థిపంజరాన్ని తన కాలితో తన్నమనండి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 2,
+    "id": "05.02",
+    "text": "200 ధనుస్సుల దూరం కాని రాముడు తంతే నేను నమ్ముతాను\" అని లక్ష్మణుడితో అన్నాడు.",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -111,7 +84,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "సుగ్రీవుడు చెప్పినట్టుగా రాముడు ఆ దుందుభి కళేబరాన్ని తన బొటను వేలితో తంతే అది 10 యోజనాల దూరం వెళ్ళి పడింది.",
+    "text": "అప్పడు రాముడు \"సరేనయ్యా అలాగే చేస్తాను.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -120,7 +93,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "అప్పుడు రాముడు సుగ్రీవుడి వంక నమ్మకం కుదిరిందా అన్నట్టు చూశాడు.",
+    "text": "నీకు నమ్మకం కలిగించడం కోసం నువ్వు చెప్పిన పని తప్పకుండా చేస్తాను\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -129,71 +102,8 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "కాని సుగ్రీవుడు \"ఆనాడు వాలి ఈ కళేబరాన్ని విసిరినప్పుడు ఇది రక్తమాంసాలతో పచ్చిగా, చాలా బరువుగా ఉంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 2,
-    "id": "07.02",
-    "text": "అప్పటికే మా అన్నయ్య ఈ దుందుభితో చాలాసేపు యుద్ధం చేసి ఉన్నాడు, దానికితోడు తాగి ఉన్నాడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 3,
-    "id": "07.03",
-    "text": "తన భార్యలతో రమిస్తూ బయటకి వచ్చాడు, కావున అనేకరకములుగా బడలిపోయిన శరీరముతో ఉన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "కాని రాముడు చాలా ఉత్సాహంగా ఉన్నాడు, మద్యాన్ని సేవించి లేడు, పరీక్షకి నిలబడుతున్నాను అనే పూనికతో ఉన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 5,
-    "id": "07.05",
-    "text": "ఆనాడు మా అన్నయ్య విసిరింది ఒక పచ్చి శరీరం, అది ఒక యోజనం వెళ్ళి పడింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 6,
-    "id": "07.06",
-    "text": "ఈనాడు రాముడు తన్నింది ఎండిపోయిన కళేబరం, దానిని 10 యోజనాలు తన్నడంలో పెద్ద గొప్పేముంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 7,
-    "id": "07.07",
-    "text": "ఆ సాల వృక్షాన్ని కూడా కొట్టమను, అప్పుడు నాకు కొంత నమ్మకం కలుగుతుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 8,
-    "id": "07.08",
-    "text": "అప్పుడు మనం వాలిని సంహరించడానికి వెళదాము\" అన్నాడు.",
-    "complete_verse_block": false,
+    "text": "రాఘవో దుందుభేః కాయం పాద అంగుష్ఠేన లీలయా । తోలయిత్వా మహాబాహుః చిక్షేప దశ యోజనం ॥",
+    "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -201,7 +111,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "అప్పుడు రాముడు ఒక బంగారు బాణాన్ని చేతితో పట్టుకొని, వింటినారికి సంధించి,",
+    "text": "సుగ్రీవుడు చెప్పినట్టుగా రాముడు ఆ దుందుభి కళేబరాన్ని తన బొటను వేలితో తంతే అది 10 యోజనాల దూరం వెళ్ళి పడింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -210,25 +120,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "గురి చూసి ఆ 7 సాల వృక్షముల వైపు విడిచిపెట్టాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "కనురెప్ప మూసి తెరిచే లోపల ఆ బాణం 7 సాల వృక్షాలనీ పడగొట్టేసి, ఎదురుగా ఉన్నటువంటి పర్వత శిఖరాన్ని తొలిచేసి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "భూమిలో పాతాళ లోకము వరకూ వెళ్ళి, మళ్ళి తిరిగొచ్చి రాముడి యొక్క అమ్ములపొదిలో కూర్చుండిపోయింది.",
+    "text": "అప్పుడు రాముడు సుగ్రీవుడి వంక నమ్మకం కుదిరిందా అన్నట్టు చూశాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -237,61 +129,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "రాముడి శక్తి ఏమిటో చూశిన సుగ్రీవుడు వెంటనే రాముడి పాదాలకి తన శిరస్సు తగిలేటట్టు పడిపోయాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 2,
-    "id": "09.02",
-    "text": "అప్పుడాయన కిరీటం రాముడి పాదాల మీద పడిపోయింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "అప్పుడా సుగ్రీవుడు \"రామ!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 4,
-    "id": "09.04",
-    "text": "నీ బాణానికి ఉన్న వేగం ఇంద్రుడి బాణానికి కూడా లేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 5,
-    "id": "09.05",
-    "text": "నేను ఏమో అనుకున్నాను, ఇంక వాలి ఏమిటి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 6,
-    "id": "09.06",
-    "text": "నువ్వు బాణ ప్రయోగం చేస్తే వజ్రాయుధం పట్టుకున్న ఇంద్రుడి శిరస్సు కూడా కింద పడిపోతుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 7,
-    "id": "09.07",
-    "text": "నీ బాణానికి ఉన్న వేగం సామాన్యమైనది కాదు, వాలి దగ్గరికి వెళదాము పద\" అన్నాడు.",
+    "text": "కాని సుగ్రీవుడు \"ఆనాడు వాలి ఈ కళేబరాన్ని విసిరినప్పుడు ఇది రక్తమాంసాలతో పచ్చిగా, చాలా బరువుగా ఉంది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -300,7 +138,7 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "\"తప్పకుండా సుగ్రీవ, బయలుదేరదాము\", అని అందరూ బయలుదేరారు.",
+    "text": "అప్పటికే మా అన్నయ్య ఈ దుందుభితో చాలాసేపు యుద్ధం చేసి ఉన్నాడు, దానికితోడు తాగి ఉన్నాడు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -309,7 +147,7 @@
     "scene": 10,
     "part": 2,
     "id": "10.02",
-    "text": "ముందు సుగ్రీవుడు వేగంగా వెళుతున్నాడు, ఆయన వెనకాల రామలక్ష్మణులు, సుగ్రీవుడి మంత్రులైన హనుమంతుడు, నీలుడు, నలుడు మొదలైన వారు వెళుతున్నారు.",
+    "text": "తన భార్యలతో రమిస్తూ బయటకి వచ్చాడు, కావున అనేకరకములుగా బడలిపోయిన శరీరముతో ఉన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -318,8 +156,17 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
-    "text": "సర్వే తే త్వరితం గత్వా కిష్కింధాం వాలినః పురీం । వృక్షైః ఆత్మానం ఆవృత్య హి అతిష్ఠన్ గహనే వనే ॥",
-    "complete_verse_block": true,
+    "text": "కాని రాముడు చాలా ఉత్సాహంగా ఉన్నాడు, మద్యాన్ని సేవించి లేడు, పరీక్షకి నిలబడుతున్నాను అనే పూనికతో ఉన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "ఆనాడు మా అన్నయ్య విసిరింది ఒక పచ్చి శరీరం, అది ఒక యోజనం వెళ్ళి పడింది.",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -327,7 +174,7 @@
     "scene": 12,
     "part": 1,
     "id": "12.01",
-    "text": "ముందు వెళుతున్న సుగ్రీవుడు కిష్కింద పట్టణంలోకి వెళ్ళిపోయాడు.",
+    "text": "ఈనాడు రాముడు తన్నింది ఎండిపోయిన కళేబరం, దానిని 10 యోజనాలు తన్నడంలో పెద్ద గొప్పేముంది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -336,7 +183,7 @@
     "scene": 12,
     "part": 2,
     "id": "12.02",
-    "text": "మిగిలిన వారందరూ దట్టమైన చెట్ల చాటున, పైకి కనపడకుండా దాగి ఉన్నారు.",
+    "text": "ఆ సాల వృక్షాన్ని కూడా కొట్టమను, అప్పుడు నాకు కొంత నమ్మకం కలుగుతుంది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -345,25 +192,7 @@
     "scene": 12,
     "part": 3,
     "id": "12.03",
-    "text": "లోపలికి వెళ్ళిన సుగ్రీవుడు గట్టిగా కేకలు వేసి వాలిని బయటకి రమ్మన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 4,
-    "id": "12.04",
-    "text": "సుగ్రీవుడు ఇంత ధైర్యంగా పిలిచేసరికి వాలి ఆశ్చర్యంతో బయటకి వచ్చి \"ఏరా బుద్ధిహీనుడా మళ్ళీ వచ్చావు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 5,
-    "id": "12.05",
-    "text": "నా ప్రతాపం ఏమిటో చూద్దువు కాని, రా\" అన్నాడు.",
+    "text": "అప్పుడు మనం వాలిని సంహరించడానికి వెళదాము\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -372,7 +201,7 @@
     "scene": 13,
     "part": 1,
     "id": "13.01",
-    "text": "అప్పుడా వాలి తన పిడికిలిని బిగించి సుగ్రీవుడి శిరస్సు మీద ఒక్క దెబ్బ కొట్టాడు.",
+    "text": "అప్పుడు రాముడు ఒక బంగారు బాణాన్ని చేతితో పట్టుకొని, వింటినారికి సంధించి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -381,25 +210,7 @@
     "scene": 13,
     "part": 2,
     "id": "13.02",
-    "text": "ఆ దెబ్బకి సుగ్రీవుడి నవరంధ్రముల నుండి రక్తం ఏరులై పారింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 3,
-    "id": "13.03",
-    "text": "సుగ్రీవుడు తేరుకొని వాలిని కొట్టడం ప్రారంభించాడు, వాలి కూడా సుగ్రీవుడిని కొడుతున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 4,
-    "id": "13.04",
-    "text": "ఇద్దరూ అలా మోచేతులతో పొడుచుకుంటున్నారు, పాదాలతో కొట్టుకుంటున్నారు, శిరస్సులతో కుమ్ముకుంటున్నారు.",
+    "text": "గురి చూసి ఆ 7 సాల వృక్షముల వైపు విడిచిపెట్టాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -408,34 +219,7 @@
     "scene": 14,
     "part": 1,
     "id": "14.01",
-    "text": "అలా కొంత సేపు కొట్టుకున్నాక, ఇంకా బాణం వెయ్యడం లేదు, రాముడు ఎక్కడున్నాడని సుగ్రీవుడు అటూ ఇటూ చూశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 14,
-    "part": 2,
-    "id": "14.02",
-    "text": "కాని రాముడు కనపడలేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 14,
-    "part": 3,
-    "id": "14.03",
-    "text": "ఇంక వాలితో యుద్ధం చెయ్యలేక సుగ్రీవుడు ఋష్యమూక పర్వతం మీదకి పారిపోయాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 14,
-    "part": 4,
-    "id": "14.04",
-    "text": "అప్పుడు వాలి కూడా తిరిగి అంతఃపురానికి వెళ్ళిపోయాడు.",
+    "text": "కనురెప్ప మూసి తెరిచే లోపల ఆ బాణం 7 సాల వృక్షాలనీ పడగొట్టేసి, ఎదురుగా ఉన్నటువంటి పర్వత శిఖరాన్ని తొలిచేసి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -444,6 +228,222 @@
     "scene": 15,
     "part": 1,
     "id": "15.01",
+    "text": "భూమిలో పాతాళ లోకము వరకూ వెళ్ళి, మళ్ళి తిరిగొచ్చి రాముడి యొక్క అమ్ములపొదిలో కూర్చుండిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "రాముడి శక్తి ఏమిటో చూశిన సుగ్రీవుడు వెంటనే రాముడి పాదాలకి తన శిరస్సు తగిలేటట్టు పడిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "అప్పుడాయన కిరీటం రాముడి పాదాల మీద పడిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "అప్పుడా సుగ్రీవుడు \"రామ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "నీ బాణానికి ఉన్న వేగం ఇంద్రుడి బాణానికి కూడా లేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 3,
+    "id": "17.03",
+    "text": "నేను ఏమో అనుకున్నాను, ఇంక వాలి ఏమిటి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "నువ్వు బాణ ప్రయోగం చేస్తే వజ్రాయుధం పట్టుకున్న ఇంద్రుడి శిరస్సు కూడా కింద పడిపోతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "నీ బాణానికి ఉన్న వేగం సామాన్యమైనది కాదు, వాలి దగ్గరికి వెళదాము పద\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "\"తప్పకుండా సుగ్రీవ, బయలుదేరదాము\", అని అందరూ బయలుదేరారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "ముందు సుగ్రీవుడు వేగంగా వెళుతున్నాడు, ఆయన వెనకాల రామలక్ష్మణులు, సుగ్రీవుడి మంత్రులైన హనుమంతుడు, నీలుడు, నలుడు మొదలైన వారు వెళుతున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "సర్వే తే త్వరితం గత్వా కిష్కింధాం వాలినః పురీం । వృక్షైః ఆత్మానం ఆవృత్య హి అతిష్ఠన్ గహనే వనే ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "ముందు వెళుతున్న సుగ్రీవుడు కిష్కింద పట్టణంలోకి వెళ్ళిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "మిగిలిన వారందరూ దట్టమైన చెట్ల చాటున, పైకి కనపడకుండా దాగి ఉన్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 3,
+    "id": "21.03",
+    "text": "లోపలికి వెళ్ళిన సుగ్రీవుడు గట్టిగా కేకలు వేసి వాలిని బయటకి రమ్మన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "సుగ్రీవుడు ఇంత ధైర్యంగా పిలిచేసరికి వాలి ఆశ్చర్యంతో బయటకి వచ్చి \"ఏరా బుద్ధిహీనుడా మళ్ళీ వచ్చావు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "నా ప్రతాపం ఏమిటో చూద్దువు కాని, రా\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "అప్పుడా వాలి తన పిడికిలిని బిగించి సుగ్రీవుడి శిరస్సు మీద ఒక్క దెబ్బ కొట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 2,
+    "id": "23.02",
+    "text": "ఆ దెబ్బకి సుగ్రీవుడి నవరంధ్రముల నుండి రక్తం ఏరులై పారింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "సుగ్రీవుడు తేరుకొని వాలిని కొట్టడం ప్రారంభించాడు, వాలి కూడా సుగ్రీవుడిని కొడుతున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 2,
+    "id": "24.02",
+    "text": "ఇద్దరూ అలా మోచేతులతో పొడుచుకుంటున్నారు, పాదాలతో కొట్టుకుంటున్నారు, శిరస్సులతో కుమ్ముకుంటున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
+    "text": "అలా కొంత సేపు కొట్టుకున్నాక, ఇంకా బాణం వెయ్యడం లేదు, రాముడు ఎక్కడున్నాడని సుగ్రీవుడు అటూ ఇటూ చూశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 2,
+    "id": "25.02",
+    "text": "కాని రాముడు కనపడలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 1,
+    "id": "26.01",
+    "text": "ఇంక వాలితో యుద్ధం చెయ్యలేక సుగ్రీవుడు ఋష్యమూక పర్వతం మీదకి పారిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 2,
+    "id": "26.02",
+    "text": "అప్పుడు వాలి కూడా తిరిగి అంతఃపురానికి వెళ్ళిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 1,
+    "id": "27.01",
     "text": "తర్వాత చూద్దాం — రాముడు బాణం ఎందుకు వెయ్యలేదో, తార తన భర్తకి చెప్పిన హితవు.",
     "complete_verse_block": false,
     "needs_timing_review": false,

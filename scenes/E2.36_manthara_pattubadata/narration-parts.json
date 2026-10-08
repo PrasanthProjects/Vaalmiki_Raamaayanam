@@ -45,28 +45,10 @@
     "seconds": null
   },
   {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "సత్యపాశములచేత బంధింపబడ్డ దశరథ మహారాజు ఆ రెండు వరాలని కైకేయకి ఇచ్చి ఉండవచ్చు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "కాని రామలక్ష్మణులు దశరథుడిని నిగ్రహించి రాజ్యం ఎందుకు తీసుకోలేదు, మా అమ్మకి ఎందుకు బుద్ధి చెప్పలేదు\" అని వారు మాట్లాడుకుంటుండగా —",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "అటువైపు నుండి మంథర వచ్చింది,",
+    "text": "సత్యపాశములచేత బంధింపబడ్డ దశరథ మహారాజు ఆ రెండు వరాలని కైకేయకి ఇచ్చి ఉండవచ్చు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -75,7 +57,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "కైకేయ ఇచ్చిన ఆభరణములతో మంథర వెళుతుండగా చూసిన భటులు ఆమెని పట్టుకొని అసలు రామలక్ష్మణులు అరణ్యాలకి వెళ్ళడానికి కారణం మంథర అని చెప్పారు.",
+    "text": "కాని రామలక్ష్మణులు దశరథుడిని నిగ్రహించి రాజ్యం ఎందుకు తీసుకోలేదు, మా అమ్మకి ఎందుకు బుద్ధి చెప్పలేదు\" అని వారు మాట్లాడుకుంటుండగా —",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -84,7 +66,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "అప్పుడు శత్రుఘ్నుడు ఆగ్రహంతో తన కత్తిని తీసి ఆ మంథరని ఈడ్చుకుంటూ భరతుడి దగ్గరికి తీసుకొచ్చాడు,",
+    "text": "అటువైపు నుండి మంథర వచ్చింది,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -93,7 +75,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "ఆ సమయంలో శత్రుఘ్నుడి భీకరమైన స్వరూపాన్ని చూసి కైకేయ మరియు సుమిత్ర యొక్క అంతఃపురాలలోని జనాలు పారిపోయారు.",
+    "text": "కైకేయ ఇచ్చిన ఆభరణములతో మంథర వెళుతుండగా చూసిన భటులు ఆమెని పట్టుకొని అసలు రామలక్ష్మణులు అరణ్యాలకి వెళ్ళడానికి కారణం మంథర అని చెప్పారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -102,16 +84,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "ఇప్పుడు భరత శత్రుఘ్నులని ఆపగలిగేది కౌసల్య ఒక్కత్తే అని, అందరూ కౌసల్య మందిరానికి పరుగుతీశారు, ఆ మంథరని శత్రుఘ్నుడు పొడవబోతుండగా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 2,
-    "id": "06.02",
-    "text": "అప్పుడే కైకేయ అక్కడికి వచ్చి నిలబడింది.",
+    "text": "అప్పుడు శత్రుఘ్నుడు ఆగ్రహంతో తన కత్తిని తీసి ఆ మంథరని ఈడ్చుకుంటూ భరతుడి దగ్గరికి తీసుకొచ్చాడు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -120,8 +93,8 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "హన్యాం అహం ఇమాం పాపాం కైకేయీం దుష్ట చారిణీం । యది మాం ధార్మికో రామః న అసూయేన్ మాతృ ఘాతకం ॥",
-    "complete_verse_block": true,
+    "text": "ఆ సమయంలో శత్రుఘ్నుడి భీకరమైన స్వరూపాన్ని చూసి కైకేయ మరియు సుమిత్ర యొక్క అంతఃపురాలలోని జనాలు పారిపోయారు.",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -129,7 +102,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "అప్పుడు భరతుడు \"అయ్యయ్యో శత్రుఘ్నా, ఆ మంథరని చంపుతానంటావేంటి, ఈ మంథర మాటలని ఇంత ఉపద్రవం తీసుకొచ్చింది ఆ కైకేయి,",
+    "text": "ఇప్పుడు భరత శత్రుఘ్నులని ఆపగలిగేది కౌసల్య ఒక్కత్తే అని, అందరూ కౌసల్య మందిరానికి పరుగుతీశారు, ఆ మంథరని శత్రుఘ్నుడు పొడవబోతుండగా,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -138,34 +111,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "నాకు ఆవిడని చంపెయ్యాలని ఉంది, కాని ఎందుకు చంపడంలేదో తెలుసా, ఆమెని చంపేస్తే మాతృఘాతకుడు అని రాముడు నాతో మాట్లాడడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "దాన్నే వదిలేశాక దీన్ని వదిలెయ్యడం పెద్ద లెక్కా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "దీన్ని చంపినా స్త్రీని చంపిన వారు అని రేపు మనం అరణ్యానికి వెళ్ళినప్పుడు రాముడు ముఖం పక్కకి తిప్పుకుంటాడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 5,
-    "id": "08.05",
-    "text": "రాముడిని చూడకుండా మనం ఉండలేము, అందుకని దాన్ని వదిలెయ్యి\" అన్నాడు.",
+    "text": "అప్పుడే కైకేయ అక్కడికి వచ్చి నిలబడింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -174,7 +120,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "భరతస్య వచః శ్రుత్వా శత్రుఘ్నః లక్ష్మణ అనుజః । న్యవర్తత తతః రోషాత్ తాం ముమోచ చ మంథరాం ॥",
+    "text": "హన్యాం అహం ఇమాం పాపాం కైకేయీం దుష్ట చారిణీం । యది మాం ధార్మికో రామః న అసూయేన్ మాతృ ఘాతకం ॥",
     "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
@@ -183,7 +129,16 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "అప్పుడు లక్ష్మణుడి తమ్ముడైన శత్రుఘ్నుడు, భరతుడి మాట విని, తన మనస్సు మార్చుకొని మంథరని విడిచిపెట్టాడు.",
+    "text": "అప్పుడు భరతుడు \"అయ్యయ్యో శత్రుఘ్నా, ఆ మంథరని చంపుతానంటావేంటి, ఈ మంథర మాటలని ఇంత ఉపద్రవం తీసుకొచ్చింది ఆ కైకేయి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "నాకు ఆవిడని చంపెయ్యాలని ఉంది,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -192,6 +147,60 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
+    "text": "కాని ఎందుకు చంపడంలేదో తెలుసా, ఆమెని చంపేస్తే మాతృఘాతకుడు అని రాముడు నాతో మాట్లాడడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "దాన్నే వదిలేశాక దీన్ని వదిలెయ్యడం పెద్ద లెక్కా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "దీన్ని చంపినా స్త్రీని చంపిన వారు అని రేపు మనం అరణ్యానికి వెళ్ళినప్పుడు రాముడు ముఖం పక్కకి తిప్పుకుంటాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "రాముడిని చూడకుండా మనం ఉండలేము, అందుకని దాన్ని వదిలెయ్యి\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "భరతస్య వచః శ్రుత్వా శత్రుఘ్నః లక్ష్మణ అనుజః । న్యవర్తత తతః రోషాత్ తాం ముమోచ చ మంథరాం ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "అప్పుడు లక్ష్మణుడి తమ్ముడైన శత్రుఘ్నుడు, భరతుడి మాట విని, తన మనస్సు మార్చుకొని మంథరని విడిచిపెట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
     "text": "తర్వాత చూద్దాం — మరునాడు వశిష్ఠుడు భరతుడికి పట్టాభిషేకం ప్రతిపాదిస్తాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,

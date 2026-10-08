@@ -173,8 +173,8 @@
     "episode": "E1.22_shivadhanurbhangam",
     "scene": 18,
     "part_id": "18",
-    "visual_description": "[Janaka Visual Lock] speaking directly to Vishwamitra, and then reflecting on his own daughter's destiny fulfilled. (Location register: Janaka's royal court)",
-    "story_text": "\"అప్పుడు జనకుడు 'మహానుభావ విశ్వామిత్రా, నీకు తెలుసు, అందుకే ఈ పిల్లలు ఇద్దరినీ తీసుకొచ్చావు, రాముడు దశరథాత్మజుడు, ఈ సంఘటన అద్భుతం, ఊహించరానిది, ఎవరూ వాదించరానిది. సీతమ్మ మా వంశంలో జన్మించి, తగిన భర్తని పొంది మా వంశ గౌరవాన్ని నిలబెట్టింది' అన్నాడు.\"",
+    "visual_description": "[Janaka Visual Lock] speaking to [Vishwamitra Visual Lock] — you knew, and so you brought these boys; the broken bow behind them. (Location register: Janaka's royal court)",
+    "story_text": "\"అప్పుడు జనకుడు 'మహానుభావ విశ్వామిత్రా, నీకు తెలుసు, అందుకే ఈ పిల్లలు ఇద్దరినీ తీసుకొచ్చావు, రాముడు దశరథాత్మజుడు, ఈ సంఘటన అద్భుతం, ఊహించరానిది, ఎవరూ వాదించరానిది.",
     "source_notes": "",
     "image": null,
     "status": "image_pending"
@@ -183,6 +183,16 @@
     "episode": "E1.22_shivadhanurbhangam",
     "scene": 19,
     "part_id": "19",
+    "visual_description": "Janaka's thoughts turning to his daughter — a glimpse of [Sita Visual Lock], her destiny fulfilled. (Location register: Janaka's royal court)",
+    "story_text": "సీతమ్మ మా వంశంలో జన్మించి, తగిన భర్తని పొంది మా వంశ గౌరవాన్ని నిలబెట్టింది' అన్నాడు.\"",
+    "source_notes": "",
+    "image": null,
+    "status": "image_pending"
+  },
+  {
+    "episode": "E1.22_shivadhanurbhangam",
+    "scene": 20,
+    "part_id": "20",
     "visual_description": "[Vishwamitra Visual Lock] moving immediately and practically to next steps — messengers must be sent to Dasharatha at once. (Location register: Janaka's royal court)",
     "story_text": "\"అయితే ముందు కొంతమంది రాయబారులని దశరథ మహారాజుగారి దగ్గరికి పంపించి, రాముడు శివధనుర్భంగం చేసి సీతమ్మని వీర్య శుల్కగా గెలుచుకున్నాడన్న విషయం చెప్పండని విశ్వామిత్రుడు జనకుడితో అన్నాడు.\"",
     "source_notes": "End the episode on this practical, forward-moving beat — the emotional climax has landed, and now the machinery of an actual royal wedding needs to begin; a deliberate tonal shift from awe to logistics closes the episode on anticipation for what's coming (Dasharatha's reaction).",
@@ -191,8 +201,8 @@
   },
   {
     "episode": "E1.22_shivadhanurbhangam",
-    "scene": 20,
-    "part_id": "20",
+    "scene": 21,
+    "part_id": "21",
     "visual_description": "End card.",
     "story_text": "తర్వాత చూద్దాం — దశరథ మహారాజుకి ఈ శుభవార్త ఎలా అందిందో, మరియు మిథిలా నగరానికి ఆయన ఎలా బయలుదేరారో.",
     "source_notes": "Bridge line.",

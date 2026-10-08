@@ -90,82 +90,10 @@
     "seconds": null
   },
   {
-    "scene": 7,
-    "part": 3,
-    "id": "07.03",
-    "text": "ఆ రాముడి చేత రక్షింపబడిన వానర రాజైన సుగ్రీవుడు జయము చేత శోభిల్లుతున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "అటువంటి రాముడికి దాసానుదాసుడిని నేను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 5,
-    "id": "07.05",
-    "text": "నా పేరు హనుమ, నేను యుద్ధంలో వేరుగా ఆయుధములు వాడను, ఈ రావణుడి సైన్యాన్ని నా అరికాళ్ళ కింద పెట్టి తోక్కేస్తాను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 6,
-    "id": "07.06",
-    "text": "నా పిడి గుద్దులతో చంపేస్తాను, పెద్ద పెద్ద చెట్లతో, రాళ్ళతో కొడతాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 7,
-    "id": "07.07",
-    "text": "వెయ్యిమంది రావణాసురులు నా భుజాల కింద ఒక కీటకంతో సమానం.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 8,
-    "id": "07.08",
-    "text": "నన్ను ఆపగలిగేవాడు ఈ లంకా పట్టణంలో లేడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 9,
-    "id": "07.09",
-    "text": "సీతమ్మకి నమస్కరించి ఎలా వచ్చానో అలా ఈ సముద్రాన్ని దాటి వెళ్ళిపోతాను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 10,
-    "id": "07.10",
-    "text": "నన్ను పట్టగలిగే మొగాడు ఈ లంకా పట్టణంలో లేడు\" అని జయ మంత్రాన్ని చెప్పాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "అప్పుడా 80,000 కింకరుల మూక హనుమంతుడి మీదకి రకరకములైన ఆయుధములను వేశారు.",
+    "text": "ఆ రాముడి చేత రక్షింపబడిన వానర రాజైన సుగ్రీవుడు జయము చేత శోభిల్లుతున్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -174,7 +102,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "చండ ప్రచండుడైన హనుమంతుడు ఆ తోరణానికి ఉన్న ఇనుప పరిఘని ఒకదాన్ని పీకి వాళ్ళందరినీ దానితో కొట్టాడు.",
+    "text": "అటువంటి రాముడికి దాసానుదాసుడిని నేను.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -183,43 +111,7 @@
     "scene": 8,
     "part": 3,
     "id": "08.03",
-    "text": "కళ్ళు మూసి తెరిసేలోగా అక్కడ ఆ రాక్షసుల మాంసపు ముద్దలు, రక్తపు మరకలతో ఆ ప్రాంతం నిండిపోయింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "మళ్ళీ ఆయన తోరణం ఎక్కి కూర్చున్నాడు, అప్పుడాయనకి దూరంగా వెయ్యి స్తంభాలతోటి ఒక ప్రాసాదం కనపడింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 5,
-    "id": "08.05",
-    "text": "అప్పుడాయన ఆ ప్రాసాదం మీదకి ఎక్కి నిలబడి ఒక పెద్ద నాదం చేశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 6,
-    "id": "08.06",
-    "text": "ఆ నాదం వినేసరికి లంకా పట్టణంలో కొన్ని వేలమంది గుండెలు బద్దలయ్యి, చెవుల వెంట, ముక్కుల వెంట నెత్తురు కారి చనిపోయారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 7,
-    "id": "08.07",
-    "text": "అప్పుడాయన తొడలు కొట్టాడు, ఆ శబ్దానికి కొంతమంది రాక్షసులు చనిపోయారు.",
+    "text": "నా పేరు హనుమ, నేను యుద్ధంలో వేరుగా ఆయుధములు వాడను,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -228,7 +120,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "తరువాత ఆ ప్రాసాదానికి మధ్యలో ఉన్న బంగారు స్తంభాన్ని పీకి గాలిలో గిరగిర తిప్పితే,",
+    "text": "ఈ రావణుడి సైన్యాన్ని నా అరికాళ్ళ కింద పెట్టి తోక్కేస్తాను, నా పిడి గుద్దులతో చంపేస్తాను, పెద్ద పెద్ద చెట్లతో,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -237,7 +129,7 @@
     "scene": 9,
     "part": 2,
     "id": "09.02",
-    "text": "ఆ వేగానికి అందులోనుండి అగ్ని పుట్టి ఆ ప్రాసాదం అంతా కాలిపోయింది.",
+    "text": "రాళ్ళతో కొడతాను.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -246,52 +138,7 @@
     "scene": 9,
     "part": 3,
     "id": "09.03",
-    "text": "ఆ ప్రాసాదానికి కాపలా ఉన్న 100 మంది రాక్షసులని కూడా కొట్టి చంపేశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 4,
-    "id": "09.04",
-    "text": "అప్పుడాయన \"మా వానరములలో 10 ఏనుగుల బలం కలిగినవారు, 100 ఏనుగుల బలం కలిగినవారు, 1000 ఏనుగుల బలం కలిగినవారు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 5,
-    "id": "09.05",
-    "text": "10,000 ఏనుగుల బలం కలిగినవారు, అంతకన్నా ఎక్కువ బలం కలిగినవారు ఉన్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 6,
-    "id": "09.06",
-    "text": "భూమికి అడ్డంగా ఎగరగలిగేవారు, నిలువుగా ఎగరగలిగేవారు ఈ భూమండలం అంతటా సీతమ్మ కోసం అన్వేషిస్తున్నారు, వాళ్ళెవరూ మిమ్మల్ని విడిచిపెట్టరు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 7,
-    "id": "09.07",
-    "text": "సుగ్రీవుడే బయలుదేరి లంకలో అడుగుపెట్టిననాడు, ఈ లంక లేదు, మీరు లేరు, ఆ రావణుడు లేడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 8,
-    "id": "09.08",
-    "text": "ధర్మాత్ముడైన రాముడితో వైరం పెట్టుకున్న కారణం చేత మీరందరూ మడిసిపోతారు\" అని చెప్పి మళ్ళీ తోరణం మీదకి వచ్చి జయ మంత్రం చెప్పాడు.",
+    "text": "వెయ్యిమంది రావణాసురులు నా భుజాల కింద ఒక కీటకంతో సమానం.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -300,7 +147,7 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "80,000 మంది చనిపోయారన్న విషయం తెలుసుకున్న రావణుడు ప్రహస్తుడి కుమారుడైన జంబుమాలిని పంపాడు.",
+    "text": "నన్ను ఆపగలిగేవాడు ఈ లంకా పట్టణంలో లేడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -309,7 +156,7 @@
     "scene": 10,
     "part": 2,
     "id": "10.02",
-    "text": "గాడిదలు పూన్చిన రథం ఎక్కి జంబుమాలి యుద్ధానికి వచ్చాడు.",
+    "text": "సీతమ్మకి నమస్కరించి ఎలా వచ్చానో అలా ఈ సముద్రాన్ని దాటి వెళ్ళిపోతాను,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -318,52 +165,7 @@
     "scene": 10,
     "part": 3,
     "id": "10.03",
-    "text": "అప్పుడు హనుమంతుడు ఆ జంబుమాలి మీదకి ఒక పెద్ద రాయిని విసిరాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 4,
-    "id": "10.04",
-    "text": "బాణములతో జంబుమాలి ఆ రాయిని కొట్టి ముక్కలు చేశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 5,
-    "id": "10.05",
-    "text": "తరువాత హనుమంతుడు ఒక సాల వృక్షాన్ని పీకి విసిరాడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 6,
-    "id": "10.06",
-    "text": "కాని ఆ చెట్టు మీద పడకముందే దానిని జంబుమాలి ఖండ ఖండములుగా కొట్టాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 7,
-    "id": "10.07",
-    "text": "తరువాత ఆ జంబుమాలి హనుమంతుడి నుదుటి మీద, వక్షస్థలం మీద బాణములతో కొట్టాడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 8,
-    "id": "10.08",
-    "text": "ఆ దెబ్బలకి ఆయన శరీరం నుండి రక్తం కారింది.",
+    "text": "నన్ను పట్టగలిగే మొగాడు ఈ లంకా పట్టణంలో లేడు\" అని జయ మంత్రాన్ని చెప్పాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -372,7 +174,7 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
-    "text": "హనుమంతుడు మళ్ళీ ఒక పరిఘని పీకి,",
+    "text": "అప్పుడా 80,000 కింకరుల మూక హనుమంతుడి మీదకి రకరకములైన ఆయుధములను వేశారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -381,34 +183,7 @@
     "scene": 11,
     "part": 2,
     "id": "11.02",
-    "text": "గిరగిర తిప్పుతూ పిడుగు వచ్చి పడినట్టు ఆకాశంలోకి ఎగిరి వాడిమీద పడి ఆ పరిఘతో కొట్టాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 3,
-    "id": "11.03",
-    "text": "ఆ దెబ్బకి జంబుమాలి రథం, శిరస్సు, చేతులు, గాడిదలు మొదలైనవి ఏమి కనపడలేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 4,
-    "id": "11.04",
-    "text": "మళ్ళీ ఆయన తోరణం ఎక్కి జయ మంత్రం చెప్పడం ప్రారంభించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 5,
-    "id": "11.05",
-    "text": "అక్కడున్న రాక్షసులందరినీ కాళ్ళ కింద పెట్టి తొక్కేశాడు, మోకాళ్ళతో కుమ్మేశాడు, చేతులతో గుద్దేసి అక్కడున్న రాక్షసులందరినీ సంహరించాడు.",
+    "text": "చండ ప్రచండుడైన హనుమంతుడు ఆ తోరణానికి ఉన్న ఇనుప పరిఘని ఒకదాన్ని పీకి వాళ్ళందరినీ దానితో కొట్టాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -417,6 +192,249 @@
     "scene": 12,
     "part": 1,
     "id": "12.01",
+    "text": "కళ్ళు మూసి తెరిసేలోగా అక్కడ ఆ రాక్షసుల మాంసపు ముద్దలు, రక్తపు మరకలతో ఆ ప్రాంతం నిండిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "మళ్ళీ ఆయన తోరణం ఎక్కి కూర్చున్నాడు, అప్పుడాయనకి దూరంగా వెయ్యి స్తంభాలతోటి ఒక ప్రాసాదం కనపడింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "అప్పుడాయన ఆ ప్రాసాదం మీదకి ఎక్కి నిలబడి ఒక పెద్ద నాదం చేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "ఆ నాదం వినేసరికి లంకా పట్టణంలో కొన్ని వేలమంది గుండెలు బద్దలయ్యి, చెవుల వెంట, ముక్కుల వెంట నెత్తురు కారి చనిపోయారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "అప్పుడాయన తొడలు కొట్టాడు, ఆ శబ్దానికి కొంతమంది రాక్షసులు చనిపోయారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "తరువాత ఆ ప్రాసాదానికి మధ్యలో ఉన్న బంగారు స్తంభాన్ని పీకి గాలిలో గిరగిర తిప్పితే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "ఆ వేగానికి అందులోనుండి అగ్ని పుట్టి ఆ ప్రాసాదం అంతా కాలిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "ఆ ప్రాసాదానికి కాపలా ఉన్న 100 మంది రాక్షసులని కూడా కొట్టి చంపేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "అప్పుడాయన \"మా వానరములలో 10 ఏనుగుల బలం కలిగినవారు, 100 ఏనుగుల బలం కలిగినవారు, 1000 ఏనుగుల బలం కలిగినవారు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "10,000 ఏనుగుల బలం కలిగినవారు, అంతకన్నా ఎక్కువ బలం కలిగినవారు ఉన్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "భూమికి అడ్డంగా ఎగరగలిగేవారు, నిలువుగా ఎగరగలిగేవారు ఈ భూమండలం అంతటా సీతమ్మ కోసం అన్వేషిస్తున్నారు, వాళ్ళెవరూ మిమ్మల్ని విడిచిపెట్టరు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 3,
+    "id": "17.03",
+    "text": "సుగ్రీవుడే బయలుదేరి లంకలో అడుగుపెట్టిననాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "ఈ లంక లేదు, మీరు లేరు, ఆ రావణుడు లేడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "ధర్మాత్ముడైన రాముడితో వైరం పెట్టుకున్న కారణం చేత మీరందరూ మడిసిపోతారు\" అని చెప్పి మళ్ళీ తోరణం మీదకి వచ్చి జయ మంత్రం చెప్పాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "80,000 మంది చనిపోయారన్న విషయం తెలుసుకున్న రావణుడు ప్రహస్తుడి కుమారుడైన జంబుమాలిని పంపాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "గాడిదలు పూన్చిన రథం ఎక్కి జంబుమాలి యుద్ధానికి వచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 3,
+    "id": "19.03",
+    "text": "అప్పుడు హనుమంతుడు ఆ జంబుమాలి మీదకి ఒక పెద్ద రాయిని విసిరాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "బాణములతో జంబుమాలి ఆ రాయిని కొట్టి ముక్కలు చేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "తరువాత హనుమంతుడు ఒక సాల వృక్షాన్ని పీకి విసిరాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 3,
+    "id": "20.03",
+    "text": "కాని ఆ చెట్టు మీద పడకముందే దానిని జంబుమాలి ఖండ ఖండములుగా కొట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "తరువాత ఆ జంబుమాలి హనుమంతుడి నుదుటి మీద, వక్షస్థలం మీద బాణములతో కొట్టాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "ఆ దెబ్బలకి ఆయన శరీరం నుండి రక్తం కారింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "హనుమంతుడు మళ్ళీ ఒక పరిఘని పీకి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "గిరగిర తిప్పుతూ పిడుగు వచ్చి పడినట్టు ఆకాశంలోకి ఎగిరి వాడిమీద పడి ఆ పరిఘతో కొట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 3,
+    "id": "22.03",
+    "text": "ఆ దెబ్బకి జంబుమాలి రథం, శిరస్సు, చేతులు, గాడిదలు మొదలైనవి ఏమి కనపడలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "మళ్ళీ ఆయన తోరణం ఎక్కి జయ మంత్రం చెప్పడం ప్రారంభించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 2,
+    "id": "23.02",
+    "text": "అక్కడున్న రాక్షసులందరినీ కాళ్ళ కింద పెట్టి తొక్కేశాడు, మోకాళ్ళతో కుమ్మేశాడు, చేతులతో గుద్దేసి అక్కడున్న రాక్షసులందరినీ సంహరించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
     "text": "తర్వాత చూద్దాం — మంత్రి కుమారులు, సేనా నాయకులు, అక్ష కుమారుడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,

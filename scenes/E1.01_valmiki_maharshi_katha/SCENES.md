@@ -104,9 +104,9 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 10 — Agnisharma Anthill Meditation
 
-**Visual:** Time-lapse: [Agnisharma Visual Lock] seated in unmoving meditation as seasons change around him — a visual device to convey 13 years passing in a few seconds, an anthill slowly forming over his lower body.
+**Visual:** Time-lapse: [Agnisharma Visual Lock] seated in unmoving meditation as seasons change around him — 13 years passing in a few seconds, an anthill slowly rising over his body; the [generic Maharshi-group Visual Lock] sages return along the same forest path and stop before the great anthill.
 
-**Story:** 13 సంవత్సరాల తరువాత ఆ మహర్షులు ఇదే దారిలో తిరిగొస్తుంటే అక్కడ ఒక పెద్ద పుట్ట కనబడింది. ధ్యానమగ్నుడై ఉన్న అగ్నిశర్మ మీద పుట్టలు పెరిగాయి. తన మీద పుట్టలు (వల్మీకం) కట్టినా తెలియని స్థితిలో ఉన్నాడు కాబట్టి, ఆయనిని వాల్మీకి అని పిలిచి, బయటకి రమ్మన్నారు.
+**Story:** 13 సంవత్సరాల తరువాత ఆ మహర్షులు ఇదే దారిలో తిరిగొస్తుంటే అక్కడ ఒక పెద్ద పుట్ట కనబడింది. ధ్యానమగ్నుడై ఉన్న అగ్నిశర్మ మీద పుట్టలు పెరిగాయి.
 
 **Image:** [scene-10-agnisharma-anthill-meditation.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-10-agnisharma-anthill-meditation.png)
 
@@ -114,136 +114,176 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Longer clip — this is both a time-lapse AND the key etymology beat ("వాల్మీకి" from "వల్మీకం," anthill); let the visual dwell and the narration land clearly on the name itself, don't compress.
 
-## 11 — Valmiki Emerges
+## 11 — Scene 11
+
+**Visual:** Close on the anthill: the sages call out, the earth cracks, and the meditating figure stirs within — the key etymology beat ("వాల్మీకి" from "వల్మీకం", anthill); overlay the two words at their spoken cue.
+
+**Story:** తన మీద పుట్టలు (వల్మీకం) కట్టినా తెలియని స్థితిలో ఉన్నాడు కాబట్టి, ఆయనిని వాల్మీకి అని పిలిచి, బయటకి రమ్మన్నారు.
+
+**Image:** Pending creation.
+
+## 12 — Valmiki Emerges
 
 **Visual:** [Use Valmiki Visual Lock, post-transformation — switch permanently from here on] emerging from the anthill, transformed — elderly, serene, in sage's robes now.
 
 **Story:** ఇది ఆయనకి పౌరుష నామమయ్యింది. అప్పుడు ఆ మహర్షులు ఆయనిని ఉత్తర దిక్కుకి వెళ్లి భగవంతుడిని ధ్యానం చెయ్యమనారు.
 
-**Image:** [scene-11-valmiki-emerges.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-11-valmiki-emerges.png)
+**Image:** [scene-12-valmiki-emerges.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-12-valmiki-emerges.png)
 
-![Valmiki Emerges](../../assets/images/E1.01_valmiki_maharshi_katha/scene-11-valmiki-emerges.png)
+![Valmiki Emerges](../../assets/images/E1.01_valmiki_maharshi_katha/scene-12-valmiki-emerges.png)
 
 **Source note:** Visual Lock switches HERE — everything before this line uses the Agnisharma lock, everything after uses the Valmiki lock, per the Character Bible's explicit instruction.
 
-## 12 — Valmiki Kushasthali Worship
+## 13 — Valmiki Kushasthali Worship
 
 **Visual:** [Use Valmiki Visual Lock] at Kushasthali, in worship before a Shiva-lingam motif, golden divine light beginning to touch him.
 
 **Story:** వాల్మీకి మహర్షి కుశస్థలి అనే ప్రదేశానికి వెళ్లి, పరమశివుడిని ఆరాధన చేశారు. అప్పుడాయనకి విష్ణు కథ రాయగలిగే అదృష్టాన్ని బ్రహ్మగారు ఇచ్చారు.
 
-**Image:** [scene-12-valmiki-kushasthali-worship.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-12-valmiki-kushasthali-worship.png)
+**Image:** [scene-13-valmiki-kushasthali-worship.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-13-valmiki-kushasthali-worship.png)
 
-![Valmiki Kushasthali Worship](../../assets/images/E1.01_valmiki_maharshi_katha/scene-12-valmiki-kushasthali-worship.png)
+![Valmiki Kushasthali Worship](../../assets/images/E1.01_valmiki_maharshi_katha/scene-13-valmiki-kushasthali-worship.png)
 
-## 13 — Trideva Blessing
+## 14 — Trideva Blessing
 
 **Visual:** Close on Valmiki's serene face, three subtle divine light-motifs (Brahma/Vishnu/Shiva, implied rather than literally shown as three full figures, to keep this a quiet closing beat rather than a second big divine-visitation scene — that's saved for the boon scene in E1.02)
 
 **Story:** అంటే, ఆయనకి త్రిమూర్తుల అనుగ్రహం లభించిందన్నమాట.
 
-**Image:** [scene-13-trideva-blessing.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-13-trideva-blessing.png)
+**Image:** [scene-14-trideva-blessing.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-14-trideva-blessing.png)
 
-![Trideva Blessing](../../assets/images/E1.01_valmiki_maharshi_katha/scene-13-trideva-blessing.png)
+![Trideva Blessing](../../assets/images/E1.01_valmiki_maharshi_katha/scene-14-trideva-blessing.png)
 
-## 14 — Narada Arrives
+## 15 — Narada Arrives
 
 **Visual:** [Use Narada Visual Lock, veena in hand] arriving mid-stride at Valmiki's ashram — his first appearance in the series, energetic contrast to Valmiki's stillness.
 
 **Story:** ఇంతలో నారద మహర్షి వచ్చారు.
 
-**Image:** [scene-14-narada-arrives.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-14-narada-arrives.png)
+**Image:** [scene-15-narada-arrives.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-15-narada-arrives.png)
 
-![Narada Arrives](../../assets/images/E1.01_valmiki_maharshi_katha/scene-14-narada-arrives.png)
+![Narada Arrives](../../assets/images/E1.01_valmiki_maharshi_katha/scene-15-narada-arrives.png)
 
-**Source note:** Bridge line into scene 15 — the source text moves directly into the shloka without a connective sentence here; this single bracketed clause is a minimal narration bridge, not added story content. Minimum clip length even though the line is short — let the visual (Narada's arrival) breathe.
+**Source note:** Bridge line into scene 16 — the source text moves directly into the shloka without a connective sentence here; this single bracketed clause is a minimal narration bridge, not added story content. Minimum clip length even though the line is short — let the visual (Narada's arrival) breathe.
 
-## 15 — Valmiki Ramayana Opening Verse Background
+## 16 — Valmiki Ramayana Opening Verse Background
 
 **Visual:** On-screen Sanskrit text overlay, gold serif over dark background — matching E0.01's verse-treatment convention.
 
 **Story:** తపస్స్వాధ్యాయ నిరతం తపస్వీ వాగ్విదాం వరం । నారదం పరిపప్రచ్ఛ వాల్మీకిర్మునిపుంగవం ॥
 
-**Image:** [scene-15-valmiki-ramayana-opening-verse-background.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-15-valmiki-ramayana-opening-verse-background.png)
+**Image:** [scene-16-valmiki-ramayana-opening-verse-background.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-16-valmiki-ramayana-opening-verse-background.png)
 
-![Valmiki Ramayana Opening Verse Background](../../assets/images/E1.01_valmiki_maharshi_katha/scene-15-valmiki-ramayana-opening-verse-background.png)
+![Valmiki Ramayana Opening Verse Background](../../assets/images/E1.01_valmiki_maharshi_katha/scene-16-valmiki-ramayana-opening-verse-background.png)
 
 **Source note:** 🔴 VERSE — traditionally cited as Valmiki Ramayana's opening verse (Bala Kanda, Sarga 1, Shloka 1). Recite with special care — this is arguably the single most load-bearing line of pronunciation in the entire series' opening. Clip length is generous for a 2-line verse deliberately — never let a verse clip feel rushed.
 
-## 16 — Valmiki Narada Question
+## 17 — Valmiki Narada Question
 
 **Visual:** [Valmiki and Narada Visual Locks] seated together, Valmiki asking, Narada listening.
 
 **Story:** ఇది వాల్మీకి మహర్షి రామాయణములో రాసిన మొదటి శ్లోకం. దీని అర్థం ఏమిటంటే, తపస్వి, ముని, గొప్ప వాగ్విదాంవరుడైన నారద మహర్షిని పరిప్రశ్న చేయడానికి తపస్వియైన వాల్మీకి మహర్షి సిద్ధపడుతున్నారు అని. వాల్మీకి మహర్షి నారదుడిని ఏమడిగారంటే,
 
-**Image:** [scene-16-valmiki-narada-question.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-16-valmiki-narada-question.png)
+**Image:** [scene-17-valmiki-narada-question.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-17-valmiki-narada-question.png)
 
-![Valmiki Narada Question](../../assets/images/E1.01_valmiki_maharshi_katha/scene-16-valmiki-narada-question.png)
+![Valmiki Narada Question](../../assets/images/E1.01_valmiki_maharshi_katha/scene-17-valmiki-narada-question.png)
 
-## 17 — Sixteen Virtues Verse Background
+## 18 — Sixteen Virtues Verse Background
 
-**Visual:** Six-line verse displayed as elegant on-screen text, paced to the narrator's recitation — no other visual needed, let the verse itself hold the frame.
+**Visual:** Verse card, lines 1-2 of six: elegant gold on-screen text over a dark background, paced to the recitation — let the verse itself hold the frame.
 
-**Story:** కోన్వస్మిన్ సాంప్రతం లోకే గుణవాన్ కశ్చ వీర్యవాన్ । ధర్మజ్ఞశ్చ కృతజ్ఞశ్చ సత్యవాక్యో ధృఢవ్రతః ॥ చారిత్రేణ చ కో యుక్తః సర్వభూతేషు కో హితః । విద్వాన్ కః కః సమర్థశ్చ కశ్చ ఏక ప్రియదర్శనః ॥ ఆత్మవాన్ కో జిత క్రోధో ద్యుతిమాన్ కః అనసూయకః । కస్య బిభ్యతి దేవాః చ జాత రోషస్య సంయుగే ॥
+**Story:** కోన్వస్మిన్ సాంప్రతం లోకే గుణవాన్ కశ్చ వీర్యవాన్ । ధర్మజ్ఞశ్చ కృతజ్ఞశ్చ సత్యవాక్యో ధృఢవ్రతః ॥
 
-**Image:** [scene-17-sixteen-virtues-verse-background.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-17-sixteen-virtues-verse-background.png)
+**Image:** [scene-18-sixteen-virtues-verse-background.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-18-sixteen-virtues-verse-background.png)
 
-![Sixteen Virtues Verse Background](../../assets/images/E1.01_valmiki_maharshi_katha/scene-17-sixteen-virtues-verse-background.png)
+![Sixteen Virtues Verse Background](../../assets/images/E1.01_valmiki_maharshi_katha/scene-18-sixteen-virtues-verse-background.png)
 
 **Source note:** 🔴 VERSE — Narada's list of the sixteen ideal virtues. Longest single clip in the episode by design — six lines recited unhurried, per the Narrator's standing pace rule. If your video tool caps single-clip length below 30s, split into two back-to-back clips of the same static verse-card visual (3 lines each) rather than rushing the recitation.
 
-## 18 — Valmiki Listens Virtues Explained
+## 19 — Scene 19
 
-**Visual:** Plain narration continues over a simple two-shot of Valmiki listening intently.
+**Visual:** Same verse card, lines 3-4 appearing beneath the first two, which dim slightly; no other visual.
 
-**Story:** ఈ లోకములో ఇప్పుడే, ఇక్కడే ఉన్న గుణవంతుడు, వీర్యవంతుడు, ధర్మాత్ముడు, కృతజ్ఞత భావం కలిగినవాడు, సత్యం పలికేవాడు, ధృడమైన సంకల్పం కలిగినవాడు, చారిత్రము కలిగినవాడు, అన్ని ప్రాణుల మంచి కోరేవాడు, విద్యావంతుడు, సమర్థుడు, ఎన్నిసార్లు చూసినా ఇంకా చూడాలనిపించేంత సౌందర్యం కలిగినవాడు, ధైర్యవంతుడు, క్రోధాన్ని జయించినవాడు, తేజస్సు కలిగినవాడు, ఎదుటివారిలో మంచిని చూసేవాడు, అవసరమైనప్పుడు కోపాన్ని తెచ్చుకోగలిగినవాడు ఉంటే నాకు చెప్పండి అని అడిగాడు.
+**Story:** చారిత్రేణ చ కో యుక్తః సర్వభూతేషు కో హితః । విద్వాన్ కః కః సమర్థశ్చ కశ్చ ఏక ప్రియదర్శనః ॥
 
-**Image:** [scene-18-valmiki-listens-virtues-explained.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-18-valmiki-listens-virtues-explained.png)
+**Image:** Pending creation.
 
-![Valmiki Listens Virtues Explained](../../assets/images/E1.01_valmiki_maharshi_katha/scene-18-valmiki-listens-virtues-explained.png)
+## 20 — Scene 20
+
+**Visual:** Same verse card, lines 5-6 completing the verse; hold the full six lines for a breath at the end.
+
+**Story:** ఆత్మవాన్ కో జిత క్రోధో ద్యుతిమాన్ కః అనసూయకః । కస్య బిభ్యతి దేవాః చ జాత రోషస్య సంయుగే ॥
+
+**Image:** Pending creation.
+
+## 21 — Valmiki Listens Virtues Explained
+
+**Visual:** Simple two-shot at the ashram: [Valmiki Visual Lock] asking, [Narada Visual Lock] listening — the first group of virtues appears as small Telugu captions beside Valmiki at their spoken cues.
+
+**Story:** ఈ లోకములో ఇప్పుడే, ఇక్కడే ఉన్న గుణవంతుడు, వీర్యవంతుడు, ధర్మాత్ముడు, కృతజ్ఞత భావం కలిగినవాడు, సత్యం పలికేవాడు, ధృడమైన సంకల్పం కలిగినవాడు,
+
+**Image:** [scene-21-valmiki-listens-virtues-explained.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-21-valmiki-listens-virtues-explained.png)
+
+![Valmiki Listens Virtues Explained](../../assets/images/E1.01_valmiki_maharshi_katha/scene-21-valmiki-listens-virtues-explained.png)
 
 **Source note:** This is the plain-Telugu gloss of the verse just recited — a long, single static two-shot suits it; no new visual information needed since it's explaining what was just heard.
 
-## 19 — Narada Anticipation
+## 22 — Scene 22
+
+**Visual:** Slow push in on [Valmiki Visual Lock]'s earnest face as he continues the list; soft captions for the virtues continue.
+
+**Story:** చారిత్రము కలిగినవాడు, అన్ని ప్రాణుల మంచి కోరేవాడు, విద్యావంతుడు, సమర్థుడు, ఎన్నిసార్లు చూసినా ఇంకా చూడాలనిపించేంత సౌందర్యం కలిగినవాడు, ధైర్యవంతుడు,
+
+**Image:** Pending creation.
+
+## 23 — Scene 23
+
+**Visual:** Reverse angle: [Narada Visual Lock] beginning to smile as the list ends, Valmiki's hands folded in request.
+
+**Story:** క్రోధాన్ని జయించినవాడు, తేజస్సు కలిగినవాడు, ఎదుటివారిలో మంచిని చూసేవాడు, అవసరమైనప్పుడు కోపాన్ని తెచ్చుకోగలిగినవాడు ఉంటే నాకు చెప్పండి అని అడిగాడు.
+
+**Image:** Pending creation.
+
+## 24 — Narada Anticipation
 
 **Visual:** [Narada Visual Lock] smiling warmly, about to answer — a beat of anticipation before naming Rama for the first time in the series.
 
 **Story:** "నువ్వు చెప్పిన గుణాలన్నీ ఒకే మనిషిలో ఉండడం కష్టమే, కాని ఒకడు ఉన్నాడు, నీకు ఇప్పుడు అతని గురించి చెప్తాను" అని నారద మహర్షి ఇలా అన్నారు.
 
-**Image:** [scene-19-narada-anticipation.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-19-narada-anticipation.png)
+**Image:** [scene-24-narada-anticipation.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-24-narada-anticipation.png)
 
-![Narada Anticipation](../../assets/images/E1.01_valmiki_maharshi_katha/scene-19-narada-anticipation.png)
+![Narada Anticipation](../../assets/images/E1.01_valmiki_maharshi_katha/scene-24-narada-anticipation.png)
 
-## 20 — First Rama Mention
+## 25 — First Rama Mention
 
 **Visual:** A single soft blue-tinted light motif (echoing Rama's eventual Visual Lock skin tone, without showing his face yet) — the FIRST reference to Rama in the entire series' actual narrative content.
 
 **Story:** ఇక్ష్వాకువంశములో రాముడని పేరుగల ఒక వ్యక్తి జన్మించాడు. ఆయనకి నువ్వు అడిగిన 16 గుణములు ఉన్నాయి అని చెప్పి ఒక 100 శ్లోకాలలో సంక్షిప్త రామాయణాన్ని వాల్మీకి మహర్షికి నారదుడు చెప్పాడు.
 
-**Image:** [scene-20-first-rama-mention.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-20-first-rama-mention.png)
+**Image:** [scene-25-first-rama-mention.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-25-first-rama-mention.png)
 
-![First Rama Mention](../../assets/images/E1.01_valmiki_maharshi_katha/scene-20-first-rama-mention.png)
+![First Rama Mention](../../assets/images/E1.01_valmiki_maharshi_katha/scene-25-first-rama-mention.png)
 
 **Source note:** Treat this as a small but real milestone shot — first-ever mention of Rama's name in the series proper.
 
-## 21 — Narada Departs
+## 26 — Narada Departs
 
 **Visual:** [Narada Visual Lock] departing mid-stride, as established in his Character Bible lock.
 
 **Story:** చెప్పిన తరవాత నారదుడు వెళ్ళిపోయాడు.
 
-**Image:** [scene-21-narada-departs.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-21-narada-departs.png)
+**Image:** [scene-26-narada-departs.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-26-narada-departs.png)
 
-![Narada Departs](../../assets/images/E1.01_valmiki_maharshi_katha/scene-21-narada-departs.png)
+![Narada Departs](../../assets/images/E1.01_valmiki_maharshi_katha/scene-26-narada-departs.png)
 
-## 22 — Krauncha Bridge End Card
+## 27 — Krauncha Bridge End Card
 
 **Visual:** End card bridging into E1.02.
 
 **Story:** తర్వాత చూద్దాం — ఒక దుఃఖకరమైన సంఘటన వాల్మీకి మహర్షి నోటివెంట ప్రపంచపు మొట్టమొదటి శ్లోకాన్ని ఎలా పలికించిందో.
 
-**Image:** [scene-22-krauncha-bridge-end-card.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-22-krauncha-bridge-end-card.png)
+**Image:** [scene-27-krauncha-bridge-end-card.png](../../assets/images/E1.01_valmiki_maharshi_katha/scene-27-krauncha-bridge-end-card.png)
 
-![Krauncha Bridge End Card](../../assets/images/E1.01_valmiki_maharshi_katha/scene-22-krauncha-bridge-end-card.png)
+![Krauncha Bridge End Card](../../assets/images/E1.01_valmiki_maharshi_katha/scene-27-krauncha-bridge-end-card.png)
 
 **Source note:** Production bridge line.

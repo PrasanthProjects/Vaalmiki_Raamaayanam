@@ -36,37 +36,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 3,
-    "id": "02.03",
-    "text": "100 యోజనముల సముద్రాన్ని దాటి లంకా పట్టణంలోకి వెళ్ళడం అనేది మానసికంగా కూడా ఎవ్వరూ ఊహించని పని.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "సముద్రాన్ని దాటి రాక్షసుల చేత, రావణుడి చేత పరిరక్షింపబడుతున్న లంకా పట్టణంలో ప్రవేశించి, సీత దర్శనం చేసి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
-    "text": "ప్రభువు చెప్పిన దానికన్నా ఎక్కువగా ఆ కార్యము నిర్వహించి, ఎటువంటి అవమానము పొందకుండా తిరిగి రావడం అనేది సామాన్యమైన పనికాదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "సేవకులు మూడు రకాలుగా ఉంటారు,",
+    "text": "100 యోజనముల సముద్రాన్ని దాటి లంకా పట్టణంలోకి వెళ్ళడం అనేది మానసికంగా కూడా ఎవ్వరూ ఊహించని పని.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -75,52 +48,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "ప్రభువు చెప్పిన పనికన్నా తనలో ఉన్న సమర్ధత చేత ఎక్కువ పనిని చేసి ప్రభువు యొక్క మనస్సు గెలుచుకోగలిగిన సమర్ధత కలిగినవాడు ఉత్తమమైన సేవకుడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "ప్రభువు చెప్పిన పనిని చేసి, అంతకన్నా ఎక్కువ చెయ్యగలిగిన సామర్ధ్యం ఉన్నప్పటికీ, ప్రభువు చెప్పలేదు కనుక మనకెందుకులే అనుకునేవాళ్లు మధ్యములు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "తనకి చెయ్యగలిగే సమర్ధత ఉన్నా, నేనెందుకు చెయ్యాలి అని ప్రభువు చెప్పిన పనిని చెయ్యనివాడు ఎవడు ఉంటాడో వాడు అధముడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 5,
-    "id": "03.05",
-    "text": "ఇవ్వాళ నిన్ను నీవు ఉత్తమమైన సేవకుడిగా నిరూపించుకున్నావు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 6,
-    "id": "03.06",
-    "text": "నా క్షేమ వార్త సీతకి చెప్పి, ఆమె మనసులో ఉన్న దైన్యాన్ని, బాధని తొలగించి సుఖాన్ని పొందేటట్టుగా నువ్వు ప్రవర్తించావు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 7,
-    "id": "03.07",
-    "text": "సీత జాడ తెలియక బాధపడుతున్న నాకు సీత జాడ చెప్పి సంతోషపెట్టావు.",
+    "text": "సముద్రాన్ని దాటి రాక్షసుల చేత, రావణుడి చేత పరిరక్షింపబడుతున్న లంకా పట్టణంలో ప్రవేశించి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -129,7 +57,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "నీకు నేను ఏమిచ్చి నీ ఋణం తీర్చుకోగలను.",
+    "text": "సీత దర్శనం చేసి, ప్రభువు చెప్పిన దానికన్నా ఎక్కువగా ఆ కార్యము నిర్వహించి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -138,25 +66,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "ఇవ్వాళ నీకు ఇవ్వటానికి నా దగ్గర ఎటువంటి వస్తువు లేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 3,
-    "id": "04.03",
-    "text": "నా దగ్గర ఉన్నది ఈ దేహమే, అందుకని నా దేహంతో నీ దేహాన్ని గాఢాలింగనం చేసుకుంటాను\" అని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "హనుమని దగ్గరికి తీసుకుని గట్టిగ కౌగలించుకున్నాడు.",
+    "text": "ఎటువంటి అవమానము పొందకుండా తిరిగి రావడం అనేది సామాన్యమైన పనికాదు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -165,7 +75,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "తవువాత రాముడన్నాడు \"అంతా బాగానే ఉంది కాని, ఆ 100 యోజనముల సముద్రాన్ని దాటి ఎవరు వెళతారు.",
+    "text": "సేవకులు మూడు రకాలుగా ఉంటారు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -174,88 +84,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "మనకున్న ఈ వానర సముహంతో ఆ సముద్రాన్ని దాటి ఎలా వెళ్ళగలుగుతాము.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 3,
-    "id": "05.03",
-    "text": "అందులో క్రూరమైన రాక్షసులు, తిమింగలాలు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "మొసళ్ళు మొదలైనవి ఎన్నో ఉంటాయి కదా\" అని రాముడు ఆలోచిస్తున్న సమయంలో సుగ్రీవుడు ఒక మాట అన్నాడు, \"రామ!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "నువ్వు శోకాన్ని పొందకు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 6,
-    "id": "05.06",
-    "text": "నీకున్న ఉత్సాహమును, పౌరుష పరాక్రమములను ఒకసారి జ్ఞాపకం చేసుకో.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 7,
-    "id": "05.07",
-    "text": "నువ్వు కోదండం పట్టుకొని నిలబడిననాడు నీముందు నిలబడగలిగిన మొనగాడు ఎవడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 8,
-    "id": "05.08",
-    "text": "నువ్వు సమస్త బ్రహ్మండములను శాసించగలిగిన వాడివి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 9,
-    "id": "05.09",
-    "text": "నువ్వు ఆజ్ఞాపిస్తే నీ వెంట రావడానికి సమస్త వానర సైన్యము సిద్ధంగా ఉంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 10,
-    "id": "05.10",
-    "text": "ఒకసారి వానర సైన్యము లంకా పట్టణంలో అడుగుపెట్టిందంటే, రావణుడు నిహతుడయ్యిపోయినట్టే.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 11,
-    "id": "05.11",
-    "text": "అందుకని సముద్రాన్ని దాటడం ఎలాగన్న విషయం మీద నీ దృష్టి కోణాన్ని నిలిపి ఒక మంచి మార్గాన్ని మాకు ఉపదేశం చెయ్యి\" అన్నాడు.",
+    "text": "ప్రభువు చెప్పిన పనికన్నా తనలో ఉన్న సమర్ధత చేత ఎక్కువ పనిని చేసి ప్రభువు యొక్క మనస్సు గెలుచుకోగలిగిన సమర్ధత కలిగినవాడు ఉత్తమమైన సేవకుడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -264,43 +93,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "సుగ్రీవుడి మాటలకి ఉత్సాహం పొందిన రాముడు \"నిజమే, నేను తలుచుకుంటే నా తపఃశక్తి చేత ఈ వానరములను సముద్రాన్ని దాటించగలను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 2,
-    "id": "06.02",
-    "text": "నేను తలుచుకుంటే నా అస్త్ర ప్రయోగం చేత సముద్రాన్ని ఇంకింప చేస్తాను\" అని చెప్పి, హనుమ వంక తిరిగి \"హనుమా!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "ఆ లంకా పట్టణం యొక్క బలం ఏమిటో నాకు చెప్పు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "అక్కడ సైన్యం ఎంత ఉంటుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "ద్వారములు, దుర్గములు ఎలా ఉంటాయి\" అని అడిగాడు.",
+    "text": "ప్రభువు చెప్పిన పనిని చేసి, అంతకన్నా ఎక్కువ చెయ్యగలిగిన సామర్ధ్యం ఉన్నప్పటికీ, ప్రభువు చెప్పలేదు కనుక మనకెందుకులే అనుకునేవాళ్లు మధ్యములు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -309,7 +102,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "అప్పుడు హనుమంతుడు \"ఆ లంకా పట్టణం 100 యోజనముల సముద్రాన్ని దాటి వెళితే త్రికూటా పర్వత శిఖరాల మధ్యన ఉంటుంది.",
+    "text": "తనకి చెయ్యగలిగే సమర్ధత ఉన్నా, నేనెందుకు చెయ్యాలి అని ప్రభువు చెప్పిన పనిని చెయ్యనివాడు ఎవడు ఉంటాడో వాడు అధముడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -318,79 +111,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "అది శత్రు దుర్భేధ్యమైనది, దేవదానవులు కూడా దానిని ఆక్రమించలేరు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 3,
-    "id": "07.03",
-    "text": "ఆ లంకా పట్టణం చుట్టూ ఒక నది ప్రవహిస్తూ ఉంటుంది, అందులో ఒక విశాలమైన అగడ్త నిర్మించారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "దానిమీద నాలుగు వైపులా నాలుగు వంతెనలు ఉంటాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 5,
-    "id": "07.05",
-    "text": "ఈ వంతెనల మీద సర్వకాలములయందు కొన్ని వందల శతఘ్నులు సిద్ధం చెయ్యబడి ఉంటాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 6,
-    "id": "07.06",
-    "text": "దానితో పాటు ఆ లంకకి నాలుగు దుర్గాలున్నాయి, అరణ్యంలో ఉన్న దుర్గానికి అరణ్య దుర్గము అని పేరు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 7,
-    "id": "07.07",
-    "text": "నది చేత రక్షింపబడుతున్న దుర్గానికి నదీ దుర్గము అని పేరు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 8,
-    "id": "07.08",
-    "text": "పర్వతము చేత రక్షింపబడుతున్న దుర్గానికి పర్వత దుర్గము అని పేరు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 9,
-    "id": "07.09",
-    "text": "కృత్రిమంగా నిర్మించిన దుర్గానికి కృత్రిమ దుర్గము అని పేరు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 10,
-    "id": "07.10",
-    "text": "ఆ లంకా పట్టణము ఈ నాలుగు దుర్గములతోటి శోభిల్లుతోంది.",
+    "text": "ఇవ్వాళ నిన్ను నీవు ఉత్తమమైన సేవకుడిగా నిరూపించుకున్నావు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -399,7 +120,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "లంకకి నాలుగు వైపులా నాలుగు ద్వారాలు ఉన్నాయి.",
+    "text": "నా క్షేమ వార్త సీతకి చెప్పి, ఆమె మనసులో ఉన్న దైన్యాన్ని, బాధని తొలగించి సుఖాన్ని పొందేటట్టుగా నువ్వు ప్రవర్తించావు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -408,61 +129,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "తూర్పు ద్వారం దగ్గర 10,000 మంది రాక్షసులు ఆయుధములు పట్టుకొని గుర్రాల మీద, ఏనుగుల మీద తిరుగుతూ కాపు కాస్తుంటారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "దక్షిణ ద్వారాన్ని లక్ష మంది సైనికులు కాపు కాస్తుంటారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "పది లక్షల మంది పశ్చిమ ద్వారాన్ని కాపు కాస్తుంటారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 5,
-    "id": "08.05",
-    "text": "కోటి మంది సైనికులు ఉత్తర ద్వారాన్ని కాపు కాస్తుంటారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 6,
-    "id": "08.06",
-    "text": "ఆ రాక్షసులకి యుద్ధం చెయ్యడమంటే మహా ప్రీతికరమైన విషయం.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 7,
-    "id": "08.07",
-    "text": "రాజద్వారమునకు భయంకరమైన ఇనుప గడియలు, పరిఘలు బిగించి ఉంటాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 8,
-    "id": "08.08",
-    "text": "ఆ లంకని చేరుకొని యుద్ధం చెయ్యడం అంత సామాన్యమైన విషయం కాదు.",
+    "text": "సీత జాడ తెలియక బాధపడుతున్న నాకు సీత జాడ చెప్పి సంతోషపెట్టావు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -471,7 +138,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "మీరు కాని ఆజ్ఞాపిస్తే ఒక సుషేణుడు, గంధమాదనుడు, నీలుడు, నలుడు, ద్వివిదుడు, మైందుడు, సుగ్రీవుడు, అంగదుడు లంకని సర్వనాశనం చేసేస్తారు.",
+    "text": "నీకు నేను ఏమిచ్చి నీ ఋణం తీర్చుకోగలను.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -480,43 +147,7 @@
     "scene": 9,
     "part": 2,
     "id": "09.02",
-    "text": "నేను అక్కడికి వెళ్ళినప్పుడు, అక్కడున్న మొత్తం రాక్షస సైన్యంలో ఒక వంతు సైన్యాన్ని నాశనం చేశాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "అక్కడున్న అనేక వంతెనలలో ఒక వంతెనని పూర్తిగా విరిచేశాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 4,
-    "id": "09.04",
-    "text": "అనేక ప్రాసాదాలని విరగొట్టాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 5,
-    "id": "09.05",
-    "text": "ప్రస్తుతం లంక చెదిరిపోయిన శోభతో ఉంది, రాక్షసులు ఉద్విగ్నులై ఉన్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 6,
-    "id": "09.06",
-    "text": "వాళ్ళతో యుద్ధం చేయుటకు ఇది చాలా అనువైన సమయం అని నేను అనుకుంటున్నాను\" అన్నాడు.",
+    "text": "ఇవ్వాళ నీకు ఇవ్వటానికి నా దగ్గర ఎటువంటి వస్తువు లేదు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -525,6 +156,393 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
+    "text": "నా దగ్గర ఉన్నది ఈ దేహమే, అందుకని నా దేహంతో నీ దేహాన్ని గాఢాలింగనం చేసుకుంటాను\" అని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "హనుమని దగ్గరికి తీసుకుని గట్టిగ కౌగలించుకున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "తవువాత రాముడన్నాడు \"అంతా బాగానే ఉంది కాని, ఆ 100 యోజనముల సముద్రాన్ని దాటి ఎవరు వెళతారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "మనకున్న ఈ వానర సముహంతో ఆ సముద్రాన్ని దాటి ఎలా వెళ్ళగలుగుతాము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "అందులో క్రూరమైన రాక్షసులు, తిమింగలాలు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "మొసళ్ళు మొదలైనవి ఎన్నో ఉంటాయి కదా\" అని రాముడు ఆలోచిస్తున్న సమయంలో సుగ్రీవుడు ఒక మాట అన్నాడు, \"రామ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 3,
+    "id": "12.03",
+    "text": "నువ్వు శోకాన్ని పొందకు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 4,
+    "id": "12.04",
+    "text": "నీకున్న ఉత్సాహమును, పౌరుష పరాక్రమములను ఒకసారి జ్ఞాపకం చేసుకో.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "నువ్వు కోదండం పట్టుకొని నిలబడిననాడు నీముందు నిలబడగలిగిన మొనగాడు ఎవడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "నువ్వు సమస్త బ్రహ్మండములను శాసించగలిగిన వాడివి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 3,
+    "id": "13.03",
+    "text": "నువ్వు ఆజ్ఞాపిస్తే నీ వెంట రావడానికి సమస్త వానర సైన్యము సిద్ధంగా ఉంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "ఒకసారి వానర సైన్యము లంకా పట్టణంలో అడుగుపెట్టిందంటే, రావణుడు నిహతుడయ్యిపోయినట్టే.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "అందుకని సముద్రాన్ని దాటడం ఎలాగన్న విషయం మీద నీ దృష్టి కోణాన్ని నిలిపి ఒక మంచి మార్గాన్ని మాకు ఉపదేశం చెయ్యి\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "సుగ్రీవుడి మాటలకి ఉత్సాహం పొందిన రాముడు \"నిజమే, నేను తలుచుకుంటే నా తపఃశక్తి చేత ఈ వానరములను సముద్రాన్ని దాటించగలను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "నేను తలుచుకుంటే నా అస్త్ర ప్రయోగం చేత సముద్రాన్ని ఇంకింప చేస్తాను\" అని చెప్పి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "హనుమ వంక తిరిగి \"హనుమా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "ఆ లంకా పట్టణం యొక్క బలం ఏమిటో నాకు చెప్పు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 3,
+    "id": "16.03",
+    "text": "అక్కడ సైన్యం ఎంత ఉంటుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 4,
+    "id": "16.04",
+    "text": "ద్వారములు, దుర్గములు ఎలా ఉంటాయి\" అని అడిగాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "అప్పుడు హనుమంతుడు \"ఆ లంకా పట్టణం 100 యోజనముల సముద్రాన్ని దాటి వెళితే త్రికూటా పర్వత శిఖరాల మధ్యన ఉంటుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "అది శత్రు దుర్భేధ్యమైనది, దేవదానవులు కూడా దానిని ఆక్రమించలేరు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "ఆ లంకా పట్టణం చుట్టూ ఒక నది ప్రవహిస్తూ ఉంటుంది, అందులో ఒక విశాలమైన అగడ్త నిర్మించారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "దానిమీద నాలుగు వైపులా నాలుగు వంతెనలు ఉంటాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "ఈ వంతెనల మీద సర్వకాలములయందు కొన్ని వందల శతఘ్నులు సిద్ధం చెయ్యబడి ఉంటాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "దానితో పాటు ఆ లంకకి నాలుగు దుర్గాలున్నాయి, అరణ్యంలో ఉన్న దుర్గానికి అరణ్య దుర్గము అని పేరు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "నది చేత రక్షింపబడుతున్న దుర్గానికి నదీ దుర్గము అని పేరు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "పర్వతము చేత రక్షింపబడుతున్న దుర్గానికి పర్వత దుర్గము అని పేరు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "కృత్రిమంగా నిర్మించిన దుర్గానికి కృత్రిమ దుర్గము అని పేరు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 3,
+    "id": "21.03",
+    "text": "ఆ లంకా పట్టణము ఈ నాలుగు దుర్గములతోటి శోభిల్లుతోంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "లంకకి నాలుగు వైపులా నాలుగు ద్వారాలు ఉన్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "తూర్పు ద్వారం దగ్గర 10,000 మంది రాక్షసులు ఆయుధములు పట్టుకొని గుర్రాల మీద, ఏనుగుల మీద తిరుగుతూ కాపు కాస్తుంటారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "దక్షిణ ద్వారాన్ని లక్ష మంది సైనికులు కాపు కాస్తుంటారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 2,
+    "id": "23.02",
+    "text": "పది లక్షల మంది పశ్చిమ ద్వారాన్ని కాపు కాస్తుంటారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 3,
+    "id": "23.03",
+    "text": "కోటి మంది సైనికులు ఉత్తర ద్వారాన్ని కాపు కాస్తుంటారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "ఆ రాక్షసులకి యుద్ధం చెయ్యడమంటే మహా ప్రీతికరమైన విషయం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 2,
+    "id": "24.02",
+    "text": "రాజద్వారమునకు భయంకరమైన ఇనుప గడియలు, పరిఘలు బిగించి ఉంటాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 3,
+    "id": "24.03",
+    "text": "ఆ లంకని చేరుకొని యుద్ధం చెయ్యడం అంత సామాన్యమైన విషయం కాదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
+    "text": "మీరు కాని ఆజ్ఞాపిస్తే ఒక సుషేణుడు, గంధమాదనుడు, నీలుడు, నలుడు, ద్వివిదుడు, మైందుడు, సుగ్రీవుడు, అంగదుడు లంకని సర్వనాశనం చేసేస్తారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 1,
+    "id": "26.01",
+    "text": "నేను అక్కడికి వెళ్ళినప్పుడు, అక్కడున్న మొత్తం రాక్షస సైన్యంలో ఒక వంతు సైన్యాన్ని నాశనం చేశాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 2,
+    "id": "26.02",
+    "text": "అక్కడున్న అనేక వంతెనలలో ఒక వంతెనని పూర్తిగా విరిచేశాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 1,
+    "id": "27.01",
+    "text": "అనేక ప్రాసాదాలని విరగొట్టాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 2,
+    "id": "27.02",
+    "text": "ప్రస్తుతం లంక చెదిరిపోయిన శోభతో ఉంది, రాక్షసులు ఉద్విగ్నులై ఉన్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 3,
+    "id": "27.03",
+    "text": "వాళ్ళతో యుద్ధం చేయుటకు ఇది చాలా అనువైన సమయం అని నేను అనుకుంటున్నాను\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 1,
+    "id": "28.01",
     "text": "తర్వాత చూద్దాం — లంక మీదకి వానర సైన్యం ప్రయాణం.",
     "complete_verse_block": false,
     "needs_timing_review": false,

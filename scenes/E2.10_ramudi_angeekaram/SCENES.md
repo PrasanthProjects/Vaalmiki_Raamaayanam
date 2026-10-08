@@ -50,15 +50,31 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 5 — Scene 05
 
-**Visual:** [Kaikeyi Visual Lock] finally stating both boons directly to Rama's face — same content as E2.07's formal demand to Dasharatha, now delivered plainly, almost casually, to the person it actually affects.
+**Visual:** [Kaikeyi Visual Lock] stating the boons to Rama's face, plainly, almost casually.
 
-**Story:** అప్పుడు కైకేయ "ఏమీలేదు రామ, మీ నాన్న సత్యవంతుడు అని పూర్వం రెండు వరాలు ఇచ్చాడు కదా అని — పధ్నాలుగు సంవత్సరములు నువ్వు నారచీరలు కట్టుకొని, జటలు కట్టుకున్న తలతో ఒక తపస్వి ఎలా ఉంటాడో అలా నువ్వు అరణ్యవాసం చెయ్యాలని, అదే ముహూర్తానికి భరతుడికి పట్టాభిషేకం చెయ్యాలని అడిగాను, అప్పటినుండి మీ నాన్న ఇలా పడిపోయి ఉన్నాడు. అందుకని రామ, ఈ రెండు కోరికలు నువ్వు తీరుస్తే మీ నాన్న సంతోషిస్తాడు, కాని నువ్వు ఈ కోరికలు తీరుస్తావో తీర్చవో అని మీ నాన్న బెంగపెట్టుకొని అలా ఉన్నాడు" అని పలికింది.
+**Story:** అప్పుడు కైకేయ "ఏమీలేదు రామ, మీ నాన్న సత్యవంతుడు అని పూర్వం రెండు వరాలు ఇచ్చాడు కదా అని — పధ్నాలుగు సంవత్సరములు నువ్వు నారచీరలు కట్టుకొని,
 
 **Image:** Pending creation.
 
 **Source note:** Note Kaikeyi's framing here — she presents the demand as if the only open question is Rama's compliance, entirely skipping her own role in causing Dasharatha's collapse; her tone is notably calmer and more matter-of-fact than the raw anger of E2.07-E2.08, having fully regained composure.
 
 ## 6 — Scene 06
+
+**Visual:** An inset of bark-cloth and matted hair; and of Bharata crowned at the same hour.
+
+**Story:** జటలు కట్టుకున్న తలతో ఒక తపస్వి ఎలా ఉంటాడో అలా నువ్వు అరణ్యవాసం చెయ్యాలని, అదే ముహూర్తానికి భరతుడికి పట్టాభిషేకం చెయ్యాలని అడిగాను, అప్పటినుండి మీ నాన్న ఇలా పడిపోయి ఉన్నాడు.
+
+**Image:** Pending creation.
+
+## 7 — Scene 07
+
+**Visual:** Kaikeyi gesturing at the fallen king — he fears you will refuse.
+
+**Story:** అందుకని రామ, ఈ రెండు కోరికలు నువ్వు తీరుస్తే మీ నాన్న సంతోషిస్తాడు, కాని నువ్వు ఈ కోరికలు తీరుస్తావో తీర్చవో అని మీ నాన్న బెంగపెట్టుకొని అలా ఉన్నాడు" అని పలికింది.
+
+**Image:** Pending creation.
+
+## 8 — Scene 08
 
 **Visual:** [Rama Visual Lock] — no hesitation, no visible distress, an immediate, warm, slightly surprised response, as if confused why this required so much anguish at all.
 
@@ -68,7 +84,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This is the pivotal moment of the whole crisis arc — everything the audience has watched break Dasharatha across five episodes, Rama accepts instantly and without visible struggle; this is not naivety, it is the fullest possible expression of the character established since E2.01 — play with genuine warmth and mild bewilderment at his father's distress, not stoic suppression of pain.
 
-## 7 — Scene 07
+## 9 — Scene 09
 
 **Visual:** On-screen verse text.
 
@@ -78,27 +94,43 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — Rama's own extraordinary declaration: "I would gladly, unasked, give Sita, the kingdom, my very life, and all my wealth to my brother Bharata, of my own accord."
 
-## 8 — Scene 08
+## 10 — Scene 10
 
-**Visual:** [Rama Visual Lock] expanding this in warm, plain speech — expressing genuine joy at Bharata's coming coronation, and open sorrow only for his father's suffering, not for his own loss.
+**Visual:** [Rama Visual Lock] warm and unshaken — for Bharata I would give kingdom, wealth, life itself.
 
-**Story:** "భరతుడికి కావాలంటే రాజ్యం ఏమిటి, సీతని ఇస్తాను, ప్రాణాలు ఇస్తాను, ధనమంతా ఇస్తాను, భరతుడికి యువరాజు కావాలన్న కోరిక ఉందని నాకు తెలియక నేను యువరాజ పట్టాభిషేకానికి సిద్ధపడ్డాను, తమ్ముడికి పట్టాభిషేకం అవుతున్నందుకు చాలా సంతోషంగా ఉందమ్మా, తప్పకుండా తమ్ముడికి పట్టాభిషేకం చేసెయ్యండి. ఈ విషయం చెప్పడానికి నాన్నగారు అంత బాధ పడ్డారని తెలిసి నేను బాధపడుతున్నాను, ఆయన నన్ను అగ్నిలో దూకమన్నా దూకేస్తాను" అన్నాడు.
+**Story:** "భరతుడికి కావాలంటే రాజ్యం ఏమిటి, సీతని ఇస్తాను, ప్రాణాలు ఇస్తాను, ధనమంతా ఇస్తాను, భరతుడికి యువరాజు కావాలన్న కోరిక ఉందని నాకు తెలియక నేను యువరాజ పట్టాభిషేకానికి సిద్ధపడ్డాను,
 
 **Image:** Pending creation.
 
 **Source note:** The offer to give even Sita away "unasked" (verse 7) is startling in isolation, but the plain-speech version reframes it correctly — Rama's point is the totality of his willingness to give up everything material, not a literal transactional offer regarding Sita; keep both the verse's exact wording and this clarifying context together so the meaning isn't misread. His closing line about jumping into fire if his father asked is hyperbolic devotion, matching the register of the virtue-catalogue in E2.01.
 
-## 9 — Scene 09
+## 11 — Scene 11
 
-**Visual:** [Kaikeyi Visual Lock] adding one more fabricated urgency — falsely claiming Dasharatha has sworn not to bathe or eat until Rama has left the city, pressing for immediate departure.
+**Visual:** Rama's one sorrow — that his father suffered over telling him; he would leap into fire at a word.
 
-**Story:** అప్పుడు కైకేయ "రామ, మీ నాన్న ఒక శపథం చేశాడు, అది ఏమిటంటే నువ్వు ఈ అయోధ్యా నగరం నుండి వెళ్ళేదాకా స్నానం చెయ్యను, భోజనం చెయ్యను అని, కాబట్టి మీ నాన్నగారు సంతోషంగా ఉండాలంటే నువ్వు వెంటనే వెళ్ళిపోవాలి" అని పలికింది.
+**Story:** తమ్ముడికి పట్టాభిషేకం అవుతున్నందుకు చాలా సంతోషంగా ఉందమ్మా, తప్పకుండా తమ్ముడికి పట్టాభిషేకం చేసెయ్యండి. ఈ విషయం చెప్పడానికి నాన్నగారు అంత బాధ పడ్డారని తెలిసి నేను బాధపడుతున్నాను, ఆయన నన్ను అగ్నిలో దూకమన్నా దూకేస్తాను" అన్నాడు.
 
 **Image:** Pending creation.
 
-**Source note:** This specific claim is not corroborated anywhere in Dasharatha's own words across E2.06-E2.09 — the text presents it as Kaikeyi's own invention, an additional lie stacked onto the two genuine boons, to force Rama's departure before he can be talked out of it or before public sentiment can intervene; worth a subtly harder edge in Kaikeyi's delivery here than the more matter-of-fact scene 5, since this part is her own addition.
+## 12 — Scene 12
 
-## 10 — Scene 10
+**Visual:** [Kaikeyi Visual Lock] adding a fabricated urgency — the king's supposed vow.
+
+**Story:** అప్పుడు కైకేయ "రామ, మీ నాన్న ఒక శపథం చేశాడు, అది ఏమిటంటే నువ్వు ఈ అయోధ్యా నగరం నుండి వెళ్ళేదాకా స్నానం చెయ్యను,
+
+**Image:** Pending creation.
+
+**Source note:** This specific claim is not corroborated anywhere in Dasharatha's own words across E2.06-E2.09 — the text presents it as Kaikeyi's own invention, an additional lie stacked onto the two genuine boons, to force Rama's departure before he can be talked out of it or before public sentiment can intervene; worth a subtly harder edge in Kaikeyi's delivery here than the more matter-of-fact scenes 5-7, since this part is her own addition.
+
+## 13 — Scene 13
+
+**Visual:** Kaikeyi pressing for immediate departure; Rama accepting at once.
+
+**Story:** భోజనం చెయ్యను అని, కాబట్టి మీ నాన్నగారు సంతోషంగా ఉండాలంటే నువ్వు వెంటనే వెళ్ళిపోవాలి" అని పలికింది.
+
+**Image:** Pending creation.
+
+## 14 — Scene 14
 
 **Visual:** [Rama Visual Lock] beginning to respond, already moving toward acceptance of the immediate departure as well.
 
@@ -108,7 +140,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Deliberately cut the episode here, mid-response — the source itself continues directly into the next page's content; treat this as the episode's cliffhanger rather than compress the next scene in to close out a complete sentence.
 
-## 11 — Scene 11
+## 15 — Scene 15
 
 **Visual:** End card.
 

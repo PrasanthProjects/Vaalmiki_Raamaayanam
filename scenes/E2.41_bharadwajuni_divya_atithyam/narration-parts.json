@@ -39,25 +39,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "వారి వెనకాల సేనాబలం వచ్చింది, పురోహితులు, మహర్షులు వచ్చారు, ఎవరెవరు ఎటువంటి భవనములలో నివసిస్తారో అటువంటి భవనములను ఓ విశ్వకర్మా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "నువ్వు నిర్మించెదవుగాక\" అని అన్నాడు (రాజులు నివసించేవాటిని హర్మ్యములు, బాగా డబ్బున్నవారు ఉండేవాటిని ప్రాసాదములు అని అంటారు).",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "విశ్వకర్మ ఉత్తరక్షణంలో ఎవరికి కావలసిన భవనాన్ని వారికి నిర్మించాడు.",
+    "text": "వారి వెనకాల సేనాబలం వచ్చింది, పురోహితులు, మహర్షులు వచ్చారు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -66,8 +48,26 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "ఆహ్వయే దేవ గంధర్వాన్ విశ్వా వసు హహా హుహూన్ । తథైవ అప్సరసో దేవీర్ గంధర్వీః చ అపి సర్వశః ॥",
-    "complete_verse_block": true,
+    "text": "ఎవరెవరు ఎటువంటి భవనములలో నివసిస్తారో అటువంటి భవనములను ఓ విశ్వకర్మా, నువ్వు నిర్మించెదవుగాక\" అని అన్నాడు (రాజులు నివసించేవాటిని హర్మ్యములు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 2,
+    "id": "04.02",
+    "text": "బాగా డబ్బున్నవారు ఉండేవాటిని ప్రాసాదములు అని అంటారు).",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 3,
+    "id": "04.03",
+    "text": "విశ్వకర్మ ఉత్తరక్షణంలో ఎవరికి కావలసిన భవనాన్ని వారికి నిర్మించాడు.",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -75,7 +75,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "ఇహ మే భగవాన్ సోమో విధత్తాం అన్నం ఉత్తమం । భక్ష్యం భోజ్యం చ చోష్యం చ లేహ్యం చ వివిధం బహు ॥",
+    "text": "ఆహ్వయే దేవ గంధర్వాన్ విశ్వా వసు హహా హుహూన్ । తథైవ అప్సరసో దేవీర్ గంధర్వీః చ అపి సర్వశః ॥",
     "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
@@ -84,71 +84,8 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "తరువాత ఆయన కుబేరుడిని, బ్రహ్మగారిని ప్రార్థన చేసి \"కుబేరా, నీ దగ్గర ఉన్న వేలమంది అప్సరసలని పంపించు, ఓ బ్రహ్మదేవా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 2,
-    "id": "06.02",
-    "text": "నీ దగ్గర ఉన్న అప్సరసలని కూడా పంపించాలి, వారితో పాటుగా నారదుడు, తుంబురుడు, హుహు అనే దేవగాయకులు రావాలి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "అలాగే ఇక్కడ పాయసం ఏరులై ప్రవహించాలి, పులియ పెట్టిన పళ్ళనుండి, పిండి నుండి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "బెల్లం నుండి పుట్టిన కల్లు (సుర) ఇక్కడ నదులుగా ప్రవహించాలి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "ఏనుగులు, గుర్రాలు, ఒంటెలు తినడానికి కావలసిన ఆహారం గుట్టలు గుట్టలుగా పడిపోవాలి, పర్వతాలలా అన్నపురాసులు ఏర్పడాలి, వాటితో పాటు కూరలు, పచ్చళ్ళు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 6,
-    "id": "06.06",
-    "text": "పులుసులు కావాలి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 7,
-    "id": "06.07",
-    "text": "ఇవన్నీ తిన్నాక జీర్ణం అవ్వడానికి శొంఠి, లవంగం, ఇంగువ కలిగిన యవ్వనపు పెరుగు కావాలి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 8,
-    "id": "06.08",
-    "text": "ఆకలి పుట్టించడానికి కొంచెం పుల్లగా ఉన్న పెరుగు కావాలి, అన్నంలో కలుపుకోడానికి కమ్మగా ఉన్న పెరుగు పుట్టాలి.",
-    "complete_verse_block": false,
+    "text": "ఇహ మే భగవాన్ సోమో విధత్తాం అన్నం ఉత్తమం । భక్ష్యం భోజ్యం చ చోష్యం చ లేహ్యం చ వివిధం బహు ॥",
+    "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -156,7 +93,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "\"అందరూ ముఖం కడుక్కోవడానికి చూర్ణములు కావాలి, వంటికి, జుట్టుకి రాసుకునే ఆమలకం (ఉసిరికాయలతో చేసిన ముద్ద), సున్నిపిండి,",
+    "text": "తరువాత ఆయన కుబేరుడిని, బ్రహ్మగారిని ప్రార్థన చేసి \"కుబేరా, నీ దగ్గర ఉన్న వేలమంది అప్సరసలని పంపించు, ఓ బ్రహ్మదేవా,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -165,79 +102,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "నూనె మొదలైనవి మంచి మంచి బంగారు పాత్రలలో కావాలి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 3,
-    "id": "07.03",
-    "text": "కొన్ని వేల మంది అప్సరసలు వచ్చి, ఒక్కొక్క సైనికుడిని పీఠం మీద కూర్చోబెట్టి ఒళ్ళంతా నూనె రాసి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "నలుగు పెట్టి స్నానం చేయించాలి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 5,
-    "id": "07.05",
-    "text": "ఇక్కడున్న బాగా గెడ్డాలు పెంచుకున్న ఋషులు, బ్రాహ్మణులు ఉన్నారు, వారు గెడ్డం దువ్వుకోడానికి మంచి దువ్వెనలు రావాలి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 6,
-    "id": "07.06",
-    "text": "ఇవన్నీ తిన్నాక ఇంకా తొందరగా జీర్ణం అవ్వడానికి ఔషధాలు కావాలి, అందుకని ఓ సోముడా, చంద్రుడా, మీరు ఇవి సిద్ధం చెయ్యండి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 7,
-    "id": "07.07",
-    "text": "అప్సరసలు నాట్యం చెయ్యాలి, ఇప్పటికిప్పుడు ఇక్కడ పెద్ద పళ్ళతో వెలగ చెట్లు, పనస చెట్లు పుట్టాలి, ఎక్కడెక్కడినుంచో చిలుకలు రావాలి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 8,
-    "id": "07.08",
-    "text": "కుబేరుడి రథమైన చైత్రరథం రావాలి, మామిడి చెట్లు పుట్టాలి, కుంకుడు చెట్లు పుట్టాలి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 9,
-    "id": "07.09",
-    "text": "వీటితో పాటు ఎవరికి ఎంత వేడి కావాలో అంత వేడితో నీళ్ళు పుట్టాలి, అందరికి కట్టుకోవడానికి బట్టలు, తొడుక్కోవడానికి చెప్పులు కావాలి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 10,
-    "id": "07.10",
-    "text": "భరతుడి కోసం ఒక బ్రహ్మాండమైన హర్మ్యం ఏర్పడాలి\" అని ప్రార్థించాడు.",
+    "text": "నీ దగ్గర ఉన్న అప్సరసలని కూడా పంపించాలి, వారితో పాటుగా నారదుడు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -246,7 +111,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "అప్పుడా గుర్రాలు, ఏనుగులు తమ జీవితంలో తిననటువంటి భోజనం చేశాయి, ఒక్కొక్కడికి నలుగురు అప్సరసలు నలుగు పెట్టి స్నానం చేయించారు,",
+    "text": "తుంబురుడు, హుహు అనే దేవగాయకులు రావాలి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -255,7 +120,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "భరతుడు మంత్రులతో కలిసి ఆ హర్మ్యంలోనికి ప్రవేశించాడు, అందులో ఒక పెద్ద వేదిక, దాని మీద కనకపు సింహాసనం,",
+    "text": "అలాగే ఇక్కడ పాయసం ఏరులై ప్రవహించాలి, పులియ పెట్టిన పళ్ళనుండి, పిండి నుండి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -264,7 +129,7 @@
     "scene": 8,
     "part": 3,
     "id": "08.03",
-    "text": "దాని మీద ఒక పెద్ద గొడుగు ఉన్నాయి.",
+    "text": "బెల్లం నుండి పుట్టిన కల్లు (సుర) ఇక్కడ నదులుగా ప్రవహించాలి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -273,8 +138,17 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "తత్ర రాజ ఆసనం దివ్యం వ్యజనం ఛత్రం ఏవ చ । భరతో మంత్రిభిః సార్ధం అభ్యవర్తత రాజవత్ ॥",
-    "complete_verse_block": true,
+    "text": "ఏనుగులు, గుర్రాలు, ఒంటెలు తినడానికి కావలసిన ఆహారం గుట్టలు గుట్టలుగా పడిపోవాలి, పర్వతాలలా అన్నపురాసులు ఏర్పడాలి, వాటితో పాటు కూరలు, పచ్చళ్ళు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "పులుసులు కావాలి.",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -282,7 +156,7 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "లోపలికి వెళ్ళిన భరతుడు ఆ సింహాసనం మీద రాముడు కూర్చున్నట్టు భావించి, కిందన ఉన్న పాదపీఠానికి తల తగిలేటట్టు నమస్కారం చేసి,",
+    "text": "ఇవన్నీ తిన్నాక జీర్ణం అవ్వడానికి శొంఠి, లవంగం, ఇంగువ కలిగిన యవ్వనపు పెరుగు కావాలి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -291,7 +165,7 @@
     "scene": 10,
     "part": 2,
     "id": "10.02",
-    "text": "చామరాన్ని ఒకసారి విసిరి, ఇవన్నీ రాముడికి చెందవలసినవి అని, మంత్రి కూర్చునే చోట కూర్చున్నాడు.",
+    "text": "ఆకలి పుట్టించడానికి కొంచెం పుల్లగా ఉన్న పెరుగు కావాలి, అన్నంలో కలుపుకోడానికి కమ్మగా ఉన్న పెరుగు పుట్టాలి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -300,7 +174,7 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
-    "text": "ఆ సభలోకి రంభ మొదలైన వారు వచ్చి నాట్యం చేశారు, అలాగే నారదుడు, తుంబురుడు మొదలైన వారు వచ్చి పాటలు పాడారు.",
+    "text": "\"అందరూ ముఖం కడుక్కోవడానికి చూర్ణములు కావాలి, వంటికి, జుట్టుకి రాసుకునే ఆమలకం (ఉసిరికాయలతో చేసిన ముద్ద), సున్నిపిండి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -309,16 +183,7 @@
     "scene": 11,
     "part": 2,
     "id": "11.02",
-    "text": "ఏదన్నా తాగడానికి ఉంటే బాగుండు అని భరతుడు అనుకున్నాడు, అంతే, వెంటనే అక్కడ ఒక పాయసపు నది ప్రవహించింది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 3,
-    "id": "11.03",
-    "text": "అందరూ ఆ నది నుండి ఎంత కావాలంటే అంత పాయసాన్ని బంగారు పాత్రలలో ముంచుకొని తాగారు, అందరూ అన్నిటినీ బాగా అనుభవించారు.",
+    "text": "నూనె మొదలైనవి మంచి మంచి బంగారు పాత్రలలో కావాలి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -327,7 +192,7 @@
     "scene": 12,
     "part": 1,
     "id": "12.01",
-    "text": "సైనికులందరూ బాగా తినేసి, తాగేసి పడుకుంటే అప్సరసలు వచ్చి పాదములు పట్టారు, అప్పుడా సైనికులు \"మనం వెనక్కి అయోధ్యకి వెళ్ళద్దు,",
+    "text": "కొన్ని వేల మంది అప్సరసలు వచ్చి, ఒక్కొక్క సైనికుడిని పీఠం మీద కూర్చోబెట్టి ఒళ్ళంతా నూనె రాసి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -336,7 +201,16 @@
     "scene": 12,
     "part": 2,
     "id": "12.02",
-    "text": "ముందు చిత్రకూట పర్వతాలకి వెళ్ళద్దు, ఇక్కడే భారద్వాజ ఆశ్రమంలో ఉండిపోదాము\" అని సంతోషంతో కేకలు వేస్తున్నారు, ఏనుగులు, గుర్రాలు కూడా ఆనందపడ్డాయి.",
+    "text": "నలుగు పెట్టి స్నానం చేయించాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 3,
+    "id": "12.03",
+    "text": "ఇక్కడున్న బాగా గెడ్డాలు పెంచుకున్న ఋషులు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -345,6 +219,168 @@
     "scene": 13,
     "part": 1,
     "id": "13.01",
+    "text": "బ్రాహ్మణులు ఉన్నారు, వారు గెడ్డం దువ్వుకోడానికి మంచి దువ్వెనలు రావాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "ఇవన్నీ తిన్నాక ఇంకా తొందరగా జీర్ణం అవ్వడానికి ఔషధాలు కావాలి, అందుకని ఓ సోముడా, చంద్రుడా, మీరు ఇవి సిద్ధం చెయ్యండి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "అప్సరసలు నాట్యం చెయ్యాలి, ఇప్పటికిప్పుడు ఇక్కడ పెద్ద పళ్ళతో వెలగ చెట్లు, పనస చెట్లు పుట్టాలి, ఎక్కడెక్కడినుంచో చిలుకలు రావాలి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "కుబేరుడి రథమైన చైత్రరథం రావాలి, మామిడి చెట్లు పుట్టాలి, కుంకుడు చెట్లు పుట్టాలి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "వీటితో పాటు ఎవరికి ఎంత వేడి కావాలో అంత వేడితో నీళ్ళు పుట్టాలి, అందరికి కట్టుకోవడానికి బట్టలు, తొడుక్కోవడానికి చెప్పులు కావాలి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "భరతుడి కోసం ఒక బ్రహ్మాండమైన హర్మ్యం ఏర్పడాలి\" అని ప్రార్థించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "అప్పుడా గుర్రాలు, ఏనుగులు తమ జీవితంలో తిననటువంటి భోజనం చేశాయి, ఒక్కొక్కడికి నలుగురు అప్సరసలు నలుగు పెట్టి స్నానం చేయించారు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "భరతుడు మంత్రులతో కలిసి ఆ హర్మ్యంలోనికి ప్రవేశించాడు, అందులో ఒక పెద్ద వేదిక, దాని మీద కనకపు సింహాసనం,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "దాని మీద ఒక పెద్ద గొడుగు ఉన్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "తత్ర రాజ ఆసనం దివ్యం వ్యజనం ఛత్రం ఏవ చ । భరతో మంత్రిభిః సార్ధం అభ్యవర్తత రాజవత్ ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "లోపలికి వెళ్ళిన భరతుడు ఆ సింహాసనం మీద రాముడు కూర్చున్నట్టు భావించి, కిందన ఉన్న పాదపీఠానికి తల తగిలేటట్టు నమస్కారం చేసి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "చామరాన్ని ఒకసారి విసిరి, ఇవన్నీ రాముడికి చెందవలసినవి అని, మంత్రి కూర్చునే చోట కూర్చున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "ఆ సభలోకి రంభ మొదలైన వారు వచ్చి నాట్యం చేశారు, అలాగే నారదుడు, తుంబురుడు మొదలైన వారు వచ్చి పాటలు పాడారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "ఏదన్నా తాగడానికి ఉంటే బాగుండు అని భరతుడు అనుకున్నాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "అంతే, వెంటనే అక్కడ ఒక పాయసపు నది ప్రవహించింది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "అందరూ ఆ నది నుండి ఎంత కావాలంటే అంత పాయసాన్ని బంగారు పాత్రలలో ముంచుకొని తాగారు, అందరూ అన్నిటినీ బాగా అనుభవించారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "సైనికులందరూ బాగా తినేసి, తాగేసి పడుకుంటే అప్సరసలు వచ్చి పాదములు పట్టారు, అప్పుడా సైనికులు \"మనం వెనక్కి అయోధ్యకి వెళ్ళద్దు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "ముందు చిత్రకూట పర్వతాలకి వెళ్ళద్దు, ఇక్కడే భారద్వాజ ఆశ్రమంలో ఉండిపోదాము\" అని సంతోషంతో కేకలు వేస్తున్నారు, ఏనుగులు, గుర్రాలు కూడా ఆనందపడ్డాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
     "text": "తర్వాత చూద్దాం — తెల్లవారాక భరతుడు రాముడి కోసం ఎలా ముందుకు సాగుతాడో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

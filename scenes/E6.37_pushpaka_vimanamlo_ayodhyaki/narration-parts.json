@@ -18,100 +18,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 2,
-    "id": "02.02",
-    "text": "ఇక్కడినుండి కాలి నడకన వెళితే చాలా సమయం పడుతుంది కనుక తొందరగా వెళ్ళడానికి ఏదన్నా ప్రయాణ సాధనం ఏర్పాటు అవుతుందా\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 3,
-    "id": "02.03",
-    "text": "విభీషణుడు \"మన దగ్గర పుష్పక విమానం ఉంది, ఉత్తర క్షణంలో మీరు అయోధ్యకి చేరిపోతారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "ఇన్ని కష్టాలు పడ్డారు కదా, సీతమ్మ లభించింది కదా, సీతమ్మ అభ్యంగన స్నానం ఆచరించి, పట్టు పుట్టం కట్టుకుని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
-    "text": "నగలు అలంకరించుకుంది కదా, మీరు కూడా తలస్నానం చేసి, పట్టు పుట్టాలు కట్టుకుని, ఆభరణములను దాల్చి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 6,
-    "id": "02.06",
-    "text": "నా దగ్గర బహుమతులు అందుకొని మీరు బయలుదేరితే నేను ప్రీతి పొందుతాను\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "అప్పుడు రాముడు \"నా తమ్ముడైన భరతుడు అక్కడ జటలు పెంచుకొని, మట్టి పట్టిన వస్త్రం కట్టుకొని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 2,
-    "id": "03.02",
-    "text": "నా పాదుకలని సింహాసనం మీద పెట్టి, నన్ను చూడాలని శోకిస్తు రాజ్యం చేస్తున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "ఆ భరతుడు స్నానం చెయ్యకముందు నేను స్నానం చెయ్యనా.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "భరతుడు పట్టుపుట్టం కట్టుకోకముందు నేను కట్టుకోన.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 5,
-    "id": "03.05",
-    "text": "భరతుడు ఆభరణాలు పెట్టుకోకముందు నేను పెట్టుకోన.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 6,
-    "id": "03.06",
-    "text": "నాకు తొందరగా భరతుడిని చూడాలని ఉంది\" అన్నాడు.",
+    "text": "ఇక్కడినుండి కాలి నడకన వెళితే చాలా సమయం పడుతుంది కనుక తొందరగా వెళ్ళడానికి ఏదన్నా ప్రయాణ సాధనం ఏర్పాటు అవుతుందా\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -120,7 +30,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "విభీషణుడు వెంటనే పుష్పక విమానాన్ని ఏర్పాటు చేశాడు, రాముడు ఆ విమానాన్ని అధిరోహించాక \"మీరందరూ నాకోసం చాలా కష్టపడ్డారు,",
+    "text": "విభీషణుడు \"మన దగ్గర పుష్పక విమానం ఉంది, ఉత్తర క్షణంలో మీరు అయోధ్యకి చేరిపోతారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -129,34 +39,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "ఇక మీరు విశ్రాంతి తీసుకోండి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 3,
-    "id": "04.03",
-    "text": "నేను బయలుదేరతాను\" అని చెబుతుండగా, అక్కడున్న వాళ్ళందరూ అన్నారు \"మిమ్మల్ని విడిచిపెట్టి మేము ఉండలేము, మేము మీతో అయోధ్యకి వచ్చేస్తాము.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "మేము అక్కడ ఎక్కువ రోజులుండి మిమ్మల్ని ఇబ్బంది పెట్టము, మిమ్మల్ని కన్న కౌసల్యని ఒకసారి చూడాలని ఉంది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 5,
-    "id": "04.05",
-    "text": "మీరు పట్టాభిషిక్తులై సింహాసనం మీద కూర్చుంటే చూడాలని ఉంది రామ\" అన్నారు.",
+    "text": "ఇన్ని కష్టాలు పడ్డారు కదా, సీతమ్మ లభించింది కదా, సీతమ్మ అభ్యంగన స్నానం ఆచరించి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -165,7 +48,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "విశాల హృదయుడైన రాముడు సరే అనేసరికి అక్కడున్న వాళ్ళందరూ ఆ పుష్పక విమానంలోకి గబగబా ఎక్కేశారు.",
+    "text": "పట్టు పుట్టం కట్టుకుని, నగలు అలంకరించుకుంది కదా, మీరు కూడా తలస్నానం చేసి, పట్టు పుట్టాలు కట్టుకుని, ఆభరణములను దాల్చి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -174,70 +57,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "తరువాత ఆ విమానం ఆకాశంలోకి ఎగిరిపోయింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 3,
-    "id": "05.03",
-    "text": "అప్పుడు రాముడు సీతమ్మకి ఆ పుష్పక విమానం నుండి కిందకి చూపిస్తూ \"సీత చూశావ, ఇదే నేను రావణుడిని పడగొట్టిన ప్రదేశం.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "అదిగో అది కుంభకర్ణుడు పడిపోయిన ప్రదేశం, అది నరాంతకుడు పడిపోయిన ప్రదేశం, ఇది హనుమ విరూపాక్షుడిని పడగొట్టిన ప్రదేశం.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "ఆ సముద్రంలో ఉన్న సేతువుని మేము వానరములతో కలిసి నిర్మించాము.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 6,
-    "id": "05.06",
-    "text": "ఇక్కడే మేమందరమూ కూర్చుని ఈ సముద్రాన్ని ఎలా దాటడం అని అనుకున్నాము.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 7,
-    "id": "05.07",
-    "text": "ఇదే కిష్కింద,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 8,
-    "id": "05.08",
-    "text": "ఇక్కడి నుంచే వానరులు అన్ని దిక్కులకి నీ జాడ కనిపెట్టడానికి బయలుదేరారు\" అని చెప్తుంటే సుగ్రీవుడు గబగబా వచ్చి \"రామ!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 9,
-    "id": "05.09",
-    "text": "మనం కిష్కింద మీద నుంచే వెళుతున్నాము కదా, నా భార్యలు తార, రుమ చూస్తుంటారు, వాళ్ళని కూడా ఎక్కించుకుందాము\" అన్నాడు.",
+    "text": "నా దగ్గర బహుమతులు అందుకొని మీరు బయలుదేరితే నేను ప్రీతి పొందుతాను\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -246,7 +66,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "అప్పుడా పుష్పకాన్ని కిందకి దింపారు.",
+    "text": "అప్పుడు రాముడు \"నా తమ్ముడైన భరతుడు అక్కడ జటలు పెంచుకొని, మట్టి పట్టిన వస్త్రం కట్టుకొని,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -255,70 +75,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "సుగ్రీవుడు వెంటనే వెళ్ళి తార, రుమలకి విషయాన్ని చెప్పి రమ్మన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "అప్పుడు తార మిగిలిన ఆడవారి దగ్గరికి వెళ్ళి \"రండి, రండి, సుగ్రీవుడు జయాన్ని సాధించి రామ పట్టాభిషేకానికి వెళుతున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "మంచి మంచి బట్టలు, ఆభరణాలు వేసుకుని అందరూ వచ్చెయ్యండి\" అని పలికింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "అప్పుడు వారు మానవ కాంతలగా కామరూపాలని పొంది, పట్టుపుట్టాలు, ఆభరణములు వేసుకుని, పుష్పక విమానానికి ప్రదక్షిణం చేసేసి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 6,
-    "id": "06.06",
-    "text": "లోపలికి ఎక్కి \"సీతమ్మ ఎక్కడ?",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 7,
-    "id": "06.07",
-    "text": "సీతమ్మ ఎక్కడ?\" అని అడిగారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 8,
-    "id": "06.08",
-    "text": "\"ఆవిడే సీతమ్మ\" అని చూపిస్తే అందరూ వెళ్ళి ఆమెకి నమస్కరించారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 9,
-    "id": "06.09",
-    "text": "అప్పుడు సీతమ్మ వాళ్ళందరినీ సంతోషంగా కౌగలించుకొని, పలకరించింది.",
+    "text": "నా పాదుకలని సింహాసనం మీద పెట్టి, నన్ను చూడాలని శోకిస్తు రాజ్యం చేస్తున్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -327,7 +84,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "మళ్ళి రాముడన్నాడు \"సీత!",
+    "text": "ఆ భరతుడు స్నానం చెయ్యకముందు నేను స్నానం చెయ్యనా.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -336,7 +93,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "అదే ఋష్యమూక పర్వతం, అక్కడే నేను సుగ్రీవుడు కలుసుకున్నాము.",
+    "text": "భరతుడు పట్టుపుట్టం కట్టుకోకముందు నేను కట్టుకోన.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -345,7 +102,7 @@
     "scene": 7,
     "part": 3,
     "id": "07.03",
-    "text": "అది శబరి యొక్క ఆశ్రమం.",
+    "text": "భరతుడు ఆభరణాలు పెట్టుకోకముందు నేను పెట్టుకోన.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -354,25 +111,7 @@
     "scene": 7,
     "part": 4,
     "id": "07.04",
-    "text": "అక్కడున్న చిక్కటి వనంలోనే కబంధుడిని చంపాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 5,
-    "id": "07.05",
-    "text": "చూశావ సీత, అది మనం ఉన్న పంచవటి ఆశ్రమం,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 6,
-    "id": "07.06",
-    "text": "ఇక్కడే రావణుడు నిన్ను అపహరించాడు\" అని రాముడు చెబుతుంటే సీతమ్మ గబుక్కున రాముడి చెయ్యి పట్టుకుంది.",
+    "text": "నాకు తొందరగా భరతుడిని చూడాలని ఉంది\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -381,7 +120,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "కొంతముందుకి వెళ్ళాక \"అదే అగస్త్య మహర్షి ఆశ్రమం, ఇక్కడే అగస్త్యడు నాకు రావణ సంహారం కోసం అస్త్రాన్ని ఇచ్చాడు.",
+    "text": "విభీషణుడు వెంటనే పుష్పక విమానాన్ని ఏర్పాటు చేశాడు, రాముడు ఆ విమానాన్ని అధిరోహించాక \"మీరందరూ నాకోసం చాలా కష్టపడ్డారు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -390,16 +129,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "అక్కడ కనపడుతున్నది సుతీక్షణుడి ఆశ్రమం.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "అక్కడ కనపడుతున్నది చిత్రకూట పర్వతం, ఇక్కడే మనం తిరుగుతూ ఉండేవాళ్ళము\" అన్నాడు.",
+    "text": "ఇక మీరు విశ్రాంతి తీసుకోండి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -408,52 +138,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "అలా ఆ పుష్పకం కొంత ముందుకి వెళ్ళాక వాళ్ళకి భారద్వాజ మహర్షి యొక్క ఆశ్రమం కనపడింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 2,
-    "id": "09.02",
-    "text": "అప్పుడు ఆ పుష్పకాన్ని అక్కడ దింపి, భారద్వాజుడికి నమస్కరించారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "అప్పుడు భారద్వాజుడు \"రామ!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 4,
-    "id": "09.04",
-    "text": "నేను నా తపఃశక్తితో అన్ని కాలములయందు నీ గురించి తెలుసుకుంటున్నాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 5,
-    "id": "09.05",
-    "text": "నువ్వు రావణ సంహారం చెయ్యడం కూడా నాకు తెలుసు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 6,
-    "id": "09.06",
-    "text": "ఇవ్వాళ ఒక్క రాత్రి నా దగ్గర ఉండి, విశ్రాంతి తీసుకొని, నా ఆతిధ్యం తీసుకొని బయలుదేరు\" అన్నాడు.",
+    "text": "నేను బయలుదేరతాను\" అని చెబుతుండగా, అక్కడున్న వాళ్ళందరూ అన్నారు \"మిమ్మల్ని విడిచిపెట్టి మేము ఉండలేము, మేము మీతో అయోధ్యకి వచ్చేస్తాము.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -462,7 +147,7 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "అప్పుడు రాముడు హనుమంతుడిని పిలిచి \"హనుమ!",
+    "text": "మేము అక్కడ ఎక్కువ రోజులుండి మిమ్మల్ని ఇబ్బంది పెట్టము, మిమ్మల్ని కన్న కౌసల్యని ఒకసారి చూడాలని ఉంది,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -471,61 +156,7 @@
     "scene": 10,
     "part": 2,
     "id": "10.02",
-    "text": "నువ్వు ఇక్కడినుండి బయలుదేరి వెళ్ళి, గంగానది ఒడ్డున శృంగిభేరపురంలో గుహుడు ఉంటాడు, అతను నాకు మిక్కిలి స్నేహితుడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 3,
-    "id": "10.03",
-    "text": "ఆ గుహుడికి నా క్షేమ సమాచారం చెప్పి, పట్టాభిషేకానికి రమ్మని చెప్పు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 4,
-    "id": "10.04",
-    "text": "తరువాత అక్కడినుండి బయలుదేరి అయోధ్యలో అందరూ కుశలంగా ఉన్నారా అని కనుక్కొని నందిగ్రామానికి వెళ్ళి, నేను తిరిగొస్తున్నాను అని భరతుడికి చెప్పి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 5,
-    "id": "10.05",
-    "text": "ఆయన ముఖకవళికలు గమనించు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 6,
-    "id": "10.06",
-    "text": "భరతుడి ముఖంలో ఏదన్నా కొంచెం బెంగ నీకు కనపడితే వెంటనే వెనక్కి వచ్చెయ్యి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 7,
-    "id": "10.07",
-    "text": "ఇంక నేను అయోధ్యకి రాను, భరతుడు అయోధ్యని పాలిస్తాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 8,
-    "id": "10.08",
-    "text": "ఈ విషయాన్ని నువ్వు జాగ్రత్తగ కనిపెట్టి తిరిగిరా\" అన్నాడు.",
+    "text": "మీరు పట్టాభిషిక్తులై సింహాసనం మీద కూర్చుంటే చూడాలని ఉంది రామ\" అన్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -534,7 +165,7 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
-    "text": "వెంటనే హనుమంతుడు అక్కడినుండి బయలుదేరి గుహుడిని కలుసుకొని, ఆయనని పలకరించి, రాముడు చెప్పిన విషయాన్ని చెప్పాడు.",
+    "text": "విశాల హృదయుడైన రాముడు సరే అనేసరికి అక్కడున్న వాళ్ళందరూ ఆ పుష్పక విమానంలోకి గబగబా ఎక్కేశారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -543,16 +174,7 @@
     "scene": 11,
     "part": 2,
     "id": "11.02",
-    "text": "తరువాత అక్కడినుండి బయలుదేరి వెళ్ళి భరతుడిని కలుసుకొని, రాముడు పడిన కష్టాలు, సీతాపహరణం, రావణ వధ మొదలైన విషయాలని వర్ణించి చెప్పాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 3,
-    "id": "11.03",
-    "text": "హనుమంతుడి మాటలు విన్న భరతుడు చాలా సంతోషించాడు.",
+    "text": "తరువాత ఆ విమానం ఆకాశంలోకి ఎగిరిపోయింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -561,6 +183,402 @@
     "scene": 12,
     "part": 1,
     "id": "12.01",
+    "text": "అప్పుడు రాముడు సీతమ్మకి ఆ పుష్పక విమానం నుండి కిందకి చూపిస్తూ \"సీత చూశావ, ఇదే నేను రావణుడిని పడగొట్టిన ప్రదేశం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "అదిగో అది కుంభకర్ణుడు పడిపోయిన ప్రదేశం, అది నరాంతకుడు పడిపోయిన ప్రదేశం,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "ఇది హనుమ విరూపాక్షుడిని పడగొట్టిన ప్రదేశం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "ఆ సముద్రంలో ఉన్న సేతువుని మేము వానరములతో కలిసి నిర్మించాము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 3,
+    "id": "13.03",
+    "text": "ఇక్కడే మేమందరమూ కూర్చుని ఈ సముద్రాన్ని ఎలా దాటడం అని అనుకున్నాము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "ఇదే కిష్కింద,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "ఇక్కడి నుంచే వానరులు అన్ని దిక్కులకి నీ జాడ కనిపెట్టడానికి బయలుదేరారు\" అని చెప్తుంటే సుగ్రీవుడు గబగబా వచ్చి \"రామ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 3,
+    "id": "14.03",
+    "text": "మనం కిష్కింద మీద నుంచే వెళుతున్నాము కదా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "నా భార్యలు తార, రుమ చూస్తుంటారు, వాళ్ళని కూడా ఎక్కించుకుందాము\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "అప్పుడా పుష్పకాన్ని కిందకి దింపారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "సుగ్రీవుడు వెంటనే వెళ్ళి తార, రుమలకి విషయాన్ని చెప్పి రమ్మన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 3,
+    "id": "16.03",
+    "text": "అప్పుడు తార మిగిలిన ఆడవారి దగ్గరికి వెళ్ళి \"రండి, రండి, సుగ్రీవుడు జయాన్ని సాధించి రామ పట్టాభిషేకానికి వెళుతున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "మంచి మంచి బట్టలు, ఆభరణాలు వేసుకుని అందరూ వచ్చెయ్యండి\" అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "అప్పుడు వారు మానవ కాంతలగా కామరూపాలని పొంది, పట్టుపుట్టాలు, ఆభరణములు వేసుకుని, పుష్పక విమానానికి ప్రదక్షిణం చేసేసి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 3,
+    "id": "17.03",
+    "text": "లోపలికి ఎక్కి \"సీతమ్మ ఎక్కడ?",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "సీతమ్మ ఎక్కడ?\" అని అడిగారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "\"ఆవిడే సీతమ్మ\" అని చూపిస్తే అందరూ వెళ్ళి ఆమెకి నమస్కరించారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 3,
+    "id": "18.03",
+    "text": "అప్పుడు సీతమ్మ వాళ్ళందరినీ సంతోషంగా కౌగలించుకొని, పలకరించింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "మళ్ళి రాముడన్నాడు \"సీత!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "అదే ఋష్యమూక పర్వతం, అక్కడే నేను సుగ్రీవుడు కలుసుకున్నాము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 3,
+    "id": "19.03",
+    "text": "అది శబరి యొక్క ఆశ్రమం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 4,
+    "id": "19.04",
+    "text": "అక్కడున్న చిక్కటి వనంలోనే కబంధుడిని చంపాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "చూశావ సీత, అది మనం ఉన్న పంచవటి ఆశ్రమం,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "ఇక్కడే రావణుడు నిన్ను అపహరించాడు\" అని రాముడు చెబుతుంటే సీతమ్మ గబుక్కున రాముడి చెయ్యి పట్టుకుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "కొంతముందుకి వెళ్ళాక \"అదే అగస్త్య మహర్షి ఆశ్రమం, ఇక్కడే అగస్త్యడు నాకు రావణ సంహారం కోసం అస్త్రాన్ని ఇచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "అక్కడ కనపడుతున్నది సుతీక్షణుడి ఆశ్రమం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 3,
+    "id": "21.03",
+    "text": "అక్కడ కనపడుతున్నది చిత్రకూట పర్వతం, ఇక్కడే మనం తిరుగుతూ ఉండేవాళ్ళము\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "అలా ఆ పుష్పకం కొంత ముందుకి వెళ్ళాక వాళ్ళకి భారద్వాజ మహర్షి యొక్క ఆశ్రమం కనపడింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "అప్పుడు ఆ పుష్పకాన్ని అక్కడ దింపి, భారద్వాజుడికి నమస్కరించారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "అప్పుడు భారద్వాజుడు \"రామ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 2,
+    "id": "23.02",
+    "text": "నేను నా తపఃశక్తితో అన్ని కాలములయందు నీ గురించి తెలుసుకుంటున్నాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 3,
+    "id": "23.03",
+    "text": "నువ్వు రావణ సంహారం చెయ్యడం కూడా నాకు తెలుసు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "ఇవ్వాళ ఒక్క రాత్రి నా దగ్గర ఉండి, విశ్రాంతి తీసుకొని, నా ఆతిధ్యం తీసుకొని బయలుదేరు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
+    "text": "అప్పుడు రాముడు హనుమంతుడిని పిలిచి \"హనుమ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 2,
+    "id": "25.02",
+    "text": "నువ్వు ఇక్కడినుండి బయలుదేరి వెళ్ళి, గంగానది ఒడ్డున శృంగిభేరపురంలో గుహుడు ఉంటాడు, అతను నాకు మిక్కిలి స్నేహితుడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 3,
+    "id": "25.03",
+    "text": "ఆ గుహుడికి నా క్షేమ సమాచారం చెప్పి, పట్టాభిషేకానికి రమ్మని చెప్పు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 1,
+    "id": "26.01",
+    "text": "తరువాత అక్కడినుండి బయలుదేరి అయోధ్యలో అందరూ కుశలంగా ఉన్నారా అని కనుక్కొని నందిగ్రామానికి వెళ్ళి, నేను తిరిగొస్తున్నాను అని భరతుడికి చెప్పి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 2,
+    "id": "26.02",
+    "text": "ఆయన ముఖకవళికలు గమనించు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 1,
+    "id": "27.01",
+    "text": "భరతుడి ముఖంలో ఏదన్నా కొంచెం బెంగ నీకు కనపడితే వెంటనే వెనక్కి వచ్చెయ్యి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 2,
+    "id": "27.02",
+    "text": "ఇంక నేను అయోధ్యకి రాను, భరతుడు అయోధ్యని పాలిస్తాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 3,
+    "id": "27.03",
+    "text": "ఈ విషయాన్ని నువ్వు జాగ్రత్తగ కనిపెట్టి తిరిగిరా\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 1,
+    "id": "28.01",
+    "text": "వెంటనే హనుమంతుడు అక్కడినుండి బయలుదేరి గుహుడిని కలుసుకొని, ఆయనని పలకరించి, రాముడు చెప్పిన విషయాన్ని చెప్పాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 29,
+    "part": 1,
+    "id": "29.01",
+    "text": "తరువాత అక్కడినుండి బయలుదేరి వెళ్ళి భరతుడిని కలుసుకొని, రాముడు పడిన కష్టాలు, సీతాపహరణం, రావణ వధ మొదలైన విషయాలని వర్ణించి చెప్పాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 29,
+    "part": 2,
+    "id": "29.02",
+    "text": "హనుమంతుడి మాటలు విన్న భరతుడు చాలా సంతోషించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 30,
+    "part": 1,
+    "id": "30.01",
     "text": "తర్వాత చూద్దాం — భరతుడితో కలయిక.",
     "complete_verse_block": false,
     "needs_timing_review": false,

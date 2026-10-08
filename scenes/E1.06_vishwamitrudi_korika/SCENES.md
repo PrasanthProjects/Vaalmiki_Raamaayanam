@@ -58,21 +58,37 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 6 — Scene 06
 
-**Visual:** [Dasharatha Visual Lock] pleading, offering himself and his army instead. (Location register: Ayodhya court)
+**Visual:** [Dasharatha Visual Lock] slowly recovering, pleading — my Rama is not yet sixteen. (Location register: Ayodhya court)
 
-**Story:** మెల్లగా తేరుకొన్న దశరథుడు, "ఇంకా 16 సంవత్సరములు కూడా నా రాముడికి రాలేదు, ఈ రాక్షసులని ఎలా సంహరించగలడు, కావాలంటే నేను నా చతురంగ బలాలతో వచ్చి ఆ రాక్షస సంహారం చేస్తాను, రాముడే రావాలంటే రాముడితో నేను కూడా వస్తాను" అని దశరథుడు ప్రాధేయపడ్డాడు.
+**Story:** మెల్లగా తేరుకొన్న దశరథుడు, "ఇంకా 16 సంవత్సరములు కూడా నా రాముడికి రాలేదు, ఈ రాక్షసులని ఎలా సంహరించగలడు,
 
 **Image:** Pending creation.
 
 ## 7 — Scene 07
 
-**Visual:** [Vishwamitra Visual Lock] unmoved, calmly insistent — his tone stays commanding, not cruel, per his Voice Profile. (Location register: Ayodhya court)
+**Visual:** [Dasharatha Visual Lock] offering himself and his fourfold army instead, hands joined before [Vishwamitra Visual Lock]. (Location register: Ayodhya court)
 
-**Story:** "రాముడు పిల్లవాడు, ఏమిచెయ్యలేడు అని నువ్వు అనుకుంటున్నావు, కాని రాముడంటే ఎవరో నాకు తెలుసు, వశిష్ఠుడికి తెలుసు. రాముడు రాక్షసులను వధించి తప్పక తిరిగివస్తాడు. నువ్వు తండ్రివి కనుక, నీకు రాముడిమీద ఉన్న పుత్రవాత్సల్యంవలన నువ్వు తెలుసుకోలేకపోతున్నావు, రాముడిని నాతో పంపించు" అని విశ్వామిత్రుడు అడిగాడు.
+**Story:** కావాలంటే నేను నా చతురంగ బలాలతో వచ్చి ఆ రాక్షస సంహారం చేస్తాను, రాముడే రావాలంటే రాముడితో నేను కూడా వస్తాను" అని దశరథుడు ప్రాధేయపడ్డాడు.
 
 **Image:** Pending creation.
 
 ## 8 — Scene 08
+
+**Visual:** [Vishwamitra Visual Lock] unmoved, calmly insistent — commanding, not cruel, per his Voice Profile; [Vashishtha Visual Lock] visible beside the throne as he is named. (Location register: Ayodhya court)
+
+**Story:** "రాముడు పిల్లవాడు, ఏమిచెయ్యలేడు అని నువ్వు అనుకుంటున్నావు, కాని రాముడంటే ఎవరో నాకు తెలుసు, వశిష్ఠుడికి తెలుసు. రాముడు రాక్షసులను వధించి తప్పక తిరిగివస్తాడు.
+
+**Image:** Pending creation.
+
+## 9 — Scene 09
+
+**Visual:** Close on [Vishwamitra Visual Lock] and the anxious father — a father's love is hiding from him who Rama is. (Location register: Ayodhya court)
+
+**Story:** నువ్వు తండ్రివి కనుక, నీకు రాముడిమీద ఉన్న పుత్రవాత్సల్యంవలన నువ్వు తెలుసుకోలేకపోతున్నావు, రాముడిని నాతో పంపించు" అని విశ్వామిత్రుడు అడిగాడు.
+
+**Image:** Pending creation.
+
+## 10 — Scene 10
 
 **Visual:** [Dasharatha Visual Lock] making a final, raw plea. (Location register: Ayodhya court)
 
@@ -80,25 +96,41 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 9 — Scene 09
+## 11 — Scene 11
 
-**Visual:** [Vishwamitra Visual Lock] visibly angered — the first time this Character Bible entry's "commanding, brooks no argument" note tips over into real anger — rising to leave. (Location register: Ayodhya court, tension in the light/framing)
+**Visual:** [Vishwamitra Visual Lock] visibly angered — the "commanding, brooks no argument" register tipping over into real anger. (Location register: Ayodhya court, tension in the light/framing)
 
-**Story:** ఈ మాటలు విన్న విశ్వామిత్రుడుకి ఆగ్రహం వచ్చి, "చేసిన ప్రతిజ్ఞ నిలబెట్టుకోలేక, మాట తప్పిన ధర్మం తెలియని దశరథా, పుత్ర పౌత్రాదులతో సుఖముగా, శాంతిగా జీవించు" అని వెళ్ళిపోవడానికి సిద్ధమవుచుండగా,
+**Story:** ఈ మాటలు విన్న విశ్వామిత్రుడుకి ఆగ్రహం వచ్చి, "చేసిన ప్రతిజ్ఞ నిలబెట్టుకోలేక,
 
 **Image:** Pending creation.
 
 **Source note:** Note: "పుత్ర పౌత్రాదులతో" here — this exact phrase was one of the corruption-fix cross-checks earlier in this project (the ό glyph resolved as త్రా via this very phrase), worth a quiet confidence-check during the verse-verification pass.
 
-## 10 — Scene 10
+## 12 — Scene 12
 
-**Visual:** [Vashishtha Visual Lock] rising quickly to intervene, addressing Dasharatha directly and firmly — a rare moment of Vashishtha's Character Bible-noted "gentler than Vishwamitra" register being set aside for real sternness. (Location register: Ayodhya court)
+**Visual:** [Vishwamitra Visual Lock] rising from his seat and turning to leave, the court frozen. (Location register: Ayodhya court, tension in the light/framing)
 
-**Story:** వెంటనే వశిష్ఠుడు లేచి, విశ్వామిత్రుడిని కూర్చోమని చెప్పి దశరథుడితో ఇలా అన్నాడు — "ఇంత కాలం రాజ్యం చేశావు, ధర్మాత్ముడవని అనిపించుకున్నావు. ఇప్పుడు ఆడిన మాట తప్పి, దశరథుడు అధర్ముడు, మాట తప్పినవాడు అనిపించుకుంటావా? ఇచ్చిన మాటకి నిలబడు. విశ్వామిత్రుడంటే ఎవరో తెలుసా —
+**Story:** మాట తప్పిన ధర్మం తెలియని దశరథా, పుత్ర పౌత్రాదులతో సుఖముగా, శాంతిగా జీవించు" అని వెళ్ళిపోవడానికి సిద్ధమవుచుండగా,
 
 **Image:** Pending creation.
 
-## 11 — Scene 11
+## 13 — Scene 13
+
+**Visual:** [Vashishtha Visual Lock] rising quickly to intervene, seating Vishwamitra again, then turning to Dasharatha. (Location register: Ayodhya court)
+
+**Story:** వెంటనే వశిష్ఠుడు లేచి, విశ్వామిత్రుడిని కూర్చోమని చెప్పి దశరథుడితో ఇలా అన్నాడు — "ఇంత కాలం రాజ్యం చేశావు, ధర్మాత్ముడవని అనిపించుకున్నావు.
+
+**Image:** Pending creation.
+
+## 14 — Scene 14
+
+**Visual:** Close on [Vashishtha Visual Lock] addressing Dasharatha directly and firmly — real sternness; Dasharatha lowering his eyes. (Location register: Ayodhya court)
+
+**Story:** ఇప్పుడు ఆడిన మాట తప్పి, దశరథుడు అధర్ముడు, మాట తప్పినవాడు అనిపించుకుంటావా? ఇచ్చిన మాటకి నిలబడు. విశ్వామిత్రుడంటే ఎవరో తెలుసా —
+
+**Image:** Pending creation.
+
+## 15 — Scene 15
 
 **Visual:** On-screen verse text, [Vashishtha Visual Lock] continuing his praise of Vishwamitra. (Location register: Ayodhya court)
 
@@ -108,17 +140,33 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — Vashishtha's praise of Vishwamitra as dharma personified.
 
-## 12 — Scene 12
+## 16 — Scene 16
 
-**Visual:** [Vashishtha Visual Lock] continuing, explaining exactly why Vishwamitra chose Rama specifically. (Location register: Ayodhya court)
+**Visual:** [Vashishtha Visual Lock] continuing, gesturing toward the seated [Vishwamitra Visual Lock] — dharma, tapas and wisdom themselves. (Location register: Ayodhya court)
 
-**Story:** "ఈ లోకములోని ధర్మం అంటే విశ్వామిత్రుడు, ఈ లోకములోని తపస్సు అంతటికి నిర్వచనం విశ్వామిత్రుడు, ఈ లోకములోని బుద్ధి అంతటికి నిర్వచనం విశ్వామిత్రుడు. శివుడి అనుగ్రహంగా ఆయనకి ధనుర్వేదం మొత్తం భాసించింది, కావున ఆయనకి ఈ లోకములో ఉన్న అన్ని అస్త్ర-శస్త్రాలు తెలుసు. ఇన్ని తెలిసిన విశ్వామిత్రుడు తనని తాను రక్షించుకోగలడు — కాని రాముడికి ఆ కీర్తి దక్కాలని, తనకి తెలిసిన సమస్త విద్యలు రాముడికి ధారపొయ్యాలని ఆయన ఆశ. ఎందుకు అడ్డుపడతావు" అని అన్నాడు.
+**Story:** "ఈ లోకములోని ధర్మం అంటే విశ్వామిత్రుడు, ఈ లోకములోని తపస్సు అంతటికి నిర్వచనం విశ్వామిత్రుడు, ఈ లోకములోని బుద్ధి అంతటికి నిర్వచనం విశ్వామిత్రుడు.
 
 **Image:** Pending creation.
 
 **Source note:** This line — Vishwamitra wants to personally transfer his own mastery of all weapons to Rama — reframes the whole request as a gift, not a punishment; let this land before cutting to Dasharatha's response.
 
-## 13 — Scene 13
+## 17 — Scene 17
+
+**Visual:** A brief inset: Shiva's grace descending on Vishwamitra, weapons of every kind appearing as light around him. (Location register: Ayodhya court)
+
+**Story:** శివుడి అనుగ్రహంగా ఆయనకి ధనుర్వేదం మొత్తం భాసించింది, కావున ఆయనకి ఈ లోకములో ఉన్న అన్ని అస్త్ర-శస్త్రాలు తెలుసు.
+
+**Image:** Pending creation.
+
+## 18 — Scene 18
+
+**Visual:** [Vashishtha Visual Lock] concluding — the sage wishes to pour all he knows into Rama; Dasharatha's resistance giving way. (Location register: Ayodhya court)
+
+**Story:** ఇన్ని తెలిసిన విశ్వామిత్రుడు తనని తాను రక్షించుకోగలడు — కాని రాముడికి ఆ కీర్తి దక్కాలని, తనకి తెలిసిన సమస్త విద్యలు రాముడికి ధారపొయ్యాలని ఆయన ఆశ. ఎందుకు అడ్డుపడతావు" అని అన్నాడు.
+
+**Image:** Pending creation.
+
+## 19 — Scene 19
 
 **Visual:** [Dasharatha Visual Lock] relenting, going to Kausalya himself. (Location register: Ayodhya, inner palace)
 
@@ -126,7 +174,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 14 — Scene 14
+## 20 — Scene 20
 
 **Visual:** [Rama/Lakshmana-S1 Visual Locks] entering the court; [generic Maharshi-group] blessing them; [Dasharatha Visual Lock] kissing Rama's head — a tender, specific gesture from the text. (Location register: Ayodhya court)
 
@@ -134,7 +182,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 15 — Scene 15
+## 21 — Scene 21
 
 **Visual:** [Vishwamitra Visual Lock] accepting, [Rama and Lakshmana Visual Locks] departing with him — the actual moment of leaving Ayodhya's gates. (Location register: Ayodhya gate → forest road)
 
@@ -142,17 +190,25 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 16 — Scene 16
+## 22 — Scene 22
 
-**Visual:** Wide traveling shot: [Rama/Lakshmana Visual Locks], bows in hand, walking behind [Vishwamitra Visual Lock] — a grand simile-driven image per the text's own comparison. (Location register: Forest road, ochre/green palette)
+**Visual:** Wide travelling shot: [Rama/Lakshmana Visual Locks], bows in hand, walking behind [Vishwamitra Visual Lock]; the text's own similes as a brief double-exposure — Brahma with the Ashvins, Shiva with Skanda and Vishakha. (Location register: Forest road, ochre/green palette)
 
-**Story:** విశ్వామిత్రుడి వెనక రాముడు, లక్ష్మణుడు కోదండాలు పట్టుకుని వెళుతున్నారు. బ్రహ్మగారు అశ్విని దేవతలతో వెళితే ఎలా ఉంటుందో, స్థాణువైన శివుడి వెనకాల విశాఖుడు, స్కందుడు వెళితే ఎలా ఉంటుందో, అలా విశ్వామిత్రుడి వెనకాల రామలక్ష్మణులు వెళుతున్నారని పోల్చారు. వారు అలా సరయూ నది దక్షిణ తీరములో కాలినడకన ఒకటిన్నర యోజనాలు ప్రయాణించాక చీకటి పడడం వలన ఒక ప్రాంతములో విశ్రమించారు.
+**Story:** విశ్వామిత్రుడి వెనక రాముడు, లక్ష్మణుడు కోదండాలు పట్టుకుని వెళుతున్నారు. బ్రహ్మగారు అశ్విని దేవతలతో వెళితే ఎలా ఉంటుందో, స్థాణువైన శివుడి వెనకాల విశాఖుడు, స్కందుడు వెళితే ఎలా ఉంటుందో,
 
 **Image:** Pending creation.
 
 **Source note:** The Brahma/Ashvins and Shiva/Skanda-Vishakha similes are the text's own poetic comparisons — worth rendering visually as a brief double-exposure/overlay motif rather than dropping them, since they're doing real descriptive work (godlike stature, protective flanking).
 
-## 17 — Scene 17
+## 23 — Scene 23
+
+**Visual:** The three walking along the southern bank of the Sarayu as dusk falls, then settling to rest for the night. (Location register: Forest road, ochre/green palette)
+
+**Story:** అలా విశ్వామిత్రుడి వెనకాల రామలక్ష్మణులు వెళుతున్నారని పోల్చారు. వారు అలా సరయూ నది దక్షిణ తీరములో కాలినడకన ఒకటిన్నర యోజనాలు ప్రయాణించాక చీకటి పడడం వలన ఒక ప్రాంతములో విశ్రమించారు.
+
+**Image:** Pending creation.
+
+## 24 — Scene 24
 
 **Visual:** Evening camp: [Vishwamitra Visual Lock] teaching, [Rama/Lakshmana Visual Locks] listening attentively. (Location register: Forest campsite, dusk)
 
@@ -162,7 +218,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Bridges into the mantra-teaching scene.
 
-## 18 — Scene 18
+## 25 — Scene 25
 
 **Visual:** On-screen verse text. (Location register: Forest campsite)
 
@@ -172,15 +228,23 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — Vishwamitra's transmission of the Bala/Atibala mantras.
 
-## 19 — Scene 19
+## 26 — Scene 26
 
-**Visual:** [Vishwamitra Visual Lock] explaining the mantras' powers directly to Rama, [Rama Visual Lock] receiving them with folded hands. (Location register: Forest campsite)
+**Visual:** [Vishwamitra Visual Lock] teaching the two mantras Bala and Atibala, [Rama Visual Lock] receiving them with folded hands at the river's edge. (Location register: Forest campsite)
 
-**Story:** బ్రహ్మదేవుని కుమార్తెలైన బల, అతిబల అనే రెండు మంత్రాలని రాముడికి ఉపదేశించాడు — ఈ రెండు విద్యల వలన ఆకలి వెయ్యదు, దప్పిక కలగదు, నువ్వు నిద్రపోతున్నప్పుడు కాని నిద్రపోనప్పుడు కాని రాక్షసులు నిన్ను ఏమి చెయ్యలేరు, దీనితో పాటు నీకు సమయస్పూర్తి, జ్ఞాపక శక్తి, బుద్ధి ప్రకాశిస్తాయి అని చెప్పి మంత్రోపదేశం చేశాడు.
+**Story:** బ్రహ్మదేవుని కుమార్తెలైన బల, అతిబల అనే రెండు మంత్రాలని రాముడికి ఉపదేశించాడు — ఈ రెండు విద్యల వలన ఆకలి వెయ్యదు, దప్పిక కలగదు,
 
 **Image:** Pending creation.
 
-## 20 — Scene 20
+## 27 — Scene 27
+
+**Visual:** A soft radiance settling on [Rama Visual Lock] as the mantras take hold — tireless, protected, clear-minded. (Location register: Forest campsite)
+
+**Story:** నువ్వు నిద్రపోతున్నప్పుడు కాని నిద్రపోనప్పుడు కాని రాక్షసులు నిన్ను ఏమి చెయ్యలేరు, దీనితో పాటు నీకు సమయస్పూర్తి, జ్ఞాపక శక్తి, బుద్ధి ప్రకాశిస్తాయి అని చెప్పి మంత్రోపదేశం చేశాడు.
+
+**Image:** Pending creation.
+
+## 28 — Scene 28
 
 **Visual:** [Rama Visual Lock] then passing the same mantras to [Lakshmana Visual Lock] — a small but meaningful gesture of the brothers' bond. (Location register: Forest campsite)
 
@@ -188,7 +252,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 21 — Scene 21
+## 29 — Scene 29
 
 **Visual:** Dawn: [Vishwamitra Visual Lock] finishing his own morning rites first, then approaching the sleeping boys with visible affection. (Location register: Forest campsite, sunrise, warm gold light)
 
@@ -196,7 +260,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 22 — Scene 22
+## 30 — Scene 30
 
 **Visual:** On-screen verse text, treated with special care given how widely known and beloved this specific verse is. (Location register: Forest campsite, sunrise)
 
@@ -206,15 +270,23 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — the "Kausalyā Suprajā Rāma" wake-up verse. This exact verse is independently famous/widely recited outside this text's own context — cross-check with extra care against a second published source during the manual verification pass, not just this book's own rendering, given how many viewers will recognize it immediately if it's off.
 
-## 23 — Scene 23
+## 31 — Scene 31
 
-**Visual:** [Vishwamitra Visual Lock] gently waking them; [Rama/Lakshmana Visual Locks] rising immediately. (Location register: Forest campsite)
+**Visual:** Dawn: [Vishwamitra Visual Lock] gently waking the princes asleep on a bed of grass, the eastern sky brightening. (Location register: Forest campsite)
 
-**Story:** "కౌసల్య యొక్క కుమారుడైన రామా, తూర్పు దిక్కున సూర్యుడు ఉదయిస్తున్నాడు కనుక నువ్వు నిద్రలేచి ప్రొద్దున్న చేసే పూర్వ సంధ్యావందనం చెయ్యాలి. రాక్షసులను సంహరించే నువ్వు నరులలో శార్దూలం వంటివాడివి, దైవీ సంబంధమైన ఆహ్నికములను నెరవేర్చడానికి శుభప్రదమైన సమయం మించిపోకూడదు, అందుకని రామా నిద్రలే" —
+**Story:** "కౌసల్య యొక్క కుమారుడైన రామా, తూర్పు దిక్కున సూర్యుడు ఉదయిస్తున్నాడు కనుక నువ్వు నిద్రలేచి ప్రొద్దున్న చేసే పూర్వ సంధ్యావందనం చెయ్యాలి.
 
 **Image:** Pending creation.
 
-## 24 — Scene 24
+## 32 — Scene 32
+
+**Visual:** [Rama/Lakshmana Visual Locks] rising immediately and going to the river for the morning rites. (Location register: Forest campsite)
+
+**Story:** రాక్షసులను సంహరించే నువ్వు నరులలో శార్దూలం వంటివాడివి, దైవీ సంబంధమైన ఆహ్నికములను నెరవేర్చడానికి శుభప్రదమైన సమయం మించిపోకూడదు, అందుకని రామా నిద్రలే" —
+
+**Image:** Pending creation.
+
+## 33 — Scene 33
 
 **Visual:** Morning rites completed, the group setting off again toward the Ganga-Sarayu confluence. (Location register: Forest road → riverbank)
 
@@ -224,7 +296,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Bridges directly into E1.07's opening (the Kama-dahana/Angadesha-naming story Vishwamitra tells at this ashram).
 
-## 25 — Scene 25
+## 34 — Scene 34
 
 **Visual:** End card.
 

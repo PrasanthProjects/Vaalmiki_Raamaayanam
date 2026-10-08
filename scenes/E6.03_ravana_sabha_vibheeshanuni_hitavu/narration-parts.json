@@ -45,64 +45,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "రాముడు నా మీదకి యుద్ధానికి వస్తున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
-    "text": "నిన్న హనుమంతుడు ఒక్కడే వచ్చి ఈ లంకా పట్టణాన్ని ఎంత పీడించాడో మీరు చూశారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 6,
-    "id": "02.06",
-    "text": "ఈ మాట చెప్పడానికి నాకు చాలా సిగ్గుగా ఉంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 7,
-    "id": "02.07",
-    "text": "రాముడు సముద్ర తీరానికి వచ్చేశాడు, ఎలాగోలా సముద్రాన్ని దాటుతాడు (తన గూఢచారుల వలన రాముడు సముద్ర తీరానికి వచ్చాడని రావణుడు తెలుసుకున్నాడు).",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 8,
-    "id": "02.08",
-    "text": "అప్పుడు మనం రామలక్ష్మణులతో, వానరములతో యుద్ధం చెయ్యాల్సి ఉంటుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 9,
-    "id": "02.09",
-    "text": "మీరందరూ కలిసికట్టుగా నాకు ఒక ఆలోచన చెప్పండి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "మంత్రులందరూ ఎకాభిప్రాయంగా చెప్పిన మాట, ఉత్తమమైన మాట.",
+    "text": "రాముడు నా మీదకి యుద్ధానికి వస్తున్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -111,7 +57,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "మంత్రులు తమలో తాము విభేదించుకుని, తమ విభేదాలు పక్కకి పెట్టి కలిసి ఒక్కటిగా చెప్పిన మాట, మధ్యమమైన మాట.",
+    "text": "నిన్న హనుమంతుడు ఒక్కడే వచ్చి ఈ లంకా పట్టణాన్ని ఎంత పీడించాడో మీరు చూశారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -120,7 +66,7 @@
     "scene": 3,
     "part": 3,
     "id": "03.03",
-    "text": "మంత్రులు విడిపోయి, ఎవరిమానన వారు తలోమాట చెబితే, అది అధమమైన మాట.",
+    "text": "ఈ మాట చెప్పడానికి నాకు చాలా సిగ్గుగా ఉంది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -129,7 +75,7 @@
     "scene": 3,
     "part": 4,
     "id": "03.04",
-    "text": "అందుకని నాకు ఒక మంచి మాట చెప్పండి\" అన్నాడు.",
+    "text": "రాముడు సముద్ర తీరానికి వచ్చేశాడు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -138,7 +84,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "అప్పుడా మంత్రులన్నారు \"ప్రభు!",
+    "text": "ఎలాగోలా సముద్రాన్ని దాటుతాడు (తన గూఢచారుల వలన రాముడు సముద్ర తీరానికి వచ్చాడని రావణుడు తెలుసుకున్నాడు).",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -147,7 +93,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "మీరు దేనికింత బెంగ పెట్టుకుంటున్నారు.",
+    "text": "అప్పుడు మనం రామలక్ష్మణులతో, వానరములతో యుద్ధం చెయ్యాల్సి ఉంటుంది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -156,70 +102,7 @@
     "scene": 4,
     "part": 3,
     "id": "04.03",
-    "text": "మీరు ఒకనాడు హిమాలయాలలో ఉన్న మీ అన్న కుబేరుడితో యుద్ధం చేసి, ఆయనని ఓడించి పుష్పక విమానం ఎత్తుకొచ్చారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "ఆయన ఉన్న ఇంట్లోనుండి ఆయనని తరిమేసి ఈ లంకా పట్టణాన్ని మీదిగా స్వాధీనం చేసుకున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 5,
-    "id": "04.05",
-    "text": "నీ చెల్లెలైన కుంభీనస యొక్క భర్త అయిన మధువుని ఓడించి అక్కడినుండి తెచ్చుకోవలసిన వస్తువులన్నీ తెచ్చుకున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 6,
-    "id": "04.06",
-    "text": "పాతాళ లోకములోకి వెళ్ళి అక్కడున్న నాగులని, తక్షకి, జటి మొదలైన వాళ్ళని ఓడించి అపారమైన కీర్తి గడించారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 7,
-    "id": "04.07",
-    "text": "అక్కడినుండి దేవలోకానికి వెళ్ళి దేవేంద్రుడిని ఓడించారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 8,
-    "id": "04.08",
-    "text": "తరువాత యమలోకానికి వెళ్ళి యముడిని ఓడించారు, యముడు మిమ్మల్ని చూసి పారిపోయాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 9,
-    "id": "04.09",
-    "text": "ఇంతమందిని కొట్టిన మీరు ఎందుకు భయపడుతున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 10,
-    "id": "04.10",
-    "text": "మీ దగ్గర ఇంద్రజిత్ ఉన్నాడు, ఇంద్రజిత్ ముందు ఆ రాజకుమారులు ఎంత\" అన్నారు.",
+    "text": "మీరందరూ కలిసికట్టుగా నాకు ఒక ఆలోచన చెప్పండి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -228,7 +111,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "ఇంతలో మంత్రులలో ఒకడైన ప్రహస్తుడు లేచి \"రావణ!",
+    "text": "మంత్రులందరూ ఎకాభిప్రాయంగా చెప్పిన మాట, ఉత్తమమైన మాట.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -237,34 +120,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "నువ్వు భయపడవద్దు, నేను ఒక్కడిని యుద్ధానికి వెళితే చాలు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 3,
-    "id": "05.03",
-    "text": "ఆ రామలక్ష్మణులిద్దరిని సంహరించి వస్తాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "నిన్నటి రోజున ప్రమత్తంగా ఉండడం వలన ఆ వానరాన్ని పట్టుకోలేకపోయాము\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "అప్పుడు దుర్ముఖుడు అనే మంత్రి అక్కడికి రక్తంతో తడిసిన పరిఘని పట్టుకొచ్చి \"నేను ఒక్కడినే వెళ్ళి ఈ పరిఘతో వాళ్ళని కొట్టి వచ్చేస్తాను\" అన్నాడు.",
+    "text": "మంత్రులు తమలో తాము విభేదించుకుని, తమ విభేదాలు పక్కకి పెట్టి కలిసి ఒక్కటిగా చెప్పిన మాట, మధ్యమమైన మాట.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -273,7 +129,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "అప్పుడు వజ్రదంష్ట్రుడు \"రాముడిని మోసం చేసి గెలిచే ఒక గొప్ప ప్రణాలిక నీకు చెబుతాను.",
+    "text": "మంత్రులు విడిపోయి, ఎవరిమానన వారు తలోమాట చెబితే, అది అధమమైన మాట.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -282,61 +138,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "మన దగ్గర కామరూపులైన రాక్షసులు ఉన్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "వాళ్ళందరినీ భరతుడి సైన్యంలా రూపం మార్చమని చెప్పి రాముడి దగ్గరికి పంపి 'అయోధ్యలో ముఖ్యమైన పని వచ్చింది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "భరతుడు చాలా కష్టంలో ఉన్నాడు, అందుకని నిన్ను తొందరగా రమ్మన్నాడు' అని రాముడితో చెబుతారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "భరతుడి మీద ఉన్న ప్రేమ చేత రాముడు వెనక్కి తిరిగి వెళ్ళిపోతాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 6,
-    "id": "06.06",
-    "text": "ఆ సమయంలో మన సైన్యం సముద్రాన్ని దాటి రాముడిని కొట్టేస్తుంది, అప్పుడు వానరులందరూ దిక్కులు పట్టి పారిపోతారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 7,
-    "id": "06.07",
-    "text": "మీరు అనుజ్ఞ ఇవ్వండి, ఒక్క నిమిషంలో వెళ్ళిపోతాము\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 8,
-    "id": "06.08",
-    "text": "అప్పుడు నికుంభుడు (కుంభకర్ణుడి కుమారుడు) అన్నాడు \"దీనికింత మోసం ఎందుకు, నేను వెళ్ళి వాళ్ళని చంపేసి, రామలక్ష్మణులని తినేసి వస్తాను\" అన్నాడు.",
+    "text": "అందుకని నాకు ఒక మంచి మాట చెప్పండి\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -345,7 +147,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "అప్పుడు విభీషణుడు \"3 విషయాలున్న శత్రువు విషయంలోనే యుద్ధానికి సిద్ధపడాలి.",
+    "text": "అప్పుడా మంత్రులన్నారు \"ప్రభు!",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -354,7 +156,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "ఆ రాజు ఏమరపాటుతో ఉంటే యుద్ధానికి వెళ్ళడం తేలిక, మరొక శత్రువుతో పీడింపబడుతున్న రాజు మీదకి వెళ్ళడం తేలిక,",
+    "text": "మీరు దేనికింత బెంగ పెట్టుకుంటున్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -363,43 +165,7 @@
     "scene": 7,
     "part": 3,
     "id": "07.03",
-    "text": "దైవము ప్రతికూలంగా ఉన్న రాజుమీదకి వెళ్ళడం తేలిక.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "ఈ మూడు లోపాలు ఉన్న రాజు మీదకి దండయాత్ర చెయ్యడం తేలిక.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 5,
-    "id": "07.05",
-    "text": "కాని, మీరందరూ రాముడిని చంపేస్తాము, కొట్టేస్తాము అని ఎగురుతున్నారే, రాముడంటే అంత చేతకానివాడిలా కనపడుతున్నాడ.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 6,
-    "id": "07.06",
-    "text": "రాముడు ఇవ్వాళ యుద్ధానికి వచ్చాడు, అప్రమత్తుడై ఉన్నాడు, దైవము ఆయన పట్ల అనుకూలించి ఉంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 7,
-    "id": "07.07",
-    "text": "మీరు భరతుడి సైన్యం వేషాలు కట్టుకొని వెళితే తెలుసుకోలేనంత మూర్ఖుడు కాదు.",
+    "text": "మీరు ఒకనాడు హిమాలయాలలో ఉన్న మీ అన్న కుబేరుడితో యుద్ధం చేసి, ఆయనని ఓడించి పుష్పక విమానం ఎత్తుకొచ్చారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -408,7 +174,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "నదులకు (తూర్పు దిక్కుకి ప్రవహించేవాటిని నదులు అంటారు),",
+    "text": "ఆయన ఉన్న ఇంట్లోనుండి ఆయనని తరిమేసి ఈ లంకా పట్టణాన్ని మీదిగా స్వాధీనం చేసుకున్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -417,97 +183,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "నదములకు (పశ్చిమ దిక్కుకి ప్రవహించేవాటిని నదములు అంటారు) భర్త అయిన సముద్రాన్ని దాటి ఈవలి ఒడ్డుకి నిన్న హనుమ వచ్చి లంకా పట్టణం అంతటినీ కాల్చేశారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "మరి నిన్న మీరు హనుమని ఎందుకు పట్టుకోలేకపోయారు?",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "ఇన్ని కోట్లమంది ఇక్కడికి వచ్చినవాడిని పట్టుకోలేకపోయారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 5,
-    "id": "08.05",
-    "text": "మీరందరూ ఇవ్వాళ ప్రభువు దగ్గర నిలబడి నేను కొట్టేస్తాను, నేను చంపేస్తాను, నేను తినేస్తాను అంటున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 6,
-    "id": "08.06",
-    "text": "ఇవి మంత్రులు చెప్పవలసిన మాటలేనా?",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 7,
-    "id": "08.07",
-    "text": "మీ మాటలకి ఆలోచన కాని, విచక్షణ కాని ఉందా.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 8,
-    "id": "08.08",
-    "text": "యుద్ధానికి వెళ్ళేముందు శత్రుసైన్యం యొక్క బలం ఎంత ఉంది అని జాగ్రత్తగ అంచనా వెయ్యాలి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 9,
-    "id": "08.09",
-    "text": "అందులో పక్షపాత బుద్ధి ఉండకూడదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 10,
-    "id": "08.10",
-    "text": "శత్రువుకి మనకన్నా ఎక్కువ బలం ఉంటే వేరొక మార్గాన్ని ఆలోచించాలి, శత్రువు కన్నా మనకే ఎక్కువ బలం ఉంటే,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 11,
-    "id": "08.11",
-    "text": "ఆనాడు యుద్ధానికి వెళ్ళాలి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 12,
-    "id": "08.12",
-    "text": "అసలు శత్రువు బలం ఏమిటో, ఎంతమంది వస్తున్నారో, ఎవరు ఎటువంటివారో మీరు అంచనా వేశార?",
+    "text": "నీ చెల్లెలైన కుంభీనస యొక్క భర్త అయిన మధువుని ఓడించి అక్కడినుండి తెచ్చుకోవలసిన వస్తువులన్నీ తెచ్చుకున్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -516,7 +192,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "మీరు ఒక్కసారి ఆలోచించండి, రాముడు యుద్ధానికి రావలసిన అవసరం ఏమిటి?",
+    "text": "పాతాళ లోకములోకి వెళ్ళి అక్కడున్న నాగులని, తక్షకి, జటి మొదలైన వాళ్ళని ఓడించి అపారమైన కీర్తి గడించారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -525,61 +201,7 @@
     "scene": 9,
     "part": 2,
     "id": "09.02",
-    "text": "రాముడి భార్య అయిన సీతమ్మని మా అన్న రావణుడు ఎత్తుకొచ్చి అశోక వనంలో పెట్టాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "అందుకని రాముడు తన భార్యను విడిపించుకోవడానికని యుద్ధానికి వస్తున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 4,
-    "id": "09.04",
-    "text": "ధర్మం రాముడి పట్ల ఉంది, ధర్మం ఎక్కడుంటే దేవతలు అక్కడ ఉంటారు, కావున దేవతల అనుగ్రహం రాముడికి ఉంటుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 5,
-    "id": "09.05",
-    "text": "మీరు రాముడి మీదకి యుద్ధానికి వెళదామని ఎలా అనుకుంటున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 6,
-    "id": "09.06",
-    "text": "ఏ రకంగా చూసినా రాముడిదే పైచేయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 7,
-    "id": "09.07",
-    "text": "లంకకి, రాక్షసులకి, రావణుడికి ఉపద్రవం రాకూడదు అనుకుంటే, ఏ సీతమ్మ కారణంగా ఇటువంటి కలహం వస్తోందో,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 8,
-    "id": "09.08",
-    "text": "ఆ సీతమ్మని రాముడికి అప్పగిస్తే రాముడు యుద్ధానికి రాడు.",
+    "text": "అక్కడినుండి దేవలోకానికి వెళ్ళి దేవేంద్రుడిని ఓడించారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -588,7 +210,7 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "తప్పు చేసింది మనం, ఆ తప్పుని సమర్ధించుకోడానికి ఇన్ని కోట్ల మందిని ఫణంగా పెట్టడం మంచిది కాదు.",
+    "text": "తరువాత యమలోకానికి వెళ్ళి యముడిని ఓడించారు, యముడు మిమ్మల్ని చూసి పారిపోయాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -597,7 +219,7 @@
     "scene": 10,
     "part": 2,
     "id": "10.02",
-    "text": "నా మాట విని సీతమ్మని ఇచ్చేయ్యండి\" అన్నాడు.",
+    "text": "ఇంతమందిని కొట్టిన మీరు ఎందుకు భయపడుతున్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -606,16 +228,7 @@
     "scene": 10,
     "part": 3,
     "id": "10.03",
-    "text": "విభీషణుడు చెప్పిన మంచి మాటలు చెవికి ఎక్కని రావణుడు తన మంత్రులని ఆ సభ నుండి వెళ్ళమని చెప్పి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 4,
-    "id": "10.04",
-    "text": "తాను కూడా వెళ్ళిపోయాడు.",
+    "text": "మీ దగ్గర ఇంద్రజిత్ ఉన్నాడు, ఇంద్రజిత్ ముందు ఆ రాజకుమారులు ఎంత\" అన్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -624,6 +237,402 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
+    "text": "ఇంతలో మంత్రులలో ఒకడైన ప్రహస్తుడు లేచి \"రావణ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "నువ్వు భయపడవద్దు, నేను ఒక్కడిని యుద్ధానికి వెళితే చాలు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 3,
+    "id": "11.03",
+    "text": "ఆ రామలక్ష్మణులిద్దరిని సంహరించి వస్తాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 4,
+    "id": "11.04",
+    "text": "నిన్నటి రోజున ప్రమత్తంగా ఉండడం వలన ఆ వానరాన్ని పట్టుకోలేకపోయాము\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "అప్పుడు దుర్ముఖుడు అనే మంత్రి అక్కడికి రక్తంతో తడిసిన పరిఘని పట్టుకొచ్చి \"నేను ఒక్కడినే వెళ్ళి ఈ పరిఘతో వాళ్ళని కొట్టి వచ్చేస్తాను\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "అప్పుడు వజ్రదంష్ట్రుడు \"రాముడిని మోసం చేసి గెలిచే ఒక గొప్ప ప్రణాలిక నీకు చెబుతాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "మన దగ్గర కామరూపులైన రాక్షసులు ఉన్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "వాళ్ళందరినీ భరతుడి సైన్యంలా రూపం మార్చమని చెప్పి రాముడి దగ్గరికి పంపి 'అయోధ్యలో ముఖ్యమైన పని వచ్చింది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "భరతుడు చాలా కష్టంలో ఉన్నాడు, అందుకని నిన్ను తొందరగా రమ్మన్నాడు' అని రాముడితో చెబుతారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "భరతుడి మీద ఉన్న ప్రేమ చేత రాముడు వెనక్కి తిరిగి వెళ్ళిపోతాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "ఆ సమయంలో మన సైన్యం సముద్రాన్ని దాటి రాముడిని కొట్టేస్తుంది, అప్పుడు వానరులందరూ దిక్కులు పట్టి పారిపోతారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "మీరు అనుజ్ఞ ఇవ్వండి, ఒక్క నిమిషంలో వెళ్ళిపోతాము\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "అప్పుడు నికుంభుడు (కుంభకర్ణుడి కుమారుడు) అన్నాడు \"దీనికింత మోసం ఎందుకు, నేను వెళ్ళి వాళ్ళని చంపేసి, రామలక్ష్మణులని తినేసి వస్తాను\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "అప్పుడు విభీషణుడు \"3 విషయాలున్న శత్రువు విషయంలోనే యుద్ధానికి సిద్ధపడాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "ఆ రాజు ఏమరపాటుతో ఉంటే యుద్ధానికి వెళ్ళడం తేలిక, మరొక శత్రువుతో పీడింపబడుతున్న రాజు మీదకి వెళ్ళడం తేలిక,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 3,
+    "id": "17.03",
+    "text": "దైవము ప్రతికూలంగా ఉన్న రాజుమీదకి వెళ్ళడం తేలిక.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "ఈ మూడు లోపాలు ఉన్న రాజు మీదకి దండయాత్ర చెయ్యడం తేలిక.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "కాని, మీరందరూ రాముడిని చంపేస్తాము, కొట్టేస్తాము అని ఎగురుతున్నారే, రాముడంటే అంత చేతకానివాడిలా కనపడుతున్నాడ.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "రాముడు ఇవ్వాళ యుద్ధానికి వచ్చాడు, అప్రమత్తుడై ఉన్నాడు, దైవము ఆయన పట్ల అనుకూలించి ఉంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "మీరు భరతుడి సైన్యం వేషాలు కట్టుకొని వెళితే తెలుసుకోలేనంత మూర్ఖుడు కాదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "నదులకు (తూర్పు దిక్కుకి ప్రవహించేవాటిని నదులు అంటారు),",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "నదములకు (పశ్చిమ దిక్కుకి ప్రవహించేవాటిని నదములు అంటారు) భర్త అయిన సముద్రాన్ని దాటి ఈవలి ఒడ్డుకి నిన్న హనుమ వచ్చి లంకా పట్టణం అంతటినీ కాల్చేశారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "మరి నిన్న మీరు హనుమని ఎందుకు పట్టుకోలేకపోయారు?",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "ఇన్ని కోట్లమంది ఇక్కడికి వచ్చినవాడిని పట్టుకోలేకపోయారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 3,
+    "id": "21.03",
+    "text": "మీరందరూ ఇవ్వాళ ప్రభువు దగ్గర నిలబడి నేను కొట్టేస్తాను, నేను చంపేస్తాను, నేను తినేస్తాను అంటున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "ఇవి మంత్రులు చెప్పవలసిన మాటలేనా?",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "మీ మాటలకి ఆలోచన కాని, విచక్షణ కాని ఉందా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 3,
+    "id": "22.03",
+    "text": "యుద్ధానికి వెళ్ళేముందు శత్రుసైన్యం యొక్క బలం ఎంత ఉంది అని జాగ్రత్తగ అంచనా వెయ్యాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 4,
+    "id": "22.04",
+    "text": "అందులో పక్షపాత బుద్ధి ఉండకూడదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "శత్రువుకి మనకన్నా ఎక్కువ బలం ఉంటే వేరొక మార్గాన్ని ఆలోచించాలి, శత్రువు కన్నా మనకే ఎక్కువ బలం ఉంటే,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 2,
+    "id": "23.02",
+    "text": "ఆనాడు యుద్ధానికి వెళ్ళాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 3,
+    "id": "23.03",
+    "text": "అసలు శత్రువు బలం ఏమిటో, ఎంతమంది వస్తున్నారో, ఎవరు ఎటువంటివారో మీరు అంచనా వేశార?",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "మీరు ఒక్కసారి ఆలోచించండి, రాముడు యుద్ధానికి రావలసిన అవసరం ఏమిటి?",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 2,
+    "id": "24.02",
+    "text": "రాముడి భార్య అయిన సీతమ్మని మా అన్న రావణుడు ఎత్తుకొచ్చి అశోక వనంలో పెట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 3,
+    "id": "24.03",
+    "text": "అందుకని రాముడు తన భార్యను విడిపించుకోవడానికని యుద్ధానికి వస్తున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
+    "text": "ధర్మం రాముడి పట్ల ఉంది, ధర్మం ఎక్కడుంటే దేవతలు అక్కడ ఉంటారు, కావున దేవతల అనుగ్రహం రాముడికి ఉంటుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 2,
+    "id": "25.02",
+    "text": "మీరు రాముడి మీదకి యుద్ధానికి వెళదామని ఎలా అనుకుంటున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 1,
+    "id": "26.01",
+    "text": "ఏ రకంగా చూసినా రాముడిదే పైచేయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 2,
+    "id": "26.02",
+    "text": "లంకకి, రాక్షసులకి, రావణుడికి ఉపద్రవం రాకూడదు అనుకుంటే, ఏ సీతమ్మ కారణంగా ఇటువంటి కలహం వస్తోందో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 3,
+    "id": "26.03",
+    "text": "ఆ సీతమ్మని రాముడికి అప్పగిస్తే రాముడు యుద్ధానికి రాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 1,
+    "id": "27.01",
+    "text": "తప్పు చేసింది మనం, ఆ తప్పుని సమర్ధించుకోడానికి ఇన్ని కోట్ల మందిని ఫణంగా పెట్టడం మంచిది కాదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 2,
+    "id": "27.02",
+    "text": "నా మాట విని సీతమ్మని ఇచ్చేయ్యండి\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 1,
+    "id": "28.01",
+    "text": "విభీషణుడు చెప్పిన మంచి మాటలు చెవికి ఎక్కని రావణుడు తన మంత్రులని ఆ సభ నుండి వెళ్ళమని చెప్పి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 2,
+    "id": "28.02",
+    "text": "తాను కూడా వెళ్ళిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 29,
+    "part": 1,
+    "id": "29.01",
     "text": "తర్వాత చూద్దాం — విభీషణుడు చూసిన దుర్నిమిత్తములు, కుంభకర్ణుడి మాట.",
     "complete_verse_block": false,
     "needs_timing_review": false,

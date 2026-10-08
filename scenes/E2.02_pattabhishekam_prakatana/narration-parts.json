@@ -90,28 +90,10 @@
     "seconds": null
   },
   {
-    "scene": 8,
-    "part": 2,
-    "id": "08.02",
-    "text": "ఇంక నేను ఎంతోకాలం బ్రతకను, అందుకని నాకు ప్రియాతిప్రియమైన,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "సకలగుణాభిరాముడికి తొందరగా యువరాజ్య పట్టాభిషేకం చేసేస్తే ప్రజలందరూ సంతోషంగా ఉంటారు\" అని ఆలోచించి —",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "దశరథ మహారాజు తన మంత్రులని, ఇతర రాజులని, ప్రభుత్వ ఉద్యోగులని, జానపదులని,",
+    "text": "ఇంక నేను ఎంతోకాలం బ్రతకను, అందుకని నాకు ప్రియాతిప్రియమైన,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -120,16 +102,7 @@
     "scene": 9,
     "part": 2,
     "id": "09.02",
-    "text": "అయోధ్యా పట్టణవాసులని మొదలైనవారందరిని పిలిచి పెద్ద సమావేశం ఏర్పాటు చేశారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "రాముడికి తొందర తొందరగా యువరాజ్య పట్టాభిషేకం చెయ్యాలనే తొందరలో కైకేయ రాజుకి, జనక మహారాజుకి కబురు పంపలేదు.",
+    "text": "సకలగుణాభిరాముడికి తొందరగా యువరాజ్య పట్టాభిషేకం చేసేస్తే ప్రజలందరూ సంతోషంగా ఉంటారు\" అని ఆలోచించి —",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -138,7 +111,7 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "దశరథ మహారాజు కూర్చున్నాక, అందరూ తమకి ఏర్పాటు చేసిన స్థానాలలో కూర్చున్నారు.",
+    "text": "దశరథ మహారాజు తన మంత్రులని, ఇతర రాజులని, ప్రభుత్వ ఉద్యోగులని, జానపదులని,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -147,7 +120,7 @@
     "scene": 10,
     "part": 2,
     "id": "10.02",
-    "text": "అప్పుడు దశరథుడు ఇలా అన్నాడు —",
+    "text": "అయోధ్యా పట్టణవాసులని మొదలైనవారందరిని పిలిచి పెద్ద సమావేశం ఏర్పాటు చేశారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -156,8 +129,8 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
-    "text": "ఇదం శరీరం కృత్స్నస్య లోకస్య చరతా హితం । పాణ్డురస్యాతపత్రస్య చ్ఛాయాయాం జరితం మయా ॥",
-    "complete_verse_block": true,
+    "text": "రాముడికి తొందర తొందరగా యువరాజ్య పట్టాభిషేకం చెయ్యాలనే తొందరలో కైకేయ రాజుకి, జనక మహారాజుకి కబురు పంపలేదు.",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -165,7 +138,7 @@
     "scene": 12,
     "part": 1,
     "id": "12.01",
-    "text": "\"ఈ తెల్లటి గొడుగు కింద కొన్ని వేల సంవత్సరాల నుండి కూర్చున్నాను,",
+    "text": "దశరథ మహారాజు కూర్చున్నాక, అందరూ తమకి ఏర్పాటు చేసిన స్థానాలలో కూర్చున్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -174,25 +147,7 @@
     "scene": 12,
     "part": 2,
     "id": "12.02",
-    "text": "ఈ తెల్లటి గొడుగు కింద కూర్చుని ఉండగానే నా శరీరానికి వృద్ధాప్యం వచ్చేసింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 3,
-    "id": "12.03",
-    "text": "ఇప్పుడు నా శరీరం విశ్రాంతిని కోరుకుంటుంది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 4,
-    "id": "12.04",
-    "text": "అందుకని మూడులోకాలని శాసించగలిగే శక్తివంతుడైన నా పెద్ద కుమారుడు రాముడికి యువరాజ్య పట్టాభిషేకం చేద్దామని అనుకుంటున్నాను.\"",
+    "text": "అప్పుడు దశరథుడు ఇలా అన్నాడు —",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -201,53 +156,8 @@
     "scene": 13,
     "part": 1,
     "id": "13.01",
-    "text": "\"కాని నా అంతట నేను తీసుకున్న నిర్ణయం కచ్చితంగా ఉండకపోవచ్చు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 2,
-    "id": "13.02",
-    "text": "రాముడు నా పెద్ద కుమారుడన్న పక్షపాత బుద్ధితో నేను ఈ నిర్ణయం తీసుకొని ఉండవచ్చు, నేను న్యాయాన్యాయ విచారణ చేసి ఉండకపోవచ్చు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 3,
-    "id": "13.03",
-    "text": "ఈ సింహాసనం మీద కూర్చునేవాడు ఈ రాజ్యాన్ని ధర్మబద్ధంగా పాలించాలి, ప్రజలని తన బిడ్డలుగా చూసుకోవాలి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 4,
-    "id": "13.04",
-    "text": "రాముడు పట్టాభిషేకానికి అర్హుడు అని నేను అనుకుంటున్నాను, కాని రాముడు అలాంటివాడో కాదో మీరు విచారించండి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 5,
-    "id": "13.05",
-    "text": "నిష్పక్షపాతంగా రాగద్వేషాలు లేకుండా ఆలోచించి నిర్ణయించండి, మీరందరూ కూడా రాముడు పట్టాభిషేకానికి అర్హుడు అని అనుకుంటే పట్టాభిషేకం చేస్తాను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 6,
-    "id": "13.06",
-    "text": "మీరందరూ బాగా ఆలోచించి మీ నిర్ణయాన్ని చెప్పండి\" అన్నాడు.",
-    "complete_verse_block": false,
+    "text": "ఇదం శరీరం కృత్స్నస్య లోకస్య చరతా హితం । పాణ్డురస్యాతపత్రస్య చ్ఛాయాయాం జరితం మయా ॥",
+    "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -255,7 +165,7 @@
     "scene": 14,
     "part": 1,
     "id": "14.01",
-    "text": "అక్కడున్నవాళ్ళందరూ ఒకేసారి సంతోషంతో గట్టిగా — \"దశరథ మహారాజా!",
+    "text": "\"ఈ తెల్లటి గొడుగు కింద కొన్ని వేల సంవత్సరాల నుండి కూర్చున్నాను,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -264,25 +174,7 @@
     "scene": 14,
     "part": 2,
     "id": "14.02",
-    "text": "మీరు చెప్పిన ప్రతిపాదనకి మేము అంగీకరిస్తున్నాము, వెంటనే రాముడికి యువరాజ్య పట్టాభిషేకం చేయండి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 14,
-    "part": 3,
-    "id": "14.03",
-    "text": "రాముడు పట్టాభిషేకం చేయించుకొని, ఏనుగు మీద ఎక్కి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 14,
-    "part": 4,
-    "id": "14.04",
-    "text": "తెల్లటి గొడుగు కింద ఊరేగుతుంటే ఎప్పుడు చూస్తామా అని మా మనసులు ఉన్నాయి\" అని వారందరూ అరిచిన అరుపుకి అక్కడున్న అంతఃపుర ప్రాకారం కదిలిపోయిందా అన్నట్టుగా ఉంది.",
+    "text": "ఈ తెల్లటి గొడుగు కింద కూర్చుని ఉండగానే నా శరీరానికి వృద్ధాప్యం వచ్చేసింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -291,7 +183,7 @@
     "scene": 15,
     "part": 1,
     "id": "15.01",
-    "text": "ఈ మాటలు విన్న దశరథుడు సంతోషించి, వాళ్ళని ఒక మాట అడిగాడు, అది ఏమిటంటే —",
+    "text": "ఇప్పుడు నా శరీరం విశ్రాంతిని కోరుకుంటుంది,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -300,61 +192,7 @@
     "scene": 15,
     "part": 2,
     "id": "15.02",
-    "text": "\"కొన్ని వేల సంవత్సరములుగా మీ అందరినీ కన్నబిడ్డలుగా చూసుకుంటూ, ధర్మం తప్పకుండా పరిపాలన చేశాను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 15,
-    "part": 3,
-    "id": "15.03",
-    "text": "ఇవ్వాళ నేను రాముడికి యువరాజ్య పట్టాభిషేకం చేస్తానంటే, మీలో ఒక్కరు కూడా 'దశరథా!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 15,
-    "part": 4,
-    "id": "15.04",
-    "text": "ఇప్పుడు మీ వలన వచ్చిన లోటు ఏమిటి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 15,
-    "part": 5,
-    "id": "15.05",
-    "text": "కొన్ని వేల సంవత్సరాల నుండి ధర్మం తప్పకుండా మమ్మల్ని తండ్రిలా చూసుకున్నావు' అని ఒక్కడు అనలేదు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 15,
-    "part": 6,
-    "id": "15.06",
-    "text": "'నా కొడుకుకి యువరాజ్య పట్టాభిషేకం చేస్తే చూడాలని ఉంది' అన్నారు, నేను అన్నానని మీరు అన్నారా —",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 15,
-    "part": 7,
-    "id": "15.07",
-    "text": "నా పాలనలో లోపాలు కనబడ్డాయా, నాకన్నా గొప్ప గుణములు రాముడిలో కనబడ్డాయా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 15,
-    "part": 8,
-    "id": "15.08",
-    "text": "రాముడు మీకు యువరాజుగా ఎందుకు కావాలో చెప్పండి\" అని అన్నాడు.",
+    "text": "అందుకని మూడులోకాలని శాసించగలిగే శక్తివంతుడైన నా పెద్ద కుమారుడు రాముడికి యువరాజ్య పట్టాభిషేకం చేద్దామని అనుకుంటున్నాను.\"",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -363,8 +201,17 @@
     "scene": 16,
     "part": 1,
     "id": "16.01",
-    "text": "రామః సత్పురుషో లోకే సత్యధర్మపరాయణః । సాక్షాద్రామాద్వినిర్వృత్తో ధర్మశ్చాపి శ్రియా సహ ॥",
-    "complete_verse_block": true,
+    "text": "\"కాని నా అంతట నేను తీసుకున్న నిర్ణయం కచ్చితంగా ఉండకపోవచ్చు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "రాముడు నా పెద్ద కుమారుడన్న పక్షపాత బుద్ధితో నేను ఈ నిర్ణయం తీసుకొని ఉండవచ్చు, నేను న్యాయాన్యాయ విచారణ చేసి ఉండకపోవచ్చు.",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -372,7 +219,7 @@
     "scene": 17,
     "part": 1,
     "id": "17.01",
-    "text": "\"ఈ సమస్త లోకములో రాముడు సత్పురుషుడు, ఆయనకి సత్యము-ధర్మము కావాలి, అన్నిటికీమించి ధర్మాన్ని లక్ష్మిని కలిపి ఉంచడం రాముడికి తెలుసు\" అన్నారు.",
+    "text": "ఈ సింహాసనం మీద కూర్చునేవాడు ఈ రాజ్యాన్ని ధర్మబద్ధంగా పాలించాలి, ప్రజలని తన బిడ్డలుగా చూసుకోవాలి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -381,25 +228,7 @@
     "scene": 17,
     "part": 2,
     "id": "17.02",
-    "text": "అలాగే, \"రాముడిని చూస్తే పౌర్ణమి నాటి చంద్రుడిని చూసినంత ఆహ్లాదంగా ఉంటుంది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 17,
-    "part": 3,
-    "id": "17.03",
-    "text": "భూమికి ఎంత ఓర్పు ఉందో రాముడికి అంత ఓర్పు ఉంది, బృహస్పతికి ఎంత బుద్ధి ఉందో రాముడికి అంత బుద్ధి ఉంది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 17,
-    "part": 4,
-    "id": "17.04",
-    "text": "ఇంద్రుడికి ఎంత శక్తి ఉందో రాముడికి అంత శక్తి ఉంది, ఇన్ని గుణములు ఉన్నాయి కనుక మేము రాముడిని రాజుగా కోరుకుంటున్నాము.\"",
+    "text": "రాముడు పట్టాభిషేకానికి అర్హుడు అని నేను అనుకుంటున్నాను, కాని రాముడు అలాంటివాడో కాదో మీరు విచారించండి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -408,7 +237,7 @@
     "scene": 18,
     "part": 1,
     "id": "18.01",
-    "text": "అలాగే — \"రాముడు లక్ష్మణుడితో కలిసి యుద్ధానికి వెళితే విజయం చేపట్టకుండా రాముడు రాడు,",
+    "text": "నిష్పక్షపాతంగా రాగద్వేషాలు లేకుండా ఆలోచించి నిర్ణయించండి, మీరందరూ కూడా రాముడు పట్టాభిషేకానికి అర్హుడు అని అనుకుంటే పట్టాభిషేకం చేస్తాను,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -417,43 +246,7 @@
     "scene": 18,
     "part": 2,
     "id": "18.02",
-    "text": "రాముడు చాలా కాలం యుద్ధం చేసి అయోధ్యకి తిరిగొస్తే, లోపలికి వెళ్ళి సంతోషంగా విశ్రాంతిగా కాలం గడపడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 18,
-    "part": 3,
-    "id": "18.03",
-    "text": "ఆయన స్నానం చేసి వెంటనే ఏనుగో, రథమో ఎక్కి అయోధ్యా ప్రజల దగ్గరికి వచ్చి, ముందు ఆయనే పలకరించి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 18,
-    "part": 4,
-    "id": "18.04",
-    "text": "కుశల ప్రశ్నలు వేస్తాడు, ప్రతి ఇంటిముందు నుండి వెళుతూ, కనపడ్డ వారందరిని ముందు తాను పిలిచి ప్రశ్నిస్తాడు —",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 18,
-    "part": 5,
-    "id": "18.05",
-    "text": "ఎవరయ్యా ఇలా ప్రశ్నించే రాజు?",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 18,
-    "part": 6,
-    "id": "18.06",
-    "text": "అటువంటి గుణం నీ కుమారుడిలో ఉంది, అందుకని ఆయన మాకు యువరాజుగా కావాలి\" అని అన్నారు.",
+    "text": "మీరందరూ బాగా ఆలోచించి మీ నిర్ణయాన్ని చెప్పండి\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -462,7 +255,7 @@
     "scene": 19,
     "part": 1,
     "id": "19.01",
-    "text": "అలాగే — \"ప్రజలు సుఖంగా ఉంటే, తాను సంతోషించినట్టు సంతోషిస్తాడు, మమ్మల్ని ఎంతో ప్రేమగా చూసుకుంటాడు (ప్రేమ అంటే —",
+    "text": "అక్కడున్నవాళ్ళందరూ ఒకేసారి సంతోషంతో గట్టిగా — \"దశరథ మహారాజా!",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -471,34 +264,7 @@
     "scene": 19,
     "part": 2,
     "id": "19.02",
-    "text": "తాను అనుభవించక పోయినా తనవారు అనుభవిస్తుంటే, వారు అనుభవించిన ఆనందాన్ని చూసి తాను ఆనందపడడం),",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 19,
-    "part": 3,
-    "id": "19.03",
-    "text": "ప్రజలకి ఏదన్నా కష్టం వచ్చి పోయిన తరువాత కూడా రాముడు మాత్రం 'ప్రజలకు ఈ ఇంతటి కష్టము వచ్చినదే' అని తలుచుకుని బాధపడుతూనే ఉంటాడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 19,
-    "part": 4,
-    "id": "19.04",
-    "text": "అసలు ఏమీ తెలియనటువంటి జానపదులు, స్త్రీలు, పిల్లలు, రాముడికి ఏమీ కానటువంటి వారు రోజూ గుడిలో రాముడు ఆరోగ్యంగా ఉండాలని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 19,
-    "part": 5,
-    "id": "19.05",
-    "text": "ఆయన మమ్మల్ని చక్కగా చూడాలి, ఆయన సంతోషంగా ఉండాలని ప్రార్థిస్తుంటారు, అందుకని రాముడు మాకు రాజుగా కావాలి దశరథ\" అన్నారు వాళ్ళందరూ.",
+    "text": "మీరు చెప్పిన ప్రతిపాదనకి మేము అంగీకరిస్తున్నాము, వెంటనే రాముడికి యువరాజ్య పట్టాభిషేకం చేయండి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -507,6 +273,258 @@
     "scene": 20,
     "part": 1,
     "id": "20.01",
+    "text": "రాముడు పట్టాభిషేకం చేయించుకొని, ఏనుగు మీద ఎక్కి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "తెల్లటి గొడుగు కింద ఊరేగుతుంటే ఎప్పుడు చూస్తామా అని మా మనసులు ఉన్నాయి\" అని వారందరూ అరిచిన అరుపుకి అక్కడున్న అంతఃపుర ప్రాకారం కదిలిపోయిందా అన్నట్టుగా ఉంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "ఈ మాటలు విన్న దశరథుడు సంతోషించి, వాళ్ళని ఒక మాట అడిగాడు, అది ఏమిటంటే —",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "\"కొన్ని వేల సంవత్సరములుగా మీ అందరినీ కన్నబిడ్డలుగా చూసుకుంటూ,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "ధర్మం తప్పకుండా పరిపాలన చేశాను, ఇవ్వాళ నేను రాముడికి యువరాజ్య పట్టాభిషేకం చేస్తానంటే, మీలో ఒక్కరు కూడా 'దశరథా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "ఇప్పుడు మీ వలన వచ్చిన లోటు ఏమిటి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "కొన్ని వేల సంవత్సరాల నుండి ధర్మం తప్పకుండా మమ్మల్ని తండ్రిలా చూసుకున్నావు' అని ఒక్కడు అనలేదు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 2,
+    "id": "23.02",
+    "text": "'నా కొడుకుకి యువరాజ్య పట్టాభిషేకం చేస్తే చూడాలని ఉంది' అన్నారు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "నేను అన్నానని మీరు అన్నారా — నా పాలనలో లోపాలు కనబడ్డాయా, నాకన్నా గొప్ప గుణములు రాముడిలో కనబడ్డాయా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 2,
+    "id": "24.02",
+    "text": "రాముడు మీకు యువరాజుగా ఎందుకు కావాలో చెప్పండి\" అని అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
+    "text": "రామః సత్పురుషో లోకే సత్యధర్మపరాయణః । సాక్షాద్రామాద్వినిర్వృత్తో ధర్మశ్చాపి శ్రియా సహ ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 1,
+    "id": "26.01",
+    "text": "\"ఈ సమస్త లోకములో రాముడు సత్పురుషుడు, ఆయనకి సత్యము-ధర్మము కావాలి, అన్నిటికీమించి ధర్మాన్ని లక్ష్మిని కలిపి ఉంచడం రాముడికి తెలుసు\" అన్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 1,
+    "id": "27.01",
+    "text": "అలాగే, \"రాముడిని చూస్తే పౌర్ణమి నాటి చంద్రుడిని చూసినంత ఆహ్లాదంగా ఉంటుంది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 2,
+    "id": "27.02",
+    "text": "భూమికి ఎంత ఓర్పు ఉందో రాముడికి అంత ఓర్పు ఉంది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 1,
+    "id": "28.01",
+    "text": "బృహస్పతికి ఎంత బుద్ధి ఉందో రాముడికి అంత బుద్ధి ఉంది, ఇంద్రుడికి ఎంత శక్తి ఉందో రాముడికి అంత శక్తి ఉంది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 2,
+    "id": "28.02",
+    "text": "ఇన్ని గుణములు ఉన్నాయి కనుక మేము రాముడిని రాజుగా కోరుకుంటున్నాము.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 29,
+    "part": 1,
+    "id": "29.01",
+    "text": "అలాగే — \"రాముడు లక్ష్మణుడితో కలిసి యుద్ధానికి వెళితే విజయం చేపట్టకుండా రాముడు రాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 29,
+    "part": 2,
+    "id": "29.02",
+    "text": "రాముడు చాలా కాలం యుద్ధం చేసి అయోధ్యకి తిరిగొస్తే, లోపలికి వెళ్ళి సంతోషంగా విశ్రాంతిగా కాలం గడపడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 30,
+    "part": 1,
+    "id": "30.01",
+    "text": "ఆయన స్నానం చేసి వెంటనే ఏనుగో, రథమో ఎక్కి అయోధ్యా ప్రజల దగ్గరికి వచ్చి, ముందు ఆయనే పలకరించి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 30,
+    "part": 2,
+    "id": "30.02",
+    "text": "కుశల ప్రశ్నలు వేస్తాడు, ప్రతి ఇంటిముందు నుండి వెళుతూ,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 31,
+    "part": 1,
+    "id": "31.01",
+    "text": "కనపడ్డ వారందరిని ముందు తాను పిలిచి ప్రశ్నిస్తాడు — ఎవరయ్యా ఇలా ప్రశ్నించే రాజు?",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 31,
+    "part": 2,
+    "id": "31.02",
+    "text": "అటువంటి గుణం నీ కుమారుడిలో ఉంది, అందుకని ఆయన మాకు యువరాజుగా కావాలి\" అని అన్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 32,
+    "part": 1,
+    "id": "32.01",
+    "text": "అలాగే — \"ప్రజలు సుఖంగా ఉంటే, తాను సంతోషించినట్టు సంతోషిస్తాడు, మమ్మల్ని ఎంతో ప్రేమగా చూసుకుంటాడు (ప్రేమ అంటే —",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 32,
+    "part": 2,
+    "id": "32.02",
+    "text": "తాను అనుభవించక పోయినా తనవారు అనుభవిస్తుంటే, వారు అనుభవించిన ఆనందాన్ని చూసి తాను ఆనందపడడం),",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 33,
+    "part": 1,
+    "id": "33.01",
+    "text": "ప్రజలకి ఏదన్నా కష్టం వచ్చి పోయిన తరువాత కూడా రాముడు మాత్రం 'ప్రజలకు ఈ ఇంతటి కష్టము వచ్చినదే' అని తలుచుకుని బాధపడుతూనే ఉంటాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 33,
+    "part": 2,
+    "id": "33.02",
+    "text": "అసలు ఏమీ తెలియనటువంటి జానపదులు, స్త్రీలు, పిల్లలు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 34,
+    "part": 1,
+    "id": "34.01",
+    "text": "రాముడికి ఏమీ కానటువంటి వారు రోజూ గుడిలో రాముడు ఆరోగ్యంగా ఉండాలని, ఆయన మమ్మల్ని చక్కగా చూడాలి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 34,
+    "part": 2,
+    "id": "34.02",
+    "text": "ఆయన సంతోషంగా ఉండాలని ప్రార్థిస్తుంటారు, అందుకని రాముడు మాకు రాజుగా కావాలి దశరథ\" అన్నారు వాళ్ళందరూ.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 35,
+    "part": 1,
+    "id": "35.01",
     "text": "తర్వాత చూద్దాం — దశరథుడు పట్టాభిషేక ముహూర్తం నిర్ణయించడం, సన్నాహాలు, మరియు రాముడికి తండ్రి ఇచ్చిన చివరి హితోపదేశం.",
     "complete_verse_block": false,
     "needs_timing_review": false,

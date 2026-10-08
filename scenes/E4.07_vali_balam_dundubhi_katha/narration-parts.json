@@ -30,34 +30,7 @@
     "scene": 2,
     "part": 2,
     "id": "02.02",
-    "text": "నడువడి తెలియక పాపాత్ముడైన వాలి ఎంతకాలం నా కంటికి కనపడడో, అంతకాలమే బతికి ఉంటాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 3,
-    "id": "02.03",
-    "text": "వాలి నాకు కనపడగానే మరణిస్తాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "నువ్వు బెంగ పెట్టుకోకు, వాలిని ఇప్పుడే సంహరిస్తాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
-    "text": "వాలి ఎక్కడ ఉంటాడో నాకు చూపించు\" అన్నాడు.",
+    "text": "నడువడి తెలియక పాపాత్ముడైన వాలి ఎంతకాలం నా కంటికి కనపడడో,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -66,8 +39,35 @@
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "సముద్రాత్ పశ్చిమాత్ పూర్వం దక్షిణాద్ అపి చ ఉత్తరం । క్రామతి అనుదితే సూర్యే వాలీ వ్యపగత క్లమః ॥",
-    "complete_verse_block": true,
+    "text": "అంతకాలమే బతికి ఉంటాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 2,
+    "id": "03.02",
+    "text": "వాలి నాకు కనపడగానే మరణిస్తాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 3,
+    "id": "03.03",
+    "text": "నువ్వు బెంగ పెట్టుకోకు, వాలిని ఇప్పుడే సంహరిస్తాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 3,
+    "part": 4,
+    "id": "03.04",
+    "text": "వాలి ఎక్కడ ఉంటాడో నాకు చూపించు\" అన్నాడు.",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -75,62 +75,8 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "అప్పుడు సుగ్రీవుడు \"రామ తొందరపడకు, నీకు ఒక విషయం చెబుతాను విను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 2,
-    "id": "04.02",
-    "text": "సూర్యోదయానికి ముందరే వాలి నిద్రలేస్తాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 3,
-    "id": "04.03",
-    "text": "అప్పుడు తన అంతఃపురం నుండి ఒక్కసారి ఎగిరి తూర్పు సముద్రతీరం దగ్గర దిగుతాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "అక్కడ సంధ్యావందనం చేసి ఒకే దూకులో పశ్చిమ సముద్రతీరం దగ్గర దిగుతాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 5,
-    "id": "04.05",
-    "text": "మళ్ళి అక్కడ సంధ్యావందనం చేసి ఒకే దూకులో ఉత్తర సముద్రతీరం దగ్గర దిగుతాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 6,
-    "id": "04.06",
-    "text": "మళ్ళీ అక్కడ సంధ్యావందనం చేసి ఒకే దూకులో దక్షిణ దిక్కుకి దూకుతాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 7,
-    "id": "04.07",
-    "text": "ఇలా నాలుగు సముద్రాల దగ్గర సూర్యుడు ఉదయించేలోపు సంధ్యావందనం చేస్తాడు.",
-    "complete_verse_block": false,
+    "text": "సముద్రాత్ పశ్చిమాత్ పూర్వం దక్షిణాద్ అపి చ ఉత్తరం । క్రామతి అనుదితే సూర్యే వాలీ వ్యపగత క్లమః ॥",
+    "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -138,7 +84,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "దానితో పాటు నీకు ఇంకొక విషయం చెబుతాను రామ అని రాముడిని తీసుకువెళ్ళి ఒక పర్వతాన్ని చూపించి, చూశావ ఈ పర్వతాలు.",
+    "text": "అప్పుడు సుగ్రీవుడు \"రామ తొందరపడకు, నీకు ఒక విషయం చెబుతాను విను.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -147,7 +93,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "వాటికి ఎంత పెద్ద శిఖరాలు ఉన్నాయో చూశావ.",
+    "text": "సూర్యోదయానికి ముందరే వాలి నిద్రలేస్తాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -156,25 +102,7 @@
     "scene": 5,
     "part": 3,
     "id": "05.03",
-    "text": "వాలి సంధ్యావందనం చేశాక ఇంటికి వెళ్ళి కొన్ని పాలు తాగి మళ్ళి ఈ అరణ్యానికి వస్తాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "ఇక్కడ ఉన్న ఈ పర్వత శిఖరాలని ఊపి విరగ్గొడతాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "అప్పుడు వాటిని గాలిలోకి విసిరి బంతులు పట్టుకున్నట్టు పట్టుకుంటాడు\" అని చెప్పి, రాముడిని మరొక్క ప్రదేశానికి తీసుకువెళ్ళి,",
+    "text": "అప్పుడు తన అంతఃపురం నుండి ఒక్కసారి ఎగిరి తూర్పు సముద్రతీరం దగ్గర దిగుతాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -183,7 +111,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "\"పూర్వం దుందుభి అని ఒక రాక్షసుడు ఉండేవాడు.",
+    "text": "అక్కడ సంధ్యావందనం చేసి ఒకే దూకులో పశ్చిమ సముద్రతీరం దగ్గర దిగుతాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -192,70 +120,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "వాడికి ఒంట్లో బలం ఉందన్న పొగరు చేత ఒకరోజు సముద్రుడి దగ్గరికి వెళ్ళి తనతో యుద్ధం చెయ్యమన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "నీతో నాకు యుద్ధం ఏమిటి, నీ బలం ఎక్కడ నా బలం ఎక్కడ.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "నేను నీతో యుద్ధ చెయ్యలేను అని సముద్రుడు అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "అప్పుడా దుందుభి 'నువ్వు నాతో యుద్ధం చెయ్యలేనంటే నేను నిన్ను వదలను, నాతో యుద్ధం చెయ్యగలిగిన వాడిని నాకు చూపించు' అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 6,
-    "id": "06.06",
-    "text": "అప్పుడా సముద్రుడు 'హిమవంతుడని ఉత్తర భారతదేశంలో ఒక పెద్ద పర్వతం ఉంది, అది మంచు పర్వతం.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 7,
-    "id": "06.07",
-    "text": "ఆయన కూతురు పార్వతీ దేవి, ఆ పార్వతీ దేవిని పరమశివుడికి ఇచ్చి వివాహం చేశారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 8,
-    "id": "06.08",
-    "text": "ఆయన మీద గొప్ప గొప్ప అరణ్యాలు, గుహలు ఉన్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 9,
-    "id": "06.09",
-    "text": "నువ్వు ఆ హిమవంతుడితో యుద్ధం చెయ్యి' అన్నాడు.",
+    "text": "మళ్ళి అక్కడ సంధ్యావందనం చేసి ఒకే దూకులో ఉత్తర సముద్రతీరం దగ్గర దిగుతాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -264,7 +129,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "అప్పుడా దుందుభి హిమవంత పర్వతం దగ్గరికి వెళ్ళి ఆ పర్వత శిఖరాలని పీకేసి ముక్కలు చేస్తున్నాడు.",
+    "text": "మళ్ళీ అక్కడ సంధ్యావందనం చేసి ఒకే దూకులో దక్షిణ దిక్కుకి దూకుతాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -273,79 +138,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "దుందుభి చేస్తున్న అల్లరికి హిమవంతుడు పరుగు పరుగున వచ్చాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 3,
-    "id": "07.03",
-    "text": "అప్పుడా దుందుభి హిమవంతుడిని యుద్ధానికి రమ్మన్నాడు, నాకు ఎవరితోనూ యుద్ధం చెయ్యాలని లేదు, నేను యుద్ధం చెయ్యను అని హిమవంతుడు అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "అప్పుడా దుందుభి 'నువ్వు కూడా ఇలాగంటే ఎలా.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 5,
-    "id": "07.05",
-    "text": "సముద్రుడు కూడా నీలాగే యుద్ధం చెయ్యనన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 6,
-    "id": "07.06",
-    "text": "పోనీ నాతో యుద్ధం చేసేవాడి పేరు చెప్పు' అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 7,
-    "id": "07.07",
-    "text": "అప్పుడు హిమవంతుడు 'నీ ఒంటి తీట తీర్చగలిగినవాడు ఒకడున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 8,
-    "id": "07.08",
-    "text": "కిష్కిందా రాజ్యాన్ని ఏలే వాలి ఉన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 9,
-    "id": "07.09",
-    "text": "మంచి బలవంతుడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 10,
-    "id": "07.10",
-    "text": "ఆయన నీతో యుద్ధం చేస్తాడు' అని చెప్పాడు.",
+    "text": "ఇలా నాలుగు సముద్రాల దగ్గర సూర్యుడు ఉదయించేలోపు సంధ్యావందనం చేస్తాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -354,97 +147,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "అప్పుడా దుందుభి సంతోషంగా కిష్కిందకి వెళ్ళి, అక్కడున్న చెట్లని విరిచి, ఆ కిష్కింద ద్వారాన్ని పగులగొట్టి పెద్ద అల్లరి చేశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 2,
-    "id": "08.02",
-    "text": "భార్యలతో కామమోహితుడై రమిస్తున్న వాలి ఈ అల్లరికి బయటకి వచ్చాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "ఆ దుందుభి వాలిని చూసి 'ఛి, భార్యలతో కామం అనుభవిస్తున్నావా.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "నా కోపాన్ని రేపటిదాకా ఆపుకుంటాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 5,
-    "id": "08.05",
-    "text": "పో, నీ భార్యలతో కామం అనుభవించు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 6,
-    "id": "08.06",
-    "text": "నువ్వు ఈ రాత్రి నీ భార్యలతో హాయిగా భోగం అనుభవించు, నీకు స్నేహితులైన వారిని పిలిచి వారికి కానుకలు ఇవ్వు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 7,
-    "id": "08.07",
-    "text": "నీతో సమానమైన వాడికి పట్టాభిషేకం చేసెయ్యి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 8,
-    "id": "08.08",
-    "text": "తాగి ఉన్నవాడిని, కామం అనుభవిస్తున్న వాడిని, అప్రమత్తంగా లేనివాడిని, యుద్ధం నుండి పారిపోతున్నవాడిని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 9,
-    "id": "08.09",
-    "text": "ఆయుధం లేనివాడిని చంపితే పసిపిల్లాడిని చంపిన పాపం వస్తుంది, అందుకని నేను నిన్ను వదిలేస్తున్నాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 10,
-    "id": "08.10",
-    "text": "ఎలాగోలా ఈ రాత్రికి ఇక్కడ కూర్చొని ఉంటాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 11,
-    "id": "08.11",
-    "text": "రేపు పొద్దున్న రా, నిన్ను చంపి అవతల పడేస్తాను' అన్నాడు.",
+    "text": "దానితో పాటు నీకు ఇంకొక విషయం చెబుతాను రామ అని రాముడిని తీసుకువెళ్ళి ఒక పర్వతాన్ని చూపించి, చూశావ ఈ పర్వతాలు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -453,7 +156,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "అప్పుడా వాలి 'నువ్వు నా గురించి అంతగా బెంగ పెట్టుకోమాకు.",
+    "text": "వాటికి ఎంత పెద్ద శిఖరాలు ఉన్నాయో చూశావ.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -462,70 +165,7 @@
     "scene": 9,
     "part": 2,
     "id": "09.02",
-    "text": "నేను తాగి ఉన్నా కూడా, అది వీరరసం తాగినవాడితో సమానం, రా యుద్ధానికి' అని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "అడ్డువచ్చిన భార్యలని పక్కకు తోసేసి దుందుభి మీదకి యుద్ధానికి వెళ్ళాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 4,
-    "id": "09.04",
-    "text": "ఇంద్రుడు ఇచ్చిన మాలని వాలి తన మెడలో వేసుకుని దుందుభి తల మీద ఒక్క గుద్దు గుద్దాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 5,
-    "id": "09.05",
-    "text": "ఆ దెబ్బకి దుందుభి ముక్కు నుండి, చెవుల నుండి నెత్తురు కారి కిందపడిపోయాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 6,
-    "id": "09.06",
-    "text": "ఆ హోరాహొరి యుద్ధంలో వాలి దుందుభిని సంహరించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 7,
-    "id": "09.07",
-    "text": "అప్పుడాయన ఆ దుందుభి శరీరాన్ని గిరగిర తిప్పుతూ విసిరేశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 8,
-    "id": "09.08",
-    "text": "అప్పుడది గాలిలో యోజన దూరం ఎగురుకుంటూ వెళ్ళి మతంగ మహర్షి ఆశ్రమం దగ్గర పడింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 9,
-    "id": "09.09",
-    "text": "అలా పడిపోవడంలో ఆశ్రమం అంతా నెత్తురితో తడిసిపోయింది.",
+    "text": "వాలి సంధ్యావందనం చేశాక ఇంటికి వెళ్ళి కొన్ని పాలు తాగి మళ్ళి ఈ అరణ్యానికి వస్తాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -534,7 +174,7 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "అప్పుడా మతంగ మహర్షి బయటకి వచ్చి దివ్య దృష్టితో చూసి 'ఎవడురా ఒళ్ళు కొవ్వెక్కి దుందుభి కళేబరాన్ని ఇటు విసిరినవాడు,",
+    "text": "ఇక్కడ ఉన్న ఈ పర్వత శిఖరాలని ఊపి విరగ్గొడతాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -543,34 +183,7 @@
     "scene": 10,
     "part": 2,
     "id": "10.02",
-    "text": "ఈ శరీరాన్ని విసిరిన దౌర్భాగ్యుడు ఇక్కడికి వస్తే వాడి తల వెయ్యి వ్రక్కలయ్యి మరణిస్తాడు' అని చెప్పి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 3,
-    "id": "10.03",
-    "text": "'ఇక్కడ మీరందరూ మీ ఇష్టం వచ్చినట్టు తిరుగుతున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 4,
-    "id": "10.04",
-    "text": "వాలికి సంబంధించినవాడు ఎవడైనా సరే ఇక్కడి చెట్లని పాడుచేస్తూ తిరిగితే, రేపటి తరువాత వారు మరణిస్తారని శపిస్తాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 5,
-    "id": "10.05",
-    "text": "నేను శపించే లోపల మీ అంతట మీరు ఇక్కడి నుండి వెళ్ళిపొండి' అన్నాడు.",
+    "text": "అప్పుడు వాటిని గాలిలోకి విసిరి బంతులు పట్టుకున్నట్టు పట్టుకుంటాడు\" అని చెప్పి, రాముడిని మరొక్క ప్రదేశానికి తీసుకువెళ్ళి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -579,7 +192,7 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
-    "text": "అప్పుడు అక్కడున్నటువంటి వానరాలు ఆ పర్వతాన్ని ఖాళీ చేసి వాలి దగ్గరికి పారిపోయి మతంగ మహర్షి యొక్క శాపం గురించి వివరించారు.",
+    "text": "\"పూర్వం దుందుభి అని ఒక రాక్షసుడు ఉండేవాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -588,43 +201,7 @@
     "scene": 11,
     "part": 2,
     "id": "11.02",
-    "text": "అందుకని వాలి ఈ పర్వతం వైపు కనీసం చూడను కూడా చూడడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 3,
-    "id": "11.03",
-    "text": "నేను బతకాలంటే ఈ బ్రహ్మాండంలో వాలి రాని ప్రదేశం ఇదే, అందుకని నేను ఇక్కడ ఉంటున్నాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 4,
-    "id": "11.04",
-    "text": "ఇంతకీ నేను నిన్ను ఇక్కడికి ఎందుకు తీసుకోచ్చానో తెలుసా, అదిగో అక్కడ ఎదురుగుండా కనపడుతుందే పెద్ద తెల్లటి పర్వతంలాంటిది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 5,
-    "id": "11.05",
-    "text": "అదే దుందుభి యొక్క కాయం.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 6,
-    "id": "11.06",
-    "text": "ఆ అస్థిపంజరం ఇప్పుడు పర్వతంలా అయిపోయింది\" అన్నాడు.",
+    "text": "వాడికి ఒంట్లో బలం ఉందన్న పొగరు చేత ఒకరోజు సముద్రుడి దగ్గరికి వెళ్ళి తనతో యుద్ధం చెయ్యమన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -633,7 +210,7 @@
     "scene": 12,
     "part": 1,
     "id": "12.01",
-    "text": "అప్పుడు సుగ్రీవుడు \"రామ!",
+    "text": "నీతో నాకు యుద్ధం ఏమిటి, నీ బలం ఎక్కడ నా బలం ఎక్కడ.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -642,97 +219,7 @@
     "scene": 12,
     "part": 2,
     "id": "12.02",
-    "text": "నేను ఇలా అంటున్నానని ఏమి అనుకోవద్దు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 3,
-    "id": "12.03",
-    "text": "మా వాలి పౌరుష పరాక్రమాలు అంటే ఏమిటో విన్నావు కదా.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 4,
-    "id": "12.04",
-    "text": "ఇది విన్న తరువాత కూడా నువ్వు వాలిని చంపగలను అని అనుకుంటున్నావా?",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 5,
-    "id": "12.05",
-    "text": "చంపగలిగే ధైర్యం ఉందా?",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 6,
-    "id": "12.06",
-    "text": "వాలి ఎన్నడూ ఎవరి చేత ఒడింపబడినవాడు కాదు, జీవితంలో ఓటమి అన్నది తెలీదు వాలికి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 7,
-    "id": "12.07",
-    "text": "వాలి పేరు చెబితేనే పారిపోతారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 8,
-    "id": "12.08",
-    "text": "15 సంవత్సరములు రాత్రి-పగలు గోలభుడు అనే గంధర్వుడితో యుద్ధం చేసి ఆయన్ని సంహరించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 9,
-    "id": "12.09",
-    "text": "నీను ఇంకొక విషయం చూపిస్తాను, ఇక్కడ 7 సాల వృక్షములు వరుసగా ఉన్నాయి కదా.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 10,
-    "id": "12.10",
-    "text": "మా వాలి రోజూ సంధ్యావందనం అయ్యాక ఇక్కడికి వచ్చి ఈ పెద్ద సాల వృక్షాన్ని చేతులతో కదుపుతాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 11,
-    "id": "12.11",
-    "text": "ఆ కుదుపుకి లేత చిగురుటాకులు కూడా రాలిపోయి ఆ చెట్టు మోడుగా నిలబడుతుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 12,
-    "id": "12.12",
-    "text": "వాలి బలం గురించి విన్నాక కూడా నీకు వాలిని చంపగలను అన్న ధైర్యం ఉందా రామ?\" అన్నాడు.",
+    "text": "నేను నీతో యుద్ధ చెయ్యలేను అని సముద్రుడు అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -741,6 +228,528 @@
     "scene": 13,
     "part": 1,
     "id": "13.01",
+    "text": "అప్పుడా దుందుభి 'నువ్వు నాతో యుద్ధం చెయ్యలేనంటే నేను నిన్ను వదలను, నాతో యుద్ధం చెయ్యగలిగిన వాడిని నాకు చూపించు' అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "అప్పుడా సముద్రుడు 'హిమవంతుడని ఉత్తర భారతదేశంలో ఒక పెద్ద పర్వతం ఉంది, అది మంచు పర్వతం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "ఆయన కూతురు పార్వతీ దేవి, ఆ పార్వతీ దేవిని పరమశివుడికి ఇచ్చి వివాహం చేశారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "ఆయన మీద గొప్ప గొప్ప అరణ్యాలు, గుహలు ఉన్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 3,
+    "id": "14.03",
+    "text": "నువ్వు ఆ హిమవంతుడితో యుద్ధం చెయ్యి' అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "అప్పుడా దుందుభి హిమవంత పర్వతం దగ్గరికి వెళ్ళి ఆ పర్వత శిఖరాలని పీకేసి ముక్కలు చేస్తున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "దుందుభి చేస్తున్న అల్లరికి హిమవంతుడు పరుగు పరుగున వచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "అప్పుడా దుందుభి హిమవంతుడిని యుద్ధానికి రమ్మన్నాడు, నాకు ఎవరితోనూ యుద్ధం చెయ్యాలని లేదు, నేను యుద్ధం చెయ్యను అని హిమవంతుడు అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "అప్పుడా దుందుభి 'నువ్వు కూడా ఇలాగంటే ఎలా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 3,
+    "id": "16.03",
+    "text": "సముద్రుడు కూడా నీలాగే యుద్ధం చెయ్యనన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "పోనీ నాతో యుద్ధం చేసేవాడి పేరు చెప్పు' అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "అప్పుడు హిమవంతుడు 'నీ ఒంటి తీట తీర్చగలిగినవాడు ఒకడున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 3,
+    "id": "17.03",
+    "text": "కిష్కిందా రాజ్యాన్ని ఏలే వాలి ఉన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 4,
+    "id": "17.04",
+    "text": "మంచి బలవంతుడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 5,
+    "id": "17.05",
+    "text": "ఆయన నీతో యుద్ధం చేస్తాడు' అని చెప్పాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "అప్పుడా దుందుభి సంతోషంగా కిష్కిందకి వెళ్ళి, అక్కడున్న చెట్లని విరిచి, ఆ కిష్కింద ద్వారాన్ని పగులగొట్టి పెద్ద అల్లరి చేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "భార్యలతో కామమోహితుడై రమిస్తున్న వాలి ఈ అల్లరికి బయటకి వచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "ఆ దుందుభి వాలిని చూసి 'ఛి, భార్యలతో కామం అనుభవిస్తున్నావా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "నా కోపాన్ని రేపటిదాకా ఆపుకుంటాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 3,
+    "id": "19.03",
+    "text": "పో, నీ భార్యలతో కామం అనుభవించు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "నువ్వు ఈ రాత్రి నీ భార్యలతో హాయిగా భోగం అనుభవించు, నీకు స్నేహితులైన వారిని పిలిచి వారికి కానుకలు ఇవ్వు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "నీతో సమానమైన వాడికి పట్టాభిషేకం చేసెయ్యి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 3,
+    "id": "20.03",
+    "text": "తాగి ఉన్నవాడిని, కామం అనుభవిస్తున్న వాడిని, అప్రమత్తంగా లేనివాడిని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "యుద్ధం నుండి పారిపోతున్నవాడిని, ఆయుధం లేనివాడిని చంపితే పసిపిల్లాడిని చంపిన పాపం వస్తుంది, అందుకని నేను నిన్ను వదిలేస్తున్నాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "ఎలాగోలా ఈ రాత్రికి ఇక్కడ కూర్చొని ఉంటాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 3,
+    "id": "21.03",
+    "text": "రేపు పొద్దున్న రా, నిన్ను చంపి అవతల పడేస్తాను' అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "అప్పుడా వాలి 'నువ్వు నా గురించి అంతగా బెంగ పెట్టుకోమాకు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "నేను తాగి ఉన్నా కూడా, అది వీరరసం తాగినవాడితో సమానం, రా యుద్ధానికి' అని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 3,
+    "id": "22.03",
+    "text": "అడ్డువచ్చిన భార్యలని పక్కకు తోసేసి దుందుభి మీదకి యుద్ధానికి వెళ్ళాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "ఇంద్రుడు ఇచ్చిన మాలని వాలి తన మెడలో వేసుకుని దుందుభి తల మీద ఒక్క గుద్దు గుద్దాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "ఆ దెబ్బకి దుందుభి ముక్కు నుండి, చెవుల నుండి నెత్తురు కారి కిందపడిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 2,
+    "id": "24.02",
+    "text": "ఆ హోరాహొరి యుద్ధంలో వాలి దుందుభిని సంహరించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 3,
+    "id": "24.03",
+    "text": "అప్పుడాయన ఆ దుందుభి శరీరాన్ని గిరగిర తిప్పుతూ విసిరేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
+    "text": "అప్పుడది గాలిలో యోజన దూరం ఎగురుకుంటూ వెళ్ళి మతంగ మహర్షి ఆశ్రమం దగ్గర పడింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 2,
+    "id": "25.02",
+    "text": "అలా పడిపోవడంలో ఆశ్రమం అంతా నెత్తురితో తడిసిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 1,
+    "id": "26.01",
+    "text": "అప్పుడా మతంగ మహర్షి బయటకి వచ్చి దివ్య దృష్టితో చూసి 'ఎవడురా ఒళ్ళు కొవ్వెక్కి దుందుభి కళేబరాన్ని ఇటు విసిరినవాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 1,
+    "id": "27.01",
+    "text": "ఈ శరీరాన్ని విసిరిన దౌర్భాగ్యుడు ఇక్కడికి వస్తే వాడి తల వెయ్యి వ్రక్కలయ్యి మరణిస్తాడు' అని చెప్పి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 2,
+    "id": "27.02",
+    "text": "'ఇక్కడ మీరందరూ మీ ఇష్టం వచ్చినట్టు తిరుగుతున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 1,
+    "id": "28.01",
+    "text": "వాలికి సంబంధించినవాడు ఎవడైనా సరే ఇక్కడి చెట్లని పాడుచేస్తూ తిరిగితే, రేపటి తరువాత వారు మరణిస్తారని శపిస్తాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 2,
+    "id": "28.02",
+    "text": "నేను శపించే లోపల మీ అంతట మీరు ఇక్కడి నుండి వెళ్ళిపొండి' అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 29,
+    "part": 1,
+    "id": "29.01",
+    "text": "అప్పుడు అక్కడున్నటువంటి వానరాలు ఆ పర్వతాన్ని ఖాళీ చేసి వాలి దగ్గరికి పారిపోయి మతంగ మహర్షి యొక్క శాపం గురించి వివరించారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 30,
+    "part": 1,
+    "id": "30.01",
+    "text": "అందుకని వాలి ఈ పర్వతం వైపు కనీసం చూడను కూడా చూడడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 30,
+    "part": 2,
+    "id": "30.02",
+    "text": "నేను బతకాలంటే ఈ బ్రహ్మాండంలో వాలి రాని ప్రదేశం ఇదే, అందుకని నేను ఇక్కడ ఉంటున్నాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 31,
+    "part": 1,
+    "id": "31.01",
+    "text": "ఇంతకీ నేను నిన్ను ఇక్కడికి ఎందుకు తీసుకోచ్చానో తెలుసా, అదిగో అక్కడ ఎదురుగుండా కనపడుతుందే పెద్ద తెల్లటి పర్వతంలాంటిది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 31,
+    "part": 2,
+    "id": "31.02",
+    "text": "అదే దుందుభి యొక్క కాయం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 31,
+    "part": 3,
+    "id": "31.03",
+    "text": "ఆ అస్థిపంజరం ఇప్పుడు పర్వతంలా అయిపోయింది\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 32,
+    "part": 1,
+    "id": "32.01",
+    "text": "అప్పుడు సుగ్రీవుడు \"రామ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 32,
+    "part": 2,
+    "id": "32.02",
+    "text": "నేను ఇలా అంటున్నానని ఏమి అనుకోవద్దు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 32,
+    "part": 3,
+    "id": "32.03",
+    "text": "మా వాలి పౌరుష పరాక్రమాలు అంటే ఏమిటో విన్నావు కదా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 32,
+    "part": 4,
+    "id": "32.04",
+    "text": "ఇది విన్న తరువాత కూడా నువ్వు వాలిని చంపగలను అని అనుకుంటున్నావా?",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 33,
+    "part": 1,
+    "id": "33.01",
+    "text": "చంపగలిగే ధైర్యం ఉందా?",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 33,
+    "part": 2,
+    "id": "33.02",
+    "text": "వాలి ఎన్నడూ ఎవరి చేత ఒడింపబడినవాడు కాదు, జీవితంలో ఓటమి అన్నది తెలీదు వాలికి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 33,
+    "part": 3,
+    "id": "33.03",
+    "text": "వాలి పేరు చెబితేనే పారిపోతారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 33,
+    "part": 4,
+    "id": "33.04",
+    "text": "15 సంవత్సరములు రాత్రి-పగలు గోలభుడు అనే గంధర్వుడితో యుద్ధం చేసి ఆయన్ని సంహరించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 34,
+    "part": 1,
+    "id": "34.01",
+    "text": "నీను ఇంకొక విషయం చూపిస్తాను, ఇక్కడ 7 సాల వృక్షములు వరుసగా ఉన్నాయి కదా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 34,
+    "part": 2,
+    "id": "34.02",
+    "text": "మా వాలి రోజూ సంధ్యావందనం అయ్యాక ఇక్కడికి వచ్చి ఈ పెద్ద సాల వృక్షాన్ని చేతులతో కదుపుతాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 35,
+    "part": 1,
+    "id": "35.01",
+    "text": "ఆ కుదుపుకి లేత చిగురుటాకులు కూడా రాలిపోయి ఆ చెట్టు మోడుగా నిలబడుతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 35,
+    "part": 2,
+    "id": "35.02",
+    "text": "వాలి బలం గురించి విన్నాక కూడా నీకు వాలిని చంపగలను అన్న ధైర్యం ఉందా రామ?\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 36,
+    "part": 1,
+    "id": "36.01",
     "text": "తర్వాత చూద్దాం — సుగ్రీవుడి సందేహానికి రాముడు ఇచ్చిన సమాధానం.",
     "complete_verse_block": false,
     "needs_timing_review": false,

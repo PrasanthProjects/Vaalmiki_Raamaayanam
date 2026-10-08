@@ -170,13 +170,21 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 18 — Scene 18
 
-**Visual:** [Janaka Visual Lock] speaking directly to Vishwamitra, and then reflecting on his own daughter's destiny fulfilled. (Location register: Janaka's royal court)
+**Visual:** [Janaka Visual Lock] speaking to [Vishwamitra Visual Lock] — you knew, and so you brought these boys; the broken bow behind them. (Location register: Janaka's royal court)
 
-**Story:** "అప్పుడు జనకుడు 'మహానుభావ విశ్వామిత్రా, నీకు తెలుసు, అందుకే ఈ పిల్లలు ఇద్దరినీ తీసుకొచ్చావు, రాముడు దశరథాత్మజుడు, ఈ సంఘటన అద్భుతం, ఊహించరానిది, ఎవరూ వాదించరానిది. సీతమ్మ మా వంశంలో జన్మించి, తగిన భర్తని పొంది మా వంశ గౌరవాన్ని నిలబెట్టింది' అన్నాడు."
+**Story:** "అప్పుడు జనకుడు 'మహానుభావ విశ్వామిత్రా, నీకు తెలుసు, అందుకే ఈ పిల్లలు ఇద్దరినీ తీసుకొచ్చావు, రాముడు దశరథాత్మజుడు, ఈ సంఘటన అద్భుతం, ఊహించరానిది, ఎవరూ వాదించరానిది.
 
 **Image:** Pending creation.
 
 ## 19 — Scene 19
+
+**Visual:** Janaka's thoughts turning to his daughter — a glimpse of [Sita Visual Lock], her destiny fulfilled. (Location register: Janaka's royal court)
+
+**Story:** సీతమ్మ మా వంశంలో జన్మించి, తగిన భర్తని పొంది మా వంశ గౌరవాన్ని నిలబెట్టింది' అన్నాడు."
+
+**Image:** Pending creation.
+
+## 20 — Scene 20
 
 **Visual:** [Vishwamitra Visual Lock] moving immediately and practically to next steps — messengers must be sent to Dasharatha at once. (Location register: Janaka's royal court)
 
@@ -186,7 +194,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** End the episode on this practical, forward-moving beat — the emotional climax has landed, and now the machinery of an actual royal wedding needs to begin; a deliberate tonal shift from awe to logistics closes the episode on anticipation for what's coming (Dasharatha's reaction).
 
-## 20 — Scene 20
+## 21 — Scene 21
 
 **Visual:** End card.
 

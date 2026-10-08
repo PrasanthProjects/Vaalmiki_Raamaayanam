@@ -20,9 +20,9 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 2 — Scene 02
 
-**Visual:** A massive procession setting out from Ayodhya; [Kaikeyi Visual Lock] shown departing first among everyone, ahead even of the main group — her earlier confidence and satisfaction from E2.32 now visibly gone, replaced with the dawning recognition of her mistake.
+**Visual:** A vast procession leaving Ayodhya; [Kaikeyi Visual Lock] setting out ahead of everyone.
 
-**Story:** అందరూ రాముడిని చేరుకోవడం కోసమని అయోధ్య నుండి బయలుదేరారు, కాని అందరి కంటే ముందు కైకేయ బయలుదేరింది, తాను ఎవరికోసమైతే ఈ పని చేసిందో ఆ భరతుడే తనని కాదన్నప్పుడు ఆమెను ఆవహించిన మోహం పోయింది, తన తప్పుని తెలుసుకుంది.
+**Story:** అందరూ రాముడిని చేరుకోవడం కోసమని అయోధ్య నుండి బయలుదేరారు, కాని అందరి కంటే ముందు కైకేయ బయలుదేరింది,
 
 **Image:** Pending creation.
 
@@ -30,25 +30,73 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 3 — Scene 03
 
-**Visual:** The full scale of the procession revealed: [hundreds of thousands of soldiers, generic army register] marching together, reaching the banks of the Ganga; [Guha Visual Lock] seeing the approaching force from a distance, its scale compared to an ocean arriving, marked by the kovidara-tree army standard.
+**Visual:** Close on Kaikeyi, her old confidence gone — her own son has refused her, and she sees her mistake.
 
-**Story:** అలా కొన్ని లక్షల సైన్యంతో బయలుదేరి వారు గంగా నదిని చేరుకున్నారు, అప్పుడు ఆ నిషాద రాజైన గుహుడు వాళ్ళని చూసేసరికి, ఒక పెద్ద సముద్రము వచ్చినట్టు, కోవిదార వృక్షము చిహ్నముగా ఉన్నటువంటి సైన్యం వచ్చి నిలబడింది.
+**Story:** తాను ఎవరికోసమైతే ఈ పని చేసిందో ఆ భరతుడే తనని కాదన్నప్పుడు ఆమెను ఆవహించిన మోహం పోయింది, తన తప్పుని తెలుసుకుంది.
+
+**Image:** Pending creation.
+
+## 4 — Scene 04
+
+**Visual:** Hundreds of thousands of soldiers reaching the bank of the Ganga; [Guha Visual Lock] watching from a distance.
+
+**Story:** అలా కొన్ని లక్షల సైన్యంతో బయలుదేరి వారు గంగా నదిని చేరుకున్నారు, అప్పుడు ఆ నిషాద రాజైన గుహుడు వాళ్ళని చూసేసరికి,
 
 **Image:** Pending creation.
 
 **Source note:** The "ocean arriving" simile calls for a genuinely epic-scale wide shot — this is easily the largest single gathering of people shown in the series so far, worth full visual grandeur; the specific detail of the kovidara-tree battle standard is a recognizable Ikshvaku royal emblem worth including precisely.
 
-## 4 — Scene 04
+## 5 — Scene 05
 
-**Visual:** [Guha Visual Lock] immediately suspicious, gathering his own kinsmen and warriors, laying out a serious, carefully reasoned military contingency plan — assuming the worst (that Bharata has come either to destroy Guha's own people, or to ambush and kill Rama and Lakshmana while they're undefended) and preparing 500 boats with 100 armed men each, ready to either ferry the visitors safely across or drown the army mid-river if his fears are confirmed.
+**Visual:** An army like an arriving ocean under the kovidara-tree standard.
 
-**Story:** అప్పుడు గుహుడు తన బంధువులని, సైన్యాన్ని, యువకులని పిలిచి "భరతుడు ఇంత సైన్యంతో వచ్చాడంటే, కచ్చితంగా మనందరినీ చంపడం కోసమైనా వచ్చి ఉండాలి, లేదా 14 సంవత్సరాల తరువాత రాముడు తిరిగి వస్తే ఆయన పరాక్రమము ముందు నిలబడలేనని, ఇదే అదునుగా ఒక్కడే ఉన్న రాముడిని, లక్ష్మణుడిని సంహరించడం కోసమైనా వచ్చి ఉండాలి, రాముడు నాకు పరమ మిత్రుడు, ఆయనని మనం రక్షించుకోవాలి, ఇంత పెద్ద సైన్యాన్ని మనం ఎదిరించలేము, కాకపోతే మన సహాయం లేకుండా వీళ్ళు ఎవరు గంగని దాటలేరు, అందుకని 500 పడవలని ఈ సైన్యం దాటడానికి సిద్ధం చెయ్యండి, మీరందరూ కూడా ఒక్కొక్క పడవలో 100 మంది చొప్పున కవచాలు కట్టుకొని, ఆయుధాలు పట్టుకొని నిలబడండి, నేను ఏమి ఎరుగనివాడిలా భరతుడి దగ్గరికి వెళ్ళి, 'నువ్వు రాముడిని కలుసుకోడానికి వెళుతున్నావా, రాముడిని సంహరించడానికి వెళుతున్నావా' అని అడుగుతాను, ఒకవేళ రాముడిని సంహరించడానికే భరతుడు వచ్చి ఉంటే, పడవలలో గంగని దాటిస్తామని చెప్పి, పడవ ఎక్కించి, గంగ మధ్యలో ముంచేద్దాము, ఒకవేళ రాముడిని కలుసుకోవడానికే భరతుడు వచ్చి ఉంటే, రాముడు ఎక్కడున్నాడో చెప్పి, నేను కూడా వెళతాను" అన్నాడు.
+**Story:** ఒక పెద్ద సముద్రము వచ్చినట్టు, కోవిదార వృక్షము చిహ్నముగా ఉన్నటువంటి సైన్యం వచ్చి నిలబడింది.
+
+**Image:** Pending creation.
+
+## 6 — Scene 06
+
+**Visual:** [Guha Visual Lock] gathering his kinsmen and young warriors, assuming the worst.
+
+**Story:** అప్పుడు గుహుడు తన బంధువులని, సైన్యాన్ని, యువకులని పిలిచి "భరతుడు ఇంత సైన్యంతో వచ్చాడంటే, కచ్చితంగా మనందరినీ చంపడం కోసమైనా వచ్చి ఉండాలి, లేదా 14 సంవత్సరాల తరువాత రాముడు తిరిగి వస్తే ఆయన పరాక్రమము ముందు నిలబడలేనని,
 
 **Image:** Pending creation.
 
 **Source note:** Guha's loyalty to Rama here is total and immediate, matching his warm devotion first established in E2.22 — but the plan itself is genuinely ruthless (mass drowning of an entire royal army in the river) if his suspicion proves correct; render this as a real, deadly serious contingency, not idle talk, since Guha means every word — the tension of this plan hanging over the next episode's actual meeting is worth preserving fully rather than defusing early.
 
-## 5 — Scene 05
+## 7 — Scene 07
+
+**Visual:** Guha — Rama is my dearest friend; we must protect him, though we cannot fight such a host.
+
+**Story:** ఇదే అదునుగా ఒక్కడే ఉన్న రాముడిని, లక్ష్మణుడిని సంహరించడం కోసమైనా వచ్చి ఉండాలి, రాముడు నాకు పరమ మిత్రుడు, ఆయనని మనం రక్షించుకోవాలి, ఇంత పెద్ద సైన్యాన్ని మనం ఎదిరించలేము,
+
+**Image:** Pending creation.
+
+## 8 — Scene 08
+
+**Visual:** Five hundred boats made ready, armed men boarding each.
+
+**Story:** కాకపోతే మన సహాయం లేకుండా వీళ్ళు ఎవరు గంగని దాటలేరు, అందుకని 500 పడవలని ఈ సైన్యం దాటడానికి సిద్ధం చెయ్యండి, మీరందరూ కూడా ఒక్కొక్క పడవలో 100 మంది చొప్పున కవచాలు కట్టుకొని,
+
+**Image:** Pending creation.
+
+## 9 — Scene 09
+
+**Visual:** Guha planning to question Bharata himself, feigning ignorance.
+
+**Story:** ఆయుధాలు పట్టుకొని నిలబడండి, నేను ఏమి ఎరుగనివాడిలా భరతుడి దగ్గరికి వెళ్ళి, 'నువ్వు రాముడిని కలుసుకోడానికి వెళుతున్నావా, రాముడిని సంహరించడానికి వెళుతున్నావా' అని అడుగుతాను, ఒకవేళ రాముడిని సంహరించడానికే భరతుడు వచ్చి ఉంటే,
+
+**Image:** Pending creation.
+
+## 10 — Scene 10
+
+**Visual:** The contingency — sink them mid-river if they mean harm; guide them himself if they come in love.
+
+**Story:** పడవలలో గంగని దాటిస్తామని చెప్పి, పడవ ఎక్కించి, గంగ మధ్యలో ముంచేద్దాము, ఒకవేళ రాముడిని కలుసుకోవడానికే భరతుడు వచ్చి ఉంటే, రాముడు ఎక్కడున్నాడో చెప్పి, నేను కూడా వెళతాను" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 11 — Scene 11
 
 **Visual:** [Guha Visual Lock] approaching Bharata's own encampment personally, carrying gifts as cover (meat, flowers, grains, roots, honey) to maintain the appearance of an ordinary welcome while quietly assessing the situation.
 
@@ -58,17 +106,25 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** A deliberate performance of normalcy masking real, armed readiness — Guha's outward warmth here should read as genuine hospitality on the surface while the audience, already briefed on his actual plan, understands the tension underneath.
 
-## 6 — Scene 06
+## 12 — Scene 12
 
-**Visual:** [Sumantra Visual Lock] recognizing Guha's arrival and quickly briefing Bharata — explaining that Guha will know exactly where Rama is, given the deep mutual bond between the two of them established during the earlier crossing.
+**Visual:** [Sumantra Visual Lock] seeing Guha approach and going in to brief Bharata.
 
-**Story:** గుహుడు రావడాన్ని చూసిన సుమంత్రుడు లోపలికి వెళ్ళి భరతుడితో "భరతా, నువ్వు రాముడు ఎక్కడున్నాడో అని వెతుకుతున్నావు కదా, రాముడు ఎక్కడున్నాడో గుహుడికి తెలుస్తుంది, రాముడికి గుహుడి మీద అపారమైన ప్రేమ, అలాగే గుహుడికి రాముడి మీద అపారమైన భక్తి" అని చెప్పగానే భరతుడు గుహుడిని లోపలికి ప్రవేశపెట్టమన్నాడు.
+**Story:** గుహుడు రావడాన్ని చూసిన సుమంత్రుడు లోపలికి వెళ్ళి భరతుడితో "భరతా, నువ్వు రాముడు ఎక్కడున్నాడో అని వెతుకుతున్నావు కదా, రాముడు ఎక్కడున్నాడో గుహుడికి తెలుస్తుంది,
 
 **Image:** Pending creation.
 
 **Source note:** Sumantra's account here directly confirms and reinforces the warmth established between Rama and Guha in E2.22 — this relationship, once a small character beat, now becomes practically significant as the key to locating Rama at all; a satisfying narrative payoff for that earlier episode.
 
-## 7 — Scene 07
+## 13 — Scene 13
+
+**Visual:** Sumantra speaking of the bond between Rama and Guha; Bharata having him shown in.
+
+**Story:** రాముడికి గుహుడి మీద అపారమైన ప్రేమ, అలాగే గుహుడికి రాముడి మీద అపారమైన భక్తి" అని చెప్పగానే భరతుడు గుహుడిని లోపలికి ప్రవేశపెట్టమన్నాడు.
+
+**Image:** Pending creation.
+
+## 14 — Scene 14
 
 **Visual:** End card.
 

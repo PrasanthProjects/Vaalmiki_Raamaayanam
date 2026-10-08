@@ -66,34 +66,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "పధ్నాలుగు సంవత్సరములు నువ్వు నారచీరలు కట్టుకొని, జటలు కట్టుకున్న తలతో ఒక తపస్వి ఎలా ఉంటాడో అలా నువ్వు అరణ్యవాసం చెయ్యాలని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 3,
-    "id": "05.03",
-    "text": "అదే ముహూర్తానికి భరతుడికి పట్టాభిషేకం చెయ్యాలని అడిగాను, అప్పటినుండి మీ నాన్న ఇలా పడిపోయి ఉన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "అందుకని రామ, ఈ రెండు కోరికలు నువ్వు తీరుస్తే మీ నాన్న సంతోషిస్తాడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "కాని నువ్వు ఈ కోరికలు తీరుస్తావో తీర్చవో అని మీ నాన్న బెంగపెట్టుకొని అలా ఉన్నాడు\" అని పలికింది.",
+    "text": "పధ్నాలుగు సంవత్సరములు నువ్వు నారచీరలు కట్టుకొని,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -102,7 +75,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "అప్పుడు రాముడు \"నాన్నగారు అడగడం, నేను చెయ్యకపోవడమా, తప్పకుండా చేసేస్తాను.",
+    "text": "జటలు కట్టుకున్న తలతో ఒక తపస్వి ఎలా ఉంటాడో అలా నువ్వు అరణ్యవాసం చెయ్యాలని,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -111,7 +84,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "నేను పధ్నాలుగు సంవత్సరములు అడవులకి వెళ్ళడానికి, భరతుడికి పట్టాభిషేకం చేయుటకు నాన్నగారు ఇంత బెంగ పెట్టుకోవాలా\" అన్నాడు.",
+    "text": "అదే ముహూర్తానికి భరతుడికి పట్టాభిషేకం చెయ్యాలని అడిగాను, అప్పటినుండి మీ నాన్న ఇలా పడిపోయి ఉన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -120,8 +93,17 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "అహం హి సీతాం రాజ్యం చ ప్రాణాన్ ఇష్టాన్ ధనాని చ । హృష్టః భ్రాత్రే స్వయం దద్యాం భరతాయ అప్రచోదితః ॥",
-    "complete_verse_block": true,
+    "text": "అందుకని రామ, ఈ రెండు కోరికలు నువ్వు తీరుస్తే మీ నాన్న సంతోషిస్తాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 2,
+    "id": "07.02",
+    "text": "కాని నువ్వు ఈ కోరికలు తీరుస్తావో తీర్చవో అని మీ నాన్న బెంగపెట్టుకొని అలా ఉన్నాడు\" అని పలికింది.",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -129,7 +111,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "\"భరతుడికి కావాలంటే రాజ్యం ఏమిటి, సీతని ఇస్తాను, ప్రాణాలు ఇస్తాను, ధనమంతా ఇస్తాను,",
+    "text": "అప్పుడు రాముడు \"నాన్నగారు అడగడం, నేను చెయ్యకపోవడమా, తప్పకుండా చేసేస్తాను.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -138,25 +120,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "భరతుడికి యువరాజు కావాలన్న కోరిక ఉందని నాకు తెలియక నేను యువరాజ పట్టాభిషేకానికి సిద్ధపడ్డాను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "తమ్ముడికి పట్టాభిషేకం అవుతున్నందుకు చాలా సంతోషంగా ఉందమ్మా, తప్పకుండా తమ్ముడికి పట్టాభిషేకం చేసెయ్యండి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "ఈ విషయం చెప్పడానికి నాన్నగారు అంత బాధ పడ్డారని తెలిసి నేను బాధపడుతున్నాను, ఆయన నన్ను అగ్నిలో దూకమన్నా దూకేస్తాను\" అన్నాడు.",
+    "text": "నేను పధ్నాలుగు సంవత్సరములు అడవులకి వెళ్ళడానికి, భరతుడికి పట్టాభిషేకం చేయుటకు నాన్నగారు ఇంత బెంగ పెట్టుకోవాలా\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -165,26 +129,8 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "అప్పుడు కైకేయ \"రామ, మీ నాన్న ఒక శపథం చేశాడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 2,
-    "id": "09.02",
-    "text": "అది ఏమిటంటే నువ్వు ఈ అయోధ్యా నగరం నుండి వెళ్ళేదాకా స్నానం చెయ్యను, భోజనం చెయ్యను అని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "కాబట్టి మీ నాన్నగారు సంతోషంగా ఉండాలంటే నువ్వు వెంటనే వెళ్ళిపోవాలి\" అని పలికింది.",
-    "complete_verse_block": false,
+    "text": "అహం హి సీతాం రాజ్యం చ ప్రాణాన్ ఇష్టాన్ ధనాని చ । హృష్టః భ్రాత్రే స్వయం దద్యాం భరతాయ అప్రచోదితః ॥",
+    "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -192,7 +138,16 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "అప్పుడు రాముడు —",
+    "text": "\"భరతుడికి కావాలంటే రాజ్యం ఏమిటి, సీతని ఇస్తాను, ప్రాణాలు ఇస్తాను, ధనమంతా ఇస్తాను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "భరతుడికి యువరాజు కావాలన్న కోరిక ఉందని నాకు తెలియక నేను యువరాజ పట్టాభిషేకానికి సిద్ధపడ్డాను,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -201,6 +156,60 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
+    "text": "తమ్ముడికి పట్టాభిషేకం అవుతున్నందుకు చాలా సంతోషంగా ఉందమ్మా, తప్పకుండా తమ్ముడికి పట్టాభిషేకం చేసెయ్యండి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "ఈ విషయం చెప్పడానికి నాన్నగారు అంత బాధ పడ్డారని తెలిసి నేను బాధపడుతున్నాను, ఆయన నన్ను అగ్నిలో దూకమన్నా దూకేస్తాను\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "అప్పుడు కైకేయ \"రామ, మీ నాన్న ఒక శపథం చేశాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "అది ఏమిటంటే నువ్వు ఈ అయోధ్యా నగరం నుండి వెళ్ళేదాకా స్నానం చెయ్యను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "భోజనం చెయ్యను అని, కాబట్టి మీ నాన్నగారు సంతోషంగా ఉండాలంటే నువ్వు వెంటనే వెళ్ళిపోవాలి\" అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "అప్పుడు రాముడు —",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
     "text": "తర్వాత చూద్దాం — రాముడు ఈ అదనపు కోరికకి కూడా ఎలా స్పందిస్తాడో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

@@ -27,19 +27,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 2,
-    "id": "02.02",
-    "text": "అప్పుడు రాముడు, సీతమ్మ వంటి మీద ఉన్న చీర మీదనే నారచీర ఎలా కట్టుకోవాలో కట్టి చూపించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "ఈ కైకేయ దురాగతాన్ని ఆపేవాడు ఎవరూ లేరా అని దశరథుడి 300 మంది భార్యలు గుండెలు బాదుకొని ఏడిచారు.",
+    "text": "అప్పుడు రాముడు, సీతమ్మ వంటి మీద ఉన్న చీర మీదనే నారచీర ఎలా కట్టుకోవాలో కట్టి చూపించాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -48,43 +39,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "అప్పుడు దశరథుడు \"కైకా, ఆమె జనకుని కూతురు, నాకు కోడలిగా వచ్చింది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 2,
-    "id": "04.02",
-    "text": "సీతమ్మని అరణ్యాలకి పంపమని నేను నీకు ఎన్నడూ వరం ఇవ్వలేదు, పతిని అనుగమించి ఆమె తన పాతివ్రత్యాన్ని చాటుకుంది\" అని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 3,
-    "id": "04.03",
-    "text": "తన కోశాధికారిని పిలిచి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "14 సంవత్సరాల పాటు సీతమ్మ ఒకే చీర కట్టుకోకుండా ఉండడానికి ఎన్ని చీరలు కావాలో అన్ని చీరలు తెప్పించాడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 5,
-    "id": "04.05",
-    "text": "అలాగే సీతమ్మ రోజూ పెట్టుకోడానికి నగలూ, రత్నములతో కూడిన ఆభరణములని తీసుకొని వచ్చి సీతమ్మకి ఇమ్మన్నాడు దశరథుడు.",
+    "text": "ఈ కైకేయ దురాగతాన్ని ఆపేవాడు ఎవరూ లేరా అని దశరథుడి 300 మంది భార్యలు గుండెలు బాదుకొని ఏడిచారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -93,7 +48,25 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "\"రామా, సీతమ్మకి నారచీర కట్టమాకు, ఆమె పట్టుచీరతోనే వస్తుంది\" అని వశిష్ఠుడు అన్నాడు.",
+    "text": "అప్పుడు దశరథుడు \"కైకా, ఆమె జనకుని కూతురు, నాకు కోడలిగా వచ్చింది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 2,
+    "id": "05.02",
+    "text": "సీతమ్మని అరణ్యాలకి పంపమని నేను నీకు ఎన్నడూ వరం ఇవ్వలేదు, పతిని అనుగమించి ఆమె తన పాతివ్రత్యాన్ని చాటుకుంది\" అని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 3,
+    "id": "05.03",
+    "text": "తన కోశాధికారిని పిలిచి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -102,7 +75,16 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "తరువాత వారు దశరథుడికి, కౌసల్యకి నమస్కారములు చేసి వెళ్ళిపోతుండగా, \"రామా\" అని పిలిచి, మళ్ళీ దశరథ మహారాజు మూర్ఛపోయాడు.",
+    "text": "14 సంవత్సరాల పాటు సీతమ్మ ఒకే చీర కట్టుకోకుండా ఉండడానికి ఎన్ని చీరలు కావాలో అన్ని చీరలు తెప్పించాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 6,
+    "part": 2,
+    "id": "06.02",
+    "text": "అలాగే సీతమ్మ రోజూ పెట్టుకోడానికి నగలూ, రత్నములతో కూడిన ఆభరణములని తీసుకొని వచ్చి సీతమ్మకి ఇమ్మన్నాడు దశరథుడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -111,16 +93,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "కొంతసేపటికి దశరథుడు తేరుకొని \"సుమంత్రా, రాజ్య సరిహద్దులు దాటే వరకు రాముడిని రథం మీద తీసుకువెళ్ళు\" అని అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 2,
-    "id": "07.02",
-    "text": "తరువాత కోశాధికారిని పిలిచి సీతమ్మ కట్టుకునే చీరలని, ఆభరణాలని రథంలో పెట్టమన్నాడు.",
+    "text": "\"రామా, సీతమ్మకి నారచీర కట్టమాకు, ఆమె పట్టుచీరతోనే వస్తుంది\" అని వశిష్ఠుడు అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -129,34 +102,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "అప్పుడు కౌసల్య సీతమ్మని కౌగలించుకొని ఇలా అని పలికింది — \"అమ్మ సీతా, నీకు తెలియనటువంటివి కావు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 2,
-    "id": "08.02",
-    "text": "అత్తగారిని కనుక ఆర్తితో చెప్తున్నాను, ఇవ్వాళ రాముడు యువరాజ పట్టాభిషేకం పొందవలసినవాడు, కాని నారచీర కట్టుకొని అరణ్యవాసానికి వెళుతున్నాడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "ఇలాంటి స్థితి పొందాడు కదా అని రాముడిని తక్కువగా చూడకు, అలాగే కుల స్త్రీకి స్వర్గం కన్నా, ధనం కన్నా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "ధాన్యం కన్నా పరమోత్కృష్టమైనవాడు భర్త ఒక్కడే\" అని పలికింది.",
+    "text": "తరువాత వారు దశరథుడికి, కౌసల్యకి నమస్కారములు చేసి వెళ్ళిపోతుండగా, \"రామా\" అని పిలిచి, మళ్ళీ దశరథ మహారాజు మూర్ఛపోయాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -165,8 +111,8 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "న అతంత్రీ వాద్యతే వీణా న అచక్రః వర్తతే రథః । న అపతిః సుఖం ఏధతే యా స్యాత్ అపి శత ఆత్మజా ॥",
-    "complete_verse_block": true,
+    "text": "కొంతసేపటికి దశరథుడు తేరుకొని \"సుమంత్రా, రాజ్య సరిహద్దులు దాటే వరకు రాముడిని రథం మీద తీసుకువెళ్ళు\" అని అన్నాడు.",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -174,34 +120,7 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "అప్పుడు సీతమ్మ \"మీరు చెప్పిన విషయాలన్నీ నేను పుట్టింట్లో తెలుసుకునే అత్తవారింటికి వచ్చాను, నేను మీ అబ్బాయిని ఎన్నడూ కష్టపెట్టను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 2,
-    "id": "10.02",
-    "text": "అరణ్యవాస క్లేశం తెలియకుండా, ఆయనని ఆదమరపింపచేసి, ఆనందింపచేయడానికే నేను వారితో వెళుతున్నాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 3,
-    "id": "10.03",
-    "text": "వీణలో ఉండే తీగలు లేకపోతే అసలు వీణే లేదు, చక్రం లేకపోతే అసలు రథమే లేదు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 4,
-    "id": "10.04",
-    "text": "నూరుగురు కుమారులు ఇచ్చే సుఖం కన్నా, భార్య భర్త దగ్గర పొందే సుఖం ముందు ఈ సుఖాలు సరిపోవు\" అని పలికింది.",
+    "text": "తరువాత కోశాధికారిని పిలిచి సీతమ్మ కట్టుకునే చీరలని, ఆభరణాలని రథంలో పెట్టమన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -210,7 +129,16 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
-    "text": "తరువాత లక్ష్మణుడు సుమిత్రకి ప్రదక్షిణ చేసి నమస్కారం చెయ్యగా, ఆవిడ ఇలా అని పలికింది —",
+    "text": "అప్పుడు కౌసల్య సీతమ్మని కౌగలించుకొని ఇలా అని పలికింది — \"అమ్మ సీతా, నీకు తెలియనటువంటివి కావు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "అత్తగారిని కనుక ఆర్తితో చెప్తున్నాను, ఇవ్వాళ రాముడు యువరాజ పట్టాభిషేకం పొందవలసినవాడు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -219,7 +147,7 @@
     "scene": 12,
     "part": 1,
     "id": "12.01",
-    "text": "\"నువ్వు అరణ్యవాసానికే జన్మించావు లక్ష్మణా, రాముడిని ప్రేమించేవారు ఇంత మంది ఉన్నా, తమ తమ సంసారాలని వదిలి ఎవరూ రాలేదు,",
+    "text": "కాని నారచీర కట్టుకొని అరణ్యవాసానికి వెళుతున్నాడు, ఇలాంటి స్థితి పొందాడు కదా అని రాముడిని తక్కువగా చూడకు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -228,7 +156,7 @@
     "scene": 12,
     "part": 2,
     "id": "12.02",
-    "text": "రాముడి కైంకర్యం చేసుకునే అదృష్టం నీకే దక్కింది, నువ్వు ఏమరపాటు లేకుండా సర్వకాలములయందు సీతారాములని రక్షిస్తూ ఉండు\" అని పలికింది.",
+    "text": "అలాగే కుల స్త్రీకి స్వర్గం కన్నా, ధనం కన్నా, ధాన్యం కన్నా పరమోత్కృష్టమైనవాడు భర్త ఒక్కడే\" అని పలికింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -237,17 +165,8 @@
     "scene": 13,
     "part": 1,
     "id": "13.01",
-    "text": "రామం దశరథం విద్ధి మాం విద్ధి జనక ఆత్మజాం । అయోధ్యాం అటవీం విద్ధి గచ్ఛ తాత యథా సుఖం ॥",
+    "text": "న అతంత్రీ వాద్యతే వీణా న అచక్రః వర్తతే రథః । న అపతిః సుఖం ఏధతే యా స్యాత్ అపి శత ఆత్మజా ॥",
     "complete_verse_block": true,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 2,
-    "id": "13.02",
-    "text": "\"లక్ష్మణా! నువ్వు రాముడిని నీ తండ్రి అనుకో, సీతమ్మని తల్లి అనుకో, వాళ్ళిద్దరూ ఉన్న అడవి అయోధ్య అనుకొని సుఖంగా పో.\"",
-    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -255,6 +174,87 @@
     "scene": 14,
     "part": 1,
     "id": "14.01",
+    "text": "అప్పుడు సీతమ్మ \"మీరు చెప్పిన విషయాలన్నీ నేను పుట్టింట్లో తెలుసుకునే అత్తవారింటికి వచ్చాను, నేను మీ అబ్బాయిని ఎన్నడూ కష్టపెట్టను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "అరణ్యవాస క్లేశం తెలియకుండా, ఆయనని ఆదమరపింపచేసి, ఆనందింపచేయడానికే నేను వారితో వెళుతున్నాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "వీణలో ఉండే తీగలు లేకపోతే అసలు వీణే లేదు, చక్రం లేకపోతే అసలు రథమే లేదు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "నూరుగురు కుమారులు ఇచ్చే సుఖం కన్నా, భార్య భర్త దగ్గర పొందే సుఖం ముందు ఈ సుఖాలు సరిపోవు\" అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "తరువాత లక్ష్మణుడు సుమిత్రకి ప్రదక్షిణ చేసి నమస్కారం చెయ్యగా, ఆవిడ ఇలా అని పలికింది —",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "\"నువ్వు అరణ్యవాసానికే జన్మించావు లక్ష్మణా, రాముడిని ప్రేమించేవారు ఇంత మంది ఉన్నా, తమ తమ సంసారాలని వదిలి ఎవరూ రాలేదు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "రాముడి కైంకర్యం చేసుకునే అదృష్టం నీకే దక్కింది, నువ్వు ఏమరపాటు లేకుండా సర్వకాలములయందు సీతారాములని రక్షిస్తూ ఉండు\" అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "రామం దశరథం విద్ధి మాం విద్ధి జనక ఆత్మజాం । అయోధ్యాం అటవీం విద్ధి గచ్ఛ తాత యథా సుఖం ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "\"లక్ష్మణా! నువ్వు రాముడిని నీ తండ్రి అనుకో, సీతమ్మని తల్లి అనుకో, వాళ్ళిద్దరూ ఉన్న అడవి అయోధ్య అనుకొని సుఖంగా పో.\"",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
     "text": "తర్వాత చూద్దాం — రాముడి రథం అయోధ్యని విడిచి బయలుదేరుతున్న దృశ్యం.",
     "complete_verse_block": false,
     "needs_timing_review": false,

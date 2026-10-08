@@ -12,7 +12,7 @@
 - A channel trailer / "About Puranamrutham" video where a host figure introduces the series
 - A thumbnail concept that wants a storyteller figure rather than a scene still
 - A "meet the narrator" or behind-the-scenes-style promotional asset
-- An optional silhouette/shadow cutaway during a spoken-aside/teaching moment (the kind flagged "narrator steps outside the story" in some episode Notes columns) — **only if** the production ever decides such moments deserve a visual beat; current episodes handle these with a framing shift instead (see e.g. `E2.01` scene 7 Notes), not a Narrator appearance
+- An optional silhouette/shadow cutaway during a spoken-aside/teaching moment (the kind flagged "narrator steps outside the story" in some episode Notes columns) — **only if** the production ever decides such moments deserve a visual beat; current episodes handle these with a framing shift instead (see e.g. `E2.01` scenes 9-10 Notes), not a Narrator appearance
 - Static "channel identity" artwork (not tied to any single episode)
 
 **Never use this inside an actual story episode's Visual prompt column.** Episodes stay 100% in-universe (Treta Yuga characters and settings only); the Narrator visual never appears mid-episode.

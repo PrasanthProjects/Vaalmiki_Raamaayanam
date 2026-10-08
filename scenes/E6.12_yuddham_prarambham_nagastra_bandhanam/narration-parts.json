@@ -27,37 +27,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 2,
-    "id": "02.02",
-    "text": "కనపడ్డ ప్రతి రాక్షసుడిని చంపేశారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 3,
-    "id": "02.03",
-    "text": "నాలుగు ద్వారాలనీ మూసి ఉంచారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "బయట ఉన్నవాళ్లు బయట ఉన్నవాళ్ళతో యుద్ధం చేస్తున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "అలా ఆ వానరములకు రాక్షసులకు యుద్ధం జరగబోయేముందు రాముడు అన్నాడు \"యుద్ధం చేస్తున్న రాక్షసులు కామరుపాన్ని పొందగలరు,",
+    "text": "కనపడ్డ ప్రతి రాక్షసుడిని చంపేశారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -66,7 +39,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "అలాగే వానరములలో కూడా కొంతమంది కామరుపాన్ని పొందగలరు.",
+    "text": "నాలుగు ద్వారాలనీ మూసి ఉంచారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -75,34 +48,7 @@
     "scene": 3,
     "part": 3,
     "id": "03.03",
-    "text": "ఎట్టి పరిస్థితులలోను మీరు మాత్రం కామ రూపాన్ని తీసుకోకండి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "ఏడుగురము మాత్రమే నర రూపంలో ఉండి యుద్ధం చేస్తాము.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 5,
-    "id": "03.05",
-    "text": "విభీషణుడు, ఆయన నలుగురు మంత్రులు నర రూపంలో ఉంటారు, నేను, లక్ష్మణుడు ఉంటాము.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 6,
-    "id": "03.06",
-    "text": "మిగిలినవారందరూ వానర రూపంలోనే ఉండండి\" అని చెప్పాడు.",
+    "text": "బయట ఉన్నవాళ్లు బయట ఉన్నవాళ్ళతో యుద్ధం చేస్తున్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -111,7 +57,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "ఆరోజున జరిగిన యుద్ధంలో వానరములు విశేషమైన బలాధిక్యతను ప్రదర్శించి అద్భుతమైన యుద్ధాన్ని చేశారు.",
+    "text": "అలా ఆ వానరములకు రాక్షసులకు యుద్ధం జరగబోయేముందు రాముడు అన్నాడు \"యుద్ధం చేస్తున్న రాక్షసులు కామరుపాన్ని పొందగలరు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -120,7 +66,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "ఆ సమయంలో రాక్షసులు ముసలాలు, ముద్గరాలు, శూలాలు, త్రిశూలాలు, కత్తులు,",
+    "text": "అలాగే వానరములలో కూడా కొంతమంది కామరుపాన్ని పొందగలరు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -129,70 +75,7 @@
     "scene": 4,
     "part": 3,
     "id": "04.03",
-    "text": "బరిసెలు వంటి ఆయుధములను పట్టుకొచ్చి కనపడ్డ వానరాన్ని కొట్టి చంపి తినేస్తున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "ఆ వానరములలో ఉన్న భల్లూకములు కనపడ్డ రాక్షసుడిని గట్టిగా కౌగలించుకుని మరీ తింటున్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 5,
-    "id": "04.05",
-    "text": "ఆ యుద్ధ సమయంలో ఎక్కడ చూసినా పట్టుకో, తన్ను, గుద్దు, నరుకు అనే కేకలే వినపడుతున్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 6,
-    "id": "04.06",
-    "text": "ఆ రాత్రంతా మహా భయంకరమైన యుద్ధం జరిగినది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 7,
-    "id": "04.07",
-    "text": "శిరస్సులు బంతులు ఎగిరినట్టు ఆకాశంలోకి ఎగిరాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 8,
-    "id": "04.08",
-    "text": "ఎక్కడ చూసినా చీలిపోయిన వక్షస్థలాలు, తెగిపోయిన పాదములు, చేతులు ఉన్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 9,
-    "id": "04.09",
-    "text": "ఆ ప్రాంతమంతా నెత్తుటితో బురదయ్యి యుద్ధం చేస్తుంటే పాదములు జారిపోతున్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 10,
-    "id": "04.10",
-    "text": "ఏనుగుల తొండాలు, పాదములు, గుర్రాల పాదములు మొదలైన శరీర భాగాలు ఆ యుద్ధ భూమిలో పడి ఉన్నాయి.",
+    "text": "ఎట్టి పరిస్థితులలోను మీరు మాత్రం కామ రూపాన్ని తీసుకోకండి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -201,7 +84,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "అటువంటి సమయంలో ఇంద్రజిత్ యుద్ధానికి వచ్చాడు.",
+    "text": "ఏడుగురము మాత్రమే నర రూపంలో ఉండి యుద్ధం చేస్తాము.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -210,7 +93,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "రథంలో వస్తున్న ఇంద్రజిత్ ని చూడగానే అంగదుడికి అపారమైన ఉత్సాహం వచ్చింది.",
+    "text": "విభీషణుడు, ఆయన నలుగురు మంత్రులు నర రూపంలో ఉంటారు, నేను, లక్ష్మణుడు ఉంటాము.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -219,43 +102,7 @@
     "scene": 5,
     "part": 3,
     "id": "05.03",
-    "text": "అప్పుడాయన ఒక పెద్ద పర్వత శిఖరాన్ని పట్టుకొచ్చి ఇంద్రజిత్ రథం మీద పారేశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "ఆ దెబ్బకి ఇంద్రజిత్ రథం మడిసిపోయింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "ఎప్పుడైతే ఎవ్వరూ ఊహించని విధంగా అంగదుడు ఆ ఇంద్రజిత్ యొక్క రథాన్ని, గుర్రాలని, ఛత్రాన్ని విరిగిపోయేటట్టు కొట్టాడో,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 6,
-    "id": "05.06",
-    "text": "ఆ సంఘటనని చూసి దేవతలు, రామ లక్ష్మణులు కూడా ఆశ్చర్యపోయారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 7,
-    "id": "05.07",
-    "text": "ఇంద్రజిత్ జీవితంలో ఇప్పటిదాకా ఆయన రథాన్ని కొట్టినవాడు లేడు.",
+    "text": "మిగిలినవారందరూ వానర రూపంలోనే ఉండండి\" అని చెప్పాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -264,7 +111,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "తన రథం విరిగిపోయేసరికి ఇంద్రజిత్ కి ఎక్కడలేని ఆగ్రహం వచ్చి ఆకాశంలోకి ఎగిరి అంతర్ధానం అయిపోయాడు.",
+    "text": "ఆరోజున జరిగిన యుద్ధంలో వానరములు విశేషమైన బలాధిక్యతను ప్రదర్శించి అద్భుతమైన యుద్ధాన్ని చేశారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -273,7 +120,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "అప్పుడాయన మాయ చేత మంత్రములను అభిమంత్రించగానే చీకటి అలుముకుంది.",
+    "text": "ఆ సమయంలో రాక్షసులు ముసలాలు, ముద్గరాలు, శూలాలు, త్రిశూలాలు, కత్తులు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -282,43 +129,7 @@
     "scene": 6,
     "part": 3,
     "id": "06.03",
-    "text": "తరువాత మాయ చేత సృష్టింపబడిన ఒక దివ్యమైన రథాన్ని ఎక్కి, ఆకాశంలో ఎవరికీ కనపడకుండా ఉండి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "రామలక్ష్మణుల మీద బాణ పరంపర కురిపించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "కద్రువ యొక్క కుమారులైన సర్పాలని ఇంద్రజిత్ బాణములుగా వేశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 6,
-    "id": "06.06",
-    "text": "అవి బాణములుగా వచ్చి కొడతాయి, సర్పాలుగా చుట్టుకుని మర్మ స్థానములయందు కరుస్తుంటాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 7,
-    "id": "06.07",
-    "text": "ఇంద్రజిత్ విడిచిపెట్టిన ఆ బాణములు రామలక్ష్మణులని నాగాస్త్ర బంధనంగా చుట్టేసింది.",
+    "text": "బరిసెలు వంటి ఆయుధములను పట్టుకొచ్చి కనపడ్డ వానరాన్ని కొట్టి చంపి తినేస్తున్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -327,7 +138,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "అప్పుడు రాముడు లక్ష్మణుడితో \"లక్ష్మణా!",
+    "text": "ఆ వానరములలో ఉన్న భల్లూకములు కనపడ్డ రాక్షసుడిని గట్టిగా కౌగలించుకుని మరీ తింటున్నాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -336,79 +147,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "మనం ఇప్పుడు ఈ ఇంద్రజిత్ ని ఏమి చెయ్యలేము.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 3,
-    "id": "07.03",
-    "text": "ఆబోతు వర్షాన్ని ఎలా భరిస్తుందో అలా మనం కూడా ఈ బాణాలని వహించడమే కొంతసేపు\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "తరువాత రాముడు మూర్చపోయి కిందపడిపోయాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 5,
-    "id": "07.05",
-    "text": "ఓర్చుకుని నిలబడ్డ లక్ష్మణుడు రాముడి వంక చూసి ఏడుస్తూ 'ఏ మహానుభావుడిని ఎవ్వరూ యుద్ధ భూమిలో నిగ్రహించలేరో,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 6,
-    "id": "07.06",
-    "text": "ఎవరు విశ్వామిత్రుడి దగ్గర ధనుర్వేదాన్ని ఉపదేశం పొందాడో,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 7,
-    "id": "07.07",
-    "text": "ఏ మహానుభావుడు భార్యను విడిపించుకోడానికి ఈ లంకా పట్టణానికి వచ్చాడో అటువంటి రాముడు ఇవ్వాళ నాగాస్త్ర బంధనం చేత కట్టబడి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 8,
-    "id": "07.08",
-    "text": "ఉత్సాహము ఉపసమించి, భూమి మీద పడి ప్రాణములను విడిచిపెట్టాడు' అని అనుకున్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 9,
-    "id": "07.09",
-    "text": "తరువాత లక్ష్మణుడు కూడా కిందపడిపోయాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 10,
-    "id": "07.10",
-    "text": "రాముడు పట్టుకున్న కోదండం చేతిలోనుండి వదులయిపోయి దూరంగా పడిపోయింది.",
+    "text": "ఆ యుద్ధ సమయంలో ఎక్కడ చూసినా పట్టుకో, తన్ను, గుద్దు, నరుకు అనే కేకలే వినపడుతున్నాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -417,16 +156,16 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "రామలక్ష్మణుల వేళ్ళ యొక్క చివరి భాగాల నుండి శరీరం అంతా అంగుళం చోటు లేకుండా ఇంద్రజిత్ బాణాలతో కొట్టి \"మీ వలన నా తండ్రి ఎన్నో రాత్రులు పాన్పు మీద నిద్రపోకుండా అటు ఇటూ దొర్లాడు.",
+    "text": "ఆ రాత్రంతా మహా భయంకరమైన యుద్ధం జరిగినది.",
     "complete_verse_block": false,
-    "needs_timing_review": true,
+    "needs_timing_review": false,
     "seconds": null
   },
   {
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "ఏ రామలక్ష్మణుల వలన ఈ లంకా పట్టణం పీడింపబడిందో, ఏ రామలక్ష్మణుల వలన మా తండ్రి నిద్రపోలేదో,",
+    "text": "శిరస్సులు బంతులు ఎగిరినట్టు ఆకాశంలోకి ఎగిరాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -435,34 +174,7 @@
     "scene": 8,
     "part": 3,
     "id": "08.03",
-    "text": "అటువంటి తండ్రి ఋణం తీర్చుకోడానికి ఈ రామలక్ష్మణుల ప్రాణములు పోయే వరకూ కొడతాను\" అని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "వారి యొక్క మర్మస్థానములలో గురి చూసి వజ్రములవంటి బాణములతో కొట్టాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 5,
-    "id": "08.05",
-    "text": "అప్పుడు రాముడు మెల్లగా బాహ్య స్మృతిని కూడా కోల్పోయి భూమి మీద ఒరిగిపోయాడు, లక్ష్మణుడు కూడా ఒరిగిపోయాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 6,
-    "id": "08.06",
-    "text": "అలా రామలక్ష్మణులు పడిపోగానే చుట్టూ ఉన్న వానర నాయకులు అక్కడికి వచ్చారు.",
+    "text": "ఎక్కడ చూసినా చీలిపోయిన వక్షస్థలాలు, తెగిపోయిన పాదములు, చేతులు ఉన్నాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -471,7 +183,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "అప్పుడు ఇంద్రజిత్ హనుమని, ఋషభుడిని, వేగదర్సిని, విభీషణుడిని, సుషేనుడిని, గంధమాధనుడిని బాణాలతో కొట్టి, వానర సైన్యం అంతటినీ కలచి వేశాడు.",
+    "text": "ఆ ప్రాంతమంతా నెత్తుటితో బురదయ్యి యుద్ధం చేస్తుంటే పాదములు జారిపోతున్నాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -480,16 +192,7 @@
     "scene": 9,
     "part": 2,
     "id": "09.02",
-    "text": "ఆ సమయంలో వానరాలు ఎటు వెళుతున్నారో, ఎవరి మీద నుండి దాటుతున్నారో, ఎవరిని తొక్కుతున్నారో,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "ఎవరిని ఈడ్చేస్తున్నారో అని చూసుకోకుండా దిక్కులు పట్టి పారిపోయారు.",
+    "text": "ఏనుగుల తొండాలు, పాదములు, గుర్రాల పాదములు మొదలైన శరీర భాగాలు ఆ యుద్ధ భూమిలో పడి ఉన్నాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -498,6 +201,303 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
+    "text": "అటువంటి సమయంలో ఇంద్రజిత్ యుద్ధానికి వచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "రథంలో వస్తున్న ఇంద్రజిత్ ని చూడగానే అంగదుడికి అపారమైన ఉత్సాహం వచ్చింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "అప్పుడాయన ఒక పెద్ద పర్వత శిఖరాన్ని పట్టుకొచ్చి ఇంద్రజిత్ రథం మీద పారేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "ఆ దెబ్బకి ఇంద్రజిత్ రథం మడిసిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "ఎప్పుడైతే ఎవ్వరూ ఊహించని విధంగా అంగదుడు ఆ ఇంద్రజిత్ యొక్క రథాన్ని, గుర్రాలని, ఛత్రాన్ని విరిగిపోయేటట్టు కొట్టాడో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "ఆ సంఘటనని చూసి దేవతలు, రామ లక్ష్మణులు కూడా ఆశ్చర్యపోయారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 3,
+    "id": "12.03",
+    "text": "ఇంద్రజిత్ జీవితంలో ఇప్పటిదాకా ఆయన రథాన్ని కొట్టినవాడు లేడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "తన రథం విరిగిపోయేసరికి ఇంద్రజిత్ కి ఎక్కడలేని ఆగ్రహం వచ్చి ఆకాశంలోకి ఎగిరి అంతర్ధానం అయిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "అప్పుడాయన మాయ చేత మంత్రములను అభిమంత్రించగానే చీకటి అలుముకుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "తరువాత మాయ చేత సృష్టింపబడిన ఒక దివ్యమైన రథాన్ని ఎక్కి, ఆకాశంలో ఎవరికీ కనపడకుండా ఉండి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "రామలక్ష్మణుల మీద బాణ పరంపర కురిపించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "కద్రువ యొక్క కుమారులైన సర్పాలని ఇంద్రజిత్ బాణములుగా వేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "అవి బాణములుగా వచ్చి కొడతాయి, సర్పాలుగా చుట్టుకుని మర్మ స్థానములయందు కరుస్తుంటాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 3,
+    "id": "15.03",
+    "text": "ఇంద్రజిత్ విడిచిపెట్టిన ఆ బాణములు రామలక్ష్మణులని నాగాస్త్ర బంధనంగా చుట్టేసింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "అప్పుడు రాముడు లక్ష్మణుడితో \"లక్ష్మణా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "మనం ఇప్పుడు ఈ ఇంద్రజిత్ ని ఏమి చెయ్యలేము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 3,
+    "id": "16.03",
+    "text": "ఆబోతు వర్షాన్ని ఎలా భరిస్తుందో అలా మనం కూడా ఈ బాణాలని వహించడమే కొంతసేపు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "తరువాత రాముడు మూర్చపోయి కిందపడిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "ఓర్చుకుని నిలబడ్డ లక్ష్మణుడు రాముడి వంక చూసి ఏడుస్తూ 'ఏ మహానుభావుడిని ఎవ్వరూ యుద్ధ భూమిలో నిగ్రహించలేరో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 3,
+    "id": "17.03",
+    "text": "ఎవరు విశ్వామిత్రుడి దగ్గర ధనుర్వేదాన్ని ఉపదేశం పొందాడో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "ఏ మహానుభావుడు భార్యను విడిపించుకోడానికి ఈ లంకా పట్టణానికి వచ్చాడో అటువంటి రాముడు ఇవ్వాళ నాగాస్త్ర బంధనం చేత కట్టబడి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "ఉత్సాహము ఉపసమించి, భూమి మీద పడి ప్రాణములను విడిచిపెట్టాడు' అని అనుకున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "తరువాత లక్ష్మణుడు కూడా కిందపడిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "రాముడు పట్టుకున్న కోదండం చేతిలోనుండి వదులయిపోయి దూరంగా పడిపోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "రామలక్ష్మణుల వేళ్ళ యొక్క చివరి భాగాల నుండి శరీరం అంతా అంగుళం చోటు లేకుండా ఇంద్రజిత్ బాణాలతో కొట్టి \"మీ వలన నా తండ్రి ఎన్నో రాత్రులు పాన్పు మీద నిద్రపోకుండా అటు ఇటూ దొర్లాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": true,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "ఏ రామలక్ష్మణుల వలన ఈ లంకా పట్టణం పీడింపబడిందో, ఏ రామలక్ష్మణుల వలన మా తండ్రి నిద్రపోలేదో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "అటువంటి తండ్రి ఋణం తీర్చుకోడానికి ఈ రామలక్ష్మణుల ప్రాణములు పోయే వరకూ కొడతాను\" అని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "వారి యొక్క మర్మస్థానములలో గురి చూసి వజ్రములవంటి బాణములతో కొట్టాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "అప్పుడు రాముడు మెల్లగా బాహ్య స్మృతిని కూడా కోల్పోయి భూమి మీద ఒరిగిపోయాడు, లక్ష్మణుడు కూడా ఒరిగిపోయాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 2,
+    "id": "23.02",
+    "text": "అలా రామలక్ష్మణులు పడిపోగానే చుట్టూ ఉన్న వానర నాయకులు అక్కడికి వచ్చారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "అప్పుడు ఇంద్రజిత్ హనుమని, ఋషభుడిని, వేగదర్సిని, విభీషణుడిని, సుషేనుడిని, గంధమాధనుడిని బాణాలతో కొట్టి, వానర సైన్యం అంతటినీ కలచి వేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
+    "text": "ఆ సమయంలో వానరాలు ఎటు వెళుతున్నారో, ఎవరి మీద నుండి దాటుతున్నారో, ఎవరిని తొక్కుతున్నారో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 2,
+    "id": "25.02",
+    "text": "ఎవరిని ఈడ్చేస్తున్నారో అని చూసుకోకుండా దిక్కులు పట్టి పారిపోయారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 1,
+    "id": "26.01",
     "text": "తర్వాత చూద్దాం — సీతమ్మకి యుద్ధ భూమిని చూపించిన రావణుడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,

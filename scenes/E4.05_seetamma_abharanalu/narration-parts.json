@@ -36,56 +36,29 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 3,
-    "id": "02.03",
+    "scene": 3,
+    "part": 1,
+    "id": "03.01",
     "text": "తరువాత ఆయన తేరుకొని ఆ ఆభరణాలని చూద్దాము అంటే కళ్ళనిండా నీరు ఉండడం చేత,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
+    "scene": 3,
+    "part": 2,
+    "id": "03.02",
     "text": "ఎన్నిసార్లు తుడుచుకున్నా ఆ కన్నీరు ఆగడంలేదు కనుక ఆయన లక్ష్మణుడిని పిలిచి \"లక్ష్మణా!",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
+    "scene": 3,
+    "part": 3,
+    "id": "03.03",
     "text": "ఈ ఆభారణాలని ఒక్కసారి చూడు.",
     "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 6,
-    "id": "02.06",
-    "text": "ఇవి విరిగిపోయి ముక్కలు అవ్వలేదు, సీత ఈ ఆభరణాలని విడిచిపెట్టినప్పుడు ఇవి గడ్డి మీద పడిఉంటాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 7,
-    "id": "02.07",
-    "text": "నువ్వు వీటిని ఒకసారి చూడు\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 1,
-    "id": "03.01",
-    "text": "న అహం జానామి కేయూరే న అహం జానామి కుండలే । నూపురే తు అభిజనామి నిత్యం పాద అభివందనాత్ ॥",
-    "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -93,7 +66,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "అప్పుడు లక్ష్మణుడు \"అన్నయ్యా!",
+    "text": "ఇవి విరిగిపోయి ముక్కలు అవ్వలేదు, సీత ఈ ఆభరణాలని విడిచిపెట్టినప్పుడు ఇవి గడ్డి మీద పడిఉంటాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -102,34 +75,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "ఈ కేయూరాలు వదిన పెట్టుకుందో లేదో నాకు తెలీదు, ఈ కుండలాలు వదిన పెట్టుకుందో లేదో నాకు తెలీదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 3,
-    "id": "04.03",
-    "text": "అన్నయ్యా!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "ఈ నూపురాలు మాత్రం వదినవే.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 5,
-    "id": "04.05",
-    "text": "నేను ప్రతిరోజు వదిన కాళ్ళకి నమస్కారం పెట్టేవాడిని, అప్పుడు ఈ నూపురాలని వదిన పాదాలకి చూశాను\" అన్నాడు.",
+    "text": "నువ్వు వీటిని ఒకసారి చూడు\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -138,53 +84,8 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "అప్పుడు సుగ్రీవుడి రాముడితో \"అయ్యయ్యో, అలా ఏడవకు రామ.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 2,
-    "id": "05.02",
-    "text": "నేను కూడా నీలాగే కష్టపడుతున్నాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 3,
-    "id": "05.03",
-    "text": "నువ్వే ఆలోచించు, నేను నీలా ఏడుస్తున్నాన?",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "నీలాగే నా భార్య కూడా అపహరింపబడింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "నీకు చెప్పగలిగేంత సమర్దుడిని కాదు, కాని ఒక్కసారి నీకు జ్ఞాపకం చేద్దామని స్నేహ లక్షణంతో చెప్పాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 6,
-    "id": "05.06",
-    "text": "నీ యొక్క దుఃఖాన్ని ఉపశమింప చేసుకో, నాయందు ఉన్న స్నేహాన్ని జ్ఞాపకం చేసుకో\" అన్నాడు.",
-    "complete_verse_block": false,
+    "text": "న అహం జానామి కేయూరే న అహం జానామి కుండలే । నూపురే తు అభిజనామి నిత్యం పాద అభివందనాత్ ॥",
+    "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -192,7 +93,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "వెంటనే రాముడు స్వస్థతని పొంది \"ఉత్తమమైన మిత్రుడు ఎటువంటి మాట చెప్పాలో అటువంటి మాట చెప్పావయ్య సుగ్రీవా.",
+    "text": "అప్పుడు లక్ష్మణుడు \"అన్నయ్యా!",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -201,16 +102,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "కాని నాకు ఒక విషయం చెప్పు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "ఈ రాక్షసుడు ఎక్కడ ఉంటాడో నాకు చెప్పు, నేను వెంటనే వెళ్ళి రాక్షస సంహారం చేస్తాను\" అన్నాడు.",
+    "text": "ఈ కేయూరాలు వదిన పెట్టుకుందో లేదో నాకు తెలీదు, ఈ కుండలాలు వదిన పెట్టుకుందో లేదో నాకు తెలీదు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -219,7 +111,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "అప్పుడు సుగ్రీవుడు \"నేను సత్యం చెబుతున్నాను, నా మాట నమ్ము.",
+    "text": "అన్నయ్యా!",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -228,7 +120,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "నీ భార్యను తీసుకొచ్చే పూచి నాది.",
+    "text": "ఈ నూపురాలు మాత్రం వదినవే.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -237,25 +129,7 @@
     "scene": 7,
     "part": 3,
     "id": "07.03",
-    "text": "కాని నీ భార్యను అపహరించిన రాక్షసుడి పేరు నాకు తెలీదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "ఎక్కడుంటాడో నాకు తెలీదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 5,
-    "id": "07.05",
-    "text": "నువ్వు బెంగ పెట్టుకోవద్దు, ముందు నా కార్యానికి సహాయం చెయ్యి\" అన్నాడు.",
+    "text": "నేను ప్రతిరోజు వదిన కాళ్ళకి నమస్కారం పెట్టేవాడిని, అప్పుడు ఈ నూపురాలని వదిన పాదాలకి చూశాను\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -264,7 +138,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "అప్పుడు రాముడు \"ఆ వాలి ఎక్కడ ఉంటాడో చెప్పు, నేను వెంటనే సంహరిస్తాను.",
+    "text": "అప్పుడు సుగ్రీవుడి రాముడితో \"అయ్యయ్యో, అలా ఏడవకు రామ.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -273,7 +147,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "ఇంతకముందెన్నడు నేను అసత్యం పలకలేదు, ఇక ముందు కూడా అసత్యం పలకను.",
+    "text": "నేను కూడా నీలాగే కష్టపడుతున్నాను.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -282,7 +156,16 @@
     "scene": 8,
     "part": 3,
     "id": "08.03",
-    "text": "నీకు మాట ఇచ్చిన ప్రకారం వాలిని సంహరిస్తాను\" అన్నాడు.",
+    "text": "నువ్వే ఆలోచించు, నేను నీలా ఏడుస్తున్నాన?",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 4,
+    "id": "08.04",
+    "text": "నీలాగే నా భార్య కూడా అపహరింపబడింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -291,7 +174,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "ఈ మాటలు విన్న సుగ్రీవుడు \"నువ్వు ఇంత మాట అన్నావు, నాకు ఇంకేమి కావాలి.",
+    "text": "నీకు చెప్పగలిగేంత సమర్దుడిని కాదు, కాని ఒక్కసారి నీకు జ్ఞాపకం చేద్దామని స్నేహ లక్షణంతో చెప్పాను.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -300,7 +183,7 @@
     "scene": 9,
     "part": 2,
     "id": "09.02",
-    "text": "నీలాంటి స్నేహితుడు లభిస్తే స్వర్గలోకమే లభిస్తుంది, ఇక వానర రాజ్యం లభించడం గొప్ప విషయమా\" అన్నాడు.",
+    "text": "నీ యొక్క దుఃఖాన్ని ఉపశమింప చేసుకో, నాయందు ఉన్న స్నేహాన్ని జ్ఞాపకం చేసుకో\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -309,25 +192,7 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "అప్పుడు రాముడు \"అసలు ఏమి జరిగిందో నాకు చెప్పు, నువ్వు ఈ కొండ మీద బతకవలసిన అవసరం ఎందుకు ఏర్పడింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 2,
-    "id": "10.02",
-    "text": "నాకు అన్నీ వివరంగా చెప్పు\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 3,
-    "id": "10.03",
-    "text": "అప్పుడు సుగ్రీవుడు జరిగిన కథని సంగ్రహంగా రాముడికి వివరించాడు.",
+    "text": "వెంటనే రాముడు స్వస్థతని పొంది \"ఉత్తమమైన మిత్రుడు ఎటువంటి మాట చెప్పాలో అటువంటి మాట చెప్పావయ్య సుగ్రీవా.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -336,6 +201,141 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
+    "text": "కాని నాకు ఒక విషయం చెప్పు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "ఈ రాక్షసుడు ఎక్కడ ఉంటాడో నాకు చెప్పు, నేను వెంటనే వెళ్ళి రాక్షస సంహారం చేస్తాను\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "అప్పుడు సుగ్రీవుడు \"నేను సత్యం చెబుతున్నాను, నా మాట నమ్ము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "నీ భార్యను తీసుకొచ్చే పూచి నాది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "కాని నీ భార్యను అపహరించిన రాక్షసుడి పేరు నాకు తెలీదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "ఎక్కడుంటాడో నాకు తెలీదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 3,
+    "id": "13.03",
+    "text": "నువ్వు బెంగ పెట్టుకోవద్దు, ముందు నా కార్యానికి సహాయం చెయ్యి\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "అప్పుడు రాముడు \"ఆ వాలి ఎక్కడ ఉంటాడో చెప్పు, నేను వెంటనే సంహరిస్తాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "ఇంతకముందెన్నడు నేను అసత్యం పలకలేదు, ఇక ముందు కూడా అసత్యం పలకను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 3,
+    "id": "14.03",
+    "text": "నీకు మాట ఇచ్చిన ప్రకారం వాలిని సంహరిస్తాను\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "ఈ మాటలు విన్న సుగ్రీవుడు \"నువ్వు ఇంత మాట అన్నావు, నాకు ఇంకేమి కావాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "నీలాంటి స్నేహితుడు లభిస్తే స్వర్గలోకమే లభిస్తుంది, ఇక వానర రాజ్యం లభించడం గొప్ప విషయమా\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "అప్పుడు రాముడు \"అసలు ఏమి జరిగిందో నాకు చెప్పు, నువ్వు ఈ కొండ మీద బతకవలసిన అవసరం ఎందుకు ఏర్పడింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "నాకు అన్నీ వివరంగా చెప్పు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 3,
+    "id": "16.03",
+    "text": "అప్పుడు సుగ్రీవుడు జరిగిన కథని సంగ్రహంగా రాముడికి వివరించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
     "text": "తర్వాత చూద్దాం — వాలి సుగ్రీవుల మధ్య వైరం ఎలా పుట్టిందో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

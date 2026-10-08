@@ -20,15 +20,31 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 2 — Scene 02
 
-**Visual:** [Use Bharata and Shatrughna Visual Locks] departing Ayodhya's gates with [Yudhajit — a one-scene maternal-uncle figure, no individual lock needed, dignified visiting-royal register] toward Kekaya, shown as a brief travel montage — establishing they are AWAY from Ayodhya as this Khaanda begins.
+**Visual:** Mithila, the wedding of the four princes: [Yudhajit — dignified visiting-royal maternal uncle, no individual lock] arriving among the guests.
 
-**Story:** దశరథుడి కుమారుల పెళ్ళికి, భరతుడి మేనమామ అయిన యుధాజిత్ కూడా వచ్చాడు. అసలు ఆయన భరతుడిని కొన్ని రోజుల కోసం తన ఇంటికి తీసుకువెళదామని వచ్చాడు. కాని అప్పటికే భరతుడు మిథిలకి బయలుదేరాడని తెలుసుకొని ఆయన కూడా మిథిలకి పయనమయ్యాడు. రామలక్ష్మణ భరతశత్రుఘ్నుల వివాహాన్ని కన్నులారా చూసి, వాళ్ళతోపాటే అయోధ్యకి వచ్చాడు. కొంతకాలం అయ్యాక దశరథుని అంగీకారముతో యుధాజిత్ భరతుడిని ఇంటికి తీసుకు వెళ్ళాడు, భరతుడు తనతో పాటు శత్రుఘ్నుడిని కూడా తీసుకు వెళ్ళాడు.
+**Story:** దశరథుడి కుమారుల పెళ్ళికి, భరతుడి మేనమామ అయిన యుధాజిత్ కూడా వచ్చాడు. అసలు ఆయన భరతుడిని కొన్ని రోజుల కోసం తన ఇంటికి తీసుకువెళదామని వచ్చాడు.
 
 **Image:** Pending creation.
 
 **Source note:** This "Bharata and Shatrughna are away at Kekaya" fact is structurally critical — it's why they're absent for everything about to happen in this Khaanda. Make this geographic/narrative fact visually unambiguous (a clear departure shot, a sense of real distance), since the whole crisis ahead depends on the audience remembering they're gone.
 
 ## 3 — Scene 03
+
+**Visual:** Yudhajit watching the four weddings with joy, then riding back to Ayodhya with the royal party.
+
+**Story:** కాని అప్పటికే భరతుడు మిథిలకి బయలుదేరాడని తెలుసుకొని ఆయన కూడా మిథిలకి పయనమయ్యాడు. రామలక్ష్మణ భరతశత్రుఘ్నుల వివాహాన్ని కన్నులారా చూసి, వాళ్ళతోపాటే అయోధ్యకి వచ్చాడు.
+
+**Image:** Pending creation.
+
+## 4 — Scene 04
+
+**Visual:** [Use Bharata and Shatrughna Visual Locks] departing Ayodhya's gates with Yudhajit toward Kekaya — a brief travel montage establishing that they are AWAY as this Khaanda begins.
+
+**Story:** కొంతకాలం అయ్యాక దశరథుని అంగీకారముతో యుధాజిత్ భరతుడిని ఇంటికి తీసుకు వెళ్ళాడు, భరతుడు తనతో పాటు శత్రుఘ్నుడిని కూడా తీసుకు వెళ్ళాడు.
+
+**Image:** Pending creation.
+
+## 5 — Scene 05
 
 **Visual:** [Bharata and Shatrughna Visual Locks] shown enjoying comfortable royal life at Kekaya, but with a recurring wistful beat — glancing toward the horizon, thinking of home.
 
@@ -38,7 +54,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** A brief, tender homesickness beat — worth a quiet visual moment (Bharata looking east) rather than rushing past it, since it humanizes both brothers before the crisis that will define this Khaanda.
 
-## 4 — Scene 04
+## 6 — Scene 06
 
 **Visual:** [Dasharatha Visual Lock] presiding warmly over all four of his sons together (in memory/establishing shot, before Bharata's departure is emphasized) — equal, generous fatherly affection shown toward all four.
 
@@ -48,7 +64,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This line sets up a genuine tension worth preserving exactly: Dasharatha insists he has no favorites, then immediately qualifies it — the text is honest that his love for Rama runs deeper, for specific stated reasons about to follow, not blind favoritism.
 
-## 5 — Scene 05
+## 7 — Scene 07
 
 **Visual:** On-screen verse text.
 
@@ -58,7 +74,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — describing Rama as most beloved to his father among all four sons, by virtue, like a self-born being among creatures.
 
-## 6 — Scene 06
+## 8 — Scene 08
 
 **Visual:** [Rama Visual Lock] shown in a calm, composed everyday moment — walking through the palace unhurried, greeting people warmly — the visual establishing shot for the long virtue-description that follows.
 
@@ -66,17 +82,25 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 7 — Scene 07
+## 9 — Scene 09
 
-**Visual:** [Rama Visual Lock] shown listening calmly to something upsetting without reacting — the visual illustration of the teaching that follows, delivered as an aside within the narration itself.
+**Visual:** Reflective aside, marked by a subtle framing shift: ordinary people with ordinary limitations of body, each with a clear, kind face — no one is born with a bad mind.
 
-**Story:** (ప్రాణుల్లో కొన్నిటికి పుట్టుకతో చెవి వినపడక పోవచ్చు, కన్ను చూడలేక పోవచ్చు, నోటితో మాట్లాడలేక పోవచ్చు, కాలు-చెయ్యి పని చేయకపోవచ్చు, కాని పుట్టుకతో చెడ్డ మనస్సుతో ఎవడూ పుట్టడు, మన మనసుని మనం మార్చుకోగలము, అలా మార్చుకోలేకపోతే అది మన తప్పే, అనవసరమైన విషయాల గురించి ఆలోచించకుండా ఉంటే అందరూ ప్రశాంత చిత్తంగా ఉండగలము.)
+**Story:** (ప్రాణుల్లో కొన్నిటికి పుట్టుకతో చెవి వినపడక పోవచ్చు, కన్ను చూడలేక పోవచ్చు, నోటితో మాట్లాడలేక పోవచ్చు, కాలు-చెయ్యి పని చేయకపోవచ్చు, కాని పుట్టుకతో చెడ్డ మనస్సుతో ఎవడూ పుట్టడు,
 
 **Image:** Pending creation.
 
 **Source note:** This parenthetical is the narrator (via the source text itself) stepping outside the story to make a direct moral/philosophical point — a distinct device worth a subtle visual shift (perhaps a slightly different framing/held shot) to mark it as reflection rather than plot action, similar to how the Parichayam episode's direct-address beats were handled.
 
-## 8 — Scene 08
+## 10 — Scene 10
+
+**Visual:** [Rama Visual Lock] listening calmly to something upsetting without reacting — a still, untroubled mind.
+
+**Story:** మన మనసుని మనం మార్చుకోగలము, అలా మార్చుకోలేకపోతే అది మన తప్పే, అనవసరమైన విషయాల గురించి ఆలోచించకుండా ఉంటే అందరూ ప్రశాంత చిత్తంగా ఉండగలము.)
+
+**Image:** Pending creation.
+
+## 11 — Scene 11
 
 **Visual:** [Rama Visual Lock] shown speaking gently even when someone else is shown agitated/shouting nearby — visual contrast between his calm and their heat.
 
@@ -86,15 +110,23 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This directly echoes Rama's established Character Bible Voice Profile ("never raises pitch even under stress") — this passage is effectively the textual justification for that voice-design choice, worth noting as confirmation.
 
-## 9 — Scene 09
+## 12 — Scene 12
 
-**Visual:** [Rama Visual Lock] shown remembering and warmly acknowledging even a small favor from someone, with genuine gratitude on his face.
+**Visual:** A courtier who has often wronged [Rama Visual Lock] once doing him a small, chance kindness.
 
-**Story:** అవతలివాడు తనకి వంద అపకారాలు చేసినవాడైన కాని, తనకి ఒకసారి అనుకోకుండా ఉపకారం చేస్తే మాత్రం, రాముడు అతను చేసిన ఉపకారాన్ని గుర్తుకుతెచ్చుకొని ఆనందపడతాడు (అవతలి వ్యక్తిలో తప్పులు వెతికేవాడు కాదు), బుద్ధిమంతుడు, ముందు తనే పలకరించేవాడు.
+**Story:** అవతలివాడు తనకి వంద అపకారాలు చేసినవాడైన కాని, తనకి ఒకసారి అనుకోకుండా ఉపకారం చేస్తే మాత్రం,
 
 **Image:** Pending creation.
 
-## 10 — Scene 10
+## 13 — Scene 13
+
+**Visual:** Rama remembering only that kindness, greeting the man first with genuine warmth and gratitude.
+
+**Story:** రాముడు అతను చేసిన ఉపకారాన్ని గుర్తుకుతెచ్చుకొని ఆనందపడతాడు (అవతలి వ్యక్తిలో తప్పులు వెతికేవాడు కాదు), బుద్ధిమంతుడు, ముందు తనే పలకరించేవాడు.
+
+**Image:** Pending creation.
+
+## 14 — Scene 14
 
 **Visual:** [Rama Visual Lock] shown looking slightly regretful/self-correcting after someone else greets him first — a small, specific, humanizing character beat.
 
@@ -104,7 +136,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This small self-reproach for not greeting someone first is a genuinely specific, unusual character detail — not generic praise — worth a dedicated small beat rather than folding into the general virtue-list montage.
 
-## 11 — Scene 11
+## 15 — Scene 15
 
 **Visual:** [Rama Visual Lock] shown among warriors, clearly the most powerful, but with visibly humble body language — not postured or arrogant.
 
@@ -112,17 +144,33 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 12 — Scene 12
+## 16 — Scene 16
 
-**Visual:** Continued reflective aside, visually marked the same way as scene 7 (subtle framing shift) — this is the narrator/text's own extended teaching about conscience versus the rationalizing mind.
+**Visual:** Reflective aside, same framing shift as before: an ordinary man pausing before a doubtful act, his better judgement shown as a quiet light behind him.
 
-**Story:** (మనం ఏదన్నా పని చేసేముందు, మన లోపలి బుద్ధి మనం చేస్తున్న పని మంచిదో కాదో చెప్తుంది, కాని మన మనసు ఆ మాట వినదు, అది "ఈ పని చేయవద్దు" అని అనదు, అదేమంటుందంటే — "అందరూ చేస్తున్నారు, మడి కట్టుకుని కూర్చుంటే ఎందుకూ పనికిరాము, ఈ మాత్రానికే ఏమి కొంపలు మునిగిపోవు, పని చేసింది నేనే అని నేను స్వయంగా చెప్పేదాకా ఎవడికి తెలీదు" అని పలురకాలుగా మభ్యపెట్టి, ఇంద్రియాలకి లొంగి, శ్రేయస్కరము కాని పని చేయిస్తుంది. రాముడు మనసుకి లొంగి శ్రేయస్కరము కాని పనిని ఎన్నడూ చేసేవాడు కాదు.)
+**Story:** (మనం ఏదన్నా పని చేసేముందు, మన లోపలి బుద్ధి మనం చేస్తున్న పని మంచిదో కాదో చెప్తుంది, కాని మన మనసు ఆ మాట వినదు,
 
 **Image:** Pending creation.
 
 **Source note:** This is a substantial, quotable piece of moral philosophy embedded directly in the narrative (the rationalizing inner voice vs. conscience) — give the narrator real unhurried pacing here, don't compress; it's presented as timeless wisdom, not just character description.
 
-## 13 — Scene 13
+## 17 — Scene 17
+
+**Visual:** The same man's wavering face as the rationalising mind whispers — everyone does it, what harm.
+
+**Story:** అది "ఈ పని చేయవద్దు" అని అనదు, అదేమంటుందంటే — "అందరూ చేస్తున్నారు, మడి కట్టుకుని కూర్చుంటే ఎందుకూ పనికిరాము, ఈ మాత్రానికే ఏమి కొంపలు మునిగిపోవు,
+
+**Image:** Pending creation.
+
+## 18 — Scene 18
+
+**Visual:** The whisper winning; then cut to [Rama Visual Lock] turning away from the same kind of choice without hesitation.
+
+**Story:** పని చేసింది నేనే అని నేను స్వయంగా చెప్పేదాకా ఎవడికి తెలీదు" అని పలురకాలుగా మభ్యపెట్టి, ఇంద్రియాలకి లొంగి, శ్రేయస్కరము కాని పని చేయిస్తుంది. రాముడు మనసుకి లొంగి శ్రేయస్కరము కాని పనిని ఎన్నడూ చేసేవాడు కాదు.)
+
+**Image:** Pending creation.
+
+## 19 — Scene 19
 
 **Visual:** Transition line, no new visual beat needed — continues directly into the next virtue-list stretch (E2.02's opening).
 
@@ -132,7 +180,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Deliberately short/transitional — the source itself breaks paragraph here across a page boundary; treat as this episode's closing beat rather than force more content in to hit a longer runtime.
 
-## 14 — Scene 14
+## 20 — Scene 20
 
 **Visual:** End card.
 

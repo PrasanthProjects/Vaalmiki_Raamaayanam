@@ -82,15 +82,23 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 9 — Scene 09
 
-**Visual:** [Vishwamitra Visual Lock] beginning the transmission — a long, escalating montage of named weapons manifesting as brief light-forms around Rama and Lakshmana. (Location register: Forest clearing, mystical light effects)
+**Visual:** [Vishwamitra Visual Lock] beginning the transmission — the first weapons manifesting as brief light-forms around [Rama/Lakshmana Visual Locks]: a horse-headed form, a crane form, four maces. (Location register: Forest clearing, mystical light effects)
 
-**Story:** అప్పుడు విశ్వామిత్రుడు రామలక్ష్మణులకి హయశిరోనామం అనే అస్త్రాన్ని, క్రౌంచ అస్త్రాన్ని మంత్రోపదేశం చేశాడు. అలాగే కంకాళం, ఘోరం, కాపాలం, కంకణం అనే నాలుగు ముసలముల మంత్రోపదేశం చేశాడు. అలాగే ఐంద్రాస్త్రం, బ్రహ్మాస్త్రం, బ్రహ్మశిరోనామకాస్త్రం, మానవాస్త్రం, వారుణాస్త్రం, ఇంద్రాస్త్రం, ఐషీకాస్త్రం, గాంధర్వాస్త్రం, రకరకాల పిడుగులు మొదలైన సర్వాస్త్రాల మంత్రోపదేశం చేసి, రెండు అద్భుతమైన గదలని, నందకం అనే గొప్ప ఖడ్గాన్ని ఉపదేశించాడు.
+**Story:** అప్పుడు విశ్వామిత్రుడు రామలక్ష్మణులకి హయశిరోనామం అనే అస్త్రాన్ని, క్రౌంచ అస్త్రాన్ని మంత్రోపదేశం చేశాడు. అలాగే కంకాళం, ఘోరం, కాపాలం, కంకణం అనే నాలుగు ముసలముల మంత్రోపదేశం చేశాడు.
 
 **Image:** Pending creation.
 
 **Source note:** This long weapon-list is meant to feel genuinely overwhelming/abundant — a visual montage of light-forms manifesting one after another suits it better than trying to individually design every named astra.
 
 ## 10 — Scene 10
+
+**Visual:** The montage escalates — light-form after light-form (Indra's, Brahma's, Varuna's weapons, thunderbolts), then two great maces and the sword Nandaka settling before Rama; genuinely overwhelming abundance. (Location register: Forest clearing, mystical light effects)
+
+**Story:** అలాగే ఐంద్రాస్త్రం, బ్రహ్మాస్త్రం, బ్రహ్మశిరోనామకాస్త్రం, మానవాస్త్రం, వారుణాస్త్రం, ఇంద్రాస్త్రం, ఐషీకాస్త్రం, గాంధర్వాస్త్రం, రకరకాల పిడుగులు మొదలైన సర్వాస్త్రాల మంత్రోపదేశం చేసి, రెండు అద్భుతమైన గదలని, నందకం అనే గొప్ప ఖడ్గాన్ని ఉపదేశించాడు.
+
+**Image:** Pending creation.
+
+## 11 — Scene 11
 
 **Visual:** The weapons, personified as small radiant humanoid figures, bowing before Rama and asking for orders — matching the Production Bible's established convention for how celestial weapons are depicted (per the E1.05 vanara-creation scene's light-motif approach, extended here into brief personified forms since the text explicitly describes them taking human form). (Location register: Forest clearing)
 
@@ -100,7 +108,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** The source explicitly personifies the weapons here — this matches (and retroactively justifies) the visual approach already used for the "celestial weapons as small radiant humanoid figures" prompt style established back in earlier planning; keep that same treatment.
 
-## 11 — Scene 11
+## 12 — Scene 12
 
 **Visual:** [Rama Visual Lock] instructing them; the light-forms dissolving into him, absorbed. (Location register: Forest clearing)
 
@@ -108,7 +116,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 12 — Scene 12
+## 13 — Scene 13
 
 **Visual:** Next morning: [Rama Visual Lock] respectfully asking Vishwamitra for the withdrawal-mantras too — a small but telling detail about Rama's responsibility with power. (Location register: Forest campsite, morning)
 
@@ -118,7 +126,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Worth a beat of narration emphasis — Rama asking to learn how to safely STOP a weapon, not just use it, is a quiet but real characterization detail.
 
-## 13 — Scene 13
+## 14 — Scene 14
 
 **Visual:** [Vishwamitra Visual Lock] teaching the withdrawal mantras, plus a few additional ones beyond what was asked. (Location register: Forest campsite)
 
@@ -126,7 +134,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 14 — Scene 14
+## 15 — Scene 15
 
 **Visual:** The group resuming their journey; a new ashram comes into view. (Location register: Forest road → new ashram)
 
@@ -134,17 +142,33 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 15 — Scene 15
+## 16 — Scene 16
 
-**Visual:** [Rama Visual Lock] asking whose ashram it is; [Vishwamitra Visual Lock] answering — a brief mythic inset: [use Vishnu Visual Lock in his Vamana/dwarf-avatar form — a one-time variant not otherwise needed in the Character Bible, note it there if this inset is produced] confronting a towering asuric king. (Location register: New ashram, mythic inset for the Vamana story)
+**Visual:** [Rama Visual Lock] asking whose ashram it is; [Vishwamitra Visual Lock] answering — mythic inset begins: the towering asura king Bali holding Indra captive. (Location register: New ashram, mythic inset for the Vamana story)
 
-**Story:** ఆ ఆశ్రమం ఎవరిదని రాముడు అడగగా, విశ్వామిత్రుడు ఇలా చెప్పాడు — "ఒకప్పుడు విరోచనుడి కుమారుడైన బలి చక్రవర్తి తన పరాక్రమముతో ఇంద్రుడిని నిర్బంధించాడు. అప్పుడు శ్రీమహావిష్ణువు వామన మూర్తిగా వచ్చి బలిని పాతాళానికి పంపారు. వామన మూర్తి తపస్సు చేసిన ఆశ్రమమే ఈ ఆశ్రమం, దీనిని సిద్ధాశ్రమం అంటారు. ఇక్కడే కశ్యప ప్రజాపతి తపస్సు చేశారు, ఇక్కడే విష్ణువు ఇంద్రుడికి తమ్ముడిగా, ఉపేంద్రుడిగా పుట్టారు. నేను యాగము చేస్తున్నది కూడా ఈ ఆశ్రమములోనే" అని చెప్పి అందరూ ఆ ఆశ్రమములోనికి వెళ్లారు.
+**Story:** ఆ ఆశ్రమం ఎవరిదని రాముడు అడగగా, విశ్వామిత్రుడు ఇలా చెప్పాడు — "ఒకప్పుడు విరోచనుడి కుమారుడైన బలి చక్రవర్తి తన పరాక్రమముతో ఇంద్రుడిని నిర్బంధించాడు.
 
 **Image:** Pending creation.
 
 **Source note:** This is Siddhashrama — the actual site of Vishwamitra's yagna that Rama was brought to protect in the first place; a structurally important location reveal after several episodes of journey.
 
-## 16 — Scene 16
+## 17 — Scene 17
+
+**Visual:** Inset: [Vishnu Visual Lock in his Vamana/dwarf-avatar form] confronting Bali and sending him down to the netherworld; then the same small figure in tapasya at this very ashram — Siddhashrama. (Location register: New ashram, mythic inset for the Vamana story)
+
+**Story:** అప్పుడు శ్రీమహావిష్ణువు వామన మూర్తిగా వచ్చి బలిని పాతాళానికి పంపారు. వామన మూర్తి తపస్సు చేసిన ఆశ్రమమే ఈ ఆశ్రమం, దీనిని సిద్ధాశ్రమం అంటారు.
+
+**Image:** Pending creation.
+
+## 18 — Scene 18
+
+**Visual:** Brief inset of Kashyapa in tapasya here; then the frame closes and the three walk through the ashram gate, the sages of Siddhashrama coming out to meet them. (Location register: New ashram, mythic inset for the Vamana story)
+
+**Story:** ఇక్కడే కశ్యప ప్రజాపతి తపస్సు చేశారు, ఇక్కడే విష్ణువు ఇంద్రుడికి తమ్ముడిగా, ఉపేంద్రుడిగా పుట్టారు. నేను యాగము చేస్తున్నది కూడా ఈ ఆశ్రమములోనే" అని చెప్పి అందరూ ఆ ఆశ్రమములోనికి వెళ్లారు.
+
+**Image:** Pending creation.
+
+## 19 — Scene 19
 
 **Visual:** End card.
 

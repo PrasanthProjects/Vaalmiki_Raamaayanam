@@ -48,34 +48,7 @@
     "scene": 2,
     "part": 3,
     "id": "02.03",
-    "text": "ఇక్కడ గంధర్వ, యక్ష, కిన్నెర స్త్రీలు, రాక్షసులు కనపడుతున్నారు కాని సీతమ్మ తల్లి జాడ కనిపెట్టలేకపోయాను\" అని బాధ పడ్డాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "కాని వెంటనే \" ఎవడు శోకమునకు లొంగిపోడో, ఎవడు నిరంతరము ఉత్సాహముతో ఉంటాడో, వాడు మాత్రమే కార్యాన్ని సాధించగలడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
-    "text": "అందుకని నేను శోకమునకు లొంగను, మళ్ళీ సీతమ్మని అన్వేషిస్తాను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 6,
-    "id": "02.06",
-    "text": "మళ్ళీ ఈ లంకా పట్టణం అంతా వెతికేస్తాను \" అని ఉత్సాహాన్ని పొంది లంకా పట్టణం అంతా వెతికి కూర్చున్నాడు.",
+    "text": "ఇక్కడ గంధర్వ, యక్ష, కిన్నెర స్త్రీలు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -84,7 +57,7 @@
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "అప్పుడాయన అనుకున్నాడు \"ఇంత లంకా పట్టణాన్ని 4 అంగుళాలు కూడా వదలకుండ నేను వెతికాను, అయినా నాకు సీతమ్మ దర్శనం కాలేదు.",
+    "text": "రాక్షసులు కనపడుతున్నారు కాని సీతమ్మ తల్లి జాడ కనిపెట్టలేకపోయాను\" అని బాధ పడ్డాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -93,52 +66,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "బహుశా ఒంటి మీద వస్త్రము లేని స్త్రీలని ఎందరినో ఈ లంకా పట్టణంలో నేను చూశాను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "అందువలన నాయందు ధర్మమునకు లోపం వచ్చిందేమో.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "నేను వెతుకుతున్నది సీతమ్మని, ఆమె ఒక స్త్రి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 5,
-    "id": "03.05",
-    "text": "అందువలన ఆమెని వెతుకుతున్నప్పుడు సీతమ్మో కాదో అని ఆ స్త్రీల వంక చూశాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 6,
-    "id": "03.06",
-    "text": "ఆ స్త్రీలని అలా చూశాను కాని, నా మనసునందు ఎటువంటి వికారము కలగలేదు, నాకు ఎవరూ గుర్తులేరు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 7,
-    "id": "03.07",
-    "text": "నేను పవిత్రముగానే ఉన్నాను\" అని హనుమంతుడు తన మనస్సులో భావన చేసి,",
+    "text": "కాని వెంటనే \" ఎవడు శోకమునకు లొంగిపోడో, ఎవడు నిరంతరము ఉత్సాహముతో ఉంటాడో, వాడు మాత్రమే కార్యాన్ని సాధించగలడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -147,7 +75,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "\"నేను సీతమ్మ దర్శనం చెయ్యలేకపోయాను.",
+    "text": "అందుకని నేను శోకమునకు లొంగను, మళ్ళీ సీతమ్మని అన్వేషిస్తాను,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -156,97 +84,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "ఇప్పుడు నేను వెనక్కి వెళితే అక్కడ ఉన్న వానరాలు నన్ను 'సీతమ్మ దర్శనం చేశావా?' అని అడుగుతారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 3,
-    "id": "04.03",
-    "text": "'నాకు సీతమ్మ జాడ తెలియలేదు' అని చెప్తాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "సీతమ్మ జాడ తెలీకుండా వెనక్కి వెళితే సుగ్రీవుడు చంపేస్తాడని అందరూ ప్రాయోపవేశం చేస్తారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 5,
-    "id": "04.05",
-    "text": "నేను వెళ్ళి ఈ మాట సుగ్రీవుడికి చెబితే, మిత్రుడైన రాముడికి సహాయం చెయ్యలేకపోయానని సుగ్రీవుడు ప్రాణం వదిలేస్తాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 6,
-    "id": "04.06",
-    "text": "ఉన్న స్నేహితుడు కూడా వెళ్ళిపోయాడని రాముడు కూడా ప్రాణము వదిలేస్తాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 7,
-    "id": "04.07",
-    "text": "రాముడు లేనప్పుడు లక్ష్మణుడు ఉండడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 8,
-    "id": "04.08",
-    "text": "అప్పుడు అక్కడున్న వానరకాంతలందరూ ప్రాణములు వదిలేస్తారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 9,
-    "id": "04.09",
-    "text": "తదనంతరం వానరులందరు మరణిస్తారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 10,
-    "id": "04.10",
-    "text": "ఈ వార్త అయోధ్యకి చేరి కౌసల్య, కైకేయి, సుమిత్ర, భరతుడు, శత్రుఘ్నుడు మరణిస్తారు, తరవాత అయోధ్యలో అందరూ మరణిస్తారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 11,
-    "id": "04.11",
-    "text": "నేను పట్టుకెళ్ళే వార్త వలన ఇంత మంది మరణిస్తారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 12,
-    "id": "04.12",
-    "text": "ఈ వార్తని నేను తీసుకువెళితే ఎంత వెళ్ళకపోతే ఎంత.",
+    "text": "మళ్ళీ ఈ లంకా పట్టణం అంతా వెతికేస్తాను \" అని ఉత్సాహాన్ని పొంది లంకా పట్టణం అంతా వెతికి కూర్చున్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -255,7 +93,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "బహుశా రావణుడు సీతమ్మని తీసుకువస్తున్నప్పుడు, ఆయన ఒడిలో కొట్టుకుంటున్న సీతమ్మ జారి సముద్రంలో పడిపోయి ఉంటుంది, కాదు కాదు,",
+    "text": "అప్పుడాయన అనుకున్నాడు \"ఇంత లంకా పట్టణాన్ని 4 అంగుళాలు కూడా వదలకుండ నేను వెతికాను, అయినా నాకు సీతమ్మ దర్శనం కాలేదు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -264,52 +102,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "సీతమ్మ అంత పిరికిది కాదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 3,
-    "id": "05.03",
-    "text": "తన పాన్పు చేరడంలేదని, రావణుడే సీతమ్మని ముక్కలుగా నరికి ఫలహారంగా తినేసుంటాడు, కాదు కాదు, కాముకుడైనవాడు తాను కామించిన స్త్రీని సంహరించడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "లేకపోతే రాక్షసులు సీతమ్మని తినేసుంటారు, కాదు కాదు, రావణుడు కామించిన స్త్రీని తినగలిగే ధైర్యం రాక్షసులకు ఉండదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "రాముడికి సీతమ్మ జాడ తెలియకూడదని రావణుడే అమ్మని ఎక్కడో దాచి ఉంటాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 6,
-    "id": "05.06",
-    "text": "కాబట్టి నిద్రపోతున్న రావణుడి పది తలలు గిల్లేసి, వాడి మృతకళేబరాన్ని రాముడి పాదాల దగ్గర పడేస్తాను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 7,
-    "id": "05.07",
-    "text": "లేదా ఈ లంకని పెల్లఘించి పట్టుకుపోతాను.",
+    "text": "బహుశా ఒంటి మీద వస్త్రము లేని స్త్రీలని ఎందరినో ఈ లంకా పట్టణంలో నేను చూశాను,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -318,7 +111,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "కాదు కాదు, సీతమ్మ జాడ చెప్పలేనప్పుడు ఇవన్నీ తీసుకువెళ్ళడం ఎందుకు, అందుకని నేను అసలు వెనక్కి వెళ్ళను.",
+    "text": "అందువలన నాయందు ధర్మమునకు లోపం వచ్చిందేమో.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -327,7 +120,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "సీతమ్మ జాడ దొరికేవరకు వానప్రస్థుడిలా ఉంటాను, లేదా అగ్నిలోకి ప్రవేశిస్తాను, లేదా నీటిలోకి ప్రవేశించి శరీరాన్ని వదిలేస్తాను\" అనుకున్నాడు.",
+    "text": "నేను వెతుకుతున్నది సీతమ్మని, ఆమె ఒక స్త్రి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -336,25 +129,7 @@
     "scene": 6,
     "part": 3,
     "id": "06.03",
-    "text": "కాని ఆయన వెంటనే \" ఛి!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "మరణించడం ఏమిటి, ఆత్మహత్య మహా పాపం.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "మళ్ళీ ఉత్సాహాన్ని పొంది వెతుకుతాను\" అనుకొని,",
+    "text": "అందువలన ఆమెని వెతుకుతున్నప్పుడు సీతమ్మో కాదో అని ఆ స్త్రీల వంక చూశాను.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -363,8 +138,17 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "నమోస్తు రామాయ సలక్ష్మణాయ, దేవ్యైచ తస్యై జనకాత్మజాయై, । నమోస్తు రుద్రేంద్ర యమానిలేభ్యో, నమోస్తు చంద్రార్క మరుద్గణేభ్యః ॥",
-    "complete_verse_block": true,
+    "text": "ఆ స్త్రీలని అలా చూశాను కాని, నా మనసునందు ఎటువంటి వికారము కలగలేదు, నాకు ఎవరూ గుర్తులేరు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 7,
+    "part": 2,
+    "id": "07.02",
+    "text": "నేను పవిత్రముగానే ఉన్నాను\" అని హనుమంతుడు తన మనస్సులో భావన చేసి,",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -372,7 +156,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "(దీనిని రామాయణానికి ప్రార్ధనా శ్లోకంగా చెబుతారు) \"లక్ష్మణుడితో కూడుకుని ఉన్న రాముడికి నమస్కారం, జనకుని కూతురైన సీతమ్మకి నమస్కారం, రుద్రుడికి, ఇంద్రుడికి,",
+    "text": "\"నేను సీతమ్మ దర్శనం చెయ్యలేకపోయాను.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -381,7 +165,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "యముడికి, వాయుదేవుడికి నమస్కారం, చంద్రుడికి, సూర్యుడికి, దేవతలందరికి నమస్కారం.",
+    "text": "ఇప్పుడు నేను వెనక్కి వెళితే అక్కడ ఉన్న వానరాలు నన్ను 'సీతమ్మ దర్శనం చేశావా?' అని అడుగుతారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -390,7 +174,7 @@
     "scene": 8,
     "part": 3,
     "id": "08.03",
-    "text": "నాకు సీతమ్మ తల్లి దర్శనం అయ్యేటట్టు దేవతలందరు కాటాక్షించెదరుగాక\" అని నమస్కారం చేశాడు.",
+    "text": "'నాకు సీతమ్మ జాడ తెలియలేదు' అని చెప్తాను.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -399,7 +183,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "అప్పుడు హనుమంతుడికి ఎదురుగా అశోకవనం కనపడింది.",
+    "text": "సీతమ్మ జాడ తెలీకుండా వెనక్కి వెళితే సుగ్రీవుడు చంపేస్తాడని అందరూ ప్రాయోపవేశం చేస్తారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -408,25 +192,7 @@
     "scene": 9,
     "part": 2,
     "id": "09.02",
-    "text": "అప్పుడాయన ఒక ధనుస్సు నుండి విడవబడిన బాణంలా ముందుకి వెళ్ళి అశోకవనంలో దిగారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "హనుమంతుడు అక్కడున్న అన్ని చెట్ల మీదనుండి అటూ ఇటూ దూకుతూ సీతమ్మని వెతికాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 4,
-    "id": "09.04",
-    "text": "ఆ అశోకవనంలో రావణుడు తన తపఃశక్తితో నిర్మించిన క్రుతికమైన ఒక కొండ, ఆ కొండ మీదనుండి ప్రవహిస్తున్న నది ఉన్నాయి.",
+    "text": "నేను వెళ్ళి ఈ మాట సుగ్రీవుడికి చెబితే, మిత్రుడైన రాముడికి సహాయం చెయ్యలేకపోయానని సుగ్రీవుడు ప్రాణం వదిలేస్తాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -435,6 +201,267 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
+    "text": "ఉన్న స్నేహితుడు కూడా వెళ్ళిపోయాడని రాముడు కూడా ప్రాణము వదిలేస్తాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "రాముడు లేనప్పుడు లక్ష్మణుడు ఉండడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 3,
+    "id": "10.03",
+    "text": "అప్పుడు అక్కడున్న వానరకాంతలందరూ ప్రాణములు వదిలేస్తారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 4,
+    "id": "10.04",
+    "text": "తదనంతరం వానరులందరు మరణిస్తారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "ఈ వార్త అయోధ్యకి చేరి కౌసల్య, కైకేయి, సుమిత్ర, భరతుడు, శత్రుఘ్నుడు మరణిస్తారు, తరవాత అయోధ్యలో అందరూ మరణిస్తారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "నేను పట్టుకెళ్ళే వార్త వలన ఇంత మంది మరణిస్తారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 3,
+    "id": "11.03",
+    "text": "ఈ వార్తని నేను తీసుకువెళితే ఎంత వెళ్ళకపోతే ఎంత.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "బహుశా రావణుడు సీతమ్మని తీసుకువస్తున్నప్పుడు, ఆయన ఒడిలో కొట్టుకుంటున్న సీతమ్మ జారి సముద్రంలో పడిపోయి ఉంటుంది, కాదు కాదు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "సీతమ్మ అంత పిరికిది కాదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 3,
+    "id": "12.03",
+    "text": "తన పాన్పు చేరడంలేదని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "రావణుడే సీతమ్మని ముక్కలుగా నరికి ఫలహారంగా తినేసుంటాడు, కాదు కాదు, కాముకుడైనవాడు తాను కామించిన స్త్రీని సంహరించడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "లేకపోతే రాక్షసులు సీతమ్మని తినేసుంటారు, కాదు కాదు, రావణుడు కామించిన స్త్రీని తినగలిగే ధైర్యం రాక్షసులకు ఉండదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "రాముడికి సీతమ్మ జాడ తెలియకూడదని రావణుడే అమ్మని ఎక్కడో దాచి ఉంటాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "కాబట్టి నిద్రపోతున్న రావణుడి పది తలలు గిల్లేసి, వాడి మృతకళేబరాన్ని రాముడి పాదాల దగ్గర పడేస్తాను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 3,
+    "id": "14.03",
+    "text": "లేదా ఈ లంకని పెల్లఘించి పట్టుకుపోతాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "కాదు కాదు, సీతమ్మ జాడ చెప్పలేనప్పుడు ఇవన్నీ తీసుకువెళ్ళడం ఎందుకు, అందుకని నేను అసలు వెనక్కి వెళ్ళను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "సీతమ్మ జాడ దొరికేవరకు వానప్రస్థుడిలా ఉంటాను, లేదా అగ్నిలోకి ప్రవేశిస్తాను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "లేదా నీటిలోకి ప్రవేశించి శరీరాన్ని వదిలేస్తాను\" అనుకున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "కాని ఆయన వెంటనే \" ఛి!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 3,
+    "id": "16.03",
+    "text": "మరణించడం ఏమిటి, ఆత్మహత్య మహా పాపం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 4,
+    "id": "16.04",
+    "text": "మళ్ళీ ఉత్సాహాన్ని పొంది వెతుకుతాను\" అనుకొని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "నమోస్తు రామాయ సలక్ష్మణాయ, దేవ్యైచ తస్యై జనకాత్మజాయై, । నమోస్తు రుద్రేంద్ర యమానిలేభ్యో, నమోస్తు చంద్రార్క మరుద్గణేభ్యః ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "(దీనిని రామాయణానికి ప్రార్ధనా శ్లోకంగా చెబుతారు) \"లక్ష్మణుడితో కూడుకుని ఉన్న రాముడికి నమస్కారం, జనకుని కూతురైన సీతమ్మకి నమస్కారం, రుద్రుడికి, ఇంద్రుడికి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "యముడికి, వాయుదేవుడికి నమస్కారం, చంద్రుడికి, సూర్యుడికి, దేవతలందరికి నమస్కారం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "నాకు సీతమ్మ తల్లి దర్శనం అయ్యేటట్టు దేవతలందరు కాటాక్షించెదరుగాక\" అని నమస్కారం చేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "అప్పుడు హనుమంతుడికి ఎదురుగా అశోకవనం కనపడింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "అప్పుడాయన ఒక ధనుస్సు నుండి విడవబడిన బాణంలా ముందుకి వెళ్ళి అశోకవనంలో దిగారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "హనుమంతుడు అక్కడున్న అన్ని చెట్ల మీదనుండి అటూ ఇటూ దూకుతూ సీతమ్మని వెతికాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "ఆ అశోకవనంలో రావణుడు తన తపఃశక్తితో నిర్మించిన క్రుతికమైన ఒక కొండ, ఆ కొండ మీదనుండి ప్రవహిస్తున్న నది ఉన్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
     "text": "తర్వాత చూద్దాం — అశోకవనంలో సీతమ్మ దర్శనం.",
     "complete_verse_block": false,
     "needs_timing_review": false,

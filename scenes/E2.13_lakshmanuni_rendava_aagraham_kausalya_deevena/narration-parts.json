@@ -36,82 +36,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 3,
-    "id": "02.03",
-    "text": "అంత వృద్ధుడైన దశరథుడికి యవ్వనంలో ఉన్న కైకేయ పొందు కావలసి వచ్చిందా, ఇచ్చిన వరాలు జ్ఞాపకంలేవా కైకమ్మకి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "నిన్నటి దాకా నిన్ను పిలిచి పట్టాభిషేకం అన్నాడు, రాత్రికి రాత్రి కైకేయకి రెండు వరాలు ఇచ్చి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
-    "text": "సత్య ధర్మాలకి కట్టుబడి నిన్ను అరణ్యాలకి పొమ్మంటాడు, భరతుడికి రాజ్యం ఇస్తాడు, తండ్రి మాట నిలబెట్టడం ధర్మమని నువ్వు అరణ్యాలకి వెళతానంటావా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 6,
-    "id": "02.06",
-    "text": "ఇంత ధనుర్విద్య నేర్చుకున్న నువ్వు దుంపలు తింటూ, తేనె తాగుతూ అడవుల్లో తిరుగుతావా, ఇదంతా దైవం చేశాడంటున్నావు కదా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 7,
-    "id": "02.07",
-    "text": "ఆ దైవాన్ని ఒకసారి కనపడమను, నా ధనుస్సుకి బాణాలని సంధించి మొదట దశరథుడి తల, తరవాత కైకేయ తల పడగొడతాను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 8,
-    "id": "02.08",
-    "text": "నిన్ను తీసుకెళ్ళి సింహాసనం మీద కూర్చపెడతాను, అప్పుడు కూడా నన్ను ఆ దైవం నిగ్రహించగలిగితే, దైవం ఉందని ఒప్పుకుంటాను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 9,
-    "id": "02.09",
-    "text": "దైవమో లక్ష్మణుడో నెగ్గాలి, నువ్వు చెప్పిన మాటలు నాకు ఎంతమాత్రము నచ్చలేదు, నువ్వు అనుమతిని ఇవ్వు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 10,
-    "id": "02.10",
-    "text": "దశరథుడి మీద యుద్ధం ప్రకటిస్తాను\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "అప్పుడు రాముడు \"లక్ష్మణా, నువ్వు మళ్ళీ పొరబడుతున్నావు, ఇదంతా చేస్తున్నది దైవమే, నేను అనుమతించిననాడు కదా నువ్వు బాణం వెయ్యడం,",
+    "text": "అంత వృద్ధుడైన దశరథుడికి యవ్వనంలో ఉన్న కైకేయ పొందు కావలసి వచ్చిందా, ఇచ్చిన వరాలు జ్ఞాపకంలేవా కైకమ్మకి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -120,16 +48,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "దశరథ మహారాజు గారిని ఇచ్చిన మాట మీద నిలబెట్టడం కోసం అరణ్యాలకి వెళ్ళడం మినహా నాకు వేరొక మార్గం లేదు\" అని లక్ష్మణుడితో అని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "అడవులకు వెళుతున్న తనని ఆశీర్వదించమని కౌసల్యని అడిగాడు.",
+    "text": "నిన్నటి దాకా నిన్ను పిలిచి పట్టాభిషేకం అన్నాడు, రాత్రికి రాత్రి కైకేయకి రెండు వరాలు ఇచ్చి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -138,7 +57,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "\"సరే, అలాగే వెళ్ళు, కాని నా కన్నీళ్ళని దశరథుడు తుడుస్తాడన్న నమ్మకం లేదు, అందుకని నన్ను నీతోపాటే తీసుకెళ్ళు,",
+    "text": "సత్య ధర్మాలకి కట్టుబడి నిన్ను అరణ్యాలకి పొమ్మంటాడు, భరతుడికి రాజ్యం ఇస్తాడు, తండ్రి మాట నిలబెట్టడం ధర్మమని నువ్వు అరణ్యాలకి వెళతానంటావా,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -147,16 +66,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "లేదా నేను ఇక్కడే విషం తాగి మరణిస్తాను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 3,
-    "id": "04.03",
-    "text": "ఈ రెండిటిలో ఏది చెయ్యమంటావో చెప్పి బయలుదేరు\" అని కౌసల్య రాముడితో అని పలికింది.",
+    "text": "ఇంత ధనుర్విద్య నేర్చుకున్న నువ్వు దుంపలు తింటూ, తేనె తాగుతూ అడవుల్లో తిరుగుతావా,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -165,8 +75,17 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "భర్తుః కిల పరిత్యాగో నృశంసః కేవలం స్త్రియాః । స భవత్యా న కర్తవ్యో మనసా అపి విగర్హితః ॥",
-    "complete_verse_block": true,
+    "text": "ఇదంతా దైవం చేశాడంటున్నావు కదా, ఆ దైవాన్ని ఒకసారి కనపడమను, నా ధనుస్సుకి బాణాలని సంధించి మొదట దశరథుడి తల,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 5,
+    "part": 2,
+    "id": "05.02",
+    "text": "తరవాత కైకేయ తల పడగొడతాను, నిన్ను తీసుకెళ్ళి సింహాసనం మీద కూర్చపెడతాను,",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -174,7 +93,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "\"అప్పుడు రాముడు — భర్తని విడిచిపెట్టి, తాను ఒక్కత్తే భర్తకన్న వేరుగా దూరంగా ఉంటానని మానసికంగా అయినా ఊహ చేస్తుందో,",
+    "text": "అప్పుడు కూడా నన్ను ఆ దైవం నిగ్రహించగలిగితే, దైవం ఉందని ఒప్పుకుంటాను, దైవమో లక్ష్మణుడో నెగ్గాలి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -183,25 +102,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "అటువంటి స్త్రీ నృశంస (ఆమెని చూడగానే 'ఛీ' అనవలసిన స్త్రీ).",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "భర్తని వదిలేసి కొడుకులతో వస్తానని దశరథ మహారాజుకి పెద్ద భార్యవైన నువ్వు ఒక్కనాటికి అనకూడదు, దశరథ మహారాజు ఎంత కాలం ఉంటాడో,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "నువ్వు అంతకాలం ఆయనకి శుశ్రూష చెయ్యవలసి ఉంటుంది\" అన్నాడు.",
+    "text": "నువ్వు చెప్పిన మాటలు నాకు ఎంతమాత్రము నచ్చలేదు, నువ్వు అనుమతిని ఇవ్వు, దశరథుడి మీద యుద్ధం ప్రకటిస్తాను\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -210,8 +111,8 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "భర్తారం న అనువర్తేత సా చ పాప గతిర్ భవేత్ । భర్తుః శుశ్రూషయా నారీ లభతే స్వర్గముత్తమం ॥",
-    "complete_verse_block": true,
+    "text": "అప్పుడు రాముడు \"లక్ష్మణా, నువ్వు మళ్ళీ పొరబడుతున్నావు, ఇదంతా చేస్తున్నది దైవమే, నేను అనుమతించిననాడు కదా నువ్వు బాణం వెయ్యడం,",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -219,8 +120,17 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "అపి యా నిర్నమస్కారా నివృత్తా దేవపూజనాత్ ॥",
-    "complete_verse_block": true,
+    "text": "దశరథ మహారాజు గారిని ఇచ్చిన మాట మీద నిలబెట్టడం కోసం అరణ్యాలకి వెళ్ళడం మినహా నాకు వేరొక మార్గం లేదు\" అని లక్ష్మణుడితో అని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 2,
+    "id": "08.02",
+    "text": "అడవులకు వెళుతున్న తనని ఆశీర్వదించమని కౌసల్యని అడిగాడు.",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -228,52 +138,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "\"ఎన్ని నోములు, వ్రతాలు, పూజలు చేసినా, తన భర్త మనసు గుర్తెరిగి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 2,
-    "id": "09.02",
-    "text": "భర్తకి ఆనందం కలిగేటట్టు ప్రవర్తించడం చేతకానటువంటి ఆమె చిట్టచివర పొందేది నరకమే.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "అలాగే, జీవించి ఉండగా ఎన్నడూ ఒక దేవతకి నమస్కారం చెయ్యకపోయినా, పూజలు, నోములు, వ్రతాలు చెయ్యకపోయినా కాని, భర్తని అనువర్తించి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 4,
-    "id": "09.04",
-    "text": "భర్తయందు ప్రేమతో ప్రవర్తించినటువంటి ఆమె చిట్టచివర స్వర్గాన్నే పొందుతుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 5,
-    "id": "09.05",
-    "text": "అందుకని అమ్మా, నువ్వు అలా మాట్లాడకూడదు, నేను అలాంటి మాటలు వినకూడదు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 6,
-    "id": "09.06",
-    "text": "నేను అరణ్యవాసానికి వెళితే నన్ను రక్షించేది చల్లని నీ ఆశీర్వాదమే అమ్మా\" అని కౌసల్య పాదాలకి నమస్కారం చేశాడు.",
+    "text": "\"సరే, అలాగే వెళ్ళు, కాని నా కన్నీళ్ళని దశరథుడు తుడుస్తాడన్న నమ్మకం లేదు, అందుకని నన్ను నీతోపాటే తీసుకెళ్ళు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -282,6 +147,141 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
+    "text": "లేదా నేను ఇక్కడే విషం తాగి మరణిస్తాను,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "ఈ రెండిటిలో ఏది చెయ్యమంటావో చెప్పి బయలుదేరు\" అని కౌసల్య రాముడితో అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "భర్తుః కిల పరిత్యాగో నృశంసః కేవలం స్త్రియాః । స భవత్యా న కర్తవ్యో మనసా అపి విగర్హితః ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "\"అప్పుడు రాముడు — భర్తని విడిచిపెట్టి, తాను ఒక్కత్తే భర్తకన్న వేరుగా దూరంగా ఉంటానని మానసికంగా అయినా ఊహ చేస్తుందో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "అటువంటి స్త్రీ నృశంస (ఆమెని చూడగానే 'ఛీ' అనవలసిన స్త్రీ).",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "భర్తని వదిలేసి కొడుకులతో వస్తానని దశరథ మహారాజుకి పెద్ద భార్యవైన నువ్వు ఒక్కనాటికి అనకూడదు, దశరథ మహారాజు ఎంత కాలం ఉంటాడో,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "నువ్వు అంతకాలం ఆయనకి శుశ్రూష చెయ్యవలసి ఉంటుంది\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "భర్తారం న అనువర్తేత సా చ పాప గతిర్ భవేత్ । భర్తుః శుశ్రూషయా నారీ లభతే స్వర్గముత్తమం ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "అపి యా నిర్నమస్కారా నివృత్తా దేవపూజనాత్ ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "\"ఎన్ని నోములు, వ్రతాలు, పూజలు చేసినా, తన భర్త మనసు గుర్తెరిగి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "భర్తకి ఆనందం కలిగేటట్టు ప్రవర్తించడం చేతకానటువంటి ఆమె చిట్టచివర పొందేది నరకమే.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "అలాగే, జీవించి ఉండగా ఎన్నడూ ఒక దేవతకి నమస్కారం చెయ్యకపోయినా, పూజలు, నోములు, వ్రతాలు చెయ్యకపోయినా కాని, భర్తని అనువర్తించి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "భర్తయందు ప్రేమతో ప్రవర్తించినటువంటి ఆమె చిట్టచివర స్వర్గాన్నే పొందుతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "అందుకని అమ్మా, నువ్వు అలా మాట్లాడకూడదు, నేను అలాంటి మాటలు వినకూడదు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "నేను అరణ్యవాసానికి వెళితే నన్ను రక్షించేది చల్లని నీ ఆశీర్వాదమే అమ్మా\" అని కౌసల్య పాదాలకి నమస్కారం చేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
     "text": "తర్వాత చూద్దాం — కౌసల్య దీవెన ఇస్తుందా, రాముడి అరణ్యవాస ప్రయాణం ఎలా మొదలవుతుందో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

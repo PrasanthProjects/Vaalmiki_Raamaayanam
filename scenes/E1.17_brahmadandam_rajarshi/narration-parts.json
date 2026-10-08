@@ -84,16 +84,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "శూలం, కంకాళం అనే కంకణం, రకరకాల పిడుగులు, ముసలం, పెద్ద పెద్ద గదలు మొదలైన రకరకాల అస్త్రాలని వశిష్ఠుడి మీద వేశాడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "కాని ఆయన వేసినవన్నీ వశిష్ఠుడి బ్రహ్మదండంలోకి వెళ్ళిపోయాయి.\"",
+    "text": "శూలం, కంకాళం అనే కంకణం,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -102,7 +93,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "\"ఇక తనదగ్గర ఉన్న ఒకే ఒక అస్త్రమైన బ్రహ్మాస్త్రాన్ని వెయ్యడానికని మంత్రాలని స్మరిస్తుండగా సముద్రాలు పొంగాయి, పర్వతాలు బద్దలయ్యాయి,",
+    "text": "రకరకాల పిడుగులు, ముసలం, పెద్ద పెద్ద గదలు మొదలైన రకరకాల అస్త్రాలని వశిష్ఠుడి మీద వేశాడు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -111,7 +102,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "ప్రపంచంలో ఉన్న అన్ని ప్రాణులు ఒక్కసారి మనస్సులో క్షోభ పొందాయి.\"",
+    "text": "కాని ఆయన వేసినవన్నీ వశిష్ఠుడి బ్రహ్మదండంలోకి వెళ్ళిపోయాయి.\"",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -120,7 +111,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "\"అంతటి శక్తివంతమైన ఆ బ్రహ్మాస్త్రాన్ని విశ్వామిత్రుడు అభిమంత్రించి వదిలాడు,",
+    "text": "\"ఇక తనదగ్గర ఉన్న ఒకే ఒక అస్త్రమైన బ్రహ్మాస్త్రాన్ని వెయ్యడానికని మంత్రాలని స్మరిస్తుండగా సముద్రాలు పొంగాయి, పర్వతాలు బద్దలయ్యాయి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -129,16 +120,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "ఇప్పటిదాకా ఎంతోమంది గొప్పవాళ్ళని మట్టుపెట్టిన ఆ బ్రహ్మాస్త్రం నిశబ్దంగా ఆయన బ్రహ్మదండంలోకి పోయింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "అప్పుడు విశ్వామిత్రుడు —\"",
+    "text": "ప్రపంచంలో ఉన్న అన్ని ప్రాణులు ఒక్కసారి మనస్సులో క్షోభ పొందాయి.\"",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -147,8 +129,26 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "ధిక్ బలం క్షత్రియ బలం బ్రహ్మ తేజో బలం బలం । ఏకేన బ్రహ్మ దణ్డేన సర్వ అస్త్రాణి హతాని మే ॥",
-    "complete_verse_block": true,
+    "text": "\"అంతటి శక్తివంతమైన ఆ బ్రహ్మాస్త్రాన్ని విశ్వామిత్రుడు అభిమంత్రించి వదిలాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "ఇప్పటిదాకా ఎంతోమంది గొప్పవాళ్ళని మట్టుపెట్టిన ఆ బ్రహ్మాస్త్రం నిశబ్దంగా ఆయన బ్రహ్మదండంలోకి పోయింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 3,
+    "id": "09.03",
+    "text": "అప్పుడు విశ్వామిత్రుడు —\"",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -156,35 +156,8 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "\"'ఛీ!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 2,
-    "id": "10.02",
-    "text": "ఆ బ్రహ్మర్షి బలం ముందు ఈ క్షత్రియ బలం ఎందుకు పనికొస్తుంది, ఎన్నో అస్త్రాలని నేర్చుకున్నాను, అన్నీ ప్రయోగించాను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 3,
-    "id": "10.03",
-    "text": "కాని ఆయన ఒక కర్రముక్క పట్టుకొని నా అస్త్రాలన్నిటిని మింగేసారు' అని ఆ రథం దిగి పోయాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 4,
-    "id": "10.04",
-    "text": "'వశిష్ఠుడు బ్రహ్మర్షి కనుక నేను ఆయనని ఓడించలేకపోయాను, కాబట్టి నేనూ బ్రహ్మర్షిని అవుతాను' అని విశ్వామిత్రుడు దక్షిణ దిక్కుకి వెళ్ళాడు.\"",
-    "complete_verse_block": false,
+    "text": "ధిక్ బలం క్షత్రియ బలం బ్రహ్మ తేజో బలం బలం । ఏకేన బ్రహ్మ దణ్డేన సర్వ అస్త్రాణి హతాని మే ॥",
+    "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -192,7 +165,7 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
-    "text": "\"అక్కడికి ఆయన తన పెద్ద భార్యతో వెళ్ళి 1000 సంవత్సరములు ఘోరమైన తపస్సు చేశాడు.",
+    "text": "\"'ఛీ!",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -201,7 +174,7 @@
     "scene": 11,
     "part": 2,
     "id": "11.02",
-    "text": "ఈ కాలంలోనే ఆయనకి హవిష్పందుడు, మధుష్యందుడు, దృఢనేత్రుడు, మహారథుడు అని నలుగురు కుమారులు పుట్టారు.\"",
+    "text": "ఆ బ్రహ్మర్షి బలం ముందు ఈ క్షత్రియ బలం ఎందుకు పనికొస్తుంది, ఎన్నో అస్త్రాలని నేర్చుకున్నాను,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -210,16 +183,7 @@
     "scene": 12,
     "part": 1,
     "id": "12.01",
-    "text": "\"ఆయన తపస్సుకి సంతోషించిన బ్రహ్మదేవుడు ప్రత్యక్షమై ఇలా అన్నారు — 'నువ్వు చేసిన ఈ తపస్సు చేత రాజర్షి లోకాలని గెలిచావు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 2,
-    "id": "12.02",
-    "text": "ఇవ్వాళ నుండి నిన్ను విశ్వామిత్ర మహారాజు అని కాకుండా రాజర్షి విశ్వామిత్రుడు అని పిలుస్తారు' అని చెప్పారు.\"",
+    "text": "అన్నీ ప్రయోగించాను, కాని ఆయన ఒక కర్రముక్క పట్టుకొని నా అస్త్రాలన్నిటిని మింగేసారు' అని ఆ రథం దిగి పోయాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -228,7 +192,7 @@
     "scene": 13,
     "part": 1,
     "id": "13.01",
-    "text": "\"ఇన్ని సంవత్సరములు తపస్సు చేస్తే రాజర్షిని అయ్యాను, ఇంక బ్రహ్మర్షిని ఎప్పుడవుతానో అని విశ్వామిత్రుడు దిగులుపడ్డాడు.\"",
+    "text": "'వశిష్ఠుడు బ్రహ్మర్షి కనుక నేను ఆయనని ఓడించలేకపోయాను, కాబట్టి నేనూ బ్రహ్మర్షిని అవుతాను' అని విశ్వామిత్రుడు దక్షిణ దిక్కుకి వెళ్ళాడు.\"",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -237,6 +201,51 @@
     "scene": 14,
     "part": 1,
     "id": "14.01",
+    "text": "\"అక్కడికి ఆయన తన పెద్ద భార్యతో వెళ్ళి 1000 సంవత్సరములు ఘోరమైన తపస్సు చేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "ఈ కాలంలోనే ఆయనకి హవిష్పందుడు, మధుష్యందుడు, దృఢనేత్రుడు, మహారథుడు అని నలుగురు కుమారులు పుట్టారు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "\"ఆయన తపస్సుకి సంతోషించిన బ్రహ్మదేవుడు ప్రత్యక్షమై ఇలా అన్నారు — 'నువ్వు చేసిన ఈ తపస్సు చేత రాజర్షి లోకాలని గెలిచావు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "ఇవ్వాళ నుండి నిన్ను విశ్వామిత్ర మహారాజు అని కాకుండా రాజర్షి విశ్వామిత్రుడు అని పిలుస్తారు' అని చెప్పారు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "\"ఇన్ని సంవత్సరములు తపస్సు చేస్తే రాజర్షిని అయ్యాను, ఇంక బ్రహ్మర్షిని ఎప్పుడవుతానో అని విశ్వామిత్రుడు దిగులుపడ్డాడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
     "text": "తర్వాత చూద్దాం — త్రిశంకుడు అనే రాజు, శరీరంతోనే స్వర్గానికి వెళ్ళాలనుకున్న విచిత్రమైన కథ.",
     "complete_verse_block": false,
     "needs_timing_review": false,

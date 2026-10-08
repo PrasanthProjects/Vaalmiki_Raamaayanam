@@ -264,25 +264,7 @@
     "scene": 17,
     "part": 2,
     "id": "17.02",
-    "text": "నిన్ను అలా యూప స్తంభానికి కట్టినప్పుడు నువ్వు ఆ రెండు మంత్రాలని జపించు, అలా జపించడం వలన ఇంద్రుడు సంతోషించి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 17,
-    "part": 3,
-    "id": "17.03",
-    "text": "నిన్ను బలి ఇవ్వకముందే వచ్చి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 17,
-    "part": 4,
-    "id": "17.04",
-    "text": "నేను ఈ యాగానికి ప్రీతి చెందాను అని యాగ ఫలితం ఇస్తాడని' చెప్పి ఆ రెండు మంత్రాలని ఉపదేశం చేసి పంపించాడు.\"",
+    "text": "నిన్ను అలా యూప స్తంభానికి కట్టినప్పుడు నువ్వు ఆ రెండు మంత్రాలని జపించు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -291,7 +273,16 @@
     "scene": 18,
     "part": 1,
     "id": "18.01",
-    "text": "\"తరవాత శునఃశేపుడిని యూప స్తంభానికి కట్టారు, అప్పుడాయన విశ్వామిత్రుడు చెప్పిన మంత్రాలని జపించగా\"",
+    "text": "అలా జపించడం వలన ఇంద్రుడు సంతోషించి, నిన్ను బలి ఇవ్వకముందే వచ్చి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "నేను ఈ యాగానికి ప్రీతి చెందాను అని యాగ ఫలితం ఇస్తాడని' చెప్పి ఆ రెండు మంత్రాలని ఉపదేశం చేసి పంపించాడు.\"",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -300,16 +291,7 @@
     "scene": 19,
     "part": 1,
     "id": "19.01",
-    "text": "\"ఇంద్రుడు ప్రత్యక్షమయ్యి, 'నేను ఈ యాగానికి సంతోషించాను, మీరు యాగపశువుని బలి ఇవ్వకుండానే మీకు కోటి రెట్ల ఫలితాన్ని ఇస్తున్నాను' అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 19,
-    "part": 2,
-    "id": "19.02",
-    "text": "అందరూ సంతోషించారు.\"",
+    "text": "\"తరవాత శునఃశేపుడిని యూప స్తంభానికి కట్టారు, అప్పుడాయన విశ్వామిత్రుడు చెప్పిన మంత్రాలని జపించగా\"",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -318,7 +300,7 @@
     "scene": 20,
     "part": 1,
     "id": "20.01",
-    "text": "\"కోపంలో తన కొడుకులని శపించానని విశ్వామిత్రుడు బాధ పడ్డాడు.",
+    "text": "\"ఇంద్రుడు ప్రత్యక్షమయ్యి, 'నేను ఈ యాగానికి సంతోషించాను, మీరు యాగపశువుని బలి ఇవ్వకుండానే మీకు కోటి రెట్ల ఫలితాన్ని ఇస్తున్నాను' అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -327,7 +309,7 @@
     "scene": 20,
     "part": 2,
     "id": "20.02",
-    "text": "ఈ సారి ఎవరితో మాట్లాడకుండా తపస్సు చేస్తానని మళ్ళీ 1000 సంవత్సరములు తపస్సు చెయ్యడం ప్రారంభించాడు.\"",
+    "text": "అందరూ సంతోషించారు.\"",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -336,6 +318,24 @@
     "scene": 21,
     "part": 1,
     "id": "21.01",
+    "text": "\"కోపంలో తన కొడుకులని శపించానని విశ్వామిత్రుడు బాధ పడ్డాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "ఈ సారి ఎవరితో మాట్లాడకుండా తపస్సు చేస్తానని మళ్ళీ 1000 సంవత్సరములు తపస్సు చెయ్యడం ప్రారంభించాడు.\"",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
     "text": "తర్వాత చూద్దాం — విశ్వామిత్రుడి తపస్సుని భంగం చేసిన మేనక, రంభల కథలు, మరియు ఆయన బ్రహ్మర్షి అయిన అద్భుత క్షణం.",
     "complete_verse_block": false,
     "needs_timing_review": false,

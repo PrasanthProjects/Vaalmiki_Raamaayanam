@@ -20,65 +20,161 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 2 — Scene 02
 
-**Visual:** [Akampana — rakshasa survivor, dusty and terrified] watching Khara fall from a hiding place, fleeing; flying south over the sea to Lanka; first reveal of the golden city (Lanka register per the Style Guide); Akampana throwing himself at the feet of a throne — the king seen only from behind and below: massive shoulders, many arms, a fan of crowned heads in silhouette.
+**Visual:** [Akampana — rakshasa survivor, dusty and terrified] fleeing south over the sea to Lanka; first reveal of the golden city (Lanka register per the Style Guide).
 
-**Story:** రాముడు ఖర దూషణులని సంహరించడాన్ని అకంపనుడు అనే రాక్షసుడు చూసి లంకా పట్టణానికి చేరుకున్నాడు. అక్కడాయన రావణుడి పాదముల మీద పడి, రాముడు ఖర దూషణులను ఎలా సంహరించాడో వివరించాడు. ఆగ్రహించిన రావణుడు "అసలు ఆ రాముడు ఎవరు, దండకారణ్యంలో ఎందుకున్నాడు, వారితో ఉన్న ఆ స్త్రీ పేరేమి, అసలు 14,000 రాక్షసులని రాముడు ఒక్కడే ఎందుకు సంహరించాడు. నాకు కారణం చెప్పు" అన్నాడు.
+**Story:** రాముడు ఖర దూషణులని సంహరించడాన్ని అకంపనుడు అనే రాక్షసుడు చూసి లంకా పట్టణానికి చేరుకున్నాడు.
 
 **Image:** Pending creation.
 
-**Source note:** Lanka's first on-screen appearance. Hold back Ravana's full face until scene 4 — this scene is his voice and silhouette only.
+**Source note:** Lanka's first on-screen appearance. Hold back Ravana's full face until scenes 7-8 — this scene is his voice and silhouette only.
 
 ## 3 — Scene 03
 
-**Visual:** [Shurpanakha], face hidden in her cloth, entering the gleaming court; ministers ranged around the throne like gods around Indra; the king's vast open mouth glimpsed as he roars — a sight that recalls Yama himself.
+**Visual:** Akampana throwing himself at the feet of a throne — the king seen only from behind and below: massive shoulders, many arms, a fan of crowned heads in silhouette.
 
-**Story:** అకంపనుడు వెళ్ళిపోయిన తరువాత శూర్పణఖ లంకా పట్టణంలోకి ప్రవేశించింది. ఇంద్రుడి చుట్టూ దేవతలు సభలో కూర్చున్నట్టు, ఆ రావణుడి చుట్టూ మంత్రులు కూర్చొని ఉన్నారు. ఆ రావణుడు దేవతల చేత, గంధర్వుల చేత, యక్షుల చేత, కింపురుషుల చేత సంహరింపబడడు. ఆ సభలో నోరు తెరుచుకొని ఉన్న రావణాసురుడిని చూస్తే, నోరు తెరిచి మీదకి వస్తున్న యమధర్మరాజు జ్ఞాపకంవస్తాడు.
+**Story:** అక్కడాయన రావణుడి పాదముల మీద పడి, రాముడు ఖర దూషణులను ఎలా సంహరించాడో వివరించాడు. ఆగ్రహించిన రావణుడు "అసలు ఆ రాముడు ఎవరు,
+
+**Image:** Pending creation.
+
+## 4 — Scene 04
+
+**Visual:** The silhouetted king demanding answers; Akampana cowering.
+
+**Story:** దండకారణ్యంలో ఎందుకున్నాడు, వారితో ఉన్న ఆ స్త్రీ పేరేమి, అసలు 14,000 రాక్షసులని రాముడు ఒక్కడే ఎందుకు సంహరించాడు. నాకు కారణం చెప్పు" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 5 — Scene 05
+
+**Visual:** [Shurpanakha], face hidden in her cloth, entering the gleaming court; ministers ranged around the throne like gods around Indra.
+
+**Story:** అకంపనుడు వెళ్ళిపోయిన తరువాత శూర్పణఖ లంకా పట్టణంలోకి ప్రవేశించింది. ఇంద్రుడి చుట్టూ దేవతలు సభలో కూర్చున్నట్టు, ఆ రావణుడి చుట్టూ మంత్రులు కూర్చొని ఉన్నారు.
 
 **Image:** Pending creation.
 
 **Source note:** Build the reveal: court, ministers, then the throne.
 
-## 4 — Scene 04
+## 6 — Scene 06
 
-**Visual:** On-screen shloka text over the full reveal of [Ravana Visual Lock — ten heads in a fan, twenty arms, dark reddish-bronze skin, heavy gold, the scarred chest].
+**Visual:** The king's vast open mouth glimpsed as he roars — a sight that recalls Yama himself.
 
-**Story:** దేవ అసుర విమర్దేషు వజ్ర అశని కృత వ్రణం । ఐరావత విషాణ అగ్రైః ఉత్కృష్ట కిణ వక్షసం ॥ వింశత్ భుజం దశ గ్రీవం దర్శనీయ పరిచ్ఛదం । విశాల వక్షసం వీరం రాజ లక్షణ లక్షితం ॥
+**Story:** ఆ రావణుడు దేవతల చేత, గంధర్వుల చేత, యక్షుల చేత, కింపురుషుల చేత సంహరింపబడడు. ఆ సభలో నోరు తెరుచుకొని ఉన్న రావణాసురుడిని చూస్తే, నోరు తెరిచి మీదకి వస్తున్న యమధర్మరాజు జ్ఞాపకంవస్తాడు.
+
+**Image:** Pending creation.
+
+## 7 — Scene 07
+
+**Visual:** On-screen shloka text, first verse, over the full reveal of [Ravana Visual Lock — ten heads in a fan, twenty arms, dark reddish-bronze skin, heavy gold, the scarred chest].
+
+**Story:** దేవ అసుర విమర్దేషు వజ్ర అశని కృత వ్రణం । ఐరావత విషాణ అగ్రైః ఉత్కృష్ట కిణ వక్షసం ॥
 
 **Image:** Pending creation.
 
 **Source note:** 🔴 VERSE — two shlokas, flagged for the manual audit: "His chest scarred by the vajra and the thunderbolt in the wars of gods and asuras, and deeply marked by the tips of Airavata's tusks; twenty-armed, ten-necked, splendidly attired, broad-chested, heroic, bearing the marks of royalty." This is the textual source for the Ravana lock above.
 
-## 5 — Scene 05
+## 8 — Scene 08
 
-**Visual:** Slow circling shot of [Ravana] as each detail is named: the vajra scars; the gouges from Airavata's tusks; twenty arms, ten heads, a vast chest; kingly bearing; burnished gold earrings; broad shoulders; white teeth; a mountainous mouth; the mark of Vishnu's chakra among the scars of other gods' weapons — none of which ever shook him.
+**Visual:** Same verse card, second verse.
 
-**Story:** దేవతలతో అనేకసార్లు యుద్ధాలు చెయ్యడం వలన, ఆయన గుండెల మీద ఇంద్రుడి వజ్రాయుధపు దెబ్బలు ఉన్నాయి. అలాగే ఐరావతం తన దంతాల చేత కుమ్మినప్పుడు తగిలిన గాయాలు కూడా కనబడుతున్నాయి. ఆ రావణాసురుడు 20 చేతులతో, 10 తలకాయలతో, విశాలమైన వక్షస్థలంతో ఉన్న మహావీరుడు. ఆ రావణుడు రాజులకి ఉండవలసిన లక్షణాలతో శోభిస్తున్నాడు. బాగా కాల్చిన బంగారపు కుండలములు పెట్టుకున్నాడు, విశాలమైన భుజాలతో ఉన్నాడు, తెల్లటి పళ్ళతో, పర్వతమంటి నోటితో ఉన్నాడు. శ్రీమహా విష్ణువు యొక్క చక్రము చేత కొట్టబడ్డప్పుడు తగిలిన దెబ్బలు ఆయన శరీరం మీద ఉన్నాయి, అలాగే మిగిలిన దేవతల ఆయుధముల దెబ్బలు వాడి ఒంటి మీద ఉన్నాయి. అంతమంది దేవతల యొక్క దెబ్బలు తిన్నా ఆయన ఎప్పుడూ క్షోభించలేదు.
+**Story:** వింశత్ భుజం దశ గ్రీవం దర్శనీయ పరిచ్ఛదం । విశాల వక్షసం వీరం రాజ లక్షణ లక్షితం ॥
+
+**Image:** Pending creation.
+
+## 9 — Scene 09
+
+**Visual:** Slow circling shot of [Ravana]: the vajra scars; the gouges from Airavata's tusks.
+
+**Story:** దేవతలతో అనేకసార్లు యుద్ధాలు చెయ్యడం వలన, ఆయన గుండెల మీద ఇంద్రుడి వజ్రాయుధపు దెబ్బలు ఉన్నాయి. అలాగే ఐరావతం తన దంతాల చేత కుమ్మినప్పుడు తగిలిన గాయాలు కూడా కనబడుతున్నాయి.
 
 **Image:** Pending creation.
 
 **Source note:** Ravana's defining first portrait. He is magnificent and terrible at once — a great warrior-king, not a cartoon villain. Lock every detail here for the rest of the series.
 
-## 6 — Scene 06
+## 10 — Scene 10
 
-**Visual:** Rapid insets of his deeds: churning the seas; hurling mountains as exercise; seeking out the gods for battle; tormenting the righteous; carrying off other men's wives (shown only as a distant abduction silhouette); wielding and withdrawing astras; smashing sacrifices; defeating Vasuki in Patala; seizing Takshaka's wife; battling Kubera on Kailasa and taking the Pushpaka vimana.
+**Visual:** Twenty arms, ten heads, a vast chest; kingly bearing.
 
-**Story:** ఆయన అప్పుడప్పుడు సముద్రాలని కలయతిప్పుతూ ఉంటాడు. ఆయన పర్వతాలని విసురుతూ వ్యాయామం చేసేవాడు. కావాలని వెళ్ళి దేవతలతో యుద్ధం చేసేవాడు. ఎక్కడన్నా ఎవరైనా ధర్మ మార్గంలో ఉంటే, వాళ్ళని హింసిస్తాడు. ఇతరుల భార్యలని బలవంతంగా తీసుకొని వచ్చి అనుభవించడం ఆయనకి చాలా ఇష్టం. అలాగే ఆయనకి అనేక రకములైన అస్త్రములను ప్రయోగించడం తెలుసు, ఆ అస్త్రములను ఉపసంహరించడం కూడా తెలుసు. ఎవరన్నా యజ్ఞాలు చేస్తుంటే, తనకున్న శక్తితో ఆ యజ్ఞాన్ని ధ్వంసం చేసేవాడు. ఒకసారి పాతాళంలో ఉన్న వాసుకిని ఓడించాడు, అలాగే తక్షకుడి భార్యను తీసుకొని వచ్చి తన భార్యగా పెట్టుకున్నాడు. కైలాసంలో కుబేరుడితో యుద్ధం చేసి ఆయన దగ్గర ఉన్న పుష్పక విమానాన్ని తెచ్చుకున్నాడు (కుబేరుడు స్వయంగా రావణుడికి అన్నయ్య. కాకపోతే కుబేరుడు మొదటి భార్య కొడుకు, రావణుడు రెండవ భార్య కొడుకు).
+**Story:** ఆ రావణాసురుడు 20 చేతులతో, 10 తలకాయలతో, విశాలమైన వక్షస్థలంతో ఉన్న మహావీరుడు. ఆ రావణుడు రాజులకి ఉండవలసిన లక్షణాలతో శోభిస్తున్నాడు.
+
+**Image:** Pending creation.
+
+## 11 — Scene 11
+
+**Visual:** Burnished gold earrings, broad shoulders, white teeth, a mountainous mouth; the mark of Vishnu's chakra.
+
+**Story:** బాగా కాల్చిన బంగారపు కుండలములు పెట్టుకున్నాడు, విశాలమైన భుజాలతో ఉన్నాడు, తెల్లటి పళ్ళతో, పర్వతమంటి నోటితో ఉన్నాడు. శ్రీమహా విష్ణువు యొక్క చక్రము చేత కొట్టబడ్డప్పుడు తగిలిన దెబ్బలు ఆయన శరీరం మీద ఉన్నాయి,
+
+**Image:** Pending creation.
+
+## 12 — Scene 12
+
+**Visual:** The scars of other gods' weapons — none of which ever shook him.
+
+**Story:** అలాగే మిగిలిన దేవతల ఆయుధముల దెబ్బలు వాడి ఒంటి మీద ఉన్నాయి. అంతమంది దేవతల యొక్క దెబ్బలు తిన్నా ఆయన ఎప్పుడూ క్షోభించలేదు.
+
+**Image:** Pending creation.
+
+## 13 — Scene 13
+
+**Visual:** Rapid insets of his deeds: churning the seas; hurling mountains as exercise; seeking out the gods for battle; tormenting the righteous.
+
+**Story:** ఆయన అప్పుడప్పుడు సముద్రాలని కలయతిప్పుతూ ఉంటాడు. ఆయన పర్వతాలని విసురుతూ వ్యాయామం చేసేవాడు. కావాలని వెళ్ళి దేవతలతో యుద్ధం చేసేవాడు. ఎక్కడన్నా ఎవరైనా ధర్మ మార్గంలో ఉంటే, వాళ్ళని హింసిస్తాడు.
 
 **Image:** Pending creation.
 
 **Source note:** The line about other men's wives foreshadows Sita's abduction — keep the visual a distant silhouette only. The Pushpaka vimana's first appearance: fix its design here for Sundara and Yuddha Khaandas. The bracketed note on Kubera is the source's own.
 
-## 7 — Scene 07
+## 14 — Scene 14
 
-**Visual:** Insets continued: Chaitraratha, a lovely northern grove, laid waste; Indra's Nandana garden ruined; Ravana in the sky halting the sun and moon; then ten thousand years of tapas; Ravana cutting off his heads one by one and offering them into the fire (shown as flame and silhouette only); [Brahma Visual Lock] appearing, pleased.
+**Visual:** A distant abduction silhouette, kept brief; Ravana wielding and withdrawing astras.
 
-**Story:** ఉత్తర భారతంలో చైత్రరథం అనే అందమైన వనం ఉందని ఎవరో చెబితే, రావణుడు అక్కడికి వెళ్ళి, ఇంత అందమైన వనం నాకు లేనప్పుడు ఎవరికీ ఉండకూడదని ఆ వనాన్ని నాశనం చేశాడు. అలాగే స్వర్గలోకములోని నందన వనాన్ని నాశనం చేశాడు. అప్పుడప్పుడు ఆకాశంలో నిలబడి సూర్యచంద్రుల గమనాన్ని ఆపుతాడు. రావణుడు బ్రహ్మదేవుడి కోసం 10,000 సంవత్సరములు తపస్సు చేశాడు. అన్ని సంవత్సరములు తపస్సు చేసినా బ్రహ్మదేవుడు ప్రత్యక్షం అవ్వకపోయేసరికి తన పది తలకాయలు నరికి అగ్నిలో వేశాడు. అప్పుడు బ్రహ్మదేవుడు ప్రసన్నమై ఏమి కావాలి అని అడుగగా —
+**Story:** ఇతరుల భార్యలని బలవంతంగా తీసుకొని వచ్చి అనుభవించడం ఆయనకి చాలా ఇష్టం. అలాగే ఆయనకి అనేక రకములైన అస్త్రములను ప్రయోగించడం తెలుసు, ఆ అస్త్రములను ఉపసంహరించడం కూడా తెలుసు.
+
+**Image:** Pending creation.
+
+## 15 — Scene 15
+
+**Visual:** Sacrifices smashed; Vasuki defeated in Patala.
+
+**Story:** ఎవరన్నా యజ్ఞాలు చేస్తుంటే, తనకున్న శక్తితో ఆ యజ్ఞాన్ని ధ్వంసం చేసేవాడు. ఒకసారి పాతాళంలో ఉన్న వాసుకిని ఓడించాడు, అలాగే తక్షకుడి భార్యను తీసుకొని వచ్చి తన భార్యగా పెట్టుకున్నాడు.
+
+**Image:** Pending creation.
+
+## 16 — Scene 16
+
+**Visual:** Battle with Kubera on Kailasa; the Pushpaka vimana taken.
+
+**Story:** కైలాసంలో కుబేరుడితో యుద్ధం చేసి ఆయన దగ్గర ఉన్న పుష్పక విమానాన్ని తెచ్చుకున్నాడు (కుబేరుడు స్వయంగా రావణుడికి అన్నయ్య. కాకపోతే కుబేరుడు మొదటి భార్య కొడుకు, రావణుడు రెండవ భార్య కొడుకు).
+
+**Image:** Pending creation.
+
+## 17 — Scene 17
+
+**Visual:** Insets continued: Chaitraratha, a lovely northern grove, laid waste.
+
+**Story:** ఉత్తర భారతంలో చైత్రరథం అనే అందమైన వనం ఉందని ఎవరో చెబితే, రావణుడు అక్కడికి వెళ్ళి, ఇంత అందమైన వనం నాకు లేనప్పుడు ఎవరికీ ఉండకూడదని ఆ వనాన్ని నాశనం చేశాడు.
 
 **Image:** Pending creation.
 
 **Source note:** The head-offering must stay symbolic (fire and silhouette); no severed heads.
 
-## 8 — Scene 08
+## 18 — Scene 18
+
+**Visual:** Indra's Nandana garden ruined; Ravana in the sky halting the sun and moon; then long tapas.
+
+**Story:** అలాగే స్వర్గలోకములోని నందన వనాన్ని నాశనం చేశాడు. అప్పుడప్పుడు ఆకాశంలో నిలబడి సూర్యచంద్రుల గమనాన్ని ఆపుతాడు. రావణుడు బ్రహ్మదేవుడి కోసం 10,000 సంవత్సరములు తపస్సు చేశాడు.
+
+**Image:** Pending creation.
+
+## 19 — Scene 19
+
+**Visual:** Ravana offering his heads into the fire — flame and silhouette only; [Brahma Visual Lock] appearing, pleased.
+
+**Story:** అన్ని సంవత్సరములు తపస్సు చేసినా బ్రహ్మదేవుడు ప్రత్యక్షం అవ్వకపోయేసరికి తన పది తలకాయలు నరికి అగ్నిలో వేశాడు. అప్పుడు బ్రహ్మదేవుడు ప్రసన్నమై ఏమి కావాలి అని అడుగగా —
+
+**Image:** Pending creation.
+
+## 20 — Scene 20
 
 **Visual:** On-screen shloka text over Ravana kneeling before Brahma.
 
@@ -88,27 +184,59 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — flagged for the manual audit: "He has freedom from fear in battle from gods, danavas, gandharvas, pishachas, birds and serpents — from death by any but a man."
 
-## 9 — Scene 09
+## 21 — Scene 21
 
-**Visual:** [Ravana] reciting his list of beings before Brahma with a proud smile; a small human figure, unmentioned, left in shadow at the edge of the frame; then insets of stolen soma and broken sacrifices.
+**Visual:** [Ravana] reciting his list of beings before Brahma with a proud smile.
 
-**Story:** "నేను పాముల చేత, యక్షుల చేత, గంధర్వుల చేత, కిన్నెరుల చేత, కింపురుషుల చేత, ఎవ్వరి చేత నాకు మరణం కలగకూడదు" అని అడిగాడు, కాని రావణుడు మనుషుల చేత మరణించకూడదని అడగలేదు. యజ్ఞములలో దేవతలకి సమర్పించే సోమరసాన్ని ఆయన అపహరించేవాడు. ఎక్కడన్నా యజ్ఞము పూర్తవబోతుంది అనగా, అక్కడికి వచ్చి ఆ యజ్ఞాన్ని ధ్వంసం చెయ్యడం రావణుడికి బాగా ఇష్టం. సర్వకాలములయందు దుష్ట ప్రవర్తనతోనే ఉంటాడు.
+**Story:** "నేను పాముల చేత, యక్షుల చేత, గంధర్వుల చేత, కిన్నెరుల చేత, కింపురుషుల చేత, ఎవ్వరి చేత నాకు మరణం కలగకూడదు" అని అడిగాడు,
 
 **Image:** Pending creation.
 
 **Source note:** The omission of "man" from the boon is the hinge of the whole epic — Rama is a man. Let that one clause land with a pause.
 
-## 10 — Scene 10
+## 22 — Scene 22
 
-**Visual:** Flashback inset: [Ravana] heaving at Mount Kailasa; the mountain pressed down gently by a great toe (Shiva shown only by his serene foot and a glow); Ravana's arms trapped; his roar shaking the three worlds.
+**Visual:** A small human figure, unmentioned, left in shadow at the edge of the frame; then stolen soma.
 
-**Story:** (ఒకసారి రావణుడు కైలాశ పర్వతాన్ని లేపాలని చూస్తే, పరమశివుడు తన బొటను వేలితో ఆ పర్వతాన్ని కిందకి తొక్కాడు. అప్పుడు రావణుడి రెండు చేతులూ ఆ పర్వతం కిందనే ఉండడంచేత రావణుడు గట్టిగా అరిచాడు. ముల్లోకాలని భయకంపితులని చేసేవిధంగా అరిచాడు కనుక (రవం చేశాడు కనుక) ఆయనని రావణ అని పిలిచారు.
+**Story:** కాని రావణుడు మనుషుల చేత మరణించకూడదని అడగలేదు. యజ్ఞములలో దేవతలకి సమర్పించే సోమరసాన్ని ఆయన అపహరించేవాడు.
+
+**Image:** Pending creation.
+
+## 23 — Scene 23
+
+**Visual:** Broken sacrifices; Ravana's unchanging malice.
+
+**Story:** ఎక్కడన్నా యజ్ఞము పూర్తవబోతుంది అనగా, అక్కడికి వచ్చి ఆ యజ్ఞాన్ని ధ్వంసం చెయ్యడం రావణుడికి బాగా ఇష్టం. సర్వకాలములయందు దుష్ట ప్రవర్తనతోనే ఉంటాడు.
+
+**Image:** Pending creation.
+
+## 24 — Scene 24
+
+**Visual:** Flashback inset: [Ravana] heaving at Mount Kailasa; the mountain pressed down gently by a great toe (Shiva shown only by his serene foot and a glow).
+
+**Story:** (ఒకసారి రావణుడు కైలాశ పర్వతాన్ని లేపాలని చూస్తే, పరమశివుడు తన బొటను వేలితో ఆ పర్వతాన్ని కిందకి తొక్కాడు.
 
 **Image:** Pending creation.
 
 **Source note:** The source's own aside on the origin of the name "Ravana" (from "రవం", a roar). Treat Shiva with reverence: only the foot and light. The source says "రెండు చేతులూ" — keep that exact detail.
 
-## 11 — Scene 11
+## 25 — Scene 25
+
+**Visual:** Ravana's arms trapped beneath the mountain.
+
+**Story:** అప్పుడు రావణుడి రెండు చేతులూ ఆ పర్వతం కిందనే ఉండడంచేత రావణుడు గట్టిగా అరిచాడు.
+
+**Image:** Pending creation.
+
+## 26 — Scene 26
+
+**Visual:** His roar shaking the three worlds; overlay "రవం → రావణ".
+
+**Story:** ముల్లోకాలని భయకంపితులని చేసేవిధంగా అరిచాడు కనుక (రవం చేశాడు కనుక) ఆయనని రావణ అని పిలిచారు.
+
+**Image:** Pending creation.
+
+## 27 — Scene 27
 
 **Visual:** On-screen shloka text over [Shurpanakha] looking up at her brother on his throne.
 
@@ -118,7 +246,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — flagged for the manual audit: "The rakshasi saw her brother Ravana — cruel, mighty, the terror of all beings and all worlds."
 
-## 12 — Scene 12
+## 28 — Scene 28
 
 **Visual:** An extreme close-up sweep across [Ravana Visual Lock]'s ten faces, each turning in turn toward his sister, the last one in the centre fixing her with a burning gaze; lamp-flames in the court flickering; low drone.
 
@@ -128,7 +256,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Ends on Ravana's gaze; Shurpanakha's speech opens E3.15.
 
-## 13 — Scene 13
+## 29 — Scene 29
 
 **Visual:** End card.
 

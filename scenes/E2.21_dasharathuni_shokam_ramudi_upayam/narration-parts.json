@@ -57,16 +57,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "రాముడితో పాటే నా చూపు వెళ్ళిపోయింది, అందుకని రాముడి తల్లివైన నువ్వు నన్ను ఒకసారి ముట్టుకో,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 3,
-    "id": "04.03",
-    "text": "నువ్వు ముట్టుకుంటే రాముడు ముట్టుకున్నట్టు ఉంటుందేమో, ఒకసారి నన్ను ముట్టుకోవా కౌసల్యా\" అన్నాడు.",
+    "text": "రాముడితో పాటే నా చూపు వెళ్ళిపోయింది,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -75,7 +66,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "\"అవునులే, కన్న కొడుకుని అరణ్యాలకి పంపించావు, ఇవ్వాళ నన్ను ఇలాంటి దౌర్భాగ్యస్థితిలో పడేశావు, నీ వలన దేశం అంతా బాధపడుతోంది,",
+    "text": "అందుకని రాముడి తల్లివైన నువ్వు నన్ను ఒకసారి ముట్టుకో, నువ్వు ముట్టుకుంటే రాముడు ముట్టుకున్నట్టు ఉంటుందేమో,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -84,7 +75,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "ఇప్పటికైనా నీకు సంతోషంగా ఉందా రాజా\" అని కౌసల్య పలికింది.",
+    "text": "ఒకసారి నన్ను ముట్టుకోవా కౌసల్యా\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -93,16 +84,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "అప్పుడు దశరథుడు \"పడిపోయిన గుర్రాన్ని ఎందుకు పొడుస్తావు కౌసల్య, దగ్గర ఉపశాంతి పొందుదామని వచ్చాను,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 2,
-    "id": "06.02",
-    "text": "నువ్వు కూడా ఇంత మాట అన్నావా కౌసల్య\" అని మళ్ళీ మూర్ఛపోయాడు.",
+    "text": "\"అవునులే, కన్న కొడుకుని అరణ్యాలకి పంపించావు, ఇవ్వాళ నన్ను ఇలాంటి దౌర్భాగ్యస్థితిలో పడేశావు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -111,16 +93,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "అటుపక్క తెల్లవారుతుండగా రాముడు సుమంత్రుడిని పిలిచి \"వీళ్ళందరూ వృద్ధులైన బ్రాహ్మణులు, నా మీద ఉన్న ప్రేమతో నా వెనకాల వచ్చారు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 2,
-    "id": "07.02",
-    "text": "14 సంవత్సరములు నేను కనపడకపోతే వాళ్ళు బాధ పడతారు, అందుచేత నేను కనపడకపోతే వాళ్ళు వెనక్కి వెళ్ళిపోతారు\" అన్నాడు.",
+    "text": "నీ వలన దేశం అంతా బాధపడుతోంది, ఇప్పటికైనా నీకు సంతోషంగా ఉందా రాజా\" అని కౌసల్య పలికింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -129,7 +102,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "\"తెల్లవారుజామున అందరూ గాఢ నిద్రలో ఉండగానే మనం వెళ్ళిపోదాం,",
+    "text": "అప్పుడు దశరథుడు \"పడిపోయిన గుర్రాన్ని ఎందుకు పొడుస్తావు కౌసల్య, దగ్గర ఉపశాంతి పొందుదామని వచ్చాను,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -138,34 +111,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "వీళ్ళు వెనక్కి వెళ్ళకుండా రాముడు ఎటు వెళ్ళాడో గుర్తుపడదామని రథ చక్రాల వెనక వస్తారు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "అందుకని రథాన్ని ముందు ఉత్తర దిక్కుకి పోనివ్వు, ఉత్తర దిక్కున అయోధ్య ఉంది, అలా కొంతదూరం పోనిచ్చాక,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "రథాన్ని వెనక్కి తిప్పి గడ్డిమీద, పొదల మీద నుండి పోనిచ్చి తమసా నదిని దాటించు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 5,
-    "id": "08.05",
-    "text": "అప్పుడు వాళ్ళకి రథచక్రాల గుర్తులు కనపడకపోయేసరికి వాళ్ళందరూ అయోధ్యకి వెళతారు\" అన్నాడు.",
+    "text": "నువ్వు కూడా ఇంత మాట అన్నావా కౌసల్య\" అని మళ్ళీ మూర్ఛపోయాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -174,16 +120,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "అలా తెల్లవారగానే నిశబ్దంగా ఉత్తర దిక్కుకి రథాన్ని పోనిచ్చి, మళ్ళీ అదే గాడిలో వెనక్కి వచ్చి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 2,
-    "id": "09.02",
-    "text": "తమసా నదిని దాటి ఆవలి వడ్డుకి చేరుకున్నారు.",
+    "text": "అటుపక్క తెల్లవారుతుండగా రాముడు సుమంత్రుడిని పిలిచి \"వీళ్ళందరూ వృద్ధులైన బ్రాహ్మణులు, నా మీద ఉన్న ప్రేమతో నా వెనకాల వచ్చారు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -192,6 +129,78 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
+    "text": "14 సంవత్సరములు నేను కనపడకపోతే వాళ్ళు బాధ పడతారు, అందుచేత నేను కనపడకపోతే వాళ్ళు వెనక్కి వెళ్ళిపోతారు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "\"తెల్లవారుజామున అందరూ గాఢ నిద్రలో ఉండగానే మనం వెళ్ళిపోదాం,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "వీళ్ళు వెనక్కి వెళ్ళకుండా రాముడు ఎటు వెళ్ళాడో గుర్తుపడదామని రథ చక్రాల వెనక వస్తారు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 3,
+    "id": "11.03",
+    "text": "అందుకని రథాన్ని ముందు ఉత్తర దిక్కుకి పోనివ్వు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "ఉత్తర దిక్కున అయోధ్య ఉంది, అలా కొంతదూరం పోనిచ్చాక, రథాన్ని వెనక్కి తిప్పి గడ్డిమీద,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "పొదల మీద నుండి పోనిచ్చి తమసా నదిని దాటించు, అప్పుడు వాళ్ళకి రథచక్రాల గుర్తులు కనపడకపోయేసరికి వాళ్ళందరూ అయోధ్యకి వెళతారు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "అలా తెల్లవారగానే నిశబ్దంగా ఉత్తర దిక్కుకి రథాన్ని పోనిచ్చి, మళ్ళీ అదే గాడిలో వెనక్కి వచ్చి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "తమసా నదిని దాటి ఆవలి వడ్డుకి చేరుకున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
     "text": "తర్వాత చూద్దాం — రాముడి ప్రయాణం ముందుకు ఎలా సాగుతుందో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

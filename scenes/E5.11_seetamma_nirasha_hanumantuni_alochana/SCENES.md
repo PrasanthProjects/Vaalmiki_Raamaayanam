@@ -20,9 +20,9 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 2 — Scene 02
 
-**Visual:** [Sita, SITA-S4 — beneath the shimshupa tree] alone at the foot of the tree, speaking half to herself; a memory-grade flash of the golden deer.
+**Visual:** [Sita, SITA-S4 — beneath the shimshupa tree] alone at the foot of the tree, speaking half to herself — all Lanka will weep as I weep.
 
-**Story:** అప్పుడు సీతమ్మ "నన్ను 10 నెలల నుండి ఇంత బాధ పెట్టారు కనుక, నేను ఎలా ఏడుస్తున్నానో అలా ఈ లంక అంతా ఏడుస్తుంది. ప్రతి ఇంట ఏడుపులు వినపడతాయి" అని, ఈ లంకని పాలిస్తున్న రావణుడికి, ఇక్కడున్న వాళ్ళకి ధర్మమునందు పూనిక లేదు అందుకనే నన్ను తీసుకొని వచ్చి ఇక్కడ పెట్టాడు. ఈ 2 నెలల గడువు తరువాత రావణుడి చేతిలో మరణించడం కన్నా ఇప్పుడే మరణించడం ఉత్తమం అనుకొని' కాలమే మృగ స్వరూపంలో వచ్చి నన్ను మోహపెట్టింది, నేను అల్ప భాగ్యం ఉన్నదానిని అందుకనే ఆ మృగాన్ని చూసి మోహపడి రాముడిని వదిలేశాను. రాముడు పక్కన ఉంటే అన్నీ ఉండేవి, రాముడిని వదిలేశాను అన్నీ పోయాయి. రాముడి తరవాత పుట్టిన వాడిని వదిలాను, లక్ష్మణుడికి ముందు పుట్టినవాడు దూరం అయ్యాడు.
+**Story:** అప్పుడు సీతమ్మ "నన్ను 10 నెలల నుండి ఇంత బాధ పెట్టారు కనుక, నేను ఎలా ఏడుస్తున్నానో అలా ఈ లంక అంతా ఏడుస్తుంది.
 
 **Image:** Pending creation.
 
@@ -30,55 +30,175 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 3 — Scene 03
 
-**Visual:** [Sita, SITA-S4 — beneath the shimshupa tree] calling on Rama, tears falling; grief treatment (Style Guide).
+**Visual:** Sita looking toward the palace — there is no care for dharma here.
 
-**Story:** రామా! రావణుడు 10 నెలల నుండి తన ఐశ్వర్యాన్ని చూపిస్తూ నన్ను లోభాపెట్టాలని చూశాడు, కాని నేను లొంగలేదు. నా భర్తే నాకు దైవం అని నమ్మాను, భూమిమీద పడుకున్నాను, ఉపవాసాలు చేశాను, ధర్మాన్ని పాటించాను, ఇన్ని చేస్తే నాకు రామానుగ్రహం కలుగుతుందని అనుకున్నాను. కాని నువ్వు రాలేదు, నన్ను కరుణించలేదు. నా పాతివ్రత్యం విఫలమయ్యింది. కృతఘ్నుడైన వ్యక్తికి ఉపకారం చేస్తే ఆ ఉపకారము ఎలా మరువబడుతుందో, అలా నేను చేసిన ఉపాసన, నేను పాటించిన పాతివ్రత్యం అన్నీ కూడా నిష్ప్రయోజనం అయ్యాయి. ఇక్కడ పొడుచుకొని చనిపోదామంటే కత్తి ఇచ్చేవారు లేరు, విషం తాగి చనిపోదామంటే విషం ఇచ్చే వారు లేరు' అనుకొని, తన కేశపాశములని(జుట్టుని) చెట్టు కొమ్మకి తాడులా బిగించి ఉరి వేసుకొని చనిపోవాలని నిర్ణయించుకుంది.
+**Story:** ప్రతి ఇంట ఏడుపులు వినపడతాయి" అని, ఈ లంకని పాలిస్తున్న రావణుడికి, ఇక్కడున్న వాళ్ళకి ధర్మమునందు పూనిక లేదు అందుకనే నన్ను తీసుకొని వచ్చి ఇక్కడ పెట్టాడు.
+
+**Image:** Pending creation.
+
+## 4 — Scene 04
+
+**Visual:** Sita resolving — better now than at his hands; a memory-grade flash of the golden deer.
+
+**Story:** ఈ 2 నెలల గడువు తరువాత రావణుడి చేతిలో మరణించడం కన్నా ఇప్పుడే మరణించడం ఉత్తమం అనుకొని' కాలమే మృగ స్వరూపంలో వచ్చి నన్ను మోహపెట్టింది,
+
+**Image:** Pending creation.
+
+## 5 — Scene 05
+
+**Visual:** Sita's self-reproach.
+
+**Story:** నేను అల్ప భాగ్యం ఉన్నదానిని అందుకనే ఆ మృగాన్ని చూసి మోహపడి రాముడిని వదిలేశాను.
+
+**Image:** Pending creation.
+
+## 6 — Scene 06
+
+**Visual:** Rama and Lakshmana in memory, receding.
+
+**Story:** రాముడు పక్కన ఉంటే అన్నీ ఉండేవి, రాముడిని వదిలేశాను అన్నీ పోయాయి. రాముడి తరవాత పుట్టిన వాడిని వదిలాను, లక్ష్మణుడికి ముందు పుట్టినవాడు దూరం అయ్యాడు.
+
+**Image:** Pending creation.
+
+## 7 — Scene 07
+
+**Visual:** [Sita, SITA-S4] calling on Rama, tears falling. Grief treatment (Style Guide).
+
+**Story:** రామా! రావణుడు 10 నెలల నుండి తన ఐశ్వర్యాన్ని చూపిస్తూ నన్ను లోభాపెట్టాలని చూశాడు, కాని నేను లొంగలేదు.
 
 **Image:** Pending creation.
 
 **Source note:** The lowest point: she believes her fidelity has borne no fruit. There is no knife, no poison.
 
-## 4 — Scene 04
+## 8 — Scene 08
 
-**Visual:** [Sita, SITA-S4 — beneath the shimshupa tree] winding her long braid round a branch (the p. 470 illustration) — and pausing: an inset of a half-open white lotus on a pond, its stem brushed by a passing fish so that the flower trembles; her eye trembling so.
+**Visual:** Sita recalling her vigil — the bare ground, the fasts.
 
-**Story:** సీతమ్మ తన జుట్టుని ఆ శింశుపా వృక్షం యొక్క కొమ్మకి గట్టిగా బిగించి చనిపోదామని సిద్ధపడుతున్న తరుణంలో ఆమెకి శుభశకునములు కనపడ్డాయి. సరోవరంలో నీటి పైభాగమునందు అరవిసిరిన తెల్ల పద్మమునకు నీటి లోపలికి కాడ ఉంటుంది. ఆ నీటిలోకి ఉండిపోయిన కాడ పక్కకి ఒక చాప వచ్చి నిలబడింది. ఆ చాప అక్కడినుండి వెళ్ళిపోయేముందు తన తోకని కదిపి వెళ్ళిపోయింది, అప్పుడా తోక వెళ్ళి ఆ పద్మము యొక్క కాడకి తగలడం వలన ఆ కాడ కదిలింది, కాడతోపాటు పైన ఉన్న పువ్వు కూడా కదిలింది. ఆ పువ్వు ఎలా కదిలిందో సీతమ్మ కన్ను కూడా ఆ సమయంలో అలా అందంగా అటూ ఇటూ కదిలింది.
+**Story:** నా భర్తే నాకు దైవం అని నమ్మాను, భూమిమీద పడుకున్నాను, ఉపవాసాలు చేశాను, ధర్మాన్ని పాటించాను, ఇన్ని చేస్తే నాకు రామానుగ్రహం కలుగుతుందని అనుకున్నాను. కాని నువ్వు రాలేదు, నన్ను కరుణించలేదు.
+
+**Image:** Pending creation.
+
+## 9 — Scene 09
+
+**Visual:** Sita — my fidelity has borne no fruit.
+
+**Story:** నా పాతివ్రత్యం విఫలమయ్యింది. కృతఘ్నుడైన వ్యక్తికి ఉపకారం చేస్తే ఆ ఉపకారము ఎలా మరువబడుతుందో, అలా నేను చేసిన ఉపాసన, నేను పాటించిన పాతివ్రత్యం అన్నీ కూడా నిష్ప్రయోజనం అయ్యాయి.
+
+**Image:** Pending creation.
+
+## 10 — Scene 10
+
+**Visual:** Sita looking up at the branch above her — handled with great restraint.
+
+**Story:** ఇక్కడ పొడుచుకొని చనిపోదామంటే కత్తి ఇచ్చేవారు లేరు, విషం తాగి చనిపోదామంటే విషం ఇచ్చే వారు లేరు' అనుకొని, తన కేశపాశములని(జుట్టుని) చెట్టు కొమ్మకి తాడులా బిగించి ఉరి వేసుకొని చనిపోవాలని నిర్ణయించుకుంది.
+
+**Image:** Pending creation.
+
+## 11 — Scene 11
+
+**Visual:** [Sita, SITA-S4] with her long braid in her hands beside the branch — and pausing.
+
+**Story:** సీతమ్మ తన జుట్టుని ఆ శింశుపా వృక్షం యొక్క కొమ్మకి గట్టిగా బిగించి చనిపోదామని సిద్ధపడుతున్న తరుణంలో ఆమెకి శుభశకునములు కనపడ్డాయి.
 
 **Image:** Pending creation.
 
 **Source note:** Handle with great restraint: the intention is shown by the braid on the branch only. The omen that stops her is given by one of the loveliest similes in the kanda.
 
-## 5 — Scene 05
+## 12 — Scene 12
+
+**Visual:** Inset: a half-open white lotus on a pond, a fish beside its stem.
+
+**Story:** సరోవరంలో నీటి పైభాగమునందు అరవిసిరిన తెల్ల పద్మమునకు నీటి లోపలికి కాడ ఉంటుంది. ఆ నీటిలోకి ఉండిపోయిన కాడ పక్కకి ఒక చాప వచ్చి నిలబడింది.
+
+**Image:** Pending creation.
+
+## 13 — Scene 13
+
+**Visual:** The fish's tail brushing the stem so that the flower trembles.
+
+**Story:** ఆ చాప అక్కడినుండి వెళ్ళిపోయేముందు తన తోకని కదిపి వెళ్ళిపోయింది, అప్పుడా తోక వెళ్ళి ఆ పద్మము యొక్క కాడకి తగలడం వలన ఆ కాడ కదిలింది, కాడతోపాటు పైన ఉన్న పువ్వు కూడా కదిలింది.
+
+**Image:** Pending creation.
+
+## 14 — Scene 14
+
+**Visual:** Her eye trembling so.
+
+**Story:** ఆ పువ్వు ఎలా కదిలిందో సీతమ్మ కన్ను కూడా ఆ సమయంలో అలా అందంగా అటూ ఇటూ కదిలింది.
+
+**Image:** Pending creation.
+
+## 15 — Scene 15
 
 **Visual:** [Hanuman Visual Lock — small, hidden in the shimshupa tree] above, urgent, thinking fast.
 
-**Story:** అప్పటిదాకా పైన ఉండి సీతమ్మని చూస్తున్న హనుమంతుడు అనుకున్నాడు 'ఈశ్వరానుగ్రహం చేత నాకు సీతమ్మ దర్శనం అయ్యింది. రావణుడిని చూశాను, రావణుడు సీతమ్మతో మాట్లాడిన మాటలు విన్నాను, త్రిజటా స్వప్నం విన్నాను. సీతమ్మని జగన్మాతగా తెలుసుకున్నాను. నేను సీతమ్మని చూశాను అన్న విషయాన్ని ఇప్పుడే వెళ్ళి రాముడికి చెప్పలేను, ఎందుకంటే అమ్మ ఇప్పుడు ఉరి పోసుకుంటుంది. నేను ఇప్పుడు సీతమ్మని ఓదార్చాలి. ఇప్పుడు నేను అమ్మని ఓదార్చి మాట్లాడకుండా వెళ్ళిపోతే, రేపుపొద్దున్న సీతమ్మ ఉరి పోసుకొని చనిపోయిందన్న విషయం రాముడికి తెలిస్తే ఆయన బాణముల చేత ఈ సమస్త బ్రహ్మాండములను క్షోభింప చేస్తాడు. నేను చాలా పండితుడని అనుకున్న వివేచనాశీలత లేని మంత్రి చేత, దూత చేత కార్యములు చెడిపోతాయి.
+**Story:** అప్పటిదాకా పైన ఉండి సీతమ్మని చూస్తున్న హనుమంతుడు అనుకున్నాడు 'ఈశ్వరానుగ్రహం చేత నాకు సీతమ్మ దర్శనం అయ్యింది. రావణుడిని చూశాను, రావణుడు సీతమ్మతో మాట్లాడిన మాటలు విన్నాను, త్రిజటా స్వప్నం విన్నాను. సీతమ్మని జగన్మాతగా తెలుసుకున్నాను.
 
 **Image:** Pending creation.
 
 **Source note:** He has seen everything; now he cannot leave without consoling her — if she dies, Rama's arrows will convulse the worlds.
 
-## 6 — Scene 06
+## 16 — Scene 16
 
-**Visual:** [Hanuman Visual Lock — small, hidden in the shimshupa tree] glancing at the dozing guards, then at [Sita, SITA-S4 — beneath the shimshupa tree].
+**Visual:** Hanuman — I cannot leave without consoling her.
 
-**Story:** ఇప్పుడు నేను ఏమి చెయ్యాలి? నేను గట్టిగా మాట్లాడితే చుట్టూ ఉన్న ఈ రాక్షస స్త్రీలు నా మాటలని విని, నా మీదకి వస్తారు. అప్పుడు నాకు వాళ్ళకి యుద్ధం జరుగుతుంది. జయాపజయములను విధి నిర్ణయిస్తుంది. కాని రాముడు లంకా పట్టణాన్ని చేరేలోపల నేను చేసిన అల్లరి చేత సీతమ్మని రావణుడు వేరొకచోట దాచవచ్చు.
+**Story:** నేను సీతమ్మని చూశాను అన్న విషయాన్ని ఇప్పుడే వెళ్ళి రాముడికి చెప్పలేను, ఎందుకంటే అమ్మ ఇప్పుడు ఉరి పోసుకుంటుంది. నేను ఇప్పుడు సీతమ్మని ఓదార్చాలి. ఇప్పుడు నేను అమ్మని ఓదార్చి మాట్లాడకుండా వెళ్ళిపోతే,
+
+**Image:** Pending creation.
+
+## 17 — Scene 17
+
+**Visual:** Hanuman weighing what a rash messenger can ruin.
+
+**Story:** రేపుపొద్దున్న సీతమ్మ ఉరి పోసుకొని చనిపోయిందన్న విషయం రాముడికి తెలిస్తే ఆయన బాణముల చేత ఈ సమస్త బ్రహ్మాండములను క్షోభింప చేస్తాడు. నేను చాలా పండితుడని అనుకున్న వివేచనాశీలత లేని మంత్రి చేత, దూత చేత కార్యములు చెడిపోతాయి.
+
+**Image:** Pending creation.
+
+## 18 — Scene 18
+
+**Visual:** [Hanuman Visual Lock — hidden in the tree] glancing at the dozing guards.
+
+**Story:** ఇప్పుడు నేను ఏమి చెయ్యాలి? నేను గట్టిగా మాట్లాడితే చుట్టూ ఉన్న ఈ రాక్షస స్త్రీలు నా మాటలని విని, నా మీదకి వస్తారు.
 
 **Image:** Pending creation.
 
 **Source note:** A messenger who thinks himself clever and lacks judgment ruins the errand — he weighs every consequence.
 
-## 7 — Scene 07
+## 19 — Scene 19
 
-**Visual:** [Hanuman Visual Lock — small, hidden in the shimshupa tree] deciding; leaning out along the branch above her, beginning to speak softly.
+**Visual:** Hanuman looking down at [Sita, SITA-S4] — a fight now could cost her.
 
-**Story:** ఇప్పుడు నేను వానర బాషలో మాట్లాడితే సీతమ్మకి ఆ బాష అర్ధం కాదు. మనుష్య బాషలో మాట్లాడితే రాక్షసులు గుర్తు పడతారు. వానరరూపంలో ఉన్న నేను మనుష్య బాషలో మాట్లాడితే, ఇది కచ్చితంగా రావణ మాయె అని భయపడి సీతమ్మ ఇంకా గట్టిగా ఉరి బిగించుకుంటుంది. నా కారణంగా సీతమ్మ ప్రాణాలను విడిచిపెడితే ఆ పాపం నాకు అంటుకుంటుంది. ఇప్పుడు నేను ఏమి చెయ్యాలి? ఏమి మాట్లాడి సీతమ్మని ఒదార్చాలి? అని అనుకుంటూ, "సీతమ్మ ఉరి పోసుకోవడం మానేసి నా వైపు చూడాలంటే రామనామం ఒక్కటే మార్గము. సీతమ్మకి చాలా ఇష్టమైన రామ కథని చెబుతాను" అని అనుకొని హనుమంతుడు రామ కథ చెప్పడం ప్రారంభించాడు.
+**Story:** అప్పుడు నాకు వాళ్ళకి యుద్ధం జరుగుతుంది. జయాపజయములను విధి నిర్ణయిస్తుంది. కాని రాముడు లంకా పట్టణాన్ని చేరేలోపల నేను చేసిన అల్లరి చేత సీతమ్మని రావణుడు వేరొకచోట దాచవచ్చు.
+
+**Image:** Pending creation.
+
+## 20 — Scene 20
+
+**Visual:** [Hanuman Visual Lock] weighing which language to use.
+
+**Story:** ఇప్పుడు నేను వానర బాషలో మాట్లాడితే సీతమ్మకి ఆ బాష అర్ధం కాదు. మనుష్య బాషలో మాట్లాడితే రాక్షసులు గుర్తు పడతారు. వానరరూపంలో ఉన్న నేను మనుష్య బాషలో మాట్లాడితే,
 
 **Image:** Pending creation.
 
 **Source note:** Which language? Human speech from a vanara will look like Ravana's sorcery. One thing alone will make her look up: the name and story of Rama.
 
-## 8 — Scene 08
+## 21 — Scene 21
+
+**Visual:** Hanuman fearing she will take him for Ravana's sorcery.
+
+**Story:** ఇది కచ్చితంగా రావణ మాయె అని భయపడి సీతమ్మ ఇంకా గట్టిగా ఉరి బిగించుకుంటుంది. నా కారణంగా సీతమ్మ ప్రాణాలను విడిచిపెడితే ఆ పాపం నాకు అంటుకుంటుంది. ఇప్పుడు నేను ఏమి చెయ్యాలి? ఏమి మాట్లాడి సీతమ్మని ఒదార్చాలి?
+
+**Image:** Pending creation.
+
+## 22 — Scene 22
+
+**Visual:** Hanuman deciding — the name of Rama; leaning out along the branch above her and beginning to speak softly.
+
+**Story:** అని అనుకుంటూ, "సీతమ్మ ఉరి పోసుకోవడం మానేసి నా వైపు చూడాలంటే రామనామం ఒక్కటే మార్గము. సీతమ్మకి చాలా ఇష్టమైన రామ కథని చెబుతాను" అని అనుకొని హనుమంతుడు రామ కథ చెప్పడం ప్రారంభించాడు.
+
+**Image:** Pending creation.
+
+## 23 — Scene 23
 
 **Visual:** End card.
 

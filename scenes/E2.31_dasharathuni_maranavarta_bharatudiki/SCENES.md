@@ -50,9 +50,9 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 5 — Scene 05
 
-**Visual:** [Kaikeyi Visual Lock] responding not with comfort but with brisk, image-conscious irritation — reminding him of his royal dignity and telling him plainly to get up off the floor.
+**Visual:** [Kaikeyi Visual Lock] brisk and image-conscious — a king does not roll on the floor.
 
-**Story:** అప్పుడా కైకేయ "ఓ రాజా, నువ్వు ఇలా నేల మీద పొర్లి ఏడవచ్చా, గొప్ప గొప్ప సభలలో కూర్చోవలసిన వాడివి ఇలా నేల మీద పొర్లడమేమిటి, పైకి లేచి కూర్చో" అని పలికింది.
+**Story:** అప్పుడా కైకేయ "ఓ రాజా, నువ్వు ఇలా నేల మీద పొర్లి ఏడవచ్చా,
 
 **Image:** Pending creation.
 
@@ -60,25 +60,65 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 6 — Scene 06
 
-**Visual:** [Bharata Visual Lock] pulling himself together enough to speak, but still working from an innocent, generous assumption — imagining his father must have simply fallen ill, wondering if perhaps Rama's coronation or some yajna prompted his own urgent summons, and gently asking whether Rama was at least by his father's side at the end, per the tradition that an elder brother stands in a father's place.
+**Visual:** Kaikeyi telling him to get up; [Bharata Visual Lock] still prostrate in grief.
 
-**Story:** అప్పుడు భరతుడు "అమ్మా, నాన్నగారు చిట్టచివర వ్యాధి కలిగి వెళ్ళిపోయారమ్మా, రాముడికి పట్టాభిషేకమో లేక నాన్నగారు ఏదన్నా యజ్ఞము చేస్తున్నారేమో, అందుకని నన్ను తొందరగా రమ్మన్నారని వచ్చానమ్మ, నాన్నగారు వెళ్ళిపోయేటప్పుడు రాముడు పక్కనే ఉండుంటాడు, తండ్రిగారు వెళ్ళిపోతే అన్నగారు తమ్ముళ్ళకి తండ్రిలాంటి వాడని ఆర్యులు చెప్తారు కదా, అందుకని నేను ఇప్పుడు రాముడి పాదాలు పట్టుకుంటే దశరథ మహారాజుగారి పాదాలు పట్టుకున్నంత సంతోషం కలుగుతుందమ్మ, అసలు దశరథ మహారాజు ఎలా చనిపోయారు, చిట్టచివర చనిపోయేముందు ఆయన ఏమన్నారో నాకు చెప్పమ్మా" అన్నాడు.
+**Story:** గొప్ప గొప్ప సభలలో కూర్చోవలసిన వాడివి ఇలా నేల మీద పొర్లడమేమిటి, పైకి లేచి కూర్చో" అని పలికింది.
+
+**Image:** Pending creation.
+
+## 7 — Scene 07
+
+**Visual:** [Bharata Visual Lock] gathering himself — some illness took him, then?
+
+**Story:** అప్పుడు భరతుడు "అమ్మా, నాన్నగారు చిట్టచివర వ్యాధి కలిగి వెళ్ళిపోయారమ్మా, రాముడికి పట్టాభిషేకమో లేక నాన్నగారు ఏదన్నా యజ్ఞము చేస్తున్నారేమో,
 
 **Image:** Pending creation.
 
 **Source note:** This entire speech is built on assumptions the audience already knows are devastatingly wrong — Bharata still believes Rama's coronation may be the reason he was summoned, and reaches for the comfort of "Rama was surely by his side" and "an elder brother stands in for a father"; every line here is unknowing dramatic irony, worth delivering with genuine, fragile hope rather than despair, since that hope is about to be shattered completely in the next scene.
 
-## 7 — Scene 07
+## 8 — Scene 08
 
-**Visual:** [Kaikeyi Visual Lock] answering plainly and without any apparent awareness of how devastating this will land — relaying Dasharatha's actual final words exactly, and explaining, almost as an afterthought, where Rama, Sita, and Lakshmana actually are.
+**Visual:** Bharata, still innocent — Rama must have been beside him; an elder brother stands in a father's place.
 
-**Story:** "వెళ్ళిపోయేముందు 'హా! రామ, హా! లక్ష్మణా, హా! సీతా' అంటూ చనిపోయాడురా, చనిపోతూ చనిపోతూ 'సీతారామలక్ష్మణులు తిరిగి రాజ్యానికి వచ్చినప్పుడు చూసిన వారు ధన్యులు, నేను వాళ్ళని చూడలేను కదా' అని ఏడ్చి ఏడ్చి చనిపోయాడురా" అని కైకేయ చెప్పింది. మరి ఆ సమయంలో సీతారామలక్ష్మణులు ఎక్కడున్నారు అని భరతుడు అడుగగా, వాళ్ళ ముగ్గురూ అరణ్యాలకి వెళ్ళిపోయారు అని కైకేయ చెప్పింది, అరణ్యాలకి ఎందుకు వెళ్ళారు అంటే, మీ నాన్న పంపించేసాడు అని చెప్పింది.
+**Story:** అందుకని నన్ను తొందరగా రమ్మన్నారని వచ్చానమ్మ, నాన్నగారు వెళ్ళిపోయేటప్పుడు రాముడు పక్కనే ఉండుంటాడు, తండ్రిగారు వెళ్ళిపోతే అన్నగారు తమ్ముళ్ళకి తండ్రిలాంటి వాడని ఆర్యులు చెప్తారు కదా,
+
+**Image:** Pending creation.
+
+## 9 — Scene 09
+
+**Visual:** Bharata asking for his father's last words.
+
+**Story:** అందుకని నేను ఇప్పుడు రాముడి పాదాలు పట్టుకుంటే దశరథ మహారాజుగారి పాదాలు పట్టుకున్నంత సంతోషం కలుగుతుందమ్మ, అసలు దశరథ మహారాజు ఎలా చనిపోయారు, చిట్టచివర చనిపోయేముందు ఆయన ఏమన్నారో నాకు చెప్పమ్మా" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 10 — Scene 10
+
+**Visual:** [Kaikeyi Visual Lock] relaying the king's last cries — "O Rama, O Lakshmana, O Sita".
+
+**Story:** "వెళ్ళిపోయేముందు 'హా! రామ, హా! లక్ష్మణా, హా! సీతా' అంటూ చనిపోయాడురా, చనిపోతూ చనిపోతూ 'సీతారామలక్ష్మణులు తిరిగి రాజ్యానికి వచ్చినప్పుడు చూసిన వారు ధన్యులు,
 
 **Image:** Pending creation.
 
 **Source note:** Dasharatha's actual final words, reported here secondhand for the first time — "Rama! Lakshmana! Sita!" — closely mirror but expand on his literal last cry in E2.27 ("Rama! Rama!"); Kaikeyi delivering them so plainly, immediately followed by her deflecting, minimal, technically-true-but-radically-incomplete answer about why the three are in exile ("your father sent them"), is a masterclass in the text's own dramatic escalation — each of Kaikeyi's answers raises more questions than it resolves, setting up Bharata's next, more pointed round of questioning.
 
-## 8 — Scene 08
+## 11 — Scene 11
+
+**Visual:** Kaikeyi finishing, unaware how it lands.
+
+**Story:** నేను వాళ్ళని చూడలేను కదా' అని ఏడ్చి ఏడ్చి చనిపోయాడురా" అని కైకేయ చెప్పింది.
+
+**Image:** Pending creation.
+
+## 12 — Scene 12
+
+**Visual:** Bharata's bewildered questions; Kaikeyi answering, almost as an afterthought — they went to the forest; your father sent them.
+
+**Story:** మరి ఆ సమయంలో సీతారామలక్ష్మణులు ఎక్కడున్నారు అని భరతుడు అడుగగా, వాళ్ళ ముగ్గురూ అరణ్యాలకి వెళ్ళిపోయారు అని కైకేయ చెప్పింది, అరణ్యాలకి ఎందుకు వెళ్ళారు అంటే, మీ నాన్న పంపించేసాడు అని చెప్పింది.
+
+**Image:** Pending creation.
+
+## 13 — Scene 13
 
 **Visual:** End card.
 

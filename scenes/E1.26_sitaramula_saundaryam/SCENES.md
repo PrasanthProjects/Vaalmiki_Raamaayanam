@@ -70,10 +70,18 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 7 — Scene 07
 
-**Visual:** Closing card for the entire Khaanda: a slow pull-back from the garden scene, transitioning into the "బాలకాండ సమాప్తం" (Baala Khaanda concludes) title card. (Location register: Ayodhya, palace garden → title card)
+**Visual:** Closing card for the entire Khaanda: a slow pull-back from the garden scene with a soft montage of the Khaanda's moments, into the "బాలకాండ సమాప్తం" title card. (Location register: Ayodhya, palace garden → title card)
 
-**Story:** ఇది బాలకాండ ముగింపు. ఇరవై ఆరు భాగాలలో — వాల్మీకి మహర్షి పుట్టుక నుండి, శ్రీరాముడి జననం, విశ్వామిత్రుడి గాథ, సీతారాముల కళ్యాణం వరకు — బాలకాండ కథ సంపూర్ణంగా చెప్పుకున్నాం. తర్వాతి కాండలో చూద్దాం — అయోధ్యాకాండ, రామ పట్టాభిషేక ప్రకటనతో మొదలవుతుంది.
+**Story:** ఇది బాలకాండ ముగింపు. ఇరవై ఆరు భాగాలలో — వాల్మీకి మహర్షి పుట్టుక నుండి, శ్రీరాముడి జననం, విశ్వామిత్రుడి గాథ, సీతారాముల కళ్యాణం వరకు — బాలకాండ కథ సంపూర్ణంగా చెప్పుకున్నాం.
 
 **Image:** Pending creation.
 
 **Source note:** This closing line explicitly acknowledges the full 26-episode arc just completed — a satisfying macro-level recap before the transition to Khaanda 2, distinct from the scene-to-scene bridge lines used elsewhere.
+
+## 8 — Scene 08
+
+**Visual:** End card bridging to the next Khaanda — Ayodhya at dawn, the palace in the distance. (Location register: Ayodhya, palace garden → title card)
+
+**Story:** తర్వాతి కాండలో చూద్దాం — అయోధ్యాకాండ, రామ పట్టాభిషేక ప్రకటనతో మొదలవుతుంది.
+
+**Image:** Pending creation.

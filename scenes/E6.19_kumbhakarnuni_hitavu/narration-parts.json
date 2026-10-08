@@ -36,46 +36,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 3,
-    "id": "02.03",
-    "text": "ఇతను రావణుడి తమ్ముడు, ఇతను కూడా ఒక రాక్షసుడే అని వానరాలకి చెప్పకండి, అలా చెబితే వారు భయపడతారు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "అది కేవలం ఒక యంత్రం అని చెప్పండి\" అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
-    "text": "అప్పుడు కుంభకర్ణుడిని యంత్రము అని ప్రకటించారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 6,
-    "id": "02.06",
-    "text": "అలా ప్రకటించగానే పారిపోయిన వానరాలన్నీ మళ్ళీ తిరిగి వచ్చాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "అప్పుడు రాముడు \"విభీషణ!",
+    "text": "ఇతను రావణుడి తమ్ముడు, ఇతను కూడా ఒక రాక్షసుడే అని వానరాలకి చెప్పకండి, అలా చెబితే వారు భయపడతారు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -84,79 +48,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "నీ అన్నయ్య ఇలా ఉన్నాడేంటి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "వీడు ఇంతేనా లేక పుట్టాక ఇలా పెరిగాడ\" అని అడిగాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "విభీషణుడు అన్నాడు \"కొంతమంది రాక్షసులు జన్మించిన తరువాత తపస్సు చేసి బలాన్ని సంపాదిస్తారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 5,
-    "id": "03.05",
-    "text": "మా అన్నయ్య గొప్పతనం ఏమిటంటే, ఆయన పుట్టడమే ఇలా పుట్టాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 6,
-    "id": "03.06",
-    "text": "వీడు పుట్టినప్పటి నుండి 'ఆకలీ' అని దేశం మీద పడి మనుష్యులని, రాక్షసులని, జంతువులని తినేవాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 7,
-    "id": "03.07",
-    "text": "అలా గంటకి కొన్ని లక్షల మందిని తినేవాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 8,
-    "id": "03.08",
-    "text": "వీడిని చూసి లోకమంతా తల్లడిల్లిపోయి ఇంద్రుడిని ప్రార్ధించారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 9,
-    "id": "03.09",
-    "text": "అప్పుడాయన కుంభకర్ణుడు ఆహారం తింటున్న ప్రాంతానికి ఆకాశంలో ఐరావతం మీద వెళ్ళి 'ఏరా నీకు బుద్ధి ఉందా లేదా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 10,
-    "id": "03.10",
-    "text": "ఏమిట్రా ఆ తినెయ్యడం.",
+    "text": "అది కేవలం ఒక యంత్రం అని చెప్పండి\" అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -165,7 +57,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "కొన్ని గంటల్లో ఈ ప్రపంచంలోని ప్రాణి కోటిని బతకనివ్వవా' అని అరిచాడు.",
+    "text": "అప్పుడు కుంభకర్ణుడిని యంత్రము అని ప్రకటించారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -174,70 +66,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "అప్పుడు కుంభకర్ణుడు ఆగ్రహంతో పైకి ఎరిగి 'నేను తింటుంటే నువ్వు ఎవడివిరా చెప్పడానికి' అని, ఆ ఐరావతాన్ని ఒక్క తోపు తోసాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 3,
-    "id": "04.03",
-    "text": "అప్పుడా ఐరావతం కింద పడిపోయింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "అప్పుడాయన ఆ ఐరావతానికి ఉన్న దంతాన్ని పీకి దానితో ఇంద్రుడిని కొట్టాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 5,
-    "id": "04.05",
-    "text": "ఇంద్రుడు భయపడి బ్రహ్మ దగ్గరికి వెళ్ళి జరిగినది చెప్పాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 6,
-    "id": "04.06",
-    "text": "అప్పుడు బ్రహ్మగారు అన్నారు 'సృష్టిలో ఇలాంటివాడు ఒకడు వచ్చాడ!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 7,
-    "id": "04.07",
-    "text": "అలా తినెయ్యడమేమిటి, వాడిని ఒకసారి ఇక్కడికి తీసుకురండి' అన్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 8,
-    "id": "04.08",
-    "text": "తరువాత వారు కుంభకర్ణుడిని బ్రహ్మగారి దగ్గరికి తీసుకొచ్చారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 9,
-    "id": "04.09",
-    "text": "కుంభకర్ణుడిని చూడగానే బ్రహ్మగారు ఉలిక్కిపడి 'నువ్వు వెంటనే భూమి మీద పడి చచ్చినట్టు నిద్రపో' అన్నారు.",
+    "text": "అలా ప్రకటించగానే పారిపోయిన వానరాలన్నీ మళ్ళీ తిరిగి వచ్చాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -246,7 +75,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "కుంభకర్ణుడు అలా నిద్రపోతుంటే లోకమంతా సంతోషించి, కాని రావణుడికి బాధ కలిగింది.",
+    "text": "అప్పుడు రాముడు \"విభీషణ!",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -255,7 +84,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "అప్పుడాయన బ్రహ్మగారితో 'అదేమిటి తాత అలా శపించావు, వాడు నీకు మునిమనవడు.",
+    "text": "నీ అన్నయ్య ఇలా ఉన్నాడేంటి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -264,7 +93,7 @@
     "scene": 5,
     "part": 3,
     "id": "05.03",
-    "text": "అలా నిద్రపోమంటే ఎలా, కొన్నాళ్ళు లేచేటట్టు ఏర్పాటు చెయ్యి' అన్నాడు.",
+    "text": "వీడు ఇంతేనా లేక పుట్టాక ఇలా పెరిగాడ\" అని అడిగాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -273,52 +102,7 @@
     "scene": 5,
     "part": 4,
     "id": "05.04",
-    "text": "అప్పుడు బ్రహ్మగారు 'వీడు 6 నెలలు నిద్రపోతాడు, ఒక్క రోజే నిద్రలేస్తాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "ఆ ఒక్క రోజులోనే 6 నెలల తిండి తినేస్తాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 6,
-    "id": "05.06",
-    "text": "తినంగానే మళ్ళి నిద్రపోతాడు' అన్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 7,
-    "id": "05.07",
-    "text": "అందుకని వాడు అలా నిద్రపోతుంటాడు రామ.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 8,
-    "id": "05.08",
-    "text": "ఇవ్వాళ మా అన్నయ్య వాడిని యుద్ధం కోసం నిద్రలేపాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 9,
-    "id": "05.09",
-    "text": "వాడితో యుద్ధం అంటే సామాన్య మైన విషయం కాదు రామ\" అన్నాడు.",
+    "text": "విభీషణుడు అన్నాడు \"కొంతమంది రాక్షసులు జన్మించిన తరువాత తపస్సు చేసి బలాన్ని సంపాదిస్తారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -327,7 +111,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "ఇంతలో కుంభకర్ణుడు రావణుడి అంతఃపురానికి వెళ్ళాడు.",
+    "text": "మా అన్నయ్య గొప్పతనం ఏమిటంటే, ఆయన పుట్టడమే ఇలా పుట్టాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -336,7 +120,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "అప్పుడు రావణుడు తన బాధ అంతా చెప్పుకుని కుంభకర్ణుడిని యుద్ధానికి వెళ్ళమన్నాడు.",
+    "text": "వీడు పుట్టినప్పటి నుండి 'ఆకలీ' అని దేశం మీద పడి మనుష్యులని, రాక్షసులని, జంతువులని తినేవాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -345,61 +129,7 @@
     "scene": 6,
     "part": 3,
     "id": "06.03",
-    "text": "అప్పుడు కుంభకర్ణుడు \"అన్నయ్య!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "మనం ఏదన్నా ఒక పని చేసేముందు ఆలోచించి చెయ్యాలి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "సీతని అపహరించే ముందు ఎవరితో అన్న ఆలోచన చేశావ.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 6,
-    "id": "06.06",
-    "text": "ఒక్కడివే ఎవరితో చెప్పకుండా వెళ్ళి తీసుకొచ్చావు, ఇప్పుడది ఉపద్రవం అయ్యి కూర్చుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 7,
-    "id": "06.07",
-    "text": "నీకు చెప్పగలిగేంత వాడిని కాదు కాని, నీకన్నా అవతలివాడి పౌరుష పరాక్రమాలు ఎక్కువ అనుకున్నప్పుడు సంధి చేసుకోవాలి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 8,
-    "id": "06.08",
-    "text": "సమానుడు అనుకుంటేనే యుద్ధం చెయ్యాలి, లేదా నీకంటే తక్కువ శక్తి కలిగిన వాడైతేనే యుద్ధం చెయ్యాలి అని విభీషణుడు చెబితే,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 9,
-    "id": "06.09",
-    "text": "ఆయనని రాజ్యం నుండి బయటకి పంపించేశావు.",
+    "text": "అలా గంటకి కొన్ని లక్షల మందిని తినేవాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -408,7 +138,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "ఇప్పుడు అందరూ మరణించిన తరువాత నన్ను నిద్రలేపి యుద్ధానికి వెళ్ళమంటున్నావు.",
+    "text": "వీడిని చూసి లోకమంతా తల్లడిల్లిపోయి ఇంద్రుడిని ప్రార్ధించారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -417,7 +147,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "నీ మంత్రులైనా నీకు మంచి చెప్పరా?, నీ ముఖ ప్రీతి కోసం మాట్లాడుతూ ఉంటారా?.",
+    "text": "అప్పుడాయన కుంభకర్ణుడు ఆహారం తింటున్న ప్రాంతానికి ఆకాశంలో ఐరావతం మీద వెళ్ళి 'ఏరా నీకు బుద్ధి ఉందా లేదా,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -426,16 +156,7 @@
     "scene": 7,
     "part": 3,
     "id": "07.03",
-    "text": "వచ్చే ఉపద్రవాన్ని కనిపెట్టి నీకు సలహా ఇవ్వగలిగిన మంత్రులు నీకు లేరా?.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "ఏమి రాజ్య పాలన చేస్తున్నావన్నయ్యా నువ్వు\" అని అడిగాడు.",
+    "text": "ఏమిట్రా ఆ తినెయ్యడం.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -444,7 +165,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "ఈ మాటలకి రావణుడికి కోపం వచ్చి \"నేను తప్పే చేశాను అనుకో, దానిని దిద్దుబాటు చెయ్యమని నిన్ను నిద్రలేపాను తప్ప,",
+    "text": "కొన్ని గంటల్లో ఈ ప్రపంచంలోని ప్రాణి కోటిని బతకనివ్వవా' అని అరిచాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -453,16 +174,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "నా తప్పుని పది మార్లు ఎత్తి చూపమని నిన్ను నిద్రలేపలేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "నువ్వు ఉపకారం చెయ్యగలిగితే రామలక్ష్మణులని సంహరించు, లేకపోతే వెళ్ళి పడుకో, కాని ఇవ్వాల్టితో నీకు నాకు ఉన్న అనుబంధం తెగిపోతుంది\" అన్నాడు.",
+    "text": "అప్పుడు కుంభకర్ణుడు ఆగ్రహంతో పైకి ఎరిగి 'నేను తింటుంటే నువ్వు ఎవడివిరా చెప్పడానికి' అని, ఆ ఐరావతాన్ని ఒక్క తోపు తోసాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -471,7 +183,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "అప్పుడు కుంభకర్ణుడు \"ఎందుకన్నయ్యా అంత బెంగ పెట్టుకుంటావు.",
+    "text": "అప్పుడా ఐరావతం కింద పడిపోయింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -480,7 +192,7 @@
     "scene": 9,
     "part": 2,
     "id": "09.02",
-    "text": "నేను ఉండి కూడా నీకు ఉపకారం చెయ్యకపోతే నాకు వచ్చే ప్రయోజనం ఏమిటి.",
+    "text": "అప్పుడాయన ఆ ఐరావతానికి ఉన్న దంతాన్ని పీకి దానితో ఇంద్రుడిని కొట్టాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -489,7 +201,16 @@
     "scene": 9,
     "part": 3,
     "id": "09.03",
-    "text": "యుద్ధరంగానికి వెళ్ళి ఆ రాముడిని తప్పకుండా సంహరిస్తాను\" అని బయలుదేరుతున్నాడు.",
+    "text": "ఇంద్రుడు భయపడి బ్రహ్మ దగ్గరికి వెళ్ళి జరిగినది చెప్పాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 4,
+    "id": "09.04",
+    "text": "అప్పుడు బ్రహ్మగారు అన్నారు 'సృష్టిలో ఇలాంటివాడు ఒకడు వచ్చాడ!",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -498,7 +219,7 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "ఆ సమయంలోనే మహోదరుడు అనే రాక్షసుడు అక్కడికి వచ్చి \"కుంభకర్ణా!",
+    "text": "అలా తినెయ్యడమేమిటి, వాడిని ఒకసారి ఇక్కడికి తీసుకురండి' అన్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -507,7 +228,7 @@
     "scene": 10,
     "part": 2,
     "id": "10.02",
-    "text": "రాముడు అంత బలవంతుడు అంటూనే యుద్ధానికి వెళతానంటావేంటి.",
+    "text": "తరువాత వారు కుంభకర్ణుడిని బ్రహ్మగారి దగ్గరికి తీసుకొచ్చారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -516,52 +237,7 @@
     "scene": 10,
     "part": 3,
     "id": "10.03",
-    "text": "ఇలాంటప్పుడు యుద్ధం చెయ్యకూడదు, మోసాన్ని ప్రయోగం చెయ్యాలి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 4,
-    "id": "10.04",
-    "text": "మనం ఒక అయిదుగురము బయలుదేరి రాముడి మీదకి యుద్ధానికి వెళదాము.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 5,
-    "id": "10.05",
-    "text": "అయిదుగురము రాముడి చుట్టూ చేరి ఆయనని నిగ్రహించగలిగితే అదృష్టవంతులం, ఒకవేళ రాముడిని నిగ్రహించలేకపోతే రామనామాంకితమైన బాణములు మన శరీరంలో గుచ్చుకుని ఉంటాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 6,
-    "id": "10.06",
-    "text": "అప్పుడు మనం యుద్ధ భూమిలో ఉండకుండా వెనక్కి తిరిగొచ్చి రావణుడి కాళ్ళ మీద పడదాము.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 7,
-    "id": "10.07",
-    "text": "అప్పుడాయన ఫలాన అయిదుగురు వెళ్ళి రాముడిని సంహరించారు అని అందరికీ చెబుతాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 10,
-    "part": 8,
-    "id": "10.08",
-    "text": "అప్పుడు రావణుడు సీత కూర్చున్న చోట ఒక సభ నిర్వహించి మనల్ని కోరికలు కోరమంటాడు.",
+    "text": "కుంభకర్ణుడిని చూడగానే బ్రహ్మగారు ఉలిక్కిపడి 'నువ్వు వెంటనే భూమి మీద పడి చచ్చినట్టు నిద్రపో' అన్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -570,7 +246,7 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
-    "text": "అప్పుడు మనము డబ్బు, బంగారము, వాహనాలు అడుగుదాము.",
+    "text": "కుంభకర్ణుడు అలా నిద్రపోతుంటే లోకమంతా సంతోషించి, కాని రావణుడికి బాధ కలిగింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -579,7 +255,7 @@
     "scene": 11,
     "part": 2,
     "id": "11.02",
-    "text": "అవన్నీ రావణుడు సభలో మనకి ఇస్తాడు.",
+    "text": "అప్పుడాయన బ్రహ్మగారితో 'అదేమిటి తాత అలా శపించావు, వాడు నీకు మునిమనవడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -588,25 +264,7 @@
     "scene": 11,
     "part": 3,
     "id": "11.03",
-    "text": "అప్పుడు సీత అనుకుంటుంది 'ఇంత సభ జరుగుతుంది, బయట భేరీలు మ్రోగుతున్నాయంటే రాముడు మరణించి ఉంటాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 4,
-    "id": "11.04",
-    "text": "ఇంక రాముడు ఎలాగూ లేడు కదా' అని చాలా కాలం సుఖాలకు దూరమైన స్త్రీ కనుక రావణుడి పాన్పు ఎక్కుతుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 5,
-    "id": "11.05",
-    "text": "అప్పుడు రావణుడి కోరిక తీరుతుంది\" అన్నాడు.",
+    "text": "అలా నిద్రపోమంటే ఎలా, కొన్నాళ్ళు లేచేటట్టు ఏర్పాటు చెయ్యి' అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -615,7 +273,7 @@
     "scene": 12,
     "part": 1,
     "id": "12.01",
-    "text": "అప్పుడు రావణుడు \"ఈ మహోదరుడికి రాముడితో యుద్ధం అంటే భయంరా, అందుకని ఇలాంటి నాటకాలన్నీ చెబుతున్నాడు\" అని అన్నాడు.",
+    "text": "అప్పుడు బ్రహ్మగారు 'వీడు 6 నెలలు నిద్రపోతాడు, ఒక్క రోజే నిద్రలేస్తాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -624,7 +282,7 @@
     "scene": 12,
     "part": 2,
     "id": "12.02",
-    "text": "అప్పుడు కుంభకర్ణుడు \"మీరెవరు రావక్కరలేదు, నేనొక్కడినే వెళతాను\" అన్నాడు.",
+    "text": "ఆ ఒక్క రోజులోనే 6 నెలల తిండి తినేస్తాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -633,7 +291,7 @@
     "scene": 12,
     "part": 3,
     "id": "12.03",
-    "text": "అప్పుడు రావణుడు \"నువ్వు ఒక్కడివే వెళ్ళద్దు, రాక్షస సైన్యాన్ని తీసుకొని వెళ్ళు\" అని చెప్పి, కుంభకర్ణుడి మెడలో ఒక మాల వేశాడు.",
+    "text": "తినంగానే మళ్ళి నిద్రపోతాడు' అన్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -642,6 +300,348 @@
     "scene": 13,
     "part": 1,
     "id": "13.01",
+    "text": "అందుకని వాడు అలా నిద్రపోతుంటాడు రామ.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "ఇవ్వాళ మా అన్నయ్య వాడిని యుద్ధం కోసం నిద్రలేపాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 3,
+    "id": "13.03",
+    "text": "వాడితో యుద్ధం అంటే సామాన్య మైన విషయం కాదు రామ\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "ఇంతలో కుంభకర్ణుడు రావణుడి అంతఃపురానికి వెళ్ళాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "అప్పుడు రావణుడు తన బాధ అంతా చెప్పుకుని కుంభకర్ణుడిని యుద్ధానికి వెళ్ళమన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 3,
+    "id": "14.03",
+    "text": "అప్పుడు కుంభకర్ణుడు \"అన్నయ్య!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 4,
+    "id": "14.04",
+    "text": "మనం ఏదన్నా ఒక పని చేసేముందు ఆలోచించి చెయ్యాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "సీతని అపహరించే ముందు ఎవరితో అన్న ఆలోచన చేశావ.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "ఒక్కడివే ఎవరితో చెప్పకుండా వెళ్ళి తీసుకొచ్చావు, ఇప్పుడది ఉపద్రవం అయ్యి కూర్చుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 3,
+    "id": "15.03",
+    "text": "నీకు చెప్పగలిగేంత వాడిని కాదు కాని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "నీకన్నా అవతలివాడి పౌరుష పరాక్రమాలు ఎక్కువ అనుకున్నప్పుడు సంధి చేసుకోవాలి, సమానుడు అనుకుంటేనే యుద్ధం చెయ్యాలి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "లేదా నీకంటే తక్కువ శక్తి కలిగిన వాడైతేనే యుద్ధం చెయ్యాలి అని విభీషణుడు చెబితే, ఆయనని రాజ్యం నుండి బయటకి పంపించేశావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "ఇప్పుడు అందరూ మరణించిన తరువాత నన్ను నిద్రలేపి యుద్ధానికి వెళ్ళమంటున్నావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "నీ మంత్రులైనా నీకు మంచి చెప్పరా?, నీ ముఖ ప్రీతి కోసం మాట్లాడుతూ ఉంటారా?.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "వచ్చే ఉపద్రవాన్ని కనిపెట్టి నీకు సలహా ఇవ్వగలిగిన మంత్రులు నీకు లేరా?.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "ఏమి రాజ్య పాలన చేస్తున్నావన్నయ్యా నువ్వు\" అని అడిగాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "ఈ మాటలకి రావణుడికి కోపం వచ్చి \"నేను తప్పే చేశాను అనుకో, దానిని దిద్దుబాటు చెయ్యమని నిన్ను నిద్రలేపాను తప్ప,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "నా తప్పుని పది మార్లు ఎత్తి చూపమని నిన్ను నిద్రలేపలేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "నువ్వు ఉపకారం చెయ్యగలిగితే రామలక్ష్మణులని సంహరించు, లేకపోతే వెళ్ళి పడుకో, కాని ఇవ్వాల్టితో నీకు నాకు ఉన్న అనుబంధం తెగిపోతుంది\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "అప్పుడు కుంభకర్ణుడు \"ఎందుకన్నయ్యా అంత బెంగ పెట్టుకుంటావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "నేను ఉండి కూడా నీకు ఉపకారం చెయ్యకపోతే నాకు వచ్చే ప్రయోజనం ఏమిటి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 3,
+    "id": "21.03",
+    "text": "యుద్ధరంగానికి వెళ్ళి ఆ రాముడిని తప్పకుండా సంహరిస్తాను\" అని బయలుదేరుతున్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "ఆ సమయంలోనే మహోదరుడు అనే రాక్షసుడు అక్కడికి వచ్చి \"కుంభకర్ణా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "రాముడు అంత బలవంతుడు అంటూనే యుద్ధానికి వెళతానంటావేంటి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 3,
+    "id": "22.03",
+    "text": "ఇలాంటప్పుడు యుద్ధం చెయ్యకూడదు, మోసాన్ని ప్రయోగం చెయ్యాలి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 4,
+    "id": "22.04",
+    "text": "మనం ఒక అయిదుగురము బయలుదేరి రాముడి మీదకి యుద్ధానికి వెళదాము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "అయిదుగురము రాముడి చుట్టూ చేరి ఆయనని నిగ్రహించగలిగితే అదృష్టవంతులం, ఒకవేళ రాముడిని నిగ్రహించలేకపోతే రామనామాంకితమైన బాణములు మన శరీరంలో గుచ్చుకుని ఉంటాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 2,
+    "id": "23.02",
+    "text": "అప్పుడు మనం యుద్ధ భూమిలో ఉండకుండా వెనక్కి తిరిగొచ్చి రావణుడి కాళ్ళ మీద పడదాము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "అప్పుడాయన ఫలాన అయిదుగురు వెళ్ళి రాముడిని సంహరించారు అని అందరికీ చెబుతాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 2,
+    "id": "24.02",
+    "text": "అప్పుడు రావణుడు సీత కూర్చున్న చోట ఒక సభ నిర్వహించి మనల్ని కోరికలు కోరమంటాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
+    "text": "అప్పుడు మనము డబ్బు, బంగారము, వాహనాలు అడుగుదాము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 2,
+    "id": "25.02",
+    "text": "అవన్నీ రావణుడు సభలో మనకి ఇస్తాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 3,
+    "id": "25.03",
+    "text": "అప్పుడు సీత అనుకుంటుంది 'ఇంత సభ జరుగుతుంది, బయట భేరీలు మ్రోగుతున్నాయంటే రాముడు మరణించి ఉంటాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 1,
+    "id": "26.01",
+    "text": "ఇంక రాముడు ఎలాగూ లేడు కదా' అని చాలా కాలం సుఖాలకు దూరమైన స్త్రీ కనుక రావణుడి పాన్పు ఎక్కుతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 2,
+    "id": "26.02",
+    "text": "అప్పుడు రావణుడి కోరిక తీరుతుంది\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 1,
+    "id": "27.01",
+    "text": "అప్పుడు రావణుడు \"ఈ మహోదరుడికి రాముడితో యుద్ధం అంటే భయంరా, అందుకని ఇలాంటి నాటకాలన్నీ చెబుతున్నాడు\" అని అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 2,
+    "id": "27.02",
+    "text": "అప్పుడు కుంభకర్ణుడు \"మీరెవరు రావక్కరలేదు, నేనొక్కడినే వెళతాను\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 1,
+    "id": "28.01",
+    "text": "అప్పుడు రావణుడు \"నువ్వు ఒక్కడివే వెళ్ళద్దు, రాక్షస సైన్యాన్ని తీసుకొని వెళ్ళు\" అని చెప్పి, కుంభకర్ణుడి మెడలో ఒక మాల వేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 29,
+    "part": 1,
+    "id": "29.01",
     "text": "తర్వాత చూద్దాం — యుద్ధ భూమిలో కుంభకర్ణుడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,

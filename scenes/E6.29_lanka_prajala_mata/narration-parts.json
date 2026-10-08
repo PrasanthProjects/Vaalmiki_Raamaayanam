@@ -36,46 +36,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 3,
-    "id": "02.03",
-    "text": "అటువంటి శూర్పణఖ మన్మదుడితో సమానమైన ఆకృతి కలిగినవాడిని, అంత మధురముగా మాట్లాడగలిగినవాడిని, అటువంటి సౌందర్య రాశిని, చక్కటి నడువడి కలిగినవాడిని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "సర్వకాలములయందు ధర్మమును అనుష్టించేవాడు అయిన రాముడిని ఏ ముఖం పెట్టుకొని కామించింది?",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
-    "text": "రాముడిని పొందాలన్న కోరిక ఎలా కలిగింది?",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 6,
-    "id": "02.06",
-    "text": "ఆ రాముడు వైముఖ్యాన్ని ప్రదర్శిస్తే, కడుపులో కక్ష పెంచుకుని సీతాపహరణానికి దారితీసేటట్టుగా రావణుడి మనస్సు వ్యగ్రత పొందేటట్టుగా ఎలా మాట్లడగలిగింది?",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "రావణుడు ఎంత మూర్ఖుడు, రాముడు అరణ్యంలో 14,000 మంది రాక్షసులని, ఖర-దూషణులని సంహరించాడు.",
+    "text": "అటువంటి శూర్పణఖ మన్మదుడితో సమానమైన ఆకృతి కలిగినవాడిని, అంత మధురముగా మాట్లాడగలిగినవాడిని, అటువంటి సౌందర్య రాశిని, చక్కటి నడువడి కలిగినవాడిని,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -84,43 +48,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "అలాంటివాడితో సంధి చేసుకుందాము అన్న ఆలోచన లేకుండా శూర్పణఖ మాటలు విని సీతని అపహరించడానికి వెళ్ళాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "పోని అప్పటికి రాముడు అంత పరాక్రమము ఉన్నవాడని రావణుడు తెలుసుకోలేకపోయాడు అని అనుకుందాము.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "కాని రాజ్యభ్రష్టుడై అన్నగారి చేత తరమబడి, ఋష్యమూక పర్వత శిఖరముల మీద కూర్చున్న సుగ్రీవుడిని రక్షించడం కోసమని ఆయనతో స్నేహాన్ని చేసుకొని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 5,
-    "id": "03.05",
-    "text": "వాలిని ఒక్క బాణంతో సంహరించి, చేసుకున్న స్నేహానికి, ఒప్పందానికి నిలబడి సుగ్రీవుడిని రాజ్యమునందు ప్రతిష్టించినప్పుడైనా రావణుడి కళ్ళుతెరుచుకోలేదా.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 6,
-    "id": "03.06",
-    "text": "పోని అప్పుడు కూడా తెలుసుకోలేకపోయాడు అని అనుకుందాము.",
+    "text": "సర్వకాలములయందు ధర్మమును అనుష్టించేవాడు అయిన రాముడిని ఏ ముఖం పెట్టుకొని కామించింది?",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -129,7 +57,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "కాని విభీషణుడు ధర్మబద్ధమైన మాట చెప్పాడు 'అన్నయ్యా, నువ్వు రాముడిని నిగ్రహించలేవు, లంక అంతా నాశనమయిపోతుంది.",
+    "text": "రాముడిని పొందాలన్న కోరిక ఎలా కలిగింది?",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -138,52 +66,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "నువ్వు చేసినది పాపపు నడువడితో కూడిన పని.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 3,
-    "id": "04.03",
-    "text": "నా మాట విని సీతమ్మని తీసుకెళ్ళి రాముడికి ఇచెయ్యి' అని చెప్పాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "విభీషణుడి మాటలు కాని రావణుడు విని ఉంటే ఇవ్వాళ లంకా పట్టణానికి ఇంతటి చేటుకాలం దాపురించేది కాదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 5,
-    "id": "04.05",
-    "text": "తోడపుట్టినవాడైన కుంభకర్ణుడు రాముడి చేతిలో చనిపోయాడు, తన కుమారులైన నరాంతకుడు, అతికాయుడు మొదలైన వారందరూ మరణించారు, మహోదర, మహాపార్షులు మొదలైనవారు మరణించారు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 6,
-    "id": "04.06",
-    "text": "ఆఖరికి ఇంద్రజిత్ కూడా లక్ష్మణుడి చేతిలో మరణించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 7,
-    "id": "04.07",
-    "text": "ఇంతమంది చనిపోయాక కూడా వచ్చినవాడు సామాన్య నరుడు కాదన్న ఆలోచన రావణుడికి రావట్లేదే?",
+    "text": "ఆ రాముడు వైముఖ్యాన్ని ప్రదర్శిస్తే, కడుపులో కక్ష పెంచుకుని సీతాపహరణానికి దారితీసేటట్టుగా రావణుడి మనస్సు వ్యగ్రత పొందేటట్టుగా ఎలా మాట్లడగలిగింది?",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -192,7 +75,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "ఒకానొకసారి దేవతలందరూ కూడా రావణుడు చేస్తున్న ఆగడములను భరించలేక అందరూ కలిసి బ్రహ్మగారి దగ్గరికి వెళ్ళి 'అయ్యా!",
+    "text": "రావణుడు ఎంత మూర్ఖుడు, రాముడు అరణ్యంలో 14,000 మంది రాక్షసులని, ఖర-దూషణులని సంహరించాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -201,52 +84,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "రావణుడు చేస్తున్న ఆగడాలు మేము భరించలేకపోతున్నాము, నరవానరముల చేతిలో తప్ప వాడికి ఎవరి చేతిలో చావు లేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 3,
-    "id": "05.03",
-    "text": "ఇవ్వాళ వాడి ముందుకెళ్ళి నిలబడగలిగే ధైర్యం ఎవరికీ లేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "సముద్రం కూడా కెరటాలతో వాడి ముందు నిలబడడానికి భయపడుతుంది, సూర్యుడు గట్టిగా ప్రకాశించడం లేదు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "అలా దిక్పాలకులని కూడా శాసించగలిగే స్థితిలో ఉన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 6,
-    "id": "05.06",
-    "text": "వాడి చేతిలో లోకములన్నీ పీడింపబడుతున్నాయి, మేము ఎలా జీవించాలి' అని అడిగారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 7,
-    "id": "05.07",
-    "text": "అప్పుడు బ్రహ్మగారు 'నేను ఇవ్వాల్టి నుండి ఒక కట్టుబాటు చేస్తున్నాను.",
+    "text": "అలాంటివాడితో సంధి చేసుకుందాము అన్న ఆలోచన లేకుండా శూర్పణఖ మాటలు విని సీతని అపహరించడానికి వెళ్ళాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -255,7 +93,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "ఈ రాక్షసులు మూడు లోకములలోనూ తిరుగుతూ ఉంటారు, ఒక చోట ఉండరు, దానివలన మీకు కొంత ఉపశాంతి కలుగుతుంది' అని అన్నారు.",
+    "text": "పోని అప్పటికి రాముడు అంత పరాక్రమము ఉన్నవాడని రావణుడు తెలుసుకోలేకపోయాడు అని అనుకుందాము.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -264,34 +102,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "దానివలన ఆ దేవతలు పూర్తి ఉపశాంతిని పొందకపోవడం చేత శివుడి కోసం తపస్సు చేశారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "త్రిపురములను తన కంటి మంట చేత నశింపచేసినవాడైన పరమశివుడు ఆ దేవతలయందు ప్రీతి చెంది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "వాళ్ళ ముందు ప్రత్యక్షమయ్యి 'ఇంత తపస్సు కలిగిన రావణుడు మరణించడానికి కావలసిన విధంగా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "సీత అన్న పేరుతో అమ్మవారు ఉదయించబోతోంది' అని ఆరోజున శివుడు దేవతలకి వరం ఇచ్చాడు.",
+    "text": "కాని రాజ్యభ్రష్టుడై అన్నగారి చేత తరమబడి, ఋష్యమూక పర్వత శిఖరముల మీద కూర్చున్న సుగ్రీవుడిని రక్షించడం కోసమని ఆయనతో స్నేహాన్ని చేసుకొని,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -300,7 +111,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "అందుచేత రావణుడు అపహరించి తీసుకొని వచ్చిన ఆ మైథిలి సాక్షాత్తుగా రావణుడి ప్రాణములను తీసుకోడానికి, ఈ లంకా పట్టణాన్ని సర్వనాశనం చేయుటకు,",
+    "text": "వాలిని ఒక్క బాణంతో సంహరించి, చేసుకున్న స్నేహానికి, ఒప్పందానికి నిలబడి సుగ్రీవుడిని రాజ్యమునందు ప్రతిష్టించినప్పుడైనా రావణుడి కళ్ళుతెరుచుకోలేదా.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -309,16 +120,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "రాక్షసులందరినీ పరిమార్చడానికి కాళ రాత్రిలా వచ్చింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 3,
-    "id": "07.03",
-    "text": "ఈ విషయాన్ని రావణుడు తెలుసుకోలేక రాముడి మీదకి యుద్ధానికి వెళుతున్నాడు\" అని ఆ లంకా పట్టణంలోని ప్రజలు చెప్పుకుంటున్నారు.",
+    "text": "పోని అప్పుడు కూడా తెలుసుకోలేకపోయాడు అని అనుకుందాము.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -327,6 +129,204 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
+    "text": "కాని విభీషణుడు ధర్మబద్ధమైన మాట చెప్పాడు 'అన్నయ్యా, నువ్వు రాముడిని నిగ్రహించలేవు, లంక అంతా నాశనమయిపోతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 2,
+    "id": "08.02",
+    "text": "నువ్వు చేసినది పాపపు నడువడితో కూడిన పని.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 8,
+    "part": 3,
+    "id": "08.03",
+    "text": "నా మాట విని సీతమ్మని తీసుకెళ్ళి రాముడికి ఇచెయ్యి' అని చెప్పాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 1,
+    "id": "09.01",
+    "text": "విభీషణుడి మాటలు కాని రావణుడు విని ఉంటే ఇవ్వాళ లంకా పట్టణానికి ఇంతటి చేటుకాలం దాపురించేది కాదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "తోడపుట్టినవాడైన కుంభకర్ణుడు రాముడి చేతిలో చనిపోయాడు, తన కుమారులైన నరాంతకుడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 1,
+    "id": "10.01",
+    "text": "అతికాయుడు మొదలైన వారందరూ మరణించారు, మహోదర, మహాపార్షులు మొదలైనవారు మరణించారు, ఆఖరికి ఇంద్రజిత్ కూడా లక్ష్మణుడి చేతిలో మరణించాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 2,
+    "id": "10.02",
+    "text": "ఇంతమంది చనిపోయాక కూడా వచ్చినవాడు సామాన్య నరుడు కాదన్న ఆలోచన రావణుడికి రావట్లేదే?",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "ఒకానొకసారి దేవతలందరూ కూడా రావణుడు చేస్తున్న ఆగడములను భరించలేక అందరూ కలిసి బ్రహ్మగారి దగ్గరికి వెళ్ళి 'అయ్యా!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "రావణుడు చేస్తున్న ఆగడాలు మేము భరించలేకపోతున్నాము, నరవానరముల చేతిలో తప్ప వాడికి ఎవరి చేతిలో చావు లేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "ఇవ్వాళ వాడి ముందుకెళ్ళి నిలబడగలిగే ధైర్యం ఎవరికీ లేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "సముద్రం కూడా కెరటాలతో వాడి ముందు నిలబడడానికి భయపడుతుంది, సూర్యుడు గట్టిగా ప్రకాశించడం లేదు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 3,
+    "id": "12.03",
+    "text": "అలా దిక్పాలకులని కూడా శాసించగలిగే స్థితిలో ఉన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "వాడి చేతిలో లోకములన్నీ పీడింపబడుతున్నాయి, మేము ఎలా జీవించాలి' అని అడిగారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "అప్పుడు బ్రహ్మగారు 'నేను ఇవ్వాల్టి నుండి ఒక కట్టుబాటు చేస్తున్నాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "ఈ రాక్షసులు మూడు లోకములలోనూ తిరుగుతూ ఉంటారు, ఒక చోట ఉండరు, దానివలన మీకు కొంత ఉపశాంతి కలుగుతుంది' అని అన్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "దానివలన ఆ దేవతలు పూర్తి ఉపశాంతిని పొందకపోవడం చేత శివుడి కోసం తపస్సు చేశారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "త్రిపురములను తన కంటి మంట చేత నశింపచేసినవాడైన పరమశివుడు ఆ దేవతలయందు ప్రీతి చెంది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "వాళ్ళ ముందు ప్రత్యక్షమయ్యి 'ఇంత తపస్సు కలిగిన రావణుడు మరణించడానికి కావలసిన విధంగా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "సీత అన్న పేరుతో అమ్మవారు ఉదయించబోతోంది' అని ఆరోజున శివుడు దేవతలకి వరం ఇచ్చాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "అందుచేత రావణుడు అపహరించి తీసుకొని వచ్చిన ఆ మైథిలి సాక్షాత్తుగా రావణుడి ప్రాణములను తీసుకోడానికి, ఈ లంకా పట్టణాన్ని సర్వనాశనం చేయుటకు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "రాక్షసులందరినీ పరిమార్చడానికి కాళ రాత్రిలా వచ్చింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "ఈ విషయాన్ని రావణుడు తెలుసుకోలేక రాముడి మీదకి యుద్ధానికి వెళుతున్నాడు\" అని ఆ లంకా పట్టణంలోని ప్రజలు చెప్పుకుంటున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
     "text": "తర్వాత చూద్దాం — ఆదిత్య హృదయం.",
     "complete_verse_block": false,
     "needs_timing_review": false,

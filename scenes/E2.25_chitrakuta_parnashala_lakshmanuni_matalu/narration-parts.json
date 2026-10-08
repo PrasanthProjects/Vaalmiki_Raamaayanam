@@ -36,82 +36,10 @@
     "seconds": null
   },
   {
-    "scene": 2,
-    "part": 3,
-    "id": "02.03",
-    "text": "చెట్టుకి ఒకసారి నమస్కారం చేసి ముందుకి వెళితే నీలము అనే వనం కనపడుతుంది, ఆ వనంలో మోదుగ చెట్లు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 4,
-    "id": "02.04",
-    "text": "రేగు చెట్లు ఎక్కువగా ఉంటాయి, అలా ఇంకొంచెం ముందుకి వెళితే ఎక్కడ చూసినా నీళ్ళు, చెట్లు కనబడతాయి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 5,
-    "id": "02.05",
-    "text": "అక్కడనుండి చూస్తే చిత్రకూట పర్వతాల శిఖరాలు కనపడతాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 6,
-    "id": "02.06",
-    "text": "మీరందరూ చిత్రకూట పర్వతాలని చేరుకోండి, అక్కడ వాల్మీకి మహర్షి ఆశ్రమం ఉంది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 7,
-    "id": "02.07",
-    "text": "ఆ ఆశ్రమానికి పక్కన మీకు అనువైన స్థలంలో ఆశ్రమాన్ని నిర్మించుకోండి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 8,
-    "id": "02.08",
-    "text": "ఆ ప్రదేశంలో ఏనుగులు, కొండముచ్చులు, కోతులు, బంగారు చుక్కలు గల జింకలు తిరుగుతూ ఉంటాయి, అక్కడ మీకు కావలసిన ఆహారం దొరుకుతుంది,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 9,
-    "id": "02.09",
-    "text": "స్వచ్ఛమైన జలాలు ప్రవహిస్తూ ఉంటాయి, ఈ అరణ్యాలకి నేను చాలా సార్లు వెళ్ళాను, అక్కడ కార్చిచ్చు పుట్టదు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 2,
-    "part": 10,
-    "id": "02.10",
-    "text": "కాబట్టి మీరు అక్కడ పర్ణశాల నిర్మించుకోండి\" అని అన్నాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 3,
     "part": 1,
     "id": "03.01",
-    "text": "భారద్వాజుడు చెప్పిన ప్రకారం పర్ణశాల నిర్మించుకోడానికి సీతారామలక్ష్మణులు ఆయనకి నమస్కారం చేసి బయలుదేరి చిత్రకూట పర్వతాన్ని చేరుకున్నారు,",
+    "text": "చెట్టుకి ఒకసారి నమస్కారం చేసి ముందుకి వెళితే నీలము అనే వనం కనపడుతుంది, ఆ వనంలో మోదుగ చెట్లు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -120,7 +48,7 @@
     "scene": 3,
     "part": 2,
     "id": "03.02",
-    "text": "లక్ష్మణుడు చక్కటి పర్ణశాలని నిర్మించాడు.",
+    "text": "రేగు చెట్లు ఎక్కువగా ఉంటాయి, అలా ఇంకొంచెం ముందుకి వెళితే ఎక్కడ చూసినా నీళ్ళు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -129,7 +57,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "ఆ పర్ణశాలలో వాస్తు హోమం చేసి గృహప్రవేశం చేశారు, తరువాత వాల్మీకి మహర్షి ఆశ్రమాన్ని సందర్శించారు,",
+    "text": "చెట్లు కనబడతాయి, అక్కడనుండి చూస్తే చిత్రకూట పర్వతాల శిఖరాలు కనపడతాయి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -138,7 +66,16 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "వారి రాకతో వాల్మీకి మహర్షి చాలా సంతోషించారు.",
+    "text": "మీరందరూ చిత్రకూట పర్వతాలని చేరుకోండి, అక్కడ వాల్మీకి మహర్షి ఆశ్రమం ఉంది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 4,
+    "part": 3,
+    "id": "04.03",
+    "text": "ఆ ఆశ్రమానికి పక్కన మీకు అనువైన స్థలంలో ఆశ్రమాన్ని నిర్మించుకోండి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -147,7 +84,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "చిత్రకూట పర్వతాలమీద సీతారామలక్ష్మణులు హాయిగా కాలం గడపసాగారు.",
+    "text": "ఆ ప్రదేశంలో ఏనుగులు, కొండముచ్చులు, కోతులు, బంగారు చుక్కలు గల జింకలు తిరుగుతూ ఉంటాయి, అక్కడ మీకు కావలసిన ఆహారం దొరుకుతుంది,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -156,7 +93,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "సుమంత్రుడు అయోధ్యకి తిరిగివచ్చి, రాముడు సీతాలక్ష్మణ సహితుడై గంగని దాటి అరణ్యాలకి వెళ్లిపోయాడని చెప్పాడు.",
+    "text": "స్వచ్ఛమైన జలాలు ప్రవహిస్తూ ఉంటాయి, ఈ అరణ్యాలకి నేను చాలా సార్లు వెళ్ళాను, అక్కడ కార్చిచ్చు పుట్టదు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -165,16 +102,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "అప్పుడు దశరథుడు, రాముడు ఎలా ఉన్నాడని అడుగగా సుమంత్రుడు ఇలా చెప్పాడు — \"రాముడు మీకు నమస్కారములు చెప్పమన్నాడు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "కౌసల్యని జాగ్రత్తగా చూసుకోమన్నాడు, కౌసల్య, సుమిత్ర, కైకేయల యందు తనకెటువంటి భేదభావం లేదన్నాడు, భరతుడిని కుశలమడిగాడు\" అని చెప్పాడు.",
+    "text": "కాబట్టి మీరు అక్కడ పర్ణశాల నిర్మించుకోండి\" అని అన్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -183,7 +111,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "ఈ మాటలు విన్న దశరథుడు లక్ష్మణుడు ఏమన్నాడు అని అడిగాడు.",
+    "text": "భారద్వాజుడు చెప్పిన ప్రకారం పర్ణశాల నిర్మించుకోడానికి సీతారామలక్ష్మణులు ఆయనకి నమస్కారం చేసి బయలుదేరి చిత్రకూట పర్వతాన్ని చేరుకున్నారు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -192,7 +120,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "అప్పుడా సుమంత్రుడు —",
+    "text": "లక్ష్మణుడు చక్కటి పర్ణశాలని నిర్మించాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -201,7 +129,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "\"లక్ష్మణుడు పడవెక్కుతూ, 'మా తండ్రి కామమునకు లొంగిపోయి, సకల సుగుణాభిరాముడిని రాజ్యం నుండి బయటకి పంపించాడు,",
+    "text": "ఆ పర్ణశాలలో వాస్తు హోమం చేసి గృహప్రవేశం చేశారు, తరువాత వాల్మీకి మహర్షి ఆశ్రమాన్ని సందర్శించారు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -210,25 +138,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "అందుకని ఆయనని నేను అంగీకరించడం లేదు, ఇకనుండి దశరథుడు నాకు తండ్రి కాదు, నాకు తండ్రి కాని, తల్లి కాని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "గురువు కాని, దైవం కాని, అన్న కాని, తమ్ముడు కాని, ఎవరైనా నాకు రాముడే,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "ఈ మాట నేను చెప్పానని దశరథుడికి చెప్పు' అన్నాడు\" అని సుమంత్రుడు చెప్పాడు.",
+    "text": "వారి రాకతో వాల్మీకి మహర్షి చాలా సంతోషించారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -237,7 +147,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "మరి సీతమ్మ ఏమనిందని దశరథుడు అడుగగా, \"సీతమ్మ పడవెక్కుతూ నా వంక చూసి నమస్కారం చేసి వెళ్ళిపోయింది\" అన్నాడు.",
+    "text": "చిత్రకూట పర్వతాలమీద సీతారామలక్ష్మణులు హాయిగా కాలం గడపసాగారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -246,6 +156,96 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
+    "text": "సుమంత్రుడు అయోధ్యకి తిరిగివచ్చి, రాముడు సీతాలక్ష్మణ సహితుడై గంగని దాటి అరణ్యాలకి వెళ్లిపోయాడని చెప్పాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 1,
+    "id": "11.01",
+    "text": "అప్పుడు దశరథుడు, రాముడు ఎలా ఉన్నాడని అడుగగా సుమంత్రుడు ఇలా చెప్పాడు — \"రాముడు మీకు నమస్కారములు చెప్పమన్నాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "కౌసల్యని జాగ్రత్తగా చూసుకోమన్నాడు, కౌసల్య, సుమిత్ర, కైకేయల యందు తనకెటువంటి భేదభావం లేదన్నాడు, భరతుడిని కుశలమడిగాడు\" అని చెప్పాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 1,
+    "id": "12.01",
+    "text": "ఈ మాటలు విన్న దశరథుడు లక్ష్మణుడు ఏమన్నాడు అని అడిగాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 12,
+    "part": 2,
+    "id": "12.02",
+    "text": "అప్పుడా సుమంత్రుడు —",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 1,
+    "id": "13.01",
+    "text": "\"లక్ష్మణుడు పడవెక్కుతూ, 'మా తండ్రి కామమునకు లొంగిపోయి, సకల సుగుణాభిరాముడిని రాజ్యం నుండి బయటకి పంపించాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 13,
+    "part": 2,
+    "id": "13.02",
+    "text": "అందుకని ఆయనని నేను అంగీకరించడం లేదు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 1,
+    "id": "14.01",
+    "text": "ఇకనుండి దశరథుడు నాకు తండ్రి కాదు, నాకు తండ్రి కాని, తల్లి కాని, గురువు కాని, దైవం కాని, అన్న కాని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "తమ్ముడు కాని, ఎవరైనా నాకు రాముడే, ఈ మాట నేను చెప్పానని దశరథుడికి చెప్పు' అన్నాడు\" అని సుమంత్రుడు చెప్పాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "మరి సీతమ్మ ఏమనిందని దశరథుడు అడుగగా, \"సీతమ్మ పడవెక్కుతూ నా వంక చూసి నమస్కారం చేసి వెళ్ళిపోయింది\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
     "text": "తర్వాత చూద్దాం — దశరథుడి దుఃఖాన్ని సుమంత్రుడు ఎలా ఓదార్చడానికి ప్రయత్నిస్తాడో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

@@ -160,13 +160,21 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 17 — Scene 17
 
-**Visual:** [Vishwamitra Visual Lock] turning immediately and gently to Shunahshepa — a striking tonal shift, from fury at his own sons to tenderness toward his nephew. (Location register: Vishwamitra's site)
+**Visual:** [Vishwamitra Visual Lock] turning gently to the frightened boy Shunahshepa — from fury at his own sons to tenderness toward his nephew. (Location register: Vishwamitra's site)
 
-**Story:** "అప్పుడాయన శునఃశేపుడితో, 'నువ్వు బెంగపెట్టుకోకు, నిన్ను తీసుకెళ్ళి యూప స్తంభానికి కడతారు, ఇప్పుడు నేను నీకు రెండు మంత్రాలని చెప్తాను, నిన్ను అలా యూప స్తంభానికి కట్టినప్పుడు నువ్వు ఆ రెండు మంత్రాలని జపించు, అలా జపించడం వలన ఇంద్రుడు సంతోషించి, నిన్ను బలి ఇవ్వకముందే వచ్చి, నేను ఈ యాగానికి ప్రీతి చెందాను అని యాగ ఫలితం ఇస్తాడని' చెప్పి ఆ రెండు మంత్రాలని ఉపదేశం చేసి పంపించాడు."
+**Story:** "అప్పుడాయన శునఃశేపుడితో, 'నువ్వు బెంగపెట్టుకోకు, నిన్ను తీసుకెళ్ళి యూప స్తంభానికి కడతారు, ఇప్పుడు నేను నీకు రెండు మంత్రాలని చెప్తాను, నిన్ను అలా యూప స్తంభానికి కట్టినప్పుడు నువ్వు ఆ రెండు మంత్రాలని జపించు,
 
 **Image:** Pending creation.
 
 ## 18 — Scene 18
+
+**Visual:** Vishwamitra whispering two mantras into the boy's ear; a faint vision of Indra pleased; the boy led away, calmer. (Location register: Vishwamitra's site)
+
+**Story:** అలా జపించడం వలన ఇంద్రుడు సంతోషించి, నిన్ను బలి ఇవ్వకముందే వచ్చి, నేను ఈ యాగానికి ప్రీతి చెందాను అని యాగ ఫలితం ఇస్తాడని' చెప్పి ఆ రెండు మంత్రాలని ఉపదేశం చేసి పంపించాడు."
+
+**Image:** Pending creation.
+
+## 19 — Scene 19
 
 **Visual:** [Shunahshepa Visual Lock] bound to the sacrificial post per the ritual's form, but calm rather than afraid — reciting the mantras exactly as taught. (Location register: Ambarisha's yagnashala)
 
@@ -174,7 +182,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 19 — Scene 19
+## 20 — Scene 20
 
 **Visual:** [Indra Visual Lock] appearing, pleased, before any harm comes to Shunahshepa — granting the yagna's full result without requiring the sacrifice itself. (Location register: Ambarisha's yagnashala)
 
@@ -184,7 +192,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** A clean, joyful resolution — Shunahshepa's own wish (to live and pursue tapasya, stated in scene 11) is granted in full; the mantras Vishwamitra taught him are what saves his life.
 
-## 20 — Scene 20
+## 21 — Scene 21
 
 **Visual:** [Vishwamitra Visual Lock] alone afterward, visibly troubled by what he did to his own sons in anger — genuine remorse, not just moving on. (Location register: Vishwamitra's site, quiet aftermath)
 
@@ -194,7 +202,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This closing beat of genuine remorse is important — it shows Vishwamitra learning something from the pattern of anger that's defined this entire arc (E1.16's sons, E1.18's curses, now his own sons here), setting up his renewed resolve toward silent, disciplined tapasya as real character growth, not just another cycle.
 
-## 21 — Scene 21
+## 22 — Scene 22
 
 **Visual:** End card.
 

@@ -20,9 +20,9 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 2 — Scene 02
 
-**Visual:** [Vashishtha Visual Lock] and the assembled sages approaching Bharata directly the next morning — reminding him plainly that Dasharatha's body still waits preserved in oil, and that proper funeral rites are essential for his father to attain a good afterlife.
+**Visual:** Morning: [Vashishtha Visual Lock] and the sages approaching the grieving Bharata.
 
-**Story:** తెల్లవారగానే వశిష్ఠుడు మొదలైన మహర్షులు వచ్చి "నీ తండ్రి శరీరం తైల ద్రోణిలో ఉండిపోయింది, ఆయనకి అంత్యేష్టి సంస్కారం చెయ్యకపోతే ఉత్తమగతులు కలగవు, కావున ఈ పనియందు దృష్టి పెట్టు" అన్నారు.
+**Story:** తెల్లవారగానే వశిష్ఠుడు మొదలైన మహర్షులు వచ్చి "నీ తండ్రి శరీరం తైల ద్రోణిలో ఉండిపోయింది,
 
 **Image:** Pending creation.
 
@@ -30,15 +30,31 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 3 — Scene 03
 
-**Visual:** [Dasharatha's body] lifted from the oil vessel and laid out for viewing; the whole court gathering to see him one last time; the body placed on a ceremonial bier and carried out; [Bharata and Shatrughna Visual Locks] personally lighting the sacred funeral fire.
+**Visual:** Vashishtha reminding him gently of the rites still owed to his father.
 
-**Story:** అప్పుడా దశరథ మహారాజు పార్థివ శరీరాన్ని తైల ద్రోణి నుండి పైకి తీసి బయట పెట్టారు, అందరూ వచ్చి చూశారు, అక్కడినుండి ఆయనని శిబికలోకి పెట్టారు, తరువాత ఆ శిబికతో శరీరాన్ని ఊరేగింపుగా తీసుకువెళ్ళారు, భరతుడు, శత్రుఘ్నుడు అగ్నిహోత్రం తీసుకొని వచ్చి వెలిగించారు.
+**Story:** ఆయనకి అంత్యేష్టి సంస్కారం చెయ్యకపోతే ఉత్తమగతులు కలగవు, కావున ఈ పనియందు దృష్టి పెట్టు" అన్నారు.
+
+**Image:** Pending creation.
+
+## 4 — Scene 04
+
+**Visual:** [Dasharatha's body] lifted from the oil vessel and laid out; the whole court filing past for a last sight of him.
+
+**Story:** అప్పుడా దశరథ మహారాజు పార్థివ శరీరాన్ని తైల ద్రోణి నుండి పైకి తీసి బయట పెట్టారు, అందరూ వచ్చి చూశారు,
 
 **Image:** Pending creation.
 
 **Source note:** The specific detail that both Bharata and Shatrughna together light the fire (not Bharata alone) is worth preserving — a shared, joint act between the two brothers who traveled home together, matching their consistent pairing throughout this stretch of episodes.
 
-## 4 — Scene 04
+## 5 — Scene 05
+
+**Visual:** The bier carried out in procession; [Bharata and Shatrughna Visual Locks] bringing the sacred fire and lighting the pyre.
+
+**Story:** అక్కడినుండి ఆయనని శిబికలోకి పెట్టారు, తరువాత ఆ శిబికతో శరీరాన్ని ఊరేగింపుగా తీసుకువెళ్ళారు, భరతుడు, శత్రుఘ్నుడు అగ్నిహోత్రం తీసుకొని వచ్చి వెలిగించారు.
+
+**Image:** Pending creation.
+
+## 6 — Scene 06
 
 **Visual:** [The full royal household, including women — per the era's own Ikshvaku custom, explicitly noted in the source] proceeding together to the Sarayu river for the ritual bath afterward.
 
@@ -48,7 +64,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** A specific, era-accurate cultural detail the text itself flags as notable — women of the Ikshvaku royal family attending the cremation ground, unlike some later customs; worth including Kausalya, Sumitra, and Kaikeyi all visibly present in this procession rather than staying behind, per this explicit note.
 
-## 5 — Scene 05
+## 7 — Scene 07
 
 **Visual:** Time-lapse: over the following days, [the court] performing extensive charitable acts in Dasharatha's memory — donating hundreds of thousands of cattle and gold, feeding the entire community; the 13th day arriving and the formal mourning period (asaucham) concluding.
 
@@ -56,7 +72,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 6 — Scene 06
+## 8 — Scene 08
 
 **Visual:** [The assembled ministers] formally approaching Bharata with the expected, practical request — the throne cannot remain empty, and per Dasharatha's own stated wish, Bharata should now rule.
 
@@ -66,7 +82,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This directly echoes the sages' identical urgency about a kingless realm from E2.28 — the same argument is now being made to Bharata specifically, setting up his refusal as a direct, informed rejection of that entire line of reasoning, not ignorance of the stakes.
 
-## 7 — Scene 07
+## 9 — Scene 09
 
 **Visual:** [Bharata Visual Lock] responding not with words first, but with a formal ritual gesture — circumambulating the very coronation materials originally gathered for Rama's own abandoned ceremony, still sitting untouched since E2.10's cliffhanger.
 
@@ -76,7 +92,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** A meaningful, quiet visual callback — these are literally the same ceremonial materials from the abandoned coronation attempt many episodes ago (E2.02-E2.03), still present, unused; Bharata's circumambulation of them is itself a wordless statement of intent before he speaks.
 
-## 8 — Scene 08
+## 10 — Scene 10
 
 **Visual:** On-screen verse text.
 
@@ -86,17 +102,33 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — Bharata's own formal declaration: "Rama, our elder brother, shall be the ruler of this earth; I myself shall dwell in the forest for nine and five [fourteen] years."
 
-## 9 — Scene 09
+## 11 — Scene 11
 
-**Visual:** [Bharata Visual Lock] explaining his full plan in plain speech — Rama alone should be crowned with these very materials, since Bharata sees no real difference between himself and Rama; he will personally take Rama's place in exile instead, and orders skilled carpenters and craftsmen to build a road all the way to wherever Rama is in Dandakaranya, confident that if enough people go and ask together, Rama cannot refuse to return.
+**Visual:** [Bharata Visual Lock] before the heaped coronation materials — these are for Rama, who was born before me.
 
-**Story:** "నాకు ముందు పుట్టిన రాముడు ఈ అభిషేక సంభారములతో యువరాజ పట్టాభిషేకం చేసుకోవాలి, సింహాసనం మీద కూర్చొని రాజ్యం పరిపాలించాలి, కాని మా నాన్నగారి ఆజ్ఞ ప్రకారం 14 సంవత్సరములు దండకారణ్యంలో ఉన్నాడు, రాముడికి నాకు తేడా లేదు, రాముడి బదులు నేను 14 సంవత్సరములు అరణ్యవాసం చేస్తాను, రాముడు వచ్చి పట్టాభిషేకం చేసుకుంటాడు, అందుకని మీరందరూ మంచి వడ్రంగులని, శిల్పులని తీసుకువచ్చి రాజ్యంనుండి రాముడు దండకారణ్యంలో ఎక్కడున్నాడో అక్కడివరకు దారి చెయ్యండి, పాటుగా అయోధ్య అంతా కదిలి ఇంతమంది అడిగితే రాముడు కాదనలేడు, కావున ఇంతమంది వెళ్ళడానికి తగిన ఏర్పాట్లు చెయ్యండి" అన్నాడు.
+**Story:** "నాకు ముందు పుట్టిన రాముడు ఈ అభిషేక సంభారములతో యువరాజ పట్టాభిషేకం చేసుకోవాలి, సింహాసనం మీద కూర్చొని రాజ్యం పరిపాలించాలి, కాని మా నాన్నగారి ఆజ్ఞ ప్రకారం 14 సంవత్సరములు దండకారణ్యంలో ఉన్నాడు,
 
 **Image:** Pending creation.
 
 **Source note:** This is Bharata's own decisive, fully-formed plan — not a vague wish but a concrete logistical undertaking (a literal road built to Chitrakuta, a mass pilgrimage of the whole city) — worth rendering with real specificity and momentum, since it directly sets up the massive journey that follows in the coming episodes; note his explicit reasoning — overwhelming numbers as the only thing that might overcome Rama's dharmic resolve — reveals he already suspects this will be a difficult persuasion.
 
-## 10 — Scene 10
+## 12 — Scene 12
+
+**Visual:** Bharata declaring he will take Rama's place in the forest.
+
+**Story:** రాముడికి నాకు తేడా లేదు, రాముడి బదులు నేను 14 సంవత్సరములు అరణ్యవాసం చేస్తాను, రాముడు వచ్చి పట్టాభిషేకం చేసుకుంటాడు, అందుకని మీరందరూ మంచి వడ్రంగులని,
+
+**Image:** Pending creation.
+
+## 13 — Scene 13
+
+**Visual:** Carpenters and craftsmen summoned to cut a road to the Dandaka forest; all Ayodhya preparing to go and ask.
+
+**Story:** శిల్పులని తీసుకువచ్చి రాజ్యంనుండి రాముడు దండకారణ్యంలో ఎక్కడున్నాడో అక్కడివరకు దారి చెయ్యండి, పాటుగా అయోధ్య అంతా కదిలి ఇంతమంది అడిగితే రాముడు కాదనలేడు, కావున ఇంతమంది వెళ్ళడానికి తగిన ఏర్పాట్లు చెయ్యండి" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 14 — Scene 14
 
 **Visual:** End card.
 

@@ -28,9 +28,9 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 3 — Scene 03
 
-**Visual:** Third mythic inset begins: [Kushanabha Visual Lock — reused from E1.10, since he recurs here] performing a Putrakameshti yagna of his own; [Kusha Maharaja — reused generic elder-king register] appearing to bless him with a promised son. (Location register: Mythic inset, desaturated)
+**Visual:** [Vishwamitra Visual Lock] resuming his account; inset: [Kushanabha Visual Lock] among his hundred daughters, no son beside him. (Location register: Mythic inset, desaturated)
 
-**Story:** అప్పుడు విశ్వామిత్రుడు ఇలా చెప్పడం ప్రారంభించాడు — "కుశనాభుడికి నూరుగురు కుమార్తెలు ఉన్నారు, కాని కుమారులు లేరు. తనకి కుమారులు కలగడం కోసం పుత్రకామేష్టి యాగము ప్రారంభించాడు, యాగము జరుగుతుండగా కుశనాభుడి తండ్రి అయిన కుశమహారాజు అక్కడికి వచ్చి 'కోరిక తప్పకుండా నెరవేరుతుంది, గాధి అనేవాడు నీకు కొడుకుగా జన్మించి మన వంశ పేరు నిలబెడతాడు' అన్నాడు."
+**Story:** అప్పుడు విశ్వామిత్రుడు ఇలా చెప్పడం ప్రారంభించాడు — "కుశనాభుడికి నూరుగురు కుమార్తెలు ఉన్నారు, కాని కుమారులు లేరు.
 
 **Image:** Pending creation.
 
@@ -38,13 +38,21 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 4 — Scene 04
 
+**Visual:** Kushanabha performing a Putrakameshti yagna; [Kusha Maharaja — generic elder-king register] appearing at the fire to promise him a son, Gadhi. (Location register: Mythic inset, desaturated)
+
+**Story:** తనకి కుమారులు కలగడం కోసం పుత్రకామేష్టి యాగము ప్రారంభించాడు, యాగము జరుగుతుండగా కుశనాభుడి తండ్రి అయిన కుశమహారాజు అక్కడికి వచ్చి 'కోరిక తప్పకుండా నెరవేరుతుంది, గాధి అనేవాడు నీకు కొడుకుగా జన్మించి మన వంశ పేరు నిలబెడతాడు' అన్నాడు."
+
+**Image:** Pending creation.
+
+## 5 — Scene 05
+
 **Visual:** [Vishwamitra Visual Lock] revealing, for the first time in the series, his own personal identity within this lineage — a quiet, intimate beat amid all this ancestral storytelling. (Location register: Mythic inset → present, close on Vishwamitra)
 
 **Story:** "నేను ఆ గాధి యొక్క కుమారుడినే రామ" అని విశ్వామిత్రుడు రాముడితో చెప్పాడు.
 
 **Image:** Pending creation.
 
-## 5 — Scene 05
+## 6 — Scene 06
 
 **Visual:** On-screen verse text. (Location register: Present, riverbank)
 
@@ -54,17 +62,33 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — Vishwamitra naming his own father and lineage directly to Rama.
 
-## 6 — Scene 06
+## 7 — Scene 07
 
-**Visual:** [Vishwamitra Visual Lock] continuing, now with visible warmth — the story of his sister Satyavati, and why he's drawn to the Himalayas. (Location register: Present, riverbank)
+**Visual:** [Vishwamitra Visual Lock] continuing with visible warmth — a memory of his elder sister Satyavati and her husband, the sage Richika. (Location register: Present, riverbank)
 
-**Story:** అప్పుడు విశ్వామిత్రుడు — "నేను కుశ వంశంలో జన్మించాను కాబట్టి నన్ను కౌశికుడు అని అంటారు. నా అక్క పేరు సత్యవతి, ఆమె భర్త పేరు ఋచీకుడు. కొంతకాలానికి మా బావగారు శరీరం విడిచిపెట్టారు, అప్పుడు మా అక్క ఉండలేక సశరీరంగా బావతో స్వర్గానికి వెళ్ళిపోయింది. మా అక్క కౌశికి అనే నదిగా హిమాలయాల మీద ప్రవహిస్తుంది, అందుకే నేను ఎక్కువగా హిమాలయాల మీద, మా అక్కకి దగ్గరగా ఉంటాను. ఇప్పుడు ఈ సిద్ధాశ్రమానికి యాగము చేయుటకు వచ్చాను, నీ తేజస్సు చేత రక్షింపబడ్డాను" అని రాముడితో చెప్పాడు.
+**Story:** అప్పుడు విశ్వామిత్రుడు — "నేను కుశ వంశంలో జన్మించాను కాబట్టి నన్ను కౌశికుడు అని అంటారు. నా అక్క పేరు సత్యవతి, ఆమె భర్త పేరు ఋచీకుడు.
 
 **Image:** Pending creation.
 
 **Source note:** This is a genuinely tender, personal disclosure from an otherwise commanding character — his sister becoming a sacred river herself, and why he stays near the Himalayas to be close to her, deserves a quiet visual treatment (a soft cutaway to the Kaushiki river itself) rather than being rushed past as more genealogy.
 
-## 7 — Scene 07
+## 8 — Scene 08
+
+**Visual:** Satyavati rising to heaven with her husband; then a clear river, the Kaushiki, flowing down the Himalayas. (Location register: Present, riverbank)
+
+**Story:** కొంతకాలానికి మా బావగారు శరీరం విడిచిపెట్టారు, అప్పుడు మా అక్క ఉండలేక సశరీరంగా బావతో స్వర్గానికి వెళ్ళిపోయింది. మా అక్క కౌశికి అనే నదిగా హిమాలయాల మీద ప్రవహిస్తుంది,
+
+**Image:** Pending creation.
+
+## 9 — Scene 09
+
+**Visual:** Vishwamitra seated beside that mountain river, close to his sister; then back at Siddhashrama, his hand on [Rama Visual Lock]'s shoulder in gratitude. (Location register: Present, riverbank)
+
+**Story:** అందుకే నేను ఎక్కువగా హిమాలయాల మీద, మా అక్కకి దగ్గరగా ఉంటాను. ఇప్పుడు ఈ సిద్ధాశ్రమానికి యాగము చేయుటకు వచ్చాను, నీ తేజస్సు చేత రక్షింపబడ్డాను" అని రాముడితో చెప్పాడు.
+
+**Image:** Pending creation.
+
+## 10 — Scene 10
 
 **Visual:** On-screen verse text; [generic Maharshi-group Visual Lock] praising Vishwamitra directly. (Location register: Present, riverbank)
 
@@ -74,7 +98,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — the sages' praise of Vishwamitra and his sister-river.
 
-## 8 — Scene 08
+## 11 — Scene 11
 
 **Visual:** [Rama Visual Lock] asking a new, specific question — how the Ganga came to be called Tripathaga ("three-path-goer"). (Location register: Present, riverbank)
 
@@ -84,27 +108,43 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Opens the episode's largest nested story — the Ganga/Parvati/Kartikeya legend.
 
-## 9 — Scene 09
+## 12 — Scene 12
 
-**Visual:** Fourth mythic inset: [Himavantha — a one-scene mountain-king, dignified elder register] and his wife [Menorama] with two daughters — [young Ganga, divine/luminous quality even as a "daughter"] and [young Uma/Parvati]. (Location register: Mythic inset, desaturated)
+**Visual:** Fourth mythic inset: [Himavantha — mountain-king, dignified elder register] and his wife with two daughters — [young Ganga, luminous] and [young Uma/Parvati]. (Location register: Mythic inset, desaturated)
 
-**Story:** "పూర్వకాలములో హిమవంతుడు అనే పర్వత రాజు, ఆయన భార్య మనోరమ ఉండేవారు. పెద్ద కుమార్తె గంగ, రెండవ కుమార్తె ఉమ. స్వేచ్చగా ప్రవహించగలిగే గుణమున్న గంగని స్వర్గలోకానికి పంపిస్తే నదీ జలాలని ఉపయోగించుకొని మేము తరిస్తామని దేవతలు హిమవంతుడిని అడుగగా, దేవకార్యము కనుక హిమవంతుడు సరే అన్నాడు."
+**Story:** "పూర్వకాలములో హిమవంతుడు అనే పర్వత రాజు, ఆయన భార్య మనోరమ ఉండేవారు. పెద్ద కుమార్తె గంగ, రెండవ కుమార్తె ఉమ.
 
 **Image:** Pending creation.
 
 **Source note:** Establishing Ganga and Parvati as literal sisters is a significant, often-overlooked detail — worth letting land clearly since it recontextualizes their relationship in later mythology references.
 
-## 10 — Scene 10
+## 13 — Scene 13
 
-**Visual:** [Ganga] ascending to flow through the heavens; [young Uma/Parvati] shown separately, her own path toward becoming Shiva's consort. (Location register: Mythic inset)
+**Visual:** [Generic devatalu Visual Lock] asking Himavantha for Ganga; the mountain-king consenting with joined hands. (Location register: Mythic inset, desaturated)
 
-**Story:** "దేవనదిగా గంగ స్వర్గములో ప్రవహించేది. ఆయన రెండవ కుమార్తె తన తపస్సు చేత కాముడిని దహించిన శివుడికి అర్ధాంగి అయి, హైమవతిగా తన తండ్రి పేరు నిలబెట్టింది. పరమ పావని అయిన గంగ ఒకనాడు భూలోకానికి తేబడి పాతాళానికి చేరింది, 3 లోకములలో ప్రవహించినది కనుక గంగని త్రిపథగ అని పిలుస్తారు" అని విశ్వామిత్రుడు చెప్పాడు.
+**Story:** స్వేచ్చగా ప్రవహించగలిగే గుణమున్న గంగని స్వర్గలోకానికి పంపిస్తే నదీ జలాలని ఉపయోగించుకొని మేము తరిస్తామని దేవతలు హిమవంతుడిని అడుగగా, దేవకార్యము కనుక హిమవంతుడు సరే అన్నాడు."
+
+**Image:** Pending creation.
+
+## 14 — Scene 14
+
+**Visual:** [Ganga] ascending to flow through the heavens as a river of light; [young Uma/Parvati] shown separately in tapasya, then beside Shiva. (Location register: Mythic inset)
+
+**Story:** "దేవనదిగా గంగ స్వర్గములో ప్రవహించేది. ఆయన రెండవ కుమార్తె తన తపస్సు చేత కాముడిని దహించిన శివుడికి అర్ధాంగి అయి, హైమవతిగా తన తండ్రి పేరు నిలబెట్టింది.
 
 **Image:** Pending creation.
 
 **Source note:** Note: this is a brief, forward-referencing summary of the Ganga's three-world flow (the full Bhagiratha descent story comes later in E1.12+) — keep this passage's visual treatment light/summary-level, since the detailed version is coming.
 
-## 11 — Scene 11
+## 15 — Scene 15
+
+**Visual:** Ganga's course through three worlds in one sweeping image — heaven, earth, the netherworld; overlay "త్రిపథగ". (Location register: Mythic inset)
+
+**Story:** పరమ పావని అయిన గంగ ఒకనాడు భూలోకానికి తేబడి పాతాళానికి చేరింది, 3 లోకములలో ప్రవహించినది కనుక గంగని త్రిపథగ అని పిలుస్తారు" అని విశ్వామిత్రుడు చెప్పాడు.
+
+**Image:** Pending creation.
+
+## 16 — Scene 16
 
 **Visual:** [Rama Visual Lock] asking for the fuller story; [Vishwamitra Visual Lock] agreeing, beginning the Kartikeya sub-story as a bridge into it. (Location register: Present, riverbank)
 
@@ -112,7 +152,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 12 — Scene 12
+## 17 — Scene 17
 
 **Visual:** Fifth mythic inset: [Shiva and Parvati Visual Locks — no individual locks exist yet for either in the Character Bible; use a dignified divine-couple treatment, Shiva with matted locks/ash/third-eye, Parvati radiant and serene] in prolonged divine union at Kailasa. (Location register: Mythic inset, desaturated)
 
@@ -122,15 +162,23 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Handle with the same tasteful restraint as any procreation-adjacent content elsewhere in this series — divine, symbolic, not literal/explicit.
 
-## 13 — Scene 13
+## 18 — Scene 18
 
-**Visual:** [Generic devatalu Visual Lock] approaching Shiva directly with their concern. (Location register: Mythic inset)
+**Visual:** [Generic devatalu Visual Lock] travelling to Kailasa and praying; [Shiva Visual Lock] coming out to them. (Location register: Mythic inset)
 
-**Story:** "ఈ దేవతలంతా బయలుదేరి కైలాసానికి శంకరుడిని ప్రార్థించారు. అప్పుడు శంకరుడు బయటకి వచ్చాడు. అప్పుడు వారు ఆయనతో 'స్వామీ! మీరు పార్వతీదేవితో 100 దివ్యసంవత్సరాల నుండి క్రీడిస్తున్నారు, మీ తేజస్సు కనుక వేరొక ప్రాణి రూపంలో వస్తే, మేము ఎవరము వానిని తట్టుకోలేము, కావున మీరు మీ తేజస్సుని మీలోనే పెట్టుకొని పార్వతీదేవితో తపస్సు చేసుకోండి' అన్నారు."
+**Story:** "ఈ దేవతలంతా బయలుదేరి కైలాసానికి శంకరుడిని ప్రార్థించారు. అప్పుడు శంకరుడు బయటకి వచ్చాడు. అప్పుడు వారు ఆయనతో 'స్వామీ!
 
 **Image:** Pending creation.
 
-## 14 — Scene 14
+## 19 — Scene 19
+
+**Visual:** The devas, heads bowed, making their request to Shiva — respectful, anxious. (Location register: Mythic inset)
+
+**Story:** మీరు పార్వతీదేవితో 100 దివ్యసంవత్సరాల నుండి క్రీడిస్తున్నారు, మీ తేజస్సు కనుక వేరొక ప్రాణి రూపంలో వస్తే, మేము ఎవరము వానిని తట్టుకోలేము, కావున మీరు మీ తేజస్సుని మీలోనే పెట్టుకొని పార్వతీదేవితో తపస్సు చేసుకోండి' అన్నారు."
+
+**Image:** Pending creation.
+
+## 20 — Scene 20
 
 **Visual:** [Shiva Visual Lock] agreeing, but revealing a complication — his energy has already been released and needs somewhere to go. (Location register: Mythic inset)
 
@@ -138,7 +186,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 15 — Scene 15
+## 21 — Scene 21
 
 **Visual:** On-screen verse text; [generic devatalu] answering. (Location register: Mythic inset)
 
@@ -148,7 +196,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — the devas' answer that the earth itself will bear Shiva's released energy.
 
-## 16 — Scene 16
+## 22 — Scene 22
 
 **Visual:** [Shiva Visual Lock] releasing his tejas onto the earth; the energy spreading and saturating the ground itself. (Location register: Mythic inset)
 
@@ -156,7 +204,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 17 — Scene 17
+## 23 — Scene 23
 
 **Visual:** [Parvati Visual Lock] arriving, visibly hurt and angry — she was denied a child of her own by the devas' intervention. (Location register: Mythic inset, tension rising)
 
@@ -166,25 +214,49 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This is a genuinely sympathetic grievance — Parvati's anger here is earned and reasonable, not villainous; keep her framed with dignity even as she delivers the coming curse.
 
-## 18 — Scene 18
+## 24 — Scene 24
 
-**Visual:** On-screen verse text — Parvati's curse, in full. (Location register: Mythic inset)
+**Visual:** On-screen verse text — Parvati's curse, first shloka. (Location register: Mythic inset)
 
-**Story:** అపత్యం స్వేషు దారేషు న ఉత్పాదయితుం అర్హథ । అద్య ప్రభృతి యుష్మాకం అప్రజాః సంతు పత్నయః ॥ ఏవం ఉక్త్వా సురాన్ సర్వాన్ శశాప పృథివీం అపి । అవనే న ఏక రూపా త్వం బహు భార్యా భవిష్యసి ॥ న చ పుత్ర కృతాం ప్రీతిం మత్ క్రోధ కలుషీకృతా । ప్రాప్స్యసి త్వం సుదుర్మేధే మమ పుత్రం అనిచ్ఛతీ ॥
+**Story:** అపత్యం స్వేషు దారేషు న ఉత్పాదయితుం అర్హథ । అద్య ప్రభృతి యుష్మాకం అప్రజాః సంతు పత్నయః ॥
 
 **Image:** Pending creation.
 
 **Source note:** 🔴 VERSE — Parvati's curse on the devas (no children by their own wives) and on the earth itself (many forms, many "husbands," never satisfied). This is a longer, emotionally weighted verse — give it real pacing, not a rushed recitation.
 
-## 19 — Scene 19
+## 25 — Scene 25
 
-**Visual:** [Generic devatalu Visual Lock] bowing their heads in shame, departing quietly. (Location register: Mythic inset)
+**Visual:** Same verse card, second shloka — the curse turning to the earth. (Location register: Mythic inset)
 
-**Story:** "మీ దేవతలు అందరూ వచ్చి నాకు బిడ్డలు కలగకుండా చేశారు, కాబట్టి మీకెవరికీ మీ భార్యలందు బిడ్డలు పుట్టరు. నా భర్త అయిన శంకరుడి తేజస్సుని భరించడానికి భూమి ఒప్పుకుంది, కాబట్టి ఇకనుండి భూమి అనేక రూపాలు పొందుతుంది, ఒకే కాలంలో భూమికి అనేక భర్తలుంటారు, భూమి తన కొడుకుల వలన సిగ్గుతో తల వంచుకుంటుందని" శపించింది. ఇది విన్న దేవతలు తలలు వంచుకొని తమ తమ దారిన పోయారు.
+**Story:** ఏవం ఉక్త్వా సురాన్ సర్వాన్ శశాప పృథివీం అపి । అవనే న ఏక రూపా త్వం బహు భార్యా భవిష్యసి ॥
 
 **Image:** Pending creation.
 
-## 20 — Scene 20
+## 26 — Scene 26
+
+**Visual:** Same verse card, third shloka completing the curse; hold. (Location register: Mythic inset)
+
+**Story:** న చ పుత్ర కృతాం ప్రీతిం మత్ క్రోధ కలుషీకృతా । ప్రాప్స్యసి త్వం సుదుర్మేధే మమ పుత్రం అనిచ్ఛతీ ॥
+
+**Image:** Pending creation.
+
+## 27 — Scene 27
+
+**Visual:** [Parvati] in righteous anger before the gathered devas — the curse spoken plainly; Shiva silent beside her. (Location register: Mythic inset)
+
+**Story:** "మీ దేవతలు అందరూ వచ్చి నాకు బిడ్డలు కలగకుండా చేశారు, కాబట్టి మీకెవరికీ మీ భార్యలందు బిడ్డలు పుట్టరు. నా భర్త అయిన శంకరుడి తేజస్సుని భరించడానికి భూమి ఒప్పుకుంది,
+
+**Image:** Pending creation.
+
+## 28 — Scene 28
+
+**Visual:** The earth-goddess bowing under the curse; [generic devatalu Visual Lock] lowering their heads in shame and departing quietly. (Location register: Mythic inset)
+
+**Story:** కాబట్టి ఇకనుండి భూమి అనేక రూపాలు పొందుతుంది, ఒకే కాలంలో భూమికి అనేక భర్తలుంటారు, భూమి తన కొడుకుల వలన సిగ్గుతో తల వంచుకుంటుందని" శపించింది. ఇది విన్న దేవతలు తలలు వంచుకొని తమ తమ దారిన పోయారు.
+
+**Image:** Pending creation.
+
+## 29 — Scene 29
 
 **Visual:** The earth itself, saturated with Shiva's tejas, visibly straining under its intensity — the story moving past Parvati's curse to its next practical problem. (Location register: Mythic inset)
 
@@ -192,7 +264,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 21 — Scene 21
+## 30 — Scene 30
 
 **Visual:** [Generic devatalu] approaching Agni and Vayu together; [Agni Deva — no individual lock exists, one-scene divine figure, treat with a fire-toned register distinct from the Yajna Purusha's] absorbing the tejas into himself. (Location register: Mythic inset)
 
@@ -200,7 +272,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 22 — Scene 22
+## 31 — Scene 31
 
 **Visual:** [Shiva Visual Lock] departing westward with Parvati to resume tapasya elsewhere — a visual closing of this particular thread before a new complication opens. (Location register: Mythic inset)
 
@@ -208,7 +280,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 23 — Scene 23
+## 32 — Scene 32
 
 **Visual:** New complication: [Tarakasura — one-scene asura antagonist for this nested story only, no individual lock needed] shown having received a boon that only a child of Shiva-Parvati could kill him. (Location register: Mythic inset)
 
@@ -218,17 +290,25 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This sets up why the devas need Shiva's tejas to become a child after all, despite Parvati's earlier-denied wish — the story's own internal irony (the devas prevented the birth, then desperately need it) is worth letting land clearly in the narration pacing.
 
-## 24 — Scene 24
+## 33 — Scene 33
 
 **Visual:** [Generic devatalu Visual Lock] going to [Brahma Visual Lock] for a solution. (Location register: Mythic inset)
 
-**Story:** ఇది తెలిసిన దేవతలకి ఏమి చెయ్యాలో బ్రహ్మగారి దగ్గరికి వెళ్లారు. అప్పుడు బ్రహ్మగారు ఆలోచించి, "హిమవంతుడు-మనోరమల కుమార్తెలైన గంగా-పార్వతులకి తేడా లేదు, కావున పార్వతీదేవి అక్క అయిన గంగలో ఈ తేజస్సుని విడిచిపెడితే, పార్వతీదేవికి కోపం రాదు, కాబట్టి ఆ శివ తేజస్సుని గంగలో విడిచిపెట్టమన్నారు."
+**Story:** ఇది తెలిసిన దేవతలకి ఏమి చెయ్యాలో బ్రహ్మగారి దగ్గరికి వెళ్లారు.
 
 **Image:** Pending creation.
 
-**Source note:** Brahma's solution directly uses the sisterhood fact established in scene 9 — a clean structural payoff.
+**Source note:** Brahma's solution directly uses the sisterhood fact established in scenes 12-13 — a clean structural payoff.
 
-## 25 — Scene 25
+## 34 — Scene 34
+
+**Visual:** Brahma reasoning it out — the two sisters Ganga and Parvati shown side by side; the tejas to be entrusted to Ganga. (Location register: Mythic inset)
+
+**Story:** అప్పుడు బ్రహ్మగారు ఆలోచించి, "హిమవంతుడు-మనోరమల కుమార్తెలైన గంగా-పార్వతులకి తేడా లేదు, కావున పార్వతీదేవి అక్క అయిన గంగలో ఈ తేజస్సుని విడిచిపెడితే, పార్వతీదేవికి కోపం రాదు, కాబట్టి ఆ శివ తేజస్సుని గంగలో విడిచిపెట్టమన్నారు."
+
+**Image:** Pending creation.
+
+## 35 — Scene 35
 
 **Visual:** [Generic devatalu] approaching [Ganga Visual Lock — divine pre-descent form, luminous/celestial] with the request; she agrees. (Location register: Mythic inset)
 
@@ -236,7 +316,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 26 — Scene 26
+## 36 — Scene 36
 
 **Visual:** [Ganga Visual Lock] receiving the tejas from [Agni], immediately overwhelmed — crying out that she cannot bear it either. (Location register: Mythic inset)
 
@@ -244,17 +324,33 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 27 — Scene 27
+## 37 — Scene 37
 
-**Visual:** Following Agni's earlier instruction, [Ganga] releasing the tejas onto ground beside Kailasa — and from its radiance, precious metals and minerals forming across the landscape, a striking visual moment. (Location register: Mythic inset)
+**Visual:** Following Agni's instruction, [Ganga] releasing the blazing tejas onto the ground beside Kailasa. (Location register: Mythic inset)
 
-**Story:** అప్పుడు అగ్నిదేవుడు చెప్పిన విధంగా గంగ ఆ తేజస్సుని కైలాస పర్వతం పక్కనున్న భూమి మీద వదిలింది. అలా భూమి మీద పడ్డ ఆ తేజస్సు యొక్క కాంతివంతమైన స్వరూపం నుండి బంగారం, వెండి పుట్టాయి, ఆ తేజస్సు యొక్క మలం నుండి తగరము, సీసము పుట్టాయి, ఆ తేజస్సు యొక్క క్షారం నుండి రాగి, ఇనుము పుట్టాయి, మిగిలిన పదార్థం నుండి మిగతా ధాతువులన్ని పుట్టి గనులుగా ఏర్పడ్డాయి. అక్కడ బంగారు రెల్లుపొదలుగా, శరవణ పొదలు పుట్టాయి.
+**Story:** అప్పుడు అగ్నిదేవుడు చెప్పిన విధంగా గంగ ఆ తేజస్సుని కైలాస పర్వతం పక్కనున్న భూమి మీద వదిలింది.
 
 **Image:** Pending creation.
 
 **Source note:** This mineral-origin passage doubles as a piece of etymological world-building (explaining where metals/gems come from) — a nice visual opportunity for a quick montage of glowing ore veins forming, distinct in tone from the emotional beats around it.
 
-## 28 — Scene 28
+## 38 — Scene 38
+
+**Visual:** From its radiance, gold and silver forming across the landscape; duller veins of tin and lead beneath. (Location register: Mythic inset)
+
+**Story:** అలా భూమి మీద పడ్డ ఆ తేజస్సు యొక్క కాంతివంతమైన స్వరూపం నుండి బంగారం, వెండి పుట్టాయి, ఆ తేజస్సు యొక్క మలం నుండి తగరము, సీసము పుట్టాయి,
+
+**Image:** Pending creation.
+
+## 39 — Scene 39
+
+**Visual:** Copper and iron and every other ore spreading into mines; a thicket of golden reeds — the sharavana — rising where the light fell. (Location register: Mythic inset)
+
+**Story:** ఆ తేజస్సు యొక్క క్షారం నుండి రాగి, ఇనుము పుట్టాయి, మిగిలిన పదార్థం నుండి మిగతా ధాతువులన్ని పుట్టి గనులుగా ఏర్పడ్డాయి. అక్కడ బంగారు రెల్లుపొదలుగా, శరవణ పొదలు పుట్టాయి.
+
+**Image:** Pending creation.
+
+## 40 — Scene 40
 
 **Visual:** An infant's cry heard from within the reed-thicket (Sharavana); [generic devatalu Visual Lock] uncertain who will nurse him. (Location register: Mythic inset)
 
@@ -262,7 +358,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 29 — Scene 29
+## 41 — Scene 41
 
 **Visual:** [The Krittikas — six star-goddesses, a one-scene celestial group, tasteful/luminous design] stepping forward, offering to nurse him as their own if he takes their name. (Location register: Mythic inset)
 
@@ -270,7 +366,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Image:** Pending creation.
 
-## 30 — Scene 30
+## 42 — Scene 42
 
 **Visual:** On-screen verse text. (Location register: Mythic inset)
 
@@ -280,7 +376,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** 🔴 VERSE — the naming of Kartikeya.
 
-## 31 — Scene 31
+## 43 — Scene 43
 
 **Visual:** The visually striking payoff: [infant Kartikeya — a divine child with SIX faces, nursing simultaneously from all six Krittikas at once] — a genuinely unusual, iconic image worth its own dedicated shot. (Location register: Mythic inset, warm resolution)
 
@@ -290,17 +386,33 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** Note for the Character Bible: Kartikeya/Skanda does not currently have an entry — add one if he recurs anywhere later in this text (he is referenced only in this backstory as far as scripted so far); for now this is a single-scene, self-contained visual.
 
-## 32 — Scene 32
+## 44 — Scene 44
 
-**Visual:** [Vishwamitra Visual Lock] closing this sub-story with Kartikeya's remaining epithets, each tied to a specific origin-fact already shown. (Location register: Mythic inset → present)
+**Visual:** [Vishwamitra Visual Lock] closing the sub-story; the young Kartikeya beside a fire-motif, overlays "పావకి", "అగ్నిసంభవ". (Location register: Mythic inset → present)
 
-**Story:** "అలాగే అగ్నిదేవుడి నుండి బయటకి వచ్చిన శివ తేజస్సు కనుక ఆయనకి పావకి, అగ్నిసంభవ అని నామాలు, అలాగే పరమశివుడి కుమారుడు కనుక ఆయనని కుమారస్వామి అని పిలిచారు, అలాగే శివుడి వీర్యము స్ఖలనమైతే పుట్టినవాడు కనుక స్కందుడు అని పిలిచారు, పార్వతీదేవిలా అందంగా ఉంటాడు కనుక, అమ్మ అందం వచ్చింది కనుక మురుగన అని పిలిచారు, పరమశివుడికి ప్రణవార్థాన్ని వివరించాడు కనుక స్వామిమలై అన్నారు" అని విశ్వామిత్రుడు రాముడికి చెప్పాడు.
+**Story:** "అలాగే అగ్నిదేవుడి నుండి బయటకి వచ్చిన శివ తేజస్సు కనుక ఆయనకి పావకి, అగ్నిసంభవ అని నామాలు,
 
 **Image:** Pending creation.
 
 **Source note:** This epithet-list closes the Kartikeya digression cleanly — each name ties back to a specific plot beat already shown, functioning as a satisfying recap rather than new information.
 
-## 33 — Scene 33
+## 45 — Scene 45
+
+**Visual:** Kartikeya as Shiva's son, overlays "కుమారస్వామి", "స్కందుడు". (Location register: Mythic inset → present)
+
+**Story:** అలాగే పరమశివుడి కుమారుడు కనుక ఆయనని కుమారస్వామి అని పిలిచారు, అలాగే శివుడి వీర్యము స్ఖలనమైతే పుట్టినవాడు కనుక స్కందుడు అని పిలిచారు,
+
+**Image:** Pending creation.
+
+## 46 — Scene 46
+
+**Visual:** Kartikeya with his mother's beauty, then as the child-teacher explaining the pranava to Shiva; back to Vishwamitra and [Rama Visual Lock]. (Location register: Mythic inset → present)
+
+**Story:** పార్వతీదేవిలా అందంగా ఉంటాడు కనుక, అమ్మ అందం వచ్చింది కనుక మురుగన అని పిలిచారు, పరమశివుడికి ప్రణవార్థాన్ని వివరించాడు కనుక స్వామిమలై అన్నారు" అని విశ్వామిత్రుడు రాముడికి చెప్పాడు.
+
+**Image:** Pending creation.
+
+## 47 — Scene 47
 
 **Visual:** [Vishwamitra Visual Lock] turning back to the ORIGINAL question — Ganga's descent to earth, which this whole Kartikeya story was a detour from. (Location register: Present, riverbank)
 
@@ -310,7 +422,7 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 **Source note:** This line explicitly signals the text's own return from a nested digression to the main thread — a good act-break point, and the natural place to end this episode, holding the actual Bhagiratha/descent story for E1.12.
 
-## 34 — Scene 34
+## 48 — Scene 48
 
 **Visual:** End card.
 

@@ -48,25 +48,7 @@
     "scene": 3,
     "part": 3,
     "id": "03.03",
-    "text": "బాలుడు ఎలా ప్రవర్తిస్తాడో నువ్వు అలా ప్రవర్తించేవాడివి, నీకు ఏమి తెలుసని నామీద ఇన్ని ఆరోపణలు చేశావు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 4,
-    "id": "03.04",
-    "text": "నువ్వు అజ్ఞానివి కావడం వలన నీకు తెలియకపోతే, ఆచారం తెలిసినవారిని, పెద్దలైనవారిని ఆశ్రయించి నువ్వు కనుక్కోవాలి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 5,
-    "id": "03.05",
-    "text": "నువ్వు అవేమి తెలుసుకోకుండా నా గురించి అడుగుతున్నావు.",
+    "text": "బాలుడు ఎలా ప్రవర్తిస్తాడో నువ్వు అలా ప్రవర్తించేవాడివి,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -75,7 +57,7 @@
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "ఇక్ష్వాకుల యొక్క రాజ్యంలోకి ఈ భాగం కూడా వస్తుంది.",
+    "text": "నీకు ఏమి తెలుసని నామీద ఇన్ని ఆరోపణలు చేశావు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -84,7 +66,7 @@
     "scene": 4,
     "part": 2,
     "id": "04.02",
-    "text": "ఆ ఇక్ష్వాకు వంశంలో పుట్టిన భరతుడు ఇప్పుడు రాజ్యం చేస్తున్నాడు.",
+    "text": "నువ్వు అజ్ఞానివి కావడం వలన నీకు తెలియకపోతే, ఆచారం తెలిసినవారిని, పెద్దలైనవారిని ఆశ్రయించి నువ్వు కనుక్కోవాలి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -93,34 +75,7 @@
     "scene": 4,
     "part": 3,
     "id": "04.03",
-    "text": "ఇక్ష్వాకు వంశంవారు రాజ్యం చేస్తుండగా ధర్మాధర్మములు జరిగిన చోట నిగ్రహించే అధికారం మాకు ఉంటుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "నీకు కామం తప్ప వేరొకటి తెలియదు, అందుచేత నీకు ధర్మాధర్మ విచక్షణ చేసే అధికారం లేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 5,
-    "id": "04.05",
-    "text": "జన్మనిచ్చిన తండ్రి, పెద్ద అన్నగారు, చదువు నేర్పిన గురువు, ఈ ముగ్గురూ తండ్రులతో సమానం.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 6,
-    "id": "04.06",
-    "text": "అలాగే తనకి జన్మించిన కుమారుడు, తోడబుట్టిన తమ్ముడు, తన దగ్గర విద్య నేర్చుకున్న శిష్యుడు, ఈ ముగ్గురూ కుమారులతో సమానము.",
+    "text": "నువ్వు అవేమి తెలుసుకోకుండా నా గురించి అడుగుతున్నావు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -129,7 +84,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "నీ తండ్రి మరణించడం చేత, నువ్వు పెద్దవాడివి అవడం చేత నువ్వు తండ్రితో సమానము.",
+    "text": "ఇక్ష్వాకుల యొక్క రాజ్యంలోకి ఈ భాగం కూడా వస్తుంది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -138,16 +93,7 @@
     "scene": 5,
     "part": 2,
     "id": "05.02",
-    "text": "నీ తమ్ముడు సుగ్రీవుడు, ఆయన భార్య అయిన రుమ నీకు కోడలితో సమానము.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 3,
-    "id": "05.03",
-    "text": "కాని సుగ్రీవుడు బతికి ఉన్నాడని తెలిసి, కోడలితో సమానమైన రుమని నువ్వు అనుభవించి, నీ భార్యగా కామ సుఖాలని పొందుతున్నావు",
+    "text": "ఆ ఇక్ష్వాకు వంశంలో పుట్టిన భరతుడు ఇప్పుడు రాజ్యం చేస్తున్నాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -156,7 +102,7 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "(వాలి బిలంలో ఉండిపోయినప్పుడు, వాలి మరణించాడు అనుకొని సుగ్రీవుడికి పట్టాభిషేకం చేశారు.",
+    "text": "ఇక్ష్వాకు వంశంవారు రాజ్యం చేస్తుండగా ధర్మాధర్మములు జరిగిన చోట నిగ్రహించే అధికారం మాకు ఉంటుంది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -165,79 +111,7 @@
     "scene": 6,
     "part": 2,
     "id": "06.02",
-    "text": "అప్పుడు సుగ్రీవుడు వాలి భార్య అయిన తారని తన భార్యగా అనుభవించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 3,
-    "id": "06.03",
-    "text": "మరి సుగ్రీవుడు చేసింది దోషం కాదా?",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 4,
-    "id": "06.04",
-    "text": "ఇక్కడ మీరు గమనించవలసిన విషయం ఏమిటంటే, సంధ్యావందనం చేసే వానర జాతికి, రాజ్యపాలన చేసే వానర జాతికి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 5,
-    "id": "06.05",
-    "text": "మంత్రులచేత సేవింపబడే వానర జాతికి కొన్ని నియమాలు ఉన్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 6,
-    "id": "06.06",
-    "text": "ఆ జాతిలోని స్త్రీలు తమ భర్త మరణిస్తే మరిదిని పునర్వివాహం చేసుకొని, వారితో ఉండచ్చు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 7,
-    "id": "06.07",
-    "text": "ఆనాడు వాలి చనిపోయాడనుకొని తార సుగ్రీవుడిని వివాహమాడింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 8,
-    "id": "06.08",
-    "text": "కనుక సుగ్రీవుడితో ఆనాడు తార ఉండడం ధర్మం తప్పడం కాదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 9,
-    "id": "06.09",
-    "text": "కాని సుగ్రీవుడు బతికే ఉన్నాడని తెలిసి కూడా ఆయన భార్యతో కామ సుఖాలని అనుభవించడం వాలి యొక్క దోషం.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 6,
-    "part": 10,
-    "id": "06.10",
-    "text": "ఈ నియమం కేవలం పైన చెప్పిన వానర జాతికి మాత్రమే, మనుష్యులకి కాదు.",
+    "text": "నీకు కామం తప్ప వేరొకటి తెలియదు, అందుచేత నీకు ధర్మాధర్మ విచక్షణ చేసే అధికారం లేదు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -246,7 +120,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "అలాగే వాలికి రెండు శక్తులు ఉన్నాయి.",
+    "text": "జన్మనిచ్చిన తండ్రి, పెద్ద అన్నగారు, చదువు నేర్పిన గురువు, ఈ ముగ్గురూ తండ్రులతో సమానం.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -255,34 +129,7 @@
     "scene": 7,
     "part": 2,
     "id": "07.02",
-    "text": "ఒకటి, ఇంద్రుడు ఇచ్చిన మాలని మెడలో వేసుకుంటే, వాలి అపారమైన ఉత్సాహంతో ఉంటాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 3,
-    "id": "07.03",
-    "text": "రెండు, ఎవరన్నా వాలికి ఎదురుగా వెళితే, వాళ్ళ శక్తిలో సగం శక్తిని ఈయన లాగేసుకుంటాడు, ఇది బ్రహ్మగారు వాలికి ఇచ్చిన వరం.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "అలాగే వాలికి రావణాసురుడికి స్నేహం ఉంది, వాళ్ళిద్దరూ ఒక ఒప్పందం కుదుర్చుకున్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 5,
-    "id": "07.05",
-    "text": "దాని ప్రకారం వాలి అనుభవించే స్త్రీని రావణుడు అనుభవించచ్చు, వాలికి శత్రువు రావణుడికి శత్రువే అలా కొన్ని విషయాలలో ఒప్పందం కుదుర్చుకున్నారు).",
+    "text": "అలాగే తనకి జన్మించిన కుమారుడు, తోడబుట్టిన తమ్ముడు, తన దగ్గర విద్య నేర్చుకున్న శిష్యుడు, ఈ ముగ్గురూ కుమారులతో సమానము.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -291,7 +138,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "అందుచేత ఒక మామగారు కోడలితో కామభోగాన్ని అనుభవిస్తే ఎంత దోషమో, అంత దోషాన్ని నువ్వు చేశావు.",
+    "text": "నీ తండ్రి మరణించడం చేత, నువ్వు పెద్దవాడివి అవడం చేత నువ్వు తండ్రితో సమానము.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -300,70 +147,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "ధర్మ శాస్త్రంలో దీనికి మరణశిక్ష తప్ప వేరొక శిక్ష లేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 3,
-    "id": "08.03",
-    "text": "అందుకని నేను నిన్ను చంపవలసి వచ్చింది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 4,
-    "id": "08.04",
-    "text": "నువ్వు ప్రభువువి, మంత్రుల చేత సేవింప బడుతున్నవాడివి, సంధ్యావందనం చేస్తున్నవాడివి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 5,
-    "id": "08.05",
-    "text": "నువ్వు ధర్మం తప్పితే నీ వెనుక ఉన్నవారు కూడా ధర్మం తప్పుతారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 6,
-    "id": "08.06",
-    "text": "నేను క్షత్రియుడని కనుక నిన్ను శిక్షించవలసిన అవసరం నాకు ఉంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 7,
-    "id": "08.07",
-    "text": "ఇది తప్పు అని తెలిసికూడా నేను నిన్ను శిక్షించకపోతే, నువ్వు చేసిన పాపం నాకు వస్తుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 8,
-    "id": "08.08",
-    "text": "ఈ పాపం అవతలవాడు చేశాడని ప్రభువైనవాడికి తెలిసి వాడిని శిక్షిస్తే, వాడి పాపం పోతుంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 8,
-    "part": 9,
-    "id": "08.09",
-    "text": "కాని ప్రభువు అలా శిక్షించకపోతే ఆ పాపం రాజుకి వెళుతుంది.",
+    "text": "నీ తమ్ముడు సుగ్రీవుడు, ఆయన భార్య అయిన రుమ నీకు కోడలితో సమానము.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -372,43 +156,7 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "అందుకే మా వంశంలో ఇంతకుపూర్వం మాంధాత అనే రాజు ఒక శ్రమణికుడు ఇటువంటి దోషం చేస్తే శిక్ష వేశాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 2,
-    "id": "09.02",
-    "text": "ఇంక నాతో ఎందుకు స్నేహం చెయ్యలేదు, నాతో స్నేహం చేసి ఉంటే సీతమ్మని తీసుకు వచ్చేవాడిని అన్నావు కదా,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 3,
-    "id": "09.03",
-    "text": "నీలాంటి అధర్మాత్ముడితో నేను స్నేహం చెయ్యను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 4,
-    "id": "09.04",
-    "text": "నన్ను చెట్టు చాటునుండి చంపావు, వేరొకడితో యుద్ధం చేస్తుంటే కొట్టావు, అది దోషం కాదా?",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 9,
-    "part": 5,
-    "id": "09.05",
-    "text": "అని నన్ను అడిగావు, దానికి నేను సమాధానం చెబుతాను విను.",
+    "text": "కాని సుగ్రీవుడు బతికి ఉన్నాడని తెలిసి, కోడలితో సమానమైన రుమని నువ్వు అనుభవించి, నీ భార్యగా కామ సుఖాలని పొందుతున్నావు",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -417,7 +165,7 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "తప్పు చేసినవాడిని రాజు శిక్షిస్తే వాడి పాపం ఇక్కడితో పోతుంది.",
+    "text": "(వాలి బిలంలో ఉండిపోయినప్పుడు, వాలి మరణించాడు అనుకొని సుగ్రీవుడికి పట్టాభిషేకం చేశారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -426,7 +174,7 @@
     "scene": 10,
     "part": 2,
     "id": "10.02",
-    "text": "నేను నిన్ను చంపడం వలన నువ్వు ఏ పాపము లేని స్థితికి వచ్చావు, నీ పాపం ఇక్కడితో పోయింది,",
+    "text": "అప్పుడు సుగ్రీవుడు వాలి భార్య అయిన తారని తన భార్యగా అనుభవించాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -435,7 +183,7 @@
     "scene": 10,
     "part": 3,
     "id": "10.03",
-    "text": "అందుకని నువ్వు ఉత్తమలోకాలకి వెళ్ళిపోతావు.",
+    "text": "మరి సుగ్రీవుడు చేసింది దోషం కాదా?",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -444,8 +192,17 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
-    "text": "న మే తత్ర మనస్తాపో న మన్యుః హరిపుంగవ । వాగురాభిః చ పాశైః చ కూటైః చ వివిధైః నరాః ॥",
-    "complete_verse_block": true,
+    "text": "ఇక్కడ మీరు గమనించవలసిన విషయం ఏమిటంటే, సంధ్యావందనం చేసే వానర జాతికి, రాజ్యపాలన చేసే వానర జాతికి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 11,
+    "part": 2,
+    "id": "11.02",
+    "text": "మంత్రులచేత సేవింపబడే వానర జాతికి కొన్ని నియమాలు ఉన్నాయి.",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -453,7 +210,7 @@
     "scene": 12,
     "part": 1,
     "id": "12.01",
-    "text": "నేను మానవుడిని, నువ్వు వానరానివి.",
+    "text": "ఆ జాతిలోని స్త్రీలు తమ భర్త మరణిస్తే మరిదిని పునర్వివాహం చేసుకొని, వారితో ఉండచ్చు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -462,7 +219,7 @@
     "scene": 12,
     "part": 2,
     "id": "12.02",
-    "text": "నేను మనిషిని, నువ్వు జంతువువి.",
+    "text": "ఆనాడు వాలి చనిపోయాడనుకొని తార సుగ్రీవుడిని వివాహమాడింది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -471,70 +228,7 @@
     "scene": 12,
     "part": 3,
     "id": "12.03",
-    "text": "క్షత్రియుడు, మాంసం తినేవాడు, ధర్మాన్ని నిలబెట్టవలసినవాడు ఒక మృగాన్ని కొట్టవలసి వస్తే, తాను చాటున ఉండి కొట్టవచ్చు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 4,
-    "id": "12.04",
-    "text": "వల వేసి పట్టుకొని కొట్టవచ్చు, పాశం వేసి పట్టుకొని కొట్టవచ్చు, అది అప్రమత్తంగా ఉన్నప్పుడు కొట్టవచ్చు, అది పడుకొని ఉన్నప్పుడు కొట్టవచ్చు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 5,
-    "id": "12.05",
-    "text": "నిలబడి ఉన్నప్పుడు కొట్టవచ్చు, పారిపోతున్నప్పుడు కొట్టవచ్చు, ఎప్పుడైనా కొట్టవచ్చు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 6,
-    "id": "12.06",
-    "text": "కాని ఆ మృగం వేరొక స్త్రీ మృగంతో సంగమిస్తున్నప్పుడు మాత్రం బాణ ప్రయోగం చెయ్యకూడదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 7,
-    "id": "12.07",
-    "text": "నువ్వు మైధున లక్షణంతో లేవు, అందుకని నిన్ను కొట్టాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 8,
-    "id": "12.08",
-    "text": "నేను నరుడిని కనుక మృగానివైన నిన్ను ఎలా కొట్టినా నాకు పాపం రాదని తెలిసి కొట్టాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 9,
-    "id": "12.09",
-    "text": "కాని నువ్వు చనిపోయేముందు రోషం కలిగి నన్ను ప్రశ్నించావు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 10,
-    "id": "12.10",
-    "text": "నాయందు ఎటువంటి దోషము లేదు\" అని రామచంద్రమూర్తి సమాధానమిచ్చారు.",
+    "text": "కనుక సుగ్రీవుడితో ఆనాడు తార ఉండడం ధర్మం తప్పడం కాదు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -543,7 +237,7 @@
     "scene": 13,
     "part": 1,
     "id": "13.01",
-    "text": "రాముడు మాటలు విన్న వాలి తన రెండు చేతులతో రాముడికి నమస్కారం పెట్టి \"మహానుభావ!",
+    "text": "కాని సుగ్రీవుడు బతికే ఉన్నాడని తెలిసి కూడా ఆయన భార్యతో కామ సుఖాలని అనుభవించడం వాలి యొక్క దోషం.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -552,70 +246,7 @@
     "scene": 13,
     "part": 2,
     "id": "13.02",
-    "text": "ధర్మాత్మ!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 3,
-    "id": "13.03",
-    "text": "రామచంద్ర!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 4,
-    "id": "13.04",
-    "text": "నువ్వు చెప్పినది పరమయదార్ధము.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 5,
-    "id": "13.05",
-    "text": "దోషం నాయందే ఉంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 6,
-    "id": "13.06",
-    "text": "నువ్వు నన్ను చంపడంలోకాని, నాయందు దోషం ఉన్నదీ అని చెప్పడంలోకాని కించిత్ సందేహం లేదు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 7,
-    "id": "13.07",
-    "text": "నువ్వు ధర్మాధర్మ విచక్షణ చేత, నీకు ఉన్న జ్ఞానం చేత, పూర్వాపరములను బాగా పరిశీలించిన మీదట, ఏమిచెయ్యాలో నిర్ణయించుకుని, నిర్ణయించుకున్నదానిని అమలుచేసి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 8,
-    "id": "13.08",
-    "text": "అమలుచేసిన దానిమీద స్థిరంగా నిలబడగల వ్యక్తిత్వం ఉన్నవాడివి, అటువంటి నిన్ను చూసి పొంగిపోతున్నాను.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 9,
-    "id": "13.09",
-    "text": "ఇటువంటి నీ చేతిలో మరణమైనా నాకు స్వర్గమే రామ\" అన్నాడు.",
+    "text": "ఈ నియమం కేవలం పైన చెప్పిన వానర జాతికి మాత్రమే, మనుష్యులకి కాదు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -624,6 +255,384 @@
     "scene": 14,
     "part": 1,
     "id": "14.01",
+    "text": "అలాగే వాలికి రెండు శక్తులు ఉన్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "ఒకటి, ఇంద్రుడు ఇచ్చిన మాలని మెడలో వేసుకుంటే, వాలి అపారమైన ఉత్సాహంతో ఉంటాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 1,
+    "id": "15.01",
+    "text": "రెండు, ఎవరన్నా వాలికి ఎదురుగా వెళితే, వాళ్ళ శక్తిలో సగం శక్తిని ఈయన లాగేసుకుంటాడు, ఇది బ్రహ్మగారు వాలికి ఇచ్చిన వరం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "అలాగే వాలికి రావణాసురుడికి స్నేహం ఉంది, వాళ్ళిద్దరూ ఒక ఒప్పందం కుదుర్చుకున్నారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "దాని ప్రకారం వాలి అనుభవించే స్త్రీని రావణుడు అనుభవించచ్చు, వాలికి శత్రువు రావణుడికి శత్రువే అలా కొన్ని విషయాలలో ఒప్పందం కుదుర్చుకున్నారు).",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "అందుచేత ఒక మామగారు కోడలితో కామభోగాన్ని అనుభవిస్తే ఎంత దోషమో, అంత దోషాన్ని నువ్వు చేశావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "ధర్మ శాస్త్రంలో దీనికి మరణశిక్ష తప్ప వేరొక శిక్ష లేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "అందుకని నేను నిన్ను చంపవలసి వచ్చింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 2,
+    "id": "18.02",
+    "text": "నువ్వు ప్రభువువి, మంత్రుల చేత సేవింప బడుతున్నవాడివి, సంధ్యావందనం చేస్తున్నవాడివి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 3,
+    "id": "18.03",
+    "text": "నువ్వు ధర్మం తప్పితే నీ వెనుక ఉన్నవారు కూడా ధర్మం తప్పుతారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "నేను క్షత్రియుడని కనుక నిన్ను శిక్షించవలసిన అవసరం నాకు ఉంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 2,
+    "id": "19.02",
+    "text": "ఇది తప్పు అని తెలిసికూడా నేను నిన్ను శిక్షించకపోతే, నువ్వు చేసిన పాపం నాకు వస్తుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "ఈ పాపం అవతలవాడు చేశాడని ప్రభువైనవాడికి తెలిసి వాడిని శిక్షిస్తే, వాడి పాపం పోతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "కాని ప్రభువు అలా శిక్షించకపోతే ఆ పాపం రాజుకి వెళుతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "అందుకే మా వంశంలో ఇంతకుపూర్వం మాంధాత అనే రాజు ఒక శ్రమణికుడు ఇటువంటి దోషం చేస్తే శిక్ష వేశాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "ఇంక నాతో ఎందుకు స్నేహం చెయ్యలేదు, నాతో స్నేహం చేసి ఉంటే సీతమ్మని తీసుకు వచ్చేవాడిని అన్నావు కదా,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "నీలాంటి అధర్మాత్ముడితో నేను స్నేహం చెయ్యను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "నన్ను చెట్టు చాటునుండి చంపావు, వేరొకడితో యుద్ధం చేస్తుంటే కొట్టావు, అది దోషం కాదా?",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 2,
+    "id": "23.02",
+    "text": "అని నన్ను అడిగావు, దానికి నేను సమాధానం చెబుతాను విను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "తప్పు చేసినవాడిని రాజు శిక్షిస్తే వాడి పాపం ఇక్కడితో పోతుంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 2,
+    "id": "24.02",
+    "text": "నేను నిన్ను చంపడం వలన నువ్వు ఏ పాపము లేని స్థితికి వచ్చావు, నీ పాపం ఇక్కడితో పోయింది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 3,
+    "id": "24.03",
+    "text": "అందుకని నువ్వు ఉత్తమలోకాలకి వెళ్ళిపోతావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
+    "text": "న మే తత్ర మనస్తాపో న మన్యుః హరిపుంగవ । వాగురాభిః చ పాశైః చ కూటైః చ వివిధైః నరాః ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 1,
+    "id": "26.01",
+    "text": "నేను మానవుడిని, నువ్వు వానరానివి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 2,
+    "id": "26.02",
+    "text": "నేను మనిషిని, నువ్వు జంతువువి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 3,
+    "id": "26.03",
+    "text": "క్షత్రియుడు, మాంసం తినేవాడు, ధర్మాన్ని నిలబెట్టవలసినవాడు ఒక మృగాన్ని కొట్టవలసి వస్తే, తాను చాటున ఉండి కొట్టవచ్చు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 1,
+    "id": "27.01",
+    "text": "వల వేసి పట్టుకొని కొట్టవచ్చు, పాశం వేసి పట్టుకొని కొట్టవచ్చు, అది అప్రమత్తంగా ఉన్నప్పుడు కొట్టవచ్చు, అది పడుకొని ఉన్నప్పుడు కొట్టవచ్చు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 2,
+    "id": "27.02",
+    "text": "నిలబడి ఉన్నప్పుడు కొట్టవచ్చు, పారిపోతున్నప్పుడు కొట్టవచ్చు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 1,
+    "id": "28.01",
+    "text": "ఎప్పుడైనా కొట్టవచ్చు, కాని ఆ మృగం వేరొక స్త్రీ మృగంతో సంగమిస్తున్నప్పుడు మాత్రం బాణ ప్రయోగం చెయ్యకూడదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 2,
+    "id": "28.02",
+    "text": "నువ్వు మైధున లక్షణంతో లేవు, అందుకని నిన్ను కొట్టాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 29,
+    "part": 1,
+    "id": "29.01",
+    "text": "నేను నరుడిని కనుక మృగానివైన నిన్ను ఎలా కొట్టినా నాకు పాపం రాదని తెలిసి కొట్టాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 29,
+    "part": 2,
+    "id": "29.02",
+    "text": "కాని నువ్వు చనిపోయేముందు రోషం కలిగి నన్ను ప్రశ్నించావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 29,
+    "part": 3,
+    "id": "29.03",
+    "text": "నాయందు ఎటువంటి దోషము లేదు\" అని రామచంద్రమూర్తి సమాధానమిచ్చారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 30,
+    "part": 1,
+    "id": "30.01",
+    "text": "రాముడు మాటలు విన్న వాలి తన రెండు చేతులతో రాముడికి నమస్కారం పెట్టి \"మహానుభావ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 30,
+    "part": 2,
+    "id": "30.02",
+    "text": "ధర్మాత్మ!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 30,
+    "part": 3,
+    "id": "30.03",
+    "text": "రామచంద్ర!",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 30,
+    "part": 4,
+    "id": "30.04",
+    "text": "నువ్వు చెప్పినది పరమయదార్ధము.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 30,
+    "part": 5,
+    "id": "30.05",
+    "text": "దోషం నాయందే ఉంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 31,
+    "part": 1,
+    "id": "31.01",
+    "text": "నువ్వు నన్ను చంపడంలోకాని, నాయందు దోషం ఉన్నదీ అని చెప్పడంలోకాని కించిత్ సందేహం లేదు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 31,
+    "part": 2,
+    "id": "31.02",
+    "text": "నువ్వు ధర్మాధర్మ విచక్షణ చేత, నీకు ఉన్న జ్ఞానం చేత, పూర్వాపరములను బాగా పరిశీలించిన మీదట,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 32,
+    "part": 1,
+    "id": "32.01",
+    "text": "ఏమిచెయ్యాలో నిర్ణయించుకుని, నిర్ణయించుకున్నదానిని అమలుచేసి, అమలుచేసిన దానిమీద స్థిరంగా నిలబడగల వ్యక్తిత్వం ఉన్నవాడివి, అటువంటి నిన్ను చూసి పొంగిపోతున్నాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 32,
+    "part": 2,
+    "id": "32.02",
+    "text": "ఇటువంటి నీ చేతిలో మరణమైనా నాకు స్వర్గమే రామ\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 33,
+    "part": 1,
+    "id": "33.01",
     "text": "తర్వాత చూద్దాం — వాలి చివరి మాటలు.",
     "complete_verse_block": false,
     "needs_timing_review": false,

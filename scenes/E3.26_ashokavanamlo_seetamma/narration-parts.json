@@ -36,73 +36,10 @@
     "seconds": null
   },
   {
-    "scene": 3,
-    "part": 2,
-    "id": "03.02",
-    "text": "పెను తుఫానులో చిక్కుకొని మునిగిపోతున్న నౌకలోని వారు ఎటువంటి దిగ్భ్రాంతికి లోనవుతారో, అటువంటి దిగ్భ్రాంతి స్థితిలో సీతమ్మ ఉంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 3,
-    "part": 3,
-    "id": "03.03",
-    "text": "వేటకుక్కల మధ్య చిక్కుకొని ఉన్న లేడి పిల్ల ఎలా భయపడుతూ ఉంటుందో, అలా సీతమ్మ తల దించుకుని ఏడుస్తూ ఉంది.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
     "scene": 4,
     "part": 1,
     "id": "04.01",
-    "text": "అలా ఏడుస్తున్న సీతమ్మని రావణాసురుడు బలవంతంగా రెక్కపట్టి పైకి తీసుకువెళ్ళి, తాను కట్టుకున్న అంతఃపురాన్ని, వజ్రాలతో నిర్మించిన గవాక్షాలని, దిగుడు బావులని,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 2,
-    "id": "04.02",
-    "text": "సరోవరాలని, తన పుష్పక విమానాన్ని, బంగారంతో తాపడం చెయ్యబడ్డ స్తంభాలని, ఆసనాలని, శయనాలని మొదలైనవాటిని సీతమ్మకి చూపించాడు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 3,
-    "id": "04.03",
-    "text": "అలా తన ఐశ్వర్యాన్ని సీతమ్మకి ప్రదర్శించాక \"ఈ లంకలో ఉన్న బాలురని, వృద్ధులని లెక్కనుండి మినహాయిస్తే,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 4,
-    "id": "04.04",
-    "text": "32 కోట్ల మంది రాక్షసులు నా ఆధీనంలో ఉన్నారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 5,
-    "id": "04.05",
-    "text": "ఇందులో నేను లేచేసరికి నా వెంట పరుగు తీసేవారు 1000 మంది ఉంటారు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 4,
-    "part": 6,
-    "id": "04.06",
-    "text": "నాకు కొన్ని వందల మంది భార్యలు ఉన్నారు, వీరందరూ నన్ను కోరి వచ్చినవారే.",
+    "text": "పెను తుఫానులో చిక్కుకొని మునిగిపోతున్న నౌకలోని వారు ఎటువంటి దిగ్భ్రాంతికి లోనవుతారో, అటువంటి దిగ్భ్రాంతి స్థితిలో సీతమ్మ ఉంది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -111,52 +48,7 @@
     "scene": 5,
     "part": 1,
     "id": "05.01",
-    "text": "ఓ ప్రియురాల!",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 2,
-    "id": "05.02",
-    "text": "నీకు నేను ఇస్తున్న గొప్ప వరం ఏంటో తెలుసా, నాకున్న భార్యలందరికీ నువ్వు అధినాయకురాలివై నాకు భార్యగా ఉండు,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 3,
-    "id": "05.03",
-    "text": "నాయందు మనస్సు ఉంచు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 4,
-    "id": "05.04",
-    "text": "సముద్రానికి 100 యోజనముల దూరంలో నిర్మింపబడిన నగరం ఈ కాంచన లంక.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 5,
-    "id": "05.05",
-    "text": "దీన్ని దేవతలు కాని, దానవులు కాని, గంధర్వులు కాని, యక్షులు కాని, నాగులు కాని, పక్షులు కాని కన్నెత్తి చూడలేరు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 5,
-    "part": 6,
-    "id": "05.06",
-    "text": "ఇటువంటి లంకా పట్టణానికి నువ్వు చేరుకున్నాక నిన్ను చూసేవాడు ఎవరు, తీసుకెళ్ళే వాడు ఎవరు?",
+    "text": "వేటకుక్కల మధ్య చిక్కుకొని ఉన్న లేడి పిల్ల ఎలా భయపడుతూ ఉంటుందో, అలా సీతమ్మ తల దించుకుని ఏడుస్తూ ఉంది.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -165,8 +57,8 @@
     "scene": 6,
     "part": 1,
     "id": "06.01",
-    "text": "రాజ్య భ్రష్టేన దీనేన తాపసేన పదాతినా । కిం కరిష్యసి రామేణ మానుషేణ అల్ప తేజసా ॥",
-    "complete_verse_block": true,
+    "text": "అలా ఏడుస్తున్న సీతమ్మని రావణాసురుడు బలవంతంగా రెక్కపట్టి పైకి తీసుకువెళ్ళి, తాను కట్టుకున్న అంతఃపురాన్ని, వజ్రాలతో నిర్మించిన గవాక్షాలని,",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -174,70 +66,7 @@
     "scene": 7,
     "part": 1,
     "id": "07.01",
-    "text": "ఇంకా రాముడు, రాముడు అంటావేంటి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 2,
-    "id": "07.02",
-    "text": "ఆ రాముడు అల్పాయుర్దాయం కలిగినవాడు, రాజ్యభ్రష్టుడు, దీనుడు, అరణ్యములను పట్టి తిరుగుతున్నాడు, రాముడు కేవలం మనిషి, అటువంటి రాముడితో నీకేమి పని.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 3,
-    "id": "07.03",
-    "text": "నీకు తగినవాడిని నేను, అందుకని నన్ను భర్తగా స్వీకరించి ఆనందంగా, సంతోషంగా తిరుగు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 4,
-    "id": "07.04",
-    "text": "హాయిగా నాతో కలిసి సింహాసనం మీద కూర్చో, మళ్ళి పట్టాభిషేకం చేసుకుందాము.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 5,
-    "id": "07.05",
-    "text": "ఆ పట్టాభిషేకము చేసినప్పుడు మీద పడినటువంటి జలములతో తడిసి, నాతో కలిసి సకల ఆనందములు అనుభవించు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 6,
-    "id": "07.06",
-    "text": "నువ్వు నీ జీవితంలో ఏదో గొప్ప పాపం చేసుంటావు, ఆ పాపం వలన ఇన్నాళ్ళు వనవాసం చేశావు, రాముడికి భార్యగా ఉండిపోయావు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 7,
-    "id": "07.07",
-    "text": "నువ్వు చేసిన పుణ్యం వలన నాదగ్గరికి వచ్చావు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 7,
-    "part": 8,
-    "id": "07.08",
-    "text": "నువ్వు ఈ అందమైన మాలలు వేసుకొని చక్కగా అలంకరించుకో, మనమిద్దరమూ పుష్పక విమానంలో విహారం చేద్దాము\" అన్నాడు.",
+    "text": "దిగుడు బావులని, సరోవరాలని, తన పుష్పక విమానాన్ని, బంగారంతో తాపడం చెయ్యబడ్డ స్తంభాలని, ఆసనాలని, శయనాలని మొదలైనవాటిని సీతమ్మకి చూపించాడు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -246,7 +75,7 @@
     "scene": 8,
     "part": 1,
     "id": "08.01",
-    "text": "ఏ ముఖాన్ని చూసి ఆ రావణుడు ఇలా హద్దులు మీరి మాట్లాడుతున్నాడో, ఆ ముఖాన్ని తన ఉత్తరీయంతో కప్పుకొని,",
+    "text": "అలా తన ఐశ్వర్యాన్ని సీతమ్మకి ప్రదర్శించాక \"ఈ లంకలో ఉన్న బాలురని, వృద్ధులని లెక్కనుండి మినహాయిస్తే,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -255,7 +84,7 @@
     "scene": 8,
     "part": 2,
     "id": "08.02",
-    "text": "సీతమ్మ తల్లి కళ్ళు ఒత్తుకుంటూ ఏడ్చింది.",
+    "text": "32 కోట్ల మంది రాక్షసులు నా ఆధీనంలో ఉన్నారు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -264,8 +93,17 @@
     "scene": 9,
     "part": 1,
     "id": "09.01",
-    "text": "ఏతౌ పాదౌ మయా స్నిగ్ధౌ శిరోభిః పరిపీడితౌ ప్రసాదం కురు మే క్షిప్రం వశ్యో దాసో అహం అస్మి తే ॥",
-    "complete_verse_block": true,
+    "text": "ఇందులో నేను లేచేసరికి నా వెంట పరుగు తీసేవారు 1000 మంది ఉంటారు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 9,
+    "part": 2,
+    "id": "09.02",
+    "text": "నాకు కొన్ని వందల మంది భార్యలు ఉన్నారు, వీరందరూ నన్ను కోరి వచ్చినవారే.",
+    "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -273,7 +111,7 @@
     "scene": 10,
     "part": 1,
     "id": "10.01",
-    "text": "ఏడుస్తూ ఉన్న సీతమ్మని చూసిన ఆ రావణుడు \"నీ పాదాలు పట్టుకుంటున్నాను సీతా, నా కోరిక తీర్చి నన్ను అనుగ్రహించు\" అన్నాడు.",
+    "text": "ఓ ప్రియురాల!",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -282,7 +120,7 @@
     "scene": 10,
     "part": 2,
     "id": "10.02",
-    "text": "(రావణుడు తెలిసి పట్టుకున్నా తెలియక పట్టుకున్నా, శిరస్సు వంచి సీతమ్మ పాదాలు పట్టుకున్నాడు కనుక,",
+    "text": "నీకు నేను ఇస్తున్న గొప్ప వరం ఏంటో తెలుసా, నాకున్న భార్యలందరికీ నువ్వు అధినాయకురాలివై నాకు భార్యగా ఉండు,",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -291,7 +129,16 @@
     "scene": 10,
     "part": 3,
     "id": "10.03",
-    "text": "సీతమ్మని ఇన్ని మాటలు అన్నా కొంతకాలమైనా బతికాడు.)",
+    "text": "నాయందు మనస్సు ఉంచు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 10,
+    "part": 4,
+    "id": "10.04",
+    "text": "సముద్రానికి 100 యోజనముల దూరంలో నిర్మింపబడిన నగరం ఈ కాంచన లంక.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -300,7 +147,7 @@
     "scene": 11,
     "part": 1,
     "id": "11.01",
-    "text": "అప్పుడు సీతమ్మ, తనకి రావణుడికి మధ్యలో ఒక గడ్డిపరకని పెట్టి \"రాముడు ధర్మాత్ముడు, దీర్ఘమైన బాహువులు ఉన్నవాడు, విశాలమైన కన్నులున్నవాడు,",
+    "text": "దీన్ని దేవతలు కాని, దానవులు కాని, గంధర్వులు కాని, యక్షులు కాని, నాగులు కాని, పక్షులు కాని కన్నెత్తి చూడలేరు.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -309,34 +156,7 @@
     "scene": 11,
     "part": 2,
     "id": "11.02",
-    "text": "ఆయన నా భర్త, నా దైవం.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 3,
-    "id": "11.03",
-    "text": "ఇక్ష్వాకు కులంలో పుట్టి, సింహం వంటి మూపు ఉండి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 4,
-    "id": "11.04",
-    "text": "లక్ష్మణుడిని తమ్ముడిగా కలిగిన రాముడి చేతిలో ప్రాణములు పోగొట్టుకోడానికి సిద్ధంగా ఉండు రావణా.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 11,
-    "part": 5,
-    "id": "11.05",
-    "text": "నువ్వే కనుక రాముడి సన్నిధిలో నన్ను ఇలా అవమానించి ఉంటే, ఈ పాటికి నువ్వు ఖరుడి పక్కన పడుకొని ఉండేవాడివిరా.",
+    "text": "ఇటువంటి లంకా పట్టణానికి నువ్వు చేరుకున్నాక నిన్ను చూసేవాడు ఎవరు, తీసుకెళ్ళే వాడు ఎవరు?",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -345,35 +165,8 @@
     "scene": 12,
     "part": 1,
     "id": "12.01",
-    "text": "నీ ఆయువు అయిపోతుంది, నీ ఐశ్వర్యము పోతుంది, నీ ఓపిక అయిపోతుంది, నీ ఇంద్రియాలు కూడా పతనమయిపోతాయి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 2,
-    "id": "12.02",
-    "text": "నీ లంకా పట్టణం విధవగా నిలబడడానికి సిద్ధంగా ఉంది, ఇవన్నీ నువ్వు చేసిన పని వలన భవిష్యత్తులో జరగబోతున్నాయి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 3,
-    "id": "12.03",
-    "text": "నీటి మీద పట్టే నాచుని తినే నీటికాకిని, నిరంతరం రాజహంసతో కలిసి క్రీడించడానికి అలవాటుపడిన హంస చూస్తుందా.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 12,
-    "part": 4,
-    "id": "12.04",
-    "text": "రాముడిని చూసిన కన్నులతో నిన్ను నేను చూడనురా పాపి, అవతలకి పో\" అని పలికింది.",
-    "complete_verse_block": false,
+    "text": "రాజ్య భ్రష్టేన దీనేన తాపసేన పదాతినా । కిం కరిష్యసి రామేణ మానుషేణ అల్ప తేజసా ॥",
+    "complete_verse_block": true,
     "needs_timing_review": false,
     "seconds": null
   },
@@ -381,7 +174,7 @@
     "scene": 13,
     "part": 1,
     "id": "13.01",
-    "text": "ఈ మాటలకి ఆగ్రహించిన రావణుడు \"నీకు 12 నెలలు సమయం ఇస్తున్నాను.",
+    "text": "ఇంకా రాముడు, రాముడు అంటావేంటి.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -390,52 +183,7 @@
     "scene": 13,
     "part": 2,
     "id": "13.02",
-    "text": "ఈలోగా నీ అంతట నువ్వు బుద్ధి మార్చుకొని నా పాన్పు చేరితే బతికిపోతావు.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 3,
-    "id": "13.03",
-    "text": "అలాకాకపోతే 12 నెలల తరువాత నిన్ను నాకు అల్పాహారంగా పెడతారు\" అని చెప్పి,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 4,
-    "id": "13.04",
-    "text": "భయంకరమైన స్వరూపం కలిగిన రాక్షస స్త్రీలని పిలిచి \"ఈమెని అశోక వనానికి తీసుకువెళ్ళండి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 5,
-    "id": "13.05",
-    "text": "ఆమె చుట్టూ మీరు భయంకరమైన స్వరూపాలతో నిలబడి, బతికీ బతకడానికి కావలసిన ఆహారాన్ని, నీళ్ళని ఇస్తూ,",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 6,
-    "id": "13.06",
-    "text": "శూలాలలాంటి మాటలతో ఈ సీతని భయపెట్టి నా దారికి తీసుకురండి.",
-    "complete_verse_block": false,
-    "needs_timing_review": false,
-    "seconds": null
-  },
-  {
-    "scene": 13,
-    "part": 7,
-    "id": "13.07",
-    "text": "ఇక తీసుకువెళ్ళండి\" అన్నాడు.",
+    "text": "ఆ రాముడు అల్పాయుర్దాయం కలిగినవాడు, రాజ్యభ్రష్టుడు, దీనుడు, అరణ్యములను పట్టి తిరుగుతున్నాడు, రాముడు కేవలం మనిషి, అటువంటి రాముడితో నీకేమి పని.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -444,7 +192,16 @@
     "scene": 14,
     "part": 1,
     "id": "14.01",
-    "text": "వికృత నేత్రములు కలిగిన ఆ రాక్షస స్త్రీలు చుట్టూ నిలబడి భయపెడుతుంటే, అశోక వనంలో శోకంతో ఏడుస్తూ ఆ సీతమ్మ ఉంది.",
+    "text": "నీకు తగినవాడిని నేను, అందుకని నన్ను భర్తగా స్వీకరించి ఆనందంగా, సంతోషంగా తిరుగు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 14,
+    "part": 2,
+    "id": "14.02",
+    "text": "హాయిగా నాతో కలిసి సింహాసనం మీద కూర్చో, మళ్ళి పట్టాభిషేకం చేసుకుందాము.",
     "complete_verse_block": false,
     "needs_timing_review": false,
     "seconds": null
@@ -453,6 +210,258 @@
     "scene": 15,
     "part": 1,
     "id": "15.01",
+    "text": "ఆ పట్టాభిషేకము చేసినప్పుడు మీద పడినటువంటి జలములతో తడిసి, నాతో కలిసి సకల ఆనందములు అనుభవించు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 15,
+    "part": 2,
+    "id": "15.02",
+    "text": "నువ్వు నీ జీవితంలో ఏదో గొప్ప పాపం చేసుంటావు, ఆ పాపం వలన ఇన్నాళ్ళు వనవాసం చేశావు, రాముడికి భార్యగా ఉండిపోయావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 1,
+    "id": "16.01",
+    "text": "నువ్వు చేసిన పుణ్యం వలన నాదగ్గరికి వచ్చావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 16,
+    "part": 2,
+    "id": "16.02",
+    "text": "నువ్వు ఈ అందమైన మాలలు వేసుకొని చక్కగా అలంకరించుకో, మనమిద్దరమూ పుష్పక విమానంలో విహారం చేద్దాము\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 1,
+    "id": "17.01",
+    "text": "ఏ ముఖాన్ని చూసి ఆ రావణుడు ఇలా హద్దులు మీరి మాట్లాడుతున్నాడో, ఆ ముఖాన్ని తన ఉత్తరీయంతో కప్పుకొని,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 17,
+    "part": 2,
+    "id": "17.02",
+    "text": "సీతమ్మ తల్లి కళ్ళు ఒత్తుకుంటూ ఏడ్చింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 18,
+    "part": 1,
+    "id": "18.01",
+    "text": "ఏతౌ పాదౌ మయా స్నిగ్ధౌ శిరోభిః పరిపీడితౌ ప్రసాదం కురు మే క్షిప్రం వశ్యో దాసో అహం అస్మి తే ॥",
+    "complete_verse_block": true,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 19,
+    "part": 1,
+    "id": "19.01",
+    "text": "ఏడుస్తూ ఉన్న సీతమ్మని చూసిన ఆ రావణుడు \"నీ పాదాలు పట్టుకుంటున్నాను సీతా, నా కోరిక తీర్చి నన్ను అనుగ్రహించు\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 1,
+    "id": "20.01",
+    "text": "(రావణుడు తెలిసి పట్టుకున్నా తెలియక పట్టుకున్నా, శిరస్సు వంచి సీతమ్మ పాదాలు పట్టుకున్నాడు కనుక,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 20,
+    "part": 2,
+    "id": "20.02",
+    "text": "సీతమ్మని ఇన్ని మాటలు అన్నా కొంతకాలమైనా బతికాడు.)",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 1,
+    "id": "21.01",
+    "text": "అప్పుడు సీతమ్మ, తనకి రావణుడికి మధ్యలో ఒక గడ్డిపరకని పెట్టి \"రాముడు ధర్మాత్ముడు, దీర్ఘమైన బాహువులు ఉన్నవాడు, విశాలమైన కన్నులున్నవాడు,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 21,
+    "part": 2,
+    "id": "21.02",
+    "text": "ఆయన నా భర్త, నా దైవం.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 1,
+    "id": "22.01",
+    "text": "ఇక్ష్వాకు కులంలో పుట్టి, సింహం వంటి మూపు ఉండి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 22,
+    "part": 2,
+    "id": "22.02",
+    "text": "లక్ష్మణుడిని తమ్ముడిగా కలిగిన రాముడి చేతిలో ప్రాణములు పోగొట్టుకోడానికి సిద్ధంగా ఉండు రావణా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 23,
+    "part": 1,
+    "id": "23.01",
+    "text": "నువ్వే కనుక రాముడి సన్నిధిలో నన్ను ఇలా అవమానించి ఉంటే, ఈ పాటికి నువ్వు ఖరుడి పక్కన పడుకొని ఉండేవాడివిరా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 1,
+    "id": "24.01",
+    "text": "నీ ఆయువు అయిపోతుంది, నీ ఐశ్వర్యము పోతుంది, నీ ఓపిక అయిపోతుంది, నీ ఇంద్రియాలు కూడా పతనమయిపోతాయి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 24,
+    "part": 2,
+    "id": "24.02",
+    "text": "నీ లంకా పట్టణం విధవగా నిలబడడానికి సిద్ధంగా ఉంది,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 1,
+    "id": "25.01",
+    "text": "ఇవన్నీ నువ్వు చేసిన పని వలన భవిష్యత్తులో జరగబోతున్నాయి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 25,
+    "part": 2,
+    "id": "25.02",
+    "text": "నీటి మీద పట్టే నాచుని తినే నీటికాకిని, నిరంతరం రాజహంసతో కలిసి క్రీడించడానికి అలవాటుపడిన హంస చూస్తుందా.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 26,
+    "part": 1,
+    "id": "26.01",
+    "text": "రాముడిని చూసిన కన్నులతో నిన్ను నేను చూడనురా పాపి, అవతలకి పో\" అని పలికింది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 1,
+    "id": "27.01",
+    "text": "ఈ మాటలకి ఆగ్రహించిన రావణుడు \"నీకు 12 నెలలు సమయం ఇస్తున్నాను.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 27,
+    "part": 2,
+    "id": "27.02",
+    "text": "ఈలోగా నీ అంతట నువ్వు బుద్ధి మార్చుకొని నా పాన్పు చేరితే బతికిపోతావు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 1,
+    "id": "28.01",
+    "text": "అలాకాకపోతే 12 నెలల తరువాత నిన్ను నాకు అల్పాహారంగా పెడతారు\" అని చెప్పి,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 28,
+    "part": 2,
+    "id": "28.02",
+    "text": "భయంకరమైన స్వరూపం కలిగిన రాక్షస స్త్రీలని పిలిచి \"ఈమెని అశోక వనానికి తీసుకువెళ్ళండి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 29,
+    "part": 1,
+    "id": "29.01",
+    "text": "ఆమె చుట్టూ మీరు భయంకరమైన స్వరూపాలతో నిలబడి, బతికీ బతకడానికి కావలసిన ఆహారాన్ని, నీళ్ళని ఇస్తూ,",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 29,
+    "part": 2,
+    "id": "29.02",
+    "text": "శూలాలలాంటి మాటలతో ఈ సీతని భయపెట్టి నా దారికి తీసుకురండి.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 29,
+    "part": 3,
+    "id": "29.03",
+    "text": "ఇక తీసుకువెళ్ళండి\" అన్నాడు.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 30,
+    "part": 1,
+    "id": "30.01",
+    "text": "వికృత నేత్రములు కలిగిన ఆ రాక్షస స్త్రీలు చుట్టూ నిలబడి భయపెడుతుంటే, అశోక వనంలో శోకంతో ఏడుస్తూ ఆ సీతమ్మ ఉంది.",
+    "complete_verse_block": false,
+    "needs_timing_review": false,
+    "seconds": null
+  },
+  {
+    "scene": 31,
+    "part": 1,
+    "id": "31.01",
     "text": "తర్వాత చూద్దాం — ఆశ్రమానికి తిరిగి వస్తున్న రాముడికి ఎదురైనది ఏమిటో.",
     "complete_verse_block": false,
     "needs_timing_review": false,

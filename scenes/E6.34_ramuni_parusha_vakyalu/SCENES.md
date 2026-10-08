@@ -20,9 +20,9 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 2 — Scene 02
 
-**Visual:** [Rama, RAMA-S4] silent, eyes filling, gaze dropping to the ground; then speaking to [Vibhishana — per E5.20, now crowned king of Lanka].
+**Visual:** [Rama, RAMA-S4] silent, eyes filling, gaze dropping to the ground.
 
-**Story:** హనుమంతుడు చెప్పిన మాట విన్న రాముడు కొంచెంసేపు ఆలోచించాడు, ఆ సమయంలో ఆయన కళ్ళల్లో నీళ్ళు నిండాయి. చాలా శోకం పొందినవాడిలా అయ్యి, ఒకసారి భుమివంక చూసి, తన పక్కన ఉన్న విభీషణుడిని పిలిచి "విభీషణ! నువ్వు లోపలికి వెళ్ళి, సీతకి నేను చెప్పానని చెప్పి తలస్నానం చేయించి, పట్టు వస్త్రం కట్టించి, అన్ని అలంకారములు చేసి నా దగ్గరికి ప్రవేశపెట్టు" అన్నాడు.
+**Story:** హనుమంతుడు చెప్పిన మాట విన్న రాముడు కొంచెంసేపు ఆలోచించాడు, ఆ సమయంలో ఆయన కళ్ళల్లో నీళ్ళు నిండాయి. చాలా శోకం పొందినవాడిలా అయ్యి, ఒకసారి భుమివంక చూసి,
 
 **Image:** Pending creation.
 
@@ -30,81 +30,185 @@ Keep existing descriptive image names. For new images use `scene-NN-short-descri
 
 ## 3 — Scene 03
 
-**Visual:** [Vibhishana — per E5.20, now crowned king of Lanka] before [Sita, SITA-S4] in the grove; her quiet wish; his gentle insistence.
+**Visual:** Rama speaking to [Vibhishana — per E5.20, now crowned king of Lanka].
 
-**Story:** రాముడి మాటలు విన్న విభీషణుడు ఆశ్చయపోయి సీతమ్మ దగ్గరికి వెళ్ళి "సీతమ్మ! నువ్వు తల స్నానం చేసి, పట్టుబట్ట కట్టుకొని, ఒంటినిండా అలంకారాలు చేసుకుని వస్తే రాముడు నిన్ను చూడాలని అనుకుంటున్నాడు" అన్నాడు. సీతమ్మ "నేను ఎలా ఉన్నానో అలానే వచ్చి రామదర్శనం చేసుకోవాలని నా మనస్సు కోరుకుంటోంది" అని పలికింది. విభీషణుడు అన్నాడు "అమ్మా! అది రామ ఆజ్ఞ. ప్రభువు ఎలా చెప్పాడో అలా చెయ్యడం మంచిది. అంతఃపుర కాంతలు నీకు తలస్నానం చేయిస్తారు, నువ్వు దివ్యాంగరాదములను అలదుకొని, మంచి భూషణములను వేసుకొని, రాముడికి దర్శనం ఇవ్వమ్మా" అన్నాడు.
+**Story:** తన పక్కన ఉన్న విభీషణుడిని పిలిచి "విభీషణ! నువ్వు లోపలికి వెళ్ళి, సీతకి నేను చెప్పానని చెప్పి తలస్నానం చేయించి, పట్టు వస్త్రం కట్టించి, అన్ని అలంకారములు చేసి నా దగ్గరికి ప్రవేశపెట్టు" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 4 — Scene 04
+
+**Visual:** [Vibhishana — per E5.20, now crowned king of Lanka] before [Sita, SITA-S4] in the grove.
+
+**Story:** రాముడి మాటలు విన్న విభీషణుడు ఆశ్చయపోయి సీతమ్మ దగ్గరికి వెళ్ళి "సీతమ్మ! నువ్వు తల స్నానం చేసి, పట్టుబట్ట కట్టుకొని, ఒంటినిండా అలంకారాలు చేసుకుని వస్తే రాముడు నిన్ను చూడాలని అనుకుంటున్నాడు" అన్నాడు.
 
 **Image:** Pending creation.
 
 **Source note:** She wants to come as she is. "It is Rama's command."
 
-## 4 — Scene 04
+## 5 — Scene 05
 
-**Visual:** A curtained palanquin borne toward [Rama, RAMA-S4]; on his face joy, sorrow and anger together; [Sita, SITA-S4 — bathed and adorned: silk, ornaments, a veil] stepping down and walking.
+**Visual:** Her quiet wish to come as she is.
 
-**Story:** సీతమ్మ స్నానం చేసి అలంకరించుకున్నాక పరదాలు కట్టిన ఒక పల్లకి ఎక్కించి రాముడి దగ్గరికి తీసుకు వెళ్ళారు. అప్పుడు రాముడి ముఖంలో సంతోషం, దైన్యం, కోపం కనపడ్డాయి. అప్పుడు రాముడు "మీరు ఆవిడని పల్లకిలో ఎందుకు తీసుకొస్తున్నారు. దిగి నడిచి రమ్మనండి" అన్నాడు.
+**Story:** సీతమ్మ "నేను ఎలా ఉన్నానో అలానే వచ్చి రామదర్శనం చేసుకోవాలని నా మనస్సు కోరుకుంటోంది" అని పలికింది. విభీషణుడు అన్నాడు "అమ్మా! అది రామ ఆజ్ఞ.
+
+**Image:** Pending creation.
+
+## 6 — Scene 06
+
+**Visual:** His gentle insistence — it is Rama's command.
+
+**Story:** ప్రభువు ఎలా చెప్పాడో అలా చెయ్యడం మంచిది. అంతఃపుర కాంతలు నీకు తలస్నానం చేయిస్తారు, నువ్వు దివ్యాంగరాదములను అలదుకొని, మంచి భూషణములను వేసుకొని, రాముడికి దర్శనం ఇవ్వమ్మా" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 7 — Scene 07
+
+**Visual:** A curtained palanquin borne toward [Rama, RAMA-S4].
+
+**Story:** సీతమ్మ స్నానం చేసి అలంకరించుకున్నాక పరదాలు కట్టిన ఒక పల్లకి ఎక్కించి రాముడి దగ్గరికి తీసుకు వెళ్ళారు.
 
 **Image:** Pending creation.
 
 **Source note:** Three feelings at once on Rama's face.
 
-## 5 — Scene 05
-
-**Visual:** Vanaras jostling for a first sight of her; guards pushing them back; [Rama, RAMA-S4] stopping it.
-
-**Story:** అలా నడిచి వస్తున్న సీతమ్మని చూడడం కోసమని అక్కడున్న వానరాలు ఒకరిని ఒకరు తోసుకుంటున్నారు (ఆ వానరాలు అప్పటిదాకా సీతమ్మని చూడలేదు). అప్పుడు సుగ్రీవుడు కొంతమందిని ఆజ్ఞాపించి ఆ వానరాలని వెనక్కి తొయ్యమన్నాడు. రాముడన్నాడు "ఈ సీత కోసం వారు తమ ప్రాణాలని ఫణంగా పెట్టి యుద్ధం చేశారు. ఇప్పుడావిడ నడిచొస్తుంటే వాళ్ళని కొట్టి దూరంగా తోసేస్తార. వాళ్ళందరూ సీతని చూడవలసిందే. ఎవరైనా ప్రియ బంధువులు వియోగం పొందినప్పుడు, రాజ్యంలో క్షోభం ఏర్పడినప్పుడు, యజ్ఞము జరుగుతున్నప్పుడు, యుద్ధం జరుగుతున్నప్పుడు అంతఃపుర కాంతలు బయటకి రావచ్చు. ఇవ్వాళ నేను యుద్ధభూమిలో ఉన్నాను, కనుక భర్త దర్శనానికి సీత అలా రావచ్చు. నా పక్కన ఉండగా సీతని చూడడంలో దోషంలేదు" అన్నాడు.
-
-**Image:** Pending creation.
-
-**Source note:** "They staked their lives for her. Let them see her." The print's bracket: they had never seen Sita.
-
-## 6 — Scene 06
-
-**Visual:** [Sita, SITA-S4 — bathed and adorned: silk, ornaments, a veil] standing before [Rama, RAMA-S4], veiled, weeping, saying one word (the p. 685 illustration).
-
-**Story:** అప్పుడు హనుమంతుడు "రామ! ఎవరి కోసం మనం ఇంత కష్టపడి యుద్ధం చేశామో, ఆ సీతమ్మ మీ దగ్గరికి వచ్చింది" అన్నాడు. అప్పుడు సీతమ్మ రాముడి దగ్గరికి వచ్చి, తన భర్త తన పట్ల ఆనందంగా లేకపోవడం వలన ఏడుస్తూ, ఆ ముసుగులో నుండి "ఆర్యపుత్రా" అని, అలా నిలబడిపోయింది.
-
-**Image:** Pending creation.
-
-**Source note:** "Aryaputra."
-
-## 7 — Scene 07
-
-**Visual:** [Rama, RAMA-S4] speaking, looking away from her; the whole host listening in silence.
-
-**Story:** అప్పుడు రాముడు "శత్రువుని జయించాను, నిన్ను పొందాను. ఏ దైవము యొక్క అనుగ్రహము లేకపోవడము చేత, ఏ దైవము యొక్క శాసనము చేత నువ్వు అపహరింపబడ్డావో దానిని పురుష ప్రయత్నం చేత దిద్దాను. రావణుడిని సంహరించి నిన్ను తెచ్చుకున్నాను. అపారమైన పౌరుషము, పరాక్రమము ఉన్నవాడికి ఏదన్నా అపవాదు వస్తే, వాడు తన ప్రయత్నంతో ఆ అపవాదుని తుడిచిపెట్టుకోకపోతే, వాడు చేతకానివాడు అని ప్రపంచం అంటుంది. అందుకని నా ప్రయత్నంతో వచ్చిన అపవాదుని తుడిచిపెట్టడానికి, రాముడి భార్యను రావణుడు అపహరిస్తే, రావణుడిని రాముడు ఏమి చెయ్యలేదు అని అనకుండా ఉండడం కోసం రావణుడిని సంహరించాను.
-
-**Image:** Pending creation.
-
-**Source note:** He speaks as a king before the world: the stain is wiped out, the honour of the Ikshvakus restored.
-
 ## 8 — Scene 08
 
-**Visual:** Continue the same scene — [Rama, RAMA-S4] speaking, looking away from her; the whole host listening in silence — on a new angle or a slow push-in; same characters, dress and light.
+**Visual:** On his face joy, sorrow and anger together; [Sita, SITA-S4 — bathed and adorned: silk, ornaments, a veil] stepping down and walking.
 
-**Story:** 100 యోజనముల సముద్రాన్ని గడిచి లంకా పట్టణాన్ని చేరి, హనుమ చేసిన ఈ లంకా భీభత్సం అంతా నేటితో సార్ధక్యాన్ని పొందింది. నేను ఇదంతా కష్టపడి చేసింది నా పేరు ప్రఖ్యాతులు నిలబెట్టుకోడానికి. ఇక్ష్వాకు వంశంలో జన్మించాను కాబట్టి, రాముడు చేతకానివాడు అన్న అపవాదు నా మీద పడకూడదు కాబట్టి ఇదంతా చేశాను. రాముడు సీతని తిరిగి తెచ్చుకోలేకపోయాడు అన్న కళంకం మా వంశంలో ఉండిపోకూడదు, అందుకని నిన్ను గెలిచి తెచ్చుకున్నాను.
+**Story:** అప్పుడు రాముడి ముఖంలో సంతోషం, దైన్యం, కోపం కనపడ్డాయి. అప్పుడు రాముడు "మీరు ఆవిడని పల్లకిలో ఎందుకు తీసుకొస్తున్నారు. దిగి నడిచి రమ్మనండి" అన్నాడు.
 
 **Image:** Pending creation.
 
 ## 9 — Scene 09
 
-**Visual:** Close on [Rama, RAMA-S4]'s averted face; [Sita, SITA-S4 — bathed and adorned: silk, ornaments, a veil] motionless; [Lakshmana], [Sugriva Visual Lock — crowned king] and [Hanuman Visual Lock] stricken.
+**Visual:** Vanaras jostling for a first sight of her; guards pushing them back.
 
-**Story:** సీత! ఇవ్వాళ నీ చారిత్రము శంకింపబడింది. నువ్వు చాలాకాలం రాక్షసుని గృహంలో ఉన్నావు. నువ్వు అలా ఉన్న కారణం చేత నిన్ను చూస్తున్నప్పుడు నాకు ఎలా ఉందో తెలుసా, కంటియందు జబ్బు ఉన్నవాడు దీపాన్ని ఎలా చూడలేడో, అలా నేను నీ వంక చూడలేకపోతున్నాను. నీకు తెలుసు నాకు తెలుసు, నువ్వు అపార సౌందర్యరాశివి, నిన్ను చూసినవాడు చపలచిత్తుడైతే వెంటనే నీ యందు మనస్సు పెట్టుకుంటాడు. పరమ చపలచిత్తుడైన రావణుడు నిన్ను చూడకూడని చూపు చూశాడు, బలవంతంగా నీ జుట్టు పట్టి ఈడ్చాడు, తన తొడ మీద కుర్చోపెట్టుకున్నాడు, గుండెల మీద వేసుకున్నాడు, అశోకవనంలో పెట్టాడు, 10 నెలలు నిన్ను చూశాడు. నువ్వూ మహా అందగత్తెవి, వయస్సులో ఉన్నదానివి.
+**Story:** అలా నడిచి వస్తున్న సీతమ్మని చూడడం కోసమని అక్కడున్న వానరాలు ఒకరిని ఒకరు తోసుకుంటున్నారు (ఆ వానరాలు అప్పటిదాకా సీతమ్మని చూడలేదు). అప్పుడు సుగ్రీవుడు కొంతమందిని ఆజ్ఞాపించి ఆ వానరాలని వెనక్కి తొయ్యమన్నాడు.
+
+**Image:** Pending creation.
+
+**Source note:** "They staked their lives for her. Let them see her." The print's bracket: they had never seen Sita.
+
+## 10 — Scene 10
+
+**Visual:** [Rama, RAMA-S4] stopping it — they staked their lives for her.
+
+**Story:** రాముడన్నాడు "ఈ సీత కోసం వారు తమ ప్రాణాలని ఫణంగా పెట్టి యుద్ధం చేశారు. ఇప్పుడావిడ నడిచొస్తుంటే వాళ్ళని కొట్టి దూరంగా తోసేస్తార. వాళ్ళందరూ సీతని చూడవలసిందే. ఎవరైనా ప్రియ బంధువులు వియోగం పొందినప్పుడు,
+
+**Image:** Pending creation.
+
+## 11 — Scene 11
+
+**Visual:** Rama explaining when a queen may be seen.
+
+**Story:** రాజ్యంలో క్షోభం ఏర్పడినప్పుడు, యజ్ఞము జరుగుతున్నప్పుడు, యుద్ధం జరుగుతున్నప్పుడు అంతఃపుర కాంతలు బయటకి రావచ్చు. ఇవ్వాళ నేను యుద్ధభూమిలో ఉన్నాను, కనుక భర్త దర్శనానికి సీత అలా రావచ్చు. నా పక్కన ఉండగా సీతని చూడడంలో దోషంలేదు" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 12 — Scene 12
+
+**Visual:** [Hanuman Visual Lock] announcing her.
+
+**Story:** అప్పుడు హనుమంతుడు "రామ! ఎవరి కోసం మనం ఇంత కష్టపడి యుద్ధం చేశామో, ఆ సీతమ్మ మీ దగ్గరికి వచ్చింది" అన్నాడు.
+
+**Image:** Pending creation.
+
+**Source note:** "Aryaputra."
+
+## 13 — Scene 13
+
+**Visual:** [Sita, SITA-S4 — bathed and adorned: silk, ornaments, a veil] standing before [Rama, RAMA-S4], veiled, weeping, saying one word (the p. 685 illustration).
+
+**Story:** అప్పుడు సీతమ్మ రాముడి దగ్గరికి వచ్చి, తన భర్త తన పట్ల ఆనందంగా లేకపోవడం వలన ఏడుస్తూ, ఆ ముసుగులో నుండి "ఆర్యపుత్రా" అని, అలా నిలబడిపోయింది.
+
+**Image:** Pending creation.
+
+## 14 — Scene 14
+
+**Visual:** [Rama, RAMA-S4] speaking, looking away from her.
+
+**Story:** అప్పుడు రాముడు "శత్రువుని జయించాను, నిన్ను పొందాను. ఏ దైవము యొక్క అనుగ్రహము లేకపోవడము చేత, ఏ దైవము యొక్క శాసనము చేత నువ్వు అపహరింపబడ్డావో దానిని పురుష ప్రయత్నం చేత దిద్దాను.
+
+**Image:** Pending creation.
+
+**Source note:** He speaks as a king before the world: the stain is wiped out, the honour of the Ikshvakus restored.
+
+## 15 — Scene 15
+
+**Visual:** The whole host listening in silence.
+
+**Story:** రావణుడిని సంహరించి నిన్ను తెచ్చుకున్నాను. అపారమైన పౌరుషము, పరాక్రమము ఉన్నవాడికి ఏదన్నా అపవాదు వస్తే, వాడు తన ప్రయత్నంతో ఆ అపవాదుని తుడిచిపెట్టుకోకపోతే, వాడు చేతకానివాడు అని ప్రపంచం అంటుంది.
+
+**Image:** Pending creation.
+
+## 16 — Scene 16
+
+**Visual:** Rama speaking as a king before the world.
+
+**Story:** అందుకని నా ప్రయత్నంతో వచ్చిన అపవాదుని తుడిచిపెట్టడానికి, రాముడి భార్యను రావణుడు అపహరిస్తే, రావణుడిని రాముడు ఏమి చెయ్యలేదు అని అనకుండా ఉండడం కోసం రావణుడిని సంహరించాను.
+
+**Image:** Pending creation.
+
+## 17 — Scene 17
+
+**Visual:** [Rama, RAMA-S4] — brief flashes of the leap and the bridge.
+
+**Story:** 100 యోజనముల సముద్రాన్ని గడిచి లంకా పట్టణాన్ని చేరి, హనుమ చేసిన ఈ లంకా భీభత్సం అంతా నేటితో సార్ధక్యాన్ని పొందింది. నేను ఇదంతా కష్టపడి చేసింది నా పేరు ప్రఖ్యాతులు నిలబెట్టుకోడానికి.
+
+**Image:** Pending creation.
+
+## 18 — Scene 18
+
+**Visual:** Rama — it was done for the honour of my line.
+
+**Story:** ఇక్ష్వాకు వంశంలో జన్మించాను కాబట్టి, రాముడు చేతకానివాడు అన్న అపవాదు నా మీద పడకూడదు కాబట్టి ఇదంతా చేశాను. రాముడు సీతని తిరిగి తెచ్చుకోలేకపోయాడు అన్న కళంకం మా వంశంలో ఉండిపోకూడదు, అందుకని నిన్ను గెలిచి తెచ్చుకున్నాను.
+
+**Image:** Pending creation.
+
+## 19 — Scene 19
+
+**Visual:** Close on [Rama, RAMA-S4]'s averted face.
+
+**Story:** సీత! ఇవ్వాళ నీ చారిత్రము శంకింపబడింది. నువ్వు చాలాకాలం రాక్షసుని గృహంలో ఉన్నావు. నువ్వు అలా ఉన్న కారణం చేత నిన్ను చూస్తున్నప్పుడు నాకు ఎలా ఉందో తెలుసా, కంటియందు జబ్బు ఉన్నవాడు దీపాన్ని ఎలా చూడలేడో,
 
 **Image:** Pending creation.
 
 **Source note:** The hardest words in the Ramayana, narrated as printed. Hold to faces; no illustration of what he describes. The caption on p. 685 gives the print's own reading: he speaks so that the world may know her purity.
 
-## 10 — Scene 10
+## 20 — Scene 20
 
-**Visual:** Continue the same scene — Close on [Rama, RAMA-S4]'s averted face; [Sita, SITA-S4 — bathed and adorned: silk, ornaments, a veil] motionl — on a new angle or a slow push-in; same characters, dress and light.
+**Visual:** [Sita, SITA-S4 — bathed and adorned: silk, ornaments, a veil] motionless. Hold to faces.
 
-**Story:** అటువంటి నువ్వు ఖచ్చితమైన నడువడితో ఉన్నావని నేను ఎలా నమ్మను. అందుకని ఇప్పుడు నీ ఇష్టం, నీకు ఎవరు నచ్చితే వాళ్ళతో వెళ్ళిపో. లక్ష్మణుడితో కాని, భరతుడితో కాని, విభీషణుడితో కాని, సుగ్రీవుడితో కాని నువ్వు వెళ్ళిపోవచ్చు, వీళ్ళు కాదు ఈ పది దిక్కులలో నీకు ఎవరు నచ్చినా వాళ్ళతో వెళ్ళిపోవచ్చు. నేను నీకు అనుమతి ఇస్తున్నాను, నువ్వు వెళ్ళిపోవచ్చు. నీతో నాకు మాత్రం ఏవిధమైన అవసరం లేదు" అన్నాడు.
+**Story:** అలా నేను నీ వంక చూడలేకపోతున్నాను. నీకు తెలుసు నాకు తెలుసు, నువ్వు అపార సౌందర్యరాశివి, నిన్ను చూసినవాడు చపలచిత్తుడైతే వెంటనే నీ యందు మనస్సు పెట్టుకుంటాడు. పరమ చపలచిత్తుడైన రావణుడు నిన్ను చూడకూడని చూపు చూశాడు,
 
 **Image:** Pending creation.
 
-## 11 — Scene 11
+## 21 — Scene 21
+
+**Visual:** [Lakshmana], [Sugriva Visual Lock — crowned king] and [Hanuman Visual Lock] stricken.
+
+**Story:** బలవంతంగా నీ జుట్టు పట్టి ఈడ్చాడు, తన తొడ మీద కుర్చోపెట్టుకున్నాడు, గుండెల మీద వేసుకున్నాడు, అశోకవనంలో పెట్టాడు, 10 నెలలు నిన్ను చూశాడు. నువ్వూ మహా అందగత్తెవి, వయస్సులో ఉన్నదానివి.
+
+**Image:** Pending creation.
+
+## 22 — Scene 22
+
+**Visual:** [Rama, RAMA-S4] still not looking at her.
+
+**Story:** అటువంటి నువ్వు ఖచ్చితమైన నడువడితో ఉన్నావని నేను ఎలా నమ్మను. అందుకని ఇప్పుడు నీ ఇష్టం, నీకు ఎవరు నచ్చితే వాళ్ళతో వెళ్ళిపో. లక్ష్మణుడితో కాని, భరతుడితో కాని, విభీషణుడితో కాని,
+
+**Image:** Pending creation.
+
+## 23 — Scene 23
+
+**Visual:** Sita's veiled figure, utterly still; the host with lowered heads.
+
+**Story:** సుగ్రీవుడితో కాని నువ్వు వెళ్ళిపోవచ్చు, వీళ్ళు కాదు ఈ పది దిక్కులలో నీకు ఎవరు నచ్చినా వాళ్ళతో వెళ్ళిపోవచ్చు. నేను నీకు అనుమతి ఇస్తున్నాను, నువ్వు వెళ్ళిపోవచ్చు. నీతో నాకు మాత్రం ఏవిధమైన అవసరం లేదు" అన్నాడు.
+
+**Image:** Pending creation.
+
+## 24 — Scene 24
 
 **Visual:** End card.
 
