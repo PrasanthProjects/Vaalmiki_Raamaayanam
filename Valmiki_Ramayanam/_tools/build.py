@@ -367,6 +367,7 @@ def ref_prompt(desc):
 def helper_page(kanda_dir, kanda_te, sarga, slokas):
     """The clip-by-clip copy page: returns (fragment to publish on claude.ai, full local HTML)."""
     data = {'key': f'{kanda_dir}_s{sarga:03d}', 'name': f'{kanda_te} · సర్గ {sarga}', 'slokas': slokas,
+            'unit': 'శ్లోకాలు', 'clipWord': 'క్లిప్', 'subtitle': 'Google Flow కోసం క్లిప్ ప్రాంప్ట్‌లు',
             'refs': [{'key': k, 'prompt': ref_prompt(v)} for k, v in CHARS.items() if k not in GROUPS]}
     blob = json.dumps(data, ensure_ascii=False).replace('</', '<\\/')
     tpl = open(os.path.join(TOOLS, 'flow_helper_template.html'), encoding='utf-8').read()

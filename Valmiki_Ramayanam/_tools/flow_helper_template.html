@@ -42,9 +42,8 @@ button { cursor: pointer; }
 .list button[aria-current="true"] { background: var(--neela-soft); }
 .list .num { font-family: var(--mono); font-size: 12px; color: var(--muted); }
 .list .hl { font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.dots { display: flex; gap: 2px; }
-.dots i { width: 5px; height: 12px; border-radius: 2px; background: var(--line); }
-.dots i.on { background: var(--done); }
+.mini { width: 40px; height: 6px; border-radius: 3px; background: var(--line); overflow: hidden; }
+.mini i { display: block; height: 100%; background: var(--done); }
 
 main { min-width: 0; padding-block: 0 48px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
 .wrap { max-width: 860px; margin: 0 auto; }
@@ -154,7 +153,7 @@ h1 mark { background: none; color: var(--saffron); }
   // ---------- storage: claude.ai db (synced across devices) or this browser ----------
   try { done = JSON.parse(localStorage.getItem(LKEY) || '{}'); } catch (e) { done = {}; }
   function saveLocal() { try { localStorage.setItem(LKEY, JSON.stringify(done)); } catch (e) {} }
-  function entry(k) { return done[k] || (done[k] = k === 'refs' ? {} : { c: [false, false, false, false, false, false, false], t: false }); }
+  function entry(k) { return done[k] || (done[k] = k === 'refs' ? {} : { c: [], t: false }); }
   function persist(k) {
     saveLocal();
     if (remote) remote.doc(D.key + '_' + k).set(JSON.parse(JSON.stringify(done[k]))).catch(() => { setSync('సేవ్ కాలేదు – ఈ బ్రౌజర్‌లో మాత్రమే ఉంది'); });
@@ -212,21 +211,22 @@ h1 mark { background: none; color: var(--saffron); }
       if (q && !(String(s.n) === q || s.headline.includes(q) || s.title.includes(q))) return;
       const li = el('li'); const b = el('button'); b.setAttribute('aria-current', i === cur ? 'true' : 'false');
       b.append(el('span', 'num', String(s.n)), el('span', 'hl', s.headline));
-      const dots = el('span', 'dots'); const e = done[sid(s.n)];
-      for (let k = 0; k < 8; k++) { const d = el('i'); if (e && (k < 7 ? e.c[k] : e.t)) d.className = 'on'; dots.append(d); }
-      b.append(dots); b.addEventListener('click', () => go(i)); li.append(b); ul.append(li);
+      const mini = el('span', 'mini'); const fill = el('i'); fill.style.width = (100 * count(s) / (s.clips.length + 1)) + '%';
+      mini.append(fill); b.append(mini); b.addEventListener('click', () => go(i)); li.append(b); ul.append(li);
     });
-    const total = D.slokas.length * 8;
-    $('totalText').textContent = all + ' / ' + total + ' పూర్తి (' + D.slokas.length + ' శ్లోకాలు × 7 క్లిప్‌లు + థంబ్‌నెయిల్)';
+    const total = D.slokas.reduce((a, s) => a + s.clips.length + 1, 0);
+    $('totalText').textContent = all + ' / ' + total + ' పూర్తి · ' + D.slokas.length + ' ' + D.unit + ' (క్లిప్‌లు + థంబ్‌నెయిల్)';
     $('totalBar').style.width = (100 * all / total) + '%';
   }
 
   // ---------- panels ----------
   function renderClips(s) {
     const p = $('panel');
-    const sl = el('div', 'sloka'); s.sloka.forEach((l) => sl.append(el('p', '', l)));
-    if (s.reading) { const r = el('div', 'read'); r.append(el('div', 'eyebrow', 'చదవడానికి సులువుగా')); s.reading.forEach((l) => r.append(el('div', '', l))); sl.append(r); }
-    p.append(sl);
+    if (s.sloka.length) {
+      const sl = el('div', 'sloka'); s.sloka.forEach((l) => sl.append(el('p', '', l)));
+      if (s.reading) { const r = el('div', 'read'); r.append(el('div', 'eyebrow', 'చదవడానికి సులువుగా')); s.reading.forEach((l) => r.append(el('div', '', l))); sl.append(r); }
+      p.append(sl);
+    }
     const f = el('div', 'filters'); f.append(el('span', '', 'చూపించు:'));
     [['all', 'అన్నీ'], ['video', 'వీడియో'], ['image', 'ఇమేజ్'], ['todo', 'మిగిలినవి']].forEach(([k, t]) => {
       const c = el('button', 'chip', t); c.setAttribute('aria-pressed', filter === k ? 'true' : 'false');
@@ -239,7 +239,7 @@ h1 mark { background: none; color: var(--saffron); }
       if (filter === 'todo' && e.c[i]) return;
       const card = el('article', 'card' + (e.c[i] ? ' done' : ''));
       const head = el('div', 'head');
-      head.append(el('span', 'no', 'క్లిప్ ' + c.no), el('span', 'time', c.time), el('span', 'label', c.label),
+      head.append(el('span', 'no', D.clipWord + ' ' + c.no), el('span', 'time', c.time), el('span', 'label', c.label),
         el('span', 'kind ' + c.kind, c.kind === 'video' ? 'వీడియో · Flow' : 'ఇమేజ్ + కదలిక'));
       const lab = el('label', 'check'); const cb = el('input'); cb.type = 'checkbox'; cb.id = 'c-' + s.n + '-' + c.no; cb.checked = !!e.c[i];
       cb.addEventListener('change', () => { e.c[i] = cb.checked; persist(sid(s.n)); render(); renderList(); });
@@ -249,6 +249,7 @@ h1 mark { background: none; color: var(--saffron); }
       const refs = el('dd', 'refs'); (c.refs.length ? c.refs : ['అవసరం లేదు']).forEach((r) => refs.append(el('span', 'ref', c.refs.length ? r + '.png' : r)));
       dl.append(el('dt', '', 'రిఫరెన్స్'), refs);
       if (c.move) dl.append(el('dt', '', 'ఎడిటర్‌లో'), el('dd', '', c.move));
+      if (c.note) dl.append(el('dt', '', 'గమనిక'), el('dd', '', c.note));
       card.append(dl, promptBox(c.prompt));
       cards.append(card);
     });
@@ -295,7 +296,7 @@ h1 mark { background: none; color: var(--saffron); }
   // ---------- frame ----------
   function render() {
     const s = D.slokas[cur];
-    $('eyebrow').textContent = s.badge + ' · ' + count(s) + '/8 పూర్తి';
+    $('eyebrow').textContent = s.badge + ' · ' + count(s) + '/' + (s.clips.length + 1) + ' పూర్తి';
     markHl($('headline'), s.headline, s.hl);
     ['clips', 'thumb', 'refs'].forEach((t) => $('tab-' + t).setAttribute('aria-selected', tab === t ? 'true' : 'false'));
     $('pick').value = String(cur);
@@ -309,7 +310,7 @@ h1 mark { background: none; color: var(--saffron); }
     renderList(); render(); window.scrollTo(0, 0);
   }
 
-  $('brand').innerHTML = ''; $('brand').append(D.name); const sm = el('small', '', 'Google Flow కోసం క్లిప్ ప్రాంప్ట్‌లు'); $('brand').append(sm);
+  $('brand').innerHTML = ''; $('brand').append(D.name); const sm = el('small', '', D.subtitle); $('brand').append(sm);
   D.slokas.forEach((s, i) => { const o = el('option', '', s.n + '. ' + s.headline); o.value = String(i); $('pick').append(o); });
   $('pick').addEventListener('change', (ev) => go(+ev.target.value));
   $('prev').addEventListener('click', () => go(cur - 1));
