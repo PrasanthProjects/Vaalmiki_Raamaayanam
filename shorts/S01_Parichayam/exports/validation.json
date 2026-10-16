@@ -1,9 +1,0 @@
-{
-  "planned_duration_seconds": 141.13333333333333,
-  "full_decode": "passed",
-  "resolution": "1080x1920",
-  "fps": 30,
-  "transition": "0.6 second cross-dissolve with speech-safe padding",
-  "speech": "existing local te-IN-MohanNeural",
-  "published": false
-}
