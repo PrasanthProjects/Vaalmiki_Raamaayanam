@@ -1,0 +1,324 @@
+<title>__TITLE__</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ramabhadra&family=Noto+Sans+Telugu:wght@400;600;700&family=IBM+Plex+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: workbench — śloka list rail on the left (desktop), one śloka's clips as a checklist on the right; phones get a picker bar instead of the rail. */
+:root {
+  --bg: #F3F2F8; --surface: #FFFFFF; --sunk: #EAE8F3; --ink: #1D1A33; --muted: #5C5878; --line: #D9D6E7;
+  --saffron: #C2520F; --saffron-soft: #FBE7D8; --neela: #2D3C92; --neela-soft: #E3E7FA; --done: #2F7D4F; --done-soft: #DDF1E4;
+  --display: "Ramabhadra", "Noto Sans Telugu", "Nirmala UI", sans-serif;
+  --body: "Noto Sans Telugu", "Nirmala UI", "Gautami", system-ui, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "Cascadia Mono", Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #121120; --surface: #1B1A2C; --sunk: #232238; --ink: #ECEAF7; --muted: #A6A2C4; --line: #2F2D48;
+  --saffron: #F28B44; --saffron-soft: #3A2416; --neela: #9AA9F5; --neela-soft: #222A52; --done: #6CC891; --done-soft: #17331F; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #121120; --surface: #1B1A2C; --sunk: #232238; --ink: #ECEAF7; --muted: #A6A2C4; --line: #2F2D48;
+  --saffron: #F28B44; --saffron-soft: #3A2416; --neela: #9AA9F5; --neela-soft: #222A52; --done: #6CC891; --done-soft: #17331F; color-scheme: dark }
+
+*, *::before, *::after { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.6 var(--body); }
+button, select, input { font: inherit; color: inherit; }
+button { cursor: pointer; }
+:focus-visible { outline: 2px solid var(--saffron); outline-offset: 2px; }
+.mono { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+
+.app { display: grid; grid-template-columns: 300px minmax(0, 1fr); min-height: 100vh; }
+.rail { border-right: 1px solid var(--line); background: var(--surface); position: sticky; top: env(safe-area-inset-top, 0px);
+  height: 100vh; overflow-y: auto; padding-block: 20px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: 16px; }
+.brand { font-family: var(--display); font-size: 22px; line-height: 1.25; margin: 0; text-wrap: balance; }
+.brand small { display: block; font-family: var(--body); font-size: 13px; color: var(--muted); margin-top: 4px; }
+.total { margin: 16px 0; display: grid; gap: 6px; font-size: 13px; color: var(--muted); }
+.bar { height: 6px; border-radius: 3px; background: var(--sunk); overflow: hidden; }
+.bar > i { display: block; height: 100%; background: var(--done); width: 0; transition: width .3s; }
+.search { width: 100%; padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); }
+.list { list-style: none; margin: 12px 0 0; padding: 0; display: grid; gap: 2px; }
+.list button { width: 100%; text-align: left; display: grid; grid-template-columns: 36px minmax(0, 1fr) auto; gap: 8px; align-items: center;
+  padding: 7px 8px; border: 0; border-radius: 8px; background: none; }
+.list button:hover { background: var(--sunk); }
+.list button[aria-current="true"] { background: var(--neela-soft); }
+.list .num { font-family: var(--mono); font-size: 12px; color: var(--muted); }
+.list .hl { font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.dots { display: flex; gap: 2px; }
+.dots i { width: 5px; height: 12px; border-radius: 2px; background: var(--line); }
+.dots i.on { background: var(--done); }
+
+main { min-width: 0; padding-block: 0 48px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.wrap { max-width: 860px; margin: 0 auto; }
+.top { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); padding-block: 14px 10px; border-bottom: 1px solid var(--line); }
+.picker { display: none; gap: 8px; align-items: center; margin-bottom: 10px; }
+.picker select { flex: 1; min-width: 0; padding: 8px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); }
+.navbtn { border: 1px solid var(--line); background: var(--surface); border-radius: 8px; padding: 7px 12px; }
+.eyebrow { font-size: 12px; letter-spacing: .06em; color: var(--muted); }
+h1 { font-family: var(--display); font-weight: 400; font-size: clamp(24px, 4vw, 32px); line-height: 1.25; margin: 2px 0 6px; text-wrap: balance; }
+h1 mark { background: none; color: var(--saffron); }
+.tabs { display: flex; gap: 6px; flex-wrap: wrap; }
+.tab { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 5px 14px; font-size: 14px; }
+.tab[aria-selected="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+
+.sloka { margin: 18px 0 6px; padding: 14px 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; }
+.sloka p { margin: 0; font-size: 16px; }
+.sloka .read { margin-top: 8px; color: var(--muted); font-size: 14px; }
+.filters { display: flex; gap: 6px; flex-wrap: wrap; margin: 16px 0 10px; align-items: center; }
+.filters span { font-size: 13px; color: var(--muted); margin-right: 4px; }
+.chip { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 3px 12px; font-size: 13px; }
+.chip[aria-pressed="true"] { border-color: var(--saffron); color: var(--saffron); background: var(--saffron-soft); }
+
+.cards { display: grid; gap: 12px; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; display: grid; gap: 10px; }
+.card.done { background: var(--done-soft); border-color: transparent; }
+.card.done .prompt, .card.done .body-detail { display: none; }
+.head { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; }
+.head .no { font-family: var(--mono); font-weight: 600; }
+.head .time { font-family: var(--mono); font-size: 13px; color: var(--muted); }
+.head .label { font-weight: 600; }
+.kind { font-size: 12px; font-weight: 700; padding: 2px 10px; border-radius: 999px; letter-spacing: .02em; }
+.kind.video { background: var(--saffron-soft); color: var(--saffron); }
+.kind.image { background: var(--neela-soft); color: var(--neela); }
+.check { margin-left: auto; display: inline-flex; gap: 6px; align-items: center; font-size: 14px; cursor: pointer; }
+.check input { width: 20px; height: 20px; accent-color: var(--done); }
+.row { display: grid; grid-template-columns: 96px minmax(0, 1fr); gap: 4px 10px; font-size: 14px; }
+.row dt { color: var(--muted); }
+.row dd { margin: 0; min-width: 0; }
+.refs { display: flex; gap: 6px; flex-wrap: wrap; }
+.ref { font-family: var(--mono); font-size: 12px; padding: 1px 8px; border-radius: 6px; background: var(--sunk); }
+.prompt { position: relative; background: var(--sunk); border-radius: 10px; padding: 10px 12px; }
+.prompt pre { margin: 0; white-space: pre-wrap; word-break: break-word; font: 12.5px/1.55 var(--mono); max-height: 5.2em; overflow: hidden; }
+.prompt.open pre { max-height: none; }
+.prompt .actions { display: flex; gap: 8px; margin-top: 8px; flex-wrap: wrap; }
+.copy { border: 0; border-radius: 8px; padding: 8px 18px; font-weight: 700; background: var(--saffron); color: var(--surface); }
+.copy.ok { background: var(--done); }
+.more { border: 0; background: none; color: var(--muted); text-decoration: underline; padding: 8px 4px; }
+.section-title { font-family: var(--display); font-weight: 400; font-size: 20px; margin: 22px 0 8px; }
+.note { color: var(--muted); font-size: 14px; max-width: 65ch; }
+.thumbtext { display: grid; gap: 4px; }
+.thumbtext .big { font-family: var(--display); font-size: 24px; line-height: 1.3; }
+.thumbtext .big mark { background: none; color: var(--saffron); }
+.toast { position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(18px + env(safe-area-inset-bottom, 0px)); background: var(--ink); color: var(--bg);
+  padding: 8px 16px; border-radius: 999px; font-size: 14px; opacity: 0; transition: opacity .2s; pointer-events: none; }
+.toast.show { opacity: 1; }
+.sync { font-size: 12px; color: var(--muted); }
+
+@media (max-width: 900px) {
+  .app { grid-template-columns: minmax(0, 1fr); }
+  .rail { display: none; }
+  .picker { display: flex; }
+}
+@media (max-width: 480px) { .row { grid-template-columns: minmax(0, 1fr); } .row dt { margin-top: 4px; } }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="app">
+  <aside class="rail" aria-label="శ్లోకాలు">
+    <p class="brand" id="brand"></p>
+    <div class="total"><span id="totalText"></span><div class="bar"><i id="totalBar"></i></div><span class="sync" id="syncText"></span></div>
+    <input class="search" id="search" type="search" placeholder="శ్లోకం సంఖ్య లేదా పదం వెతకండి" aria-label="వెతకండి">
+    <ul class="list" id="list"></ul>
+  </aside>
+  <main>
+    <div class="wrap">
+      <div class="top">
+        <div class="picker">
+          <button class="navbtn" id="prev" aria-label="ముందు శ్లోకం">‹</button>
+          <select id="pick" aria-label="శ్లోకం ఎంచుకోండి"></select>
+          <button class="navbtn" id="next" aria-label="తరువాతి శ్లోకం">›</button>
+        </div>
+        <div class="eyebrow" id="eyebrow"></div>
+        <h1 id="headline"></h1>
+        <div class="tabs" role="tablist">
+          <button class="tab" role="tab" id="tab-clips" aria-selected="true">క్లిప్‌లు</button>
+          <button class="tab" role="tab" id="tab-thumb" aria-selected="false">థంబ్‌నెయిల్ & అప్‌లోడ్</button>
+          <button class="tab" role="tab" id="tab-refs" aria-selected="false">పాత్రల రిఫరెన్స్</button>
+        </div>
+      </div>
+      <section id="panel"></section>
+    </div>
+  </main>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(function () {
+  const D = JSON.parse(document.getElementById('data').textContent);
+  const $ = (id) => document.getElementById(id);
+  const sid = (n) => 's' + String(n).padStart(3, '0');
+  const LKEY = 'vr-flow-' + D.key;
+  let done = {};          // { s001: { c: [bool x7], t: bool }, refs: { KEY: bool } }
+  let remote = null;      // db collection when the page runs on claude.ai
+  let cur = 0, tab = 'clips', filter = 'all';
+
+  // ---------- storage: claude.ai db (synced across devices) or this browser ----------
+  try { done = JSON.parse(localStorage.getItem(LKEY) || '{}'); } catch (e) { done = {}; }
+  function saveLocal() { try { localStorage.setItem(LKEY, JSON.stringify(done)); } catch (e) {} }
+  function entry(k) { return done[k] || (done[k] = k === 'refs' ? {} : { c: [false, false, false, false, false, false, false], t: false }); }
+  function persist(k) {
+    saveLocal();
+    if (remote) remote.doc(D.key + '_' + k).set(JSON.parse(JSON.stringify(done[k]))).catch(() => { setSync('సేవ్ కాలేదు – ఈ బ్రౌజర్‌లో మాత్రమే ఉంది'); });
+  }
+  function setSync(t) { $('syncText').textContent = t; }
+  setSync('టిక్‌లు ఈ బ్రౌజర్‌లో సేవ్ అవుతాయి');
+  (async function connect() {
+    if (!window.claude || !window.claude.use) return;
+    const db = await window.claude.use('db');
+    const user = await window.claude.use('user');
+    if (!db || !user) return;
+    const id = await user.id();
+    if (!id) return;
+    remote = db.collection('data/users/' + id);
+    setSync('టిక్‌లు మీ ఖాతాలో సేవ్ అవుతాయి – ఫోన్‌లోనూ కనిపిస్తాయి');
+    remote.onSnapshot((snap) => {
+      const pre = D.key + '_';
+      snap.docs.forEach((d) => { if (d.exists && d.id.startsWith(pre)) done[d.id.slice(pre.length)] = JSON.parse(JSON.stringify(d.data())); });
+      saveLocal(); renderList(); render();
+    }, () => setSync('సింక్ ఆగింది – పేజీ రీలోడ్ చేయండి'));
+  })().catch(() => {});
+
+  // ---------- helpers ----------
+  function toast(t) { const el = $('toast'); el.textContent = t; el.classList.add('show'); clearTimeout(toast.t); toast.t = setTimeout(() => el.classList.remove('show'), 1600); }
+  function copyText(text, btn) {
+    const ok = () => { btn.classList.add('ok'); btn.textContent = 'కాపీ అయింది ✓'; toast('కాపీ అయింది – Flow లో పేస్ట్ చేయండి');
+      setTimeout(() => { btn.classList.remove('ok'); btn.textContent = btn.dataset.label; }, 1800); };
+    const fallback = () => { const ta = document.createElement('textarea'); ta.value = text; ta.setAttribute('readonly', '');
+      ta.style.position = 'fixed'; ta.style.opacity = '0'; document.body.appendChild(ta); ta.select();
+      let good = false; try { good = document.execCommand('copy'); } catch (e) {} ta.remove();
+      good ? ok() : toast('కాపీ కాలేదు – టెక్స్ట్‌ను చేత్తో సెలెక్ట్ చేయండి'); };
+    if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(text).then(ok, fallback); else fallback();
+  }
+  function el(tag, cls, text) { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
+  function markHl(target, main, hl) { const i = main.indexOf(hl); target.textContent = '';
+    target.append(main.slice(0, i)); const m = el('mark', '', hl); target.append(m, main.slice(i + hl.length)); }
+  function count(s) { const e = done[sid(s.n)]; return e ? e.c.filter(Boolean).length + (e.t ? 1 : 0) : 0; }
+  function promptBox(text, label) {
+    const box = el('div', 'prompt'); const pre = el('pre', '', text); box.append(pre);
+    const act = el('div', 'actions'); const b = el('button', 'copy', label || 'ప్రాంప్ట్ కాపీ'); b.dataset.label = b.textContent;
+    b.addEventListener('click', () => copyText(text, b));
+    const more = el('button', 'more', 'పూర్తిగా చూపించు');
+    more.addEventListener('click', () => { box.classList.toggle('open'); more.textContent = box.classList.contains('open') ? 'తక్కువ చూపించు' : 'పూర్తిగా చూపించు'; });
+    act.append(b, more); box.append(act); return box;
+  }
+  function textBlock(title, text, label) { const wrap = el('div', 'card'); wrap.append(el('div', 'label', title), promptBox(text, label)); return wrap; }
+
+  // ---------- list ----------
+  function renderList() {
+    const q = $('search').value.trim();
+    const ul = $('list'); ul.textContent = '';
+    let all = 0;
+    D.slokas.forEach((s, i) => {
+      all += count(s);
+      if (q && !(String(s.n) === q || s.headline.includes(q) || s.title.includes(q))) return;
+      const li = el('li'); const b = el('button'); b.setAttribute('aria-current', i === cur ? 'true' : 'false');
+      b.append(el('span', 'num', String(s.n)), el('span', 'hl', s.headline));
+      const dots = el('span', 'dots'); const e = done[sid(s.n)];
+      for (let k = 0; k < 8; k++) { const d = el('i'); if (e && (k < 7 ? e.c[k] : e.t)) d.className = 'on'; dots.append(d); }
+      b.append(dots); b.addEventListener('click', () => go(i)); li.append(b); ul.append(li);
+    });
+    const total = D.slokas.length * 8;
+    $('totalText').textContent = all + ' / ' + total + ' పూర్తి (' + D.slokas.length + ' శ్లోకాలు × 7 క్లిప్‌లు + థంబ్‌నెయిల్)';
+    $('totalBar').style.width = (100 * all / total) + '%';
+  }
+
+  // ---------- panels ----------
+  function renderClips(s) {
+    const p = $('panel');
+    const sl = el('div', 'sloka'); s.sloka.forEach((l) => sl.append(el('p', '', l)));
+    if (s.reading) { const r = el('div', 'read'); r.append(el('div', 'eyebrow', 'చదవడానికి సులువుగా')); s.reading.forEach((l) => r.append(el('div', '', l))); sl.append(r); }
+    p.append(sl);
+    const f = el('div', 'filters'); f.append(el('span', '', 'చూపించు:'));
+    [['all', 'అన్నీ'], ['video', 'వీడియో'], ['image', 'ఇమేజ్'], ['todo', 'మిగిలినవి']].forEach(([k, t]) => {
+      const c = el('button', 'chip', t); c.setAttribute('aria-pressed', filter === k ? 'true' : 'false');
+      c.addEventListener('click', () => { filter = k; render(); }); f.append(c); });
+    p.append(f);
+    const e = entry(sid(s.n)); const cards = el('div', 'cards');
+    s.clips.forEach((c, i) => {
+      if (filter === 'video' && c.kind !== 'video') return;
+      if (filter === 'image' && c.kind !== 'image') return;
+      if (filter === 'todo' && e.c[i]) return;
+      const card = el('article', 'card' + (e.c[i] ? ' done' : ''));
+      const head = el('div', 'head');
+      head.append(el('span', 'no', 'క్లిప్ ' + c.no), el('span', 'time', c.time), el('span', 'label', c.label),
+        el('span', 'kind ' + c.kind, c.kind === 'video' ? 'వీడియో · Flow' : 'ఇమేజ్ + కదలిక'));
+      const lab = el('label', 'check'); const cb = el('input'); cb.type = 'checkbox'; cb.id = 'c-' + s.n + '-' + c.no; cb.checked = !!e.c[i];
+      cb.addEventListener('change', () => { e.c[i] = cb.checked; persist(sid(s.n)); render(); renderList(); });
+      lab.append(cb, document.createTextNode('పూర్తైంది')); head.append(lab); card.append(head);
+      const dl = el('dl', 'row body-detail');
+      dl.append(el('dt', '', 'నెరేషన్'), el('dd', '', c.narration));
+      const refs = el('dd', 'refs'); (c.refs.length ? c.refs : ['అవసరం లేదు']).forEach((r) => refs.append(el('span', 'ref', c.refs.length ? r + '.png' : r)));
+      dl.append(el('dt', '', 'రిఫరెన్స్'), refs);
+      if (c.move) dl.append(el('dt', '', 'ఎడిటర్‌లో'), el('dd', '', c.move));
+      card.append(dl, promptBox(c.prompt));
+      cards.append(card);
+    });
+    if (!cards.children.length) cards.append(el('p', 'note', 'ఈ ఫిల్టర్‌లో క్లిప్‌లు లేవు.'));
+    p.append(cards);
+  }
+  function renderThumb(s) {
+    const p = $('panel'); const e = entry(sid(s.n));
+    p.append(el('h2', 'section-title', 'థంబ్‌నెయిల్'));
+    const card = el('article', 'card' + (e.t ? ' done' : ''));
+    const head = el('div', 'head'); head.append(el('span', 'label', '1080×1920 · బ్యాక్‌గ్రౌండ్ ఇమేజ్'));
+    const lab = el('label', 'check'); const cb = el('input'); cb.type = 'checkbox'; cb.id = 't-' + s.n; cb.checked = !!e.t;
+    cb.addEventListener('change', () => { e.t = cb.checked; persist(sid(s.n)); render(); renderList(); });
+    lab.append(cb, document.createTextNode('పూర్తైంది')); head.append(lab); card.append(head);
+    const tt = el('div', 'thumbtext body-detail'); const big = el('div', 'big'); markHl(big, s.headline, s.hl);
+    tt.append(big, el('div', '', s.sub), el('div', 'eyebrow', s.badge)); card.append(tt);
+    const dl = el('dl', 'row body-detail'); const refs = el('dd', 'refs');
+    (s.thumbRefs.length ? s.thumbRefs : ['అవసరం లేదు']).forEach((r) => refs.append(el('span', 'ref', s.thumbRefs.length ? r + '.png' : r)));
+    dl.append(el('dt', '', 'రిఫరెన్స్'), refs); card.append(dl, promptBox(s.thumbPrompt));
+    p.append(card);
+    p.append(el('h2', 'section-title', 'YouTube అప్‌లోడ్'));
+    const up = el('div', 'cards');
+    up.append(textBlock('టైటిల్', s.title, 'టైటిల్ కాపీ'), textBlock('వివరణ (Description)', s.desc, 'వివరణ కాపీ'),
+      textBlock('పిన్ కామెంట్', s.pinned, 'కామెంట్ కాపీ'));
+    p.append(up);
+    p.append(el('p', 'note', 'క్యాప్షన్ ఫైల్: ' + s.srt + ' (Sarga ఫోల్డర్‌లోని captions/ లో ఉంది).'));
+  }
+  function renderRefs() {
+    const p = $('panel'); const e = entry('refs');
+    p.append(el('p', 'note', 'ప్రతి పాత్రకు ఒక్కసారే ఇమేజ్ చేయండి. ఉత్తమమైనది ఇచ్చిన పేరుతో _reference_images/ లో సేవ్ చేసి, ప్రతి క్లిప్‌లో జత చేయండి. ఆమోదించిన ఇమేజ్‌ను మార్చవద్దు.'));
+    const used = new Set(); D.slokas.forEach((s) => s.clips.forEach((c) => c.refs.forEach((r) => used.add(r))));
+    const cards = el('div', 'cards');
+    D.refs.filter((r) => used.has(r.key)).forEach((r) => {
+      const card = el('article', 'card' + (e[r.key] ? ' done' : ''));
+      const head = el('div', 'head'); head.append(el('span', 'no', r.key + '.png'));
+      const lab = el('label', 'check'); const cb = el('input'); cb.type = 'checkbox'; cb.id = 'r-' + r.key; cb.checked = !!e[r.key];
+      cb.addEventListener('change', () => { e[r.key] = cb.checked; persist('refs'); render(); });
+      lab.append(cb, document.createTextNode('ఆమోదించాను')); head.append(lab); card.append(head, promptBox(r.prompt));
+      cards.append(card);
+    });
+    p.append(cards);
+  }
+
+  // ---------- frame ----------
+  function render() {
+    const s = D.slokas[cur];
+    $('eyebrow').textContent = s.badge + ' · ' + count(s) + '/8 పూర్తి';
+    markHl($('headline'), s.headline, s.hl);
+    ['clips', 'thumb', 'refs'].forEach((t) => $('tab-' + t).setAttribute('aria-selected', tab === t ? 'true' : 'false'));
+    $('pick').value = String(cur);
+    $('panel').textContent = '';
+    if (tab === 'clips') renderClips(s); else if (tab === 'thumb') renderThumb(s); else renderRefs();
+  }
+  function go(i) {
+    cur = Math.max(0, Math.min(D.slokas.length - 1, i));
+    try { localStorage.setItem(LKEY + '-cur', String(cur)); } catch (e) {}
+    try { history.replaceState(null, '', '#' + sid(D.slokas[cur].n)); } catch (e) {}
+    renderList(); render(); window.scrollTo(0, 0);
+  }
+
+  $('brand').innerHTML = ''; $('brand').append(D.name); const sm = el('small', '', 'Google Flow కోసం క్లిప్ ప్రాంప్ట్‌లు'); $('brand').append(sm);
+  D.slokas.forEach((s, i) => { const o = el('option', '', s.n + '. ' + s.headline); o.value = String(i); $('pick').append(o); });
+  $('pick').addEventListener('change', (ev) => go(+ev.target.value));
+  $('prev').addEventListener('click', () => go(cur - 1));
+  $('next').addEventListener('click', () => go(cur + 1));
+  $('search').addEventListener('input', renderList);
+  ['clips', 'thumb', 'refs'].forEach((t) => $('tab-' + t).addEventListener('click', () => { tab = t; render(); }));
+  const fromHash = D.slokas.findIndex((s) => '#' + sid(s.n) === location.hash);
+  let saved = 0; try { saved = +(localStorage.getItem(LKEY + '-cur') || 0); } catch (e) {}
+  cur = fromHash >= 0 ? fromHash : (saved < D.slokas.length ? saved : 0);
+  renderList(); render();
+})();
+</script>

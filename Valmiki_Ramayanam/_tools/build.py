@@ -221,25 +221,41 @@ def flow_md(clips, texts):
            "- **🖼️ ఇమేజ్ + కదలిక:** ప్రాంప్ట్‌తో ఒక ఇమేజ్ మాత్రమే చేయండి. ఎడిటర్‌లో (CapCut / Resolve) ఇచ్చిన కదలిక పెట్టండి.\n"
            "- **రిఫరెన్స్** లో ఉన్న ఇమేజ్‌లను జత చేయండి (Flow లో *Ingredients*) – "
            "[00_CHARACTER_REFERENCE_SHEETS.md](../../00_CHARACTER_REFERENCE_SHEETS.md).\n"]
+    for c in clip_cards(clips, texts):
+        ref_line = ' · '.join(f'`{k}.png`' for k in c['refs']) if c['refs'] else 'అవసరం లేదు'
+        head = '🎥 వీడియో' if c['kind'] == 'video' else '🖼️ ఇమేజ్ + కదలిక'
+        extra = f"- **ఎడిటర్‌లో కదలిక:** {c['move']}\n" if c['move'] else ''
+        out.append(f"### క్లిప్ {c['no']} · {c['time']} · {c['label']} · {head}\n\n"
+                   f"- **నెరేషన్:** {c['narration']}\n"
+                   f"- **రిఫరెన్స్:** {ref_line}\n{extra}\n"
+                   f"```text\n{c['prompt']}\n```\n")
+    return '\n'.join(out)
+
+
+def clip_cards(clips, texts):
+    """One dict per clip; shared by the Markdown file and the Flow helper page."""
+    kinds = clip_kinds(clips)
+    cards = []
     for i, (chars, frame, motion, cam, light) in enumerate(clips):
         a, b, label = SLOTS[i]
-        refs = [k for k in keys_of(chars) if k not in GROUPS]
-        ref_line = ' · '.join(f'`{k}.png`' for k in refs) if refs else 'అవసరం లేదు'
-        if kinds[i] == 'video':
-            head, extra, prompt = '🎥 వీడియో', '', clip_prompt(chars, frame, motion, cam, light)
-        else:
-            head, extra, prompt = ('🖼️ ఇమేజ్ + కదలిక', f"- **ఎడిటర్‌లో కదలిక:** {editor_move(cam)}\n",
-                                   still_prompt(chars, frame, light))
-        out.append(f"### క్లిప్ {i + 1} · {mmss(a)} – {mmss(b)} · {label} · {head}\n\n"
-                   f"- **నెరేషన్:** {texts[i]}\n"
-                   f"- **రిఫరెన్స్:** {ref_line}\n{extra}\n"
-                   f"```text\n{prompt}\n```\n")
-    return '\n'.join(out)
+        video = kinds[i] == 'video'
+        cards.append({
+            'no': i + 1, 'time': f'{mmss(a)} – {mmss(b)}', 'label': label, 'kind': kinds[i],
+            'narration': texts[i], 'refs': [k for k in keys_of(chars) if k not in GROUPS],
+            'move': '' if video else editor_move(cam),
+            'prompt': clip_prompt(chars, frame, motion, cam, light) if video else still_prompt(chars, frame, light),
+        })
+    return cards
 
 
 def thumb_md(t, clips, kanda_te, sarga, n):
     main, hl, sub = t
     assert hl in main, f'thumbnail {n}: highlight "{hl}" is not in "{main}"'
+    prompt, refs = thumb_prompt(clips)
+    return thumb_table(main, hl, sub, kanda_te, sarga, n, refs, prompt)
+
+
+def thumb_prompt(clips):
     pick = next((c for c in clips if keys_of(c[0])), clips[0])
     who = '; '.join(CHARS[k] for k in keys_of(pick[0]))
     refs = [k for k in keys_of(pick[0]) if k not in GROUPS]
@@ -251,6 +267,10 @@ def thumb_md(t, clips, kanda_te, sarga, n):
               "Keep the top 35% of the frame a clean dark gradient or soft sky with no important detail "
               "(space for a headline) and the bottom 12% calm and plain (space for a small line). "
               f"{RESPECT} No text, letters, numbers, logos or watermarks in the image.")
+    return prompt, refs
+
+
+def thumb_table(main, hl, sub, kanda_te, sarga, n, refs, prompt):
     return ("## 6. థంబ్‌నెయిల్ (1080×1920)\n\n"
             f"| భాగం | టెక్స్ట్ | రూపం |\n|---|---|---|\n"
             f"| హెడ్‌లైన్ (పై 35%) | **{main}** | తెలుపు, **{hl}** పసుపు (#FFD700), నల్ల అవుట్‌లైన్ + షాడో |\n"
@@ -263,12 +283,16 @@ def thumb_md(t, clips, kanda_te, sarga, n):
             f"```text\n{prompt}\n```\n")
 
 
-def upload_md(title, sloka_lines, tt, pinned, kanda_te, sarga, n, srt_name):
-    desc = (f"{title}\n\n" + '\n'.join(sloka_lines) + "\n\n"
+def upload_desc(title, sloka_lines, tt, kanda_te, sarga, n):
+    return (f"{title}\n\n" + '\n'.join(sloka_lines) + "\n\n"
             f"తాత్పర్యం:\n{tt}\n\n"
             f"📖 మూలం: శ్రీమద్వాల్మీకి రామాయణం · {kanda_te} · సర్గ {sarga} · శ్లోకం {n}\n"
             "🙏 శ్లోకం శ్లోకంగా వాల్మీకి రామాయణం – అర్థం, జీవిత పాఠంతో.\n\n"
             f"{HASHTAGS}")
+
+
+def upload_md(title, sloka_lines, tt, pinned, kanda_te, sarga, n, srt_name):
+    desc = upload_desc(title, sloka_lines, tt, kanda_te, sarga, n)
     return ("## 7. YouTube అప్‌లోడ్\n\n"
             f"**టైటిల్:**\n\n```text\n{title}\n```\n\n"
             f"**వివరణ (Description):**\n\n```text\n{desc}\n```\n\n"
@@ -327,12 +351,30 @@ def reference_sheets():
     for k, desc in CHARS.items():
         if k in GROUPS:
             continue
-        prompt = ("Character reference image for animation consistency: one character only, full body, standing, "
-                  "facing the camera, centred, plain soft warm-grey background, even soft lighting, calm expression, "
-                  f"vertical 9:16. Style: {STYLE}. Character: {desc}. {RESPECT} "
-                  "No text, letters, logos or watermarks.")
-        out.append(f"## `{k}.png`\n\n```text\n{prompt}\n```\n")
+        out.append(f"## `{k}.png`\n\n```text\n{ref_prompt(desc)}\n```\n")
     return '\n'.join(out)
+
+
+def ref_prompt(desc):
+    return ("Character reference image for animation consistency: one character only, full body, standing, "
+            "facing the camera, centred, plain soft warm-grey background, even soft lighting, calm expression, "
+            f"vertical 9:16. Style: {STYLE}. Character: {desc}. {RESPECT} "
+            "No text, letters, logos or watermarks.")
+
+
+# ---------- Flow helper page ----------
+
+def helper_page(kanda_dir, kanda_te, sarga, slokas):
+    """The clip-by-clip copy page: returns (fragment to publish on claude.ai, full local HTML)."""
+    data = {'key': f'{kanda_dir}_s{sarga:03d}', 'name': f'{kanda_te} · సర్గ {sarga}', 'slokas': slokas,
+            'refs': [{'key': k, 'prompt': ref_prompt(v)} for k, v in CHARS.items() if k not in GROUPS]}
+    blob = json.dumps(data, ensure_ascii=False).replace('</', '<\\/')
+    tpl = open(os.path.join(TOOLS, 'flow_helper_template.html'), encoding='utf-8').read()
+    fragment = tpl.replace('__TITLE__', f'{kanda_te} సర్గ {sarga} క్లిప్‌లు').replace('__DATA__', blob)
+    full = ('<!doctype html><html lang="te"><head><meta charset="utf-8">'
+            '<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"></head><body>'
+            + fragment + '</body></html>')
+    return fragment, full
 
 
 # ---------- main ----------
@@ -358,7 +400,7 @@ def main(kanda_dir, sarga):
 
     out_dir = os.path.join(ROOT, kanda_dir, f'Sarga_{sarga:03d}')
     os.makedirs(os.path.join(out_dir, 'captions'), exist_ok=True)
-    index, canva_rows, n_video, n_image = [], [], 0, 0
+    index, canva_rows, helper, n_video, n_image = [], [], [], 0, 0
     for n, lines in verses:
         for part, table in (('meanings', mean), ('narration', narr), ('flow', flow),
                             ('thumbnails', thumbs), ('pinned_comments', pinned)):
@@ -392,6 +434,13 @@ def main(kanda_dir, sarga):
         index.append(f"| {n} | [{thumbs[n][0]}]({name}.md) | {title.replace('|', '·')} | "
                      f"{kinds.count('video')} 🎥 + {kinds.count('image')} 🖼️ | [srt](captions/{name}.srt) |")
         canva_rows.append((n, thumbs[n], f'{kanda_te} · సర్గ {sarga} · శ్లోకం {n}'))
+        tprompt, trefs = thumb_prompt(flow[n])
+        helper.append({
+            'n': n, 'headline': thumbs[n][0], 'hl': thumbs[n][1], 'sub': thumbs[n][2],
+            'badge': f'{kanda_te} · సర్గ {sarga} · శ్లోకం {n}', 'title': title, 'sloka': ls,
+            'reading': read if read != ls else None, 'clips': clip_cards(flow[n], texts),
+            'thumbPrompt': tprompt, 'thumbRefs': trefs,
+            'desc': upload_desc(title, ls, tt, kanda_te, sarga, n), 'pinned': pinned[n], 'srt': name + '.srt'})
         n_video += kinds.count('video')
         n_image += kinds.count('image')
     open(os.path.join(out_dir, '00_INDEX.md'), 'w', encoding='utf-8', newline='\n').write(
@@ -402,6 +451,11 @@ def main(kanda_dir, sarga):
         "| శ్లోకం | థంబ్‌నెయిల్ హెడ్‌లైన్ | YouTube టైటిల్ | క్లిప్‌లు | క్యాప్షన్ |\n|---|---|---|---|---|\n"
         + '\n'.join(index) + '\n')
     open(os.path.join(out_dir, 'thumbnails_canva.csv'), 'w', encoding='utf-8', newline='').write(canva_csv(canva_rows))
+    fragment, full = helper_page(kanda_dir, kanda_te, sarga, helper)
+    open(os.path.join(out_dir, '00_CLIPS_HELPER.html'), 'w', encoding='utf-8', newline='\n').write(full)
+    os.makedirs(os.path.join(TOOLS, 'publish'), exist_ok=True)  # claude.ai copy; not committed
+    open(os.path.join(TOOLS, 'publish', f'{kanda_dir}_Sarga_{sarga:03d}.html'), 'w', encoding='utf-8',
+         newline='\n').write(fragment)
     open(os.path.join(ROOT, '00_CHARACTER_REFERENCE_SHEETS.md'), 'w', encoding='utf-8', newline='\n').write(
         reference_sheets())
     print(f'{kanda_te} sarga {sarga}: {len(verses)} ślokas built')
