@@ -8,3 +8,6 @@ ffmpeg-download.zip
 .venv/
 .venv-whisper/
 __pycache__/
+
+# Large media (videos, audio, clips) – kept outside git
+production/
