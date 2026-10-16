@@ -1,0 +1,173 @@
+# బాలకాండ · సర్గ 1 · శ్లోకం 5
+
+**ఈ ఫైల్‌లో:** 1. శ్లోకం · 2. ప్రతిపదార్థం · 3. తాత్పర్యం · 4. నెరేషన్ · 5. Flow క్లిప్‌లు · 6. థంబ్‌నెయిల్ · 7. YouTube అప్‌లోడ్
+
+## 1. శ్లోకం
+
+ఏతదిచ్ఛామ్యహం శ్రోతుం పరం కౌతూహలం హి మే ।  
+మహర్షే త్వం సమర్థోఽసి జ్ఞాతుమేవంవిధం నరమ్ ॥ 5 ॥
+
+## 2. ప్రతిపదార్థం
+
+- ఏతత్: ఈ విషయాలన్నింటినీ
+- శ్రోతుమ్: వినాలని
+- అహమ్ ఇచ్ఛామి: నేను కోరుకుంటున్నాను
+- మే: నాకు
+- పరమ్ కౌతూహలమ్ హి: చాలా ఎక్కువ ఆసక్తి (కుతూహలం) ఉంది కదా!
+- మహర్షే: ఓ నారద మహర్షీ!
+- త్వమ్: మీరు మాత్రమే
+- సమర్థః అసి: సమర్థులు
+- జ్ఞాతుమ్: తెలుసుకోవడానికి
+- ఏవంవిధమ్ నరమ్: ఇలాంటి అద్భుతమైన గుణాలు ఉన్న మనిషి (నరుడు) గురించి
+
+## 3. తాత్పర్యం
+
+వాల్మీకి మహర్షి తన ప్రశ్నలను ముగిస్తూ నారద మహర్షితో ఇలా అంటున్నారు:
+
+"ఓ నారద మహర్షీ! నేను అడిగిన ఇన్ని సద్గుణాలు ఒకే మనిషిలో ఉండడం సాధ్యమేనా? అలాంటి మహాపురుషుడు ఎవరో వినాలని నాకు చాలా చాలా ఆశగా, ఆసక్తిగా ఉంది. మూడు లోకాలూ తిరుగుతూ అందరి గురించీ తెలిసిన మీలాంటి గొప్ప మహర్షికి మాత్రమే ఇలాంటి ఉత్తమమైన వ్యక్తి గురించి పూర్తిగా తెలుసుకునే సామర్థ్యం ఉంది. దయచేసి నాకు చెప్పండి."
+
+## 4. నెరేషన్ స్క్రిప్ట్ (~45 సెకన్లు)
+
+### 0:00 – 0:04 · హుక్
+
+- **విజువల్:** ఆకాశం వైపు చూస్తూ కూర్చున్న వాల్మీకి మహర్షి సినిమాటిక్ చిత్రం. టెక్స్ట్ వేగంగా మెరుస్తూ.
+- **వాయిస్ (నాటకీయంగా):** భూమి మీద అసలు ‘పర్ఫెక్ట్’ మనిషి అనేవాడు ఉంటాడా? సాక్షాత్తు వాల్మీకి మహర్షికే ఈ డౌట్ వచ్చింది!
+- **తెరపై టెక్స్ట్:** పర్ఫెక్ట్ మనిషి ఉంటాడా?
+
+### 0:04 – 0:15 · శ్లోక పఠనం
+
+- **విజువల్:** వీణతో దిగివస్తున్న నారద మహర్షి దివ్య చిత్రం. శ్లోకం స్పష్టమైన తెలుగు అక్షరాలలో.
+- **వాయిస్ (శ్రావ్యంగా, స్పష్టంగా):**
+
+> ఏతదిచ్ఛామ్యహం శ్రోతుం పరం కౌతూహలం హి మే ।  
+> మహర్షే త్వం సమర్థోఽసి జ్ఞాతుమేవంవిధం నరమ్ ॥ 5 ॥  
+
+### 0:15 – 0:38 · తాత్పర్యం & జీవిత పాఠం
+
+- **విజువల్:** వాల్మీకి ఆసక్తి నిండిన ముఖంపై జూమ్, తరువాత శ్రీరాముడి వెలుగుతున్న సిల్హౌట్.
+- **వాయిస్ (సంభాషణ శైలిలో):** వాల్మీకి మహర్షి నారదుడితో అంటున్నారు: 'ఓ మహర్షీ! అన్ని ఉత్తమ గుణాలు ఉన్న వ్యక్తి ఎవరో తెలుసుకోవాలని నాకు చాలా కుతూహలంగా ఉంది. అది చెప్పే సామర్థ్యం కేవలం మీకే ఉంది'. ఇక్కడే మనం ఒక లైఫ్ లెసన్ నేర్చుకోవాలి! ఎంతటి జ్ఞాని అయినా, నేర్చుకునేటప్పుడు అహంకారం లేకుండా ప్రశాంతంగా, జిజ్ఞాసతో అడగాలి. అదే మనల్ని ఉన్నత స్థానానికి తీసుకెళ్తుంది.
+- **తెరపై టెక్స్ట్:** కుతూహలం (Curiosity) | లైఫ్ లెసన్ (Life Lesson) | అహంకారం వద్దు (No Ego)
+
+### 0:38 – 0:45 · ముగింపు & CTA
+
+- **విజువల్:** నారదుడు చిరునవ్వుతో మాట్లాడబోతున్న దృశ్యం. "Next Episode: The Name of Rama" అనే పెద్ద టెక్స్ట్.
+- **వాయిస్ (వేగంగా, ముగింపు స్వరం లేకుండా):** వాల్మీకి అడిగిన ఈ ప్రశ్నకు సమాధానంగా నారద మహర్షి ఏమని సమాధానం ఇచ్చారో... ఆ పర్ఫెక్ట్ మనిషి ఎవరో తరువాతి షార్ట్‌లో చూద్దాం! మిస్ అవ్వకుండా ఇప్పుడే మన ఛానల్‌ని సబ్‌స్క్రైబ్ చేసుకోండి!
+
+## 5. Google Flow వీడియో క్లిప్‌లు (9:16 · ఒక్కోటి 8 సె)
+
+ప్రతి క్లిప్‌కు ఒకే ప్రాంప్ట్. **రిఫరెన్స్** లో ఉన్న ఇమేజ్‌లను Flow లో *Ingredients* గా జత చేయండి ([00_CHARACTER_REFERENCE_SHEETS.md](../../00_CHARACTER_REFERENCE_SHEETS.md)). క్లిప్‌ను ఇచ్చిన సమయానికి ట్రిమ్ చేయండి.
+
+### క్లిప్ 1 · 0:00 – 0:04 · హుక్
+
+- **నెరేషన్:** భూమి మీద అసలు ‘పర్ఫెక్ట్’ మనిషి అనేవాడు ఉంటాడా? సాక్షాత్తు వాల్మీకి మహర్షికే ఈ డౌట్ వచ్చింది!
+- **రిఫరెన్స్:** `VALMIKI.png`
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): Sage Valmiki: venerable elderly rishi, long flowing white beard and matted hair tied up, serene meditative face, ochre bark-cloth robe and upper cloth, rudraksha beads, white Vishnu namam with a red centre line on the forehead. Opening frame: Valmiki sits beside the Tamasa river at dusk, gazing up at the vast starry sky, a question on his face. Then: Stars twinkle, a shooting star crosses the sky, Valmiki slowly raises his head higher. Camera: Slow push-in from wide to medium close-up. Lighting and effects: Deep blue twilight, glowing stars, soft mist on the river. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 2 · 0:04 – 0:10 · శ్లోక పఠనం – 1
+
+- **నెరేషన్:** ఏతదిచ్ఛామ్యహం శ్రోతుం పరం కౌతూహలం హి మే ।
+- **రిఫరెన్స్:** `NARADA.png`
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): Sage Narada (Devarshi Narada) in traditional iconography: ageless radiant sage with white beard and tall hair-knot (shikha), white-and-saffron robes, always holding his golden veena (Mahati), cheerful divine face, often floating gently in the air, white Vishnu namam with a red centre line on the forehead. Opening frame: Narada descends from the sky in a column of golden light, playing his veena. Then: He glides down gently, veena strings shimmer, light ripples spread outward. Camera: Low-angle tilt down following him. Lighting and effects: Divine golden aura, sparkling particles, clouds parting. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 3 · 0:10 – 0:15 · శ్లోక పఠనం – 2
+
+- **నెరేషన్:** మహర్షే త్వం సమర్థోఽసి జ్ఞాతుమేవంవిధం నరమ్ ॥ 5 ॥
+- **రిఫరెన్స్:** `VALMIKI.png` · `NARADA.png`
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): Sage Valmiki: venerable elderly rishi, long flowing white beard and matted hair tied up, serene meditative face, ochre bark-cloth robe and upper cloth, rudraksha beads, white Vishnu namam with a red centre line on the forehead; Sage Narada (Devarshi Narada) in traditional iconography: ageless radiant sage with white beard and tall hair-knot (shikha), white-and-saffron robes, always holding his golden veena (Mahati), cheerful divine face, often floating gently in the air, white Vishnu namam with a red centre line on the forehead. Opening frame: Narada lands before Valmiki on the riverbank, Valmiki joins his palms. Then: Valmiki bows humbly, Narada smiles warmly. Camera: Slow orbit around the two sages. Lighting and effects: Warm golden light, gentle lens flare. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 4 · 0:15 – 0:23 · తాత్పర్యం – 1
+
+- **నెరేషన్:** వాల్మీకి మహర్షి నారదుడితో అంటున్నారు: 'ఓ మహర్షీ! అన్ని ఉత్తమ గుణాలు ఉన్న వ్యక్తి ఎవరో తెలుసుకోవాలని నాకు చాలా కుతూహలంగా ఉంది.
+- **రిఫరెన్స్:** `VALMIKI.png`
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): Sage Valmiki: venerable elderly rishi, long flowing white beard and matted hair tied up, serene meditative face, ochre bark-cloth robe and upper cloth, rudraksha beads, white Vishnu namam with a red centre line on the forehead. Opening frame: Close-up of Valmiki's eager, curious face, palms joined. Then: His eyes widen with longing to know, he leans forward slightly. Camera: Slow push-in. Lighting and effects: Soft rim light, golden reflection in his eyes. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 5 · 0:23 – 0:31 · తాత్పర్యం – 2
+
+- **నెరేషన్:** అది చెప్పే సామర్థ్యం కేవలం మీకే ఉంది'. ఇక్కడే మనం ఒక లైఫ్ లెసన్ నేర్చుకోవాలి! ఎంతటి జ్ఞాని అయినా, నేర్చుకునేటప్పుడు అహంకారం లేకుండా ప్రశాంతంగా, జిజ్ఞాసతో అడగాలి.
+- **రిఫరెన్స్:** `RAMA_S2.png`
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): Prince Rama, avatar of Lord Vishnu, in traditional iconography: deep blue (neela-megha) divine skin, gentle serene smile, large lotus-like eyes, long dark hair, graceful noble build, yellow-gold silk dhoti with angavastram, simple gold earrings, armbands and necklace, Kodanda bow and quiver, subtle divine glow, white Vishnu namam with a red centre line on the forehead. Opening frame: A grand glowing silhouette of Prince Rama standing on a hilltop with his bow, seen from behind, the sun rising behind him. Then: His silhouette slowly brightens as the sun rises, his robe moves in the wind. Camera: Slow low-angle push-in. Lighting and effects: Majestic sunrise, god rays, golden dust. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 6 · 0:31 – 0:38 · జీవిత పాఠం
+
+- **నెరేషన్:** అదే మనల్ని ఉన్నత స్థానానికి తీసుకెళ్తుంది.
+- **రిఫరెన్స్:** `VALMIKI.png`
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): Sage Valmiki: venerable elderly rishi, long flowing white beard and matted hair tied up, serene meditative face, ochre bark-cloth robe and upper cloth, rudraksha beads, white Vishnu namam with a red centre line on the forehead. Opening frame: Valmiki bowing low before Narada with palms joined, humble and egoless. Then: He bows slowly, Narada's hand rises above him in blessing and a soft light falls on Valmiki. Camera: Slow crane down from above. Lighting and effects: Soft divine light beam, floating petals. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 7 · 0:38 – 0:45 · ముగింపు & CTA
+
+- **నెరేషన్:** వాల్మీకి అడిగిన ఈ ప్రశ్నకు సమాధానంగా నారద మహర్షి ఏమని సమాధానం ఇచ్చారో... ఆ పర్ఫెక్ట్ మనిషి ఎవరో తరువాతి షార్ట్‌లో చూద్దాం! మిస్ అవ్వకుండా ఇప్పుడే మన ఛానల్‌ని సబ్‌స్క్రైబ్ చేసుకోండి!
+- **రిఫరెన్స్:** `NARADA.png`
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): Sage Narada (Devarshi Narada) in traditional iconography: ageless radiant sage with white beard and tall hair-knot (shikha), white-and-saffron robes, always holding his golden veena (Mahati), cheerful divine face, often floating gently in the air, white Vishnu namam with a red centre line on the forehead. Opening frame: Narada smiling, about to speak, veena in hand, a glowing light behind him. Then: He opens his mouth to speak and raises a hand, motion slows to a near freeze. Camera: Quick push-in that slows at the end. Lighting and effects: Brilliant golden flash behind him at the final moment. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+## 6. థంబ్‌నెయిల్ (1080×1920)
+
+| భాగం | టెక్స్ట్ | రూపం |
+|---|---|---|
+| హెడ్‌లైన్ (పై 35%) | **పర్ఫెక్ట్ మనిషి ఉంటాడా?** | తెలుపు, **పర్ఫెక్ట్** పసుపు (#FFD700), నల్ల అవుట్‌లైన్ + షాడో |
+| కింది లైన్ (కింది 12%) | వాల్మీకికే వచ్చిన డౌట్ | తెలుపు, సెమీ-బోల్డ్ |
+| బ్యాడ్జ్ (పై ఎడమ) | బాలకాండ · సర్గ 1 · శ్లోకం 5 | కాషాయ పట్టీ, తెలుపు అక్షరాలు |
+
+- **ఫాంట్:** Noto Sans Telugu ExtraBold లేదా Gidugu. హెడ్‌లైన్ 2 లైన్లలోపు.
+- **బొమ్మ:** పాత్ర ముఖం కింది-మధ్యలో, కళ్ళు స్పష్టంగా.
+- **రిఫరెన్స్:** `VALMIKI.png`
+- బ్యాక్‌గ్రౌండ్ ఈ ప్రాంప్ట్‌తో చేసి, టెక్స్ట్ Canva / ఎడిటర్‌లో వేయండి.
+
+```text
+Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters: Sage Valmiki: venerable elderly rishi, long flowing white beard and matted hair tied up, serene meditative face, ochre bark-cloth robe and upper cloth, rudraksha beads, white Vishnu namam with a red centre line on the forehead. Scene: Valmiki sits beside the Tamasa river at dusk, gazing up at the vast starry sky, a question on his face. Make it a bold, emotional close-up of the main character or symbol in the lower-middle of the frame, strong expression, high contrast, glowing rim light. Deep blue twilight, glowing stars, soft mist on the river. Keep the top 35% of the frame a clean dark gradient or soft sky with no important detail (space for a headline) and the bottom 12% calm and plain (space for a small line). This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, numbers, logos or watermarks in the image.
+```
+
+## 7. YouTube అప్‌లోడ్
+
+**టైటిల్:**
+
+```text
+పర్ఫెక్ట్ మనిషి ఉంటాడా? 🚩 | Ramayanam Shorts
+```
+
+**వివరణ (Description):**
+
+```text
+పర్ఫెక్ట్ మనిషి ఉంటాడా? 🚩 | Ramayanam Shorts
+
+ఏతదిచ్ఛామ్యహం శ్రోతుం పరం కౌతూహలం హి మే ।
+మహర్షే త్వం సమర్థోఽసి జ్ఞాతుమేవంవిధం నరమ్ ॥ 5 ॥
+
+తాత్పర్యం:
+వాల్మీకి మహర్షి తన ప్రశ్నలను ముగిస్తూ నారద మహర్షితో ఇలా అంటున్నారు:
+
+"ఓ నారద మహర్షీ! నేను అడిగిన ఇన్ని సద్గుణాలు ఒకే మనిషిలో ఉండడం సాధ్యమేనా? అలాంటి మహాపురుషుడు ఎవరో వినాలని నాకు చాలా చాలా ఆశగా, ఆసక్తిగా ఉంది. మూడు లోకాలూ తిరుగుతూ అందరి గురించీ తెలిసిన మీలాంటి గొప్ప మహర్షికి మాత్రమే ఇలాంటి ఉత్తమమైన వ్యక్తి గురించి పూర్తిగా తెలుసుకునే సామర్థ్యం ఉంది. దయచేసి నాకు చెప్పండి."
+
+📖 మూలం: శ్రీమద్వాల్మీకి రామాయణం · బాలకాండ · సర్గ 1 · శ్లోకం 5
+🙏 శ్లోకం శ్లోకంగా వాల్మీకి రామాయణం – అర్థం, జీవిత పాఠంతో.
+
+#shorts #ramayanam #telugushorts #devotional #shloka #ramayanintelugu #valmikiramayanam
+```
+
+**పిన్ కామెంట్:**
+
+```text
+మీకు ఏ విషయం మీద అంత కుతూహలం ఉంది? నేర్చుకోవడానికి వయసు అడ్డమా?
+```
+
+**క్యాప్షన్ ఫైల్:** [captions/Sloka_005.srt](captions/Sloka_005.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.

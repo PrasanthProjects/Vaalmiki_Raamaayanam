@@ -1,0 +1,166 @@
+# బాలకాండ · సర్గ 1 · శ్లోకం 94
+
+**ఈ ఫైల్‌లో:** 1. శ్లోకం · 2. ప్రతిపదార్థం · 3. తాత్పర్యం · 4. నెరేషన్ · 5. Flow క్లిప్‌లు · 6. థంబ్‌నెయిల్ · 7. YouTube అప్‌లోడ్
+
+## 1. శ్లోకం
+
+నిత్యం ప్రముదితాః సర్వే యథా కృతయుగే తథా ।  
+అశ్వమేధశతైరిష్ట్వా తథా బహుసువర్ణకైః ॥ 94 ॥
+
+## 2. ప్రతిపదార్థం
+
+- కృతయుగే యథా: కృతయుగంలో ఉన్నట్లుగా
+- తథా: అలాగే
+- సర్వే: అందరూ
+- నిత్యమ్ ప్రముదితాః: ఎప్పుడూ ఆనందంగా (ఉంటారు)
+- అశ్వమేధశతైః: వందలాది అశ్వమేధ యాగాలతో
+- తథా బహుసువర్ణకైః: అలాగే ఎంతో బంగారం దక్షిణగా ఇచ్చే యాగాలతో
+- ఇష్ట్వా: యజ్ఞాలు చేసి
+
+## 3. తాత్పర్యం
+
+"కృతయుగంలో లాగా అందరూ ఎప్పుడూ ఆనందంగా ఉంటారు. రాముడు వందలాది అశ్వమేధ యాగాలు, ఎంతో బంగారం దక్షిణగా ఇచ్చే బహుసువర్ణక యాగాలు చేసి..."
+
+## 4. నెరేషన్ స్క్రిప్ట్ (~45 సెకన్లు)
+
+### 0:00 – 0:04 · హుక్
+
+- **విజువల్:** వందలాది యజ్ఞకుండాలు, అశ్వమేధ యాగపు అశ్వం.
+- **వాయిస్ (నాటకీయంగా):** త్రేతాయుగంలో ఉన్నా... కృతయుగంలా అనిపించే రాజ్యం!
+- **తెరపై టెక్స్ట్:** త్రేతాలో కృతయుగం!
+
+### 0:04 – 0:15 · శ్లోక పఠనం
+
+- **విజువల్:** యాగశాలలో శ్రీరాముడు. శ్లోకం తెరపై.
+- **వాయిస్ (శ్రావ్యంగా, స్పష్టంగా):**
+
+> నిత్యం ప్రముదితాః సర్వే యథా కృతయుగే తథా ।  
+> అశ్వమేధశతైరిష్ట్వా తథా బహుసువర్ణకైః ॥ 94 ॥  
+
+### 0:15 – 0:38 · తాత్పర్యం & జీవిత పాఠం
+
+- **విజువల్:** సంతోషంగా పండుగ చేసుకుంటున్న ప్రజలు.
+- **వాయిస్ (సంభాషణ శైలిలో):** నారద మహర్షి మాటల్లో, కృతయుగంలో లాగా అందరూ ఎప్పుడూ ఆనందంగా ఉంటారు. రాముడు వందలాది అశ్వమేధ యాగాలు, ఎంతో బంగారం దక్షిణగా ఇచ్చే యాగాలు చేస్తాడు. కాలం ఏదైనా, మనిషి ధర్మంగా ఉంటే ఆ కాలమే కృతయుగం అవుతుంది. యుగం మనలోనే ఉంది.
+- **తెరపై టెక్స్ట్:** కృతయుగే యథా | అశ్వమేధశతైః
+
+### 0:38 – 0:45 · ముగింపు & CTA
+
+- **విజువల్:** లెక్కలేనన్ని ఆవులను దానం చేస్తున్న దృశ్యం.
+- **వాయిస్ (వేగంగా, ముగింపు స్వరం లేకుండా):** రాముడు చేసిన దానాల గురించి వింటే ఆశ్చర్యపోతారు! తరువాతి షార్ట్‌లో! ఈ ధర్మ ప్రయాణంలో మాతో కలవడానికి సబ్‌స్క్రైబ్ చేయండి!
+
+## 5. Google Flow వీడియో క్లిప్‌లు (9:16 · ఒక్కోటి 8 సె)
+
+ప్రతి క్లిప్‌కు ఒకే ప్రాంప్ట్. **రిఫరెన్స్** లో ఉన్న ఇమేజ్‌లను Flow లో *Ingredients* గా జత చేయండి ([00_CHARACTER_REFERENCE_SHEETS.md](../../00_CHARACTER_REFERENCE_SHEETS.md)). క్లిప్‌ను ఇచ్చిన సమయానికి ట్రిమ్ చేయండి.
+
+### క్లిప్ 1 · 0:00 – 0:04 · హుక్
+
+- **నెరేషన్:** త్రేతాయుగంలో ఉన్నా... కృతయుగంలా అనిపించే రాజ్యం!
+- **రిఫరెన్స్:** అవసరం లేదు
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Opening frame: Hundreds of yagna fires burning across a field. Then: Flames rise. Camera: Slow aerial glide. Lighting and effects: Golden glow. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 2 · 0:04 – 0:10 · శ్లోక పఠనం – 1
+
+- **నెరేషన్:** నిత్యం ప్రముదితాః సర్వే యథా కృతయుగే తథా ।
+- **రిఫరెన్స్:** `RAMA_S5.png`
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): King Sri Rama (Rama Pattabhishekam iconography): deep blue divine skin, serene smiling face, golden kireetam crown, yellow silk pitambara and royal jewellery, Kodanda bow, radiant divine aura, white Vishnu namam with a red centre line on the forehead. Opening frame: Rama performing a yagna. Then: He offers ghee to the fire. Camera: Slow push-in. Lighting and effects: Warm fire glow. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 3 · 0:10 – 0:15 · శ్లోక పఠనం – 2
+
+- **నెరేషన్:** అశ్వమేధశతైరిష్ట్వా తథా బహుసువర్ణకైః ॥ 94 ॥
+- **రిఫరెన్స్:** అవసరం లేదు
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Opening frame: A royal white horse of the Ashwamedha yagna. Then: The horse walks proudly. Camera: Slow tracking. Lighting and effects: Golden light. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 4 · 0:15 – 0:23 · తాత్పర్యం – 1
+
+- **నెరేషన్:** నారద మహర్షి మాటల్లో, కృతయుగంలో లాగా అందరూ ఎప్పుడూ ఆనందంగా ఉంటారు. రాముడు వందలాది అశ్వమేధ యాగాలు, ఎంతో బంగారం దక్షిణగా ఇచ్చే యాగాలు చేస్తాడు.
+- **రిఫరెన్స్:** అవసరం లేదు
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): devout people of ancient Ayodhya in traditional South Indian clothing (men in dhoti and angavastram, women in fully draped sarees), each with a red kumkum mark. Opening frame: People celebrating a festival. Then: They dance. Camera: Slow aerial glide. Lighting and effects: Golden light. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 5 · 0:23 – 0:31 · తాత్పర్యం – 2
+
+- **నెరేషన్:** కాలం ఏదైనా, మనిషి ధర్మంగా ఉంటే ఆ కాలమే కృతయుగం అవుతుంది.
+- **రిఫరెన్స్:** అవసరం లేదు
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): a group of venerable forest rishis in ochre and white robes with white beards and kamandalus, most with white Vishnu namam and some with three ash-white Shiva lines. Opening frame: Sages chanting at the yagna. Then: They chant. Camera: Slow orbit. Lighting and effects: Warm glow. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 6 · 0:31 – 0:38 · జీవిత పాఠం
+
+- **నెరేషన్:** యుగం మనలోనే ఉంది.
+- **రిఫరెన్స్:** అవసరం లేదు
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Opening frame: Symbolic shot: a golden age sunrise. Then: The sun rises. Camera: Slow push-in. Lighting and effects: Golden rays. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 7 · 0:38 – 0:45 · ముగింపు & CTA
+
+- **నెరేషన్:** రాముడు చేసిన దానాల గురించి వింటే ఆశ్చర్యపోతారు! తరువాతి షార్ట్‌లో! ఈ ధర్మ ప్రయాణంలో మాతో కలవడానికి సబ్‌స్క్రైబ్ చేయండి!
+- **రిఫరెన్స్:** `RAMA_S5.png`
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): King Sri Rama (Rama Pattabhishekam iconography): deep blue divine skin, serene smiling face, golden kireetam crown, yellow silk pitambara and royal jewellery, Kodanda bow, radiant divine aura, white Vishnu namam with a red centre line on the forehead. Opening frame: Rama offering cows in charity. Then: He hands over a rope, motion slows. Camera: Slow push-in. Lighting and effects: Golden light, soft flash. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+## 6. థంబ్‌నెయిల్ (1080×1920)
+
+| భాగం | టెక్స్ట్ | రూపం |
+|---|---|---|
+| హెడ్‌లైన్ (పై 35%) | **త్రేతాలో కృతయుగం!** | తెలుపు, **కృతయుగం** పసుపు (#FFD700), నల్ల అవుట్‌లైన్ + షాడో |
+| కింది లైన్ (కింది 12%) | రామరాజ్య వైభవం | తెలుపు, సెమీ-బోల్డ్ |
+| బ్యాడ్జ్ (పై ఎడమ) | బాలకాండ · సర్గ 1 · శ్లోకం 94 | కాషాయ పట్టీ, తెలుపు అక్షరాలు |
+
+- **ఫాంట్:** Noto Sans Telugu ExtraBold లేదా Gidugu. హెడ్‌లైన్ 2 లైన్లలోపు.
+- **బొమ్మ:** పాత్ర ముఖం కింది-మధ్యలో, కళ్ళు స్పష్టంగా.
+- **రిఫరెన్స్:** `RAMA_S5.png`
+- బ్యాక్‌గ్రౌండ్ ఈ ప్రాంప్ట్‌తో చేసి, టెక్స్ట్ Canva / ఎడిటర్‌లో వేయండి.
+
+```text
+Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters: King Sri Rama (Rama Pattabhishekam iconography): deep blue divine skin, serene smiling face, golden kireetam crown, yellow silk pitambara and royal jewellery, Kodanda bow, radiant divine aura, white Vishnu namam with a red centre line on the forehead. Scene: Rama performing a yagna. Make it a bold, emotional close-up of the main character or symbol in the lower-middle of the frame, strong expression, high contrast, glowing rim light. Warm fire glow. Keep the top 35% of the frame a clean dark gradient or soft sky with no important detail (space for a headline) and the bottom 12% calm and plain (space for a small line). This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, numbers, logos or watermarks in the image.
+```
+
+## 7. YouTube అప్‌లోడ్
+
+**టైటిల్:**
+
+```text
+కృతయుగం లాంటి రామరాజ్యం! 🔱 | Ramayanam Shorts
+```
+
+**వివరణ (Description):**
+
+```text
+కృతయుగం లాంటి రామరాజ్యం! 🔱 | Ramayanam Shorts
+
+నిత్యం ప్రముదితాః సర్వే యథా కృతయుగే తథా ।
+అశ్వమేధశతైరిష్ట్వా తథా బహుసువర్ణకైః ॥ 94 ॥
+
+తాత్పర్యం:
+"కృతయుగంలో లాగా అందరూ ఎప్పుడూ ఆనందంగా ఉంటారు. రాముడు వందలాది అశ్వమేధ యాగాలు, ఎంతో బంగారం దక్షిణగా ఇచ్చే బహుసువర్ణక యాగాలు చేసి..."
+
+📖 మూలం: శ్రీమద్వాల్మీకి రామాయణం · బాలకాండ · సర్గ 1 · శ్లోకం 94
+🙏 శ్లోకం శ్లోకంగా వాల్మీకి రామాయణం – అర్థం, జీవిత పాఠంతో.
+
+#shorts #ramayanam #telugushorts #devotional #shloka #ramayanintelugu #valmikiramayanam
+```
+
+**పిన్ కామెంట్:**
+
+```text
+ఈ రోజుల్లో కృతయుగం సాధ్యమేనా?
+```
+
+**క్యాప్షన్ ఫైల్:** [captions/Sloka_094.srt](captions/Sloka_094.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.

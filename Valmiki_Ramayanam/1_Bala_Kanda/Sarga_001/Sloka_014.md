@@ -1,0 +1,163 @@
+# బాలకాండ · సర్గ 1 · శ్లోకం 14
+
+**ఈ ఫైల్‌లో:** 1. శ్లోకం · 2. ప్రతిపదార్థం · 3. తాత్పర్యం · 4. నెరేషన్ · 5. Flow క్లిప్‌లు · 6. థంబ్‌నెయిల్ · 7. YouTube అప్‌లోడ్
+
+## 1. శ్లోకం
+
+రక్షితా స్వస్య ధర్మస్య స్వజనస్య చ రక్షితా ।  
+వేదవేదాఙ్గతత్త్వజ్ఞో ధనుర్వేదే చ నిష్ఠితః ॥ 14 ॥
+
+## 2. ప్రతిపదార్థం
+
+- స్వస్య ధర్మస్య రక్షితా: తన ధర్మాన్ని (తన కర్తవ్యాన్ని) కాపాడుకునేవాడు
+- స్వజనస్య చ రక్షితా: తనవారిని కూడా కాపాడేవాడు
+- వేదవేదాఙ్గతత్త్వజ్ఞః: వేదాల, వేదాంగాల సారం తెలిసినవాడు
+- ధనుర్వేదే చ నిష్ఠితః: విలువిద్యలో (ధనుర్వేదంలో) ఆరితేరినవాడు
+
+## 3. తాత్పర్యం
+
+"ఆయన తన ధర్మాన్ని తప్పకుండా పాటిస్తాడు, తనను నమ్ముకున్నవారిని కాపాడతాడు. వేదాల, వేదాంగాల సారాన్ని పూర్తిగా తెలుసుకున్నవాడు. విలువిద్యలో ఆరితేరినవాడు."
+
+## 4. నెరేషన్ స్క్రిప్ట్ (~45 సెకన్లు)
+
+### 0:00 – 0:04 · హుక్
+
+- **విజువల్:** ఒక చేతిలో తాళపత్రాలు, మరో చేతిలో ధనుస్సు – రాముడి సిల్హౌట్.
+- **వాయిస్ (నాటకీయంగా):** పుస్తకాల జ్ఞానమా? చేతిలో బలమా? ఏది ముఖ్యం? రాముడి దగ్గర రెండూ ఉన్నాయి!
+- **తెరపై టెక్స్ట్:** జ్ఞానమా? బలమా?
+
+### 0:04 – 0:15 · శ్లోక పఠనం
+
+- **విజువల్:** గురుకులంలో వేదాలు నేర్చుకుంటున్న బాల రాముడు. శ్లోకం తెరపై.
+- **వాయిస్ (శ్రావ్యంగా, స్పష్టంగా):**
+
+> రక్షితా స్వస్య ధర్మస్య స్వజనస్య చ రక్షితా ।  
+> వేదవేదాఙ్గతత్త్వజ్ఞో ధనుర్వేదే చ నిష్ఠితః ॥ 14 ॥  
+
+### 0:15 – 0:38 · తాత్పర్యం & జీవిత పాఠం
+
+- **విజువల్:** వేదపాఠం నుండి విలువిద్య అభ్యాసానికి మారే దృశ్యం.
+- **వాయిస్ (సంభాషణ శైలిలో):** నారద మహర్షి మాటల్లో, రాముడు తన ధర్మాన్ని కాపాడుకుంటాడు, తనవారిని కాపాడుకుంటాడు. వేదాల, వేదాంగాల సారం తెలిసినవాడు, విలువిద్యలో ఆరితేరినవాడు. జ్ఞానం లేని బలం ప్రమాదం, బలం లేని జ్ఞానం నిస్సహాయం. రెండూ కలిస్తేనే సంపూర్ణ వ్యక్తిత్వం.
+- **తెరపై టెక్స్ట్:** స్వధర్మ రక్షితా | వేదవేదాంగ తత్త్వజ్ఞః | ధనుర్వేదే నిష్ఠితః
+
+### 0:38 – 0:45 · ముగింపు & CTA
+
+- **విజువల్:** రాముడి కళ్ళలో జ్ఞాన కాంతి.
+- **వాయిస్ (వేగంగా, ముగింపు స్వరం లేకుండా):** రాముడి జ్ఞాపకశక్తి, ప్రతిభ గురించి నారదుడు ఏం చెప్పారో తరువాతి షార్ట్‌లో! ప్రతి శ్లోకాన్ని అర్థంతో తెలుసుకోవడానికి ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!
+
+## 5. Google Flow వీడియో క్లిప్‌లు (9:16 · ఒక్కోటి 8 సె)
+
+ప్రతి క్లిప్‌కు ఒకే ప్రాంప్ట్. **రిఫరెన్స్** లో ఉన్న ఇమేజ్‌లను Flow లో *Ingredients* గా జత చేయండి ([00_CHARACTER_REFERENCE_SHEETS.md](../../00_CHARACTER_REFERENCE_SHEETS.md)). క్లిప్‌ను ఇచ్చిన సమయానికి ట్రిమ్ చేయండి.
+
+### క్లిప్ 1 · 0:00 – 0:04 · హుక్
+
+- **నెరేషన్:** పుస్తకాల జ్ఞానమా? చేతిలో బలమా? ఏది ముఖ్యం? రాముడి దగ్గర రెండూ ఉన్నాయి!
+- **రిఫరెన్స్:** `RAMA_S2.png`
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): Prince Rama, avatar of Lord Vishnu, in traditional iconography: deep blue (neela-megha) divine skin, gentle serene smile, large lotus-like eyes, long dark hair, graceful noble build, yellow-gold silk dhoti with angavastram, simple gold earrings, armbands and necklace, Kodanda bow and quiver, subtle divine glow, white Vishnu namam with a red centre line on the forehead. Opening frame: Rama's silhouette holding a palm-leaf scroll in one hand and a bow in the other against a sunset. Then: Both the scroll and the bow glow brighter. Camera: Slow low-angle push-in. Lighting and effects: Orange-gold sunset, glowing rim. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 2 · 0:04 – 0:10 · శ్లోక పఠనం – 1
+
+- **నెరేషన్:** రక్షితా స్వస్య ధర్మస్య స్వజనస్య చ రక్షితా ।
+- **రిఫరెన్స్:** `RAMA_S2.png` · `VASHISHTHA.png`
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): Prince Rama, avatar of Lord Vishnu, in traditional iconography: deep blue (neela-megha) divine skin, gentle serene smile, large lotus-like eyes, long dark hair, graceful noble build, yellow-gold silk dhoti with angavastram, simple gold earrings, armbands and necklace, Kodanda bow and quiver, subtle divine glow, white Vishnu namam with a red centre line on the forehead; Sage Vashishtha: venerable elderly royal guru, white beard and matted hair tied up, calm authoritative face, white robes, white Vishnu namam with a red centre line on the forehead. Opening frame: Young Rama studying palm-leaf Vedas with Sage Vashishtha in a gurukul. Then: Rama reads with focus, Vashishtha nods approvingly. Camera: Slow side dolly. Lighting and effects: Warm lamp light, floating dust. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 3 · 0:10 – 0:15 · శ్లోక పఠనం – 2
+
+- **నెరేషన్:** వేదవేదాఙ్గతత్త్వజ్ఞో ధనుర్వేదే చ నిష్ఠితః ॥ 14 ॥
+- **రిఫరెన్స్:** `RAMA_S2.png`
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): Prince Rama, avatar of Lord Vishnu, in traditional iconography: deep blue (neela-megha) divine skin, gentle serene smile, large lotus-like eyes, long dark hair, graceful noble build, yellow-gold silk dhoti with angavastram, simple gold earrings, armbands and necklace, Kodanda bow and quiver, subtle divine glow, white Vishnu namam with a red centre line on the forehead. Opening frame: Rama practising archery, hitting a distant target. Then: He releases an arrow which flies in slow motion and strikes the centre. Camera: Tracking shot following the arrow. Lighting and effects: Golden morning light, motion trails. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 4 · 0:15 – 0:23 · తాత్పర్యం – 1
+
+- **నెరేషన్:** నారద మహర్షి మాటల్లో, రాముడు తన ధర్మాన్ని కాపాడుకుంటాడు, తనవారిని కాపాడుకుంటాడు.
+- **రిఫరెన్స్:** `RAMA_S2.png`
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): Prince Rama, avatar of Lord Vishnu, in traditional iconography: deep blue (neela-megha) divine skin, gentle serene smile, large lotus-like eyes, long dark hair, graceful noble build, yellow-gold silk dhoti with angavastram, simple gold earrings, armbands and necklace, Kodanda bow and quiver, subtle divine glow, white Vishnu namam with a red centre line on the forehead. Opening frame: Rama standing protectively in front of a family of stylized villagers. Then: He spreads one arm protectively, the family looks at him with trust. Camera: Slow push-in. Lighting and effects: Warm protective glow. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 5 · 0:23 – 0:31 · తాత్పర్యం – 2
+
+- **నెరేషన్:** వేదాల, వేదాంగాల సారం తెలిసినవాడు, విలువిద్యలో ఆరితేరినవాడు. జ్ఞానం లేని బలం ప్రమాదం, బలం లేని జ్ఞానం నిస్సహాయం.
+- **రిఫరెన్స్:** `RAMA_S2.png`
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): Prince Rama, avatar of Lord Vishnu, in traditional iconography: deep blue (neela-megha) divine skin, gentle serene smile, large lotus-like eyes, long dark hair, graceful noble build, yellow-gold silk dhoti with angavastram, simple gold earrings, armbands and necklace, Kodanda bow and quiver, subtle divine glow, white Vishnu namam with a red centre line on the forehead. Opening frame: Rama chanting with eyes closed, glowing Vedic syllable shapes (abstract light, not letters) floating around him. Then: The light shapes orbit him slowly. Camera: Slow orbit. Lighting and effects: Golden mystical light. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 6 · 0:31 – 0:38 · జీవిత పాఠం
+
+- **నెరేషన్:** రెండూ కలిస్తేనే సంపూర్ణ వ్యక్తిత్వం.
+- **రిఫరెన్స్:** అవసరం లేదు
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Opening frame: Symbolic shot: a palm-leaf scroll and a bow placed together on an altar, both glowing. Then: Light from the scroll and the bow merge into one bright flame. Camera: Slow push-in. Lighting and effects: Golden sparks, warm glow. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 7 · 0:38 – 0:45 · ముగింపు & CTA
+
+- **నెరేషన్:** రాముడి జ్ఞాపకశక్తి, ప్రతిభ గురించి నారదుడు ఏం చెప్పారో తరువాతి షార్ట్‌లో! ప్రతి శ్లోకాన్ని అర్థంతో తెలుసుకోవడానికి ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!
+- **రిఫరెన్స్:** `RAMA_S2.png`
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): Prince Rama, avatar of Lord Vishnu, in traditional iconography: deep blue (neela-megha) divine skin, gentle serene smile, large lotus-like eyes, long dark hair, graceful noble build, yellow-gold silk dhoti with angavastram, simple gold earrings, armbands and necklace, Kodanda bow and quiver, subtle divine glow, white Vishnu namam with a red centre line on the forehead. Opening frame: Close-up of Rama's eyes shining with wisdom. Then: A gentle glow appears in his eyes, motion slows. Camera: Slow push-in. Lighting and effects: Soft golden flash. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+## 6. థంబ్‌నెయిల్ (1080×1920)
+
+| భాగం | టెక్స్ట్ | రూపం |
+|---|---|---|
+| హెడ్‌లైన్ (పై 35%) | **జ్ఞానమా? బలమా?** | తెలుపు, **బలమా** పసుపు (#FFD700), నల్ల అవుట్‌లైన్ + షాడో |
+| కింది లైన్ (కింది 12%) | రాముడి దగ్గర రెండూ! | తెలుపు, సెమీ-బోల్డ్ |
+| బ్యాడ్జ్ (పై ఎడమ) | బాలకాండ · సర్గ 1 · శ్లోకం 14 | కాషాయ పట్టీ, తెలుపు అక్షరాలు |
+
+- **ఫాంట్:** Noto Sans Telugu ExtraBold లేదా Gidugu. హెడ్‌లైన్ 2 లైన్లలోపు.
+- **బొమ్మ:** పాత్ర ముఖం కింది-మధ్యలో, కళ్ళు స్పష్టంగా.
+- **రిఫరెన్స్:** `RAMA_S2.png`
+- బ్యాక్‌గ్రౌండ్ ఈ ప్రాంప్ట్‌తో చేసి, టెక్స్ట్ Canva / ఎడిటర్‌లో వేయండి.
+
+```text
+Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters: Prince Rama, avatar of Lord Vishnu, in traditional iconography: deep blue (neela-megha) divine skin, gentle serene smile, large lotus-like eyes, long dark hair, graceful noble build, yellow-gold silk dhoti with angavastram, simple gold earrings, armbands and necklace, Kodanda bow and quiver, subtle divine glow, white Vishnu namam with a red centre line on the forehead. Scene: Rama's silhouette holding a palm-leaf scroll in one hand and a bow in the other against a sunset. Make it a bold, emotional close-up of the main character or symbol in the lower-middle of the frame, strong expression, high contrast, glowing rim light. Orange-gold sunset, glowing rim. Keep the top 35% of the frame a clean dark gradient or soft sky with no important detail (space for a headline) and the bottom 12% calm and plain (space for a small line). This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, numbers, logos or watermarks in the image.
+```
+
+## 7. YouTube అప్‌లోడ్
+
+**టైటిల్:**
+
+```text
+జ్ఞానం + బలం = శ్రీరాముడు! 📜🏹 | Ramayanam Shorts
+```
+
+**వివరణ (Description):**
+
+```text
+జ్ఞానం + బలం = శ్రీరాముడు! 📜🏹 | Ramayanam Shorts
+
+రక్షితా స్వస్య ధర్మస్య స్వజనస్య చ రక్షితా ।
+వేదవేదాఙ్గతత్త్వజ్ఞో ధనుర్వేదే చ నిష్ఠితః ॥ 14 ॥
+
+తాత్పర్యం:
+"ఆయన తన ధర్మాన్ని తప్పకుండా పాటిస్తాడు, తనను నమ్ముకున్నవారిని కాపాడతాడు. వేదాల, వేదాంగాల సారాన్ని పూర్తిగా తెలుసుకున్నవాడు. విలువిద్యలో ఆరితేరినవాడు."
+
+📖 మూలం: శ్రీమద్వాల్మీకి రామాయణం · బాలకాండ · సర్గ 1 · శ్లోకం 14
+🙏 శ్లోకం శ్లోకంగా వాల్మీకి రామాయణం – అర్థం, జీవిత పాఠంతో.
+
+#shorts #ramayanam #telugushorts #devotional #shloka #ramayanintelugu #valmikiramayanam
+```
+
+**పిన్ కామెంట్:**
+
+```text
+మీకు జ్ఞానం ఎక్కువ ముఖ్యమా, బలమా? ఎందుకు?
+```
+
+**క్యాప్షన్ ఫైల్:** [captions/Sloka_014.srt](captions/Sloka_014.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.

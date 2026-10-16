@@ -1,0 +1,163 @@
+# బాలకాండ · సర్గ 1 · శ్లోకం 80
+
+**ఈ ఫైల్‌లో:** 1. శ్లోకం · 2. ప్రతిపదార్థం · 3. తాత్పర్యం · 4. నెరేషన్ · 5. Flow క్లిప్‌లు · 6. థంబ్‌నెయిల్ · 7. YouTube అప్‌లోడ్
+
+## 1. శ్లోకం
+
+దర్శయామాస చాత్మానం సముద్రః సరితాం పతిః ।  
+సముద్రవచనాచ్చైవ నలం సేతుమకారయత్ ॥ 80 ॥
+
+## 2. ప్రతిపదార్థం
+
+- సరితామ్ పతిః సముద్రః: నదులకు భర్త అయిన సముద్రుడు
+- ఆత్మానమ్ దర్శయామాస చ: తనంతట తానే ప్రత్యక్షమయ్యాడు
+- సముద్రవచనాత్ చ ఏవ: సముద్రుడు చెప్పిన మాట ప్రకారం
+- నలమ్ సేతుమ్ అకారయత్: నలుడి చేత వారధి కట్టించాడు
+
+## 3. తాత్పర్యం
+
+"అప్పుడు నదులకు అధిపతి అయిన సముద్రుడు స్వయంగా ప్రత్యక్షమయ్యాడు. సముద్రుడు చెప్పిన ఉపాయం ప్రకారం రాముడు నలుడు అనే వానరుడి చేత సముద్రంపై వారధి కట్టించాడు."
+
+## 4. నెరేషన్ స్క్రిప్ట్ (~45 సెకన్లు)
+
+### 0:00 – 0:04 · హుక్
+
+- **విజువల్:** సముద్రం మీద తేలుతున్న రాళ్ళు, వరుసగా కడుతున్న వానరులు.
+- **వాయిస్ (నాటకీయంగా):** సముద్రం మీద వంతెన... వేల ఏళ్ళ క్రితమే! రామసేతు కథ వినండి!
+- **తెరపై టెక్స్ట్:** రామసేతు!
+
+### 0:04 – 0:15 · శ్లోక పఠనం
+
+- **విజువల్:** చేతులు జోడించి ప్రత్యక్షమైన సముద్రుడు. శ్లోకం తెరపై.
+- **వాయిస్ (శ్రావ్యంగా, స్పష్టంగా):**
+
+> దర్శయామాస చాత్మానం సముద్రః సరితాం పతిః ।  
+> సముద్రవచనాచ్చైవ నలం సేతుమకారయత్ ॥ 80 ॥  
+
+### 0:15 – 0:38 · తాత్పర్యం & జీవిత పాఠం
+
+- **విజువల్:** నలుడి నాయకత్వంలో వానరులు రాళ్ళు, చెట్లు మోస్తున్న దృశ్యం.
+- **వాయిస్ (సంభాషణ శైలిలో):** నారదుడు చెబుతున్నారు: నదులకు అధిపతి అయిన సముద్రుడు స్వయంగా ప్రత్యక్షమయ్యాడు. అతను చెప్పిన ఉపాయం ప్రకారం రాముడు నలుడి చేత వారధి కట్టించాడు. అసాధ్యమైన పని కూడా సరైన నైపుణ్యం ఉన్నవారికి అప్పగిస్తే సాధ్యమవుతుంది. ఒక్కొక్క రాయి కలిసి సేతువు అయింది.
+- **తెరపై టెక్స్ట్:** సముద్రుడు | నలుడు | సేతు
+
+### 0:38 – 0:45 · ముగింపు & CTA
+
+- **విజువల్:** సేతువు మీదుగా లంక వైపు కదులుతున్న వానర సైన్యం.
+- **వాయిస్ (వేగంగా, ముగింపు స్వరం లేకుండా):** సేతువు దాటిన రాముడు లంకలో ఏం చేశాడు? తరువాతి షార్ట్‌లో! ఈ ధర్మ ప్రయాణంలో మాతో కలవడానికి సబ్‌స్క్రైబ్ చేయండి!
+
+## 5. Google Flow వీడియో క్లిప్‌లు (9:16 · ఒక్కోటి 8 సె)
+
+ప్రతి క్లిప్‌కు ఒకే ప్రాంప్ట్. **రిఫరెన్స్** లో ఉన్న ఇమేజ్‌లను Flow లో *Ingredients* గా జత చేయండి ([00_CHARACTER_REFERENCE_SHEETS.md](../../00_CHARACTER_REFERENCE_SHEETS.md)). క్లిప్‌ను ఇచ్చిన సమయానికి ట్రిమ్ చేయండి.
+
+### క్లిప్ 1 · 0:00 – 0:04 · హుక్
+
+- **నెరేషన్:** సముద్రం మీద వంతెన... వేల ఏళ్ళ క్రితమే! రామసేతు కథ వినండి!
+- **రిఫరెన్స్:** అవసరం లేదు
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): a vast army of varied vanara warriors in traditional dhotis and sashes, different fur tones and builds, white Vishnu namam with a red centre line on the forehead. Opening frame: Vanaras placing floating stones on the sea, building a bridge. Then: Stones float as the bridge extends. Camera: Slow aerial glide. Lighting and effects: Golden sunset. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 2 · 0:04 – 0:10 · శ్లోక పఠనం – 1
+
+- **నెరేషన్:** దర్శయామాస చాత్మానం సముద్రః సరితాం పతిః ।
+- **రిఫరెన్స్:** `SAMUDRA.png` · `RAMA_S4.png`
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): Samudra Raja, the ocean god in traditional iconography: majestic deity rising from the waves, blue-green skin, crown of pearls and coral, silk garments, palms joined; Rama in deep exile, avatar of Lord Vishnu: deep blue divine skin, calm composed face, large lotus-like eyes, full coiled jata, beard, saffron-ochre bark-cloth dhoti and upper cloth, no jewellery, Kodanda bow and quiver, subtle divine glow, white Vishnu namam with a red centre line on the forehead. Opening frame: The ocean god bowing before Rama. Then: He joins his hands. Camera: Slow push-in. Lighting and effects: Blue-green glow. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 3 · 0:10 – 0:15 · శ్లోక పఠనం – 2
+
+- **నెరేషన్:** సముద్రవచనాచ్చైవ నలం సేతుమకారయత్ ॥ 80 ॥
+- **రిఫరెన్స్:** `NALA.png`
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): Nala the vanara architect: noble heroic vanara warrior in traditional devotional iconography: human-proportioned muscular body standing upright, expressive kind monkey face, fur on face, head and lower limbs, long tail, never a realistic animal ape, sandy-brown fur, simple dhoti and builder's sash, white Vishnu namam with a red centre line on the forehead. Opening frame: Nala directing the vanaras. Then: He points and guides. Camera: Slow push-in. Lighting and effects: Golden light. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 4 · 0:15 – 0:23 · తాత్పర్యం – 1
+
+- **నెరేషన్:** నారదుడు చెబుతున్నారు: నదులకు అధిపతి అయిన సముద్రుడు స్వయంగా ప్రత్యక్షమయ్యాడు. అతను చెప్పిన ఉపాయం ప్రకారం రాముడు నలుడి చేత వారధి కట్టించాడు.
+- **రిఫరెన్స్:** అవసరం లేదు
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): a vast army of varied vanara warriors in traditional dhotis and sashes, different fur tones and builds, white Vishnu namam with a red centre line on the forehead. Opening frame: Vanaras carrying rocks and trees. Then: They pass rocks in a chain. Camera: Slow tracking. Lighting and effects: Golden dust. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 5 · 0:23 – 0:31 · తాత్పర్యం – 2
+
+- **నెరేషన్:** అసాధ్యమైన పని కూడా సరైన నైపుణ్యం ఉన్నవారికి అప్పగిస్తే సాధ్యమవుతుంది.
+- **రిఫరెన్స్:** అవసరం లేదు
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Opening frame: The bridge stretching across the ocean. Then: The bridge extends into the distance. Camera: Slow aerial push. Lighting and effects: Golden-blue light. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 6 · 0:31 – 0:38 · జీవిత పాఠం
+
+- **నెరేషన్:** ఒక్కొక్క రాయి కలిసి సేతువు అయింది.
+- **రిఫరెన్స్:** అవసరం లేదు
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Opening frame: Symbolic shot: many small stones joining into a strong road. Then: Stones lock together. Camera: Slow macro push-in. Lighting and effects: Golden glow. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 7 · 0:38 – 0:45 · ముగింపు & CTA
+
+- **నెరేషన్:** సేతువు దాటిన రాముడు లంకలో ఏం చేశాడు? తరువాతి షార్ట్‌లో! ఈ ధర్మ ప్రయాణంలో మాతో కలవడానికి సబ్‌స్క్రైబ్ చేయండి!
+- **రిఫరెన్స్:** అవసరం లేదు
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): a vast army of varied vanara warriors in traditional dhotis and sashes, different fur tones and builds, white Vishnu namam with a red centre line on the forehead. Opening frame: The vanara army crossing the bridge. Then: They march forward, motion slows. Camera: Slow aerial tracking. Lighting and effects: Golden light, soft flash. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+## 6. థంబ్‌నెయిల్ (1080×1920)
+
+| భాగం | టెక్స్ట్ | రూపం |
+|---|---|---|
+| హెడ్‌లైన్ (పై 35%) | **రామసేతు!** | తెలుపు, **రామసేతు** పసుపు (#FFD700), నల్ల అవుట్‌లైన్ + షాడో |
+| కింది లైన్ (కింది 12%) | సముద్రం మీద వంతెన | తెలుపు, సెమీ-బోల్డ్ |
+| బ్యాడ్జ్ (పై ఎడమ) | బాలకాండ · సర్గ 1 · శ్లోకం 80 | కాషాయ పట్టీ, తెలుపు అక్షరాలు |
+
+- **ఫాంట్:** Noto Sans Telugu ExtraBold లేదా Gidugu. హెడ్‌లైన్ 2 లైన్లలోపు.
+- **బొమ్మ:** పాత్ర ముఖం కింది-మధ్యలో, కళ్ళు స్పష్టంగా.
+- **రిఫరెన్స్:** అవసరం లేదు
+- బ్యాక్‌గ్రౌండ్ ఈ ప్రాంప్ట్‌తో చేసి, టెక్స్ట్ Canva / ఎడిటర్‌లో వేయండి.
+
+```text
+Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters: a vast army of varied vanara warriors in traditional dhotis and sashes, different fur tones and builds, white Vishnu namam with a red centre line on the forehead. Scene: Vanaras placing floating stones on the sea, building a bridge. Make it a bold, emotional close-up of the main character or symbol in the lower-middle of the frame, strong expression, high contrast, glowing rim light. Golden sunset. Keep the top 35% of the frame a clean dark gradient or soft sky with no important detail (space for a headline) and the bottom 12% calm and plain (space for a small line). This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, numbers, logos or watermarks in the image.
+```
+
+## 7. YouTube అప్‌లోడ్
+
+**టైటిల్:**
+
+```text
+రామసేతు నిర్మాణం! 🌉 | Ramayanam Shorts
+```
+
+**వివరణ (Description):**
+
+```text
+రామసేతు నిర్మాణం! 🌉 | Ramayanam Shorts
+
+దర్శయామాస చాత్మానం సముద్రః సరితాం పతిః ।
+సముద్రవచనాచ్చైవ నలం సేతుమకారయత్ ॥ 80 ॥
+
+తాత్పర్యం:
+"అప్పుడు నదులకు అధిపతి అయిన సముద్రుడు స్వయంగా ప్రత్యక్షమయ్యాడు. సముద్రుడు చెప్పిన ఉపాయం ప్రకారం రాముడు నలుడు అనే వానరుడి చేత సముద్రంపై వారధి కట్టించాడు."
+
+📖 మూలం: శ్రీమద్వాల్మీకి రామాయణం · బాలకాండ · సర్గ 1 · శ్లోకం 80
+🙏 శ్లోకం శ్లోకంగా వాల్మీకి రామాయణం – అర్థం, జీవిత పాఠంతో.
+
+#shorts #ramayanam #telugushorts #devotional #shloka #ramayanintelugu #valmikiramayanam
+```
+
+**పిన్ కామెంట్:**
+
+```text
+"జై శ్రీరామ్" అని రాసి రామసేతుకు నమస్కరించండి 🚩
+```
+
+**క్యాప్షన్ ఫైల్:** [captions/Sloka_080.srt](captions/Sloka_080.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
