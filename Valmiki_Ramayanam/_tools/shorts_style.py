@@ -10,7 +10,8 @@ STYLE = ("traditional Indian devotional epic art brought to life as premium cine
          "inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, "
          "stylized (not photorealistic) characters with divine, graceful, dignified features faithful to "
          "traditional Hindu iconography, rich jewel-tone colours with temple-gold accents, ancient South Indian "
-         "temple-era architecture and forests, volumetric god rays, soft glowing divine light, high detail, "
+         "temple-era architecture; forest and ashram settings are lush, green and serene with flowering trees, "
+         "clear rivers and streams, deer, peacocks and birds (darker only where the scene says so); volumetric god rays, soft glowing divine light, high detail, "
          "smooth fluid motion, reverent devotional mood")
 
 RESPECT = ("This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character "
