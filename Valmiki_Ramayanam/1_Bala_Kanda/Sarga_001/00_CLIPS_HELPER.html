@@ -223,7 +223,8 @@ h1 mark { background: none; color: var(--saffron); }
   function renderClips(s) {
     const p = $('panel');
     if (s.sloka.length) {
-      const sl = el('div', 'sloka'); s.sloka.forEach((l) => sl.append(el('p', '', l)));
+      const sl = el('div', 'sloka'); if (D.scriptTitle) sl.append(el('div', 'eyebrow', D.scriptTitle));
+      s.sloka.forEach((l) => sl.append(el('p', '', l)));
       if (s.reading) { const r = el('div', 'read'); r.append(el('div', 'eyebrow', 'చదవడానికి సులువుగా')); s.reading.forEach((l) => r.append(el('div', '', l))); sl.append(r); }
       p.append(sl);
     }

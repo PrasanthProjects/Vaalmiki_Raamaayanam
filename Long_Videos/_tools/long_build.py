@@ -206,45 +206,134 @@ def srt(scenes):
 
 # ---------- one episode ----------
 
-def build_episode(ep, d, refs_used):
+CTAS = [
+    'రామాయణాన్ని మొదటి నుండి చివరి వరకు భాగం భాగంగా వినడానికి ఛానల్‌ని సబ్‌స్క్రైబ్ చేసి, బెల్ ఐకాన్ నొక్కండి.',
+    'ఈ భాగం నచ్చితే లైక్ చేసి, మీ కుటుంబంతో షేర్ చేయండి. తరువాతి భాగం కోసం సబ్‌స్క్రైబ్ చేయండి.',
+    'మీ అభిప్రాయం కామెంట్‌లో రాయండి. తరువాతి భాగం మిస్ అవ్వకుండా ఇప్పుడే సబ్‌స్క్రైబ్ చేయండి.',
+    'రాముడి కథను మీ పిల్లలకూ వినిపించండి. మరిన్ని భాగాల కోసం మన ఛానల్‌లో చేరండి.',
+    'ప్రతి భాగం ఒక జీవిత పాఠం. ఒక్కటీ మిస్ అవ్వకుండా బెల్ ఐకాన్ నొక్కండి.',
+    'ఈ పుణ్య కథను నలుగురితో పంచుకోండి. సబ్‌స్క్రైబ్ చేసి ఈ ప్రయాణంలో మాతో ఉండండి.',
+    '"జై శ్రీరామ్" అని కామెంట్ చేయండి. తరువాతి భాగంలో మళ్ళీ కలుద్దాం.',
+]
+CTA_VISUAL = ('A glowing palm-leaf manuscript of the Ramayana resting on a carved wooden stand beside a lit brass oil '
+              'lamp in a quiet temple courtyard at golden hour, marigold petals around it')
+TEASER_STARTS = ('తర్వాత', 'తరువాత', 'తర్వాతి', 'ఇది బాలకాండ')
+
+
+def read_narration(path):
+    """Shorts-style spoken layers per episode: hook, one bridge per chapter change, life lesson."""
+    out = {}
+    if not os.path.exists(path):
+        return out
+    for blk in re.split(r'^### ', open(path, encoding='utf-8').read(), flags=re.M)[1:]:
+        ep, body = blk.split('\n', 1)
+        f = dict(l.split(': ', 1) for l in body.strip().split('\n') if ': ' in l)
+        out[ep.strip()] = {'hook_from': int(f['HOOK_FROM']), 'hook': f['HOOK'].strip(),
+                           'bridges': [b.strip() for b in f['BRIDGES'].split(' ; ')], 'lesson': f['LESSON'].strip()}
+    return out
+
+
+def speak_secs(text):
+    """Rough Telugu speaking time: about 2.2 words a second, plus a breath."""
+    return max(4, math.ceil(len(text.split()) / 2.2) + 1)
+
+
+def lesson_item(extra, scenes):
+    pick = next((s for s in scenes if names_in(s['visual'])), scenes[0])
+    return {'id': 'L', 'label': 'జీవిత పాఠం', 'kind': 'image', 'secs': speak_secs(extra['lesson']),
+            'narration': extra['lesson'], 'new': True, 'loc': pick['loc'], 'onscreen': '',
+            'visual': f"A quiet, reflective close moment: {pick['visual']}. Soft warm light, calm and contemplative"}
+
+
+def sequence(scenes, d, extra, ep_index):
+    """Episode order: hook, scenes (a bridge line before each new chapter), lesson, teaser, subscribe line."""
+    seq = []
+    bridges, titles = {}, dict(d['chapters'][1:])
+    if extra:
+        assert len(extra['bridges']) == len(d['chapters']) - 1, \
+            f"{d['ep']}: {len(extra['bridges'])} bridge lines for {len(d['chapters']) - 1} chapter changes"
+        bridges = dict(zip([n for n, _ in d['chapters'][1:]], extra['bridges']))
+        src = next(s for s in scenes if s['no'] == extra['hook_from'])
+        seq.append({'id': 'H', 'label': 'హుక్', 'kind': 'video', 'secs': speak_secs(extra['hook']),
+                    'narration': extra['hook'], 'new': True, 'loc': src['loc'], 'onscreen': '',
+                    'visual': f"Fast, dramatic flash-forward teaser of the episode's biggest moment: {src['visual']}"})
+    last = scenes[-1]
+    teaser_last = last['narration'].startswith(TEASER_STARTS)
+    for s in scenes:
+        if s['no'] in bridges:
+            seq.append({'id': f"B{s['no']}", 'label': f"బ్రిడ్జ్ → {titles[s['no']]}", 'kind': 'image',
+                        'secs': speak_secs(bridges[s['no']]), 'narration': bridges[s['no']], 'new': True,
+                        'loc': s['loc'], 'onscreen': titles[s['no']],
+                        'visual': f"{s['visual']}. Composed with calm open space on one side for an on-screen chapter title"})
+        if extra and s is last and teaser_last:
+            seq.append(lesson_item(extra, scenes))
+        seq.append({'id': str(s['no']), 'label': f"సీన్ {s['no']}", 'kind': None, 'secs': s['secs'],
+                    'narration': s['narration'], 'new': False, 'visual': s['visual'], 'loc': s['loc'],
+                    'onscreen': '', 'scene': s})
+    if extra and not teaser_last:
+        seq.append(lesson_item(extra, scenes))
+    if extra:
+        cta = CTAS[ep_index % len(CTAS)]
+        seq.append({'id': 'C', 'label': 'సబ్‌స్క్రైబ్', 'kind': 'image', 'secs': speak_secs(cta), 'narration': cta,
+                    'new': True, 'visual': CTA_VISUAL, 'loc': '', 'onscreen': 'SUBSCRIBE 🔔'})
+    return seq
+
+
+def build_episode(ep, d, refs_used, extra, ep_index):
     path = episode_file(ep)
     text, tel, src, scenes = parse_episode(path)
     k = int(ep[1:].split('.')[0])
     folder, kaanda_te = KAANDAS[k]
-    kinds = kinds_for(scenes)
-    starts, t = {}, BUMPER
-    for s in scenes:
-        starts[s['no']] = t
-        t += s['secs']
+    d = dict(d, ep=ep)
+    scene_kinds = dict(zip([s['no'] for s in scenes], kinds_for(scenes)))
+    seq = sequence(scenes, d, extra, ep_index)
+    t = BUMPER
+    for item in seq:
+        item['start'] = t
+        if item['kind'] is None:
+            item['kind'] = scene_kinds[item['scene']['no']]
+        t += item['secs']
     total = t + OUTRO
 
-    # chapters: first one always at 0:00, each at least 10 s (YouTube's rules)
+    # chapters: the first at 0:00, the rest where their bridge (or first scene) starts; each at least 10 s
+    start_of = {}
+    for item in seq:
+        if item['id'].startswith('B'):
+            start_of[int(item['id'][1:])] = item['start']
+        elif 'scene' in item and item['scene']['no'] not in start_of:
+            start_of[item['scene']['no']] = item['start']
     chap = []
     for i, (n, title) in enumerate(d['chapters']):
-        assert n in starts, f'{ep}: chapter scene {n} not in the scene table'
-        chap.append((0 if i == 0 else starts[n], title))
+        assert n in start_of, f'{ep}: chapter scene {n} not in the scene table'
+        chap.append((0 if i == 0 else start_of[n], title))
     assert len(chap) >= 3, f'{ep}: YouTube needs at least 3 chapters'
     ends = [c[0] for c in chap[1:]] + [total]
     for (a, title), b in zip(chap, ends):
         assert b - a >= 10, f'{ep}: chapter "{title}" is {b - a}s (YouTube minimum is 10s)'
 
-    cards, md_scenes = [], []
-    for i, s in enumerate(scenes):
+    cards, md_items = [], []
+    for i, item in enumerate(seq):
+        s = {'visual': item['visual'], 'loc': item['loc']}
         looks, refs = scene_cast(s, ep)
         refs_used.update(refs)
-        kind = kinds[i]
+        kind, secs = item['kind'], item['secs']
         note = ''
-        if kind == 'video' and s['secs'] > 8:
-            note = f"Flow 8 సెకన్లు ఇస్తుంది; మిగిలిన {s['secs'] - 8} సె కోసం చివరి ఫ్రేమ్‌ను నెమ్మదిగా జూమ్‌తో పట్టుకోండి లేదా క్లిప్‌ను కొద్దిగా స్లో చేయండి."
-        move = '' if kind == 'video' else editor_move(s['visual'], i)
-        a = starts[s['no']]
-        card = {'no': s['no'], 'time': f"{mmss(a)} – {mmss(a + s['secs'])}", 'label': f"{s['secs']} సె",
-                'kind': kind, 'narration': s['narration'], 'refs': refs, 'move': move, 'note': note,
+        if kind == 'video' and secs > 8:
+            note = (f"Flow 8 సెకన్లు ఇస్తుంది; మిగిలిన {secs - 8} సె కోసం చివరి ఫ్రేమ్‌ను నెమ్మదిగా జూమ్‌తో "
+                    "పట్టుకోండి లేదా క్లిప్‌ను కొద్దిగా స్లో చేయండి.")
+        if item['onscreen']:
+            note = (note + ' ' if note else '') + f"తెరపై టెక్స్ట్: «{item['onscreen']}»"
+        move = '' if kind == 'video' else editor_move(item['visual'], i)
+        a = item['start']
+        card = {'no': item['id'], 'time': f"{mmss(a)} – {mmss(a + secs)}", 'label': f"{item['label']} · {secs} సె",
+                'kind': kind, 'narration': item['narration'], 'refs': refs, 'move': move, 'note': note,
                 'prompt': scene_prompt(s, kind, looks)}
         cards.append(card)
         head = '🎥 వీడియో' if kind == 'video' else '🖼️ ఇమేజ్ + కదలిక'
-        short = s['narration'] if len(s['narration']) <= 110 else s['narration'][:110].rsplit(' ', 1)[0] + '…'
-        lines = [f"#### సీన్ {s['no']} · {card['time']} · {s['secs']} సె · {head}\n",
+        star = ' · ✨ కొత్తది' if item['new'] else ''
+        nar = item['narration']
+        short = nar if item['new'] or len(nar) <= 110 else nar[:110].rsplit(' ', 1)[0] + '…'
+        lines = [f"#### {item['label']} · {card['time']} · {secs} సె · {head}{star}\n",
                  f"- **నెరేషన్:** {short}",
                  f"- **రిఫరెన్స్:** {' · '.join(f'`{r}.png`' for r in refs) if refs else 'అవసరం లేదు'}"]
         if move:
@@ -252,7 +341,11 @@ def build_episode(ep, d, refs_used):
         if note:
             lines.append(f'- **గమనిక:** {note}')
         lines.append(f"\n```text\n{card['prompt']}\n```\n")
-        md_scenes.append('\n'.join(lines))
+        md_items.append('\n'.join(lines))
+
+    tag = {'H': '[హుక్]', 'L': '[జీవిత పాఠం]', 'C': '[సబ్‌స్క్రైబ్]'}
+    recording = '\n'.join(f"{tag.get(x['id'], '[బ్రిడ్జ్]')} {x['narration']}" if x['new'] else x['narration']
+                          for x in seq)
 
     main, hl, sub = d['head']
     tprompt, trefs = thumb_prompt(scenes, ep)
@@ -269,24 +362,39 @@ def build_episode(ep, d, refs_used):
     tags = ', '.join(['రామాయణం', 'శ్రీరాముడు', 'వాల్మీకి రామాయణం', kaanda_te, tel, 'Ramayanam in Telugu',
                       'Valmiki Ramayanam', 'Telugu devotional', 'Purana Katha Shravanam'])
     srt_rel = f'Long_Videos/captions/{folder}/{ep}.srt'
-    n_video = kinds.count('video')
+    n_video = sum(c['kind'] == 'video' for c in cards)
+    n_new = sum(1 for x in seq if x['new'])
 
+    new_md = ''
+    if extra:
+        new_md = '\n'.join([
+            '### 1. 🎙️ కొత్త నెరేషన్ – Shorts శైలిలో (హుక్ · బ్రిడ్జ్‌లు · పాఠం · సబ్‌స్క్రైబ్)\n',
+            'పుస్తకంలోని కథనం (సీన్ పట్టిక) ఏమాత్రం మారలేదు. దాని చుట్టూ వీక్షకులను ఆపి ఉంచే ఈ కొత్త భాగాలు జోడించాం:\n',
+            f"- **హుక్ (0:{BUMPER:02d} నుండి, సుమారు {speak_secs(extra['hook'])} సె):** {extra['hook']}",
+            *[f"- **బ్రిడ్జ్ → {title}:** {line}" for (n, title), line in zip(d['chapters'][1:], extra['bridges'])],
+            f"- **జీవిత పాఠం:** {extra['lesson']}",
+            f"- **సబ్‌స్క్రైబ్:** {CTAS[ep_index % len(CTAS)]}\n",
+            '**పూర్తి రికార్డింగ్ స్క్రిప్ట్ (ఈ వరుసలోనే చదవండి; [ ] లో ఉన్నవి కొత్త భాగాలు):**\n',
+            f'```text\n{recording}\n```\n'])
+    n = 2 if extra else 1
     section = '\n'.join([
         START,
-        '## 🎬 లాంగ్ వీడియో కిట్ (Flow · థంబ్‌నెయిల్ · అప్‌లోడ్)\n',
-        '*ఈ భాగం పై సీన్ పట్టిక నుండి ఆటోమేటిక్‌గా తయారవుతుంది (`Long_Videos/_tools/long_build.py`). '
-        'సీన్ మార్చాలంటే పై పట్టికలో మార్చి మళ్ళీ బిల్డ్ చేయండి; ఈ భాగాన్ని చేత్తో మార్చవద్దు.*\n',
+        '## 🎬 లాంగ్ వీడియో కిట్ (నెరేషన్ · Flow · థంబ్‌నెయిల్ · అప్‌లోడ్)\n',
+        '*ఈ భాగం పై సీన్ పట్టిక, `Long_Videos/_tools/data/` నుండి ఆటోమేటిక్‌గా తయారవుతుంది. '
+        'చేత్తో మార్చవద్దు; మార్పులు అక్కడ చేసి మళ్ళీ బిల్డ్ చేయండి.*\n',
         '| | |\n|---|---|',
-        f'| వీడియో నిడివి | **{mmss(total)}** (బంపర్ {BUMPER} సె + {len(scenes)} సీన్‌లు + ఔట్రో {OUTRO} సె) |',
-        f'| క్లిప్‌లు | 🎥 వీడియో {n_video} · 🖼️ ఇమేజ్ + కదలిక {len(scenes) - n_video} |',
+        f'| వీడియో నిడివి | **{mmss(total)}** (బంపర్ {BUMPER} సె + {len(seq)} క్లిప్‌లు + ఔట్రో {OUTRO} సె) |',
+        f'| క్లిప్‌లు | 🎥 వీడియో {n_video} · 🖼️ ఇమేజ్ + కదలిక {len(seq) - n_video}'
+        + (f' · ✨ కొత్త నెరేషన్ భాగాలు {n_new}' if extra else '') + ' |',
         f'| క్యాప్షన్లు | `{srt_rel}` |',
-        f'| రిఫరెన్స్ ఇమేజ్‌లు | `Long_Videos/_reference_images/` (ప్రాంప్ట్‌లు: `Long_Videos/00_CHARACTER_REFERENCES.md`) |\n',
-        '### 1. సీన్ క్లిప్‌లు (16:9 · ఫోటోరియలిస్టిక్)\n',
+        '| రిఫరెన్స్ ఇమేజ్‌లు | `Long_Videos/_reference_images/` (ప్రాంప్ట్‌లు: `Long_Videos/00_CHARACTER_REFERENCES.md`) |\n',
+        new_md,
+        f'### {n}. క్లిప్‌లు (16:9 · ఫోటోరియలిస్టిక్)\n',
         '- **🎥 వీడియో:** Flow (Veo) లో. ముందు ఇదే ప్రాంప్ట్‌తో ఇమేజ్ చేసి, నచ్చితే *Frames to Video* లో మొదటి ఫ్రేమ్‌గా వాడండి.',
-        '- **🖼️ ఇమేజ్ + కదలిక:** ఇమేజ్ మాత్రమే చేసి, ఎడిటర్‌లో ఇచ్చిన జూమ్/ప్యాన్‌తో సీన్ నిడివి అంతా చూపించండి.',
-        '- ప్రతి క్లిప్‌కు **రిఫరెన్స్** ఇమేజ్‌లను Flow లో *Ingredients* గా జత చేయండి. సమయాలు బంపర్ ({} సె) తో కలిపి.\n'.format(BUMPER),
-        '\n'.join(md_scenes),
-        '### 2. థంబ్‌నెయిల్ (1280×720 · 16:9)\n',
+        '- **🖼️ ఇమేజ్ + కదలిక:** ఇమేజ్ మాత్రమే చేసి, ఎడిటర్‌లో ఇచ్చిన జూమ్/ప్యాన్‌తో క్లిప్ నిడివి అంతా చూపించండి.',
+        f'- ప్రతి క్లిప్‌కు **రిఫరెన్స్** ఇమేజ్‌లను Flow లో *Ingredients* గా జత చేయండి. సమయాలు బంపర్ ({BUMPER} సె) తో కలిపి.\n',
+        '\n'.join(md_items),
+        f'### {n + 1}. థంబ్‌నెయిల్ (1280×720 · 16:9)\n',
         '| భాగం | టెక్స్ట్ | రూపం |\n|---|---|---|',
         f'| హెడ్‌లైన్ (ఎడమ 45%) | **{main}** | తెలుపు, **{hl}** పసుపు (#FFD700), నల్ల అవుట్‌లైన్ + షాడో |',
         f'| కింది లైన్ | {sub} | తెలుపు, సెమీ-బోల్డ్ |',
@@ -294,7 +402,7 @@ def build_episode(ep, d, refs_used):
         f"- **రిఫరెన్స్:** {' · '.join(f'`{r}.png`' for r in trefs) if trefs else 'అవసరం లేదు'}",
         '- బ్యాక్‌గ్రౌండ్ ఈ ప్రాంప్ట్‌తో చేసి, టెక్స్ట్ Canva లో వేయండి.\n',
         f'```text\n{tprompt}\n```\n',
-        '### 3. YouTube అప్‌లోడ్\n',
+        f'### {n + 2}. YouTube అప్‌లోడ్\n',
         f'**టైటిల్:**\n\n```text\n{title}\n```\n',
         f'**వివరణ (అధ్యాయాలతో):**\n\n```text\n{desc}\n```\n',
         f"**పిన్ కామెంట్:**\n\n```text\n{d['pin']}\n```\n",
@@ -311,11 +419,11 @@ def build_episode(ep, d, refs_used):
 
     cap_dir = os.path.join(LONG, 'captions', folder)
     os.makedirs(cap_dir, exist_ok=True)
-    open(os.path.join(cap_dir, f'{ep}.srt'), 'w', encoding='utf-8', newline='\n').write(srt(scenes))
+    open(os.path.join(cap_dir, f'{ep}.srt'), 'w', encoding='utf-8', newline='\n').write(srt(seq))
 
     return k, {'n': ep, 'headline': main, 'hl': hl, 'sub': sub, 'badge': f'{kaanda_te} · {ep} · {mmss(total)}',
-               'title': title, 'sloka': [], 'reading': None, 'clips': cards, 'thumbPrompt': tprompt,
-               'thumbRefs': trefs, 'desc': desc, 'pinned': d['pin'], 'srt': srt_rel}
+               'title': title, 'sloka': recording.split('\n') if extra else [], 'reading': None, 'clips': cards,
+               'thumbPrompt': tprompt, 'thumbRefs': trefs, 'desc': desc, 'pinned': d['pin'], 'srt': srt_rel}
 
 
 # ---------- references and helper pages ----------
@@ -346,11 +454,13 @@ def reference_file(refs):
 def main(data_path):
     tpl_path = os.path.join(ROOT, 'Valmiki_Ramayanam', '_tools', 'flow_helper_template.html')
     data = read_data(data_path)
+    extras = read_narration(data_path.replace('.txt', '_narration.txt'))
     refs_used, by_kaanda = set(), {}
-    for ep, d in data.items():
-        k, page = build_episode(ep, d, refs_used)
+    for i, (ep, d) in enumerate(data.items()):
+        k, page = build_episode(ep, d, refs_used, extras.get(ep), i)
         by_kaanda.setdefault(max(k, 1), []).append(page)  # Parichayam shares the Baala page
-        print(f"{ep}: {len(page['clips'])} scenes, {sum(c['kind'] == 'video' for c in page['clips'])} video")
+        print(f"{ep}: {len(page['clips'])} clips, {sum(c['kind'] == 'video' for c in page['clips'])} video, "
+              f"{page['badge'].split(' · ')[-1]}")
     ref_md, ref_items = reference_file(refs_used)
     open(os.path.join(LONG, '00_CHARACTER_REFERENCES.md'), 'w', encoding='utf-8', newline='\n').write(ref_md)
     tpl = open(tpl_path, encoding='utf-8').read()
@@ -359,7 +469,8 @@ def main(data_path):
         folder, kaanda_te = KAANDAS[k]
         label = 'పరిచయం + ' + kaanda_te if any(p['n'].startswith('E0.') for p in pages) else kaanda_te
         payload = {'key': f'long_{k}', 'name': f'{label} – లాంగ్ వీడియోలు', 'slokas': pages, 'refs': ref_items,
-                   'unit': 'భాగాలు', 'clipWord': 'సీన్', 'subtitle': 'ప్రతి సీన్‌కు Flow ప్రాంప్ట్, థంబ్‌నెయిల్, అప్‌లోడ్'}
+                   'unit': 'భాగాలు', 'clipWord': '', 'subtitle': 'ప్రతి సీన్‌కు Flow ప్రాంప్ట్, థంబ్‌నెయిల్, అప్‌లోడ్',
+                   'scriptTitle': 'పూర్తి రికార్డింగ్ స్క్రిప్ట్ – [ ] లో ఉన్నవి కొత్త భాగాలు'}
         blob = json.dumps(payload, ensure_ascii=False).replace('</', '<\\/')
         frag = tpl.replace('__TITLE__', f'{kaanda_te} లాంగ్ వీడియోలు').replace('__DATA__', blob)
         name = folder.replace(' - ', '_').replace(' ', '_')
