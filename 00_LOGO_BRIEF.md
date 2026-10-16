@@ -1,9 +1,9 @@
-# పురాణామృతం (Puranamrutham) — YouTube Logo Brief
+# పురాణ కథా శ్రవణం (Purana Katha Shravanam) — YouTube Logo Brief
 
-**⚠️ Read this before generating anything:** AI image tools (Midjourney, DALL-E, Ideogram, Flow, etc.) are unreliable at rendering Telugu script accurately — letters come out garbled, misshapen, or as meaningless squiggles more often than not, even in tools that handle Latin text well. **Do not let the AI generate the "పురాణామృతం" wordmark as part of the image.** The right workflow is two separate steps:
+**⚠️ Read this before generating anything:** AI image tools (Midjourney, DALL-E, Ideogram, Flow, etc.) are unreliable at rendering Telugu script accurately — letters come out garbled, misshapen, or as meaningless squiggles more often than not, even in tools that handle Latin text well. **Do not let the AI generate the "పురాణ కథా శ్రవణం" wordmark as part of the image.** The right workflow is two separate steps:
 
 1. Generate the **icon/symbol only** (no text) using one of the prompts below.
-2. Add the **పురాణామృతం wordmark as real, selectable text** in a design tool (Canva, Photoshop, Illustrator, even free tools like Photopea) using an actual Telugu font — this guarantees the text is correct, crisp, and legible, which an AI render can't guarantee. Font suggestions below.
+2. Add the **పురాణ కథా శ్రవణం wordmark as real, selectable text** in a design tool (Canva, Photoshop, Illustrator, even free tools like Photopea) using an actual Telugu font — this guarantees the text is correct, crisp, and legible, which an AI render can't guarantee. Font suggestions below.
 
 ---
 
@@ -11,8 +11,8 @@
 
 Two icon directions, both consistent with the channel's established identity — pick whichever you prefer, or generate both and compare:
 
-- **Concept A — Kalasha + amrutam drop:** a sacred kalasha (temple pot) with mango leaves and a coconut at its mouth, one luminous golden drop of nectar (amrutam) falling from it — directly illustrates the name "nectar of the Puranas."
-- **Concept B — Manuscript + glow:** an ancient palm-leaf manuscript (tāḷapatra grantha), partially unrolled, with a soft golden light rising from its written surface — illustrates "nectar drawn from ancient scripture."
+- **Concept A — Kalasha + amrutam drop:** a sacred kalasha (temple pot) with mango leaves and a coconut at its mouth, one luminous golden drop of nectar (amrutam) falling from it — an auspicious, devotional emblem.
+- **Concept B — Manuscript + glow:** an ancient palm-leaf manuscript (tāḷapatra grantha), partially unrolled, with a soft golden light rising from its written surface — illustrates the Purana stories themselves, which the channel name ("listening to the stories of the Puranas") is built on.
 
 Palette: warm gold and deep maroon/red (matches the Ayodhya/Mithila palette in `00_STYLE_GUIDE.md`) — this is the channel's own constant identity color, separate from any in-story location palette used inside episodes.
 
@@ -38,12 +38,12 @@ Palette: warm gold and deep maroon/red (matches the Ayodhya/Mithila palette in `
 
 ---
 
-## 4. Adding the "పురాణామృతం" wordmark text (the step AI can't do reliably)
+## 4. Adding the "పురాణ కథా శ్రవణం" wordmark text (the step AI can't do reliably)
 
 Once you have the icon, open it in Canva (free tier is fine) or Photoshop/Illustrator/Photopea, and add the text separately:
 
 - **Font suggestions (real Telugu fonts, free, widely available on Google Fonts):** *Ramabhadra* (dignified, slightly classical — closest match to the temple-inscription feel), *Baloo Tammudu 2* (rounder, warmer, more modern-friendly), or *Mallanna* (bold, high legibility at small sizes — good for the banner where the name needs to read clearly even shrunk down).
-- Type పురాణామృతం directly (copy-paste it from this file to avoid any typo risk) rather than trying to hand-letter or AI-generate it.
+- Type పురాణ కథా శ్రవణం directly (copy-paste it from this file to avoid any typo risk) rather than trying to hand-letter or AI-generate it.
 - Color: warm gold or cream against the maroon background, matching the icon's palette.
 - For the profile picture specifically, consider icon-only (no text) since it displays as a small circle and text gets illegible that small anyway — save the wordmark treatment for the banner, the video intro bumper, and thumbnails instead.
 

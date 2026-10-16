@@ -9,13 +9,13 @@
 
 ## Channel name — decided
 
-**పురాణామృతం (Puranamrutham)** — "the nectar of the Puranas." See `00_INTRO_OUTRO_TEMPLATES.md` for the channel's fixed opening bumper and closing card (used on every long-form video and every short — never redesigned per episode).
+**పురాణ కథా శ్రవణం (Purana Katha Shravanam)** — "listening to the stories of the Puranas." See `00_INTRO_OUTRO_TEMPLATES.md` for the channel's fixed opening bumper and closing card (used on every long-form video and every short — never redesigned per episode).
 
 ## ⚠️ Read before generating anything
 
 1. **`00_CHARACTER_BIBLE.md`** — Visual Lock + Voice Profile for every character, plus the era/region style baseline (Treta Yuga, South Indian). Copy locks verbatim into every prompt.
 2. **`00_STYLE_GUIDE.md`** — architecture, clothing, and palette by location register (Ayodhya, forest-exile, Kishkindha, Lanka).
-3. **`00_INTRO_OUTRO_TEMPLATES.md`** — the fixed పురాణామృతం opening/closing bumper every video and short wraps around.
+3. **`00_INTRO_OUTRO_TEMPLATES.md`** — the fixed పురాణ కథా శ్రవణం opening/closing bumper every video and short wraps around.
    - **`00_NARRATOR_VISUAL_PROFILE.md`** — optional companion file: the Narrator's visual appearance (for trailers/thumbnails only — he stays off-screen inside actual episodes, see rule below).
 4. **Source-fidelity + verse-accuracy rule** — every stotram/shloka/padyam in the source must be recited correctly, character-by-character verified, before an episode script is marked final. See "Text pipeline status" below — no episode is finalized on text that hasn't cleared this check yet.
 5. **No character speaks on-mic except the Narrator.** Everyone else moves, acts, and is described in third person. (See Character Bible → Narrator.)

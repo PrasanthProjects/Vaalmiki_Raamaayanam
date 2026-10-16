@@ -1,4 +1,4 @@
-# పురాణామృతం — NARRATOR VISUAL PROFILE
+# పురాణ కథా శ్రవణం — NARRATOR VISUAL PROFILE
 ### For the rare cases where the Narrator is shown on screen (AI image / AI video)
 
 **Default rule, unchanged:** the Narrator is voice-only and never shown — see `00_CHARACTER_BIBLE.md` → "WHO SPEAKS ON SCREEN." This file exists only for the specific, occasional cases below, where a visual for the Narrator himself is genuinely useful. **Do not start showing the Narrator routinely** — that would contradict the whole series' design (the story's characters carry every visual, not a host). Use this file only when one of the "When to use this" cases applies.
@@ -9,7 +9,7 @@
 
 ## When to use this
 
-- A channel trailer / "About Puranamrutham" video where a host figure introduces the series
+- A channel trailer / "About Purana Katha Shravanam" video where a host figure introduces the series
 - A thumbnail concept that wants a storyteller figure rather than a scene still
 - A "meet the narrator" or behind-the-scenes-style promotional asset
 - An optional silhouette/shadow cutaway during a spoken-aside/teaching moment (the kind flagged "narrator steps outside the story" in some episode Notes columns) — **only if** the production ever decides such moments deserve a visual beat; current episodes handle these with a framing shift instead (see e.g. `E2.01` scenes 9-10 Notes), not a Narrator appearance
