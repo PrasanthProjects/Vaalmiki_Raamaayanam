@@ -43,6 +43,9 @@ FIX = {
     ('1_Bala_Kanda', 1, 100): [('త్ క్షత్రియో', 'స్యాత్ క్షత్రియో')],
 }
 
+# The long episode each sarga's Shorts come from, for YouTube's "Related video" link on every Short.
+RELATED = {('బాలకాండ', 1): ('E1.01', 'వాల్మీకి మహర్షి కథ')}
+
 HASHTAGS = '#shorts #ramayanam #telugushorts #devotional #shloka #ramayanintelugu #valmikiramayanam'
 
 # 7 clips covering the ~45 s short: (start s, end s, Telugu label)
@@ -287,8 +290,10 @@ def upload_desc(title, sloka_lines, tt, kanda_te, sarga, n):
     return (f"{title}\n\n" + '\n'.join(sloka_lines) + "\n\n"
             f"తాత్పర్యం:\n{tt}\n\n"
             f"📖 మూలం: శ్రీమద్వాల్మీకి రామాయణం · {kanda_te} · సర్గ {sarga} · శ్లోకం {n}\n"
-            "🙏 శ్లోకం శ్లోకంగా వాల్మీకి రామాయణం – అర్థం, జీవిత పాఠంతో.\n\n"
-            f"{HASHTAGS}")
+            "🙏 శ్లోకం శ్లోకంగా వాల్మీకి రామాయణం – అర్థం, జీవిత పాఠంతో.\n"
+            + (f"📺 పూర్తి కథ: {RELATED[(kanda_te, sarga)][1]} – Ramayanam {RELATED[(kanda_te, sarga)][0]} (మన ఛానల్‌లో)\n"
+               if (kanda_te, sarga) in RELATED else '')
+            + f"\n{HASHTAGS}")
 
 
 def upload_md(title, sloka_lines, tt, pinned, kanda_te, sarga, n, srt_name):
@@ -297,7 +302,10 @@ def upload_md(title, sloka_lines, tt, pinned, kanda_te, sarga, n, srt_name):
             f"**టైటిల్:**\n\n```text\n{title}\n```\n\n"
             f"**వివరణ (Description):**\n\n```text\n{desc}\n```\n\n"
             f"**పిన్ కామెంట్:**\n\n```text\n{pinned}\n```\n\n"
-            f"**క్యాప్షన్ ఫైల్:** [captions/{srt_name}](captions/{srt_name}) – YouTube Studio → Subtitles → Upload file "
+            + (f"**సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో "
+               f"**{RELATED[(kanda_te, sarga)][0]} – {RELATED[(kanda_te, sarga)][1]}** లాంగ్ వీడియోను ఎంచుకోండి. "
+               "Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.\n\n" if (kanda_te, sarga) in RELATED else '')
+            + f"**క్యాప్షన్ ఫైల్:** [captions/{srt_name}](captions/{srt_name}) – YouTube Studio → Subtitles → Upload file "
             "లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.\n")
 
 

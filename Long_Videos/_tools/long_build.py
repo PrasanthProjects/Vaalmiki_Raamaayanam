@@ -26,7 +26,7 @@ from long_style import STYLE, RESPECT, TAIL, VN, SN, KUM, character, names_in, s
 KAANDAS = {0: ('00_Parichayam', 'పరిచయం'), 1: ('1 - Baala Khaanda', 'బాలకాండ'), 2: ('2 - Ayodhya Khaanda', 'అయోధ్యకాండ'),
            3: ('3 - Aranya Khaanda', 'అరణ్యకాండ'), 4: ('4 - Kishkinda Khaanda', 'కిష్కింధకాండ'),
            5: ('5 - Sundhara Khaanda', 'సుందరకాండ'), 6: ('6 - Yudha Khaanda', 'యుద్ధకాండ')}
-BUMPER, OUTRO = 4, 14          # seconds, from 00_INTRO_OUTRO_TEMPLATES.md
+BUMPER, OUTRO = 4, 20          # bumper from 00_INTRO_OUTRO_TEMPLATES.md; outro = YouTube's 20 s end screen
 START, END = '<!-- LONG_VIDEO_KIT_START -->', '<!-- LONG_VIDEO_KIT_END -->'
 HASHTAGS = '#ramayanam #ramayanamintelugu #valmikiramayanam #telugudevotional #puranakathasravanam'
 
@@ -279,6 +279,41 @@ def sequence(scenes, d, extra, ep_index):
     return seq
 
 
+def is_verse(text):
+    return '।' in text or '॥' in text
+
+
+def first_sentence(text, limit=90):
+    t = re.split(r'(?<=[.!?])\s', text.strip(), maxsplit=1)[0]
+    return t if len(t) <= limit else t[:limit].rsplit(' ', 1)[0] + '…'
+
+
+def expand(seq, scenes):
+    """Retention pass: on-screen card for every verse, a recap-length check, and two stills for long still scenes."""
+    nxt = {s['no']: (scenes[i + 1] if i + 1 < len(scenes) else None) for i, s in enumerate(scenes)}
+    out = []
+    for item in seq:
+        item = dict(item)
+        if 'scene' in item:
+            sc = item['scene']
+            if is_verse(sc['narration']):
+                n = nxt[sc['no']]
+                meaning = first_sentence(n['narration']) if n and not is_verse(n['narration']) else ''
+                item['onscreen'] = 'శ్లోకం తెలుగు లిపిలో, అక్షరం అక్షరం కనిపిస్తూ' + (f' · కింద అర్థం: {meaning}' if meaning else '')
+            if sc['narration'].startswith('గత భాగ') and sc['secs'] > 8:
+                item['tip'] = 'రీక్యాప్‌ను ఎడిట్‌లో 8 సెకన్లలోపు కుదించండి – హుక్ తరువాత వీక్షకులు వెంటనే కొత్త కథ కోరుకుంటారు.'
+        if item['kind'] == 'image' and item['secs'] >= 11 and not item['new']:
+            a = math.ceil(item['secs'] / 2)
+            out.append(dict(item, id=item['id'] + 'a', label=item['label'] + ' (1/2)', secs=a,
+                            visual='Wide establishing view: ' + item['visual']))
+            out.append(dict(item, id=item['id'] + 'b', label=item['label'] + ' (2/2)', secs=item['secs'] - a,
+                            visual='Closer, emotional framing of the same moment: ' + item['visual'],
+                            narration='(పై నెరేషన్ కొనసాగుతుంది – చిత్రం మాత్రమే మారుతుంది)', cont=True, tip=''))
+        else:
+            out.append(item)
+    return out
+
+
 def build_episode(ep, d, refs_used, extra, ep_index):
     path = episode_file(ep)
     text, tel, src, scenes = parse_episode(path)
@@ -287,13 +322,17 @@ def build_episode(ep, d, refs_used, extra, ep_index):
     d = dict(d, ep=ep)
     scene_kinds = dict(zip([s['no'] for s in scenes], kinds_for(scenes)))
     seq = sequence(scenes, d, extra, ep_index)
+    for item in seq:
+        if item['kind'] is None:
+            item['kind'] = scene_kinds[item['scene']['no']]
+    spoken = list(seq)            # what is said, in order (captions, recording script)
+    seq = expand(seq, scenes)     # what is shown (clips)
     t = BUMPER
     for item in seq:
         item['start'] = t
-        if item['kind'] is None:
-            item['kind'] = scene_kinds[item['scene']['no']]
         t += item['secs']
     total = t + OUTRO
+    body_end = next((x['start'] for x in seq if x['id'] == 'C'), t)
 
     # chapters: the first at 0:00, the rest where their bridge (or first scene) starts; each at least 10 s
     start_of = {}
@@ -323,6 +362,8 @@ def build_episode(ep, d, refs_used, extra, ep_index):
                     "పట్టుకోండి లేదా క్లిప్‌ను కొద్దిగా స్లో చేయండి.")
         if item['onscreen']:
             note = (note + ' ' if note else '') + f"తెరపై టెక్స్ట్: «{item['onscreen']}»"
+        if item.get('tip'):
+            note = (note + ' ' if note else '') + item['tip']
         move = '' if kind == 'video' else editor_move(item['visual'], i)
         a = item['start']
         card = {'no': item['id'], 'time': f"{mmss(a)} – {mmss(a + secs)}", 'label': f"{item['label']} · {secs} సె",
@@ -330,7 +371,7 @@ def build_episode(ep, d, refs_used, extra, ep_index):
                 'prompt': scene_prompt(s, kind, looks)}
         cards.append(card)
         head = '🎥 వీడియో' if kind == 'video' else '🖼️ ఇమేజ్ + కదలిక'
-        star = ' · ✨ కొత్తది' if item['new'] else ''
+        star = ' · ✨ కొత్తది' if item['new'] else (' · 🔁 అదే నెరేషన్, కొత్త చిత్రం' if item.get('cont') else '')
         nar = item['narration']
         short = nar if item['new'] or len(nar) <= 110 else nar[:110].rsplit(' ', 1)[0] + '…'
         lines = [f"#### {item['label']} · {card['time']} · {secs} సె · {head}{star}\n",
@@ -345,7 +386,7 @@ def build_episode(ep, d, refs_used, extra, ep_index):
 
     tag = {'H': '[హుక్]', 'L': '[జీవిత పాఠం]', 'C': '[సబ్‌స్క్రైబ్]'}
     recording = '\n'.join(f"{tag.get(x['id'], '[బ్రిడ్జ్]')} {x['narration']}" if x['new'] else x['narration']
-                          for x in seq)
+                          for x in spoken)
 
     main, hl, sub = d['head']
     tprompt, trefs = thumb_prompt(scenes, ep)
@@ -387,6 +428,7 @@ def build_episode(ep, d, refs_used, extra, ep_index):
         f'| క్లిప్‌లు | 🎥 వీడియో {n_video} · 🖼️ ఇమేజ్ + కదలిక {len(seq) - n_video}'
         + (f' · ✨ కొత్త నెరేషన్ భాగాలు {n_new}' if extra else '') + ' |',
         f'| క్యాప్షన్లు | `{srt_rel}` |',
+        f'| ఎండ్ స్క్రీన్ | చివరి {OUTRO} సె: తరువాతి భాగం, కాండ ప్లేలిస్ట్, సబ్‌స్క్రైబ్ – YouTube Studio → End screen |',
         '| రిఫరెన్స్ ఇమేజ్‌లు | `Long_Videos/_reference_images/` (ప్రాంప్ట్‌లు: `Long_Videos/00_CHARACTER_REFERENCES.md`) |\n',
         new_md,
         f'### {n}. క్లిప్‌లు (16:9 · ఫోటోరియలిస్టిక్)\n',
@@ -419,12 +461,78 @@ def build_episode(ep, d, refs_used, extra, ep_index):
 
     cap_dir = os.path.join(LONG, 'captions', folder)
     os.makedirs(cap_dir, exist_ok=True)
-    open(os.path.join(cap_dir, f'{ep}.srt'), 'w', encoding='utf-8', newline='\n').write(srt(seq))
+    open(os.path.join(cap_dir, f'{ep}.srt'), 'w', encoding='utf-8', newline='\n').write(srt(spoken))
 
-    return k, {'n': ep, 'headline': main, 'hl': hl, 'sub': sub, 'badge': f'{kaanda_te} · {ep} · {mmss(total)}',
+    plan = {'ep': ep, 'tel': tel, 'sum': d['sum'], 'head': d['head'], 'thumb': tprompt, 'src': src, 'k': k,
+            'body': body_end - BUMPER, 'cta': total - OUTRO - body_end, 'chapters': [(a - BUMPER if a else 0, t) for a, t in chap]}
+    return k, {'plan': plan, 'n': ep, 'headline': main, 'hl': hl, 'sub': sub, 'badge': f'{kaanda_te} · {ep} · {mmss(total)}',
                'title': title, 'sloka': recording.split('\n') if extra else [], 'reading': None, 'clips': cards,
                'thumbPrompt': tprompt, 'thumbRefs': trefs, 'desc': desc, 'pinned': d['pin'], 'srt': srt_rel}
 
+
+
+# ---------- upload plan: short episodes combined into 8+ minute videos ----------
+
+MIN_LEN, MAX_LEN = 8 * 60, 16 * 60   # mid-roll ads need 8 min; keep a video under ~16 min
+
+
+def video_len(group):
+    return BUMPER + sum(x['body'] for x in group) + group[-1]['cta'] + OUTRO
+
+
+def group_episodes(plans):
+    """Consecutive episodes of the same kaanda (Parichayam may join E1.01) until each video passes 8 minutes."""
+    units, cur = [], []
+    for x in plans:
+        if cur and x['k'] != cur[-1]['k'] and not (cur[-1]['k'] == 0 and x['k'] == 1):
+            units.append(cur)
+            cur = []
+        cur.append(x)
+        if video_len(cur) >= MIN_LEN:
+            units.append(cur)
+            cur = []
+    if cur:
+        if units and units[-1][-1]['k'] == cur[0]['k'] and video_len(units[-1] + cur) <= MAX_LEN:
+            units[-1] += cur
+        else:
+            units.append(cur)
+    return units
+
+
+def plan_file(plans, name):
+    units = group_episodes(plans)
+    lines = ['# అప్‌లోడ్ ప్లాన్ – ' + name + '\n',
+             'YouTube **mid-roll ads 8 నిమిషాలు దాటిన వీడియోలకే** వస్తాయి. అందుకే చిన్న ఎపిసోడ్‌లను వరుసగా కలిపి 8–16 నిమిషాల వీడియోలుగా అప్‌లోడ్ చేయండి.\n',
+             '**ఎలా కలపాలి:** బంపర్ → మొదటి ఎపిసోడ్ క్లిప్‌లు (దాని సబ్‌స్క్రైబ్ లైన్, ఔట్రో వదిలేయండి) → తరువాతి ఎపిసోడ్ క్లిప్‌లు (దాని హుక్ మధ్యలో "కొత్త ఆసక్తి"గా పనిచేస్తుంది) → ... → చివరి ఎపిసోడ్ సబ్‌స్క్రైబ్ లైన్ → ఎండ్ స్క్రీన్. క్లిప్‌లు, ప్రాంప్ట్‌లు ఆయా ఎపిసోడ్ ఫైల్‌లలోనే ఉన్నాయి.\n',
+             '| వీడియో | ఎపిసోడ్‌లు | నిడివి | mid-roll |', '|---|---|---|---|']
+    for i, g in enumerate(units, 1):
+        n = video_len(g)
+        lines.append(f"| V{i} | {' + '.join(x['ep'] for x in g)} | {mmss(n)} | {'✅' if n >= MIN_LEN else '–'} |")
+    lines.append('')
+    for i, g in enumerate(units, 1):
+        n = video_len(g)
+        eps = f"{g[0]['ep']}–{g[-1]['ep'].split('.')[-1]}" if len(g) > 1 else g[0]['ep']
+        names = ' & '.join(x['tel'] for x in g)
+        title = f'{names} | Ramayanam {eps}'
+        if len(title) > 100:
+            title = f"{g[0]['tel']} … {g[-1]['tel']} | Ramayanam {eps}"
+        if len(title) > 100:
+            title = f"{g[0]['head'][0]} | Ramayanam {eps}"
+        chapters, off = [], 0
+        for x in g:
+            for t, c in x['chapters']:
+                at = 0 if not chapters else BUMPER + off + t
+                chapters.append((at, c if len(g) == 1 or t else f"{x['ep']} · {c}"))
+            off += x['body']
+        desc = (title + '\n\n' + '\n'.join(x['sum'] for x in g) + '\n\n⏱️ అధ్యాయాలు\n'
+                + '\n'.join(f'{mmss(a)} {c}' for a, c in chapters)
+                + '\n\n📖 మూలం: చిత్రరూపంలో సంపూర్ణ వాల్మీకి రామాయణము\n'
+                  '🔔 పురాణ కథా శ్రవణం – రామాయణం మొదటి నుండి చివరి వరకు, భాగం భాగంగా.\n\n' + HASHTAGS)
+        lines += [f"## V{i} · {mmss(n)} · {' + '.join(x['ep'] for x in g)}\n",
+                  f"- **థంబ్‌నెయిల్:** {g[0]['ep']} థంబ్‌నెయిల్ వాడండి (హెడ్‌లైన్: **{g[0]['head'][0]}**)",
+                  f"- **పిన్ కామెంట్, ట్యాగ్‌లు:** {g[0]['ep']} కిట్ నుండి",
+                  f'\n**టైటిల్:**\n\n```text\n{title}\n```\n', f'**వివరణ:**\n\n```text\n{desc}\n```\n']
+    return '\n'.join(lines), units
 
 # ---------- references and helper pages ----------
 
@@ -478,7 +586,12 @@ def main(data_path):
         full = ('<!doctype html><html lang="te"><head><meta charset="utf-8"><meta name="viewport" '
                 'content="width=device-width,initial-scale=1,viewport-fit=cover"></head><body>' + frag + '</body></html>')
         open(os.path.join(LONG, f'{name}_CLIPS_HELPER.html'), 'w', encoding='utf-8', newline='\n').write(full)
-    print(f'{len(data)} episodes, {len(refs_used)} reference images')
+    plans = [p['plan'] for pages in by_kaanda.values() for p in pages]
+    name = os.path.basename(data_path).replace('.txt', '')
+    text, units = plan_file(plans, name)
+    open(os.path.join(LONG, f'UPLOAD_PLAN_{name}.md'), 'w', encoding='utf-8', newline='\n').write(text)
+    print(f'{len(data)} episodes, {len(refs_used)} reference images; upload plan: {len(units)} videos, '
+          f'{sum(video_len(g) >= MIN_LEN for g in units)} over 8 minutes')
 
 
 if __name__ == '__main__':

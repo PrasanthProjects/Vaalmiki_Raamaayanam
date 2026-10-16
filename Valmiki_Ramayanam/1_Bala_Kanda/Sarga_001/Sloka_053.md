@@ -164,6 +164,7 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. S
 
 📖 మూలం: శ్రీమద్వాల్మీకి రామాయణం · బాలకాండ · సర్గ 1 · శ్లోకం 53
 🙏 శ్లోకం శ్లోకంగా వాల్మీకి రామాయణం – అర్థం, జీవిత పాఠంతో.
+📺 పూర్తి కథ: వాల్మీకి మహర్షి కథ – Ramayanam E1.01 (మన ఛానల్‌లో)
 
 #shorts #ramayanam #telugushorts #devotional #shloka #ramayanintelugu #valmikiramayanam
 ```
@@ -173,5 +174,7 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. S
 ```text
 జటాయువు త్యాగానికి మీ నమస్కారం కామెంట్‌లో తెలపండి 🙏
 ```
+
+**సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_053.srt](captions/Sloka_053.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
