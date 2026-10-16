@@ -11,3 +11,9 @@ __pycache__/
 
 # Large media (videos, audio, clips) – kept outside git
 production/
+assets/**/*.png
+assets/**/*.jpg
+images/
+shorts/**/*.mp4
+shorts/**/*.wav
+shorts/**/*.jpg
