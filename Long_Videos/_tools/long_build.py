@@ -325,6 +325,47 @@ def expand(seq, scenes):
     return out
 
 
+CUES = {
+    'H': '[హుక్ · ఉత్సాహంగా, కొంచెం వేగంగా, ప్రశ్న మీద స్వరం పైకి]',
+    'B': '[బ్రిడ్జ్ · చిన్న విరామం తరువాత, ఆసక్తి రేకెత్తించేలా]',
+    'L': '[జీవిత పాఠం · నెమ్మదిగా, ఆత్మీయంగా, శ్రోతతో మాట్లాడుతున్నట్లు]',
+    'C': '[సబ్‌స్క్రైబ్ · చిరునవ్వుతో, సహజంగా]',
+    'V': '[శ్లోకం · నెమ్మదిగా, శ్రావ్యంగా, ప్రతి పాదం తరువాత విరామం]',
+}
+
+
+def breath(text, verse=False, limit=70):
+    """Split narration into lines a narrator can say in one breath."""
+    if verse:
+        return [p.strip() + (' ।' if not p.strip().endswith(('।', '॥')) else '')
+                for p in re.split(r'(?<=।)', text) if p.strip() and p.strip() != '।']
+    out = []
+    for sent in re.split(r'(?<=[.!?])\s+', text.strip()):
+        while len(sent) > limit:
+            cut = max(sent.rfind(', ', 0, limit), sent.rfind(' — ', 0, limit))
+            if cut <= 20:
+                break
+            out.append(sent[:cut + 1].strip())
+            sent = sent[cut + 1:].strip()
+        if sent:
+            out.append(sent)
+    return out
+
+
+def performance_script(spoken):
+    """Recording script: a delivery note per part, breath-sized lines, ⏸ where a pause belongs."""
+    out = []
+    for x in spoken:
+        verse = not x['new'] and is_verse(x['narration'])
+        cue = CUES[x['id'][0]] if x['new'] else (CUES['V'] if verse else None)
+        if cue:
+            out.append(cue)
+        out += breath(x['narration'], verse)
+        if x['new'] or verse:
+            out.append('⏸')
+    return '\n'.join(out)
+
+
 def build_episode(ep, d, refs_used, extra, ep_index):
     path = episode_file(ep)
     text, tel, src, scenes = parse_episode(path)
@@ -395,9 +436,7 @@ def build_episode(ep, d, refs_used, extra, ep_index):
         lines.append(f"\n```text\n{card['prompt']}\n```\n")
         md_items.append('\n'.join(lines))
 
-    tag = {'H': '[హుక్]', 'L': '[జీవిత పాఠం]', 'C': '[సబ్‌స్క్రైబ్]'}
-    recording = '\n'.join(f"{tag.get(x['id'], '[బ్రిడ్జ్]')} {x['narration']}" if x['new'] else x['narration']
-                          for x in spoken)
+    recording = performance_script(spoken)
 
     main, hl, sub = d['head']
     tprompt, trefs = thumb_prompt(scenes, ep)
@@ -426,7 +465,8 @@ def build_episode(ep, d, refs_used, extra, ep_index):
             *[f"- **బ్రిడ్జ్ → {title}:** {line}" for (n, title), line in zip(d['chapters'][1:], extra['bridges'])],
             f"- **జీవిత పాఠం:** {extra['lesson']}",
             f"- **సబ్‌స్క్రైబ్:** {CTAS[ep_index % len(CTAS)]}\n",
-            '**పూర్తి రికార్డింగ్ స్క్రిప్ట్ (ఈ వరుసలోనే చదవండి; [ ] లో ఉన్నవి కొత్త భాగాలు):**\n',
+            '**పూర్తి రికార్డింగ్ స్క్రిప్ట్** – ఈ వరుసలోనే చదవండి. [ ] లో ఎలా చెప్పాలో సూచన; '
+            'ప్రతి లైను ఒక శ్వాసలో; ⏸ దగ్గర ఒక సెకను ఆగండి.\n',
             f'```text\n{recording}\n```\n'])
     n = 2 if extra else 1
     section = '\n'.join([
@@ -589,7 +629,7 @@ def main(data_path):
         label = 'పరిచయం + ' + kaanda_te if any(p['n'].startswith('E0.') for p in pages) else kaanda_te
         payload = {'key': f'long_{k}', 'name': f'{label} – లాంగ్ వీడియోలు', 'slokas': pages, 'refs': ref_items,
                    'unit': 'భాగాలు', 'clipWord': '', 'subtitle': 'ప్రతి సీన్‌కు Flow ప్రాంప్ట్, థంబ్‌నెయిల్, అప్‌లోడ్',
-                   'scriptTitle': 'పూర్తి రికార్డింగ్ స్క్రిప్ట్ – [ ] లో ఉన్నవి కొత్త భాగాలు'}
+                   'scriptTitle': 'రికార్డింగ్ స్క్రిప్ట్ – [ ] ఎలా చెప్పాలో, ప్రతి లైను ఒక శ్వాస, ⏸ = ఒక సెకను విరామం'}
         blob = json.dumps(payload, ensure_ascii=False).replace('</', '<\\/')
         frag = tpl.replace('__TITLE__', f'{kaanda_te} లాంగ్ వీడియోలు').replace('__DATA__', blob)
         name = folder.replace(' - ', '_').replace(' ', '_')
