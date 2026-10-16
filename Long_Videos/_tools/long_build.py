@@ -208,12 +208,12 @@ def srt(scenes):
 
 CTAS = [
     'రామాయణాన్ని మొదటి నుండి చివరి వరకు భాగం భాగంగా వినడానికి ఛానల్‌ని సబ్‌స్క్రైబ్ చేసి, బెల్ ఐకాన్ నొక్కండి.',
-    'ఈ భాగం నచ్చితే లైక్ చేసి, మీ కుటుంబంతో షేర్ చేయండి. తరువాతి భాగం కోసం సబ్‌స్క్రైబ్ చేయండి.',
-    'మీ అభిప్రాయం కామెంట్‌లో రాయండి. తరువాతి భాగం మిస్ అవ్వకుండా ఇప్పుడే సబ్‌స్క్రైబ్ చేయండి.',
+    'ఈ భాగం నచ్చితే లైక్ చేసి, మీ కుటుంబంతో షేర్ చేయండి. ఛానల్‌ని సబ్‌స్క్రైబ్ చేయడం మరచిపోకండి.',
+    'మీ అభిప్రాయం కామెంట్‌లో రాయండి. ఏ భాగమూ మిస్ అవ్వకుండా ఇప్పుడే సబ్‌స్క్రైబ్ చేయండి.',
     'రాముడి కథను మీ పిల్లలకూ వినిపించండి. మరిన్ని భాగాల కోసం మన ఛానల్‌లో చేరండి.',
     'ప్రతి భాగం ఒక జీవిత పాఠం. ఒక్కటీ మిస్ అవ్వకుండా బెల్ ఐకాన్ నొక్కండి.',
     'ఈ పుణ్య కథను నలుగురితో పంచుకోండి. సబ్‌స్క్రైబ్ చేసి ఈ ప్రయాణంలో మాతో ఉండండి.',
-    '"జై శ్రీరామ్" అని కామెంట్ చేయండి. తరువాతి భాగంలో మళ్ళీ కలుద్దాం.',
+    '"జై శ్రీరామ్" అని కామెంట్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి.',
 ]
 CTA_VISUAL = ('A glowing palm-leaf manuscript of the Ramayana resting on a carved wooden stand beside a lit brass oil '
               'lamp in a quiet temple courtyard at golden hour, marigold petals around it')
@@ -245,6 +245,10 @@ def lesson_item(extra, scenes):
             'visual': f"A quiet, reflective close moment: {pick['visual']}. Soft warm light, calm and contemplative"}
 
 
+def _words(text):
+    return {w.strip('.,!?…"\'—–-') for w in text.split() if len(w) > 3}
+
+
 def sequence(scenes, d, extra, ep_index):
     """Episode order: hook, scenes (a bridge line before each new chapter), lesson, teaser, subscribe line."""
     seq = []
@@ -253,6 +257,13 @@ def sequence(scenes, d, extra, ep_index):
         assert len(extra['bridges']) == len(d['chapters']) - 1, \
             f"{d['ep']}: {len(extra['bridges'])} bridge lines for {len(d['chapters']) - 1} chapter changes"
         bridges = dict(zip([n for n, _ in d['chapters'][1:]], extra['bridges']))
+        # A bridge must tease, not repeat: refuse one that shares 2+ words with the line it leads into,
+        # and a hook that promises "ఈ భాగంలో…" right before a recap that promises the same.
+        by_no = {s['no']: s for s in scenes}
+        for n, line in bridges.items():
+            shared = _words(line) & _words(by_no[n]['narration'][:120])
+            assert len(shared) < 2, f"{d['ep']}: bridge before scene {n} repeats it ({', '.join(sorted(shared))}): {line}"
+        assert 'ఈ భాగంలో' not in extra['hook'], f"{d['ep']}: end the hook on its peak, not with 'ఈ భాగంలో…'"
         src = next(s for s in scenes if s['no'] == extra['hook_from'])
         seq.append({'id': 'H', 'label': 'హుక్', 'kind': 'video', 'secs': speak_secs(extra['hook']),
                     'narration': extra['hook'], 'new': True, 'loc': src['loc'], 'onscreen': '',
