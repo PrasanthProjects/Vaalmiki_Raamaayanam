@@ -17,6 +17,7 @@ Valmiki_Ramayanam/
       00_INDEX.md                    all ślokas of the sarga with links
       Sloka_001.md … Sloka_100.md    everything for one Short
       captions/Sloka_001.srt …       Telugu captions per Short
+      thumbnails_canva.csv           all thumbnail texts for Canva Bulk Create
   _tools/                            build scripts and source data
 ```
 
@@ -26,7 +27,7 @@ Valmiki_Ramayanam/
 2. ప్రతిపదార్థం – word-by-word meaning
 3. తాత్పర్యం – meaning in everyday Telugu
 4. నెరేషన్ – timed ~45 s voice script
-5. Google Flow క్లిప్‌లు – 7 prompts (9:16, ≤ 8 s) with the narration and reference images for each
+5. క్లిప్‌లు – 7 prompts (9:16): 2–3 🎥 video clips for Flow, the rest 🖼️ still images with an editor zoom/pan; narration and reference images for each
 6. థంబ్‌నెయిల్ – headline, sub-line, badge and a text-free background prompt
 7. YouTube అప్‌లోడ్ – title, description, pinned comment, caption file
 

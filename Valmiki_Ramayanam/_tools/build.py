@@ -101,6 +101,36 @@ def slot_texts(f, sloka_lines):
             lesson[0], lesson[1], lesson[2], f['E_VO']]
 
 
+# Sanskrit nasal + consonant clusters as they are usually read and printed in Telugu (మునిపుఙ్గవమ్ → మునిపుంగవమ్).
+NASALS = [('ఙ్', 'కఖగఘ'), ('ఞ్', 'చఛజఝ'), ('ణ్', 'టఠడఢ'), ('న్', 'తథదధ'), ('మ్', 'పఫబభ')]
+
+
+def reading(line):
+    for nasal, cons in NASALS:
+        line = re.sub(nasal + f'([{cons}])', r'ం\1', line)
+    return line.replace('ఽ', '')
+
+
+def youtube_title(f, kanda_dir, sarga, n):
+    title = f"{f['TITLE'].split(' | ')[0]} | Ramayanam {kanda_dir.split('_')[0]}.{sarga}.{n}"
+    assert len(title) <= 100, f'title {n} is {len(title)} characters (YouTube limit 100)'
+    return title
+
+
+def canva_csv(rows):
+    """Canva Bulk Create: one row per śloka; headline split so the highlight word gets its own text box."""
+    import csv
+    import io
+    buf = io.StringIO()
+    w = csv.writer(buf)
+    w.writerow(['sloka', 'headline', 'before_highlight', 'highlight', 'after_highlight', 'sub_line', 'badge',
+                'background_image'])
+    for n, (main, hl, sub), badge in rows:
+        before, after = main.split(hl, 1)
+        w.writerow([n, main, before.strip(), hl, after.strip(), sub, badge, f'Sloka_{n:03d}_thumb.png'])
+    return '﻿' + buf.getvalue()  # BOM so Excel and Canva read Telugu correctly
+
+
 # ---------- sections ----------
 
 def narration_md(f, sloka_lines):
@@ -123,6 +153,54 @@ def narration_md(f, sloka_lines):
             f"- **వాయిస్ (వేగంగా, ముగింపు స్వరం లేకుండా):** {f['E_VO']}\n")
 
 
+MOTION_WORDS = ('leap', 'fly', 'flies', 'flying', 'descend', 'arrow', 'running', 'runs ', 'charg', 'fight',
+                'battle', 'swing', 'crash', 'pierc', 'burn', 'gallop', 'dive', 'ascend', 'emerg', 'transform',
+                'storm', 'lightning', 'throw', 'hurl', 'flick', 'roar', 'rising', 'rises', 'glides', 'flow')
+# Shots AI video handles badly (crowds, many arms or heads): always a still image.
+STILL_ONLY = {'RAVANA', 'KHARA', 'KABANDHA'} | GROUPS
+
+
+def motion_score(clip):
+    text = (clip[1] + ' ' + clip[2]).lower()
+    return sum(text.count(w) for w in MOTION_WORDS)
+
+
+def clip_kinds(clips):
+    """Pick 2–3 clips per Short that really need video; the rest are stills animated in the editor."""
+    kinds = ['image'] * len(clips)
+    ok = [not (set(keys_of(c[0])) & STILL_ONLY) for c in clips]
+    if ok[0]:
+        kinds[0] = 'video'  # the hook always moves
+    ranked = sorted((i for i in range(1, len(clips)) if ok[i] and motion_score(clips[i]) > 0),
+                    key=lambda i: -motion_score(clips[i]))
+    for i in ranked[:3 - kinds.count('video')]:
+        kinds[i] = 'video'
+    return kinds
+
+
+def editor_move(cam):
+    c = cam.lower()
+    if 'pull-back' in c or 'pull back' in c:
+        return 'నెమ్మదిగా జూమ్-అవుట్ (115% → 100%)'
+    if 'tilt up' in c or 'upward' in c or 'crane up' in c:
+        return 'కింద నుండి పైకి నెమ్మదిగా ప్యాన్'
+    if 'tilt down' in c or 'crane down' in c or 'downward' in c:
+        return 'పై నుండి కిందకు నెమ్మదిగా ప్యాన్'
+    if any(w in c for w in ('orbit', 'dolly', 'tracking', 'side')):
+        return 'ఎడమ నుండి కుడికి నెమ్మదిగా ప్యాన్ + కొద్దిగా జూమ్-ఇన్'
+    return 'నెమ్మదిగా జూమ్-ఇన్ (100% → 112%)'
+
+
+def still_prompt(chars, frame, light):
+    who = '; '.join(CHARS[k] for k in keys_of(chars))
+    return ("Vertical 9:16 cinematic still image, 1080x1920, main subject in the centre safe area. "
+            f"Style: {STYLE}. "
+            + (f"Characters: {who}. " if who else '')
+            + f"Scene: {frame} Lighting and atmosphere: {light} "
+            "Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described. "
+            f"{RESPECT} No text, letters, logos or watermarks.")
+
+
 def clip_prompt(chars, frame, motion, cam, light):
     who = '; '.join(CHARS[k] for k in keys_of(chars))
     return ("Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. "
@@ -135,18 +213,27 @@ def clip_prompt(chars, frame, motion, cam, light):
 
 
 def flow_md(clips, texts):
-    out = ["## 5. Google Flow వీడియో క్లిప్‌లు (9:16 · ఒక్కోటి 8 సె)\n",
-           "ప్రతి క్లిప్‌కు ఒకే ప్రాంప్ట్. **రిఫరెన్స్** లో ఉన్న ఇమేజ్‌లను Flow లో *Ingredients* గా జత చేయండి "
-           "([00_CHARACTER_REFERENCE_SHEETS.md](../../00_CHARACTER_REFERENCE_SHEETS.md)). "
-           "క్లిప్‌ను ఇచ్చిన సమయానికి ట్రిమ్ చేయండి.\n"]
+    kinds = clip_kinds(clips)
+    out = ["## 5. క్లిప్‌లు (9:16)\n",
+           f"ఈ Short లో **🎥 వీడియో: {kinds.count('video')}** · **🖼️ ఇమేజ్ + కదలిక: {kinds.count('image')}**\n",
+           "- **🎥 వీడియో:** Flow (Veo) లో ప్రాంప్ట్ పెట్టండి. ముందు ఇదే ప్రాంప్ట్‌తో ఇమేజ్ చేసి, నచ్చితే "
+           "*Frames to Video* లో మొదటి ఫ్రేమ్‌గా వాడితే తప్పులు తక్కువ. 8 సెకన్ల క్లిప్‌ను ఇచ్చిన సమయానికి ట్రిమ్ చేయండి.\n"
+           "- **🖼️ ఇమేజ్ + కదలిక:** ప్రాంప్ట్‌తో ఒక ఇమేజ్ మాత్రమే చేయండి. ఎడిటర్‌లో (CapCut / Resolve) ఇచ్చిన కదలిక పెట్టండి.\n"
+           "- **రిఫరెన్స్** లో ఉన్న ఇమేజ్‌లను జత చేయండి (Flow లో *Ingredients*) – "
+           "[00_CHARACTER_REFERENCE_SHEETS.md](../../00_CHARACTER_REFERENCE_SHEETS.md).\n"]
     for i, (chars, frame, motion, cam, light) in enumerate(clips):
         a, b, label = SLOTS[i]
         refs = [k for k in keys_of(chars) if k not in GROUPS]
         ref_line = ' · '.join(f'`{k}.png`' for k in refs) if refs else 'అవసరం లేదు'
-        out.append(f"### క్లిప్ {i + 1} · {mmss(a)} – {mmss(b)} · {label}\n\n"
+        if kinds[i] == 'video':
+            head, extra, prompt = '🎥 వీడియో', '', clip_prompt(chars, frame, motion, cam, light)
+        else:
+            head, extra, prompt = ('🖼️ ఇమేజ్ + కదలిక', f"- **ఎడిటర్‌లో కదలిక:** {editor_move(cam)}\n",
+                                   still_prompt(chars, frame, light))
+        out.append(f"### క్లిప్ {i + 1} · {mmss(a)} – {mmss(b)} · {label} · {head}\n\n"
                    f"- **నెరేషన్:** {texts[i]}\n"
-                   f"- **రిఫరెన్స్:** {ref_line}\n\n"
-                   f"```text\n{clip_prompt(chars, frame, motion, cam, light)}\n```\n")
+                   f"- **రిఫరెన్స్:** {ref_line}\n{extra}\n"
+                   f"```text\n{prompt}\n```\n")
     return '\n'.join(out)
 
 
@@ -176,9 +263,7 @@ def thumb_md(t, clips, kanda_te, sarga, n):
             f"```text\n{prompt}\n```\n")
 
 
-def upload_md(f, sloka_lines, tt, pinned, kanda_te, sarga, n, srt_name):
-    title = f['TITLE']
-    assert len(title) <= 100, f'title {n} is {len(title)} characters (YouTube limit 100)'
+def upload_md(title, sloka_lines, tt, pinned, kanda_te, sarga, n, srt_name):
     desc = (f"{title}\n\n" + '\n'.join(sloka_lines) + "\n\n"
             f"తాత్పర్యం:\n{tt}\n\n"
             f"📖 మూలం: శ్రీమద్వాల్మీకి రామాయణం · {kanda_te} · సర్గ {sarga} · శ్లోకం {n}\n"
@@ -273,7 +358,7 @@ def main(kanda_dir, sarga):
 
     out_dir = os.path.join(ROOT, kanda_dir, f'Sarga_{sarga:03d}')
     os.makedirs(os.path.join(out_dir, 'captions'), exist_ok=True)
-    index = []
+    index, canva_rows, n_video, n_image = [], [], 0, 0
     for n, lines in verses:
         for part, table in (('meanings', mean), ('narration', narr), ('flow', flow),
                             ('thumbnails', thumbs), ('pinned_comments', pinned)):
@@ -287,25 +372,36 @@ def main(kanda_dir, sarga):
         pp, tt = mean[n]
         f = narr[n]
         texts = slot_texts(f, ls)
+        title = youtube_title(f, kanda_dir, sarga, n)
         name = f'Sloka_{n:03d}'
+        read = [reading(l) for l in ls]
+        read_md = ("\n\n**చదవడానికి సులువుగా (రికార్డింగ్ కోసం):**\n\n" + '  \n'.join(read)) if read != ls else ''
         md = (f"# {kanda_te} · సర్గ {sarga} · శ్లోకం {n}\n\n"
               "**ఈ ఫైల్‌లో:** 1. శ్లోకం · 2. ప్రతిపదార్థం · 3. తాత్పర్యం · 4. నెరేషన్ · "
-              "5. Flow క్లిప్‌లు · 6. థంబ్‌నెయిల్ · 7. YouTube అప్‌లోడ్\n\n"
-              "## 1. శ్లోకం\n\n" + '  \n'.join(ls) + "\n\n"
+              "5. క్లిప్‌లు · 6. థంబ్‌నెయిల్ · 7. YouTube అప్‌లోడ్\n\n"
+              "## 1. శ్లోకం\n\n" + '  \n'.join(ls) + read_md + "\n\n"
               f"## 2. ప్రతిపదార్థం\n\n{pp}\n\n"
               f"## 3. తాత్పర్యం\n\n{tt}\n\n"
               + narration_md(f, ls) + '\n'
               + flow_md(flow[n], texts) + '\n'
               + thumb_md(thumbs[n], flow[n], kanda_te, sarga, n) + '\n'
-              + upload_md(f, ls, tt, pinned[n], kanda_te, sarga, n, name + '.srt'))
+              + upload_md(title, ls, tt, pinned[n], kanda_te, sarga, n, name + '.srt'))
         open(os.path.join(out_dir, name + '.md'), 'w', encoding='utf-8', newline='\n').write(md)
         open(os.path.join(out_dir, 'captions', name + '.srt'), 'w', encoding='utf-8', newline='\n').write(srt(texts))
-        index.append(f"| {n} | [{thumbs[n][0]}]({name}.md) | {f['TITLE'].split(' | ')[0]} | "
-                     f"[srt](captions/{name}.srt) |")
+        kinds = clip_kinds(flow[n])
+        index.append(f"| {n} | [{thumbs[n][0]}]({name}.md) | {title.replace('|', '·')} | "
+                     f"{kinds.count('video')} 🎥 + {kinds.count('image')} 🖼️ | [srt](captions/{name}.srt) |")
+        canva_rows.append((n, thumbs[n], f'{kanda_te} · సర్గ {sarga} · శ్లోకం {n}'))
+        n_video += kinds.count('video')
+        n_image += kinds.count('image')
     open(os.path.join(out_dir, '00_INDEX.md'), 'w', encoding='utf-8', newline='\n').write(
-        f"# {kanda_te} · సర్గ {sarga} – సూచిక\n\n{len(verses)} శ్లోకాలు. హెడ్‌లైన్ మీద క్లిక్ చేస్తే ఆ శ్లోకం ఫైల్ తెరుచుకుంటుంది.\n\n"
-        "| శ్లోకం | థంబ్‌నెయిల్ హెడ్‌లైన్ | YouTube టైటిల్ | క్యాప్షన్ |\n|---|---|---|---|\n"
+        f"# {kanda_te} · సర్గ {sarga} – సూచిక\n\n"
+        f"{len(verses)} శ్లోకాలు · మొత్తం {n_video} 🎥 వీడియో క్లిప్‌లు + {n_image} 🖼️ ఇమేజ్‌లు. "
+        "హెడ్‌లైన్ మీద క్లిక్ చేస్తే ఆ శ్లోకం ఫైల్ తెరుచుకుంటుంది. "
+        "థంబ్‌నెయిల్‌లు అన్నీ ఒకేసారి: [thumbnails_canva.csv](thumbnails_canva.csv) (Canva → Bulk create).\n\n"
+        "| శ్లోకం | థంబ్‌నెయిల్ హెడ్‌లైన్ | YouTube టైటిల్ | క్లిప్‌లు | క్యాప్షన్ |\n|---|---|---|---|---|\n"
         + '\n'.join(index) + '\n')
+    open(os.path.join(out_dir, 'thumbnails_canva.csv'), 'w', encoding='utf-8', newline='').write(canva_csv(canva_rows))
     open(os.path.join(ROOT, '00_CHARACTER_REFERENCE_SHEETS.md'), 'w', encoding='utf-8', newline='\n').write(
         reference_sheets())
     print(f'{kanda_te} sarga {sarga}: {len(verses)} ślokas built')
