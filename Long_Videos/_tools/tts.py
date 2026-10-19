@@ -23,6 +23,7 @@ TONES = {
     'calm': ('[calm]', 'ప్రశాంతంగా, కథ చెబుతున్నట్లు'),
 }
 STORY = 'calm'    # the book's narration between the new parts
+INTRO = 'పురాణ కథా శ్రవణం! మన పురాణాలు, మన ఇతిహాసాలు, మన జీవన విధానాలు!'   # Videos/tts/00_INTRO.txt
 
 ONES = ['', 'ఒకటి', 'రెండు', 'మూడు', 'నాలుగు', 'ఐదు', 'ఆరు', 'ఏడు', 'ఎనిమిది', 'తొమ్మిది']
 TEENS = ['పది', 'పదకొండు', 'పన్నెండు', 'పదమూడు', 'పద్నాలుగు', 'పదిహేను', 'పదహారు', 'పదిహేడు', 'పద్దెనిమిది', 'పందొమ్మిది']
@@ -110,7 +111,7 @@ def paragraphs(spoken, tags=None):
     tags = TAGS if tags is None else tags
     res, last = [], None
     for kind, text, tone in _paragraphs(spoken):
-        if kind == 'verse':
+        if kind in ('verse', 'intro'):
             res.append((kind, text))
             last = None
             continue
@@ -125,6 +126,12 @@ def paragraphs(spoken, tags=None):
 def _paragraphs(spoken):
     out, cur = [], ''
     for x in spoken:
+        if x['id'] == 'I':                              # the channel intro clip: recorded once, placed here
+            if cur:
+                out.append(('text', _close(cur), None))
+                cur = ''
+            out.append(('intro', INTRO, None))
+            continue
         if x.get('scene', {}).get('verse'):
             if cur:
                 out.append(('text', _close(cur), None))
@@ -157,12 +164,12 @@ def pieces(paras, limit=LIMIT):
     (generate it separately, or record it in your own voice, and place it where it stands)."""
     out, cur = [], []
     for kind, p in paras:
-        if kind == 'verse' or (cur and len('\n\n'.join(cur + [p])) > limit):
+        if kind in ('verse', 'intro') or (cur and len('\n\n'.join(cur + [p])) > limit):
             if cur:
                 out.append(('text', '\n\n'.join(cur)))
             cur = []
-        if kind == 'verse':
-            out.append(('verse', p))
+        if kind in ('verse', 'intro'):
+            out.append((kind, p))
         else:
             cur.append(p)
     if cur:
@@ -170,4 +177,4 @@ def pieces(paras, limit=LIMIT):
     if not TAGS:
         return out
     tag = TONES[STORY][0]                          # each piece is generated alone: never start one untagged
-    return [(k, p if k == 'verse' or p.startswith('[') else f'{tag} {p}') for k, p in out]
+    return [(k, p if k != 'text' or p.startswith('[') else f'{tag} {p}') for k, p in out]

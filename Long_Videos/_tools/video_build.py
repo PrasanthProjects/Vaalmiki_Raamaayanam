@@ -53,6 +53,10 @@ def read_fixes(path):
             if head.startswith(('REHOOK ', 'HOOK ')):
                 splits[(head.split()[1], head.split()[0].lower())] = rest
                 continue
+            if head.startswith('WELCOME '):
+                w = head.split()
+                splits[(w[1], int(w[2]) if len(w) > 2 else None, 'welcome')] = rest
+                continue
             if head.startswith('TONE '):
                 w = head.split()
                 assert rest in tts.TONES, f'unknown tone {rest!r}; use one of {", ".join(tts.TONES)}'
@@ -158,6 +162,19 @@ def assemble(parts, extras, splits, vid_index):
                 'visual': f"Fast, dramatic flash-forward teaser of this story's biggest moment: {src['visual']}"}
         seq.append(hook)
         chapters.append((hook, st[c0][1]))
+        # hook first (it holds the viewer), then the channel intro and a welcome that sets the scene;
+        # E0.01 opens with its own "నమస్తే. ఇది పురాణ కథా శ్రవణం ఛానల్", so the intro clip would only repeat it
+        if first and e['ep'] != 'E0.01':
+            seq.append({'id': 'I', 'ep': e['ep'], 'label': 'ఇంట్రో (ఛానల్ బంపర్)', 'kind': 'video', 'secs': BUMPER,
+                        'narration': '', 'new': True, 'loc': '', 'onscreen': 'పురాణ కథా శ్రవణం', 'tone': 'calm',
+                        'visual': INTRO_VISUAL})
+            welcome = splits.get((e['ep'], st[c0][2] if c0 else None, 'welcome'))
+            if welcome:
+                seq.append({'id': 'W', 'ep': e['ep'], 'label': 'స్వాగతం', 'kind': 'image', 'secs': L.speak_secs(welcome),
+                            'narration': welcome, 'new': True, 'loc': sc[0]['loc'], 'onscreen': '', 'tone': 'warm',
+                            'visual': f"A calm, wide establishing view of the setting: {sc[0]['visual']}"})
+            elif e['ep'] != 'E0.01':
+                warn.append(f"{e['ep']}: video opening has no 'WELCOME {e['ep']}{' ' + str(st[c0][2]) if c0 else ''} | …' line")
         if not ep_start and sp.get('RECAP'):
             seq.append({'id': 'R', 'ep': e['ep'], 'label': 'ఇంతవరకు', 'kind': 'image', 'secs': L.speak_secs(sp['RECAP']),
                         'narration': sp['RECAP'], 'new': True, 'loc': sc[0]['loc'], 'onscreen': '',
@@ -198,8 +215,8 @@ def assemble(parts, extras, splits, vid_index):
     for item in seq:   # every new part carries its delivery tone (hooks were set above)
         if item['new'] and 'tone' not in item:
             item['tone'] = {'B': 'curious' if item['narration'].rstrip().endswith('?') else 'calm',
-                            'R': 'calm', 'T': 'curious', 'L': 'warm', 'C': 'warm'}[item['id'][0]]
-    total = BUMPER + sum(i['secs'] for i in seq) + OUTRO
+                            'R': 'calm', 'T': 'curious', 'L': 'warm', 'C': 'warm', 'W': 'warm', 'I': 'calm'}[item['id'][0]]
+    total = sum(i['secs'] for i in seq) + OUTRO       # the intro clip is an item now, after the hook
     return seq, chapters, total, warn
 
 
@@ -271,6 +288,25 @@ def group_videos(eps, extras, splits):
     return cuts[::-1]
 
 
+INTRO_VISUAL = ('Channel title bumper: the Purana Katha Shravanam wordmark forming from a softly glowing palm-leaf '
+                'manuscript page, a kalasha with a single falling drop of nectar beside it, warm gold light')
+
+
+def srt(items):
+    """Captions from 0:00 (the hook comes first); the intro clip has no words."""
+    cues, t = [], 0
+    for s in items:
+        lines = L.chunks(s['narration'])
+        total = sum(len(x) for x in lines) or 1
+        a = t
+        for line in lines:
+            b = a + s['secs'] * len(line) / total
+            cues.append((a, b, line))
+            a = b
+        t += s['secs']
+    return '\n'.join(f'{i}\n{L.srt_time(a)} --> {L.srt_time(b)}\n{x}\n' for i, (a, b, x) in enumerate(cues, 1))
+
+
 def recording(spoken):
     out, ep = [], None
     for x in spoken:
@@ -279,7 +315,11 @@ def recording(spoken):
                 out.append(f'\n[── ఇక్కడి నుండి {x["ep"]} కథ ──]')
             ep = x['ep']
         if x['new']:      # the part's own tone, not one fixed "ఉత్సాహంగా" for every hook
-            part = {'H': 'హుక్', 'B': 'బ్రిడ్జ్', 'R': 'ఇంతవరకు', 'T': 'టీజర్', 'L': 'జీవిత పాఠం', 'C': 'సబ్‌స్క్రైబ్'}[x['id'][0]]
+            if x['id'] == 'I':
+                out += ['[ఇంట్రో క్లిప్ – ఒక్కసారే చేసిన ఆడియో (Videos/tts/00_INTRO.txt) ఇక్కడ పెట్టండి]', '⏸']
+                continue
+            part = {'H': 'హుక్', 'B': 'బ్రిడ్జ్', 'R': 'ఇంతవరకు', 'T': 'టీజర్', 'L': 'జీవిత పాఠం', 'C': 'సబ్‌స్క్రైబ్',
+                    'W': 'స్వాగతం'}[x['id'][0]]
             out += [f"[{part} · {tts.TONES[x['tone']][1]}]", *L.breath(x['narration']), '⏸']
         else:
             out.append(L.performance_script([x]))
@@ -291,7 +331,7 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
     seq, chap_items, total, warn = assemble(parts, extras, splits, i - 1)
     spoken = list(seq)
     seq = expand(seq)
-    t = BUMPER
+    t = 0
     for item in seq:
         item['start'] = t
         t += item['secs']
@@ -339,7 +379,8 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
 
     script = recording(spoken)
     voice = tts.pieces(tts.paragraphs(spoken))
-    labels = [f'భాగం {n} / {len(voice)}' + (' · 🕉️ శ్లోకం' if kind == 'verse' else '')
+    labels = [f'భాగం {n} / {len(voice)}' + {'verse': ' · 🕉️ శ్లోకం', 'intro': ' · 🎬 ఇంట్రో క్లిప్ – ఒక్కసారే చేసినది ఇక్కడ పెట్టండి',
+                                              'text': ''}[kind]
               for n, (kind, _) in enumerate(voice, 1)]
     voice_md = '\n'.join(f'**{lab}** · {len(v)} అక్షరాలు\n\n```text\n{v}\n```\n' for lab, (_, v) in zip(labels, voice))
     verses = [x['narration'] for x in spoken if x.get('scene', {}).get('verse')]
@@ -380,7 +421,7 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
         '*`Long_Videos/_tools/video_build.py` తయారుచేసిన ఫైల్. చేత్తో మార్చవద్దు – మార్పులు సీన్ పట్టికలో లేదా '
         '`_tools/data/` లో చేసి మళ్ళీ బిల్డ్ చేయండి.*\n',
         '| | |\n|---|---|',
-        f'| వీడియో నిడివి | **{mmss(total)}** (బంపర్ {BUMPER} సె + {len(seq)} క్లిప్‌లు + ఔట్రో {OUTRO} సె) |',
+        f'| వీడియో నిడివి | **{mmss(total)}** (హుక్ → ఇంట్రో {BUMPER} సె → స్వాగతం → కథ … → ఔట్రో {OUTRO} సె; {len(seq)} క్లిప్‌లు) |',
         f"| ఎపిసోడ్‌లు | {eps_long} – శ్లోకాలు లేకుండా, ఒకే కథగా కలిపి |",
         f'| క్లిప్‌లు | 🎥 వీడియో {n_video} · 🖼️ ఇమేజ్ + కదలిక {len(seq) - n_video} |',
         f'| క్యాప్షన్లు | `{srt_rel}` |',
@@ -410,7 +451,7 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
         '### 2. క్లిప్‌లు (16:9 · ఫోటోరియలిస్టిక్)\n',
         '- **🎥 వీడియో:** Flow (Veo) లో. ముందు ఇదే ప్రాంప్ట్‌తో ఇమేజ్ చేసి, నచ్చితే *Frames to Video* లో మొదటి ఫ్రేమ్‌గా వాడండి.',
         '- **🖼️ ఇమేజ్ + కదలిక:** ఇమేజ్ మాత్రమే చేసి, ఎడిటర్‌లో ఇచ్చిన జూమ్/ప్యాన్‌తో క్లిప్ నిడివి అంతా చూపించండి.',
-        f'- ప్రతి క్లిప్‌కు **రిఫరెన్స్** ఇమేజ్‌లను Flow లో *Ingredients* గా జత చేయండి. సమయాలు బంపర్ ({BUMPER} సె) తో కలిపి.\n',
+        f'- ప్రతి క్లిప్‌కు **రిఫరెన్స్** ఇమేజ్‌లను Flow లో *Ingredients* గా జత చేయండి. సమయాలు వీడియో మొదటి నుండి (హుక్ 0:00 నుండి).\n',
         '\n'.join(md_items),
         '### 3. థంబ్‌నెయిల్ (1280×720 · 16:9)\n',
         '| భాగం | టెక్స్ట్ | రూపం |\n|---|---|---|',
@@ -430,7 +471,7 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
     page = {'n': f'V{i:02d}', 'headline': main, 'hl': hl, 'sub': sub, 'badge': f'{kaanda_te} · {i} · {mmss(total)}',
             'title': title, 'sloka': [], 'tts': [v for _, v in voice], 'ttsLabels': labels, 'reading': None, 'clips': cards, 'thumbPrompt': tprompt,
             'thumbRefs': trefs, 'desc': desc, 'pinned': lead['d']['pin'], 'srt': srt_rel}
-    return fname, md, L.srt(spoken), page, total, warn, eps_long, list(zip(labels, [v for _, v in voice]))
+    return fname, md, srt(spoken), page, total, warn, eps_long, list(zip(labels, [v for _, v in voice]))
 
 
 def main(data_path):
