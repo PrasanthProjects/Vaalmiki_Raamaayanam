@@ -11,6 +11,19 @@ import re
 
 LIMIT = 2400
 
+# Delivery per tone: (Eleven v3 audio tag at the start of the paragraph, cue for reading it yourself).
+# No "excited" anywhere: on hooks it makes the voice jump in pitch and laugh, which sounds wrong in a sacred story.
+TONES = {
+    'serious': ('[serious]', 'గంభీరంగా, నెమ్మదిగా – ఉత్సాహం, నవ్వు వద్దు'),
+    'sad': ('[sad]', 'బాధగా, మృదువుగా, నెమ్మదిగా'),
+    'awe': ('[in awe]', 'భక్తితో, ఆశ్చర్యంగా, మృదువైన స్వరంతో'),
+    'tense': ('[tense]', 'ఉత్కంఠగా, తక్కువ స్వరంలో – అరవకుండా'),
+    'curious': ('[curious]', 'ఆసక్తిగా, ప్రశ్న మీద స్వరం కొంచెం పైకి'),
+    'warm': ('[warm]', 'ఆత్మీయంగా, చిరునవ్వుతో, సహజంగా'),
+    'calm': ('[calm]', 'ప్రశాంతంగా, కథ చెబుతున్నట్లు'),
+}
+STORY = 'calm'    # the book's narration between the new parts
+
 ONES = ['', 'ఒకటి', 'రెండు', 'మూడు', 'నాలుగు', 'ఐదు', 'ఆరు', 'ఏడు', 'ఎనిమిది', 'తొమ్మిది']
 TEENS = ['పది', 'పదకొండు', 'పన్నెండు', 'పదమూడు', 'పద్నాలుగు', 'పదిహేను', 'పదహారు', 'పదిహేడు', 'పద్దెనిమిది', 'పందొమ్మిది']
 TENS = ['', '', 'ఇరవై', 'ముప్పై', 'నలభై', 'యాభై', 'అరవై', 'డెబ్బై', 'ఎనభై', 'తొంభై']
@@ -85,35 +98,54 @@ def chant(verse):
     return '\n'.join(re.sub(r'\s+', ' ', h) + '.' for h in halves)
 
 
-def paragraphs(spoken):
+def paragraphs(spoken, tags=True):
     """spoken: the video's items in order -> [(kind, text)]. New parts (hook, bridge, recap, lesson, teaser, subscribe)
-    are their own paragraph; scene lines join until a sentence ends; a kept sloka is kind 'verse'."""
+    are their own paragraph, opened with the audio tag of their tone; the story paragraph after one goes back to
+    the calm storytelling tag. Scene lines join until a sentence ends; a kept sloka is kind 'verse'."""
+    out = _paragraphs(spoken)
+    if not tags:
+        return [(k, t) for k, t, _ in out]
+    res, last = [], None
+    for kind, text, tone in out:
+        if kind == 'verse':
+            res.append((kind, text))
+            last = None
+            continue
+        if tone and tone not in ('warm', 'curious'):
+            text = text.replace('!', '.')       # in a hook, an exclamation pushes the voice into excitement
+        tone = tone or STORY
+        res.append((kind, f'{TONES[tone][0]} {text}' if tone != last else text))
+        last = tone
+    return res
+
+
+def _paragraphs(spoken):
     out, cur = [], ''
     for x in spoken:
         if x.get('scene', {}).get('verse'):
             if cur:
-                out.append(('text', _close(cur)))
+                out.append(('text', _close(cur), None))
                 cur = ''
             if out and out[-1][0] == 'verse':          # a sloka that runs over two scenes stays one piece
-                out[-1] = ('verse', out[-1][1] + '\n' + chant(x['narration']))
+                out[-1] = ('verse', out[-1][1] + '\n' + chant(x['narration']), None)
             else:
-                out.append(('verse', chant(x['narration'])))
+                out.append(('verse', chant(x['narration']), None))
             continue
         t = clean(x['narration'])
         if not t:
             continue
         if x['new']:
             if cur:
-                out.append(('text', _close(cur)))
+                out.append(('text', _close(cur), None))
                 cur = ''
-            out.append(('text', _close(t)))
+            out.append(('text', _close(t), x.get('tone')))
             continue
         cur = f'{cur} {t}'.strip()
         if cur.endswith(('.', '?', '!')):
-            out.append(('text', cur))
+            out.append(('text', cur, None))
             cur = ''
     if cur:
-        out.append(('text', _close(cur)))
+        out.append(('text', _close(cur), None))
     return out
 
 
@@ -132,4 +164,5 @@ def pieces(paras, limit=LIMIT):
             cur.append(p)
     if cur:
         out.append(('text', '\n\n'.join(cur)))
-    return out
+    tag = TONES[STORY][0]                          # each piece is generated alone: never start one untagged
+    return [(k, p if k == 'verse' or p.startswith('[') else f'{tag} {p}') for k, p in out]

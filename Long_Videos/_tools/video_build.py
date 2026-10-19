@@ -50,8 +50,13 @@ def read_fixes(path):
                 fixes.setdefault((ep, int(no)), []).append(None)
                 continue
             head, rest = line.split(' | ', 1)
-            if head.startswith('REHOOK '):
-                splits[(head.split()[1], 'rehook')] = rest
+            if head.startswith(('REHOOK ', 'HOOK ')):
+                splits[(head.split()[1], head.split()[0].lower())] = rest
+                continue
+            if head.startswith('TONE '):
+                w = head.split()
+                assert rest in tts.TONES, f'unknown tone {rest!r}; use one of {", ".join(tts.TONES)}'
+                splits[(w[1], int(w[2]), 'tone') if len(w) > 2 else (w[1], 'tone')] = rest
                 continue
             if head.startswith('SPLIT '):
                 _, ep, n = head.split()
@@ -137,8 +142,10 @@ def assemble(parts, extras, splits, vid_index):
         sc = trim(part_scenes(e, c0, c1), ep_start and not first, ep_end and not last)
         bridges = dict(zip([n for n, _ in e['d']['chapters'][1:]], x['bridges']))
         if ep_start:
-            hook_text, hook_from = (x['hook'] if first else splits.get((e['ep'], 'rehook'), x['hook'])), x['hook_from']
+            hook_text = splits.get((e['ep'], 'hook')) or (x['hook'] if first else splits.get((e['ep'], 'rehook'), x['hook']))
+            hook_from, tone = x['hook_from'], splits.get((e['ep'], 'tone'), 'curious')
         else:
+            tone = splits.get((e['ep'], st[c0][2], 'tone'), 'curious')
             sp = splits.get((e['ep'], st[c0][2]))
             if not sp:
                 warn.append(f"{e['ep']}: video starts at chapter {st[c0][2]} – add 'SPLIT {e['ep']} {st[c0][2]} | HOOK: … | TEASE: …'")
@@ -147,7 +154,7 @@ def assemble(parts, extras, splits, vid_index):
         src = next((s for s in e['scenes'] if s['no'] == hook_from), sc[0])
         hook = {'id': 'H', 'ep': e['ep'], 'label': 'హుక్' if first else f'రీ-హుక్ → {st[c0][1]}', 'kind': 'video',
                 'secs': L.speak_secs(hook_text), 'narration': hook_text, 'new': True, 'loc': src['loc'],
-                'onscreen': '' if first else st[c0][1],
+                'onscreen': '' if first else st[c0][1], 'tone': tone,
                 'visual': f"Fast, dramatic flash-forward teaser of this story's biggest moment: {src['visual']}"}
         seq.append(hook)
         chapters.append((hook, st[c0][1]))
@@ -188,6 +195,10 @@ def assemble(parts, extras, splits, vid_index):
     cta = L.CTAS[vid_index % len(L.CTAS)]
     seq.append({'id': 'C', 'ep': parts[-1][0]['ep'], 'label': 'సబ్‌స్క్రైబ్', 'kind': 'image', 'secs': L.speak_secs(cta),
                 'narration': cta, 'new': True, 'visual': L.CTA_VISUAL, 'loc': '', 'onscreen': 'SUBSCRIBE 🔔'})
+    for item in seq:   # every new part carries its delivery tone (hooks were set above)
+        if item['new'] and 'tone' not in item:
+            item['tone'] = {'B': 'curious' if item['narration'].rstrip().endswith('?') else 'calm',
+                            'R': 'calm', 'T': 'curious', 'L': 'warm', 'C': 'warm'}[item['id'][0]]
     total = BUMPER + sum(i['secs'] for i in seq) + OUTRO
     return seq, chapters, total, warn
 
@@ -267,7 +278,11 @@ def recording(spoken):
             if ep:
                 out.append(f'\n[── ఇక్కడి నుండి {x["ep"]} కథ ──]')
             ep = x['ep']
-        out.append(L.performance_script([x]))
+        if x['new']:      # the part's own tone, not one fixed "ఉత్సాహంగా" for every hook
+            part = {'H': 'హుక్', 'B': 'బ్రిడ్జ్', 'R': 'ఇంతవరకు', 'T': 'టీజర్', 'L': 'జీవిత పాఠం', 'C': 'సబ్‌స్క్రైబ్'}[x['id'][0]]
+            out += [f"[{part} · {tts.TONES[x['tone']][1]}]", *L.breath(x['narration']), '⏸']
+        else:
+            out.append(L.performance_script([x]))
     return '\n'.join(out)
 
 
@@ -373,6 +388,9 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
         '### 1. 🔊 ElevenLabs టెక్స్ట్ (AI వాయిస్)\n',
         f'ప్రతి భాగాన్ని వరుసగా ఒక్కొక్కటిగా పేస్ట్ చేయండి ({tts.LIMIT} అక్షరాల లోపు). సూచనలు, ⏸ గుర్తులు లేవు; '
         'అంకెలు తెలుగు పదాలుగా; ప్రతి పేరా . ? ! తో ముగుస్తుంది; కామా దగ్గర చిన్న విరామం, పేరా మధ్య పెద్ద విరామం. '
+        '**స్వరం:** ప్రతి పేరా ముందు ఉన్న `[serious]` `[sad]` `[in awe]` `[tense]` `[curious]` `[warm]` `[calm]` – Eleven v3 '
+        'ఆడియో ట్యాగ్‌లు, ఆ సన్నివేశానికి తగిన స్వరం కోసం (అవి చదవబడవు). v3 లో **Stability: Natural** (లేదా Robust) పెట్టండి – '
+        '"Creative" లో హుక్‌లు అతిగా నవ్వుతూ, పిచ్ పెంచి వస్తాయి. వేరే మోడల్ ట్యాగ్‌లను చదివేస్తే వాటిని తొలగించి పేస్ట్ చేయండి. '
         '**🕉️ శ్లోకం** భాగాలు విడిగా: AI వాయిస్ సంస్కృతాన్ని సరిగ్గా పలకకపోవచ్చు – ఒకసారి విని, బాగోలేకపోతే మీ గొంతుతో '
         'నెమ్మదిగా, శ్రావ్యంగా రికార్డ్ చేసి, కింద తంబుర/వీణ సంగీతంతో అదే స్థానంలో పెట్టండి. '
         f'అదే టెక్స్ట్ `{tts_rel}` లో కూడా ఉంది. ముందు వచ్చే ఇంట్రో (బంపర్) ఒక్కసారే చేయాలి: '
