@@ -271,3 +271,5 @@ E2.49 15 | ఇక్కడికి వచ్చిన సైన్యముల�
 # A video must not end on a speaker's lead-in: the next video opens on her words after its recap.
 E2.04 21 | విసిరేసి ఇలా అని పలికింది — => విసిరేసింది.
 SIMPLE | అవధి మించి ప్రవర్తిస్తున్నావు => మితిమీరి ప్రవర్తిస్తున్నావు
+# A modern phrase from the book narration; Valmiki (2.1) names the kingdom's chief officials.
+SIMPLE | ప్రభుత్వ ఉద్యోగులని => రాజ్యాధికారులని
