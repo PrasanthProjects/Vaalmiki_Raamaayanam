@@ -40,6 +40,10 @@ def read_fixes(path):
             line = line.rstrip('\n')
             if not line.strip() or line.startswith('#'):
                 continue
+            if line.startswith('DROP '):
+                _, ep, no = line.split()
+                fixes.setdefault((ep, int(no)), []).append(None)
+                continue
             head, rest = line.split(' | ', 1)
             if head.startswith('REHOOK '):
                 splits[(head.split()[1], 'rehook')] = rest
@@ -75,10 +79,11 @@ def story(ep, d, fixes):
     text, tel, src, scenes = L.parse_episode(L.episode_file(ep))
     out = []
     for s in scenes:
-        if L.is_verse(s['narration']):
+        mine = fixes.pop((ep, s['no']), [])
+        if L.is_verse(s['narration']) or None in mine:
             continue
         s = dict(s)
-        for old, new in fixes.pop((ep, s['no']), []):
+        for old, new in mine:
             assert old in s['narration'], f'{ep} scene {s["no"]}: fix text not found: {old}'
             s['narration'] = s['narration'].replace(old, new)
         out.append(s)
@@ -330,7 +335,8 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
         '### 1. 🔊 ElevenLabs టెక్స్ట్ (AI వాయిస్)\n',
         f'ప్రతి భాగాన్ని వరుసగా ఒక్కొక్కటిగా పేస్ట్ చేయండి ({tts.LIMIT} అక్షరాల లోపు). సూచనలు, ⏸ గుర్తులు లేవు; '
         'అంకెలు తెలుగు పదాలుగా; ప్రతి పేరా . ? ! తో ముగుస్తుంది; కామా దగ్గర చిన్న విరామం, పేరా మధ్య పెద్ద విరామం. '
-        f'అదే టెక్స్ట్ `{tts_rel}` లో కూడా ఉంది.\n',
+        f'అదే టెక్స్ట్ `{tts_rel}` లో కూడా ఉంది. ముందు వచ్చే ఇంట్రో (బంపర్) ఒక్కసారే చేయాలి: '
+        '`Long_Videos/Videos/tts/00_INTRO.txt` – «పురాణ కథా శ్రవణం! మన పురాణాలు, మన ఇతిహాసాలు, మన జీవన విధానాలు!»\n',
         voice_md,
         '### 1బి. 🎙️ సొంత గొంతుతో చదవాలంటే – రికార్డింగ్ స్క్రిప్ట్\n',
         *hooks,

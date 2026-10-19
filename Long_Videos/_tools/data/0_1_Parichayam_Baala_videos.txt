@@ -26,3 +26,9 @@ SPLIT E1.23 33 | FROM: 38 | HOOK: ఒకే వేదిక. నలుగుర�
 # A re-hook used when the episode starts inside a video (its own hook would repeat the line that follows it).
 # REHOOK <episode> | …
 REHOOK E1.05 | అయోధ్య అంతా ఎదురుచూస్తోంది. మూడు అంతఃపురాల్లో ముగ్గురు రాణులు. దేవతలు కూడా ఆకాశం నుండి చూస్తున్నారు. ఆ శుభ ఘడియ రానే వచ్చింది.
+
+# Sloka words written without '।' (so not caught as a sloka): drop the scene, or reword the line.
+DROP E0.01 4
+E0.01 3 | అది ఎమిటంటే — => అది ఏమిటంటే —
+E1.02 14 | "మా నిషాద ప్రతిష్ఠాం త్వ మగమః శాశ్వతీః సమాః" అంటే — => కాబట్టి ఆ మాటల మొదటి భాగానికి అర్థం —
+E1.02 15 | "యత్ క్రౌంచమిథునాదేకమ్ అవధీః కామమోహితమ్" — => రెండవ భాగానికి అర్థం —
