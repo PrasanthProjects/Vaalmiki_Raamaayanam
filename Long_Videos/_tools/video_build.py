@@ -31,6 +31,8 @@ VIDEOS = os.path.join(L.LONG, 'Videos')
 L.CUES['R'] = '[ఇంతవరకు · సహజంగా, కొంచెం వేగంగా – కొత్త వీక్షకుడికి కథ గుర్తుచేస్తున్నట్లు]'
 L.CUES['T'] = '[తరువాతి వీడియో టీజర్ · నెమ్మదిగా, ఉత్కంఠగా, ప్రశ్న మీద ఆగండి]'
 TARGET, LOW, HIGH = 11 * 60, 10 * 60, 12 * 60
+SIMPLE = []   # [exact words, plain Telugu, times used] (data/*_videos.txt SIMPLE lines)
+CARDS = {}   # (episode, scene) -> on-screen meaning under a kept sloka (data/*_videos.txt CARD lines)
 
 
 def read_fixes(path):
@@ -53,6 +55,14 @@ def read_fixes(path):
             if head.startswith(('REHOOK ', 'HOOK ')):
                 splits[(head.split()[1], head.split()[0].lower())] = rest
                 continue
+            if head == 'SIMPLE':
+                old, new = rest.split(' => ', 1)
+                SIMPLE.append([old, new, 0])
+                continue
+            if head.startswith('CARD '):
+                _, ep, no = head.split()
+                CARDS[(ep, int(no))] = rest
+                continue
             if head.startswith('WELCOME '):
                 w = head.split()
                 splits[(w[1], int(w[2]) if len(w) > 2 else None, 'welcome')] = rest
@@ -72,12 +82,18 @@ def read_fixes(path):
     return fixes, splits
 
 
+def open_ended(text):
+    """A line that does not finish its sentence: '… ప్రార్థించగా,'  '… ఇలా చెప్పాడు —'  '… ఇలా అన్నాడు.'"""
+    t = text.rstrip(' "\'')
+    return not t.endswith(('.', '?', '!')) or t.endswith(('ఇలా అన్నాడు.', 'ఇలా పలికారు.', 'ఇలా చెప్పాడు.'))
+
+
 def chapter_starts(d, sc):
     """Chapter -> first kept scene at or after its old start (a chapter that lost its scenes merges into the next).
     A chapter never starts right after a lead-in ("… ఇలా అన్నాడు —"): the bridge would cut the speaker off,
     so the chapter (and its bridge) moves back to the lead-in line."""
     nos = [s['no'] for s in sc]
-    lead_in = {s['no'] for s in sc if s['narration'].rstrip(' "\'').endswith(('—', 'ఇలా అన్నాడు.', 'ఇలా పలికారు.'))}
+    lead_in = {s['no'] for s in sc if open_ended(s['narration'])}
     out = []
     for n, title in d['chapters']:
         at = next((x for x in nos if x >= n), None)
@@ -97,10 +113,16 @@ def story(ep, d, fixes):
         verse = L.is_verse(s['narration'])
         if (verse and 'KEEP' not in mine) or None in mine:
             continue
-        s = dict(s, verse=verse)
+        s = dict(s, verse=verse, ep=ep)
+        if not verse:     # plain Telugu for the listener (never inside a sloka)
+            for rule in SIMPLE:
+                if rule[0] in s['narration']:
+                    s['narration'] = s['narration'].replace(rule[0], rule[1])
+                    rule[2] += 1
         for old, new in (m for m in mine if m != 'KEEP'):
             assert old in s['narration'], f'{ep} scene {s["no"]}: fix text not found: {old}'
             s['narration'] = s['narration'].replace(old, new)
+            s['secs'] = max(s['secs'], L.speak_secs(s['narration']))   # a longer line needs a longer clip
         out.append(s)
     kinds = dict(zip([s['no'] for s in out], L.kinds_for(out)))
     for s in out:
@@ -212,6 +234,15 @@ def assemble(parts, extras, splits, vid_index):
     cta = L.CTAS[vid_index % len(L.CTAS)]
     seq.append({'id': 'C', 'ep': parts[-1][0]['ep'], 'label': 'సబ్‌స్క్రైబ్', 'kind': 'image', 'secs': L.speak_secs(cta),
                 'narration': cta, 'new': True, 'visual': L.CTA_VISUAL, 'loc': '', 'onscreen': 'SUBSCRIBE 🔔'})
+    # At an episode join, a story line left open ("…అడుగుపెట్టగానే —") moves to just after the re-hook,
+    # so the re-hook never cuts a sentence in half and the line runs straight into its answer.
+    for k in range(1, len(seq)):
+        if seq[k]['id'] == 'H' and k > 1:
+            j = k
+            while j > 0 and 'scene' in seq[j - 1] and open_ended(seq[j - 1]['narration']):
+                j -= 1
+            if j < k:
+                seq[j:k + 1] = [seq[k]] + seq[j:k]
     for item in seq:   # every new part carries its delivery tone (hooks were set above)
         if item['new'] and 'tone' not in item:
             item['tone'] = {'B': 'curious' if item['narration'].rstrip().endswith('?') else 'calm',
@@ -226,7 +257,7 @@ def verse_card(s, sc):
         return ''
     i = sc.index(s)
     n = next((x for x in sc[i + 1:] if not x.get('verse')), None)
-    meaning = L.first_sentence(tts.clean(n['narration'])) if n else ''
+    meaning = CARDS.get((s['ep'], s['no'])) or (L.first_sentence(tts.clean(n['narration'])) if n else '')
     return 'శ్లోకం తెలుగు లిపిలో, అక్షరం అక్షరం కనిపిస్తూ' + (f' · కింద అర్థం: {meaning}' if meaning else '')
 
 
@@ -480,6 +511,8 @@ def main(data_path):
     fixes, splits = read_fixes(data_path.replace('.txt', '_videos.txt'))
     eps = [story(ep, d, fixes) for ep, d in data.items()]
     assert not fixes, f'fixes for scenes that were not found: {sorted(fixes)}'
+    unused = [r[0] for r in SIMPLE if not r[2]]
+    assert not unused, f'SIMPLE words not found anywhere: {unused}'
     by_kaanda = {}
     for e in eps:
         by_kaanda.setdefault(max(e['k'], 1), []).append(e)    # Parichayam opens the Baala series
