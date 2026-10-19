@@ -96,7 +96,7 @@ def _close(p):
 
 def chant(verse):
     """A kept sloka as its own piece: one half-line per line, each closed with '.' so the voice pauses there."""
-    halves = [h.strip(' "\'') for h in re.split(r'[।॥]+', verse) if h.strip(' "\'')]
+    halves = [h.strip().strip('"\'') for h in re.split(r'[।॥]+', verse) if h.strip().strip('"\'')]
     return '\n'.join(re.sub(r'\s+', ' ', h) + '.' for h in halves)
 
 

@@ -1,0 +1,183 @@
+# Special sloka video 1: slokas for expecting mothers. Every sloka checked against Sanskrit Wikisource
+# (Valmiki Ramayanam, Gita Press numbering): 1.16.19 · 1.18.8-10 · 1.23.2 · 2.25.32-35.
+NAME: 01_Garbha_Sanskaram
+TITLE: గర్భిణీ తల్లులు వినవలసిన రామాయణ శ్లోకాలు | గర్భ సంస్కారం | వాల్మీకి రామాయణం అర్థంతో
+HEAD: గర్భిణీ తల్లుల కోసం | రామాయణ మంగళ శ్లోకాలు
+THUMB: A serene young expecting mother in a modest cream-and-gold cotton silk saree, seated in a sunlit traditional South Indian courtyard beside a tulasi plant, one hand resting gently on her belly, eyes softly closed in peace; behind her, faint and golden like a vision in the sky, Kausalya holding the infant Rama wrapped in silk; warm sunrise light, lotus petals.
+FIRST_CHAPTER: గర్భిణీ తల్లుల కోసం
+NOTE: భక్తి, సంప్రదాయం కోసం చేసిన వీడియో. ఆరోగ్యం గురించి ఏ వాగ్దానమూ చేయదు; ప్రతి చోట "సంప్రదాయంగా", "శుభ భావనతో" అనే మాటలే.
+DESC: గర్భిణీ తల్లులు ప్రశాంతంగా వినడానికి వాల్మీకి రామాయణం నుండి నాలుగు మంగళ ఘట్టాలు, అర్థంతో. పుత్రకామేష్టి యాగంలో దేవతలు ఇచ్చిన పాయసం, శ్రీరాముని జననం, కౌసల్యా సుప్రజా రామ, కౌసల్యాదేవి తన బిడ్డకు ఇచ్చిన మంగళ దీవెనలు. ప్రతి శ్లోకం ఎక్కడిది, ఎవరు ఎప్పుడు పలికారు, దాని అర్థం ఏమిటి, సరళమైన తెలుగులో. చివర అన్ని శ్లోకాలు నిరంతర పారాయణంగా.
+DISCLAIMER: ఈ వీడియో భక్తి, సంప్రదాయం కోసం మాత్రమే. ఇది వైద్య సలహాకు ప్రత్యామ్నాయం కాదు; మీ వైద్యుల సలహాలు తప్పకుండా పాటించండి.
+TAGS: #garbhasanskar #pregnancy #slokas #kausalyasuprajarama #ramanavami
+PIN: మీ ఇంట్లో ఎవరైనా గర్భిణీ తల్లి ఉంటే ఈ వీడియో వారితో పంచుకోండి. మీకు ఏ శ్లోకం బాగా నచ్చింది? కామెంట్‌లో రాయండి 🙏
+SHORT_TITLE: దేవతలు ఇచ్చిన పాయసం – గర్భిణీ తల్లుల కోసం ఒక శ్లోకం #shorts
+SHORT_DESC: వాల్మీకి రామాయణం బాలకాండ 16వ సర్గ, 19వ శ్లోకం. పుత్రకామేష్టి యాగ అగ్ని నుండి వచ్చిన దివ్య పురుషుడు దశరథుడికి ఇచ్చిన పాయసం.
+
+@ H | video | హుక్ | E1.16 | గర్భిణీ తల్లుల కోసం
+VISUAL: A serene young expecting mother in a modest cream cotton saree seated in a sunlit South Indian courtyard beside a tulasi plant, one hand resting gently on her belly, eyes closed, a faint smile; soft sunrise light slowly rising on her face.
+అమ్మ కడుపులో ఉన్న బిడ్డ, ఈ లోకాన్ని చూడక ముందే తల్లి గొంతు వింటుంది అంటారు. మరి ఆ బిడ్డకు వినిపించే మాటలు, శ్రీరాముడి జననానికి సంబంధించిన మంగళ శ్లోకాలు అయితే ఎంత శుభం? ఈ రోజు గర్భిణీ తల్లుల కోసం, వాల్మీకి రామాయణం నుండి నాలుగు దివ్యమైన ఘట్టాలు.
+
+@ I | intro | ఇంట్రో (ఛానల్ బంపర్)
+
+@ W | image | స్వాగతం | E1.16
+VISUAL: A softly glowing palm-leaf manuscript of the Ramayana open on a carved wooden stand beside a lit brass oil lamp, jasmine flowers and a small cradle of carved wood in the background, warm morning light.
+నమస్కారం. పురాణ కథా శ్రవణం ప్రత్యేక శ్లోకాల వరుసలో ఇది మొదటి భాగం. ప్రశాంతంగా కూర్చోండి, వీలైతే కళ్ళు మూసుకుని వినండి. ఒక చిన్న మాట. ఇవి భక్తితో వినడానికి. మీ వైద్యుల సలహాలు తప్పకుండా పాటించండి.
+
+@ B1 | image | బ్రిడ్జ్ → దేవతలు ఇచ్చిన పాయసం | E1.16 | దేవతలు ఇచ్చిన పాయసం
+VISUAL: Dasharatha seated alone in his palace at dusk, crowned but thoughtful, gazing at an empty carved cradle; a lamp flickering beside him.
+అయోధ్యను పాలించే దశరథ మహారాజుకు అన్నీ ఉన్నాయి. రాజ్యం, సంపద, కీర్తి. కానీ ఒక్కటే లోటు. ఆ వంశాన్ని కొనసాగించే బిడ్డలు లేరు.
+
+@ 1 | video | పుత్రకామేష్టి యాగం | E1.16
+VISUAL: A grand sacred yagna on the bank of the Sarayu: Rishyashringa and Vashishtha offering ghee into a tall blazing fire altar, Dasharatha seated with folded hands, smoke rising in golden light.
+అందుకే ఆయన ఋష్యశృంగ మహర్షి ఆధ్వర్యంలో పుత్రకామేష్టి యాగం చేశారు. యాగం పూర్తవుతుండగా, ఆ అగ్ని నుండి ఒక దివ్య పురుషుడు బయటకు వచ్చాడు. ఎర్రని వస్త్రాలు, సూర్యుడిలా వెలిగే తేజస్సు. ఆయన చేతుల్లో వెండి మూత ఉన్న ఒక బంగారు పాత్ర. అందులో దేవతలు తయారు చేసిన పాయసం. ఆ దివ్య పురుషుడు దశరథుడితో ఇలా అన్నాడు.
+
+@ V1 | verse | శ్లోకం 1 · బాలకాండ 16.19 | E1.16
+VISUAL: A radiant divine being in red garments rising from the sacred fire, holding out a golden vessel with a silver lid toward Dasharatha, who receives it with both hands, overwhelmed with joy; reverent, glowing, traditional iconography.
+MEANING: ఓ మహారాజా, దేవతలు తయారు చేసిన ఈ పాయసాన్ని స్వీకరించు. ఇది సంతానాన్ని ఇస్తుంది, శుభాన్ని ఇస్తుంది, ఆరోగ్యాన్ని పెంచుతుంది.
+ఇదం తు నరశార్దూల పాయసం దేవనిర్మితమ్ ।
+ప్రజాకరం గృహాణ త్వం ధన్యమారోగ్యవర్ధనమ్ ॥
+
+@ 2 | image | అర్థం | E1.16
+VISUAL: Close on the golden vessel of payasam glowing in Dasharatha's hands, light reflecting on his tearful, joyful face.
+ఇదం పాయసం దేవనిర్మితం, అంటే దేవతలు తయారు చేసిన ఈ పాయసం. ప్రజాకరం, సంతానాన్ని ఇచ్చేది. ధన్యం, శుభమైనది. ఆరోగ్యవర్ధనం, ఆరోగ్యాన్ని పెంచేది. గృహాణ త్వం, నువ్వు స్వీకరించు.
+
+@ 3 | video | ముగ్గురు రాణులకు పాయసం | E1.16
+VISUAL: Dasharatha in the inner palace giving the payasam to his three queens, Kausalya first, then Sumitra and Kaikeyi, each receiving it with folded hands and bowed heads; warm lamp light, silk curtains.
+దశరథుడు ఆ పాయసంలో సగం కౌసల్యకు ఇచ్చాడు. మిగిలిన భాగాన్ని సుమిత్రకు, కైకేయికి పంచాడు. ఆ పాయసం స్వీకరించిన ముగ్గురు రాణులూ తేజస్సుతో వెలిగిపోయారు. ముగ్గురూ గర్భం దాల్చారు.
+
+@ 4 | image | ఈ శ్లోకంలో రెండు మాటలు | E1.16
+VISUAL: The three queens seated together in a sunlit palace garden, glowing and peaceful, smiling at one another, lotus pond behind them.
+ఈ శ్లోకంలో రెండు మాటలు గమనించండి. ప్రజాకరం, ఆరోగ్యవర్ధనం. సంతానం, ఆరోగ్యం. ప్రతి తల్లి తన బిడ్డ కోసం కోరుకునేవి ఈ రెండే. అందుకే ఈ శ్లోకాన్ని గర్భిణీ తల్లులు భక్తితో వినడం మన సంప్రదాయంలో ఒక శుభ భావన.
+
+@ B2 | image | బ్రిడ్జ్ → శ్రీరాముని జననం | E1.18 | శ్రీరాముని జననం
+VISUAL: The night sky over Ayodhya with bright stars and planets aligned, the palace towers below lit with lamps, a sense of a holy moment approaching.
+ఆరు ఋతువులు గడిచాయి. పన్నెండవ నెల వచ్చింది. ఆ పవిత్ర క్షణాన్ని వాల్మీకి మహర్షి ఎంతో శ్రద్ధగా, గ్రహాల స్థానాలతో సహా ఇలా వర్ణించారు.
+
+@ V2 | verse | శ్లోకం 2 · బాలకాండ 18.8–10 | E1.18
+VISUAL: Kausalya in the softly lit inner palace holding the newborn infant Rama wrapped in yellow silk, her face glowing with tears of joy, a gentle divine radiance around the child; maids and Sumitra watching with folded hands; flowers falling softly from above.
+MEANING: యాగం ముగిశాక ఆరు ఋతువులు గడిచాయి. పన్నెండవ నెలలో, చైత్ర మాసం నవమి తిథి నాడు, పునర్వసు నక్షత్రంలో, కర్కాటక లగ్నంలో, లోకాలన్నీ నమస్కరించే శ్రీరాముడిని కౌసల్యాదేవి కన్నది.
+తతో యజ్ఞే సమాప్తే తు ఋతూనాం షట్ సమత్యయుః ।
+తతశ్చ ద్వాదశే మాసే చైత్రే నావమికే తిథౌ ॥
+నక్షత్రేఽదితిదైవత్యే స్వోచ్చసంస్థేషు పంచసు ।
+గ్రహేషు కర్కటే లగ్నే వాక్పతావిందునా సహ ॥
+ప్రోద్యమానే జగన్నాథం సర్వలోకనమస్కృతమ్ ।
+కౌసల్యాజనయద్ రామం దివ్యలక్షణసంయుతమ్ ॥
+
+@ 5 | image | అర్థం | E1.18
+VISUAL: Close on Kausalya's face as she looks down at the infant Rama, lamp light and soft golden radiance, pure tenderness.
+యాగం ముగిశాక ఆరు ఋతువులు గడిచాయి. పన్నెండవ నెలలో, చైత్ర మాసం, నవమి తిథి నాడు, పునర్వసు నక్షత్రంలో, ఐదు గ్రహాలు ఉచ్చ స్థానాల్లో ఉండగా, కర్కాటక లగ్నంలో, గురుడు చంద్రుడితో కలిసి ఉదయిస్తుండగా, లోకాలన్నీ నమస్కరించే జగన్నాథుడైన శ్రీరాముడిని, దివ్య లక్షణాలతో, కౌసల్యాదేవి కన్నది.
+
+@ 6 | video | శ్రీరామనవమి | E1.18
+VISUAL: Ayodhya at dawn celebrating the birth: people dancing in the streets, conch shells blown, flower petals falling from the sky, the palace decorated with garlands and lamps.
+అదే మనం జరుపుకునే శ్రీరామనవమి. ఆ బిడ్డతో కౌసల్యాదేవి ఎలా ప్రకాశించిందంటే, వజ్రాయుధం ధరించిన ఇంద్రుడిని కన్న అదితి దేవిలా వెలిగిపోయింది అని వాల్మీకి చెప్పారు. ప్రతి తల్లి తన బిడ్డ రాముడిలా ధర్మంగా, ఆరోగ్యంగా, అందరూ మెచ్చేలా పెరగాలని కోరుకుంటుంది. ఆ కోరికతోనే ఈ జనన శ్లోకాలను వింటారు.
+
+@ B3 | image | బ్రిడ్జ్ → కౌసల్యా సుప్రజా రామ | E1.07 | కౌసల్యా సుప్రజా రామ
+VISUAL: First light of dawn over the confluence of the Sarayu and the Ganga, mist on the water, birds beginning to fly, a quiet riverside camp under tall trees.
+ఇక మూడవ శ్లోకం. ఇది ప్రతి ఇంట్లో, ప్రతి గుడిలో, ప్రతి ఉదయం వినిపించే శ్లోకం. రాముడు బాలుడిగా ఉన్నప్పుడు, విశ్వామిత్ర మహర్షి సరయూ తీరంలో ఒక తెల్లవారుజామున ఆయనను ఇలా నిద్ర లేపారు.
+
+@ V3 | verse | శ్లోకం 3 · బాలకాండ 23.2 | E1.07
+VISUAL: Vishwamitra gently waking the young Rama and Lakshmana sleeping on beds of leaves by the river at dawn, his hand raised in blessing, golden sunrise on the water.
+MEANING: కౌసల్యాదేవి కన్న ఉత్తమ పుత్రుడవైన రామా, తూర్పున సంధ్య మొదలవుతోంది. ఓ నరశ్రేష్ఠా, లేచి చేయవలసిన దైవ కార్యాలు చెయ్యి.
+కౌసల్యా సుప్రజా రామ పూర్వా సంధ్యా ప్రవర్తతే ।
+ఉత్తిష్ఠ నరశార్దూల కర్తవ్యం దైవమాహ్నికమ్ ॥
+
+@ 7 | image | అర్థం | E1.07
+VISUAL: The young Rama rising and bowing to Vishwamitra at sunrise, Lakshmana beside him, the river glowing gold.
+కౌసల్యా సుప్రజా రామ, కౌసల్యాదేవికి ఉత్తమ పుత్రుడవైన రామా. పూర్వా సంధ్యా ప్రవర్తతే, తూర్పున సంధ్య మొదలవుతోంది. ఉత్తిష్ఠ నరశార్దూల, ఓ నరశ్రేష్ఠా లే. కర్తవ్యం దైవమాహ్నికం, చేయవలసిన దైవ కార్యాలు చెయ్యి.
+
+@ 8 | image | తల్లి పేరుతో పిలుపు | E1.07
+VISUAL: An inset in soft golden light: Kausalya in the Ayodhya palace looking toward the east at dawn as if she can feel her son far away, a gentle smile.
+ఈ శ్లోకంలో మొదటి మాట గమనించండి. గురువు రాముడిని పిలిచే ముందు తల్లి పేరు పలికాడు. కౌసల్యా సుప్రజా, అంటే కౌసల్య మంచి బిడ్డను కన్న తల్లి అని. బిడ్డ గొప్పతనం తల్లికి దక్కే గౌరవం. అందుకే ఈ శ్లోకంతోనే శ్రీ వేంకటేశ్వర సుప్రభాతం మొదలవుతుంది.
+
+@ B4 | image | బ్రిడ్జ్ → ఒక తల్లి దీవెన | E2.14 | ఒక తల్లి దీవెన
+VISUAL: Kausalya's inner palace at morning: a small homa fire burning, white flowers, curd and white mustard on a silver plate, Kausalya standing with joined hands.
+చివరి ఘట్టం అయోధ్యాకాండ నుండి. రాముడు అడవికి వెళ్ళే ముందు, కన్నతల్లి కౌసల్య ఆయన తల మీద చేయి ఉంచి ఇచ్చిన దీవెనలు ఇవి. ప్రతి శ్లోకం చివర ఒకటే కోరిక. తత్ తే భవతు మంగళం. ఆ మంగళం నీకు కలగాలి.
+
+@ V4 | verse | శ్లోకం 4 · అయోధ్యాకాండ 25.32–35 | E2.14
+VISUAL: Kausalya placing her hand in blessing on the bowed head of Rama, her eyes full of tears and love; behind them, faint golden visions of Indra on Airavata, Garuda rising with Vinata watching, and Vishnu's Trivikrama stride across the sky; reverent traditional iconography.
+MEANING: ఇంద్రుడికి, గరుడుడికి, త్రివిక్రముడైన విష్ణువుకు ఏ మంగళం కలిగిందో, ఆ మంగళం నీకు కలగాలి.
+యన్మంగళం సహస్రాక్షే సర్వదేవనమస్కృతే ।
+వృత్రనాశే సమభవత్ తత్ తే భవతు మంగళమ్ ॥
+యన్మంగళం సుపర్ణస్య వినతాకల్పయత్ పురా ।
+అమృతం ప్రార్థయానస్య తత్ తే భవతు మంగళమ్ ॥
+అమృతోత్పాదనే దైత్యాన్ ఘ్నతో వజ్రధరస్య యత్ ।
+అదితిర్మంగళం ప్రాదాత్ తత్ తే భవతు మంగళమ్ ॥
+త్రివిక్రమాన్ ప్రక్రమతో విష్ణోరతులతేజసః ।
+యదాసీన్మంగళం రామ తత్ తే భవతు మంగళమ్ ॥
+
+@ 9 | image | అర్థం | E2.14
+VISUAL: Close on Kausalya's hand resting on Rama's head in blessing, a soft light around them.
+వృత్రాసురుడిని జయించినప్పుడు, దేవతలందరూ నమస్కరించే ఇంద్రుడికి ఏ మంగళం కలిగిందో, అది నీకు కలగాలి. అమృతం కోసం బయలుదేరిన గరుడుడికి తల్లి వినత ఏ మంగళం కోరిందో, అది నీకు కలగాలి. అమృతం పుట్టినప్పుడు రాక్షసులతో పోరాడిన ఇంద్రుడికి తల్లి అదితి ఏ మంగళం ఇచ్చిందో, అది నీకు కలగాలి. మూడు అడుగులతో ముల్లోకాలను కొలిచిన విష్ణువుకు ఏ మంగళం కలిగిందో, రామా, అది నీకు కలగాలి.
+
+@ 10 | image | తల్లుల దీవెన | E2.14
+VISUAL: A gentle golden inset: Vinata blessing her son Garuda before his flight, and Aditi blessing her son Indra; mothers' hands raised in blessing, soft clouds.
+ఈ దీవెనల్లో రెండు చోట్ల తల్లులు ఉన్నారు. గరుడుడి తల్లి వినత, ఇంద్రుడి తల్లి అదితి. యుగాలుగా తల్లులు తమ బిడ్డలకు ఇచ్చిన దీవెనలనే కౌసల్య తన కొడుకుకు ఇచ్చింది. మీరు కూడా ఈ శ్లోకాలను వింటూ, మీ బిడ్డకు మనసులోనే ఈ దీవెన ఇవ్వండి.
+
+@ B5 | image | బ్రిడ్జ్ → ఎలా వినాలి | E1.16 | ఎలా వినాలి
+VISUAL: The young expecting mother seated cross-legged on a mat in a calm room at morning, a small lamp lit before a picture of Sita and Rama, one hand on her belly, eyes closed, listening peacefully.
+ఎలా వినాలి? ఉదయం లేదా సాయంత్రం, ప్రశాంతమైన చోట సౌకర్యంగా కూర్చోండి. చేతిని మెల్లగా కడుపు మీద ఉంచి, శ్లోకాలు వింటూ, వాటి అర్థం మనసులో అనుకోండి. రోజూ ఒకే సమయానికి వింటే, అది తల్లికి, బిడ్డకు ఒక ప్రశాంతమైన అలవాటు అవుతుంది. చదవలేకపోయినా పర్వాలేదు, భక్తితో వినడమే చాలు.
+
+@ B6 | image | బ్రిడ్జ్ → నిరంతర పారాయణం | E1.18 | నిరంతర పారాయణం
+VISUAL: A slow, peaceful sequence: a lit brass lamp, tulasi leaves, a golden cradle gently rocking, lotus flowers floating on still water, soft morning light.
+ఇప్పుడు ఈ నాలుగు ఘట్టాల శ్లోకాలను ఒకదాని తర్వాత ఒకటి, నిరంతరంగా వినండి.
+
+@ V5 | verse | పారాయణం · బాలకాండ 16.19 | E1.16
+VISUAL: The golden vessel of divine payasam glowing softly on a lotus leaf, smoke of the sacred fire rising behind it.
+MEANING: దేవతలు ఇచ్చిన పాయసం: సంతానం, శుభం, ఆరోగ్యం.
+ఇదం తు నరశార్దూల పాయసం దేవనిర్మితమ్ ।
+ప్రజాకరం గృహాణ త్వం ధన్యమారోగ్యవర్ధనమ్ ॥
+
+@ V6 | verse | పారాయణం · బాలకాండ 18.8–10 | E1.18
+VISUAL: A golden cradle in the Ayodhya palace with the infant Rama sleeping peacefully, Kausalya gently rocking it, lamp light.
+MEANING: చైత్ర శుద్ధ నవమి, పునర్వసు నక్షత్రం: శ్రీరాముని జననం.
+తతో యజ్ఞే సమాప్తే తు ఋతూనాం షట్ సమత్యయుః ।
+తతశ్చ ద్వాదశే మాసే చైత్రే నావమికే తిథౌ ॥
+నక్షత్రేఽదితిదైవత్యే స్వోచ్చసంస్థేషు పంచసు ।
+గ్రహేషు కర్కటే లగ్నే వాక్పతావిందునా సహ ॥
+ప్రోద్యమానే జగన్నాథం సర్వలోకనమస్కృతమ్ ।
+కౌసల్యాజనయద్ రామం దివ్యలక్షణసంయుతమ్ ॥
+
+@ V7 | verse | పారాయణం · బాలకాండ 23.2 | E1.07
+VISUAL: Sunrise over a calm river, the sky turning gold, a single lotus opening.
+MEANING: కౌసల్యాదేవి కన్న ఉత్తమ పుత్రుడవైన రామా, లే.
+కౌసల్యా సుప్రజా రామ పూర్వా సంధ్యా ప్రవర్తతే ।
+ఉత్తిష్ఠ నరశార్దూల కర్తవ్యం దైవమాహ్నికమ్ ॥
+
+@ V8 | verse | పారాయణం · అయోధ్యాకాండ 25.32–35 | E2.14
+VISUAL: A mother's hands raised in blessing over a small lamp, flower petals falling gently, soft golden light.
+MEANING: ఆ మంగళం నీకు కలగాలి.
+యన్మంగళం సహస్రాక్షే సర్వదేవనమస్కృతే ।
+వృత్రనాశే సమభవత్ తత్ తే భవతు మంగళమ్ ॥
+యన్మంగళం సుపర్ణస్య వినతాకల్పయత్ పురా ।
+అమృతం ప్రార్థయానస్య తత్ తే భవతు మంగళమ్ ॥
+అమృతోత్పాదనే దైత్యాన్ ఘ్నతో వజ్రధరస్య యత్ ।
+అదితిర్మంగళం ప్రాదాత్ తత్ తే భవతు మంగళమ్ ॥
+త్రివిక్రమాన్ ప్రక్రమతో విష్ణోరతులతేజసః ।
+యదాసీన్మంగళం రామ తత్ తే భవతు మంగళమ్ ॥
+
+@ L | image | దీవెన | E1.18
+VISUAL: Kausalya holding the infant Rama, both glowing softly, with the young expecting mother in the courtyard faintly overlaid, as if the blessing passes across time; warm golden light.
+తల్లీ బిడ్డలు ఇద్దరూ ఆరోగ్యంగా, ఆనందంగా ఉండాలని ఆ శ్రీరామచంద్రుడిని ప్రార్థిద్దాం. సర్వే జనాః సుఖినో భవంతు.
+
+@ C | image | సబ్‌స్క్రైబ్ | E1.18 | SUBSCRIBE 🔔
+VISUAL: A glowing palm-leaf manuscript of the Ramayana resting on a carved wooden stand beside a lit brass oil lamp in a quiet temple courtyard at golden hour, marigold petals around it.
+ఈ వీడియో ఒక గర్భిణీ తల్లికి ఉపయోగపడుతుందనిపిస్తే, ఆమెతో పంచుకోండి. ఇలాంటి ప్రత్యేక శ్లోకాల కోసం పురాణ కథా శ్రవణం ఛానల్‌ను సబ్‌స్క్రైబ్ చేయండి.
+
+=== SHORT
+@ H | video | హుక్ | E1.16 | గర్భిణీ తల్లుల కోసం
+VISUAL: A radiant divine being in red garments rising from a blazing sacred fire, holding out a golden vessel with a silver lid; vertical 9:16 framing.
+యాగ అగ్ని నుండి ఒక దివ్య పురుషుడు వచ్చాడు. చేతిలో దేవతలు తయారు చేసిన పాయసం. ఆయన దశరథుడితో పలికిన శ్లోకం ఇది.
+
+@ V1 | verse | శ్లోకం · బాలకాండ 16.19 | E1.16
+VISUAL: Dasharatha receiving the golden vessel with both hands, overwhelmed with joy; vertical 9:16 framing.
+MEANING: దేవతలు తయారు చేసిన ఈ పాయసం సంతానాన్ని, శుభాన్ని, ఆరోగ్యాన్ని ఇస్తుంది.
+ఇదం తు నరశార్దూల పాయసం దేవనిర్మితమ్ ।
+ప్రజాకరం గృహాణ త్వం ధన్యమారోగ్యవర్ధనమ్ ॥
+
+@ 1 | image | అర్థం | E1.16
+VISUAL: A serene young expecting mother in a modest cream saree beside a tulasi plant, hand on her belly, eyes closed; vertical 9:16 framing.
+ఈ పాయసం సంతానాన్ని ఇస్తుంది, శుభాన్ని ఇస్తుంది, ఆరోగ్యాన్ని పెంచుతుంది. ఆ పాయసంతోనే కౌసల్యాదేవికి శ్రీరాముడు పుట్టాడు. గర్భిణీ తల్లులు భక్తితో వినే శుభ శ్లోకం.
+
+@ C | image | సబ్‌స్క్రైబ్ | E1.16 | పూర్తి వీడియో ఛానల్‌లో
+VISUAL: A glowing palm-leaf manuscript beside a lit brass lamp, marigold petals; vertical 9:16 framing.
+పూర్తి వీడియో మన ఛానల్‌లో.
