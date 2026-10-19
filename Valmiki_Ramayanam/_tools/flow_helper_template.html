@@ -130,7 +130,7 @@ h1 mark { background: none; color: var(--saffron); }
         <div class="tabs" role="tablist">
           <button class="tab" role="tab" id="tab-clips" aria-selected="true">క్లిప్‌లు</button>
           <button class="tab" role="tab" id="tab-thumb" aria-selected="false">థంబ్‌నెయిల్ & అప్‌లోడ్</button>
-          <button class="tab" role="tab" id="tab-refs" aria-selected="false">పాత్రల రిఫరెన్స్</button>
+          <button class="tab" role="tab" id="tab-refs" aria-selected="false">రిఫరెన్స్‌లు (పాత్రలు · ప్రదేశాలు)</button>
         </div>
       </div>
       <section id="panel"></section>
@@ -297,16 +297,31 @@ h1 mark { background: none; color: var(--saffron); }
     const p = $('panel'); const e = entry('refs');
     p.append(el('p', 'note', 'ప్రతి పాత్రకు ఒక్కసారే ఇమేజ్ చేయండి. ఉత్తమమైనది ఇచ్చిన పేరుతో _reference_images/ లో సేవ్ చేసి, ప్రతి క్లిప్‌లో జత చేయండి. ఆమోదించిన ఇమేజ్‌ను మార్చవద్దు.'));
     const used = new Set(); D.slokas.forEach((s) => s.clips.forEach((c) => c.refs.forEach((r) => used.add(r))));
-    const cards = el('div', 'cards');
-    D.refs.filter((r) => used.has(r.key)).forEach((r) => {
-      const card = el('article', 'card' + (e[r.key] ? ' done' : ''));
-      const head = el('div', 'head'); head.append(el('span', 'no', r.key + '.png'));
-      const lab = el('label', 'check'); const cb = el('input'); cb.type = 'checkbox'; cb.id = 'r-' + r.key; cb.checked = !!e[r.key];
-      cb.addEventListener('change', () => { e[r.key] = cb.checked; persist('refs'); render(); });
-      lab.append(cb, document.createTextNode('ఆమోదించాను')); head.append(lab); card.append(head, promptBox(r.prompt));
-      cards.append(card);
-    });
-    p.append(cards);
+    const here = new Set(); D.slokas[cur].clips.forEach((c) => c.refs.forEach((r) => here.add(r)));
+    const places = new Set(D.placeKeys || []);
+    function group(title, list) {
+      if (!list.length) return;
+      p.append(el('h2', 'section-title', title + ' (' + list.length + ')'));
+      const cards = el('div', 'cards');
+      list.forEach((r) => {
+        const card = el('article', 'card' + (e[r.key] ? ' done' : ''));
+        const head = el('div', 'head'); head.append(el('span', 'no', r.key + '.png'));
+        const lab = el('label', 'check'); const cb = el('input'); cb.type = 'checkbox'; cb.id = 'r-' + r.key; cb.checked = !!e[r.key];
+        cb.addEventListener('change', () => { e[r.key] = cb.checked; persist('refs'); render(); });
+        lab.append(cb, document.createTextNode('ఆమోదించాను')); head.append(lab); card.append(head, promptBox(r.prompt));
+        cards.append(card);
+      });
+      p.append(cards);
+    }
+    const all = D.refs.filter((r) => used.has(r.key));
+    if (D.placeKeys) {   // this video's characters and places first, then everything else the series uses
+      const v = D.slokas[cur].n;
+      group(v + ' – పాత్రలు', all.filter((r) => here.has(r.key) && !places.has(r.key)));
+      group(v + ' – ప్రదేశాలు (మనుషులు లేని ఇమేజ్)', all.filter((r) => here.has(r.key) && places.has(r.key)));
+      group('మిగతా వీడియోల రిఫరెన్స్‌లు', all.filter((r) => !here.has(r.key)));
+    } else {
+      group('రిఫరెన్స్‌లు', all);
+    }
   }
 
   // ---------- frame ----------

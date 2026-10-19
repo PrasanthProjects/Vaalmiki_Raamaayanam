@@ -88,6 +88,80 @@ def parse_bible():
 
 BIBLE = parse_bible()
 
+# Characters the scenes show but 00_CHARACTER_BIBLE.md has no entry for (deities and mythic-inset figures).
+# Faithful traditional iconography; the bible wins if it ever gets its own entry.
+EXTRA = {
+    'SHIVA': ("Lord Shiva in traditional iconography: serene meditative face with half-closed eyes and a third eye on "
+              "the forehead, three horizontal ash-white lines (vibhuti), ash-grey-blue skin, long matted jata coiled "
+              "high with a crescent moon and a small stream of the Ganga, a cobra coiled around the neck, rudraksha "
+              "beads, tiger-skin garment at the waist, holding a trident (trishula) with a small damaru; calm, "
+              "majestic, about thirty in appearance"),
+    'MANMATHA': ("Manmatha (Kama), the god of love: radiant, very handsome youthful god of about twenty-two, fair "
+                 "golden skin, gentle smile, black curls under a small flower-studded gold crown, saffron and green "
+                 "silk dhoti with flower garlands, holding a bow made of sugarcane strung with a line of bees and "
+                 "five flower-tipped arrows"),
+    'SUNDA': ("Sunda, the yaksha husband of Tataka: tall, broad-shouldered, dignified yaksha man of about thirty-five, "
+              "dark curly hair to the shoulders, thick moustache, gold armlets and heavy earrings, dark-red silk dhoti; "
+              "noble, not a demon"),
+    'SUKETU': ("Suketu, the yaksha king and father of Tataka: elderly regal yaksha of about sixty, grey beard, "
+               "kind but proud face, simple gold crown, white-and-gold silk, holding a rosary as one who did long tapas"),
+    'VRITRASURA': ("Vritrasura, the mighty asura slain by Indra: a towering asura warrior with very dark skin, wild long "
+                   "hair, fierce eyes, massive build, dark bronze armour and a heavy mace; imposing and grim but not a "
+                   "horror creature"),
+    'SUBAHU': ("Subahu, rakshasa son of Tataka and brother of Maricha: tall, powerfully built rakshasa of about thirty, "
+               "dark skin, thick curling moustache, short pointed upper canines, long dark hair tied back, dark ornate "
+               "armour with gold edging, a curved sword; fierce but human-faced"),
+}
+for _k, _v in EXTRA.items():
+    BIBLE.setdefault(_k, {'lock': _v, 'stages': {}})
+ALIASES.update({'Manmadha': 'MANMATHA', 'Manmatha': 'MANMATHA', 'Kama': 'MANMATHA', 'Subahu': 'SUBAHU'})
+NO_MARK |= {'SHIVA', 'MANMATHA', 'SUNDA', 'SUKETU', 'VRITRASURA'}
+RAVANA_SIDE |= {'SUBAHU'}
+
+# Places, one reference image each, so a location looks the same in every clip.
+# key: (words in a scene's location register, episodes it applies to (None = every episode), description)
+PLACES = {
+    'AYODHYA_PALACE': (('inner palace',), None,
+        "Ayodhya inner palace, the queens' quarters: an inner courtyard with a tulasi platform in the centre, carved "
+        "teakwood pillars, sloped tiled roofs, lamp niches with lit brass lamps, silk curtains in deep red and gold, "
+        "jasmine creepers; warm gold, cream and deep red palette"),
+    'AYODHYA_COURT': (('ayodhya court', 'ayodhya, court'), None,
+        "Ayodhya royal court (Dasharatha's sabha): a grand pillared mandapa of carved sandstone and teakwood in early "
+        "Dravidian temple-era style, tall carved pillars with lotus capitals, sloped tiled roof beams, a raised gold "
+        "and teak throne on a stepped dais under a silk canopy, brass oil lamps on tall stands, red and gold silk "
+        "hangings, polished stone floor, seats for ministers and sages along both sides; warm gold and sandstone palette"),
+    'FOREST_ROAD': (('forest road', 'ayodhya gate'), {'E1.06', 'E1.07'},
+        "The road south from Ayodhya: a dusty footpath leaving a carved city gateway, running through green fields "
+        "and into tall sal and banyan woods along the Sarayu river; ochre and forest-green palette, soft daylight"),
+    'SARAYU_CAMP': (('campsite',), {'E1.06'},
+        "Night camp on the south bank of the Sarayu river: a small clearing under tall trees beside the wide calm "
+        "river, beds of darbha grass on the ground, a small sacred fire, kamandalus and a deer skin, river-blue water, "
+        "ochre and forest-green palette"),
+    'KAMA_ASHRAMA': (('riverside ashram',), {'E1.06', 'E1.07'},
+        "Kamashrama, the sages' hermitage where the Sarayu meets the Ganga: thatched huts of mud and bamboo with neatly "
+        "swept courtyards, a sacred fire altar (agni-kunda), deer skins and kamandalus, flowering trees, the calm "
+        "riverbank in front; serene, green and sunlit"),
+    'GANGA_SARAYU': (('riverbank', 'river crossing'), {'E1.06', 'E1.07'},
+        "The confluence of the Ganga and the Sarayu: two wide rivers meeting under an open sky, sandy banks with reeds, "
+        "a simple wooden boat at the shore, hermitages among the trees on the bank, morning mist on the water; "
+        "river-blue and soft gold light"),
+    'TATAKA_FOREST': (('dense forest',), {'E1.07', 'E1.08'},
+        "The Tataka forest: a vast, dense, silent forest where no birds sing, tangled ancient trees, dry thorny "
+        "undergrowth, broken branches and dust, dim filtered light, the overgrown ruins of two once-prosperous towns "
+        "(Malada and Karusha) swallowed by vines; tense and foreboding but not horror"),
+}
+
+
+def place_for(loc, ep):
+    """The place reference a scene's location register points to, or None (e.g. a mythic inset)."""
+    low = (loc or '').lower()
+    if not low or 'mythic' in low:
+        return None
+    for key, (words, eps, _) in PLACES.items():
+        if (eps is None or ep in eps) and any(w in low for w in words):
+            return key
+    return None
+
 
 META = ('pick ONE', 'never mix', 'can simplify', 'stay consistent', 'Switch permanently', 'scheme as Rama',
         'from S1 onward', 'Production Bible', 'first appearance', 'note which', 'deliberate distinguishing',

@@ -24,6 +24,7 @@ import re
 import sys
 
 import long_build as L
+from long_style import PLACES, place_for, STYLE
 import tts
 from long_build import BUMPER, OUTRO, KAANDAS, HASHTAGS, mmss
 
@@ -32,6 +33,7 @@ L.CUES['R'] = '[ఇంతవరకు · సహజంగా, కొంచెం 
 L.CUES['T'] = '[తరువాతి వీడియో టీజర్ · నెమ్మదిగా, ఉత్కంఠగా, ప్రశ్న మీద ఆగండి]'
 TARGET, LOW, HIGH = 11 * 60, 10 * 60, 12 * 60
 SIMPLE = []   # [exact words, plain Telugu, times used] (data/*_videos.txt SIMPLE lines)
+PLACES_USED = set()
 CARDS = {}   # (episode, scene) -> on-screen meaning under a kept sloka (data/*_videos.txt CARD lines)
 
 
@@ -338,6 +340,36 @@ def srt(items):
     return '\n'.join(f'{i}\n{L.srt_time(a)} --> {L.srt_time(b)}\n{x}\n' for i, (a, b, x) in enumerate(cues, 1))
 
 
+def place_refs():
+    """Reference prompts for every place the videos use: an empty establishing view, no people."""
+    out = []
+    for key in sorted(PLACES_USED):
+        desc = PLACES[key][2]
+        out.append({'key': key, 'prompt': (
+            "Location reference image for film continuity: one wide establishing view of the place only, with no "
+            f"people and no animals in the foreground, 16:9 frame, clear daylight unless described otherwise. "
+            f"Style: {STYLE}. Place: {desc}. Keep the architecture, landscape, colours and layout exactly as "
+            "described; this image will be reused for every scene set here. "
+            "No text, letters, logos or watermarks.")})
+    return out
+
+
+def reference_md(refs_used):
+    """Long_Videos/Videos/00_REFERENCES.md: every character and place reference the videos use."""
+    chars = L.reference_file(refs_used)[1]
+    lines = ['# రిఫరెన్స్ ఇమేజ్‌లు – 10–12 నిమిషాల వీడియోలు (పాత్రలు + ప్రదేశాలు)\n',
+             'ప్రతి పాత్రకు, ప్రతి ప్రదేశానికి ఒక్కసారే ఇమేజ్ చేయండి. ఉత్తమమైనది ఇచ్చిన పేరుతో `Long_Videos/_reference_images/` లో '
+             'సేవ్ చేసి, క్లిప్‌లో "రిఫరెన్స్" లో ఉన్న ఇమేజ్‌లన్నీ Flow లో *Ingredients* గా జత చేయండి. '
+             'ప్రదేశం ఇమేజ్‌లో మనుషులు ఉండరు – పాత్రలు వేరుగా జత అవుతాయి.\n',
+             f'## పాత్రలు ({len(chars)})\n']
+    block = '### `{0}.png`\n\n```text\n{1}\n```\n'
+    lines += [block.format(r['key'], r['prompt']) for r in chars]
+    places = place_refs()
+    lines.append(f'## ప్రదేశాలు ({len(places)})\n')
+    lines += [block.format(r['key'], r['prompt']) for r in places]
+    return '\n'.join(lines)
+
+
 def recording(spoken):
     out, ep = [], None
     for x in spoken:
@@ -379,6 +411,11 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
         s = {'visual': item['visual'], 'loc': item['loc']}
         looks, refs = L.scene_cast(s, item['ep'])
         refs_used.update(refs)
+        place = place_for(item['loc'], item['ep'])
+        if place:   # the location gets its own reference image, like a character
+            refs = refs + [place]
+            PLACES_USED.add(place)
+            s['loc'] = f"{item['loc']} (match the attached place reference {place}.png): {PLACES[place][2]}"
         kind, secs = item['kind'], item['secs']
         note = ''
         if kind == 'video' and secs > 8:
@@ -551,7 +588,7 @@ def main(data_path):
             'క్లిప్ ప్రాంప్ట్‌లు, థంబ్‌నెయిల్, టైటిల్, అధ్యాయాలతో వివరణ, పిన్ కామెంట్, క్యాప్షన్లు.\n',
             '| వీడియో | ఎపిసోడ్‌లు | నిడివి | కథ |', '|---|---|---|---|', *index, '']))
         payload = {'key': f'videos_{k}', 'name': f'{label} – 10–12 నిమిషాల వీడియోలు', 'slokas': pages,
-                   'refs': L.reference_file(refs_used)[1], 'unit': 'వీడియోలు', 'clipWord': '',
+                   'refs': L.reference_file(refs_used)[1] + place_refs(), 'placeKeys': sorted(PLACES_USED), 'unit': 'వీడియోలు', 'clipWord': '',
                    'subtitle': 'శ్లోకాలు లేకుండా · ప్రతి క్లిప్‌కు Flow ప్రాంప్ట్, థంబ్‌నెయిల్, అప్‌లోడ్',
                    'scriptTitle': '', 'ttsTitle': '🔊 ElevenLabs టెక్స్ట్ – ప్రతి భాగం వరుసగా కాపీ చేసి పేస్ట్ చేయండి'}
         blob = json.dumps(payload, ensure_ascii=False).replace('</', '<\\/')
@@ -561,6 +598,7 @@ def main(data_path):
         full = ('<!doctype html><html lang="te"><head><meta charset="utf-8"><meta name="viewport" '
                 'content="width=device-width,initial-scale=1,viewport-fit=cover"></head><body>' + frag + '</body></html>')
         open(os.path.join(VIDEOS, f'{name}_VIDEOS_HELPER.html'), 'w', encoding='utf-8', newline='\n').write(full)
+    open(os.path.join(VIDEOS, '00_REFERENCES.md'), 'w', encoding='utf-8', newline='\n').write(reference_md(refs_used))
     for w in warns:
         print('WARN', w)
 
