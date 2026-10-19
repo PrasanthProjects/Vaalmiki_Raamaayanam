@@ -21,7 +21,7 @@ TOOLS = os.path.dirname(os.path.abspath(__file__))
 LONG = os.path.dirname(TOOLS)
 ROOT = os.path.dirname(LONG)
 sys.path.insert(0, TOOLS)
-from long_style import STYLE, RESPECT, TAIL, VN, SN, KUM, character, names_in, stage_of, STAGES  # noqa: E402
+from long_style import STYLE, RESPECT, TAIL, VN, SN, KUM, character, names_in, stage_of, STAGES, ep_key  # noqa: E402
 
 KAANDAS = {0: ('00_Parichayam', 'పరిచయం'), 1: ('1 - Baala Khaanda', 'బాలకాండ'), 2: ('2 - Ayodhya Khaanda', 'అయోధ్యకాండ'),
            3: ('3 - Aranya Khaanda', 'అరణ్యకాండ'), 4: ('4 - Kishkinda Khaanda', 'కిష్కింధకాండ'),
@@ -119,7 +119,9 @@ def scene_text(scene):
 
 def scene_cast(scene, ep):
     keys = names_in(scene['visual'])
-    looks = [x for x in (character(k, ep) for k in keys) if x]
+    if ep_key(ep) < (4, 0):   # before Kishkindha "Nila" is the forest of that name, not the vanara
+        keys = [k for k in keys if k != 'NALA']
+    looks =[x for x in (character(k, ep) for k in keys) if x]
     low = scene['visual'].lower()
     looks += [desc for pat, desc in GROUPS if re.search(pat, low)]
     refs = []

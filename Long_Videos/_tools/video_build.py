@@ -35,6 +35,7 @@ TARGET, LOW, HIGH = 11 * 60, 10 * 60, 12 * 60
 SIMPLE = []   # [exact words, plain Telugu, times used] (data/*_videos.txt SIMPLE lines)
 PLACES_USED = set()
 CARDS = {}   # (episode, scene) -> on-screen meaning under a kept sloka (data/*_videos.txt CARD lines)
+PLACE_MAP = {}   # episode -> [(first scene, last scene, PLACES key)] for scripts without a location column
 
 
 def read_fixes(path):
@@ -61,6 +62,13 @@ def read_fixes(path):
                 old, new = rest.split(' => ', 1)
                 SIMPLE.append([old, new, 0])
                 continue
+            if head.startswith('PLACE '):
+                w = head.split()
+                assert rest in PLACES, f'unknown place {rest!r}'
+                for rng in (w[2] if len(w) > 2 else '0-999').split(','):    # "2-5,7,10-14": insets left out
+                    lo, _, hi = rng.partition('-')
+                    PLACE_MAP.setdefault(w[1], []).append((int(lo), int(hi or lo), rest))
+                continue
             if head.startswith('CARD '):
                 _, ep, no = head.split()
                 CARDS[(ep, int(no))] = rest
@@ -79,7 +87,8 @@ def read_fixes(path):
                 splits[(ep, int(n))] = dict(x.split(': ', 1) for x in rest.split(' | '))
                 continue
             ep, no = head.split()
-            old, new = rest.split(' => ', 1)
+            old, new = (rest + ' ').split(' => ', 1)    # "old =>" with nothing after it deletes the words
+            new = new[:-1]
             fixes.setdefault((ep, int(no)), []).append((old, new))
     return fixes, splits
 
@@ -87,7 +96,8 @@ def read_fixes(path):
 def open_ended(text):
     """A line that does not finish its sentence: '… ప్రార్థించగా,'  '… ఇలా చెప్పాడు —'  '… ఇలా అన్నాడు.'"""
     t = text.rstrip(' "\'')
-    return not t.endswith(('.', '?', '!')) or t.endswith(('ఇలా అన్నాడు.', 'ఇలా పలికారు.', 'ఇలా చెప్పాడు.'))
+    return not t.endswith(('.', '?', '!')) or bool(re.search(
+        r'ఇలా\s*(అని\s*)?(అన్నాడు|అన్నారు|అంది|అన్నది|పలికాడు|పలికారు|పలికింది|చెప్పాడు|చెప్పారు|చెప్పింది)\.$', t))
 
 
 def chapter_starts(d, sc):
@@ -116,6 +126,9 @@ def story(ep, d, fixes):
         if (verse and 'KEEP' not in mine) or None in mine:
             continue
         s = dict(s, verse=verse, ep=ep)
+        if not s['loc']:   # PLACE lines name the setting where the script does not
+            key = next((k for lo, hi, k in PLACE_MAP.get(ep, []) if lo <= s['no'] <= hi), None)
+            s['loc'] = PLACES[key][0][0] if key else ''
         if not verse:     # plain Telugu for the listener (never inside a sloka)
             for rule in SIMPLE:
                 if rule[0] in s['narration']:
@@ -355,7 +368,7 @@ def place_refs():
 
 
 def reference_md(refs_used):
-    """Long_Videos/Videos/00_REFERENCES.md: every character and place reference the videos use."""
+    """Long_Videos/Videos/<kaanda>/00_REFERENCES.md: every character and place reference the videos use."""
     chars = L.reference_file(refs_used)[1]
     lines = ['# రిఫరెన్స్ ఇమేజ్‌లు – 10–12 నిమిషాల వీడియోలు (పాత్రలు + ప్రదేశాలు)\n',
              'ప్రతి పాత్రకు, ప్రతి ప్రదేశానికి ఒక్కసారే ఇమేజ్ చేయండి. ఉత్తమమైనది ఇచ్చిన పేరుతో `Long_Videos/_reference_images/` లో '
@@ -598,7 +611,7 @@ def main(data_path):
         full = ('<!doctype html><html lang="te"><head><meta charset="utf-8"><meta name="viewport" '
                 'content="width=device-width,initial-scale=1,viewport-fit=cover"></head><body>' + frag + '</body></html>')
         open(os.path.join(VIDEOS, f'{name}_VIDEOS_HELPER.html'), 'w', encoding='utf-8', newline='\n').write(full)
-    open(os.path.join(VIDEOS, '00_REFERENCES.md'), 'w', encoding='utf-8', newline='\n').write(reference_md(refs_used))
+        open(os.path.join(out_dir, '00_REFERENCES.md'), 'w', encoding='utf-8', newline='\n').write(reference_md(refs_used))
     for w in warns:
         print('WARN', w)
 

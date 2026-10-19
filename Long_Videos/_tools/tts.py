@@ -61,7 +61,8 @@ def words(n, attr=False):
 def _number(m):
     n = int(m.group(1).replace(',', ''))
     if m.group(2):                                     # 6వ రోజున -> ఆరవ రోజున
-        return ORD[n]
+        w = words(n)                                   # 13వ -> పదమూడవ, 20వ -> ఇరవైయవ
+        return ORD.get(n) or (w[:-1] + 'వ' if w.endswith('ు') else w + 'యవ')
     attr = bool(re.match(r' ?[\u0c00-\u0c7f]', m.string[m.end():]))
     return words(n, attr)
 

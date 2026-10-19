@@ -111,11 +111,31 @@ EXTRA = {
     'SUBAHU': ("Subahu, rakshasa son of Tataka and brother of Maricha: tall, powerfully built rakshasa of about thirty, "
                "dark skin, thick curling moustache, short pointed upper canines, long dark hair tied back, dark ornate "
                "armour with gold edging, a curved sword; fierce but human-faced"),
+    'SUMANTRA': ("Sumantra, Dasharatha's chief minister and royal charioteer: dignified man of about sixty-five, trimmed "
+                 "white beard and moustache, grey hair under a white-and-gold minister's turban, cream silk "
+                 "angavastram over a white dhoti, gold earrings, tulasi beads; loyal, gentle, grave face"),
+    'JABALI': ("Jabali, the learned brahmin of Dasharatha's council: lean scholar of about seventy, sharp clever face, "
+               "long white beard, shaven head with a shikha tuft, white dhoti and a saffron upper cloth, sacred thread, "
+               "a palm-leaf manuscript in hand"),
+    'SIDDHARTHA': ("Siddhartha, a senior minister of Ayodhya: upright, outspoken man of about sixty, grey beard, white "
+                   "turban, white silk with a blue-bordered angavastram, gold armlets"),
+    'YUDHAJIT': ("Yudhajit, prince of Kekaya and Bharata's maternal uncle: tall, broad man of about forty-five, neatly "
+                 "trimmed black beard, a northern-style gold crown, deep maroon and gold silk, a sword at the waist; "
+                 "warm and dignified"),
+    'ATRI': ("Sage Atri: a very ancient, radiant maharshi, long snow-white beard and matted white hair in a top-knot, "
+             "bark garments with a deer skin, rudraksha beads, kamandalu and staff; serene, kind eyes"),
+    'ANASUYA': ("Anasuya, wife of sage Atri: a very old, luminous woman ascetic, white hair in a simple knot, gentle "
+                "wrinkled smiling face, plain off-white cotton sari with an ochre border, rudraksha beads; motherly "
+                "and full of the strength of tapas"),
+    'SURABHI': ("Surabhi (Kamadhenu), the divine mother of all cows: a radiant pure-white celestial cow with large "
+                "gentle eyes, garlanded with flowers, softly glowing, standing among clouds; reverent traditional "
+                "iconography"),
 }
 for _k, _v in EXTRA.items():
     BIBLE.setdefault(_k, {'lock': _v, 'stages': {}})
 ALIASES.update({'Manmadha': 'MANMATHA', 'Manmatha': 'MANMATHA', 'Kama': 'MANMATHA', 'Subahu': 'SUBAHU'})
-NO_MARK |= {'SHIVA', 'MANMATHA', 'SUNDA', 'SUKETU', 'VRITRASURA'}
+NO_MARK |= {'SHIVA', 'MANMATHA', 'SUNDA', 'SUKETU', 'VRITRASURA', 'SURABHI'}
+WOMEN |= {'ANASUYA'}
 RAVANA_SIDE |= {'SUBAHU'}
 
 # Places, one reference image each, so a location looks the same in every clip.
@@ -149,6 +169,36 @@ PLACES = {
         "The Tataka forest: a vast, dense, silent forest where no birds sing, tangled ancient trees, dry thorny "
         "undergrowth, broken branches and dust, dim filtered light, the overgrown ruins of two once-prosperous towns "
         "(Malada and Karusha) swallowed by vines; tense and foreboding but not horror"),
+    # Ayodhya Kaanda (its scripts have no location column: data/2_Ayodhya_videos.txt PLACE lines point here)
+    'KAIKEYI_PALACE': (('kaikeyi palace',), None,
+        "Queen Kaikeyi's palace in Ayodhya: an ornate chamber of carved teak pillars with peacock and swan motifs, "
+        "silk hangings in deep emerald and gold, a low swan-feather couch, brass lamps in wall niches, lattice "
+        "windows; to one side the bare, unlit anger chamber (kopagriha) with a plain stone floor; rich but tense"),
+    'AYODHYA_STREETS': (('ayodhya streets',), None,
+        "The royal streets of Ayodhya: wide stone-paved avenues lined with tall white mansions with carved balconies, "
+        "flags and flower garlands strung across, rangoli at every threshold, the palace towers at the far end; "
+        "warm sandstone and white palette"),
+    'TAMASA_BANK': (('tamasa bank',), None,
+        "The bank of the Tamasa river, a day's journey from Ayodhya: a quiet, slow river with grassy banks, tall "
+        "trees with hanging roots, a cleared resting place on the grass, cattle-grazing meadows beyond; dusk-blue and green"),
+    'SHRINGAVERAPURA': (('ganga at shringaverapura',), None,
+        "Shringaverapura on the Ganga, Guha's land: the wide sacred river with sandy banks, a large spreading ingudi "
+        "tree on the bank with a bed of grass beneath it, simple thatched huts of Guha's forest people, wooden boats "
+        "drawn up on the sand, dense forest behind; river-blue and forest-green"),
+    'BHARADWAJA_ASHRAM': (('bharadwaja ashram',), None,
+        "Sage Bharadwaja's hermitage at Prayaga, near where the Ganga meets the Yamuna: a large, orderly ashram of "
+        "thatched mud-and-bamboo huts, a smoking fire altar, deer resting, students' seats under trees, flowering "
+        "palasha trees, the two rivers glinting in the distance; serene and sunlit"),
+    'CHITRAKUTA': (('chitrakuta hermitage',), None,
+        "Chitrakuta: a green forested hill with rocky peaks, a neat parnashala (leaf hut of bamboo and leaves) with a "
+        "swept courtyard and a small fire altar on its slope, the clear Mandakini river below with sandy steps and "
+        "flat rocks, flowering trees, deer and peacocks; fresh green and river-blue, soft morning light"),
+    'KEKAYA_PALACE': (('kekaya palace',), None,
+        "Girivraja, the Kekaya capital in the northwest: a stone hill-palace with carved wooden balconies and sloping "
+        "roofs, snow-touched mountains behind, cool clear light, rich woollen hangings; slate grey, wood brown and gold"),
+    'ATRI_ASHRAM': (('atri hermitage',), None,
+        "Sage Atri's hermitage: an ancient, very peaceful ashram deep in the forest, weathered thatched huts under huge "
+        "old trees, a small fire altar, flowering creepers, a clear pond with lotuses; soft golden, timeless light"),
 }
 
 
