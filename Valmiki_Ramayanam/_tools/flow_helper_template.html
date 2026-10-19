@@ -179,7 +179,7 @@ h1 mark { background: none; color: var(--saffron); }
   // ---------- helpers ----------
   function toast(t) { const el = $('toast'); el.textContent = t; el.classList.add('show'); clearTimeout(toast.t); toast.t = setTimeout(() => el.classList.remove('show'), 1600); }
   function copyText(text, btn) {
-    const ok = () => { btn.classList.add('ok'); btn.textContent = 'కాపీ అయింది ✓'; toast('కాపీ అయింది – Flow లో పేస్ట్ చేయండి');
+    const ok = () => { btn.classList.add('ok'); btn.textContent = 'కాపీ అయింది ✓'; toast('కాపీ అయింది');
       setTimeout(() => { btn.classList.remove('ok'); btn.textContent = btn.dataset.label; }, 1800); };
     const fallback = () => { const ta = document.createElement('textarea'); ta.value = text; ta.setAttribute('readonly', '');
       ta.style.position = 'fixed'; ta.style.opacity = '0'; document.body.appendChild(ta); ta.select();
@@ -227,6 +227,13 @@ h1 mark { background: none; color: var(--saffron); }
       s.sloka.forEach((l) => sl.append(el('p', '', l)));
       if (s.reading) { const r = el('div', 'read'); r.append(el('div', 'eyebrow', 'చదవడానికి సులువుగా')); s.reading.forEach((l) => r.append(el('div', '', l))); sl.append(r); }
       p.append(sl);
+    }
+    if (s.tts && s.tts.length) {
+      p.append(el('h2', 'section-title', D.ttsTitle || 'వాయిస్ టెక్స్ట్'));
+      const tb = el('div', 'cards');
+      s.tts.forEach((t, i) => tb.append(textBlock('భాగం ' + (i + 1) + ' / ' + s.tts.length + ' · ' + t.length + ' అక్షరాలు', t, 'టెక్స్ట్ కాపీ')));
+      p.append(tb);
+      p.append(el('h2', 'section-title', 'క్లిప్‌లు'));
     }
     const f = el('div', 'filters'); f.append(el('span', '', 'చూపించు:'));
     [['all', 'అన్నీ'], ['video', 'వీడియో'], ['image', 'ఇమేజ్'], ['todo', 'మిగిలినవి']].forEach(([k, t]) => {

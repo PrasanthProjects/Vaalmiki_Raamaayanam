@@ -23,6 +23,7 @@ import re
 import sys
 
 import long_build as L
+import tts
 from long_build import BUMPER, OUTRO, KAANDAS, HASHTAGS, mmss
 
 VIDEOS = os.path.join(L.LONG, 'Videos')
@@ -282,6 +283,9 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
         md_items.append('\n'.join(lines))
 
     script = recording(spoken)
+    voice = tts.pieces(tts.paragraphs(spoken))
+    voice_md = '\n'.join(f'**భాగం {n} / {len(voice)}** · {len(v)} అక్షరాలు\n\n```text\n{v}\n```\n'
+                         for n, v in enumerate(voice, 1))
     lead = group[0]
     main, hl, sub = lead['d']['head']
     tprompt, trefs = L.thumb_prompt(lead['scenes'], lead['ep'])
@@ -310,6 +314,7 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
     tags = ', '.join(['రామాయణం', 'శ్రీరాముడు', 'వాల్మీకి రామాయణం', kaanda_te, *tels[:4], 'Ramayanam in Telugu',
                       'Valmiki Ramayanam', 'Telugu devotional', 'Purana Katha Shravanam'])
     srt_rel = f'Long_Videos/Videos/captions/{folder_name}/V{i:02d}.srt'
+    tts_rel = f'Long_Videos/Videos/tts/{folder_name}/V{i:02d}.txt'
     n_video = sum(c['kind'] == 'video' for c in cards)
     hooks = [f"- **{x['label']}:** {x['narration']}" for x in spoken if x['id'] in ('H', 'T')]
     md = '\n'.join([
@@ -322,7 +327,12 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
         f'| క్లిప్‌లు | 🎥 వీడియో {n_video} · 🖼️ ఇమేజ్ + కదలిక {len(seq) - n_video} |',
         f'| క్యాప్షన్లు | `{srt_rel}` |',
         f'| ఎండ్ స్క్రీన్ | చివరి {OUTRO} సె: తరువాతి వీడియో, కాండ ప్లేలిస్ట్, సబ్‌స్క్రైబ్ |\n',
-        '### 1. 🎙️ రికార్డింగ్ స్క్రిప్ట్ (శ్లోకాలు లేకుండా)\n',
+        '### 1. 🔊 ElevenLabs టెక్స్ట్ (AI వాయిస్)\n',
+        f'ప్రతి భాగాన్ని వరుసగా ఒక్కొక్కటిగా పేస్ట్ చేయండి ({tts.LIMIT} అక్షరాల లోపు). సూచనలు, ⏸ గుర్తులు లేవు; '
+        'అంకెలు తెలుగు పదాలుగా; ప్రతి పేరా . ? ! తో ముగుస్తుంది; కామా దగ్గర చిన్న విరామం, పేరా మధ్య పెద్ద విరామం. '
+        f'అదే టెక్స్ట్ `{tts_rel}` లో కూడా ఉంది.\n',
+        voice_md,
+        '### 1బి. 🎙️ సొంత గొంతుతో చదవాలంటే – రికార్డింగ్ స్క్రిప్ట్\n',
         *hooks,
         *[f"- **జీవిత పాఠం:** {x['narration']}" for x in spoken if x['id'] == 'L'],
         f"- **సబ్‌స్క్రైబ్:** {L.CTAS[(i - 1) % len(L.CTAS)]}\n",
@@ -350,9 +360,9 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
         f'**క్యాప్షన్ ఫైల్:** `{srt_rel}` – YouTube Studio → Subtitles → Upload file.\n'])
     fname = f"V{i:02d}_{eps_txt.replace('–', '-')}.md"
     page = {'n': f'V{i:02d}', 'headline': main, 'hl': hl, 'sub': sub, 'badge': f'{kaanda_te} · {i} · {mmss(total)}',
-            'title': title, 'sloka': script.split('\n'), 'reading': None, 'clips': cards, 'thumbPrompt': tprompt,
+            'title': title, 'sloka': [], 'tts': voice, 'reading': None, 'clips': cards, 'thumbPrompt': tprompt,
             'thumbRefs': trefs, 'desc': desc, 'pinned': lead['d']['pin'], 'srt': srt_rel}
-    return fname, md, L.srt(spoken), page, total, warn, eps_long
+    return fname, md, L.srt(spoken), page, total, warn, eps_long, voice
 
 
 def main(data_path):
@@ -370,17 +380,22 @@ def main(data_path):
         folder, kaanda_te = KAANDAS[k]
         name = folder.replace(' - ', '_').replace(' ', '_')
         out_dir, cap_dir = os.path.join(VIDEOS, name), os.path.join(VIDEOS, 'captions', name)
-        os.makedirs(out_dir, exist_ok=True)
-        os.makedirs(cap_dir, exist_ok=True)
-        for old in glob.glob(os.path.join(out_dir, 'V*.md')) + glob.glob(os.path.join(cap_dir, 'V*.srt')):
+        tts_dir = os.path.join(VIDEOS, 'tts', name)
+        for dr in (out_dir, cap_dir, tts_dir):
+            os.makedirs(dr, exist_ok=True)
+        for old in (glob.glob(os.path.join(out_dir, 'V*.md')) + glob.glob(os.path.join(cap_dir, 'V*.srt'))
+                    + glob.glob(os.path.join(tts_dir, 'V*.txt'))):
             os.remove(old)    # a re-cut can rename videos; never leave a stale one behind
         pages, index = [], []
         for i, parts in enumerate(group_videos(kaanda_eps, extras, splits), 1):
             group = [p[0] for p in parts]
-            fname, md, srt, page, total, warn, eps_long = build_video(i, parts, extras, splits, refs_used, kaanda_te, name)
+            fname, md, srt, page, total, warn, eps_long, voice = build_video(i, parts, extras, splits, refs_used,
+                                                                             kaanda_te, name)
             warns += [f'V{i:02d} {w}' for w in warn]
             open(os.path.join(out_dir, fname), 'w', encoding='utf-8', newline='\n').write(md)
             open(os.path.join(cap_dir, f'V{i:02d}.srt'), 'w', encoding='utf-8', newline='\n').write(srt)
+            open(os.path.join(tts_dir, f'V{i:02d}.txt'), 'w', encoding='utf-8', newline='\n').write(
+                '\n\n'.join(f'===== భాగం {n} / {len(voice)} =====\n\n{v}' for n, v in enumerate(voice, 1)) + '\n')
             pages.append(page)
             index.append(f"| [V{i:02d}]({fname}) | {eps_long} | {mmss(total)} | "
                          f"{' · '.join(e['tel'] for e in group)} |")
@@ -394,7 +409,7 @@ def main(data_path):
         payload = {'key': f'videos_{k}', 'name': f'{label} – 10–12 నిమిషాల వీడియోలు', 'slokas': pages,
                    'refs': L.reference_file(refs_used)[1], 'unit': 'వీడియోలు', 'clipWord': '',
                    'subtitle': 'శ్లోకాలు లేకుండా · ప్రతి క్లిప్‌కు Flow ప్రాంప్ట్, థంబ్‌నెయిల్, అప్‌లోడ్',
-                   'scriptTitle': 'రికార్డింగ్ స్క్రిప్ట్ – [ ] ఎలా చెప్పాలో, ప్రతి లైను ఒక శ్వాస, ⏸ = ఒక సెకను విరామం'}
+                   'scriptTitle': '', 'ttsTitle': '🔊 ElevenLabs టెక్స్ట్ – ప్రతి భాగం వరుసగా కాపీ చేసి పేస్ట్ చేయండి'}
         blob = json.dumps(payload, ensure_ascii=False).replace('</', '<\\/')
         frag = tpl.replace('__TITLE__', f'{kaanda_te} వీడియోలు').replace('__DATA__', blob)
         os.makedirs(os.path.join(L.TOOLS, 'publish'), exist_ok=True)
