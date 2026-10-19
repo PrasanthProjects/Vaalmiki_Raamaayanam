@@ -500,7 +500,9 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
         f'**క్యాప్షన్ ఫైల్:** `{srt_rel}` – YouTube Studio → Subtitles → Upload file.\n'])
     fname = f"V{i:02d}_{eps_txt.replace('–', '-')}.md"
     page = {'n': f'V{i:02d}', 'headline': main, 'hl': hl, 'sub': sub, 'badge': f'{kaanda_te} · {i} · {mmss(total)}',
-            'title': title, 'sloka': [], 'tts': [v for _, v in voice], 'ttsLabels': labels, 'reading': None, 'clips': cards, 'thumbPrompt': tprompt,
+            'title': title, 'sloka': [], 'tts': [v for _, v in voice], 'ttsLabels': labels,
+            'ttsAll': '\n\n'.join(v for k, v in voice if k != 'intro'),
+            'ttsAllNote': 'ఇంట్రో క్లిప్ లేకుండా, శ్లోకాలతో సహా మొత్తం వరుసగా. ElevenLabs ఒకేసారి ఇంత పెద్ద టెక్స్ట్ తీసుకోకపోతే కింద ఉన్న భాగాలు ఒక్కొక్కటిగా వాడండి.', 'reading': None, 'clips': cards, 'thumbPrompt': tprompt,
             'thumbRefs': trefs, 'desc': desc, 'pinned': lead['d']['pin'], 'srt': srt_rel}
     return fname, md, srt(spoken), page, total, warn, eps_long, list(zip(labels, [v for _, v in voice]))
 

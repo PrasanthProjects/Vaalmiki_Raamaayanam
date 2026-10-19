@@ -230,6 +230,14 @@ h1 mark { background: none; color: var(--saffron); }
     }
     if (s.tts && s.tts.length) {
       p.append(el('h2', 'section-title', D.ttsTitle || 'వాయిస్ టెక్స్ట్'));
+      if (s.ttsAll) {   // the whole video's narration in one tap
+        const all = el('div', 'card'); const act = el('div', 'actions');
+        const b = el('button', 'copy', '📋 మొత్తం డైలాగ్‌లు కాపీ'); b.dataset.label = b.textContent;
+        b.addEventListener('click', () => copyText(s.ttsAll, b));
+        act.append(b); all.append(el('div', 'label', 'ఈ వీడియో మొత్తం నెరేషన్ – ' + s.ttsAll.length + ' అక్షరాలు'), act,
+          el('p', 'note', s.ttsAllNote || ''));
+        p.append(all);
+      }
       const tb = el('div', 'cards');
       s.tts.forEach((t, i) => tb.append(textBlock(((s.ttsLabels && s.ttsLabels[i]) || ('భాగం ' + (i + 1) + ' / ' + s.tts.length)) + ' · ' + t.length + ' అక్షరాలు', t, 'టెక్స్ట్ కాపీ')));
       p.append(tb);
