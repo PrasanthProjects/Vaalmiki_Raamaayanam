@@ -231,7 +231,7 @@ h1 mark { background: none; color: var(--saffron); }
     if (s.tts && s.tts.length) {
       p.append(el('h2', 'section-title', D.ttsTitle || 'వాయిస్ టెక్స్ట్'));
       const tb = el('div', 'cards');
-      s.tts.forEach((t, i) => tb.append(textBlock('భాగం ' + (i + 1) + ' / ' + s.tts.length + ' · ' + t.length + ' అక్షరాలు', t, 'టెక్స్ట్ కాపీ')));
+      s.tts.forEach((t, i) => tb.append(textBlock(((s.ttsLabels && s.ttsLabels[i]) || ('భాగం ' + (i + 1) + ' / ' + s.tts.length)) + ' · ' + t.length + ' అక్షరాలు', t, 'టెక్స్ట్ కాపీ')));
       p.append(tb);
       p.append(el('h2', 'section-title', 'క్లిప్‌లు'));
     }

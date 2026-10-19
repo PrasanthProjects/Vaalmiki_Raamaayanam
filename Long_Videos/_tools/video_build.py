@@ -18,6 +18,7 @@ What changes from the episode kits:
 """
 import glob
 import json
+import math
 import os
 import re
 import sys
@@ -39,6 +40,10 @@ def read_fixes(path):
         for line in open(path, encoding='utf-8'):
             line = line.rstrip('\n')
             if not line.strip() or line.startswith('#'):
+                continue
+            if line.startswith('KEEP '):
+                _, ep, no = line.split()
+                fixes.setdefault((ep, int(no)), []).append('KEEP')
                 continue
             if line.startswith('DROP '):
                 _, ep, no = line.split()
@@ -75,15 +80,16 @@ def chapter_starts(d, sc):
 
 
 def story(ep, d, fixes):
-    """The episode's scenes without slokas, fixes applied, and where each chapter now starts."""
+    """The episode's scenes without slokas (except the few chosen to KEEP), fixes applied, and chapter starts."""
     text, tel, src, scenes = L.parse_episode(L.episode_file(ep))
     out = []
     for s in scenes:
         mine = fixes.pop((ep, s['no']), [])
-        if L.is_verse(s['narration']) or None in mine:
+        verse = L.is_verse(s['narration'])
+        if (verse and 'KEEP' not in mine) or None in mine:
             continue
-        s = dict(s)
-        for old, new in mine:
+        s = dict(s, verse=verse)
+        for old, new in (m for m in mine if m != 'KEEP'):
             assert old in s['narration'], f'{ep} scene {s["no"]}: fix text not found: {old}'
             s['narration'] = s['narration'].replace(old, new)
         out.append(s)
@@ -167,7 +173,7 @@ def assemble(parts, extras, splits, vid_index):
                 seq.append(dict(L.lesson_item(extras[lesson_ep['ep']], lesson_ep['scenes']), ep=e['ep']))
             seq.append({'id': str(s['no']), 'ep': e['ep'], 'label': f"{e['ep']} · సీన్ {s['no']}", 'kind': s['kind'],
                         'secs': s['secs'], 'narration': s['narration'], 'new': False, 'visual': s['visual'],
-                        'loc': s['loc'], 'onscreen': '', 'scene': s})
+                        'loc': s['loc'], 'onscreen': verse_card(s, sc), 'scene': s})
         if last and ep_end and not teaser_last and lesson_ep:
             seq.append(dict(L.lesson_item(extras[lesson_ep['ep']], lesson_ep['scenes']), ep=e['ep']))
         if last and not ep_end:   # the story goes on in the next video: end on its question, then the lesson
@@ -184,6 +190,35 @@ def assemble(parts, extras, splits, vid_index):
                 'narration': cta, 'new': True, 'visual': L.CTA_VISUAL, 'loc': '', 'onscreen': 'SUBSCRIBE 🔔'})
     total = BUMPER + sum(i['secs'] for i in seq) + OUTRO
     return seq, chapters, total, warn
+
+
+def verse_card(s, sc):
+    """On-screen card for a kept sloka: the sloka itself, and under it the first line of its meaning."""
+    if not s.get('verse'):
+        return ''
+    i = sc.index(s)
+    n = next((x for x in sc[i + 1:] if not x.get('verse')), None)
+    meaning = L.first_sentence(tts.clean(n['narration'])) if n else ''
+    return 'శ్లోకం తెలుగు లిపిలో, అక్షరం అక్షరం కనిపిస్తూ' + (f' · కింద అర్థం: {meaning}' if meaning else '')
+
+
+def expand(seq):
+    """Retention pass: recap-length tip, and two stills (wide, then closer) for long still scenes."""
+    out = []
+    for item in seq:
+        item = dict(item)
+        if 'scene' in item and item['narration'].startswith('గత భాగ') and item['secs'] > 8:
+            item['tip'] = 'రీక్యాప్‌ను ఎడిట్‌లో 8 సెకన్లలోపు కుదించండి – హుక్ తరువాత వీక్షకులు వెంటనే కొత్త కథ కోరుకుంటారు.'
+        if item['kind'] == 'image' and item['secs'] >= 11 and not item['new']:
+            a = math.ceil(item['secs'] / 2)
+            out.append(dict(item, id=item['id'] + 'a', label=item['label'] + ' (1/2)', secs=a,
+                            visual='Wide establishing view: ' + item['visual']))
+            out.append(dict(item, id=item['id'] + 'b', label=item['label'] + ' (2/2)', secs=item['secs'] - a,
+                            visual='Closer, emotional framing of the same moment: ' + item['visual'],
+                            narration='(పై నెరేషన్ కొనసాగుతుంది – చిత్రం మాత్రమే మారుతుంది)', cont=True, tip=''))
+        else:
+            out.append(item)
+    return out
 
 
 def to_parts(units):
@@ -240,7 +275,7 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
     group = [p[0] for p in parts]
     seq, chap_items, total, warn = assemble(parts, extras, splits, i - 1)
     spoken = list(seq)
-    seq = L.expand(seq, [])
+    seq = expand(seq)
     t = BUMPER
     for item in seq:
         item['start'] = t
@@ -289,8 +324,10 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
 
     script = recording(spoken)
     voice = tts.pieces(tts.paragraphs(spoken))
-    voice_md = '\n'.join(f'**భాగం {n} / {len(voice)}** · {len(v)} అక్షరాలు\n\n```text\n{v}\n```\n'
-                         for n, v in enumerate(voice, 1))
+    labels = [f'భాగం {n} / {len(voice)}' + (' · 🕉️ శ్లోకం' if kind == 'verse' else '')
+              for n, (kind, _) in enumerate(voice, 1)]
+    voice_md = '\n'.join(f'**{lab}** · {len(v)} అక్షరాలు\n\n```text\n{v}\n```\n' for lab, (_, v) in zip(labels, voice))
+    verses = [x['narration'] for x in spoken if x.get('scene', {}).get('verse')]
     lead = group[0]
     main, hl, sub = lead['d']['head']
     tprompt, trefs = L.thumb_prompt(lead['scenes'], lead['ep'])
@@ -310,7 +347,8 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
     eps_txt = f"{group[0]['ep']}–{group[-1]['ep']}" if len(group) > 1 else group[0]['ep']
     eps_long = ' + '.join(tag(p, False) if j == 0 and p[1] else tag(p, True) for j, p in enumerate(parts))
     srcs = ', '.join(e['src'] for e in group if e['src'])
-    desc = (f"{title}\n\n" + '\n'.join(e['d']['sum'] for e in group) + "\n\n⏱️ అధ్యాయాలు\n"
+    desc = (f"{title}\n\n" + '\n'.join(e['d']['sum'] for e in group)
+            + ''.join(f"\n\n🕉️ {v}" for v in verses) + "\n\n⏱️ అధ్యాయాలు\n"
             + '\n'.join(f'{mmss(a)} {c}' for a, c in chap)
             + "\n\n📖 మూలం: చిత్రరూపంలో సంపూర్ణ వాల్మీకి రామాయణము" + (f", {srcs}" if srcs else '') + "\n"
             "🔔 పురాణ కథా శ్రవణం – రామాయణం మొదటి నుండి చివరి వరకు, భాగం భాగంగా.\n\n"
@@ -335,6 +373,8 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
         '### 1. 🔊 ElevenLabs టెక్స్ట్ (AI వాయిస్)\n',
         f'ప్రతి భాగాన్ని వరుసగా ఒక్కొక్కటిగా పేస్ట్ చేయండి ({tts.LIMIT} అక్షరాల లోపు). సూచనలు, ⏸ గుర్తులు లేవు; '
         'అంకెలు తెలుగు పదాలుగా; ప్రతి పేరా . ? ! తో ముగుస్తుంది; కామా దగ్గర చిన్న విరామం, పేరా మధ్య పెద్ద విరామం. '
+        '**🕉️ శ్లోకం** భాగాలు విడిగా: AI వాయిస్ సంస్కృతాన్ని సరిగ్గా పలకకపోవచ్చు – ఒకసారి విని, బాగోలేకపోతే మీ గొంతుతో '
+        'నెమ్మదిగా, శ్రావ్యంగా రికార్డ్ చేసి, కింద తంబుర/వీణ సంగీతంతో అదే స్థానంలో పెట్టండి. '
         f'అదే టెక్స్ట్ `{tts_rel}` లో కూడా ఉంది. ముందు వచ్చే ఇంట్రో (బంపర్) ఒక్కసారే చేయాలి: '
         '`Long_Videos/Videos/tts/00_INTRO.txt` – «పురాణ కథా శ్రవణం! మన పురాణాలు, మన ఇతిహాసాలు, మన జీవన విధానాలు!»\n',
         voice_md,
@@ -366,9 +406,9 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
         f'**క్యాప్షన్ ఫైల్:** `{srt_rel}` – YouTube Studio → Subtitles → Upload file.\n'])
     fname = f"V{i:02d}_{eps_txt.replace('–', '-')}.md"
     page = {'n': f'V{i:02d}', 'headline': main, 'hl': hl, 'sub': sub, 'badge': f'{kaanda_te} · {i} · {mmss(total)}',
-            'title': title, 'sloka': [], 'tts': voice, 'reading': None, 'clips': cards, 'thumbPrompt': tprompt,
+            'title': title, 'sloka': [], 'tts': [v for _, v in voice], 'ttsLabels': labels, 'reading': None, 'clips': cards, 'thumbPrompt': tprompt,
             'thumbRefs': trefs, 'desc': desc, 'pinned': lead['d']['pin'], 'srt': srt_rel}
-    return fname, md, L.srt(spoken), page, total, warn, eps_long, voice
+    return fname, md, L.srt(spoken), page, total, warn, eps_long, list(zip(labels, [v for _, v in voice]))
 
 
 def main(data_path):
@@ -401,7 +441,7 @@ def main(data_path):
             open(os.path.join(out_dir, fname), 'w', encoding='utf-8', newline='\n').write(md)
             open(os.path.join(cap_dir, f'V{i:02d}.srt'), 'w', encoding='utf-8', newline='\n').write(srt)
             open(os.path.join(tts_dir, f'V{i:02d}.txt'), 'w', encoding='utf-8', newline='\n').write(
-                '\n\n'.join(f'===== భాగం {n} / {len(voice)} =====\n\n{v}' for n, v in enumerate(voice, 1)) + '\n')
+                '\n\n'.join(f'===== {lab} =====\n\n{v}' for lab, v in voice) + '\n')
             pages.append(page)
             index.append(f"| [V{i:02d}]({fname}) | {eps_long} | {mmss(total)} | "
                          f"{' · '.join(e['tel'] for e in group)} |")

@@ -79,36 +79,57 @@ def _close(p):
     return p if p.endswith(('.', '?', '!')) else p + '.'
 
 
+def chant(verse):
+    """A kept sloka as its own piece: one half-line per line, each closed with '.' so the voice pauses there."""
+    halves = [h.strip(' "\'') for h in re.split(r'[।॥]+', verse) if h.strip(' "\'')]
+    return '\n'.join(re.sub(r'\s+', ' ', h) + '.' for h in halves)
+
+
 def paragraphs(spoken):
-    """spoken: the video's items in order. New parts (hook, bridge, recap, lesson, teaser, subscribe) are their own
-    paragraph; scene lines join until a sentence ends."""
+    """spoken: the video's items in order -> [(kind, text)]. New parts (hook, bridge, recap, lesson, teaser, subscribe)
+    are their own paragraph; scene lines join until a sentence ends; a kept sloka is kind 'verse'."""
     out, cur = [], ''
     for x in spoken:
+        if x.get('scene', {}).get('verse'):
+            if cur:
+                out.append(('text', _close(cur)))
+                cur = ''
+            if out and out[-1][0] == 'verse':          # a sloka that runs over two scenes stays one piece
+                out[-1] = ('verse', out[-1][1] + '\n' + chant(x['narration']))
+            else:
+                out.append(('verse', chant(x['narration'])))
+            continue
         t = clean(x['narration'])
         if not t:
             continue
         if x['new']:
             if cur:
-                out.append(_close(cur))
+                out.append(('text', _close(cur)))
                 cur = ''
-            out.append(_close(t))
+            out.append(('text', _close(t)))
             continue
         cur = f'{cur} {t}'.strip()
         if cur.endswith(('.', '?', '!')):
-            out.append(cur)
+            out.append(('text', cur))
             cur = ''
     if cur:
-        out.append(_close(cur))
+        out.append(('text', _close(cur)))
     return out
 
 
 def pieces(paras, limit=LIMIT):
+    """[(kind, text)] -> [(kind, piece)]: narration packed under `limit` characters; every sloka a piece of its own
+    (generate it separately, or record it in your own voice, and place it where it stands)."""
     out, cur = [], []
-    for p in paras:
-        if cur and len('\n\n'.join(cur + [p])) > limit:
-            out.append('\n\n'.join(cur))
+    for kind, p in paras:
+        if kind == 'verse' or (cur and len('\n\n'.join(cur + [p])) > limit):
+            if cur:
+                out.append(('text', '\n\n'.join(cur)))
             cur = []
-        cur.append(p)
+        if kind == 'verse':
+            out.append(('verse', p))
+        else:
+            cur.append(p)
     if cur:
-        out.append('\n\n'.join(cur))
+        out.append(('text', '\n\n'.join(cur)))
     return out
