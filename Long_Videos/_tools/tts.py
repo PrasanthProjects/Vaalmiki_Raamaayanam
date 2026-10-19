@@ -98,15 +98,18 @@ def chant(verse):
     return '\n'.join(re.sub(r'\s+', ' ', h) + '.' for h in halves)
 
 
-def paragraphs(spoken, tags=True):
+# Audio tags only work on Eleven v3; Multilingual v2 / v1 read "[serious]" aloud. Off until v3 is available.
+TAGS = False
+
+
+def paragraphs(spoken, tags=None):
     """spoken: the video's items in order -> [(kind, text)]. New parts (hook, bridge, recap, lesson, teaser, subscribe)
-    are their own paragraph, opened with the audio tag of their tone; the story paragraph after one goes back to
-    the calm storytelling tag. Scene lines join until a sentence ends; a kept sloka is kind 'verse'."""
-    out = _paragraphs(spoken)
-    if not tags:
-        return [(k, t) for k, t, _ in out]
+    are their own paragraph; with tags on (Eleven v3) each opens with the audio tag of its tone and the story
+    paragraph after one goes back to the calm storytelling tag. Scene lines join until a sentence ends;
+    a kept sloka is kind 'verse'."""
+    tags = TAGS if tags is None else tags
     res, last = [], None
-    for kind, text, tone in out:
+    for kind, text, tone in _paragraphs(spoken):
         if kind == 'verse':
             res.append((kind, text))
             last = None
@@ -114,7 +117,7 @@ def paragraphs(spoken, tags=True):
         if tone and tone not in ('warm', 'curious'):
             text = text.replace('!', '.')       # in a hook, an exclamation pushes the voice into excitement
         tone = tone or STORY
-        res.append((kind, f'{TONES[tone][0]} {text}' if tone != last else text))
+        res.append((kind, f'{TONES[tone][0]} {text}' if tags and tone != last else text))
         last = tone
     return res
 
@@ -164,5 +167,7 @@ def pieces(paras, limit=LIMIT):
             cur.append(p)
     if cur:
         out.append(('text', '\n\n'.join(cur)))
+    if not TAGS:
+        return out
     tag = TONES[STORY][0]                          # each piece is generated alone: never start one untagged
     return [(k, p if k == 'verse' or p.startswith('[') else f'{tag} {p}') for k, p in out]
