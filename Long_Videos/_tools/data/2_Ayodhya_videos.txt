@@ -273,3 +273,6 @@ E2.04 21 | విసిరేసి ఇలా అని పలికింది
 SIMPLE | అవధి మించి ప్రవర్తిస్తున్నావు => మితిమీరి ప్రవర్తిస్తున్నావు
 # A modern phrase from the book narration; Valmiki (2.1) names the kingdom's chief officials.
 SIMPLE | ప్రభుత్వ ఉద్యోగులని => రాజ్యాధికారులని
+
+# Where each video starts (pinned, so that a narration fix never re-cuts the kaanda; edit this line to re-cut).
+CUTS | E2.01, E2.03, E2.05, E2.07, E2.09, E2.11 15, E2.14, E2.16, E2.18 7, E2.21, E2.24, E2.27, E2.29, E2.32, E2.35, E2.39, E2.41, E2.43, E2.45, E2.48

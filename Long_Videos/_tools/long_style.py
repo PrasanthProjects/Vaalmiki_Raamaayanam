@@ -166,7 +166,7 @@ PLACES = {
         "a simple wooden boat at the shore, hermitages among the trees on the bank, morning mist on the water; "
         "river-blue and soft gold light"),
     'TATAKA_FOREST': (('dense forest',), {'E1.07', 'E1.08'},
-        "The Tataka forest: a vast, dense, silent forest where no birds sing, tangled ancient trees, dry thorny "
+        "The Tataka forest: a vast, dense, dreadful forest loud with shrilling crickets and harsh bird cries, tangled ancient trees, dry thorny "
         "undergrowth, broken branches and dust, dim filtered light, the overgrown ruins of two once-prosperous towns "
         "(Malada and Karusha) swallowed by vines; tense and foreboding but not horror"),
     # Ayodhya Kaanda (its scripts have no location column: data/2_Ayodhya_videos.txt PLACE lines point here)

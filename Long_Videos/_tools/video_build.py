@@ -35,6 +35,7 @@ TARGET, LOW, HIGH = 11 * 60, 10 * 60, 12 * 60
 SIMPLE = []   # [exact words, plain Telugu, times used] (data/*_videos.txt SIMPLE lines)
 PLACES_USED = set()
 CARDS = {}   # (episode, scene) -> on-screen meaning under a kept sloka (data/*_videos.txt CARD lines)
+CUTS = []        # (episode, chapter scene or None): where each video starts (data/*_videos.txt CUTS line)
 PLACE_MAP = {}   # episode -> [(first scene, last scene, PLACES key)] for scripts without a location column
 
 
@@ -57,6 +58,11 @@ def read_fixes(path):
             head, rest = line.split(' | ', 1)
             if head.startswith(('REHOOK ', 'HOOK ')):
                 splits[(head.split()[1], head.split()[0].lower())] = rest
+                continue
+            if head == 'CUTS':     # "E0.01, E1.02 22, E1.06, …": the first unit of every video, in order
+                for x in rest.split(','):
+                    w = x.split()
+                    CUTS.append((w[0], int(w[1]) if len(w) > 1 else None))
                 continue
             if head == 'SIMPLE':
                 old, new = rest.split(' => ', 1)
@@ -314,6 +320,13 @@ def group_videos(eps, extras, splits):
     and preferably where data/*_videos.txt already has a SPLIT opening for that chapter."""
     units = [(e, c) for e in eps for c in range(len(e['starts']))]
     n = len(units)
+    if CUTS:    # data/*_videos.txt pins where each video starts, so a narration fix never re-cuts the kaanda
+        at = {(e['ep'], e['starts'][c][2] if c else None): i for i, (e, c) in enumerate(units)}
+        missing = [x for x in CUTS if x not in at]
+        assert not missing, f'CUTS not at a chapter start: {missing}'
+        idx = [at[x] for x in CUTS] + [n]
+        assert idx == sorted(idx) and idx[0] == 0, 'CUTS must be in order and start with the first episode'
+        return [to_parts(units[a:b]) for a, b in zip(idx, idx[1:])]
     best = [(0, None)] + [(float('inf'), None)] * n
     for b in range(1, n + 1):
         for a in range(b - 1, -1, -1):
