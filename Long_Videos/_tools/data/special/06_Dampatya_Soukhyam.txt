@@ -1,0 +1,135 @@
+# Special sloka video 6: marriage and married life. Checked against Sanskrit Wikisource and valmikiramayan.net:
+# 1.73.26-27 (Janaka's kanyadanam; Bala 73 is the parayana list's sarga "for marriage") · 1.77.26-28 (Wikisource
+# numbering; the love of Rama and Sita growing after marriage) · 5.21.15 (Sita to Ravana).
+NAME: 06_Dampatya_Soukhyam
+TITLE: పెళ్ళి, దాంపత్య సౌఖ్యం కోసం రామాయణ శ్లోకాలు | ఇయం సీతా మమ సుతా | సీతారాముల ప్రేమ | అర్థంతో
+HEAD: దాంపత్య సౌఖ్యం | సీతారాముల శ్లోకాలు
+THUMB: Sita and Rama seated together on a decorated wedding dais in Mithila, Janaka placing Sita's hand in Rama's hand while pouring sacred water, sacred fire glowing before them, flower garlands, golden lamp light; joyful, sacred, reverent.
+FIRST_CHAPTER: దాంపత్య సౌఖ్యం
+DESC: పెళ్ళి కావలసినవారు, కొత్తగా పెళ్ళైన జంటలు, ప్రతి దంపతులు వినవలసిన వాల్మీకి రామాయణ శ్లోకాలు, అర్థంతో. జనక మహారాజు కన్యాదానంలో పలికిన "ఇయం సీతా మమ సుతా సహధర్మచరీ తవ" (వివాహం కోసం పెద్దలు పారాయణం చేసే బాలకాండ 73వ సర్గ), పెళ్ళి తరువాత సీతారాముల ప్రేమ రోజురోజుకూ ఎలా పెరిగిందో చెప్పే వాల్మీకి వర్ణన, రావణుడి ఎదుట సీతమ్మ పలికిన "అనన్యా రాఘవేణాహం". చివర నిరంతర పారాయణం.
+DISCLAIMER: శ్లోకాలు వాల్మీకి రామాయణం నుండి; సంఖ్యలు కాండ.సర్గ.శ్లోకం.
+TAGS: #marriage #sitarama #kalyanam #slokas #ramayanam
+PIN: పెళ్ళి రోజున, పెళ్ళి చూపులకు ముందు ఈ శ్లోకాలు వినండి. మీ దాంపత్య జీవితానికి ఏ శ్లోకం బాగా నచ్చింది? కామెంట్‌లో రాయండి 🙏
+SHORT_TITLE: మనసు మాటలు మాటలు లేకుండానే అర్థమయ్యే జంట – సీతారాములు #shorts
+SHORT_DESC: వాల్మీకి రామాయణం బాలకాండ 77వ సర్గ. పెళ్ళి తరువాత సీతారాముల ప్రేమ.
+
+@ H | video | హుక్ | E1.24 | దాంపత్య సౌఖ్యం
+VISUAL: The wedding hall of Mithila glowing with lamps: Janaka holding Sita's hand above Rama's open palm, the sacred fire before them, sages chanting, flowers falling from above.
+కన్యాదానం అనగానే మనకు గుర్తొచ్చే మాటలు, మొదట పలికింది జనక మహారాజు. పెళ్ళి తరువాత సీతారాముల ప్రేమ ఎలా పెరిగిందో వాల్మీకి చెప్పిన మాటలు ఇంకా అందంగా ఉంటాయి. ఈ రోజు దాంపత్య సౌఖ్యం కోసం రామాయణ శ్లోకాలు.
+
+@ I | intro | ఇంట్రో (ఛానల్ బంపర్)
+
+@ W | image | స్వాగతం | E1.24
+VISUAL: A softly glowing palm-leaf manuscript of the Ramayana on a carved wooden stand beside a lit brass oil lamp, a pair of flower garlands and turmeric-dyed rice beside it, warm light.
+నమస్కారం. పురాణ కథా శ్రవణం ప్రత్యేక శ్లోకాల వరుసలో ఇది ఆరవ భాగం. పెళ్ళి కావలసినవారు, కొత్త జంటలు, అందరూ కలిసి వినవలసిన శ్లోకాలు ఇవి.
+
+@ B1 | image | బ్రిడ్జ్ → కన్యాదానం | E1.24 | కన్యాదానం
+VISUAL: Janaka leading Sita, adorned in bridal silk and jewels, to the sacred fire where Rama stands; Dasharatha, Vishwamitra and Vashishtha watching with joy.
+శివధనుస్సు విరిగింది. మిథిలలో కళ్యాణ వేదిక సిద్ధమైంది. సర్వాభరణాలతో అలంకరించిన సీతమ్మను జనకుడు అగ్ని సమక్షంలో, రాముడి ఎదుట నిలబెట్టి, కౌసల్యానందవర్ధనుడైన రాముడితో ఇలా అన్నాడు.
+
+@ V1 | verse | శ్లోకం 1 · బాలకాండ 73.26–27 | E1.24
+VISUAL: Close on Janaka placing Sita's hand in Rama's hand, sacred water flowing from his vessel over their joined hands, the fire glowing.
+MEANING: ఈ సీత నా కూతురు, నీతో కలిసి ధర్మం ఆచరించే సహధర్మచారిణి. ఈమెను స్వీకరించు, నీకు శుభం కలుగుగాక. నీ చేతితో ఈమె చేతిని పట్టుకో. ఈమె పతివ్రత, మహా భాగ్యవంతురాలు, నీడలా ఎప్పుడూ నిన్ను అనుసరిస్తుంది.
+ఇయం సీతా మమ సుతా సహధర్మచరీ తవ ।
+ప్రతీచ్ఛ చైనాం భద్రం తే పాణిం గృహ్ణీష్వ పాణినా ।
+పతివ్రతా మహాభాగా ఛాయేవానుగతా సదా ॥
+
+@ 1 | image | అర్థం | E1.24
+VISUAL: Rama and Sita's joined hands under the flowing water, garlands on their wrists, soft firelight.
+ఇయం సీతా మమ సుతా, ఈ సీత నా కూతురు. సహధర్మచరీ తవ, నీతో కలిసి ధర్మం ఆచరించే తోడు. ప్రతీచ్ఛ చైనాం, ఈమెను స్వీకరించు. భద్రం తే, నీకు శుభం. పాణిం గృహ్ణీష్వ పాణినా, నీ చేతితో ఈమె చేయి పట్టుకో, అదే పాణిగ్రహణం. పతివ్రతా మహాభాగా, పతివ్రత, భాగ్యవంతురాలు. ఛాయేవానుగతా సదా, నీడలా ఎప్పుడూ నీ వెంటే ఉంటుంది.
+
+@ 2 | image | సహధర్మచారిణి | E1.24
+VISUAL: The newly wed Rama and Sita walking around the sacred fire together, Sita's hand in Rama's, the sages showering akshata.
+గమనించండి, జనకుడు భార్య అనే మాట కంటే ముందు సహధర్మచరీ అన్నాడు. ధర్మంలో సమాన భాగస్వామి. ఈ మాట చెప్పి, మంత్రపూతమైన జలం రాముడి చేతుల్లో విడిచాడు. దేవతలు, ఋషులు సాధు సాధు అన్నారు. పెళ్ళి కావాలని కోరుకునేవారు బాలకాండ డెబ్బై మూడవ సర్గను పారాయణం చేస్తారు అని పెద్దలు చెబుతారు. ఈ శ్లోకం ఆ సర్గలోనిదే.
+
+@ B2 | image | బ్రిడ్జ్ → పెరిగిన ప్రేమ | E1.26 | పెరిగిన ప్రేమ
+VISUAL: Ayodhya palace gardens after the wedding: Rama and Sita walking together among flowering trees at dusk, talking softly and smiling.
+పెళ్ళి తరువాత సీతారాములు అయోధ్యకు వచ్చారు. వాళ్ళ ప్రేమ ఎలా పెరిగిందో, బాలకాండ చివరి సర్గలో వాల్మీకి మహర్షి ఎంతో మృదువుగా చెప్పారు.
+
+@ V2 | verse | శ్లోకం 2 · బాలకాండ 77.26–28 | E1.26
+VISUAL: Rama and Sita seated together on a palace balcony under the moon, looking at each other without words, a lamp glowing between them.
+MEANING: రాముడి మనసు సీత మీదే లగ్నమైంది, ఆమె హృదయంలో ఆయన నిలిచాడు. తండ్రి అంగీకరించిన భార్య కాబట్టి సీత రాముడికి ప్రియమైనది. ఆమె గుణాలు, రూపం వల్ల ఆ ప్రేమ ఇంకా పెరిగింది. సీత హృదయంలో భర్త రెండింతలుగా నిలిచాడు. మనసులో దాగిన మాటను కూడా వారి హృదయాలు ఒకదానికొకటి స్పష్టంగా చెప్పుకునేవి.
+మనస్వీ తద్గతమనాస్తస్యా హృది సమర్పితః ।
+ప్రియా తు సీతా రామస్య దారాః పితృకృతా ఇతి ॥
+గుణాద్రూపగుణాచ్చాపి ప్రీతిర్భూయోఽభివర్ధతే ।
+తస్యాశ్చ భర్తా ద్విగుణం హృదయే పరివర్తతే ॥
+అంతర్గతమపి వ్యక్తమాఖ్యాతి హృదయం హృదా ।
+
+@ 3 | image | అర్థం | E1.26
+VISUAL: Close on Sita's face glowing with quiet happiness as she looks at Rama.
+తద్గతమనాః, రాముడి మనసు ఆమె మీదే. తస్యా హృది సమర్పితః, ఆమె హృదయంలో ఆయన నిలిచాడు. దారాః పితృకృతా ఇతి, తండ్రి అంగీకారంతో వచ్చిన భార్య కాబట్టి ప్రియమైనది. గుణాత్ రూపగుణాచ్చ ప్రీతిః భూయః అభివర్ధతే, ఆమె గుణాల వల్ల ఆ ప్రేమ ఇంకా ఇంకా పెరిగింది. తస్యాశ్చ భర్తా ద్విగుణం హృదయే పరివర్తతే, సీత హృదయంలో భర్త రెండింతలుగా నిలిచాడు. అంతర్గతం అపి వ్యక్తం ఆఖ్యాతి హృదయం హృదా, మనసు లోపలి మాటను కూడా, హృదయం హృదయానికి స్పష్టంగా చెప్పేది.
+
+@ 4 | image | మాటలు లేని మాట | E1.26
+VISUAL: An elderly husband and wife sitting together on a village house verandah at evening, he handing her a cup of water before she asks, both smiling.
+మాటలు లేకుండానే ఒకరి మనసు ఇంకొకరికి అర్థమయ్యే దాంపత్యం. అదే వాల్మీకి చెప్పిన ఆదర్శం. ప్రేమ పెళ్ళి రోజు అయిపోయేది కాదు, గుణాలు చూసి రోజురోజుకూ పెరిగేది. ఒకరి మంచి గుణాలను ఇంకొకరు గమనిస్తూ, గౌరవిస్తూ ఉంటే, ఆ ప్రేమ రెండింతలు అవుతుంది.
+
+@ B3 | image | బ్రిడ్జ్ → సూర్యుడు, వెలుగు | E5.21 | సూర్యుడు, వెలుగు
+VISUAL: The Ashoka grove in Lanka: Sita seated under a tree, pale but resolute, a single blade of grass placed before her; Ravana standing before her in all his royal splendour, offering riches.
+ఇప్పుడు సుందరకాండ. అశోకవనంలో సీతమ్మ ఒంటరిగా ఉంది. లంకంత సంపద, రాజ్యం అన్నీ ఇస్తానని రావణుడు ఆశ పెట్టాడు. సీతమ్మ ఒక గడ్డిపోచను అడ్డుగా పెట్టి ఇలా జవాబిచ్చింది.
+
+@ V3 | verse | శ్లోకం 3 · సుందరకాండ 21.15 | E5.21
+VISUAL: Close on Sita's face, eyes steady and fearless, a soft light around her as though the sun itself stood behind her.
+MEANING: ఐశ్వర్యంతో గానీ, ధనంతో గానీ నన్ను ఆశ పెట్టడం సాధ్యం కాదు. సూర్యుడికి వెలుగు ఎలాగో, రాముడికి నేను అలా, వేరు కాదు.
+శక్యా లోభయితుం నాహమైశ్వర్యేణ ధనేన వా ।
+అనన్యా రాఘవేణాహం భాస్కరేణ యథా ప్రభా ॥
+
+@ 5 | image | అర్థం | E5.21
+VISUAL: The sun and its light over a calm sea, inseparable, a golden glow.
+న శక్యా లోభయితుం అహం, నన్ను ఆశ పెట్టలేవు. ఐశ్వర్యేణ ధనేన వా, అధికారంతో గానీ, ధనంతో గానీ. అనన్యా రాఘవేణ అహం, నేను రాముడి నుండి వేరు కాను. భాస్కరేణ యథా ప్రభా, సూర్యుడి నుండి వెలుగు వేరు కానట్టు. సూర్యుడు లేకుండా వెలుగు లేదు, వెలుగు లేకుండా సూర్యుడిని ఊహించలేము. దంపతులు అంటే అలా ఒకటిగా ఉండటం.
+
+@ B4 | image | బ్రిడ్జ్ → ఎలా వినాలి | E1.24 | ఎలా వినాలి
+VISUAL: A young couple at home in the morning lighting a lamp together before a picture of Sita and Rama, then bowing to their parents.
+ఎలా వినాలి? పెళ్ళి కావలసినవారు రోజూ ఉదయం ఇయం సీతా మమ సుతా శ్లోకం వినండి. కొత్త జంటలు కలిసి కూర్చుని వాల్మీకి చెప్పిన సీతారాముల ప్రేమ శ్లోకాలు వినండి. పెళ్ళి రోజున, వార్షికోత్సవం రోజున కుటుంబమంతా కలిసి వినండి.
+
+@ B5 | image | బ్రిడ్జ్ → నిరంతర పారాయణం | E1.24 | నిరంతర పారాయణం
+VISUAL: A slow, peaceful sequence: a wedding fire, a pair of garlands, a lamp, a full moon over a palace garden.
+ఇప్పుడు ఈ శ్లోకాలను ఒకదాని తర్వాత ఒకటి, నిరంతరంగా వినండి.
+
+@ V4 | verse | పారాయణం · బాలకాండ 73.26–27 | E1.24
+VISUAL: The sacred wedding fire glowing, flowers falling around it.
+MEANING: ఈ సీత నా కూతురు, నీకు సహధర్మచారిణి.
+ఇయం సీతా మమ సుతా సహధర్మచరీ తవ ।
+ప్రతీచ్ఛ చైనాం భద్రం తే పాణిం గృహ్ణీష్వ పాణినా ।
+పతివ్రతా మహాభాగా ఛాయేవానుగతా సదా ॥
+
+@ V5 | verse | పారాయణం · బాలకాండ 77.26–28 | E1.26
+VISUAL: The full moon over a quiet palace garden.
+MEANING: హృదయం హృదయానికి చెప్పుకునే ప్రేమ.
+మనస్వీ తద్గతమనాస్తస్యా హృది సమర్పితః ।
+ప్రియా తు సీతా రామస్య దారాః పితృకృతా ఇతి ॥
+గుణాద్రూపగుణాచ్చాపి ప్రీతిర్భూయోఽభివర్ధతే ।
+తస్యాశ్చ భర్తా ద్విగుణం హృదయే పరివర్తతే ॥
+అంతర్గతమపి వ్యక్తమాఖ్యాతి హృదయం హృదా ।
+
+@ V6 | verse | పారాయణం · సుందరకాండ 21.15 | E5.21
+VISUAL: The sun rising, its light spreading across the sky.
+MEANING: సూర్యుడికి వెలుగులా, రాముడికి సీత.
+శక్యా లోభయితుం నాహమైశ్వర్యేణ ధనేన వా ।
+అనన్యా రాఘవేణాహం భాస్కరేణ యథా ప్రభా ॥
+
+@ L | image | దీవెన | E1.26
+VISUAL: Sita and Rama seated together on a throne, smiling at each other, golden light and falling flowers.
+ప్రతి ఇంట్లో సీతారాముల వంటి ప్రేమ, గౌరవం, అనుబంధం నిండాలని ప్రార్థిద్దాం. పెళ్ళి కావలసినవారికి త్వరలో మంచి సంబంధం కుదరాలని కోరుకుందాం. శ్రీ సీతారామ కళ్యాణ వైభోగమే.
+
+@ C | image | సబ్‌స్క్రైబ్ | E1.26 | SUBSCRIBE 🔔
+VISUAL: A glowing palm-leaf manuscript of the Ramayana resting on a carved wooden stand beside a lit brass oil lamp in a quiet temple courtyard at golden hour, marigold petals around it.
+ఈ వీడియో కొత్తగా పెళ్ళైన మీ స్నేహితులకు పంపండి. ఇలాంటి ప్రత్యేక శ్లోకాల కోసం పురాణ కథా శ్రవణం ఛానల్‌ను సబ్‌స్క్రైబ్ చేయండి.
+
+=== SHORT
+@ H | video | హుక్ | E1.26 | సీతారాముల ప్రేమ
+VISUAL: Rama and Sita on a moonlit palace balcony looking at each other without words; vertical 9:16 framing.
+మాటలు లేకుండానే మనసు అర్థమయ్యే జంట. సీతారాముల ప్రేమను వాల్మీకి ఇలా వర్ణించారు.
+
+@ V1 | verse | శ్లోకం · బాలకాండ 77.27–28 | E1.26
+VISUAL: Close on Sita smiling softly at Rama, lamp light between them; vertical 9:16 framing.
+MEANING: సీత హృదయంలో భర్త రెండింతలుగా నిలిచాడు. మనసు లోపలి మాటను కూడా హృదయం హృదయానికి చెప్పేది.
+తస్యాశ్చ భర్తా ద్విగుణం హృదయే పరివర్తతే ।
+అంతర్గతమపి వ్యక్తమాఖ్యాతి హృదయం హృదా ।
+
+@ 1 | image | అర్థం | E1.26
+VISUAL: An elderly couple sharing a quiet smile on a verandah; vertical 9:16 framing.
+సీత హృదయంలో రాముడు రెండింతలుగా నిలిచాడు. మనసు లోపలి మాటను కూడా వారి హృదయాలు ఒకదానికొకటి చెప్పుకునేవి. అదే దాంపత్యం.
+
+@ C | image | సబ్‌స్క్రైబ్ | E1.26 | పూర్తి వీడియో ఛానల్‌లో
+VISUAL: A glowing palm-leaf manuscript beside a lit brass lamp, marigold petals; vertical 9:16 framing.
+కన్యాదాన శ్లోకంతో పూర్తి వీడియో మన ఛానల్‌లో.

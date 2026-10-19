@@ -1,0 +1,134 @@
+# Special sloka video 4: freedom from fear (Vibhishana's surrender). Checked against Sanskrit Wikisource and
+# valmikiramayan.net: 6.18.3 · 6.18.33 · 6.18.34. Yuddha 18-19 is the parayana list's sarga "for overcoming
+# unexpected danger". Vedanta Desika's "Abhaya Pradhana Saram" is on this episode (confirmed); the label
+# "charama shloka" was not confirmed, so it is not used.
+NAME: 04_Abhayam_Sharanagati
+TITLE: భయం పోగొట్టే రామాయణ శ్లోకం | సకృదేవ ప్రపన్నాయ | విభీషణ శరణాగతి | అర్థంతో
+HEAD: భయం పోగొట్టే | రాముని అభయం
+THUMB: Rama standing on the seashore at sunset with his right hand raised in the abhaya mudra, calm and compassionate; Vibhishana with four companions bowing before him with joined palms; the ocean glowing behind; Sugriva and Hanuman watching; reverent and peaceful.
+FIRST_CHAPTER: భయం పోగొట్టే శ్లోకం
+DESC: మనసులో భయం, ఆందోళన, ఏదో ఆపద వస్తుందేమో అనే దిగులు ఉన్నప్పుడు వినవలసిన శ్లోకం. శత్రువు తమ్ముడు అయిన విభీషణుడు శరణు కోరి వచ్చినప్పుడు, అందరూ అనుమానించినా, రాముడు ఇచ్చిన అభయం. "సకృదేవ ప్రపన్నాయ, తవాస్మీతి చ యాచతే, అభయం సర్వభూతేభ్యో దదామ్యేతద్ వ్రతం మమ". యుద్ధకాండ పద్దెనిమిదవ సర్గ, ఆపదల నుండి రక్షణ కోసం పెద్దలు పారాయణం చేసే సర్గ. అర్థంతో, చివర నిరంతర పారాయణం.
+DISCLAIMER: శ్లోకాలు వాల్మీకి రామాయణం యుద్ధకాండ నుండి; సంఖ్యలు కాండ.సర్గ.శ్లోకం.
+TAGS: #sharanagati #vibhishana #abhayam #slokas #ramayanam
+PIN: రాముడి ఈ ఒక్క మాట మీకు ఎలాంటి ధైర్యం ఇచ్చింది? కామెంట్‌లో రాయండి. జై శ్రీరామ్ 🙏
+SHORT_TITLE: ఒక్కసారి శరణు అంటే చాలు – రాముడి ప్రతిజ్ఞ #shorts
+SHORT_DESC: వాల్మీకి రామాయణం యుద్ధకాండ 18వ సర్గ, 33వ శ్లోకం. విభీషణుడికి రాముడు ఇచ్చిన అభయం.
+
+@ H | video | హుక్ | E6.18 | భయం పోగొట్టే శ్లోకం
+VISUAL: Night sky over the ocean: Vibhishana and four companions descending through the air toward the seashore where the vast vanara army is camped, the vanaras looking up in alarm.
+శత్రువు తమ్ముడు ఆకాశం నుండి దిగి వచ్చి, నన్ను కాపాడు అని శరణు కోరాడు. సైన్యమంతా అనుమానించింది. గూఢచారి కావచ్చు, ద్రోహం చేయవచ్చు అన్నారు. అప్పుడు రాముడు ఒక ప్రతిజ్ఞ చేశాడు. వేల ఏళ్ళుగా భయపడే ప్రతి మనసుకు ధైర్యం ఇస్తున్న ప్రతిజ్ఞ అది.
+
+@ I | intro | ఇంట్రో (ఛానల్ బంపర్)
+
+@ W | image | స్వాగతం | E6.18
+VISUAL: A softly glowing palm-leaf manuscript of the Ramayana on a carved wooden stand beside a lit brass oil lamp, tulasi leaves and a small image of Rama with raised blessing hand, warm evening light.
+నమస్కారం. పురాణ కథా శ్రవణం ప్రత్యేక శ్లోకాల వరుసలో ఇది నాలుగవ భాగం. మనసులో భయం, ఆందోళన ఉన్నప్పుడు వినవలసిన శ్లోకాలు ఈ రోజు.
+
+@ B1 | image | బ్రిడ్జ్ → శరణు కోరిన శత్రువు తమ్ముడు | E6.17 | శరణు కోరిన శత్రువు తమ్ముడు
+VISUAL: Vibhishana standing in the air above the shore with joined palms, his four companions behind him, speaking toward Sugriva below.
+రావణుడికి ధర్మం చెప్పి, అవమానం పొంది, లంకను విడిచి వచ్చాడు రావణుడి తమ్ముడు విభీషణుడు. సముద్రం ఒడ్డున ఉన్న వానర సైన్యం దగ్గరకు నలుగురు మంత్రులతో వచ్చి, నేను రాముడిని శరణు కోరుతున్నాను అన్నాడు.
+
+@ 1 | image | సుగ్రీవుడి అనుమానం | E6.17
+VISUAL: Sugriva turning to Rama with a worried, suspicious face, pointing toward Vibhishana in the sky; vanara leaders gathered around, some agreeing, Hanuman thoughtful.
+సుగ్రీవుడు అనుమానించాడు. ఇతను రావణుడి తమ్ముడు, మన బలహీనతలు తెలుసుకోవడానికి వచ్చిన గూఢచారి కావచ్చు, ఇతన్ని బంధించాలి అన్నాడు. వానర నాయకులు ఒక్కొక్కరు ఒక్కో అభిప్రాయం చెప్పారు. హనుమ మాత్రం, ఇతని మాటల్లో కపటం లేదు అన్నాడు. అందరి మాటలు విన్న రాముడు ఇలా అన్నాడు.
+
+@ V1 | verse | శ్లోకం 1 · యుద్ధకాండ 18.3 | E6.18
+VISUAL: Rama seated calmly among the vanara leaders on the seashore, speaking with quiet authority, his face full of compassion.
+MEANING: స్నేహ భావంతో నా దగ్గరకు వచ్చినవాడిని, అతనిలో ఏదైనా దోషం ఉన్నా, నేను ఏ విధంగానూ విడిచిపెట్టను. సత్పురుషులు దీనిని తప్పు అనరు.
+మిత్రభావేన సంప్రాప్తం న త్యజేయం కథంచన ।
+దోషో యద్యపి తస్య స్యాత్ సతామేతదగర్హితమ్ ॥
+
+@ 2 | image | అర్థం | E6.18
+VISUAL: Close on Rama's face: gentle, steady eyes, the evening light on the sea behind him.
+మిత్రభావేన సంప్రాప్తం, స్నేహ భావంతో వచ్చినవాడిని, న త్యజేయం కథంచన, ఏ విధంగానూ విడిచిపెట్టను. దోషో యద్యపి తస్య స్యాత్, అతనిలో దోషం ఉన్నా సరే. సతాం ఏతత్ అగర్హితం, సత్పురుషులు దీనిని తప్పుగా చూడరు. గమనించండి, రాముడు ఇతను మంచివాడా అని అడగలేదు. నా దగ్గరకు వచ్చాడా అని మాత్రమే చూశాడు.
+
+@ B2 | image | బ్రిడ్జ్ → రాముడి ప్రతిజ్ఞ | E6.18 | రాముడి ప్రతిజ్ఞ
+VISUAL: Rama rising to his feet on the shore, raising his right hand, the vanara leaders falling silent, the ocean waves calm behind him.
+ఆ తరువాత, పావురం తనను వేటాడిన వేటగాడికే ఆతిథ్యం ఇచ్చిన కథను, కండు మహర్షి మాటను గుర్తు చేసి, రాముడు తన జీవిత వ్రతాన్ని ప్రకటించాడు.
+
+@ V2 | verse | శ్లోకం 2 · యుద్ధకాండ 18.33 | E6.18
+VISUAL: Rama with his right hand raised in the abhaya mudra, a soft divine radiance around him, the whole army bowing; reverent traditional iconography.
+MEANING: ఒక్కసారి నన్ను శరణు కోరి, నేను నీవాడిని అని అడిగినవారికి, సమస్త ప్రాణుల నుండి అభయం ఇస్తాను. ఇది నా వ్రతం.
+సకృదేవ ప్రపన్నాయ తవాస్మీతి చ యాచతే ।
+అభయం సర్వభూతేభ్యో దదామ్యేతద్ వ్రతం మమ ॥
+
+@ 3 | image | అర్థం | E6.18
+VISUAL: Close on Rama's raised blessing hand, glowing softly against the evening sky.
+సకృదేవ, ఒక్కసారి మాత్రమే. ప్రపన్నాయ, శరణు కోరినవాడికి. తవ అస్మి ఇతి చ యాచతే, నేను నీవాడిని అని అడిగినవాడికి. అభయం సర్వభూతేభ్యః, సమస్త ప్రాణుల నుండి భయం లేకుండా, దదామి, ఇస్తాను. ఏతత్ వ్రతం మమ, ఇది నా వ్రతం. వందసార్లు కాదు, ఒక్కసారి చాలు. మనసు నిండా ఒక్కసారి రామా, నేను నీవాడిని అనుకుంటే చాలు.
+
+@ B3 | image | బ్రిడ్జ్ → రావణుడైనా సరే | E6.18 | రావణుడైనా సరే
+VISUAL: Sugriva listening, his suspicion melting into wonder; Rama turning to him with a gentle smile.
+ఇంకా అనుమానంతో ఉన్న సుగ్రీవుడితో రాముడు చెప్పిన మాట, ఆయన కరుణకు ఎల్లలు లేవని చూపిస్తుంది.
+
+@ V3 | verse | శ్లోకం 3 · యుద్ధకాండ 18.34 | E6.18
+VISUAL: Sugriva bowing to Rama, then turning to welcome Vibhishana, who descends with joined palms; the vanaras making way.
+MEANING: వానర శ్రేష్ఠుడా, అతన్ని తీసుకురా. అతనికి అభయం ఇచ్చేశాను. సుగ్రీవా, అతను విభీషణుడైనా సరే, స్వయంగా రావణుడే వచ్చినా సరే.
+ఆనయైనం హరిశ్రేష్ఠ దత్తమస్యాభయం మయా ।
+విభీషణో వా సుగ్రీవ యది వా రావణః స్వయమ్ ॥
+
+@ 4 | image | అర్థం | E6.18
+VISUAL: Vibhishana falling at Rama's feet on the sand, Rama lifting him with both hands, Lakshmana and Hanuman watching with joy.
+ఆనయ ఏనం హరిశ్రేష్ఠ, వానర శ్రేష్ఠుడా, అతన్ని తీసుకురా. దత్తం అస్య అభయం మయా, అతనికి నేను అభయం ఇచ్చేశాను. విభీషణో వా సుగ్రీవ, సుగ్రీవా, అతను విభీషణుడైనా, యది వా రావణః స్వయం, స్వయంగా రావణుడే అయినా సరే. తనకు ఇంత అపకారం చేసిన రావణుడైనా సరే, శరణు అంటే కాపాడతాను అన్నాడు రాముడు. అదే రాముడి కరుణ.
+
+@ 5 | image | ఆపదల సర్గ | E6.18
+VISUAL: Lakshmana, at Rama's word, anointing Vibhishana with sea water on the shore as the future king of Lanka, the vanaras cheering, sunrise colours in the sky.
+విభీషణుడు రాముడి పాదాల మీద పడ్డాడు. రాముడు ఆయనను ఆదరించి, లక్ష్మణుడి చేత సముద్ర జలం తెప్పించి, అక్కడే లంకకు రాజుగా అభిషేకం చేయించాడు. ఈ ఘట్టం ఉన్న యుద్ధకాండ పద్దెనిమిది, పందొమ్మిది సర్గలను, అనుకోని ఆపదల నుండి రక్షణ కోసం పెద్దలు పారాయణం చేస్తారు. శ్రీ వేదాంత దేశికులు ఈ ఘట్టం మీదే అభయ ప్రదాన సారం అనే గ్రంథం రాశారు.
+
+@ B4 | image | బ్రిడ్జ్ → ఎలా వినాలి | E6.18 | ఎలా వినాలి
+VISUAL: A woman sitting alone at night in a dim room, worried, then lighting a small lamp before an image of Rama and closing her eyes; her face slowly calming.
+ఎలా వినాలి? రాత్రి నిద్ర పట్టనప్పుడు, ఏదో భయం మనసును పట్టుకున్నప్పుడు, ప్రయాణాలకు ముందు, ఈ శ్లోకాన్ని మెల్లగా వినండి, వీలైతే మీరూ పలకండి. సకృదేవ ప్రపన్నాయ. ఒక్కసారి శరణు అంటే చాలు అని రాముడే మాట ఇచ్చాడు. ఆ మాట మీద నమ్మకం ఉంచండి.
+
+@ B5 | image | బ్రిడ్జ్ → నిరంతర పారాయణం | E6.18 | నిరంతర పారాయణం
+VISUAL: A slow, peaceful sequence: calm ocean waves at dawn, a lamp burning steadily, Rama's raised blessing hand glowing softly.
+ఇప్పుడు ఈ మూడు శ్లోకాలను ఒకదాని తర్వాత ఒకటి, నిరంతరంగా వినండి.
+
+@ V4 | verse | పారాయణం · యుద్ధకాండ 18.3 | E6.18
+VISUAL: The seashore at dawn, waves gently arriving.
+MEANING: స్నేహంతో వచ్చినవాడిని ఎప్పుడూ విడిచిపెట్టను.
+మిత్రభావేన సంప్రాప్తం న త్యజేయం కథంచన ।
+దోషో యద్యపి తస్య స్యాత్ సతామేతదగర్హితమ్ ॥
+
+@ V5 | verse | పారాయణం · యుద్ధకాండ 18.33 | E6.18
+VISUAL: Rama's raised blessing hand glowing against a golden sky.
+MEANING: ఒక్కసారి శరణు కోరితే చాలు, అభయం ఇస్తాను.
+సకృదేవ ప్రపన్నాయ తవాస్మీతి చ యాచతే ।
+అభయం సర్వభూతేభ్యో దదామ్యేతద్ వ్రతం మమ ॥
+
+@ V6 | verse | పారాయణం · యుద్ధకాండ 18.34 | E6.18
+VISUAL: A lamp burning steadily in a quiet temple sanctum.
+MEANING: రావణుడైనా సరే, శరణు అంటే అభయం.
+ఆనయైనం హరిశ్రేష్ఠ దత్తమస్యాభయం మయా ।
+విభీషణో వా సుగ్రీవ యది వా రావణః స్వయమ్ ॥
+
+@ V7 | verse | పారాయణం · యుద్ధకాండ 18.33 | E6.18
+VISUAL: Sunrise over the ocean, a single lotus floating on calm water.
+MEANING: ఇది నా వ్రతం.
+సకృదేవ ప్రపన్నాయ తవాస్మీతి చ యాచతే ।
+అభయం సర్వభూతేభ్యో దదామ్యేతద్ వ్రతం మమ ॥
+
+@ L | image | దీవెన | E6.18
+VISUAL: Rama with raised blessing hand, Sita beside him, Hanuman at their feet, soft golden light.
+భయం ఉన్న ప్రతి మనసుకు ఆ రాముడి అభయ హస్తం తోడుగా ఉండాలని ప్రార్థిద్దాం. శ్రీరామ రక్ష, సర్వ జగద్రక్ష.
+
+@ C | image | సబ్‌స్క్రైబ్ | E6.18 | SUBSCRIBE 🔔
+VISUAL: A glowing palm-leaf manuscript of the Ramayana resting on a carved wooden stand beside a lit brass oil lamp in a quiet temple courtyard at golden hour, marigold petals around it.
+ఆందోళనలో ఉన్న ఎవరికైనా ఈ వీడియో పంపండి. ఇలాంటి ప్రత్యేక శ్లోకాల కోసం పురాణ కథా శ్రవణం ఛానల్‌ను సబ్‌స్క్రైబ్ చేయండి.
+
+=== SHORT
+@ H | video | హుక్ | E6.18 | రాముడి ప్రతిజ్ఞ
+VISUAL: Rama on the seashore raising his right hand in the abhaya mudra as Vibhishana bows; vertical 9:16 framing.
+శత్రువు తమ్ముడు శరణు కోరాడు. అందరూ అనుమానించారు. అప్పుడు రాముడు చేసిన ప్రతిజ్ఞ ఇది.
+
+@ V1 | verse | శ్లోకం · యుద్ధకాండ 18.33 | E6.18
+VISUAL: Close on Rama's compassionate face and raised blessing hand; vertical 9:16 framing.
+MEANING: ఒక్కసారి శరణు కోరి, నేను నీవాడిని అన్నవారికి, సమస్త ప్రాణుల నుండి అభయం ఇస్తాను. ఇది నా వ్రతం.
+సకృదేవ ప్రపన్నాయ తవాస్మీతి చ యాచతే ।
+అభయం సర్వభూతేభ్యో దదామ్యేతద్ వ్రతం మమ ॥
+
+@ 1 | image | అర్థం | E6.18
+VISUAL: Vibhishana at Rama's feet, Rama lifting him; vertical 9:16 framing.
+ఒక్కసారి నన్ను శరణు కోరి, నేను నీవాడిని అని అడిగినవారికి, ఏ ప్రాణి నుండీ భయం లేకుండా అభయం ఇస్తాను. ఇది నా వ్రతం. రాముడి మాట.
+
+@ C | image | సబ్‌స్క్రైబ్ | E6.18 | పూర్తి వీడియో ఛానల్‌లో
+VISUAL: A glowing palm-leaf manuscript beside a lit brass lamp, marigold petals; vertical 9:16 framing.
+పూర్తి కథ, అర్థంతో మన ఛానల్‌లో.

@@ -1,0 +1,161 @@
+# Special sloka video 5: good character for children and students. Checked against Sanskrit Wikisource and
+# valmikiramayan.net: 1.1.2-4 (Valmiki's sixteen questions) · 1.1.17-19 (Narada's answer) · 2.1.10-11 (Ayodhya 1-2
+# is the parayana list's sarga "for children developing good character") · 3.37.13 (Maricha to Ravana).
+NAME: 05_Pillala_Sadgunalu
+TITLE: పిల్లలకు మంచి గుణాలు నేర్పే రామాయణ శ్లోకాలు | రాముని 16 గుణాలు | విద్యార్థుల కోసం అర్థంతో
+HEAD: పిల్లలకు నేర్పవలసిన | రాముని 16 గుణాలు
+THUMB: Sage Valmiki and sage Narada seated face to face in a sunlit forest ashram beside the Tamasa river, Narada with his veena raised, Valmiki listening with joined palms; behind them a golden vision of young Rama walking with a bow; a child listening in the foreground; warm, wise, reverent.
+FIRST_CHAPTER: రాముని 16 గుణాలు
+DESC: మన పిల్లలు ఎలా పెరగాలి? రామాయణం మొదటి సర్గలోనే వాల్మీకి మహర్షి నారదుడిని అడిగిన పదహారు గుణాల ప్రశ్న, దానికి నారదుడు చెప్పిన సమాధానం, అయోధ్యాకాండ మొదటి సర్గలో రాముడి స్వభావం (పిల్లల మంచి గుణాల కోసం పెద్దలు పారాయణం చేసే సర్గ), శత్రువైన మారీచుడు కూడా పొగిడిన "రామో విగ్రహవాన్ ధర్మః". అర్థంతో, చివర నిరంతర పారాయణం.
+DISCLAIMER: శ్లోకాలు వాల్మీకి రామాయణం నుండి; సంఖ్యలు కాండ.సర్గ.శ్లోకం.
+TAGS: #kidsslokas #ramayanamforkids #goodhabits #slokas #students
+PIN: ఈ పదహారు గుణాల్లో మీ పిల్లలకు ముందుగా నేర్పాలనుకునే గుణం ఏది? కామెంట్‌లో రాయండి 🙏
+SHORT_TITLE: ఒక్క మంచి పని గుర్తుంచుకుని, వంద తప్పులు మర్చిపోయేవాడు రాముడు #shorts
+SHORT_DESC: వాల్మీకి రామాయణం అయోధ్యాకాండ 1వ సర్గ, 11వ శ్లోకం. రాముడి స్వభావం.
+
+@ H | video | హుక్ | E1.01 | రాముని 16 గుణాలు
+VISUAL: Sage Valmiki in his forest ashram asking a question of the divine sage Narada, who has just descended with his veena; golden morning light through the trees.
+ఈ లోకంలో అన్ని మంచి గుణాలు ఉన్న మనిషి ఎవరైనా ఉన్నారా? రామాయణం ఈ ఒక్క ప్రశ్నతో మొదలైంది. వాల్మీకి మహర్షి అడిగిన ఆ పదహారు గుణాలు, ఈ రోజు మన పిల్లలకు కూడా పాఠాలు.
+
+@ I | intro | ఇంట్రో (ఛానల్ బంపర్)
+
+@ W | image | స్వాగతం | E1.01
+VISUAL: A softly glowing palm-leaf manuscript of the Ramayana on a carved wooden stand beside a lit brass oil lamp, a child's slate and a small book beside it, warm morning light.
+నమస్కారం. పురాణ కథా శ్రవణం ప్రత్యేక శ్లోకాల వరుసలో ఇది ఐదవ భాగం. ఈ వీడియో పిల్లలతో కలిసి చూడండి.
+
+@ B1 | image | బ్రిడ్జ్ → వాల్మీకి ప్రశ్న | E1.01 | వాల్మీకి ప్రశ్న
+VISUAL: Narada seated on a deer skin, Valmiki seated before him with folded hands, eager and curious, disciples listening behind.
+ఒకనాడు నారద మహర్షి వాల్మీకి ఆశ్రమానికి వచ్చారు. తపస్సు, వేదాధ్యయనంలో మునిగి ఉండే వాల్మీకి ఆయనను ఇలా అడిగారు.
+
+@ V1 | verse | శ్లోకం 1 · బాలకాండ 1.2–4 | E1.01
+VISUAL: Valmiki speaking with folded hands, his eyes full of wonder, as golden symbolic images of virtues glow softly in the air around the two sages.
+MEANING: ఈ లోకంలో ఇప్పుడు గుణవంతుడు, వీరుడు, ధర్మం తెలిసినవాడు, కృతజ్ఞుడు, సత్యం పలికేవాడు, దృఢమైన వ్రతం ఉన్నవాడు, మంచి నడవడిక ఉన్నవాడు, అందరి మేలు కోరేవాడు, విద్వాంసుడు, సమర్థుడు, చూడగానే ఆనందం కలిగించేవాడు, మనసును జయించినవాడు, కోపాన్ని జయించినవాడు, తేజస్సు ఉన్నవాడు, అసూయ లేనివాడు, యుద్ధంలో కోపిస్తే దేవతలే భయపడేవాడు ఎవరు?
+కో న్వస్మిన్సాంప్రతం లోకే గుణవాన్కశ్చ వీర్యవాన్ ।
+ధర్మజ్ఞశ్చ కృతజ్ఞశ్చ సత్యవాక్యో దృఢవ్రతః ॥
+చారిత్రేణ చ కో యుక్తః సర్వభూతేషు కో హితః ।
+విద్వాన్కః కః సమర్థశ్చ కశ్చైకప్రియదర్శనః ॥
+ఆత్మవాన్కో జితక్రోధో ద్యుతిమాన్కోఽనసూయకః ।
+కస్య బిభ్యతి దేవాశ్చ జాతరోషస్య సంయుగే ॥
+
+@ 1 | image | పదహారు గుణాలు | E1.01
+VISUAL: A gentle illustrated sequence: a boy helping an old man across a path, a girl telling the truth to her teacher, a child sharing food, a student studying by lamp light; warm, real, traditional South Indian village setting.
+గుణవాన్, మంచి గుణాలు ఉన్నవాడు. వీర్యవాన్, వీరుడు. ధర్మజ్ఞ, ధర్మం తెలిసినవాడు. కృతజ్ఞ, చేసిన మేలు మర్చిపోనివాడు. సత్యవాక్య, సత్యమే పలికేవాడు. దృఢవ్రత, పట్టుదల ఉన్నవాడు. చారిత్రేణ యుక్తః, మంచి నడవడిక ఉన్నవాడు. సర్వభూతేషు హితః, అందరి మేలు కోరేవాడు. విద్వాన్, చదువు ఉన్నవాడు. సమర్థః, సమర్థుడు. ఏకప్రియదర్శనః, చూడగానే ఆనందం కలిగించేవాడు. ఆత్మవాన్, మనసును అదుపులో ఉంచుకునేవాడు. జితక్రోధః, కోపాన్ని జయించినవాడు. ద్యుతిమాన్, తేజస్సు ఉన్నవాడు. అనసూయకః, అసూయ లేనివాడు. చివరిగా, ధర్మం కోసం కోపిస్తే దేవతలే భయపడేంత బలం ఉన్నవాడు. మొత్తం పదహారు.
+
+@ B2 | image | బ్రిడ్జ్ → నారదుడి సమాధానం | E1.01 | నారదుడి సమాధానం
+VISUAL: Narada smiling, plucking his veena once, then raising his hand as he begins to answer.
+ఇన్ని గుణాలు ఒక్కరిలోనే ఉండటం కష్టం అని నారదుడు అన్నారు. కానీ అలాంటి వ్యక్తి ఒకరు ఉన్నారు. ఇక్ష్వాకు వంశంలో పుట్టిన రాముడు. ఆయనను నారదుడు ఇలా వర్ణించారు.
+
+@ V2 | verse | శ్లోకం 2 · బాలకాండ 1.17–19 | E1.01
+VISUAL: A golden vision of Rama in the sky above the ashram: deep ocean, a snowy Himalayan peak, the full moon, the patient earth and Kubera's treasures appearing around him as symbols, each beside him in turn.
+MEANING: కౌసల్యకు ఆనందం పెంచే రాముడు అన్ని గుణాలు ఉన్నవాడు. లోతులో సముద్రం లాంటివాడు, ధైర్యంలో హిమాలయం లాంటివాడు, పరాక్రమంలో విష్ణువు లాంటివాడు, చంద్రుడిలా చూడముచ్చటైనవాడు, కోపంలో ప్రళయాగ్ని లాంటివాడు, ఓర్పులో భూమి లాంటివాడు, దానంలో కుబేరుడు లాంటివాడు, సత్యంలో మరో ధర్మదేవత లాంటివాడు.
+స చ సర్వగుణోపేతః కౌసల్యానందవర్ధనః ।
+సముద్ర ఇవ గాంభీర్యే ధైర్యేణ హిమవానివ ॥
+విష్ణునా సదృశో వీర్యే సోమవత్ప్రియదర్శనః ।
+కాలాగ్నిసదృశః క్రోధే క్షమయా పృథివీసమః ॥
+ధనదేన సమస్త్యాగే సత్యే ధర్మ ఇవాపరః ।
+
+@ 2 | image | అర్థం | E1.01
+VISUAL: Close on Narada's face, glowing with joy as he speaks of Rama.
+సముద్ర ఇవ గాంభీర్యే, సముద్రంలా లోతైన మనసు. ధైర్యేణ హిమవాన్ ఇవ, హిమాలయంలా కదలని ధైర్యం. సోమవత్ ప్రియదర్శనః, చంద్రుడిలా చూడగానే హాయి. క్షమయా పృథివీసమః, భూమిలా ఓర్పు. ధనదేన సమః త్యాగే, ఇవ్వడంలో కుబేరుడు. సత్యే ధర్మ ఇవ అపరః, సత్యంలో మరో ధర్మదేవత. గమనించండి, కోపంలో ప్రళయాగ్ని అన్నారు, కానీ ఆ కోపం ధర్మం కోసమే, తన కోసం కాదు.
+
+@ B3 | image | బ్రిడ్జ్ → రాముడి స్వభావం | E2.01 | రాముడి స్వభావం
+VISUAL: Young Rama walking calmly through the Ayodhya palace corridors, greeting elders and servants alike with folded hands and a gentle smile.
+ఇప్పుడు అయోధ్యాకాండ మొదటి సర్గ. రాముడు రోజూ ఎలా ఉండేవాడో వాల్మీకి చెప్పిన రెండు శ్లోకాలు. పిల్లలు మంచి గుణాలతో పెరగాలని కోరుకుంటూ, అయోధ్యాకాండ మొదటి రెండు సర్గలను పెద్దలు పారాయణం చేస్తారు.
+
+@ V3 | verse | శ్లోకం 3 · అయోధ్యాకాండ 1.10–11 | E2.01
+VISUAL: An angry courtier shouting at Rama in a palace hall; Rama listening calmly with a gentle face, not answering back; later the same courtier offering a small kindness and Rama greeting him warmly.
+MEANING: రాముడు ఎప్పుడూ ప్రశాంతమైన మనసుతో, మృదువుగా మాట్లాడతాడు. ఎవరైనా కఠినంగా మాట్లాడినా తిరిగి జవాబు చెప్పడు. ఎప్పుడో ఒక్కసారి చేసిన ఒక్క మేలుకే సంతోషిస్తాడు. మనసును అదుపులో ఉంచుకోవడం వల్ల, వంద అపకారాలు చేసినా గుర్తుంచుకోడు.
+స చ నిత్యం ప్రశాంతాత్మా మృదుపూర్వం చ భాషతే ।
+ఉచ్యమానోఽపి పరుషం నోత్తరం ప్రతిపద్యతే ॥
+కదాచిదుపకారేణ కృతేనైకేన తుష్యతి ।
+న స్మరత్యపకారాణాం శతమప్యాత్మవత్తయా ॥
+
+@ 3 | image | అర్థం | E2.01
+VISUAL: Close on Rama's calm, kind face in soft palace light.
+నిత్యం ప్రశాంతాత్మా, ఎప్పుడూ ప్రశాంతమైన మనసు. మృదుపూర్వం చ భాషతే, మృదువుగా మాట్లాడతాడు. ఉచ్యమానోఽపి పరుషం, ఎవరైనా కఠినంగా మాట్లాడినా, న ఉత్తరం ప్రతిపద్యతే, తిరిగి జవాబు చెప్పడు. ఉపకారేణ ఏకేన తుష్యతి, ఒక్క మేలుకే సంతోషిస్తాడు. న స్మరతి అపకారాణాం శతం అపి, వంద అపకారాలు చేసినా గుర్తుంచుకోడు. ఆత్మవత్తయా, ఎందుకంటే ఆయన మనసు ఆయన అదుపులో ఉంటుంది.
+
+@ 4 | image | పిల్లలకు పాఠం | E2.01
+VISUAL: A mother sitting with her son and daughter on a mat at home in the evening, a lamp lit, telling them a story, the children listening with shining eyes.
+పిల్లలకు ఇది చెప్పండి. ఎవరైనా మనకు చిన్న సహాయం చేస్తే ఎప్పుడూ గుర్తుంచుకో. ఎవరైనా బాధపెడితే మనసులో పెట్టుకోకు. కోపంగా మాట్లాడినవాడికి కోపంగా జవాబు ఇవ్వకు. ఈ మూడు అలవాట్లు ఉంటే, ఆ పిల్లలు ఎక్కడ ఉన్నా అందరూ ప్రేమిస్తారు.
+
+@ B4 | image | బ్రిడ్జ్ → శత్రువు చెప్పిన మాట | E3.37 | శత్రువు చెప్పిన మాట
+VISUAL: Maricha, an aged ascetic-looking rakshasa in bark garments, standing before the mighty Ravana in a forest hermitage, raising his hand in warning.
+ఒకరి గుణం అసలు తెలిసేది, శత్రువు కూడా పొగిడినప్పుడే. సీతమ్మను అపహరించాలని రావణుడు మారీచుడి సహాయం అడిగాడు. రాముడి బాణం రుచి చూసిన మారీచుడు, రావణుడిని హెచ్చరిస్తూ ఇలా అన్నాడు.
+
+@ V4 | verse | శ్లోకం 4 · అరణ్యకాండ 37.13 | E3.37
+VISUAL: Maricha speaking earnestly to Ravana; behind him a faint golden vision of Rama standing with his bow, radiant as dharma itself.
+MEANING: రాముడు రూపం దాల్చిన ధర్మం. సాధువు, సత్యమే బలంగా ఉన్నవాడు. దేవతలకు ఇంద్రుడు ఎలాగో, లోకమంతటికీ రాముడు అలాంటి రాజు.
+రామో విగ్రహవాన్ ధర్మః సాధుః సత్యపరాక్రమః ।
+రాజా సర్వస్య లోకస్య దేవానామివ వాసవః ॥
+
+@ 5 | image | అర్థం | E3.37
+VISUAL: Close on Maricha's fearful yet honest face.
+రామో విగ్రహవాన్ ధర్మః, రాముడు రూపం దాల్చిన ధర్మం. సాధుః, సజ్జనుడు. సత్యపరాక్రమః, సత్యమే ఆయన పరాక్రమం. రాజా సర్వస్య లోకస్య, లోకమంతటికీ రాజు, దేవానామివ వాసవః, దేవతలకు ఇంద్రుడిలా. శత్రువు నోటి నుండి వచ్చిన పొగడ్త ఇది. మంచి నడవడిక ఉంటే, మనల్ని ఇష్టపడనివాళ్ళు కూడా మనల్ని గౌరవిస్తారు.
+
+@ B5 | image | బ్రిడ్జ్ → ఎలా నేర్పాలి | E2.01 | ఎలా నేర్పాలి
+VISUAL: Morning at home: two children sitting before a small picture of Sita and Rama, repeating a sloka after their grandfather, who smiles and nods.
+ఎలా నేర్పాలి? రోజుకు ఒక గుణం. ఈ రోజు కృతజ్ఞత, రేపు సత్యం, ఎల్లుండి ఓర్పు. రాత్రి పడుకునే ముందు ఆ గుణం గురించి రాముడి కథలోని ఒక సంఘటన చెప్పండి. రామో విగ్రహవాన్ ధర్మః అనే ఒక్క వాక్యాన్ని పిల్లల చేత రోజూ పలికించండి.
+
+@ B6 | image | బ్రిడ్జ్ → నిరంతర పారాయణం | E1.01 | నిరంతర పారాయణం
+VISUAL: A slow, peaceful sequence: the Tamasa river at dawn, a lamp, a palm-leaf manuscript, children's hands joined in prayer.
+ఇప్పుడు ఈ శ్లోకాలను ఒకదాని తర్వాత ఒకటి, నిరంతరంగా వినండి.
+
+@ V5 | verse | పారాయణం · బాలకాండ 1.2–4 | E1.01
+VISUAL: The forest ashram at sunrise, birds rising over the river.
+MEANING: పదహారు గుణాల ప్రశ్న.
+కో న్వస్మిన్సాంప్రతం లోకే గుణవాన్కశ్చ వీర్యవాన్ ।
+ధర్మజ్ఞశ్చ కృతజ్ఞశ్చ సత్యవాక్యో దృఢవ్రతః ॥
+చారిత్రేణ చ కో యుక్తః సర్వభూతేషు కో హితః ।
+విద్వాన్కః కః సమర్థశ్చ కశ్చైకప్రియదర్శనః ॥
+ఆత్మవాన్కో జితక్రోధో ద్యుతిమాన్కోఽనసూయకః ।
+కస్య బిభ్యతి దేవాశ్చ జాతరోషస్య సంయుగే ॥
+
+@ V6 | verse | పారాయణం · బాలకాండ 1.17–19 | E1.01
+VISUAL: The ocean, the Himalaya and the full moon in one calm, golden panorama.
+MEANING: సముద్రంలా లోతు, హిమాలయంలా ధైర్యం.
+స చ సర్వగుణోపేతః కౌసల్యానందవర్ధనః ।
+సముద్ర ఇవ గాంభీర్యే ధైర్యేణ హిమవానివ ॥
+విష్ణునా సదృశో వీర్యే సోమవత్ప్రియదర్శనః ।
+కాలాగ్నిసదృశః క్రోధే క్షమయా పృథివీసమః ॥
+ధనదేన సమస్త్యాగే సత్యే ధర్మ ఇవాపరః ।
+
+@ V7 | verse | పారాయణం · అయోధ్యాకాండ 1.10–11 | E2.01
+VISUAL: A quiet palace courtyard with a tulasi plant at morning.
+MEANING: ఒక్క మేలు గుర్తుంచుకుని, వంద తప్పులు మర్చిపోయేవాడు.
+స చ నిత్యం ప్రశాంతాత్మా మృదుపూర్వం చ భాషతే ।
+ఉచ్యమానోఽపి పరుషం నోత్తరం ప్రతిపద్యతే ॥
+కదాచిదుపకారేణ కృతేనైకేన తుష్యతి ।
+న స్మరత్యపకారాణాం శతమప్యాత్మవత్తయా ॥
+
+@ V8 | verse | పారాయణం · అరణ్యకాండ 37.13 | E3.37
+VISUAL: A lamp burning before a small image of Rama.
+MEANING: రాముడు రూపం దాల్చిన ధర్మం.
+రామో విగ్రహవాన్ ధర్మః సాధుః సత్యపరాక్రమః ।
+రాజా సర్వస్య లోకస్య దేవానామివ వాసవః ॥
+
+@ L | image | దీవెన | E1.01
+VISUAL: Children walking to school along a village path in the morning sun, laughing, one helping another carry books; a temple gopuram in the distance.
+మన పిల్లలు రాముడిలా సత్యంతో, ఓర్పుతో, కృతజ్ఞతతో పెరగాలని ఆ శ్రీరామచంద్రుడిని ప్రార్థిద్దాం. జై శ్రీరామ్.
+
+@ C | image | సబ్‌స్క్రైబ్ | E1.01 | SUBSCRIBE 🔔
+VISUAL: A glowing palm-leaf manuscript of the Ramayana resting on a carved wooden stand beside a lit brass oil lamp in a quiet temple courtyard at golden hour, marigold petals around it.
+ఈ వీడియో పిల్లలు ఉన్న ప్రతి ఇంటికీ పంపండి. ఇలాంటి ప్రత్యేక శ్లోకాల కోసం పురాణ కథా శ్రవణం ఛానల్‌ను సబ్‌స్క్రైబ్ చేయండి.
+
+=== SHORT
+@ H | video | హుక్ | E2.01 | రాముడి స్వభావం
+VISUAL: Young Rama listening calmly as an angry man shouts at him in a palace hall; vertical 9:16 framing.
+ఎవరైనా మనల్ని తిడితే మనం ఏం చేస్తాం? రాముడు ఏం చేసేవాడో వాల్మీకి చెప్పిన శ్లోకం ఇది.
+
+@ V1 | verse | శ్లోకం · అయోధ్యాకాండ 1.11 | E2.01
+VISUAL: Rama greeting the same man warmly with folded hands; vertical 9:16 framing.
+MEANING: ఒక్కసారి చేసిన ఒక్క మేలుకే సంతోషిస్తాడు. వంద అపకారాలు చేసినా గుర్తుంచుకోడు.
+కదాచిదుపకారేణ కృతేనైకేన తుష్యతి ।
+న స్మరత్యపకారాణాం శతమప్యాత్మవత్తయా ॥
+
+@ 1 | image | అర్థం | E2.01
+VISUAL: A mother telling the story to her two children by lamp light; vertical 9:16 framing.
+ఒక్కసారి చేసిన ఒక్క మేలుకే రాముడు సంతోషిస్తాడు. వంద అపకారాలు చేసినా గుర్తుంచుకోడు. మన పిల్లలకు నేర్పవలసిన గుణం ఇదే.
+
+@ C | image | సబ్‌స్క్రైబ్ | E2.01 | పూర్తి వీడియో ఛానల్‌లో
+VISUAL: A glowing palm-leaf manuscript beside a lit brass lamp, marigold petals; vertical 9:16 framing.
+రాముని పదహారు గుణాలతో పూర్తి వీడియో మన ఛానల్‌లో.
