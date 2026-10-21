@@ -248,15 +248,21 @@ def srt(scenes):
 
 # ---------- one episode ----------
 
-CTAS = [
-    'రామాయణాన్ని మొదటి నుండి చివరి వరకు భాగం భాగంగా వినడానికి ఛానల్‌ని సబ్‌స్క్రైబ్ చేసి, బెల్ ఐకాన్ నొక్కండి.',
-    'ఈ భాగం నచ్చితే లైక్ చేసి, మీ కుటుంబంతో షేర్ చేయండి. ఛానల్‌ని సబ్‌స్క్రైబ్ చేయడం మరచిపోకండి.',
-    'మీ అభిప్రాయం కామెంట్‌లో రాయండి. ఏ భాగమూ మిస్ అవ్వకుండా ఇప్పుడే సబ్‌స్క్రైబ్ చేయండి.',
-    'రాముడి కథను మీ పిల్లలకూ వినిపించండి. మరిన్ని భాగాల కోసం మన ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి.',
-    'ప్రతి భాగం ఒక జీవిత పాఠం. ఒక్కటీ మిస్ అవ్వకుండా సబ్‌స్క్రైబ్ చేసి బెల్ ఐకాన్ నొక్కండి.',
-    'ఈ పుణ్య కథను నలుగురితో పంచుకోండి. సబ్‌స్క్రైబ్ చేసి ఈ ప్రయాణంలో మాతో ఉండండి.',
+CTAS = [   # closing asks rotate, two at a time: "జై శ్రీరామ్" comment, like, share, subscribe
     '"జై శ్రీరామ్" అని కామెంట్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి.',
+    'ఈ భాగం నచ్చితే లైక్ చేసి, మీ కుటుంబంతో షేర్ చేయండి.',
+    'రామాయణాన్ని భాగం భాగంగా వినడానికి ఛానల్‌ని సబ్‌స్క్రైబ్ చేసి, బెల్ ఐకాన్ నొక్కండి.',
+    '"జై శ్రీరామ్" అని కామెంట్ చేసి, ఈ కథను మీ కుటుంబంతో షేర్ చేయండి.',
+    'వీడియో నచ్చితే లైక్ చేసి, మరిన్ని భాగాల కోసం సబ్‌స్క్రైబ్ చేయండి.',
+    'కామెంట్‌లో "జై శ్రీరామ్" అని రాసి, ఈ వీడియోకి లైక్ చేయండి.',
+    'ఈ పుణ్య కథను నలుగురితో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి.',
 ]
+
+
+def cta_screen(cta):
+    """On-screen text for a closing line: only what it asks for."""
+    asks = [('జై శ్రీరామ్', 'జై శ్రీరామ్ 🙏'), ('లైక్', 'LIKE 👍'), ('షేర్', 'SHARE ↗'), ('సబ్‌స్క్రైబ్', 'SUBSCRIBE 🔔')]
+    return ' · '.join(tag for word, tag in asks if word in cta)
 CTA_VISUAL = ('A glowing palm-leaf manuscript of the Ramayana resting on a carved wooden stand beside a lit brass oil '
               'lamp in a quiet temple courtyard at golden hour, marigold petals around it')
 TEASER_STARTS = ('తర్వాత', 'తరువాత', 'తర్వాతి', 'ఇది బాలకాండ')
@@ -327,8 +333,8 @@ def sequence(scenes, d, extra, ep_index):
         seq.append(lesson_item(extra, scenes))
     if extra:
         cta = CTAS[ep_index % len(CTAS)]
-        seq.append({'id': 'C', 'label': 'సబ్‌స్క్రైబ్', 'kind': 'image', 'secs': speak_secs(cta), 'narration': cta,
-                    'new': True, 'visual': CTA_VISUAL, 'loc': '', 'onscreen': 'SUBSCRIBE 🔔'})
+        seq.append({'id': 'C', 'label': 'ముగింపు', 'kind': 'image', 'secs': speak_secs(cta), 'narration': cta,
+                    'new': True, 'visual': CTA_VISUAL, 'loc': '', 'onscreen': cta_screen(cta)})
     return seq
 
 
@@ -506,7 +512,7 @@ def build_episode(ep, d, refs_used, extra, ep_index):
             f"- **హుక్ (0:{BUMPER:02d} నుండి, సుమారు {speak_secs(extra['hook'])} సె):** {extra['hook']}",
             *[f"- **బ్రిడ్జ్ → {title}:** {line}" for (n, title), line in zip(d['chapters'][1:], extra['bridges'])],
             f"- **జీవిత పాఠం:** {extra['lesson']}",
-            f"- **సబ్‌స్క్రైబ్:** {CTAS[ep_index % len(CTAS)]}\n",
+            f"- **ముగింపు:** {CTAS[ep_index % len(CTAS)]}\n",
             '**పూర్తి రికార్డింగ్ స్క్రిప్ట్** – ఈ వరుసలోనే చదవండి. [ ] లో ఎలా చెప్పాలో సూచన; '
             'ప్రతి లైను ఒక శ్వాసలో; ⏸ దగ్గర ఒక సెకను ఆగండి.\n',
             f'```text\n{recording}\n```\n'])

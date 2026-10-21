@@ -344,8 +344,8 @@ def assemble(parts, extras, splits, vid_index):
             if lesson_ep:
                 seq.append(lesson(extras, lesson_ep, e['ep']))
     cta = L.CTAS[vid_index % len(L.CTAS)]
-    seq.append({'id': 'C', 'ep': parts[-1][0]['ep'], 'label': 'సబ్‌స్క్రైబ్', 'kind': 'image', 'secs': L.speak_secs(cta),
-                'narration': cta, 'new': True, 'visual': L.CTA_VISUAL, 'loc': '', 'onscreen': 'SUBSCRIBE 🔔'})
+    seq.append({'id': 'C', 'ep': parts[-1][0]['ep'], 'label': 'ముగింపు', 'kind': 'image', 'secs': L.speak_secs(cta),
+                'narration': cta, 'new': True, 'visual': L.CTA_VISUAL, 'loc': '', 'onscreen': L.cta_screen(cta)})
     # At an episode join, a story line left open ("…అడుగుపెట్టగానే —") moves to just after the re-hook,
     # so the re-hook never cuts a sentence in half and the line runs straight into its answer.
     # If that would still put the re-hook inside someone's words ("…చెయ్యాలి." ‖ "…అందుకని రామా నిద్రలే" —),
