@@ -46,7 +46,7 @@ KEEP E1.24 6
 # actually in this video (an episode cut in two must not tease its second half).
 HOOK E1.06 | ఇచ్చిన మాట. ఆ ఒక్క మాటే ఇప్పుడు ఒక తండ్రి గుండెను పిండేస్తోంది. ఒకవైపు సత్యం, మరోవైపు ప్రాణం కంటే ఎక్కువైన బిడ్డ. ఆ రోజు అయోధ్య సభలో దశరథుడు ఏ దారి ఎంచుకున్నాడు?
 REHOOK E1.04 | కరువుతో ఎండిపోయిన అంగదేశం. చినుకు కోసం ఎదురుచూస్తున్న ప్రజలు. ఆ మహర్షి రాకతో ఏం జరిగింది? అదే మహర్షి ఇప్పుడు దశరథుడి కోరిక తీర్చబోతున్నాడు.
-REHOOK E1.11 | ఒక అక్క తన తమ్ముడి కోసం నదిగా మారి ఇప్పటికీ ప్రవహిస్తోంది. విశ్వామిత్రుడి వంశంలో దాగిన ఆ కథ ఏమిటి?
+REHOOK E1.11 8 | ఒక అక్క తన తమ్ముడి కోసం నదిగా మారి ఇప్పటికీ ప్రవహిస్తోంది. విశ్వామిత్రుడి వంశంలో దాగిన ఆ కథ ఏమిటి?
 REHOOK E1.12 | అరవై వేల మంది రాకుమారులు. ఒక్క గుర్రం కోసం భూమిని పాతాళం దాకా తవ్వుకుంటూ వెళ్ళారు. ఆ తవ్వకం చివర వాళ్ళకు ఎదురైంది ఎవరు?
 REHOOK E1.14 | అడవిలో ఒక నిశ్శబ్ద ఆశ్రమం. ఒక్క మనిషి జాడ కూడా లేదు. ఆ మౌనం వెనుక ఒక మహర్షి కోపం, ఒక స్త్రీ శాపం దాగి ఉన్నాయి.
 REHOOK E1.16 | కన్నీళ్ళతో తన గురువు దగ్గరకు పరుగెత్తుకు వచ్చింది ఒక గోమాత. నన్ను ఎందుకు వదిలేశారు స్వామీ? ఆ ప్రశ్నకు జవాబు ఒక యుద్ధమైంది.
@@ -315,6 +315,79 @@ E1.07 22 | ఆ తాటక ఈ రెండు నగరాల్లో సం�
 # Manthara, Virochana's daughter, killed by Indra; Bhrigu's wife, Kavya's mother, wanted a world without Indra.
 E1.07 23 | నువ్వు చేసే పని దోషమే అయినా, ప్రజాకంటకులైన వాళ్ళని రాజు సంహరించి తీరాలి. పూర్వకాలములో మందర అనేటువంటి ఒక స్త్రీ [భూమిని సంహరించడానికి ప్రయత్నిస్తే] ఆమెని సంహరించారు, => గోవుల, బ్రాహ్మణుల మేలు కోసం ఆమెను సంహరించు. ముల్లోకాల్లో నువ్వు తప్ప ఆమెను ఎవరూ చంపలేరు. స్త్రీని చంపడం అని వెనుకాడకు. ప్రజలను కాపాడేవాడు ఆ పని కఠినమైనదైనా చేసి తీరాలి, రాజ్యాన్ని పాలించేవారి ధర్మం ఇదే. పూర్వం విరోచనుడి కుమార్తె అయిన మంథర భూమినే నాశనం చేయాలనుకుంటే, ఇంద్రుడు ఆమెను సంహరించాడు,
 E1.07 24 | అలాగే భృగు మహర్షి భార్య ఇంద్రుడిని సంహరించడం కోసం తపస్సు ప్రారంభిస్తే శ్రీమహావిష్ణువు ఆమెని సంహరించారు. => అలాగే శుక్రాచార్యుడి తల్లి, భృగు మహర్షి భార్య, ఇంద్రుడే లేని లోకం కావాలని కోరుకుంటే, శ్రీమహావిష్ణువు ఆమెను సంహరించాడు.
+
+# Ayodhya seen as a city (these scripts give no location)
+PLACE E1.02 28,31 | AYODHYA_CITY
+PLACE E1.05 6 | AYODHYA_CITY
+
+# V05 (E1.08-E1.11): who is on screen in each scene, so every clip gets the right reference images.
+# Maricha at Siddhashrama is the young rakshasa (the same look Aranya uses when he remembers this attack).
+VIS E1.08 1 | Rama, Lakshmana and Vishwamitra standing at the edge of the dreadful forest as the giant Tataka looms up among the trees
+CAST E1.08 1 | RAMA, LAKSHMANA, VISHWAMITRA, TATAKA
+CAST E1.08 2-3 | TATAKA, VISHWAMITRA, RAMA, LAKSHMANA
+CAST E1.08 4 | VISHWAMITRA, RAMA
+# 1.26.16-18: Rama strikes her arms, Lakshmana her nose and ears.
+VIS E1.08 5 | Rama, after a moment's hesitation, loosing arrows that strike Tataka's arms and feet while Lakshmana's arrows take her nose and ears, shown only as bursts of light and dust with no wounds or blood; Tataka staggering, her charge broken
+CAST E1.08 5 | RAMA, LAKSHMANA, TATAKA
+CAST E1.08 6-7 | TATAKA, RAMA
+VIS E1.08 7 | Rama loosing a single, decisive arrow; Tataka falling, the impact shown only as a burst of light and dust, relieved devas watching from the sky above
+VIS E1.08 8 | Radiant devas descending in divine light to speak with Vishwamitra, while Rama and Lakshmana stand nearby with joined palms
+CAST E1.08 8-9 | VISHWAMITRA, RAMA, LAKSHMANA
+CAST E1.08 10-12 | RAMA
+VIS E1.08 11 | The celestial weapons, personified as small radiant human-like figures of light, standing beside Rama with joined palms and asking for his orders
+CAST E1.08 13-14 | RAMA, VISHWAMITRA
+VIS E1.08 15 | Rama, Lakshmana and Vishwamitra walking on along a forest path; a large, peaceful hermitage comes into view among ancient trees
+CAST E1.08 15 | RAMA, LAKSHMANA, VISHWAMITRA
+CAST E1.08 16 | RAMA, VISHWAMITRA, BALI, INDRA
+VIS E1.08 17 | Inset: Vamana, the radiant dwarf-brahmin avatar of Vishnu, before the towering asura king Bali, sending him down to the netherworld; then Vamana alone in tapasya at this very hermitage, Siddhashrama
+CAST E1.08 17 | VAMANA, BALI
+CAST E1.08 18 | KASHYAPA, RAMA, LAKSHMANA, VISHWAMITRA
+VIS E1.09 1 | Rama, Lakshmana and Vishwamitra entering Siddhashrama, the sages of the hermitage coming out to welcome them
+CAST E1.09 1-4 | VISHWAMITRA, RAMA, LAKSHMANA
+CAST E1.09 5 | MARICHA_YOUNG, SUBAHU
+VIS E1.09 6 | Rama striking Maricha with the Manava astra, the blast of light hurling Maricha far away into the sky toward the distant ocean, unharmed but helpless
+CAST E1.09 6 | RAMA, MARICHA_YOUNG
+VIS E1.09 7 | Rama striking Subahu with the Agneya astra, a clean burst of fire-light, Subahu falling, non-graphic
+CAST E1.09 7 | RAMA, SUBAHU
+CAST E1.09 8 | RAMA, LAKSHMANA
+CAST E1.09 9-10 | VISHWAMITRA, RAMA, LAKSHMANA
+VIS E1.09 11 | Rama, Lakshmana and Vishwamitra, with the sages of Siddhashrama, setting off toward Mithila and arriving at a lush river country of fruit orchards and flowers
+CAST E1.09 11 | RAMA, LAKSHMANA, VISHWAMITRA
+VIS E1.10 1 | Rama, Lakshmana and Vishwamitra on the bank of the Shona river among rich orchards, Rama asking Vishwamitra about this beautiful land
+CAST E1.10 1 | RAMA, LAKSHMANA, VISHWAMITRA
+VIS E1.10 2 | Mythic inset begins: the ancient King Kusha, Brahma's son, on his throne, as Vishwamitra begins to answer Rama
+CAST E1.10 2 | KUSHA_KING, VISHWAMITRA, RAMA
+CAST E1.10 3 | KUSHA_KING
+CAST E1.10 4 | -
+CAST E1.10 5 | VISHWAMITRA, RAMA, LAKSHMANA
+CAST E1.10 6 | KUSHANABHA, KUSHANABHA_DAUGHTERS
+CAST E1.10 7 | KUSHANABHA_DAUGHTERS
+VIS E1.10 8 | Vayu, the wind god, appearing amid swirling winds and circling the daughters, speaking of beauty and youth that fade
+CAST E1.10 8-9 | VAYU, KUSHANABHA_DAUGHTERS
+CAST E1.10 13 | KUSHANABHA_DAUGHTERS, VAYU
+CAST E1.10 14-15 | KUSHANABHA_DAUGHTERS
+CAST E1.10 16 | VAYU, KUSHANABHA_DAUGHTERS
+CAST E1.10 17-18 | KUSHANABHA, KUSHANABHA_DAUGHTERS
+VIS E1.10 19 | Kushanabha seated in his palace, speaking tenderly to his hundred daughters gathered before him, warm lamplight
+CAST E1.10 19-20 | KUSHANABHA, KUSHANABHA_DAUGHTERS
+CAST E1.10 21 | KUSHANABHA
+CAST E1.10 22-24 | CHULI, SOMADA
+CAST E1.10 25 | BRAHMADATTA, KUSHANABHA, KUSHANABHA_DAUGHTERS
+CAST E1.10 26 | BRAHMADATTA, KUSHANABHA_DAUGHTERS
+CAST E1.10 27 | SOMADA, KUSHANABHA_DAUGHTERS, KUSHANABHA
+CAST E1.10 28 | RAMA, LAKSHMANA, VISHWAMITRA
+LESSON E1.10 | 20
+VIS E1.11 1 | Rama, Lakshmana and Vishwamitra arriving with the sages on the bank of the holy Ganga
+CAST E1.11 1-2 | VISHWAMITRA, RAMA, LAKSHMANA
+CAST E1.11 3 | VISHWAMITRA, KUSHANABHA, KUSHANABHA_DAUGHTERS
+CAST E1.11 4 | KUSHANABHA, KUSHA_KING
+VIS E1.11 5 | Close on Vishwamitra telling Rama, with quiet emotion, that he himself is the son of Gadhi
+CAST E1.11 5 | VISHWAMITRA, RAMA
+VIS E1.11 7 | Vishwamitra speaking with visible warmth to Rama; inset: a memory of his elder sister Satyavati and her husband, the sage Richika
+CAST E1.11 7 | VISHWAMITRA, SATYAVATI, RICHIKA
+LOC E1.11 8 | Mythic inset, Himalayas
+CAST E1.11 8 | SATYAVATI, RICHIKA
+CAST E1.11 9-11 | VISHWAMITRA, RAMA
 
 # Where each video starts (pinned, so that a narration fix never re-cuts the kaanda; edit this line to re-cut).
 CUTS | E0.01, E1.02 22, E1.04 22, E1.06, E1.08, E1.11 12, E1.12 31, E1.14 11, E1.16 8, E1.19, E1.21 20, E1.23 33

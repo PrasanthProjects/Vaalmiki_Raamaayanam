@@ -40,7 +40,7 @@ GROUPS = [  # crowd words in a scene -> one consistent crowd description
     (r'\brakshasa (army|soldiers|host|troops)|\brakshasas\b',
      'rakshasa soldiers with varied builds, skin tones and dark ornate armour, some with moustaches, '
      'three ash-white Shiva lines; fierce but not horror'),
-    (r'\b(devas|devatas|gods|celestials)\b',
+    (r'\b(devas|devatas|devatalu|gods|celestials)\b',
      'radiant devas in silk and gold crowns on clouds, each with a small red kumkum dot'),
     (r'\b(citizens|crowd|townspeople|people of ayodhya|courtiers|ministers)\b',
      'people of the kingdom in traditional South Indian dress (veshti and angavastram, single-wrap drapes), '
@@ -100,21 +100,61 @@ def parse_episode(path):
     return text, tel, (src.group(1).strip() if src else ''), scenes
 
 
+TAG_NOTE = re.compile(r"\b(?:per|lock|locks|Lock|Bible|register|appearance|one-scene|no individual|stage|fix a|"
+                      r"brief|visual|treat|use a)\b|E\d\.\d|[A-Z]+-S\d")
+
+
+def tag_name(m):
+    """'[Rama Visual Lock]' -> 'Rama'; '[Sugriva Visual Lock — crowned king]' -> 'Sugriva (crowned king)'.
+    The script's casting notes stay out of the prompt, but the name (and any real description) stays in."""
+    t = re.sub(r'^(?:Use|use)\s+', '', m.group(1).strip())
+    t = re.sub(r'^(?:Generic|generic)\s+', '', t)
+    if ' Visual Locks' in t:                        # '[Rama/Lakshmana Visual Locks]' -> 'Rama and Lakshmana'
+        head, _, rest = t.partition(' Visual Locks')
+        names = [x.strip() for x in re.split(r'[/,]| and ', head) if x.strip()]
+        head = names[0] if len(names) == 1 else ', '.join(names[:-1]) + ' and ' + names[-1]
+        parts = re.split(r'\s*[,;:]\s*|\s+—\s+', rest)
+    else:
+        t = t.replace(' Visual Lock', '')
+        head, *parts = re.split(r'\s*[,;:]\s*|\s+—\s+', t)
+    head = re.sub(r'^.*\bvisual for\s+', '', head.strip())   # '[generic elder-king visual for Kusha]' -> 'Kusha'
+    head = {'devatalu': 'devas', 'Maharshi-group': 'sages'}.get(head, head)
+    keep = [p.strip(' .') for p in parts if p.strip(' .') and not TAG_NOTE.search(p)]
+    return head + (f" ({', '.join(keep)})" if keep else '')
+
+
 def clean_visual(v):
-    v = re.sub(r'\[[^\]]*(?:Lock|Bible|Stage|stage)[^\]]*\]\s*', '', v)
+    v = re.sub(r'\[([^\]]*)\]', tag_name, v)
     v = re.sub(r'\s*\((?:see|per|use)[^)]*\)', '', v, flags=re.I)
     v = re.sub(r",?\s*per (?:the )?style guide'?s?[^,.;]*", '', v, flags=re.I)
     return re.sub(r'\s+', ' ', v).strip(' ,;')
 
 
 def scene_text(scene):
-    """The cleaned description; gives it back its subject when a removed [Use X lock] tag held the name."""
+    """The cleaned description (character tags turned back into names)."""
     v = clean_visual(scene['visual']).rstrip(' .')
-    if v and v[0].islower():
-        who = [k.title() for k in names_in(scene['visual']) if k not in FROM_EP]   # (Aranya additions: cast lines)
-        if who:
-            v = ' and '.join(who[:2]) + ' ' + v
-    return v
+    return v[:1].upper() + v[1:]
+
+
+def ayodhya_scene(visual, loc, ep):
+    """A scene set in Ayodhya (all of Ayodhya Kaanda; in Bala, where the scene names Ayodhya)."""
+    low = f'{visual} {loc}'.lower()
+    if re.search(r'romapada|janaka|mithila|kekaya|anga', low):
+        return False
+    return ep.startswith('E2.') or 'ayodhya' in low
+
+
+def group_looks(visual, loc, ep):
+    """Crowd descriptions for a scene; a crowd in Ayodhya is the people of Ayodhya, with their own reference image."""
+    low, looks, refs = visual.lower(), [], []
+    for pat, desc in GROUPS:
+        if re.search(pat, low):
+            if desc is GROUPS[4][1] and ayodhya_scene(visual, loc, ep):
+                looks.append(character('AYODHYA_PEOPLE', ep))
+                refs.append('AYODHYA_PEOPLE')
+            else:
+                looks.append(desc)
+    return looks, refs
 
 
 def scene_cast(scene, ep):
@@ -122,14 +162,14 @@ def scene_cast(scene, ep):
     if ep_key(ep) < (4, 0):   # before Kishkindha "Nila" is the forest of that name, not the vanara
         keys = [k for k in keys if k != 'NALA']
     looks =[x for x in (character(k, ep) for k in keys) if x]
-    low = scene['visual'].lower()
-    looks += [desc for pat, desc in GROUPS if re.search(pat, low)]
+    g_looks, g_refs = group_looks(scene['visual'], scene.get('loc', ''), ep)
+    looks += g_looks
     refs = []
     for k in keys:
         if character(k, ep):
             stage = stage_of('RAMA' if k == 'LAKSHMANA' else k, ep) if k in STAGES else None
             refs.append(f'{k}_{stage}' if stage else k)
-    return looks, refs
+    return looks, refs + g_refs
 
 
 def kinds_for(scenes):

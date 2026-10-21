@@ -2,7 +2,7 @@
 
 ప్రతి పాత్రకు, ప్రతి ప్రదేశానికి ఒక్కసారే ఇమేజ్ చేయండి. ఉత్తమమైనది ఇచ్చిన పేరుతో `Long_Videos/_reference_images/` లో సేవ్ చేసి, క్లిప్‌లో "రిఫరెన్స్" లో ఉన్న ఇమేజ్‌లన్నీ Flow లో *Ingredients* గా జత చేయండి. ప్రదేశం ఇమేజ్‌లో మనుషులు ఉండరు – పాత్రలు వేరుగా జత అవుతాయి.
 
-## పాత్రలు (49)
+## పాత్రలు (50)
 
 ### `AGASTYA.png`
 
@@ -278,6 +278,12 @@ Character reference image for film continuity: one character only, full body, st
 
 ```text
 Character reference image for film continuity: one character only, full body, standing, facing the camera, centred, plain soft warm-grey studio background, even soft lighting, calm expression, 16:9 frame. Style: photorealistic live-action historical film, as in a big-budget Indian epic: cinematic lighting, natural skin texture and cloth movement, real woven fabric and real built sets, shot on a real camera lens (35mm/50mm equivalent) with naturalistic depth of field. Treta Yuga in a South Indian visual register: early Dravidian temple-era architecture and dress (veshti and angavastram for men, single-wrap drape for women, early Dravidian jewellery), never Mughal or North-Indian motifs. Forest and ashram settings are lush, green and serene with flowering trees, clear rivers, deer, peacocks and birds unless the scene says otherwise. Not flat illustration, anime, cartoon, painted storybook or glossy plastic 3D. Character: Vatapi: Vatapi, Ilvala's younger brother, a shape-shifting rakshasa: lean, dark, sly-faced rakshasa of about thirty with wild hair; when disguised, a plain grazing ram with no human features. This is a sacred Hindu devotional scene from the Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional attire (women's drapes covering the shoulders and body); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence (show impact through light, dust and reaction); no horror look; no comedy or caricature; no distorted or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, logos or watermarks.
+```
+
+### `VAYU.png`
+
+```text
+Character reference image for film continuity: one character only, full body, standing, facing the camera, centred, plain soft warm-grey studio background, even soft lighting, calm expression, 16:9 frame. Style: photorealistic live-action historical film, as in a big-budget Indian epic: cinematic lighting, natural skin texture and cloth movement, real woven fabric and real built sets, shot on a real camera lens (35mm/50mm equivalent) with naturalistic depth of field. Treta Yuga in a South Indian visual register: early Dravidian temple-era architecture and dress (veshti and angavastram for men, single-wrap drape for women, early Dravidian jewellery), never Mughal or North-Indian motifs. Forest and ashram settings are lush, green and serene with flowering trees, clear rivers, deer, peacocks and birds unless the scene says otherwise. Not flat illustration, anime, cartoon, painted storybook or glossy plastic 3D. Character: Vayu: Vayu Deva, the wind god: a tall, radiant god of about thirty-five with a fair, airy complexion, long dark hair and pale-blue silk scarves always streaming in a wind of their own, a light gold crown; swirling air, leaves and petals around him. This is a sacred Hindu devotional scene from the Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional attire (women's drapes covering the shoulders and body); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence (show impact through light, dust and reaction); no horror look; no comedy or caricature; no distorted or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, logos or watermarks.
 ```
 
 ### `VIRADHA.png`

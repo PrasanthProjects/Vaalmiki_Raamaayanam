@@ -39,9 +39,12 @@ CARDS = {}   # (episode, scene) -> on-screen meaning under a kept sloka (data/*_
 CUTS = []        # (episode, chapter scene or None): where each video starts (data/*_videos.txt CUTS line)
 PLACE_MAP = {}   # episode -> [(first scene, last scene, PLACES key)] for scripts without a location column
 CAST = {}        # (episode, scene) -> character keys on screen, where the prompt only mentions someone (data CAST lines)
+VIS = {}         # (episode, scene) -> a corrected picture description (data VIS lines)
+LOCS = {}        # (episode, scene) -> a corrected location register (data LOC lines)
+LESSON_PIC = {}  # episode -> the scene whose picture goes with its life lesson (data LESSON lines)
 
 
-def cast(keys, visual, ep):
+def cast(keys, visual, ep, loc=''):
     """Looks and reference images for an explicit cast; 'RAMA:S1' forces an age stage (flashbacks)."""
     looks, refs = [], []
     for key in keys:
@@ -53,8 +56,8 @@ def cast(keys, visual, ep):
         looks.append(S.character(k, at))
         st = S.stage_of('RAMA' if k == 'LAKSHMANA' else k, at) if line else None
         refs.append(f'{k}_{st}' if st else k)
-    looks += [desc for pat, desc in L.GROUPS if re.search(pat, visual.lower())]
-    return looks, refs
+    g_looks, g_refs = L.group_looks(visual, loc, ep)
+    return looks + g_looks, refs + g_refs
 
 
 def read_fixes(path):
@@ -74,8 +77,11 @@ def read_fixes(path):
                 fixes.setdefault((ep, int(no)), []).append(None)
                 continue
             head, rest = line.split(' | ', 1)
-            if head.startswith(('REHOOK ', 'HOOK ')):
-                splits[(head.split()[1], head.split()[0].lower())] = rest
+            if head.startswith(('REHOOK ', 'HOOK ')):   # 'REHOOK E1.11 8 | …': the picture comes from scene 8
+                w = head.split()
+                splits[(w[1], w[0].lower())] = rest
+                if len(w) > 2:
+                    splits[(w[1], w[0].lower() + '_from')] = int(w[2])
                 continue
             if head == 'CUTS':     # "E0.01, E1.02 22, E1.06, …": the first unit of every video, in order
                 for x in rest.split(','):
@@ -96,6 +102,17 @@ def read_fixes(path):
             if head.startswith('CARD '):
                 _, ep, no = head.split()
                 CARDS[(ep, int(no))] = rest
+                continue
+            if head.startswith('VIS '):    # the script's picture line is a production note or wrong: say what is seen
+                _, ep, no = head.split()
+                VIS[(ep, int(no))] = rest
+                continue
+            if head.startswith('LOC '):
+                _, ep, no = head.split()
+                LOCS[(ep, int(no))] = rest
+                continue
+            if head.startswith('LESSON '):
+                LESSON_PIC[head.split()[1]] = int(rest)
                 continue
             if head.startswith('CAST '):   # who is really on screen: "RAMA:S1, MARICHA_YOUNG", or "-" for nobody
                 w = head.split()
@@ -187,6 +204,10 @@ def story(ep, d, fixes):
         if (verse and 'KEEP' not in mine) or None in mine:
             continue
         s = dict(s, verse=verse, ep=ep)
+        if (ep, s['no']) in VIS:
+            s['visual'] = VIS.pop((ep, s['no']))
+        if (ep, s['no']) in LOCS:
+            s['loc'] = LOCS.pop((ep, s['no']))
         if not s['loc']:   # PLACE lines name the setting where the script does not
             key = next((k for lo, hi, k in PLACE_MAP.get(ep, []) if lo <= s['no'] <= hi), None)
             s['loc'] = PLACES[key][0][0] if key else ''
@@ -233,6 +254,15 @@ def repeats(line, nxt):
     return (L._words(line) & L._words(nxt[:120])) - NAMES
 
 
+def lesson(extras, lesson_ep, ep):
+    """The life-lesson clip, pictured from the scene a LESSON line names (else the first scene with a character)."""
+    pick = [s for s in lesson_ep['scenes'] if s['no'] == LESSON_PIC.get(lesson_ep['ep'])]
+    item = dict(L.lesson_item(extras[lesson_ep['ep']], pick or lesson_ep['scenes']), ep=ep)
+    if pick:
+        item.update(from_no=pick[0]['no'], cast_ep=lesson_ep['ep'])
+    return item
+
+
 def assemble(parts, extras, splits, vid_index):
     """The spoken order of one video and its chapters. parts = [(episode, first chapter, end chapter)]."""
     seq, chapters, warn = [], [], []
@@ -245,7 +275,9 @@ def assemble(parts, extras, splits, vid_index):
         bridges = dict(zip([n for n, _ in e['d']['chapters'][1:]], x['bridges']))
         if ep_start:
             hook_text = splits.get((e['ep'], 'hook')) or (x['hook'] if first else splits.get((e['ep'], 'rehook'), x['hook']))
-            hook_from, tone = x['hook_from'], splits.get((e['ep'], 'tone'), 'curious')
+            own = 'hook' if (first or (e['ep'], 'rehook') not in splits) else 'rehook'
+            hook_from = splits.get((e['ep'], own + '_from'), x['hook_from'])
+            tone = splits.get((e['ep'], 'tone'), 'curious')
         else:
             tone = splits.get((e['ep'], st[c0][2], 'tone'), 'curious')
             sp = splits.get((e['ep'], st[c0][2]))
@@ -295,12 +327,12 @@ def assemble(parts, extras, splits, vid_index):
                 seq.append(b)
                 chapters.append((b, title))
             if teaser_last and s is sc[-1]:
-                seq.append(dict(L.lesson_item(extras[lesson_ep['ep']], lesson_ep['scenes']), ep=e['ep']))
+                seq.append(lesson(extras, lesson_ep, e['ep']))
             seq.append({'id': str(s['no']), 'ep': e['ep'], 'label': f"{e['ep']} · సీన్ {s['no']}", 'kind': s['kind'],
                         'secs': s['secs'], 'narration': s['narration'], 'new': False, 'visual': s['visual'],
                         'loc': s['loc'], 'onscreen': verse_card(s, sc), 'scene': s})
         if last and ep_end and not teaser_last and lesson_ep:
-            seq.append(dict(L.lesson_item(extras[lesson_ep['ep']], lesson_ep['scenes']), ep=e['ep']))
+            seq.append(lesson(extras, lesson_ep, e['ep']))
         if last and not ep_end:   # the story goes on in the next video: end on its question, then the lesson
             at, title, n = st[c1]
             line = splits.get((e['ep'], n), {}).get('TEASE') or bridges.get(n, '')
@@ -310,7 +342,7 @@ def assemble(parts, extras, splits, vid_index):
                         'from_no': nxt['no'],
                         'visual': f"A suspenseful glimpse, half in shadow: {nxt['visual']}"})
             if lesson_ep:
-                seq.append(dict(L.lesson_item(extras[lesson_ep['ep']], lesson_ep['scenes']), ep=e['ep']))
+                seq.append(lesson(extras, lesson_ep, e['ep']))
     cta = L.CTAS[vid_index % len(L.CTAS)]
     seq.append({'id': 'C', 'ep': parts[-1][0]['ep'], 'label': 'సబ్‌స్క్రైబ్', 'kind': 'image', 'secs': L.speak_secs(cta),
                 'narration': cta, 'new': True, 'visual': L.CTA_VISUAL, 'loc': '', 'onscreen': 'SUBSCRIBE 🔔'})
@@ -517,8 +549,8 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
     for n, item in enumerate(seq, 1):
         s = {'visual': item['visual'], 'loc': item['loc']}
         no = item['scene']['no'] if 'scene' in item else item.get('from_no')
-        if (item['ep'], no) in CAST:
-            looks, refs = cast(CAST[(item['ep'], no)], item['visual'], item['ep'])
+        if (item.get('cast_ep', item['ep']), no) in CAST:
+            looks, refs = cast(CAST[(item.get('cast_ep', item['ep']), no)], item['visual'], item['ep'], item['loc'])
         else:
             looks, refs = L.scene_cast(s, item['ep'])
         refs_used.update(refs)
@@ -659,6 +691,8 @@ def main(data_path):
     fixes, splits = read_fixes(data_path.replace('.txt', '_videos.txt'))
     eps = [story(ep, d, fixes) for ep, d in data.items()]
     assert not fixes, f'fixes for scenes that were not found: {sorted(fixes)}'
+    assert not VIS, f'VIS lines for scenes that were not found: {sorted(VIS)}'
+    assert not LOCS, f'LOC lines for scenes that were not found: {sorted(LOCS)}'
     unused = [r[0] for r in SIMPLE if not r[2]]
     assert not unused, f'SIMPLE words not found anywhere: {unused}'
     by_kaanda = {}

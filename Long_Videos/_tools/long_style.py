@@ -183,12 +183,51 @@ EXTRA.update({   # Aranya Kaanda
                 "armour, a thick beard, wielding a parigha (iron club); grim and gruff"),
     'TRISHIRA': ("Trishira, the third rakshasa commander: a lean, tall rakshasa of about thirty with dark skin, "
                  "dark armour and a three-crested helmet (three tufts or crests, never three heads)"),
+    'AYODHYA_PEOPLE': ("The people of Ayodhya: men, women, children and elders of the city in traditional South Indian "
+                       "dress (veshti and angavastram for men, single-wrap sarees properly draped over the shoulders for "
+                       "women, jasmine in their hair), simple gold and silver ornaments, every forehead with a red kumkum "
+                       "dot or a white namam, warm and devoted faces, every face different"),
+    # Bala Kaanda: Siddhashrama and the Kusha-lineage stories Vishwamitra tells on the way to Mithila (E1.08-E1.11)
+    'BALI': ("Bali Chakravarti, the asura emperor, grandson of Prahlada and son of Virochana: a towering, majestic asura "
+             "king of about forty-five with dark bronze skin, a thick black moustache, a tall heavy gold crown, royal "
+             "purple and gold silks, a generous yet proud bearing"),
+    'VAMANA': ("Vamana, Vishnu's dwarf-brahmin avatar: a radiant brahmin boy of short stature with the calm face of Vishnu, "
+               "dark blue-tinted skin, shaven head with a small tuft (shikha), sacred thread, a deer skin over one "
+               "shoulder, a palm-leaf umbrella and a kamandalu; white Vishnu namam on the forehead; a soft divine glow"),
+    'KUSHA_KING': ("King Kusha, Brahma's son and ancient forefather of Vishwamitra's line: a very old, majestic king of "
+                   "about seventy-five with a long white beard, a tall gold crown, white and gold silk, pearl and "
+                   "rudraksha ornaments; calm, wise and great-souled"),
+    'KUSHANABHA': ("King Kushanabha of Mahodaya, Kusha's son: a dignified, gentle king of about fifty-five with a trimmed "
+                   "grey-black beard, a gold crown, deep blue and gold silk, kind and thoughtful eyes"),
+    'KUSHANABHA_DAUGHTERS': ("The hundred daughters of King Kushanabha, born of the apsara Ghritachi: radiant young women "
+                             "of about seventeen, every face different, matching pale-gold silk sarees properly draped "
+                             "over the shoulders, jasmine in braided hair, simple gold ornaments, a small red kumkum dot "
+                             "between the eyebrows; graceful and dignified, always shown as one group"),
+    'VAYU': ("Vayu Deva, the wind god: a tall, radiant god of about thirty-five with a fair, airy complexion, long dark hair "
+             "and pale-blue silk scarves always streaming in a wind of their own, a light gold crown; swirling air, "
+             "leaves and petals around him"),
+    'CHULI': ("Sage Chuli, a great ascetic: a very old, extremely lean maharshi of about eighty, long white beard, matted "
+              "white hair in a top-knot, bark-cloth garments, rudraksha beads, a calm radiant face"),
+    'SOMADA': ("Somada, a gandharva woman, daughter of Urmila: a graceful celestial woman of about twenty-five, luminous "
+               "fair skin, a soft lavender and silver silk saree properly draped over the shoulders, pearl ornaments, "
+               "flowers in her hair, a small red kumkum dot between the eyebrows; gentle and devoted"),
+    'BRAHMADATTA': ("King Brahmadatta of Kampilya, Chuli's mind-born son, a sage-prince: a radiant young king of about "
+                    "twenty-five, clean-shaven, calm scholarly face, a simple gold crown band, white and gold silk, "
+                    "rudraksha beads"),
+    'SATYAVATI': ("Satyavati, Vishwamitra's elder sister and wife of sage Richika: a gentle, noble woman of about forty "
+                  "with her brother's strong features softened, a simple cream and ochre silk saree properly draped, "
+                  "simple gold ornaments"),
+    'RICHIKA': ("Sage Richika of the Bhrigu line, Satyavati's husband: a dignified sage of about fifty-five with a long "
+                "grey-black beard, matted top-knot, bark cloth and a deer skin, rudraksha beads"),
 })
 # Looks added for the Aranya scripts are matched by name only from Aranya on, so the earlier kaandas' prompts
 # (where these names are passing mentions) stay exactly as they were planned.
 FROM_EP = {_k: 'E3.01' for _k in ('DHANU', 'ILVALA', 'VATAPI', 'KASHYAPA', 'GARUDA', 'KUBERA', 'TUMBURU', 'DHARMABHRUT',
                                   'MANDAKARNI', 'STHULASHIRA', 'AKAMPANA', 'YAYATI', 'AGASTYA_BROTHER',
                                   'SHARABHANGA_DIVINE', 'MARICHA_YOUNG', 'RAVANA_DISGUISED', 'DUSHANA', 'TRISHIRA')}
+# The Bala story-inset looks are given only by data CAST lines, never matched from a name in passing.
+FROM_EP.update({_k: 'E9.99' for _k in ('BALI', 'VAMANA', 'KUSHA_KING', 'KUSHANABHA', 'KUSHANABHA_DAUGHTERS', 'CHULI',
+                                       'SOMADA', 'BRAHMADATTA', 'SATYAVATI', 'RICHIKA')})
 for _k, _v in EXTRA.items():
     BIBLE.setdefault(_k, {'lock': _v, 'stages': {}})
 for _k in ('KHARA', 'DUSHANA', 'TRISHIRA'):   # the bible keeps the three brothers in one entry; give each his own look
@@ -196,18 +235,19 @@ for _k in ('KHARA', 'DUSHANA', 'TRISHIRA'):   # the bible keeps the three brothe
 ALIASES.update({'Manmadha': 'MANMATHA', 'Manmatha': 'MANMATHA', 'Kama': 'MANMATHA', 'Subahu': 'SUBAHU',
                 'Dushana': 'DUSHANA', 'Trishira': 'TRISHIRA', 'Garuda': 'GARUDA', 'Kashyapa': 'KASHYAPA'})
 NO_MARK |= {'SHIVA', 'MANMATHA', 'SUNDA', 'SUKETU', 'VRITRASURA', 'SURABHI', 'DHANU', 'ILVALA', 'VATAPI', 'GARUDA',
-            'KUBERA', 'TUMBURU', 'SHARABHANGA_DIVINE', 'MARICHA_YOUNG', 'RAVANA_DISGUISED'}
-WOMEN |= {'ANASUYA'}
+            'KUBERA', 'TUMBURU', 'SHARABHANGA_DIVINE', 'MARICHA_YOUNG', 'RAVANA_DISGUISED',
+            'AYODHYA_PEOPLE', 'BALI', 'VAMANA', 'VAYU', 'KUSHANABHA_DAUGHTERS', 'SOMADA'}   # (the last two carry their dot in the look)
+WOMEN |= {'ANASUYA', 'SATYAVATI'}
 RAVANA_SIDE |= {'SUBAHU', 'AKAMPANA', 'DUSHANA', 'TRISHIRA'}
 
 # Places, one reference image each, so a location looks the same in every clip.
 # key: (words in a scene's location register, episodes it applies to (None = every episode), description)
 PLACES = {
-    'AYODHYA_PALACE': (('inner palace',), None,
+    'AYODHYA_PALACE': (('inner palace', 'ayodhya, palace'), None,
         "Ayodhya inner palace, the queens' quarters: an inner courtyard with a tulasi platform in the centre, carved "
         "teakwood pillars, sloped tiled roofs, lamp niches with lit brass lamps, silk curtains in deep red and gold, "
         "jasmine creepers; warm gold, cream and deep red palette"),
-    'AYODHYA_COURT': (('ayodhya court', 'ayodhya, court'), None,
+    'AYODHYA_COURT': (('ayodhya court', 'ayodhya, court', 'ayodhya royal court'), None,
         "Ayodhya royal court (Dasharatha's sabha): a grand pillared mandapa of carved sandstone and teakwood in early "
         "Dravidian temple-era style, tall carved pillars with lotus capitals, sloped tiled roof beams, a raised gold "
         "and teak throne on a stepped dais under a silk canopy, brass oil lamps on tall stands, red and gold silk "
@@ -231,11 +271,31 @@ PLACES = {
         "The Tataka forest: a vast, dense, dreadful forest loud with shrilling crickets and harsh bird cries, tangled ancient trees, dry thorny "
         "undergrowth, broken branches and dust, dim filtered light, the overgrown ruins of two once-prosperous towns "
         "(Malada and Karusha) swallowed by vines; tense and foreboding but not horror"),
+    'FOREST_CLEARING': (('forest clearing', 'forest campsite'), {'E1.08'},
+        "A quiet clearing at the edge of the forest, after the battle: soft grass under tall sal trees, a small campfire "
+        "with darbha-grass seats and kamandalus, birds returning to the branches; calm, green and sunlit"),
+    'SIDDHASHRAMA': (('siddhashrama', 'new ashram'), {'E1.08', 'E1.09'},
+        "Siddhashrama, the holy hermitage where Vamana did his tapas: many thatched huts of bamboo and mud in a grove of "
+        "ancient banyan and mango trees, neatly swept courtyards, a yagnashala of carved wooden pillars and a thatched "
+        "roof over a square fire altar, darbha grass, kamandalus, deer resting nearby; sacred, peaceful and green"),
+    'SHONA_RIVER': (('shona river',), {'E1.09', 'E1.10'},
+        "The Shona river country around Girivraja: a wide, clear river with sandy banks, five green hills ringing the "
+        "land, rich fruit orchards and ripening fields, flowering trees; vivid, fertile and prosperous"),
+    'GANGA_BANK': (('ganga riverbank', 'present, riverbank'), {'E1.10', 'E1.11'},
+        "The bank of the holy Ganga: a broad, slow, shining river, wide pale sand banks, small fire altars and "
+        "darbha-grass seats of the sages near the water, tall trees along the bank, white birds over the water; "
+        "serene, sacred light"),
     # Ayodhya Kaanda (its scripts have no location column: data/2_Ayodhya_videos.txt PLACE lines point here)
     'KAIKEYI_PALACE': (('kaikeyi palace',), None,
         "Queen Kaikeyi's palace in Ayodhya: an ornate chamber of carved teak pillars with peacock and swan motifs, "
         "silk hangings in deep emerald and gold, a low swan-feather couch, brass lamps in wall niches, lattice "
         "windows; to one side the bare, unlit anger chamber (kopagriha) with a plain stone floor; rich but tense"),
+    'AYODHYA_CITY': (('ayodhya city', 'traveling montage → ayodhya', 'forest road → ayodhya', 'ayodhya, joyful homecoming',
+                      'ayodhya → mithila', 'ayodhya → traveling'), None,
+        "The city of Ayodhya on the Sarayu river: a grand ancient South Indian temple-era city behind tall white walls "
+        "and a deep moat, towering carved gateways (gopuram-like) with flags, broad straight streets lined with "
+        "white mansions and gardens, palace towers with gold finials at the centre, the wide Sarayu flowing beside it; "
+        "prosperous and radiant, warm sandstone, white and gold palette"),
     'AYODHYA_STREETS': (('ayodhya streets',), None,
         "The royal streets of Ayodhya: wide stone-paved avenues lined with tall white mansions with carved balconies, "
         "flags and flower garlands strung across, rangoli at every threshold, the palace towers at the far end; "
