@@ -106,17 +106,38 @@ def open_ended(text):
         r'ఇలా\s*(అని\s*)?(అన్నాడు|అన్నారు|అంది|అన్నది|పలికాడు|పలికారు|పలికింది|చెప్పాడు|చెప్పారు|చెప్పింది)\.$', t))
 
 
+CLOSE = r'"\s*(అని|అన్నా[డరు]|అంది|అంటూ|అనుకు|—|$)'   # a quote mark that ends someone's words
+
+
+def opens_speech(text):
+    """The line leaves a quote open: '… ఇలా అన్నాడు — "అయ్యా! నాకు సంతానం లేదు.'"""
+    return text.count('"') % 2 == 1 and not re.search(CLOSE + r'[^"]*$', text)
+
+
+def ends_speech(text):
+    """The line finishes words someone began on an earlier line: '… చేయించాలి" అని పాదములు పట్టి ప్రార్థించాడు.'"""
+    return not text.lstrip().startswith('"') and bool(re.match(r'[^"]*' + CLOSE, text))
+
+
+def inside_speech(prev, cur):
+    return opens_speech(prev) and ends_speech(cur)
+
+
 def chapter_starts(d, sc):
     """Chapter -> first kept scene at or after its old start (a chapter that lost its scenes merges into the next).
-    A chapter never starts right after a lead-in ("… ఇలా అన్నాడు —"): the bridge would cut the speaker off,
-    so the chapter (and its bridge) moves back to the lead-in line."""
+    A chapter never starts right after a lead-in ("… ఇలా అన్నాడు —") or in the middle of someone's words:
+    the bridge would cut the speaker off, so the chapter (and its bridge) moves back to where the words begin."""
     nos = [s['no'] for s in sc]
+    text = {s['no']: s['narration'] for s in sc}
     lead_in = {s['no'] for s in sc if open_ended(s['narration'])}
     out = []
     for n, title in d['chapters']:
         at = next((x for x in nos if x >= n), None)
-        while at is not None and nos.index(at) > 0 and nos[nos.index(at) - 1] in lead_in                 and nos[nos.index(at) - 1] not in [a for a, _, _ in out]:
-            at = nos[nos.index(at) - 1]
+        while at is not None and nos.index(at) > 0 and nos[nos.index(at) - 1] not in [a for a, _, _ in out]:
+            prev = nos[nos.index(at) - 1]
+            if prev not in lead_in and not inside_speech(text[prev], text[at]):
+                break
+            at = prev
         if at is not None and at not in [a for a, _, _ in out]:
             out.append((at, title, n))
     return out
@@ -257,12 +278,23 @@ def assemble(parts, extras, splits, vid_index):
                 'narration': cta, 'new': True, 'visual': L.CTA_VISUAL, 'loc': '', 'onscreen': 'SUBSCRIBE 🔔'})
     # At an episode join, a story line left open ("…అడుగుపెట్టగానే —") moves to just after the re-hook,
     # so the re-hook never cuts a sentence in half and the line runs straight into its answer.
+    # If that would still put the re-hook inside someone's words ("…చెయ్యాలి." ‖ "…అందుకని రామా నిద్రలే" —),
+    # the re-hook moves forward instead, to the next bridge, once the speaker has finished.
     for k in range(1, len(seq)):
         if seq[k]['id'] == 'H' and k > 1:
             j = k
             while j > 0 and 'scene' in seq[j - 1] and open_ended(seq[j - 1]['narration']):
                 j -= 1
-            if j < k:
+            after = seq[j] if j < k else seq[k + 1]
+            m = next((m for m in range(k + 1, len(seq)) if 'scene' not in seq[m]), len(seq))
+            if ('scene' in seq[j - 1] and 'scene' in after
+                    and inside_speech(seq[j - 1]['narration'], after['narration'])
+                    and sum(x['secs'] for x in seq[k + 1:m]) <= 60):
+                hook = seq[k]
+                chapters[:] = [(seq[k + 1] if it is hook else it, t) for it, t in chapters]
+                hook.update(label='రీ-హుక్', onscreen='')   # its chapter's story has been told by now
+                seq[k:m] = seq[k + 1:m] + [hook]
+            elif j < k:
                 seq[j:k + 1] = [seq[k]] + seq[j:k]
     for item in seq:   # every new part carries its delivery tone (hooks were set above)
         if item['new'] and 'tone' not in item:
@@ -436,7 +468,8 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
         t += item['secs']
     body_end = next(x['start'] for x in seq if x['id'] == 'C')
     start_of = {id(x): x['start'] for x in seq}
-    chap = [(0 if j == 0 else start_of[id(next(s for s in seq if s['id'] == it['id'] and s['ep'] == it['ep']))], title)
+    chap = [(0 if j == 0 else start_of[id(next(s for s in seq if s['id'] in (it['id'], it['id'] + 'a')
+                                                and s['ep'] == it['ep']))], title)
             for j, (it, title) in enumerate(chap_items)]
     ends = [c[0] for c in chap[1:]] + [total]
     for (a, title), b in zip(chap, ends):
