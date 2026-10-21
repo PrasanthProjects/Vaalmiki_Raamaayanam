@@ -86,10 +86,10 @@
 4 | RAMA_S2 | Rama walking gracefully along a palace corridor with tall pillars. | He walks with a dignified, unhurried stride. | Smooth tracking shot alongside him. | Sunlight streaming through pillars in stripes.
 5 | RAMA_S2 | Close-up of Rama's calm forehead with the Vishnu namam and his serene eyes. | He slowly looks up, eyes calm and kind. | Slow push-in. | Soft golden light, gentle halo.
 6 | RAMA_S2 | Rama walking toward camera through a palace garden, posture noble. | His steps are calm and graceful, flowers sway as he passes. | Slow backward tracking. | Golden sunlight, falling petals.
-7 | RAMA_S2 | Rama's full standing figure seen as a silhouette against a bright golden sky. | The light slowly rises behind him, his outline stays hidden in glow. | Slow pull-back to full height. | Strong golden backlight, soft haze.
+7 | RAMA_S2 | Extreme close-up of Rama's large lotus-like eyes. | His eyes slowly open fully, motion slows. | Slow push-in. | Golden reflection in his eyes, soft flash.
 
 ### 11
-1 | RAMA_S2 | Full figure of Rama glowing with a soft blue-cloud radiance against a golden sky. | The glow pulses gently, his robes move. | Slow orbit. | Divine blue-gold aura, sparkles.
+1 | RAMA_S2 | Close-up of Rama's large lotus-like eyes and his glowing rain-cloud-blue skin. | He looks up, the glow on his skin pulses gently. | Slow pull-back from his eyes to his face. | Divine blue-gold aura, sparkles.
 2 | RAMA_S2 | Rama standing in perfect balanced posture in a palace courtyard, proportions graceful. | He turns slightly to face the camera. | Slow push-in. | Warm golden light.
 3 | RAMA_S2 | Close-up of Rama's wide lotus-like eyes and glowing face. | He blinks slowly and smiles softly. | Slow push-in. | Soft key light, glowing skin.
 4 | RAMA_S2 | Rama standing beside a mirror-like pond, his reflection perfectly symmetrical. | A gentle ripple passes over the reflection and settles. | Slow top-down tilt. | Calm reflections, golden light.
