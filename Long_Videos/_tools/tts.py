@@ -20,6 +20,7 @@ TONES = {
     'tense': ('[tense]', 'ఉత్కంఠగా, తక్కువ స్వరంలో – అరవకుండా'),
     'curious': ('[curious]', 'ఆసక్తిగా, ప్రశ్న మీద స్వరం కొంచెం పైకి'),
     'warm': ('[warm]', 'ఆత్మీయంగా, చిరునవ్వుతో, సహజంగా'),
+    'welcome': ('[warm]', 'ఆత్మీయంగా, సహజంగా'),
     'calm': ('[calm]', 'ప్రశాంతంగా, కథ చెబుతున్నట్లు'),
 }
 STORY = 'calm'    # the book's narration between the new parts

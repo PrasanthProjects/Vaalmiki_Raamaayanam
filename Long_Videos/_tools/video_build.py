@@ -214,7 +214,7 @@ def assemble(parts, extras, splits, vid_index):
             welcome = splits.get((e['ep'], st[c0][2] if c0 else None, 'welcome'))
             if welcome:
                 seq.append({'id': 'W', 'ep': e['ep'], 'label': 'స్వాగతం', 'kind': 'image', 'secs': L.speak_secs(welcome),
-                            'narration': welcome, 'new': True, 'loc': sc[0]['loc'], 'onscreen': '', 'tone': 'warm',
+                            'narration': welcome, 'new': True, 'loc': sc[0]['loc'], 'onscreen': '', 'tone': 'welcome',
                             'visual': f"A calm, wide establishing view of the setting: {sc[0]['visual']}"})
             elif e['ep'] != 'E0.01':
                 warn.append(f"{e['ep']}: video opening has no 'WELCOME {e['ep']}{' ' + str(st[c0][2]) if c0 else ''} | …' line")
@@ -396,22 +396,32 @@ def reference_md(refs_used):
     return '\n'.join(lines)
 
 
-def recording(spoken):
-    out, ep = [], None
-    for x in spoken:
-        if x['ep'] != ep and x['id'] not in ('L', 'C'):
-            if ep:
-                out.append(f'\n[── ఇక్కడి నుండి {x["ep"]} కథ ──]')
-            ep = x['ep']
+def recording(seq):
+    """Own-voice script in the same numbered steps as the clips: one step per spoken part, in video order,
+    so nothing is read from another place (a split still's second clip joins its first)."""
+    steps = []
+    for n, x in enumerate(seq, 1):
+        if x.get('cont'):
+            steps[-1][1] = n
+            continue
+        steps.append([n, n, x])
+    out = []
+    for a, b, x in steps:
+        end = seq[b - 1]['start'] + seq[b - 1]['secs']
+        nums = f'{a}–{b}' if b > a else str(a)
+        label = re.sub(r' \(1/2\)$', '', x['label'])
+        out.append(f"#### 🎙️ {nums}. {label} · {mmss(x['start'])} – {mmss(end)} · {end - x['start']} సె\n")
+        if x['id'] == 'I':
+            out.append('ఏమీ చదవనక్కర్లేదు – ఒక్కసారే చేసిన ఇంట్రో ఆడియో (`Long_Videos/Videos/tts/00_INTRO.txt`) ఇక్కడ పెట్టండి.\n')
+            continue
+        verse = x.get('scene', {}).get('verse')
         if x['new']:      # the part's own tone, not one fixed "ఉత్సాహంగా" for every hook
-            if x['id'] == 'I':
-                out += ['[ఇంట్రో క్లిప్ – ఒక్కసారే చేసిన ఆడియో (Videos/tts/00_INTRO.txt) ఇక్కడ పెట్టండి]', '⏸']
-                continue
-            part = {'H': 'హుక్', 'B': 'బ్రిడ్జ్', 'R': 'ఇంతవరకు', 'T': 'టీజర్', 'L': 'జీవిత పాఠం', 'C': 'సబ్‌స్క్రైబ్',
-                    'W': 'స్వాగతం'}[x['id'][0]]
-            out += [f"[{part} · {tts.TONES[x['tone']][1]}]", *L.breath(x['narration']), '⏸']
+            lines = [f"[{tts.TONES[x['tone']][1]}]", *L.breath(x['narration']), '⏸']
+        elif verse:
+            lines = [L.CUES['V'], *L.breath(x['narration'], True), '⏸']
         else:
-            out.append(L.performance_script([x]))
+            lines = L.breath(x['narration'])
+        out.append('```text\n' + '\n'.join(lines) + '\n```\n')
     return '\n'.join(out)
 
 
@@ -471,7 +481,7 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
         lines.append(f"\n```text\n{card['prompt']}\n```\n")
         md_items.append('\n'.join(lines))
 
-    script = recording(spoken)
+    script = recording(seq)
     voice = tts.pieces(tts.paragraphs(spoken))
     labels = [f'భాగం {n} / {len(voice)}' + {'verse': ' · 🕉️ శ్లోకం', 'intro': ' · 🎬 ఇంట్రో క్లిప్ – ఒక్కసారే చేసినది ఇక్కడ పెట్టండి',
                                               'text': ''}[kind]
@@ -509,7 +519,6 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
     srt_rel = f'Long_Videos/Videos/captions/{folder_name}/V{i:02d}.srt'
     tts_rel = f'Long_Videos/Videos/tts/{folder_name}/V{i:02d}.txt'
     n_video = sum(c['kind'] == 'video' for c in cards)
-    hooks = [f"- **{x['label']}:** {x['narration']}" for x in spoken if x['id'] in ('H', 'T')]
     md = '\n'.join([
         f'# V{i:02d} · {names} ({eps_txt})\n',
         '*`Long_Videos/_tools/video_build.py` తయారుచేసిన ఫైల్. చేత్తో మార్చవద్దు – మార్పులు సీన్ పట్టికలో లేదా '
@@ -536,12 +545,11 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
         '`Long_Videos/Videos/tts/00_INTRO.txt` – «పురాణ కథా శ్రవణం! మన పురాణాలు, మన ఇతిహాసాలు, మన జీవన విధానాలు!»\n',
         voice_md,
         '### 1బి. 🎙️ సొంత గొంతుతో చదవాలంటే – రికార్డింగ్ స్క్రిప్ట్\n',
-        *hooks,
-        *[f"- **జీవిత పాఠం:** {x['narration']}" for x in spoken if x['id'] == 'L'],
-        f"- **సబ్‌స్క్రైబ్:** {L.CTAS[(i - 1) % len(L.CTAS)]}\n",
-        'ఈ వరుసలోనే చదవండి. [ ] లో ఎలా చెప్పాలో సూచన; ప్రతి లైను ఒక శ్వాసలో; ⏸ దగ్గర ఒక సెకను ఆగండి. '
-        '[── … ──] గుర్తు దగ్గర తరువాతి ఎపిసోడ్ కథ మొదలవుతుంది – అక్కడ రెండు సెకన్లు ఆగండి.\n',
-        f'```text\n{script}\n```\n',
+        'కింద 2వ విభాగంలోని క్లిప్‌ల నంబర్లతోనే దశలు – పై నుండి కిందకి ఒక్కొక్కటిగా చదివితే చాలు, వేరే చోటికి వెళ్ళనక్కర్లేదు. '
+        'ఒక్కో దశను ఒక్కో ఆడియో ఫైల్‌గా సేవ్ చేయండి (ఉదా. `04-05.wav`) – ఎడిటర్‌లో అదే నంబర్ క్లిప్‌ల కింద పెట్టవచ్చు. '
+        '«4–5» అంటే ఒకే నెరేషన్ రెండు చిత్రాల మీద. [ ] లో ఎలా చెప్పాలో సూచన (సూచన లేని దశలు ప్రశాంతంగా, కథ చెబుతున్నట్లు); '
+        'ప్రతి లైను ఒక శ్వాసలో; ⏸ దగ్గర ఒక సెకను ఆగండి.\n',
+        script,
         '### 2. క్లిప్‌లు (16:9 · ఫోటోరియలిస్టిక్)\n',
         '- **🎥 వీడియో:** Flow (Veo) లో. ముందు ఇదే ప్రాంప్ట్‌తో ఇమేజ్ చేసి, నచ్చితే *Frames to Video* లో మొదటి ఫ్రేమ్‌గా వాడండి.',
         '- **🖼️ ఇమేజ్ + కదలిక:** ఇమేజ్ మాత్రమే చేసి, ఎడిటర్‌లో ఇచ్చిన జూమ్/ప్యాన్‌తో క్లిప్ నిడివి అంతా చూపించండి.',
@@ -630,4 +638,5 @@ def main(data_path):
 
 
 if __name__ == '__main__':
+    sys.stdout.reconfigure(encoding='utf-8')   # a Windows console would crash on the Telugu progress lines
     main(sys.argv[1])
