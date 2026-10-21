@@ -12,8 +12,10 @@ Valmiki_Ramayanam/
   00_SHORTS_PRODUCTION_GUIDE.md      rules: audio, Flow, devotion, captions, thumbnails, growth
   00_CHARACTER_REFERENCE_SHEETS.md   one image prompt per character (make once)
   _reference_images/                 your approved character images go here
-  1_Bala_Kanda/
-    Sarga_001/
+  1_Bala_Kanda/ … 7_Uttara_Kanda/  one folder per kaanda (Gita Press sarga counts:
+                                     Bala 77, Ayodhya 119, Aranya 75, Kishkindha 67, Sundara 68, Yuddha 128, Uttara 111)
+    00_SARGAS.md                     every sarga of the kaanda with its status
+    Sarga_001/ … Sarga_077/          one folder per sarga (empty ones say "not made yet")
       00_INDEX.md                    all ślokas of the sarga with links
       Sloka_001.md … Sloka_100.md    everything for one Short
       captions/Sloka_001.srt …       Telugu captions per Short
