@@ -24,6 +24,7 @@ import re
 import sys
 
 import long_build as L
+import long_style as S
 from long_style import PLACES, place_for, STYLE
 import tts
 from long_build import BUMPER, OUTRO, KAANDAS, HASHTAGS, mmss
@@ -37,6 +38,23 @@ PLACES_USED = set()
 CARDS = {}   # (episode, scene) -> on-screen meaning under a kept sloka (data/*_videos.txt CARD lines)
 CUTS = []        # (episode, chapter scene or None): where each video starts (data/*_videos.txt CUTS line)
 PLACE_MAP = {}   # episode -> [(first scene, last scene, PLACES key)] for scripts without a location column
+CAST = {}        # (episode, scene) -> character keys on screen, where the prompt only mentions someone (data CAST lines)
+
+
+def cast(keys, visual, ep):
+    """Looks and reference images for an explicit cast; 'RAMA:S1' forces an age stage (flashbacks)."""
+    looks, refs = [], []
+    for key in keys:
+        k, _, stage = key.partition(':')
+        assert k in S.BIBLE, f'{ep}: CAST names unknown character {k}'
+        line = S.STAGES.get('RAMA' if k == 'LAKSHMANA' else k, [])
+        at = next((e for e, st in line if st == stage), None) if stage else ep
+        assert at, f'{ep}: {k} has no stage {stage}'
+        looks.append(S.character(k, at))
+        st = S.stage_of('RAMA' if k == 'LAKSHMANA' else k, at) if line else None
+        refs.append(f'{k}_{st}' if st else k)
+    looks += [desc for pat, desc in L.GROUPS if re.search(pat, visual.lower())]
+    return looks, refs
 
 
 def read_fixes(path):
@@ -79,6 +97,13 @@ def read_fixes(path):
                 _, ep, no = head.split()
                 CARDS[(ep, int(no))] = rest
                 continue
+            if head.startswith('CAST '):   # who is really on screen: "RAMA:S1, MARICHA_YOUNG", or "-" for nobody
+                w = head.split()
+                for rng in w[2].split(','):
+                    lo, _, hi = rng.partition('-')
+                    for no in range(int(lo), int(hi or lo) + 1):
+                        CAST[(w[1], no)] = [k.strip() for k in rest.split(',') if k.strip() not in ('', '-')]
+                continue
             if head.startswith('WELCOME '):
                 w = head.split()
                 splits[(w[1], int(w[2]) if len(w) > 2 else None, 'welcome')] = rest
@@ -102,6 +127,8 @@ def read_fixes(path):
 def open_ended(text):
     """A line that does not finish its sentence: '… ప్రార్థించగా,'  '… ఇలా చెప్పాడు —'  '… ఇలా అన్నాడు.'"""
     t = text.rstrip(' "\'')
+    if t.endswith(')') and not t.rstrip(')').endswith((',', '—', '-')):
+        return False     # a narrator's aside in brackets closes its sentence: "(… తన జీవితాన్ని వ్యర్థం చేసుకున్నాడు)"
     return not t.endswith(('.', '?', '!')) or bool(re.search(
         r'ఇలా\s*(అని\s*)?(అన్నాడు|అన్నారు|అంది|అన్నది|పలికాడు|పలికారు|పలికింది|చెప్పాడు|చెప్పారు|చెప్పింది)\.$', t))
 
@@ -119,8 +146,13 @@ def ends_speech(text):
     return not text.lstrip().startswith('"') and bool(re.match(r'[^"]*' + CLOSE, text))
 
 
-def inside_speech(prev, cur):
-    return opens_speech(prev) and ends_speech(cur)
+def inside_speech(prev, cur, before=(), after=()):
+    """True when a break between prev and cur would cut someone's words in half. One line with no quote mark
+    on either side (before = lines leading up to prev, after = lines following cur) still counts as the same
+    short speech; a long monologue has to carry its bridges inside it, so the search stops there."""
+    back = next((t for t in [prev, *before[:1]] if '"' in t), '')
+    ahead = next((t for t in [cur, *after[:1]] if '"' in t), '')
+    return opens_speech(back) and ends_speech(ahead)
 
 
 def chapter_starts(d, sc):
@@ -134,8 +166,10 @@ def chapter_starts(d, sc):
     for n, title in d['chapters']:
         at = next((x for x in nos if x >= n), None)
         while at is not None and nos.index(at) > 0 and nos[nos.index(at) - 1] not in [a for a, _, _ in out]:
-            prev = nos[nos.index(at) - 1]
-            if prev not in lead_in and not inside_speech(text[prev], text[at]):
+            i = nos.index(at)
+            prev = nos[i - 1]
+            if prev not in lead_in and not inside_speech(text[prev], text[at], [text[x] for x in reversed(nos[:i - 1])],
+                                                         [text[x] for x in nos[i + 1:]]):
                 break
             at = prev
         if at is not None and at not in [a for a, _, _ in out]:
@@ -222,7 +256,7 @@ def assemble(parts, extras, splits, vid_index):
         src = next((s for s in e['scenes'] if s['no'] == hook_from), sc[0])
         hook = {'id': 'H', 'ep': e['ep'], 'label': 'హుక్' if first else f'రీ-హుక్ → {st[c0][1]}', 'kind': 'video',
                 'secs': L.speak_secs(hook_text), 'narration': hook_text, 'new': True, 'loc': src['loc'],
-                'onscreen': '' if first else st[c0][1], 'tone': tone,
+                'onscreen': '' if first else st[c0][1], 'tone': tone, 'from_no': src['no'],
                 'visual': f"Fast, dramatic flash-forward teaser of this story's biggest moment: {src['visual']}"}
         seq.append(hook)
         chapters.append((hook, st[c0][1]))
@@ -236,17 +270,19 @@ def assemble(parts, extras, splits, vid_index):
             if welcome:
                 seq.append({'id': 'W', 'ep': e['ep'], 'label': 'స్వాగతం', 'kind': 'image', 'secs': L.speak_secs(welcome),
                             'narration': welcome, 'new': True, 'loc': sc[0]['loc'], 'onscreen': '', 'tone': 'welcome',
+                            'from_no': sc[0]['no'],
                             'visual': f"A calm, wide establishing view of the setting: {sc[0]['visual']}"})
             elif e['ep'] != 'E0.01':
                 warn.append(f"{e['ep']}: video opening has no 'WELCOME {e['ep']}{' ' + str(st[c0][2]) if c0 else ''} | …' line")
         if not ep_start and sp.get('RECAP'):
             seq.append({'id': 'R', 'ep': e['ep'], 'label': 'ఇంతవరకు', 'kind': 'image', 'secs': L.speak_secs(sp['RECAP']),
                         'narration': sp['RECAP'], 'new': True, 'loc': sc[0]['loc'], 'onscreen': '',
+                        'from_no': e['scenes'][max(0, e['scenes'].index(sc[0]) - 1)]['no'],
                         'visual': f"Soft, slightly faded memory-like frame: {e['scenes'][max(0, e['scenes'].index(sc[0]) - 1)]['visual']}"})
         if not (first and ep_start) and len(repeats(hook_text, sc[0]['narration'])) >= 2:
             warn.append(f"{e['ep']}: hook repeats its next line ({', '.join(sorted(repeats(hook_text, sc[0]['narration'])))})")
         bridge_at = {at: (title, bridges[n]) for at, title, n in st[c0 + 1:c1] if n in bridges}
-        teaser_last = last and ep_end and sc[-1]['narration'].startswith(L.TEASER_STARTS)
+        teaser_last = last and ep_end and sc[-1]['narration'].startswith(L.TEASER_STARTS + ('ఇంతటితో',))   # also a kaanda's closing line
         for s in sc:
             if s['no'] in bridge_at:
                 title, line = bridge_at[s['no']]
@@ -254,6 +290,7 @@ def assemble(parts, extras, splits, vid_index):
                     warn.append(f"{e['ep']}: bridge before scene {s['no']} repeats it ({', '.join(sorted(repeats(line, s['narration'])))})")
                 b = {'id': f"B{s['no']}", 'ep': e['ep'], 'label': f'బ్రిడ్జ్ → {title}', 'kind': 'image',
                      'secs': L.speak_secs(line), 'narration': line, 'new': True, 'loc': s['loc'], 'onscreen': title,
+                     'from_no': s['no'],
                      'visual': f"{s['visual']}. Composed with calm open space on one side for an on-screen chapter title"}
                 seq.append(b)
                 chapters.append((b, title))
@@ -270,6 +307,7 @@ def assemble(parts, extras, splits, vid_index):
             nxt = next(s for s in e['scenes'] if s['no'] == at)
             seq.append({'id': 'T', 'ep': e['ep'], 'label': 'తరువాతి వీడియో టీజర్', 'kind': 'image',
                         'secs': L.speak_secs(line), 'narration': line, 'new': True, 'loc': nxt['loc'], 'onscreen': '',
+                        'from_no': nxt['no'],
                         'visual': f"A suspenseful glimpse, half in shadow: {nxt['visual']}"})
             if lesson_ep:
                 seq.append(dict(L.lesson_item(extras[lesson_ep['ep']], lesson_ep['scenes']), ep=e['ep']))
@@ -478,7 +516,11 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
     cards, md_items = [], []
     for n, item in enumerate(seq, 1):
         s = {'visual': item['visual'], 'loc': item['loc']}
-        looks, refs = L.scene_cast(s, item['ep'])
+        no = item['scene']['no'] if 'scene' in item else item.get('from_no')
+        if (item['ep'], no) in CAST:
+            looks, refs = cast(CAST[(item['ep'], no)], item['visual'], item['ep'])
+        else:
+            looks, refs = L.scene_cast(s, item['ep'])
         refs_used.update(refs)
         place = place_for(item['loc'], item['ep'])
         if place:   # the location gets its own reference image, like a character

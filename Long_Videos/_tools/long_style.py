@@ -50,9 +50,11 @@ NO_MARK = {'BRAHMA', 'VISHNU', 'INDRA', 'JATAYU', 'KABANDHA', 'SURASA', 'SIMHIKA
 
 # Age stages by episode (first episode of each stage). Episodes before the first entry use the first stage.
 STAGES = {
-    'RAMA': [('E0.00', 'S2'), ('E1.05', 'S1'), ('E1.23', 'S2'), ('E2.18', 'S3'), ('E3.15', 'S4'), ('E6.39', 'S5')],
-    'SITA': [('E0.00', 'S1'), ('E2.01', 'S2'), ('E2.18', 'S3'), ('E3.15', 'S4'), ('E6.35', 'S5')],
-    'LAKSHMANA': [('E0.00', 'S2'), ('E1.05', 'S1'), ('E1.23', 'S2'), ('E2.18', 'S3'), ('E3.15', 'S4'), ('E6.39', 'S5')],
+    # Aranya scripts: Rama's deep-exile look after the ten years among the hermitages (E3.05 end),
+    # Sita's captivity look once she is in Lanka (E3.25)
+    'RAMA': [('E0.00', 'S2'), ('E1.05', 'S1'), ('E1.23', 'S2'), ('E2.18', 'S3'), ('E3.06', 'S4'), ('E6.39', 'S5')],
+    'SITA': [('E0.00', 'S1'), ('E2.01', 'S2'), ('E2.18', 'S3'), ('E3.25', 'S4'), ('E6.35', 'S5')],
+    'LAKSHMANA': [('E0.00', 'S2'), ('E1.05', 'S1'), ('E1.23', 'S2'), ('E2.18', 'S3'), ('E3.06', 'S4'), ('E6.39', 'S5')],
 }
 
 
@@ -131,12 +133,72 @@ EXTRA = {
                 "gentle eyes, garlanded with flowers, softly glowing, standing among clouds; reverent traditional "
                 "iconography"),
 }
+EXTRA.update({   # Aranya Kaanda
+    'DHANU': ("Dhanu, Kabandha freed from his curse: a radiant, handsome gandharva of about thirty, glowing golden "
+              "skin, long dark hair under a jewelled diadem, fine celestial silks in white and gold, garlands and "
+              "bright ornaments, serene grateful face; the polar opposite of the headless cursed form"),
+    'ILVALA': ("Ilvala, the rakshasa elder brother of Vatapi: in disguise a smooth, well-fed brahmin householder of about "
+               "forty-five in a white dhoti with a sacred thread, a too-sweet smile; in his true form a heavy dark "
+               "rakshasa with wild hair and short tusks; cunning eyes in both"),
+    'VATAPI': ("Vatapi, Ilvala's younger brother, a shape-shifting rakshasa: lean, dark, sly-faced rakshasa of about "
+               "thirty with wild hair; when disguised, a plain grazing ram with no human features"),
+    'KASHYAPA': ("Kashyapa Prajapati, the ancient father of all beings: a vast, radiant, very old sage with a long white "
+                 "beard to the waist, matted white hair in a high knot, white bark garments, a gentle cosmic calm, a "
+                 "soft golden light around him"),
+    'GARUDA': ("Garuda, the king of birds and Vishnu's mount: a majestic golden eagle-like divine being with a "
+               "human-like noble face and a sharp curved beak, vast shining golden-red wings, a jewelled crown and "
+               "armlets; reverent traditional iconography"),
+    'KUBERA': ("Kubera, lord of wealth: a stout, dignified god of about fifty with a fair complexion, a full dark "
+               "beard, a jewelled crown, rich yellow-gold silks and heavy gold ornaments, holding a small mace; "
+               "regal and stern"),
+    'TUMBURU': ("Tumburu, a gandharva (Viradha before his curse): a handsome, radiant celestial musician of about "
+                "twenty-five in fine silks with a veena, garlanded, light glowing on his face"),
+    'DHARMABHRUT': ("Dharmabhrut, a forest sage of Dandaka: an elderly ascetic of about seventy, white beard, matted "
+                    "hair in a knot, ochre bark garments, a staff and kamandalu; kind, wise eyes"),
+    'MANDAKARNI': ("Mandakarni, the sage who built the Panchapsara lake: a very lean ascetic of great austerity, "
+                   "hollow-cheeked, matted hair, bark garment, seated in tapas"),
+    'STHULASHIRA': ("Sage Sthulashira: a stern elderly maharshi with a large head and broad forehead, long grey beard, "
+                    "matted hair, bark garments, gathering darbha grass"),
+    'AKAMPANA': ("Akampana, a rakshasa survivor of Janasthana: a dusty, terrified rakshasa soldier of about thirty-five "
+                 "in torn dark armour, wild hair, short tusks, fleeing for his life"),
+    'YAYATI': ("King Yayati, son of Nahusha: a noble king of about fifty with a trimmed beard, gold crown and royal "
+               "silks, a humble, gentle face"),
+    'AGASTYA_BROTHER': ("Agastya's younger brother, a forest sage: a gentle elderly sage of about seventy, white "
+                        "beard, matted hair in a knot, ochre bark garments, a warm welcoming smile; clearly a "
+                        "different man from Agastya, softer and without his golden radiance"),
+    'SHARABHANGA_DIVINE': ("Sage Sharabhanga after his body is given to the fire: a youthful, radiant spirit-form "
+                           "of about twenty, made of soft golden light, serene face, white celestial garments, "
+                           "rising upward; not withered, not old"),
+    'MARICHA_YOUNG': ("Maricha in his younger days, before he renounced: a black-skinned, proud rakshasa of about "
+                      "thirty with gold earrings, a swaggering powerful build, wild dark hair, fierce grin, dark "
+                      "armour"),
+    'RAVANA_DISGUISED': ("Ravana disguised as a wandering ascetic (parivrajaka): a single-headed, tall, broad-shouldered "
+                         "man in soft saffron robes, a shaven head with a topknot, a sacred thread, a kamandalu on the "
+                         "left shoulder, an ascetic's staff; a smooth, false gentleness, and only now and then a red "
+                         "glint in the eyes; no crown, no extra heads or arms"),
+    'KHARA': ("Khara, the eldest rakshasa commander of Janasthana: a towering rakshasa of about forty with dark reddish "
+              "skin, heavy individually-detailed dark armour with gold edging, a horned helmet, a heavy mace and a "
+              "great bow; booming, arrogant bearing"),
+    'DUSHANA': ("Dushana, Khara's general: a burly rakshasa of about thirty-five with dark bronze skin, plain heavy "
+                "armour, a thick beard, wielding a parigha (iron club); grim and gruff"),
+    'TRISHIRA': ("Trishira, the third rakshasa commander: a lean, tall rakshasa of about thirty with dark skin, "
+                 "dark armour and a three-crested helmet (three tufts or crests, never three heads)"),
+})
+# Looks added for the Aranya scripts are matched by name only from Aranya on, so the earlier kaandas' prompts
+# (where these names are passing mentions) stay exactly as they were planned.
+FROM_EP = {_k: 'E3.01' for _k in ('DHANU', 'ILVALA', 'VATAPI', 'KASHYAPA', 'GARUDA', 'KUBERA', 'TUMBURU', 'DHARMABHRUT',
+                                  'MANDAKARNI', 'STHULASHIRA', 'AKAMPANA', 'YAYATI', 'AGASTYA_BROTHER',
+                                  'SHARABHANGA_DIVINE', 'MARICHA_YOUNG', 'RAVANA_DISGUISED', 'DUSHANA', 'TRISHIRA')}
 for _k, _v in EXTRA.items():
     BIBLE.setdefault(_k, {'lock': _v, 'stages': {}})
-ALIASES.update({'Manmadha': 'MANMATHA', 'Manmatha': 'MANMATHA', 'Kama': 'MANMATHA', 'Subahu': 'SUBAHU'})
-NO_MARK |= {'SHIVA', 'MANMATHA', 'SUNDA', 'SUKETU', 'VRITRASURA', 'SURABHI'}
+for _k in ('KHARA', 'DUSHANA', 'TRISHIRA'):   # the bible keeps the three brothers in one entry; give each his own look
+    BIBLE[_k] = {'lock': EXTRA[_k], 'stages': {}}
+ALIASES.update({'Manmadha': 'MANMATHA', 'Manmatha': 'MANMATHA', 'Kama': 'MANMATHA', 'Subahu': 'SUBAHU',
+                'Dushana': 'DUSHANA', 'Trishira': 'TRISHIRA', 'Garuda': 'GARUDA', 'Kashyapa': 'KASHYAPA'})
+NO_MARK |= {'SHIVA', 'MANMATHA', 'SUNDA', 'SUKETU', 'VRITRASURA', 'SURABHI', 'DHANU', 'ILVALA', 'VATAPI', 'GARUDA',
+            'KUBERA', 'TUMBURU', 'SHARABHANGA_DIVINE', 'MARICHA_YOUNG', 'RAVANA_DISGUISED'}
 WOMEN |= {'ANASUYA'}
-RAVANA_SIDE |= {'SUBAHU'}
+RAVANA_SIDE |= {'SUBAHU', 'AKAMPANA', 'DUSHANA', 'TRISHIRA'}
 
 # Places, one reference image each, so a location looks the same in every clip.
 # key: (words in a scene's location register, episodes it applies to (None = every episode), description)
@@ -199,6 +261,64 @@ PLACES = {
     'ATRI_ASHRAM': (('atri hermitage',), None,
         "Sage Atri's hermitage: an ancient, very peaceful ashram deep in the forest, weathered thatched huts under huge "
         "old trees, a small fire altar, flowering creepers, a clear pond with lotuses; soft golden, timeless light"),
+    # Aranya Kaanda (no location column either: data/3_Aranya_videos.txt PLACE lines point here)
+    'DANDAKA_ASHRAMS': (('dandaka hermitages',), None,
+        "The circle of sages' hermitages at the edge of the Dandaka forest: many thatched huts of mud and bamboo around "
+        "smoking fire altars, sacrificial ladles laid out, great flower garlands, bowls of curd and puffed rice, deer "
+        "skins on swept ground, tall old trees all round; serene, smoke-blue morning light"),
+    'DANDAKA_FOREST': (('dandaka forest',), None,
+        "The deep Dandaka forest: vast old-growth trees with hanging creepers, dim green light filtering down, a rough "
+        "earthen path, rocky clearings and thick undergrowth, birds and deer half-hidden; wild and thick but never "
+        "horror; forest-green and earth-brown"),
+    'SHARABHANGA_ASHRAM': (('sharabhanga hermitage',), None,
+        "Sage Sharabhanga's hermitage: a small, very old ashram of a few weathered thatched huts in a clearing, a "
+        "large sacred fire altar at its centre, ascetics at austerities under the trees, darbha grass everywhere, an "
+        "open sky above the clearing; still, luminous and solemn"),
+    'SUTIKSHNA_ASHRAM': (('sutikshna hermitage',), None,
+        "Sage Sutikshna's hermitage: a beautifully kept ashram among flowering trees, neat thatched huts, a swept "
+        "courtyard with a small fire altar and deer-skin seats, deer wandering at its edge; calm, green and sunlit"),
+    'PANCHAPSARA_LAKE': (('panchapsara lake',), None,
+        "The Panchapsara lake in the Dandaka forest: a wide, still, mysterious lake ringed by tall trees and reeds, "
+        "lotus leaves on the water, a soft glow rising from beneath its surface as if from a hidden palace; misty, "
+        "blue-green, quietly magical"),
+    'AGASTYA_BROTHER_ASHRAM': (('agastya brother hermitage',), None,
+        "The hermitage of Agastya's brother: a quiet ashram of a few thatched huts under huge old trees, a small fire "
+        "altar, a grove of trees beside it, seen at dusk with lamps lit in the huts; gentle and peaceful"),
+    'AGASTYA_ASHRAM': (('agastya hermitage',), None,
+        "Sage Agastya's great hermitage in a forest of pippala trees: wide inner courts with stone seats set out for "
+        "the gods, many fire altars, wet bark cloths drying on lines, garlands and sacred vessels, a small Shiva-linga "
+        "shrine; radiant golden light over everything; grand yet simple"),
+    'PANCHAVATI': (('panchavati',), None,
+        "Panchavati on the bank of the Godavari: a neat parnashala (leaf hut of bamboo poles, mud walls and a thatch of "
+        "shami wood and darbha) in a level clearing, a swept courtyard with a small fire altar, the wide rushing "
+        "Godavari just below with sandy banks and flat rocks, distant hills, jackfruit, mango and jamun trees, swans "
+        "on the water, deer and peacocks; fresh green and river-blue"),
+    'JANASTHANA_CAMP': (('janasthana camp',), None,
+        "Khara's war-camp at Janasthana: a rakshasa encampment in a scorched forest clearing, dark hide tents, black "
+        "and red banners, racks of spears, maces and iron clubs, smoking fires, a golden war-chariot; harsh, smoky, "
+        "dark-red and black"),
+    'LANKA_COURT': (('lanka court',), None,
+        "Ravana's royal court in Lanka: a vast hall of gold and dark stone with towering carved pillars, a high golden "
+        "throne on a stepped dais, ministers seated along both sides, gem-studded walls, burning brass lamps, deep red "
+        "and gold hangings; opulent, imposing, never Mughal"),
+    'LANKA_PALACE': (('lanka palace',), None,
+        "Ravana's inner palace in Lanka: gilded chambers with windows of diamond lattice, crystal and gold pillars, "
+        "silk-draped couches, step-wells and lotus pools in courtyards, terraces overlooking the golden city and the "
+        "sea, the Pushpaka vimana on a high terrace; dazzling gold, dark stone and jewel tones"),
+    'ASHOKA_VANA': (('ashoka grove',), None,
+        "The Ashoka grove in Lanka: a lush pleasure garden of flowering ashoka trees with red blossoms, marble paths, "
+        "lotus ponds and pavilions, high walls all round, rakshasi guards at its edges; beautiful but a prison; dusk "
+        "light, deep green and red"),
+    'MARICHA_ASHRAM': (('maricha hermitage',), None,
+        "Maricha's hermitage across the sea: a lonely, bare hut of bark and leaves under a great banyan tree, a spare "
+        "fire, a reed mat, a water-pot, a quiet shore of the sea beyond; austere, grey-green, melancholy"),
+    'KRAUNCHA_FOREST': (('krauncha forest',), None,
+        "The Krauncha forest: a dense, dim, menacing forest of tangled trees and dark undergrowth, a dark cave mouth "
+        "in a rocky bank, strange bird calls, very little light reaching the ground; tense and shadowy but not horror"),
+    'MATANGA_ASHRAM': (('matanga hermitage',), None,
+        "Sage Matanga's ancient hermitage near Pampa: a quiet, very old ashram of weathered huts, a fire altar still "
+        "glowing, flower garlands that never fade, bark garments hanging damp on vines, old trees and a stream; "
+        "timeless, golden, deeply peaceful"),
 }
 
 
@@ -260,7 +380,7 @@ def character(key, ep):
     if key in ('HANUMAN', 'SUGRIVA', 'VALI', 'TARA', 'ANGADA', 'NALA', 'NILA') and 'human-proportioned' not in lock:
         lock = f'{VANARA}; {lock}'
     mark = mark_for(key)
-    name = key.title()
+    name = key.replace('_', ' ').title()
     return f"{name}: {lock.rstrip(' .;')}" + (f"; {mark}" if mark else '')
 
 
