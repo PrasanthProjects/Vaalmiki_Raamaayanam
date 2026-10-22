@@ -219,6 +219,36 @@ EXTRA.update({   # Aranya Kaanda
                   "simple gold ornaments"),
     'RICHIKA': ("Sage Richika of the Bhrigu line, Satyavati's husband: a dignified sage of about fifty-five with a long "
                 "grey-black beard, matted top-knot, bark cloth and a deer skin, rudraksha beads"),
+    # Kishkindha Kaanda
+    'TARA': ("Tara, Vali's queen, daughter of Sushena: a vanara queen with a graceful, human-proportioned build and an "
+             "expressive, intelligent simian face, warm golden fur, royal jewellery (necklaces, armlets, a queen's "
+             "headpiece) and a fine silk garment properly draped; composed, wise and dignified"),
+    'RUMA': ("Ruma, Sugriva's wife: a gentle vanara woman with a graceful, human-proportioned build and a soft simian "
+             "face, light brown fur, a simple silk garment properly draped and modest gold ornaments; quiet and sorrowful "
+             "while held in Vali's palace, at ease after Sugriva is crowned"),
+    'HANUMAN_BHIKSHU': ("Hanuman disguised as a wandering mendicant (bhikshu): a young brahmin ascetic of about twenty "
+                        "in saffron robes, shaven head with a small tuft, sacred thread, a staff and a kamandalu; calm, "
+                        "bright, intelligent eyes and a faint golden glow that hints at who he really is"),
+    'RIKSHARAJAS': ("Riksharajas, the old vanara king, father of Vali and Sugriva: an aged, dignified vanara with grey "
+                    "fur, a heavy gold crown and royal silks, seated on a stone throne"),
+    'SUPARSHVA': ("Suparshva, Sampati's son: a strong young vulture with dark brown and golden plumage and broad "
+                  "wings, keen eyes"),
+    'HIMAVAN': ("Himavan, lord of the snow mountains: a majestic, serene mountain-king of about sixty with a white "
+                "beard, crowned with snow and pine, robes the colour of rock and ice; vast and calm"),
+    'NISHAKARA': ("Sage Nishakara of the Vindhya: a very old, radiant maharshi with a long white beard and matted white "
+                  "hair, bark cloth, rudraksha beads, a kamandalu; wild animals at peace around him"),
+    'KANDU': ("Sage Kandu: a fierce, gaunt elderly ascetic of great tapas, grey matted hair and beard, bark cloth; "
+              "grief and anger in his face"),
+    'SWAYAMPRABHA': ("Svayamprabha, the woman ascetic of the golden cave, daughter of Merusavarni: a radiant, serene "
+                     "woman of about forty in a black antelope skin over plain bark cloth, hair in a simple knot, "
+                     "glowing with the light of tapas; gentle and composed"),
+    'HEMA': ("Hema, the apsara: a graceful celestial woman of about twenty-five in shimmering silk properly draped, "
+             "gold and pearl ornaments, a soft divine glow"),
+    'MAYA_DANAVA': ("Maya, the danava architect: a tall, dark, powerful danava of about fifty with a short beard, "
+                    "a gold-trimmed robe and a craftsman's tools, intense creative eyes"),
+    'ANJANA': ("Anjana, Hanuman's mother: a beautiful vanara woman (once the apsara Punjikasthala) shown in her human "
+               "form, about twenty-five, in a yellow silk saree properly draped, flowers in her hair, modest gold "
+               "ornaments; a gentle, radiant face"),
 })
 # Looks added for the Aranya scripts are matched by name only from Aranya on, so the earlier kaandas' prompts
 # (where these names are passing mentions) stay exactly as they were planned.
@@ -228,6 +258,11 @@ FROM_EP = {_k: 'E3.01' for _k in ('DHANU', 'ILVALA', 'VATAPI', 'KASHYAPA', 'GARU
 # The Bala story-inset looks are given only by data CAST lines, never matched from a name in passing.
 FROM_EP.update({_k: 'E9.99' for _k in ('BALI', 'VAMANA', 'KUSHA_KING', 'KUSHANABHA', 'KUSHANABHA_DAUGHTERS', 'CHULI',
                                        'SOMADA', 'BRAHMADATTA', 'SATYAVATI', 'RICHIKA')})
+FROM_EP.update({_k: 'E4.01' for _k in ('RUMA', 'HANUMAN_BHIKSHU', 'RIKSHARAJAS', 'SUPARSHVA', 'HIMAVAN', 'NISHAKARA',
+                                       'KANDU', 'SWAYAMPRABHA', 'HEMA', 'MAYA_DANAVA', 'ANJANA')})
+BIBLE['TARA'] = {'lock': EXTRA['TARA'], 'stages': {}}   # the bible's entry starts mid-sentence
+ALIASES.update({'Svayamprabha': 'SWAYAMPRABHA', 'Suparshva': 'SUPARSHVA', 'Himavan': 'HIMAVAN', 'Nishakara': 'NISHAKARA',
+                'Riksharajas': 'RIKSHARAJAS', 'Kandu': 'KANDU', 'Hema': 'HEMA', 'Anjana': 'ANJANA', 'Ruma': 'RUMA'})
 for _k, _v in EXTRA.items():
     BIBLE.setdefault(_k, {'lock': _v, 'stages': {}})
 for _k in ('KHARA', 'DUSHANA', 'TRISHIRA'):   # the bible keeps the three brothers in one entry; give each his own look
@@ -236,7 +271,9 @@ ALIASES.update({'Manmadha': 'MANMATHA', 'Manmatha': 'MANMATHA', 'Kama': 'MANMATH
                 'Dushana': 'DUSHANA', 'Trishira': 'TRISHIRA', 'Garuda': 'GARUDA', 'Kashyapa': 'KASHYAPA'})
 NO_MARK |= {'SHIVA', 'MANMATHA', 'SUNDA', 'SUKETU', 'VRITRASURA', 'SURABHI', 'DHANU', 'ILVALA', 'VATAPI', 'GARUDA',
             'KUBERA', 'TUMBURU', 'SHARABHANGA_DIVINE', 'MARICHA_YOUNG', 'RAVANA_DISGUISED',
-            'AYODHYA_PEOPLE', 'BALI', 'VAMANA', 'VAYU', 'KUSHANABHA_DAUGHTERS', 'SOMADA'}   # (the last two carry their dot in the look)
+            'AYODHYA_PEOPLE', 'BALI', 'VAMANA', 'VAYU', 'KUSHANABHA_DAUGHTERS', 'SOMADA',   # (these two carry their dot in the look)
+            'DUNDUBHI', 'MAYAVI', 'SAMPATI', 'SUPARSHVA', 'HIMAVAN', 'SWAYAMPRABHA', 'HEMA', 'MAYA_DANAVA'}
+WOMEN |= {'RUMA', 'ANJANA'}
 WOMEN |= {'ANASUYA', 'SATYAVATI'}
 RAVANA_SIDE |= {'SUBAHU', 'AKAMPANA', 'DUSHANA', 'TRISHIRA'}
 
@@ -379,6 +416,33 @@ PLACES = {
         "Sage Matanga's ancient hermitage near Pampa: a quiet, very old ashram of weathered huts, a fire altar still "
         "glowing, flower garlands that never fade, bark garments hanging damp on vines, old trees and a stream; "
         "timeless, golden, deeply peaceful"),
+    # Kishkindha Kaanda (its scripts have no location column: data/4_Kishkindha_videos.txt PLACE lines point here)
+    'PAMPA_LAKE': (('pampa lake',), None,
+        "Lake Pampa in spring: a wide, clear lake full of blue and red lotuses, banks of flowering ashoka, champaka and "
+        "kimshuka trees, cuckoos, peacocks and bees, petals drifting on the water, the slopes of Rishyamuka rising "
+        "beyond; lush, fragrant and vivid"),
+    'RISHYAMUKA': (('rishyamuka',), None,
+        "Mount Rishyamuka above Lake Pampa: a green mountain of great boulders, caves and banyan trees, flat rock "
+        "ledges on its summit looking far over the forest; wild, rugged and safe"),
+    'KISHKINDHA_GATE': (('kishkindha gate',), None,
+        "The gate of Kishkindha: a great cave-city entrance carved into forested hills, a broad stone gateway hung "
+        "with flags and garlands, open rocky ground before it where duels are fought, ridges and trees all around"),
+    'KISHKINDHA_PALACE': (('kishkindha palace',), None,
+        "Kishkindha's cave-palace: vast halls inside the mountain, carved stone pillars, shafts of sunlight from high "
+        "openings, jewelled thrones, silk hangings, flower garlands and lamps, the vanara court; rich, golden and warm"),
+    'PRASRAVANA_CAVE': (('prasravana cave',), None,
+        "Mount Prasravana near Kishkindha: a spacious cave on a green mountain, a stone ledge outside looking over "
+        "forests and a river, waterfalls in the rains, a clear sky and bright moon in autumn; quiet and lonely"),
+    'VINDHYA_FOREST': (('vindhya forest',), None,
+        "The Vindhya mountains: dense forests, deep ravines and rocky peaks, flowering trees in spring and dry, "
+        "harsh stretches in between; vast and wild"),
+    'SWAYAMPRABHA_CAVE': (('svayamprabha cave',), None,
+        "The hidden cave Rikshabila: a dark cave-mouth covered with creepers opening into a radiant secret world of "
+        "golden trees heavy with fruit, lakes of golden lotuses, mansions of gold and silver storeys and jewelled "
+        "seats; dreamlike golden light"),
+    'MAHENDRA_SHORE': (('mahendra shore',), None,
+        "The southern shore below Mount Mahendra: the vast blue ocean to the horizon, white sand and dark rocks, the "
+        "great forested Mahendra mountain rising from the shore; wind, waves and open sky"),
 }
 
 

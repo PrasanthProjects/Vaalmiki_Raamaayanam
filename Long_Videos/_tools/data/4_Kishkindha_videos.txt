@@ -1,0 +1,154 @@
+# Kishkindha Kaanda: 29 episodes -> videos of 10-12 minutes (same rules as 3_Aranya_videos.txt)
+
+# Slokas kept on screen, each with its meaning card
+KEEP E4.01 23
+CARD E4.01 23 | ఉత్సాహమే గొప్ప బలం. ఉత్సాహం కన్నా గొప్ప బలం లేదు. ఉత్సాహం ఉన్నవాడికి ఈ లోకంలో సాధించలేనిది ఏదీ లేదు.
+KEEP E4.05 5
+CARD E4.05 5 | ఈ కేయూరాలు నాకు తెలియవు, ఈ కుండలాలు నాకు తెలియవు. రోజూ పాదాలకు నమస్కరించేవాడిని కాబట్టి ఈ అందెలు మాత్రం వదినవే అని గుర్తుపట్టగలను.
+KEEP E4.18 8
+CARD E4.18 8 | బ్రహ్మహత్య చేసినవాడికి, తాగుబోతుకు, దొంగకు, వ్రతం మధ్యలో వదిలేసినవాడికి కూడా పెద్దలు ప్రాయశ్చిత్తం చెప్పారు. కానీ చేసిన మేలు మరిచిపోయిన కృతఘ్నుడికి మాత్రం ఏ ప్రాయశ్చిత్తమూ లేదు.
+
+TONE E4.01 | sad
+TONE E4.02 | curious
+TONE E4.03 | warm
+TONE E4.04 | warm
+TONE E4.05 | sad
+TONE E4.06 | serious
+TONE E4.07 | awe
+TONE E4.08 | awe
+TONE E4.09 | serious
+TONE E4.10 | tense
+TONE E4.11 | serious
+TONE E4.12 | sad
+TONE E4.13 | sad
+TONE E4.14 | calm
+TONE E4.15 | serious
+TONE E4.16 | tense
+TONE E4.17 | calm
+TONE E4.18 | serious
+TONE E4.19 | awe
+TONE E4.20 | curious
+TONE E4.21 | warm
+TONE E4.22 | curious
+TONE E4.23 | awe
+TONE E4.24 | serious
+TONE E4.25 | sad
+TONE E4.26 | awe
+TONE E4.27 | awe
+TONE E4.28 | warm
+TONE E4.29 | awe
+TONE E4.06 19 | serious
+TONE E4.14 7 | calm
+TONE E4.21 20 | warm
+
+# Videos that start inside an episode: their own hook, a short "so far", and the teaser that ends the video before
+SPLIT E4.06 19 | FROM: 31 | HOOK: ఏడాది పాటు చీకటి గుహలో యుద్ధం. బయటకు రావాలంటే ద్వారం దగ్గర ఒక పెద్ద బండరాయి. ఆ రాయిని తోసుకుని బయటకు వచ్చిన అన్న కళ్ళలో పగ మాత్రమే ఉంది. | RECAP: ఇంతవరకు: మాయావిని తరుముతూ వాలి గుహలోకి వెళ్ళాడు. ఏడాది తరువాత అన్న చనిపోయాడనుకుని సుగ్రీవుడు గుహను మూసేసి, మంత్రుల బలవంతంతో రాజయ్యాడు. | TEASE: సింహాసనం మీద తమ్ముడు. అప్పుడు నగర ద్వారంలో ఎవరు నిలబడ్డారు? తరువాతి వీడియోలో చూద్దాం.
+SPLIT E4.14 7 | FROM: 13 | HOOK: కిష్కింధలో పట్టాభిషేక సంబరాలు. కొండ గుహలో రాముడు ఒంటరిగా వర్షాన్ని చూస్తున్నాడు. ఆ మేఘాలను చూస్తే ఆయనకు ఏం గుర్తొచ్చింది? | RECAP: ఇంతవరకు: వాలి అంత్యక్రియలు అయ్యాక నగరంలోకి రమ్మని హనుమంతుడు పిలిచాడు. వనవాస నియమం వల్ల రాముడు రాలేదు, వర్షాకాలం తరువాత సీతాన్వేషణ మొదలుపెడదాం అన్నాడు. | TEASE: ఇప్పుడు కిష్కింధలో ఒక పెద్ద వేడుక జరగబోతోంది. తరువాతి వీడియోలో చూద్దాం.
+SPLIT E4.21 20 | FROM: 32 | HOOK: కోట్ల వానరాలు ఉన్నా, రాముడు తన ఉంగరాన్ని ఒక్కడి చేతిలోనే పెట్టాడు. ఆ ఒక్కడు ఎవరో, ఎందుకో తెలుసా? | RECAP: ఇంతవరకు: సుగ్రీవుడు తూర్పు, దక్షిణ, పడమర దిక్కులకు వానర బృందాలను పంపాడు. శతబలి బృందాన్ని ఉత్తర దిక్కుకు పంపుతూ, అక్కడి పర్వతాలు, నదుల గురించి చెబుతున్నాడు. | TEASE: ఉత్తరాన ఒక పుణ్యభూమి ఉంది, అక్కడ బాధే ఉండదు. తరువాతి వీడియోలో చూద్దాం.
+
+# Re-hooks whose picture must come from the part that is in the same video
+REHOOK E4.14 4 | రాజభవనంలో రత్నాలు, సత్కారాలు ఎదురుచూస్తున్నాయి. కానీ రాముడు నగరంలోకి అడుగుపెట్టలేదు. ఎందుకు?
+REHOOK E4.21 5 | పడమర సముద్రంలో రెక్కలున్న సింహాలు, వెయ్యి అంచుల చక్రం దాగిన పర్వతం. సుగ్రీవుడు చెప్పిన ఈ వింతలు ఎక్కడ ఉన్నాయి?
+
+# One welcome line at the start of every video
+WELCOME E4.01 | నమస్కారం. ఈ రోజు నుండి శ్రీమద్రామాయణం కిష్కింధకాండ. పంపా తీరంలో రాముడి వేదన, హనుమంతుడితో మొదటి కలయిక.
+WELCOME E4.04 | నమస్కారం. శ్రీమద్రామాయణం కిష్కింధకాండలో ఈ రోజు అగ్నిసాక్షిగా రామ-సుగ్రీవుల స్నేహం, సీతమ్మ నగలు, వాలి-సుగ్రీవుల వైరం మొదలు.
+WELCOME E4.06 19 | నమస్కారం. శ్రీమద్రామాయణం కిష్కింధకాండలో ఈ రోజు గుహ నుండి తిరిగొచ్చిన వాలి, దుందుభి కథ, వాలి బలం.
+WELCOME E4.08 | నమస్కారం. శ్రీమద్రామాయణం కిష్కింధకాండలో ఈ రోజు రాముడి పరీక్ష, ఏడు సాల వృక్షాలు, వాలితో మొదటి యుద్ధం, తార హితవు.
+WELCOME E4.10 | నమస్కారం. శ్రీమద్రామాయణం కిష్కింధకాండలో ఈ రోజు వాలి వధ, వాలి అడిగిన ప్రశ్నలు, రాముడి సమాధానం.
+WELCOME E4.12 | నమస్కారం. శ్రీమద్రామాయణం కిష్కింధకాండలో ఈ రోజు వాలి చివరి మాటలు, తార విలాపం, సుగ్రీవుడి పశ్చాత్తాపం.
+WELCOME E4.14 7 | నమస్కారం. శ్రీమద్రామాయణం కిష్కింధకాండలో ఈ రోజు సుగ్రీవ పట్టాభిషేకం, వర్షాకాలం, మాట మరిచిన సుగ్రీవుడు.
+WELCOME E4.16 | నమస్కారం. శ్రీమద్రామాయణం కిష్కింధకాండలో ఈ రోజు కిష్కింధ ద్వారం వద్ద లక్ష్మణుడి ఆగ్రహం, తార సమాధానం.
+WELCOME E4.18 | నమస్కారం. శ్రీమద్రామాయణం కిష్కింధకాండలో ఈ రోజు లక్ష్మణుడి మందలింపు, సుగ్రీవుడి క్షమాపణ, కోట్ల వానర సైన్యం.
+WELCOME E4.20 | నమస్కారం. శ్రీమద్రామాయణం కిష్కింధకాండలో ఈ రోజు సుగ్రీవుడు చెప్పిన భూమండలం, నాలుగు దిక్కులకు వానర బృందాలు.
+WELCOME E4.21 20 | నమస్కారం. శ్రీమద్రామాయణం కిష్కింధకాండలో ఈ రోజు రాముడి ఉంగరం, సీతాన్వేషణ మొదలు, స్వయంప్రభ గుహ.
+WELCOME E4.24 | నమస్కారం. శ్రీమద్రామాయణం కిష్కింధకాండలో ఈ రోజు అంగదుడి నిరాశ, జటాయువు అన్న సంపాతి, సీతమ్మ జాడ.
+WELCOME E4.27 | నమస్కారం. శ్రీమద్రామాయణం కిష్కింధకాండలో ఈ రోజు సంపాతికి మళ్ళీ రెక్కలు, జాంబవంతుడి ప్రేరణ, హనుమంతుడి విశ్వరూపం.
+
+# Where each video starts (pinned, so that a narration fix never re-cuts the kaanda; edit this line to re-cut).
+CUTS | E4.01, E4.04, E4.06 19, E4.08, E4.10, E4.12, E4.14 7, E4.16, E4.18, E4.20, E4.21 20, E4.24, E4.27
+
+# Where each scene happens (memory insets and painted maps are left out)
+PLACE E4.01 2-27 | PAMPA_LAKE
+PLACE E4.02 2-14,16 | RISHYAMUKA
+PLACE E4.02 17-25 | PAMPA_LAKE
+PLACE E4.03 2-13 | PAMPA_LAKE
+PLACE E4.03 14 | RISHYAMUKA
+PLACE E4.04 2-19,21-22,24 | RISHYAMUKA
+PLACE E4.05 2-16 | RISHYAMUKA
+PLACE E4.06 2-3,35 | RISHYAMUKA
+PLACE E4.06 8-9 | KISHKINDHA_GATE
+PLACE E4.06 19-20,23-28 | KISHKINDHA_PALACE
+PLACE E4.07 1-3,8,30-35 | RISHYAMUKA
+PLACE E4.07 18-22 | KISHKINDHA_GATE
+PLACE E4.07 25-28 | MATANGA_ASHRAM
+PLACE E4.08 1-18 | RISHYAMUKA
+PLACE E4.08 21-26 | KISHKINDHA_GATE
+PLACE E4.09 2-11 | RISHYAMUKA
+PLACE E4.09 19 | KISHKINDHA_GATE
+PLACE E4.09 20-28 | KISHKINDHA_PALACE
+PLACE E4.10 2 | KISHKINDHA_PALACE
+PLACE E4.10 3-14,16-18,20 | KISHKINDHA_GATE
+PLACE E4.11 1-4,6-8,17-19,22-26,28-32 | KISHKINDHA_GATE
+PLACE E4.12 1-8,12-22 | KISHKINDHA_GATE
+PLACE E4.12 9-11 | KISHKINDHA_PALACE
+PLACE E4.13 1-2,5-9,11-12,14-19 | KISHKINDHA_GATE
+PLACE E4.14 7 | KISHKINDHA_PALACE
+PLACE E4.14 9-23 | PRASRAVANA_CAVE
+PLACE E4.15 2-14 | KISHKINDHA_PALACE
+PLACE E4.15 15-34 | PRASRAVANA_CAVE
+PLACE E4.16 1-3 | PRASRAVANA_CAVE
+PLACE E4.16 7,9-12,24,32-36 | KISHKINDHA_GATE
+PLACE E4.16 8,13-23,25-31 | KISHKINDHA_PALACE
+PLACE E4.17 1-17,19-23 | KISHKINDHA_PALACE
+PLACE E4.18 1-14,16-17,20-27 | KISHKINDHA_PALACE
+PLACE E4.19 2-5 | KISHKINDHA_PALACE
+PLACE E4.19 6-23 | PRASRAVANA_CAVE
+PLACE E4.20 1-2,21 | PRASRAVANA_CAVE
+PLACE E4.21 1-2,14,27-32 | PRASRAVANA_CAVE
+PLACE E4.22 2-9 | PRASRAVANA_CAVE
+PLACE E4.22 11-19 | VINDHYA_FOREST
+PLACE E4.22 20-24 | SWAYAMPRABHA_CAVE
+PLACE E4.23 1-3,7-15 | SWAYAMPRABHA_CAVE
+PLACE E4.23 16-17 | VINDHYA_FOREST
+PLACE E4.24 1-12,15-20 | VINDHYA_FOREST
+PLACE E4.25 1-12,16-17,19 | VINDHYA_FOREST
+PLACE E4.25 18 | MAHENDRA_SHORE
+PLACE E4.26 1-4,7,10-13,20 | VINDHYA_FOREST
+PLACE E4.27 1,17-18 | VINDHYA_FOREST
+PLACE E4.28 2-8,18-20 | MAHENDRA_SHORE
+PLACE E4.29 1-7,12-16 | MAHENDRA_SHORE
+
+# Hanuman in his mendicant disguise (E4.02 scene 16 to E4.04 scene 9)
+CAST E4.02 16 | HANUMAN_BHIKSHU
+CAST E4.02 17-24 | HANUMAN_BHIKSHU, RAMA, LAKSHMANA
+CAST E4.02 25 | HANUMAN, RAMA, LAKSHMANA
+CAST E4.04 2 | HANUMAN_BHIKSHU, RAMA, LAKSHMANA
+CAST E4.04 4-9 | HANUMAN_BHIKSHU, RAMA, LAKSHMANA, SUGRIVA
+CAST E4.01 3 | RAMA, LAKSHMANA
+CAST E4.02 1 | RAMA, LAKSHMANA
+CAST E4.02 2 | SUGRIVA, RAMA, LAKSHMANA
+CAST E4.02 5 | HANUMAN, SUGRIVA
+CAST E4.03 13-14 | HANUMAN, RAMA, LAKSHMANA
+CAST E4.04 1 | HANUMAN, RAMA, LAKSHMANA
+CAST E4.06 11 | MAYAVI, VALI, SUGRIVA
+CAST E4.08 3 | SUGRIVA, RAMA
+CAST E4.08 12 | SUGRIVA, RAMA
+CAST E4.08 15 | RAMA
+CAST E4.08 22 | VALI, SUGRIVA
+CAST E4.08 24 | VALI, SUGRIVA
+CAST E4.09 4 | SUGRIVA, RAMA
+CAST E4.09 6 | RAMA, VALI, SUGRIVA
+CAST E4.09 12 | RAMA, LAKSHMANA, SUGRIVA, HANUMAN
+CAST E4.12 13 | TARA, ANGADA, VALI
+CAST E4.12 15 | VALI, SUGRIVA
+CAST E4.12 18 | SUGRIVA, ANGADA
+CAST E4.16 7 | LAKSHMANA
+CAST E4.16 35 | LAKSHMANA
+CAST E4.18 13 | TARA, LAKSHMANA, SUGRIVA
+CAST E4.19 8 | RAMA, SUGRIVA
+CAST E4.21 32 | HANUMAN, RAMA
+CAST E4.25 2 | ANGADA, HANUMAN, JAMBAVANTHA
+CAST E4.25 19 | SAMPATI, ANGADA
+CAST E4.28 20 | JAMBAVANTHA, HANUMAN
+CAST E4.29 14 | HANUMAN
