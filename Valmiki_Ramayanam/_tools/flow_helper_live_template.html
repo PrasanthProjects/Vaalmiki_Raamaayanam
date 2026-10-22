@@ -255,6 +255,31 @@ h1 mark { background: none; color: var(--saffron); }
   }
 
   // ---------- panels ----------
+  // every reference image this śloka's clips and thumbnail use: characters, crowds, objects and places together
+  function slokaRefs(s) {
+    const keys = []; const where = {};
+    s.clips.forEach((c) => c.refs.forEach((r) => { if (!where[r]) { where[r] = []; keys.push(r); } where[r].push(c.no); }));
+    (s.thumbRefs || []).forEach((r) => { if (!where[r]) { where[r] = []; keys.push(r); } where[r].push('థంబ్‌నెయిల్'); });
+    const er = entry('refs'); const have = keys.filter((k) => er[k]).length;
+    const box = el('details', 'dlg refbox'); box.open = have < keys.length;
+    box.append(el('summary', '', '📎 ఈ శ్లోకానికి రిఫరెన్స్ ఇమేజ్‌లు (' + keys.length + ') · ఆమోదించినవి ' + have + ' / ' + keys.length));
+    if (!keys.length) { box.append(el('p', 'note', 'ఈ శ్లోకానికి రిఫరెన్స్ ఇమేజ్‌లు అవసరం లేదు.')); return box; }
+    box.append(el('p', 'note', 'పాత్రలు, గుంపులు, వస్తువులు, ప్రదేశాలు – ఈ శ్లోకం క్లిప్‌లకు కావలసినవన్నీ ఇక్కడే. ఇంతకు ముందు చేసిన ఇమేజ్ ఉంటే అదే వాడండి; లేనివాటికి ప్రాంప్ట్ కాపీ చేసి ఇమేజ్ చేయండి.'));
+    const list = el('div', 'cards');
+    keys.forEach((k) => {
+      const r = D.refs.find((x) => x.key === k);
+      const card = el('article', 'card' + (er[k] ? ' done' : ''));
+      const head = el('div', 'head'); head.append(el('span', 'no', k + '.png'));
+      if (r && r.label) head.append(el('span', 'label', r.label));
+      head.append(el('span', 'time', 'క్లిప్ ' + where[k].join(', ')));
+      const lab = el('label', 'check'); const cb = el('input'); cb.type = 'checkbox'; cb.id = 'sr-' + s.n + '-' + k; cb.checked = !!er[k];
+      cb.addEventListener('change', () => { er[k] = cb.checked; persist('refs'); render(); });
+      lab.append(cb, document.createTextNode('ఆమోదించాను')); head.append(lab); card.append(head);
+      if (r) card.append(promptBox(r.prompt, 'ఇమేజ్ ప్రాంప్ట్ కాపీ'));
+      list.append(card);
+    });
+    box.append(list); return box;
+  }
   function renderClips(s) {
     const p = $('panel');
     const sl = el('div', 'sloka'); s.sloka.forEach((l) => sl.append(el('p', '', l)));
@@ -263,6 +288,7 @@ h1 mark { background: none; color: var(--saffron); }
     p.append(speakerBox(s));
     const dt = el('details', 'dlg'); const sm = el('summary', '', '🎙 ఈ షార్ట్ పూర్తి డైలాగ్ (నెరేషన్) – చూడండి / కాపీ చేయండి');
     dt.append(sm, dialogBox(s, false)); p.append(dt);
+    p.append(slokaRefs(s));
     const f = el('div', 'filters'); f.append(el('span', '', 'చూపించు:'));
     [['all', 'అన్నీ'], ['video', 'వీడియో'], ['image', 'ఇమేజ్'], ['todo', 'మిగిలినవి']].forEach(([k, t]) => {
       const c = el('button', 'chip', t); c.setAttribute('aria-pressed', filter === k ? 'true' : 'false');

@@ -130,4 +130,5 @@ def thumb(keys, frame, light):
 def library(keys=None):
     """The reference list a helper page shows: only the images its clips use (all of them when keys is None)."""
     return [{'key': k, 'prompt': v['refprompt'], 'face': v.get('face') or '', 'label': v['te'], 'group': v['group'],
-             'look': v['look']} for k, v in LIB.items() if keys is None or k in keys]
+             **({'look': v['look']} if v['kind'] == 'place' else {})}   # the page shows a look only for places
+            for k, v in LIB.items() if keys is None or k in keys]

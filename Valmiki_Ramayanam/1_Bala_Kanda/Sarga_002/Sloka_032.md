@@ -127,6 +127,18 @@ Vertical 9:16 cinematic still image, 1080x1920, main subject in the centre safe 
 Vertical 9:16 cinematic still image, 1080x1920, main subject in the centre safe area. Very high quality: ultra-detailed, sharp and clean 4K-quality render, rich colour depth, film-quality lighting, no blur, no noise, no artefacts. Use the attached reference image as the exact look of the character (NARADA.png = Sage Narada (Devarshi Narada)): match the face, skin colour, hair, clothing and ornaments exactly as in the reference (hand-held objects only as this scene describes), keep the same art style, and do not redesign it. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, every character with a clearly individual face (different face shape, eyes, nose, age and build) so that no two characters ever share the same face, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture; forest and ashram settings are lush, green and serene with flowering trees, clear rivers and streams, deer, peacocks and birds (darker only where the scene says so); volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters: Sage Narada (Devarshi Narada) in traditional iconography: radiant youthful celestial sage about twenty-five years old, clean-shaven, black hair tied in a tall hair-knot (shikha) wound with a small white flower garland, white-and-saffron silk robes with a tulasi mala, always holding his golden veena (Mahati), often floating gently in the air, white Vishnu namam with a red centre line on the forehead, distinctive face: smooth youthful oval face of about twenty-five, no beard and no moustache, bright wide almond eyes with a playful twinkle, gentle cheerful smile, fair glowing skin, slim light build. Scene: Memory: Narada narrating with his veena. Lighting and atmosphere: Soft memory glow, soft flash. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, logos or watermarks.
 ```
 
+### ఈ శ్లోకానికి రిఫరెన్స్ ఇమేజ్‌లు
+
+పాత్రలు, గుంపులు, వస్తువులు, ప్రదేశాలు – అన్నీ. ఇమేజ్ ప్రాంప్ట్‌లు: [00_REFERENCES.md](00_REFERENCES.md).
+
+| ఇమేజ్ | ఏమిటి | ఏ క్లిప్‌లలో |
+|---|---|---|
+| `BRAHMA.png` | బ్రహ్మదేవుడు | 1, 2, 3, థంబ్‌నెయిల్ |
+| `VALMIKI.png` | వాల్మీకి మహర్షి | 1, 2, 5, 6, థంబ్‌నెయిల్ |
+| `TAMASA_ASHRAM.png` | వాల్మీకి ఆశ్రమం – తమసా నది ఒడ్డు | 1, 3, 5, 6 |
+| `RAMA_PRINCE.png` | శ్రీరాముడు – అయోధ్య యువరాజు (25 ఏళ్లు) | 2, 4 |
+| `NARADA.png` | నారద మహర్షి | 7 |
+
 ## 6. థంబ్‌నెయిల్ (1080×1920)
 
 | భాగం | టెక్స్ట్ | రూపం |

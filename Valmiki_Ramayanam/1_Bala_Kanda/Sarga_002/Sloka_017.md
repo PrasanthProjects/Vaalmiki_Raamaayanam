@@ -128,6 +128,16 @@ Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. V
 Vertical 9:16 cinematic still image, 1080x1920, main subject in the centre safe area. Very high quality: ultra-detailed, sharp and clean 4K-quality render, rich colour depth, film-quality lighting, no blur, no noise, no artefacts. Use the attached reference image as the exact look of the place (TAMASA_ASHRAM.png = Valmiki's ashram on the Tamasa river (location)): match its architecture, landscape, colours and layout exactly, keep the same art style, and do not redesign it. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, every character with a clearly individual face (different face shape, eyes, nose, age and build) so that no two characters ever share the same face, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture; forest and ashram settings are lush, green and serene with flowering trees, clear rivers and streams, deer, peacocks and birds (darker only where the scene says so); volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Location (match the attached place reference TAMASA_ASHRAM.png): Valmiki's ashram on the bank of the Tamasa river: a clear, shallow, sparkling river with smooth stones and a flat rock on the bank; a few small thatched huts of bamboo and palm leaves with mud-plastered walls and neatly swept courtyards; a small sacred fire altar; a large flowering kadamba tree shading the courtyard; deer, peacocks and birds; lush green forest all around; peaceful and serene. Scene: Four lines of golden light glowing in the air above the river. Lighting and atmosphere: Golden flash. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, logos or watermarks.
 ```
 
+### ఈ శ్లోకానికి రిఫరెన్స్ ఇమేజ్‌లు
+
+పాత్రలు, గుంపులు, వస్తువులు, ప్రదేశాలు – అన్నీ. ఇమేజ్ ప్రాంప్ట్‌లు: [00_REFERENCES.md](00_REFERENCES.md).
+
+| ఇమేజ్ | ఏమిటి | ఏ క్లిప్‌లలో |
+|---|---|---|
+| `VALMIKI.png` | వాల్మీకి మహర్షి | 1, 2, 3, 4, 5, 6, థంబ్‌నెయిల్ |
+| `TAMASA_ASHRAM.png` | వాల్మీకి ఆశ్రమం – తమసా నది ఒడ్డు | 1, 2, 3, 4, 5, 6, 7 |
+| `VALMIKI_SHISHYA.png` | భరద్వాజుడు – వాల్మీకి శిష్యుడు (సర్గ 2) | 2, 4 |
+
 ## 6. థంబ్‌నెయిల్ (1080×1920)
 
 | భాగం | టెక్స్ట్ | రూపం |

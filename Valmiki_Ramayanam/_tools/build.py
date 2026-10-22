@@ -386,6 +386,22 @@ def ref_prompt(desc):
 
 # ---------- Flow helper page ----------
 
+def sloka_refs_md(clips, texts):
+    """The reference images one Short needs (clips and thumbnail), with the clips that use each."""
+    where = {}
+    for c in clip_cards(clips, texts):
+        for r in c['refs']:
+            where.setdefault(r, []).append(str(c['no']))
+    for r in thumb_prompt(clips)[1]:
+        where.setdefault(r, []).append('థంబ్‌నెయిల్')
+    if not where:
+        return ''
+    rows = '\n'.join(f"| `{k}.png` | {LS.LIB[k]['te']} | {', '.join(v)} |" for k, v in where.items())
+    return ("### ఈ శ్లోకానికి రిఫరెన్స్ ఇమేజ్‌లు\n\n"
+            "పాత్రలు, గుంపులు, వస్తువులు, ప్రదేశాలు – అన్నీ. ఇమేజ్ ప్రాంప్ట్‌లు: [00_REFERENCES.md](00_REFERENCES.md).\n\n"
+            f"| ఇమేజ్ | ఏమిటి | ఏ క్లిప్‌లలో |\n|---|---|---|\n{rows}\n")
+
+
 def used_refs(slokas):
     """Every reference image a sarga's clips and thumbnails use."""
     return {k for s in slokas for k in s['thumbRefs'] + [r for c in s['clips'] for r in c['refs']]}
@@ -484,6 +500,7 @@ def main(kanda_dir, sarga):
               f"## 3. తాత్పర్యం\n\n{tt}\n\n"
               + narration_md(f, ls) + '\n'
               + flow_md(flow[n], texts) + '\n'
+              + (sloka_refs_md(flow[n], texts) + '\n' if LIVE else '')
               + thumb_md(thumbs[n], flow[n], kanda_te, sarga, n) + '\n'
               + upload_md(title, ls, tt, pinned[n], kanda_te, sarga, n, name + '.srt'))
         open(os.path.join(out_dir, name + '.md'), 'w', encoding='utf-8', newline='\n').write(md)
