@@ -1,0 +1,151 @@
+<title>రామాయణ పేజీల సూచిక</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ramabhadra&family=Noto+Sans+Telugu:wght@400;600;700&family=IBM+Plex+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: one column of kaanda sections; each sarga is a numbered tile in a dense grid, ready ones are links. */
+:root {
+  --bg: #F4F2EC; --surface: #FFFFFF; --sunk: #E9E5DA; --ink: #22201B; --muted: #6A6458; --line: #DCD6C8;
+  --saffron: #B4510F; --saffron-soft: #F8E3D2; --ready: #2E6B47; --ready-soft: #DCEFE2;
+  --display: "Ramabhadra", "Noto Sans Telugu", "Nirmala UI", sans-serif;
+  --body: "Noto Sans Telugu", "Nirmala UI", "Gautami", system-ui, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "Cascadia Mono", Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #16140F; --surface: #201D17; --sunk: #2A261E; --ink: #EEE8DA; --muted: #A9A190; --line: #3A352B;
+  --saffron: #F0904A; --saffron-soft: #3B2617; --ready: #79CC98; --ready-soft: #1C3324; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #16140F; --surface: #201D17; --sunk: #2A261E; --ink: #EEE8DA; --muted: #A9A190; --line: #3A352B;
+  --saffron: #F0904A; --saffron-soft: #3B2617; --ready: #79CC98; --ready-soft: #1C3324; color-scheme: dark }
+*, *::before, *::after { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.6 var(--body); }
+.wrap { max-width: 980px; margin: 0 auto; padding-block: 28px 56px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: grid; gap: 28px; }
+h1 { font-family: var(--display); font-weight: 400; font-size: clamp(26px, 5vw, 38px); line-height: 1.2; margin: 0; text-wrap: balance; }
+.lede { margin: 6px 0 0; color: var(--muted); max-width: 62ch; }
+.jump { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; background: var(--surface); border: 1px solid var(--line);
+  border-radius: 12px; padding: 12px 14px; }
+.jump label { font-weight: 600; }
+.jump select, .jump input { font: inherit; color: inherit; background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 7px 10px; }
+.jump input { width: 6.5em; font-family: var(--mono); }
+.jump button { font: inherit; font-weight: 700; border: 0; border-radius: 8px; padding: 8px 18px; background: var(--saffron); color: var(--surface); cursor: pointer; }
+.jump .msg { color: var(--muted); font-size: 14px; flex-basis: 100%; min-height: 1.4em; }
+:focus-visible { outline: 2px solid var(--saffron); outline-offset: 2px; }
+.last { font-size: 14px; color: var(--muted); }
+.last a { color: var(--saffron); font-weight: 600; }
+section { display: grid; gap: 10px; }
+.khead { display: flex; flex-wrap: wrap; gap: 4px 14px; align-items: baseline; border-bottom: 1px solid var(--line); padding-bottom: 6px; }
+.khead h2 { font-family: var(--display); font-weight: 400; font-size: 24px; margin: 0; }
+.khead .count { font-family: var(--mono); font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.khead .count b { color: var(--ready); }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(46px, 1fr)); gap: 6px; }
+.tile { display: grid; place-items: center; height: 40px; border-radius: 8px; font-family: var(--mono); font-size: 14px;
+  font-variant-numeric: tabular-nums; text-decoration: none; }
+a.tile { background: var(--ready-soft); color: var(--ready); font-weight: 600; border: 1px solid var(--ready); }
+a.tile:hover { background: var(--ready); color: var(--surface); }
+span.tile { background: var(--sunk); color: var(--muted); border: 1px solid transparent; }
+.legend { display: flex; gap: 16px; flex-wrap: wrap; font-size: 13px; color: var(--muted); }
+.legend i { display: inline-block; width: 14px; height: 14px; border-radius: 4px; vertical-align: -2px; margin-right: 6px; }
+.legend .r { background: var(--ready-soft); border: 1px solid var(--ready); }
+.legend .n { background: var(--sunk); }
+.long { display: grid; gap: 8px; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); }
+.long a { display: grid; gap: 2px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px;
+  text-decoration: none; color: var(--ink); }
+.long a:hover { border-color: var(--saffron); }
+.long .soon { display: grid; gap: 2px; background: var(--sunk); border: 1px dashed var(--line); border-radius: 10px; padding: 12px 14px; color: var(--muted); }
+.long .soon b { color: var(--muted); }
+.part h2 { font-size: 28px; color: var(--saffron); }
+.long b { font-family: var(--display); font-weight: 400; font-size: 19px; }
+.long span { color: var(--muted); font-size: 13px; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>శ్రీమద్వాల్మీకి రామాయణం – పేజీల సూచిక</h1>
+    <p class="lede">మన ఛానల్ పేజీలన్నీ ఒకే చోట: కాండ వారీ లాంగ్ వీడియోలు, సర్గ వారీ Shorts (ప్రతి శ్లోకానికి ఒక Short – క్లిప్ ప్రాంప్ట్‌లు, డైలాగ్, థంబ్‌నెయిల్, అప్‌లోడ్). ఆకుపచ్చ నంబర్ నొక్కితే ఆ సర్గ పేజీ తెరుచుకుంటుంది.</p>
+  </header>
+
+  <div class="jump">
+    <label for="kanda">సర్గకు వెళ్ళండి</label>
+    <select id="kanda" aria-label="కాండ"></select>
+    <input id="sarga" type="number" min="1" inputmode="numeric" aria-label="సర్గ సంఖ్య" placeholder="సర్గ">
+    <button id="go" type="button">తెరవండి</button>
+    <div class="msg" id="msg" role="status" aria-live="polite"></div>
+  </div>
+  <div class="last" id="last" hidden></div>
+
+  <section>
+    <div class="khead part"><h2>లాంగ్ వీడియోలు</h2><span class="count">10–12 నిమిషాలు · కాండ వారీగా</span></div>
+    <div class="long" id="long"></div>
+  </section>
+
+  <div class="khead part"><h2>Shorts – శ్లోకం శ్లోకంగా</h2><span class="count">ఒక్కో సర్గకు ఒక పేజీ</span></div>
+  <div class="legend"><span><i class="r"></i>తయారైంది – నొక్కండి</span><span><i class="n"></i>ఇంకా తయారు కాలేదు</span></div>
+  <div id="kandas" style="display:grid;gap:28px"></div>
+
+  <section>
+    <div class="khead part"><h2>ఇతర పేజీలు</h2></div>
+    <div class="long" id="other"></div>
+  </section>
+</div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(function () {
+  const D = JSON.parse(document.getElementById('data').textContent);
+  const $ = (id) => document.getElementById(id);
+  const el = (t, c, x) => { const e = document.createElement(t); if (c) e.className = c; if (x != null) e.textContent = x; return e; };
+  const KEY = 'ramayana-hub-last';
+  function remember(k, n) { try { localStorage.setItem(KEY, JSON.stringify({ k, n })); } catch (e) {} }
+
+  D.kandas.forEach((k) => {
+    const ready = Object.keys(k.pages).length;
+    const sec = el('section'); sec.id = k.dir;
+    const head = el('div', 'khead'); head.append(el('h2', '', k.te));
+    const c = el('span', 'count'); c.innerHTML = '<b>' + ready + '</b> / ' + k.sargas + ' సర్గలు'; head.append(c);
+    const grid = el('div', 'grid');
+    for (let n = 1; n <= k.sargas; n++) {
+      const url = k.pages[n];
+      if (url) {
+        const a = el('a', 'tile', String(n)); a.href = url; a.target = '_blank'; a.rel = 'noopener';
+        a.title = k.te + ' · సర్గ ' + n; a.addEventListener('click', () => remember(k.dir, n)); grid.append(a);
+      } else { const s = el('span', 'tile', String(n)); s.title = k.te + ' · సర్గ ' + n + ' – ఇంకా తయారు కాలేదు'; grid.append(s); }
+    }
+    sec.append(head, grid); $('kandas').append(sec);
+    const o = el('option', '', k.te + ' (' + k.sargas + ')'); o.value = k.dir; $('kanda').append(o);
+  });
+
+  function cards(list, box) {
+    list.forEach(([name, note, url]) => {
+      const a = el(url ? 'a' : 'div', url ? '' : 'soon');
+      if (url) { a.href = url; a.target = '_blank'; a.rel = 'noopener'; }
+      a.append(el('b', '', name), el('span', '', note)); $(box).append(a);
+    });
+  }
+  cards(D.long, 'long'); cards(D.other || [], 'other');
+
+  function open() {
+    const k = D.kandas.find((x) => x.dir === $('kanda').value); const n = parseInt($('sarga').value, 10);
+    if (!n || n < 1 || n > k.sargas) { $('msg').textContent = k.te + 'లో 1 నుండి ' + k.sargas + ' వరకు సర్గలు ఉన్నాయి.'; return; }
+    const url = k.pages[n];
+    if (!url) { $('msg').textContent = k.te + ' సర్గ ' + n + ' ఇంకా తయారు కాలేదు.'; return; }
+    $('msg').textContent = k.te + ' సర్గ ' + n + ' కొత్త ట్యాబ్‌లో తెరుచుకుంటోంది.'; remember(k.dir, n);
+    const a = el('a'); a.href = url; a.target = '_blank'; a.rel = 'noopener'; document.body.append(a); a.click(); a.remove();
+  }
+  $('go').addEventListener('click', open);
+  $('sarga').addEventListener('keydown', (e) => { if (e.key === 'Enter') open(); });
+
+  try {   // the sarga opened last time, one tap away
+    const l = JSON.parse(localStorage.getItem(KEY) || 'null');
+    const k = l && D.kandas.find((x) => x.dir === l.k);
+    if (k && k.pages[l.n]) {
+      $('kanda').value = k.dir; $('sarga').value = l.n;
+      const box = $('last'); box.hidden = false; box.append(document.createTextNode('చివరిగా తెరిచింది: '));
+      const a = el('a', '', k.te + ' · సర్గ ' + l.n); a.href = k.pages[l.n]; a.target = '_blank'; a.rel = 'noopener'; box.append(a);
+    }
+  } catch (e) {}
+})();
+</script>

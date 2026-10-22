@@ -1,0 +1,17 @@
+{
+  "shorts": {
+    "1_Bala_Kanda": {"1": "https://claude.ai/artifact/8oC1VrGMnbHfa4MdckxJKy", "2": "https://claude.ai/artifact/TJ1s5GXtKxVAg5vJjLjydY"}
+  },
+  "long": [
+    ["పరిచయం + బాలకాండ", "12 వీడియోలు", "https://claude.ai/artifact/J3PwBdS9cGRz95zjMC6Nud"],
+    ["అయోధ్యకాండ", "20 వీడియోలు", "https://claude.ai/artifact/97J99gZsiqKiiitF1vpU28"],
+    ["అరణ్యకాండ", "17 వీడియోలు", "https://claude.ai/artifact/DTAVexqkQ6yhWzXza6GcwU"],
+    ["కిష్కింధకాండ", "తరువాత", null],
+    ["సుందరకాండ", "తరువాత", null],
+    ["యుద్ధకాండ", "తరువాత", null]
+  ],
+  "other": [
+    ["బాలకాండ – ఎపిసోడ్ వారీ కిట్ (పాతది)", "ఒక్కో ఎపిసోడ్ సీన్ ప్రాంప్ట్‌లు", "https://claude.ai/artifact/8ijSCsoonXmUDBiW5YaPZK"],
+    ["Production Bible", "పాత్రలు, శైలి, నియమాలు", "https://claude.ai/artifact/Ma4HieJYj9dfYTMtwS9KQ5"]
+  ]
+}
