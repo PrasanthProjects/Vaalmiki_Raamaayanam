@@ -107,6 +107,10 @@ def read_fixes(path):
                 _, ep, no = head.split()
                 VIS[(ep, int(no))] = rest
                 continue
+            if head.startswith('SAY '):    # the whole line retold to match Valmiki's verses (the book strays there)
+                _, ep, no = head.split()
+                fixes.setdefault((ep, int(no)), []).append((None, rest))
+                continue
             if head.startswith('LOC '):
                 _, ep, no = head.split()
                 LOCS[(ep, int(no))] = rest
@@ -217,8 +221,11 @@ def story(ep, d, fixes):
                     s['narration'] = s['narration'].replace(rule[0], rule[1])
                     rule[2] += 1
         for old, new in (m for m in mine if m != 'KEEP'):
-            assert old in s['narration'], f'{ep} scene {s["no"]}: fix text not found: {old}'
-            s['narration'] = s['narration'].replace(old, new)
+            if old is None:
+                s['narration'] = new
+            else:
+                assert old in s['narration'], f'{ep} scene {s["no"]}: fix text not found: {old}'
+                s['narration'] = s['narration'].replace(old, new)
             s['secs'] = max(s['secs'], L.speak_secs(s['narration']))   # a longer line needs a longer clip
         out.append(s)
     kinds = dict(zip([s['no'] for s in out], L.kinds_for(out)))

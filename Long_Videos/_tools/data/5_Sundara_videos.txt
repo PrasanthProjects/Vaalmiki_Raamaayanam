@@ -253,3 +253,293 @@ CAST E5.22 10 | DADHIMUKHA, HANUMAN, ANGADA
 CAST E5.22 17-18 | SUGRIVA, LAKSHMANA, DADHIMUKHA
 CAST E5.22 19 | RAMA, HANUMAN, ANGADA, SUGRIVA
 CAST E5.22 20-21,23,25 | RAMA, HANUMAN
+
+# ===== Checked against Valmiki's verses (valmikiramayan.net, Sundara Kanda) =====
+# The book (చిత్రరూపంలో సంపూర్ణ వాల్మీకి రామాయణము) adds things Valmiki does not say. Where it does, the line is
+# retold from the verses (SAY = whole line, "old => new" = part of it). Reference after each block: sarga-verse.
+
+# E5.01  (5-1-11..24: the mountain shakes and showers flowers; snakes bite the rocks; Vidyadharas fly up; fish, whales,
+#         turtles and crocodiles show in the sea)
+SAY E5.01 11 | ఆ ఒత్తిడికి పర్వతం ఒక్క క్షణం కంపించింది. చెట్ల మీద పువ్వులన్నీ రాలి హనుమ మీద పడ్డాయి, ఆ పర్వతమే ఒక పూలపర్వతంలా మెరిసింది. రాళ్ళ నుండి బంగారు, వెండి రంగుల ధాతువులు కారాయి.
+VIS E5.01 11 | The mountain shuddering under Hanuman's tread, every tree showering blossoms over him, streaks of gold and silver ore glinting in the rock
+SAY E5.01 12 | ఆ పర్వతం గుహల్లో ఉన్న జీవులన్నీ భయంతో అరిచాయి. పడగల మీద స్వస్తిక గుర్తులున్న పెద్ద పెద్ద పాములు బయటకు వచ్చి మంటలు కక్కాయి.
+VIS E5.01 12 | Great serpents with swastika marks on their hoods rearing from the mountain's caves, spitting fire
+SAY E5.01 13 | అవి కోపంతో శిలలను కాటేశాయి. ఆ విషాగ్నికి శిలలు మండి వేల ముక్కలుగా పగిలిపోయాయి.
+E5.01 14 | ఉన్నటువంటి గంధర్వులు => ఉన్నటువంటి విద్యాధరులు
+VIS E5.01 14 | Vidyadharas and their consorts springing into the air and hovering, amazed
+E5.01 24 | చేపలు, రాక్షసులు పైకి => చేపలు, మొసళ్ళు పైకి
+
+# E5.02  (5-1-92: Indra himself set Mainaka over the mouth of Patala; 5-1-115..145: Vayu saved him, Indra was pleased
+#         and gave him protection; 5-1-160..173: Hanuma grew to ninety yojanas, Surasa blessed him to unite Sita
+#         and Rama; 5-1-190..200: Simhika, and the four virtues praised by the beings in the sky)
+SAY E5.02 15 | ఆ విధంగా నీ తండ్రి వాయుదేవుడే నన్ను కాపాడాడు).
+SAY E5.02 19 | మైనాకుడు చేసిన పని చూసి దేవతలు, ఇంద్రుడు ఎంతో సంతోషించారు. ఇంద్రుడు ఆనందంతో తడబడే గొంతుతో మైనాకుడితో ఇలా అన్నాడు.
+SAY E5.02 20 | "నాయనా మైనాక! నీ పనికి నేను చాలా సంతోషించాను. భయపడాల్సిన చోట కూడా భయం లేకుండా నూరు యోజనాలు దాటుతున్న హనుమకు నువ్వు గొప్ప సహాయం చేశావు.
+VIS E5.02 20 | Indra in the sky above the golden mountain, smiling, one hand raised toward Mainaka
+E5.02 27 | అలా ఇద్దరు 100 యోజనములు పెరిగిపోయారు. => అలా హనుమ తొంభై యోజనాల దాకా పెరిగితే, సురస నోరు కూడా అంతకన్నా పెద్దగా తెరుచుకుంది.
+SAY E5.02 29 | సరిపోయింది కదా, ఇక నేను సీతమ్మ ఉన్న చోటికి వెళతాను" అన్నాడు. అప్పుడు సురస తన అసలు రూపంలోకి వచ్చి "నాయనా! సుఖంగా వెళ్ళి నీ పని సాధించు. సీతమ్మను రాముడితో కలుపు" అని ఆశీర్వదించింది.
+SAY E5.02 32 | హనుమంతుడు తన శరీరాన్ని చిన్నదిగా చేసుకుని ఆ సింహిక నోటిలోకి దూకాడు. గోళ్ళతో ఆమె మర్మస్థానాలను చీల్చి మనోవేగంతో బయటకు వచ్చేశాడు. సింహిక సముద్రంలో పడి మరణించింది. అప్పుడు ఆకాశంలో ఉన్నవారు "ధృతి, దృష్టి, మతి, దాక్ష్యం. ఈ నాలుగూ నీలా ఎవరికి ఉంటాయో, వారు ఏ పనిలోనూ ఓడిపోరు" అని హనుమను మెచ్చుకున్నారు.
+
+# E5.03  (5-1-198: the four virtues; 5-2-4: "I can cross many hundreds of yojanas"; 5-3-38..51: struck with the
+#         left fist because she is a woman, she names herself Lanka, Brahma's word, she bids him enter; 5-4-1: he
+#         leaps the wall where there is no gate)
+SAY E5.03 3 | ఆ లంబగిరి పర్వతం మీద దిగిన హనుమంతుడు వెనక్కి సముద్రం వంక చూసి "నేను ఇలాంటి వందల యోజనాలు దాటగలను. నూరు యోజనాల ఈ సముద్రం ఒక లెక్కా" అనుకున్నాడు. అంత దూరం ఎగిరినా ఆయనకు కొంచెం కూడా అలసట రాలేదు.
+VIS E5.03 3 | Hanuman looking back across the ocean he has crossed, untired, a few blossoms still clinging to him
+SAY E5.03 4 | సముద్రం మీద ఆకాశంలో ఉన్నవారు హనుమను మెచ్చుకుంటూ చెప్పిన నాలుగు గుణాలు ఇవి: ధృతి, దృష్టి, మతి, దాక్ష్యం. ఈ నాలుగూ ఎవరిలో ఉంటాయో వారు ఏ పనిలోనూ ఓడిపోరు.
+SAY E5.03 12 | ఆ దెబ్బకి హనుమంతుడు పెద్దగా గర్జించాడు. కోపంతో కళ్ళు తిరిగాయి. కానీ "ఈమె స్త్రీ" అని తన కోపాన్ని అదుపులో పెట్టుకుని, ఎడమ చేతి పిడికిలితో ఒక్క దెబ్బ మాత్రమే కొట్టాడు. ఆ దెబ్బకే ఆమె నేలకూలింది.
+SAY E5.03 13 | ఆమె పడిపోయిందని చూసి, స్త్రీ కదా అని హనుమ జాలిపడ్డాడు. అప్పుడామె గర్వం వదిలి, తడబడే గొంతుతో ఇలా అంది: "ఓ వానరోత్తమా! నన్ను కాపాడు. నేనే ఈ లంకా నగరాన్ని. నీ బలానికి నేను ఓడిపోయాను.
+SAY E5.03 14 | పూర్వం బ్రహ్మదేవుడు నాకు ఒక వరం ఇచ్చాడు. 'ఎప్పుడైతే ఒక వానరుడు తన బలంతో నిన్ను గెలుస్తాడో, అప్పుడు రాక్షసులకు భయం మొదలవుతుందని తెలుసుకో' అని.
+SAY E5.03 15 | ఆ సమయం ఇప్పుడు వచ్చింది. సీతమ్మ కారణంగా రావణుడికి, రాక్షసులందరికీ నాశనం దగ్గరపడింది. ఇక నువ్వు లంకలోకి వెళ్ళి, పతివ్రత అయిన సీతమ్మను నీ ఇష్టం వచ్చినట్టు వెతుకు" అని పలికింది.
+VIS E5.03 15 | The guardian, humbled, stepping aside and gesturing him toward the city
+E5.03 16 | అక్కడున్న గోడమీద నుండి => ద్వారం లేని చోట కోట గోడ మీద నుండి
+
+# E5.04  (5-6-1..16: Ravana's house, its guards, elephants, horses, drums and conches, and the houses around it;
+#         5-5-25: "who once wore costly ornaments on her neck"; 5-9-70..72: every woman came of her own will except
+#         Sita, and Hanuma's thought)
+SAY E5.04 2 | అది రాక్షసరాజు రావణుడి భవనం. బంగారు, వెండి తోరణాలు, అందమైన ద్వారాలు. ఏనుగుల మీద, గుర్రాల మీద, రథాల మీద వీరులు ఆ భవనానికి కాపలా కాస్తున్నారు.
+SAY E5.04 3 | నాలుగు దంతాల ఏనుగులు, వేగంగా పరిగెత్తే ఎర్రని, తెల్లని గుర్రాలు, ఆయుధాలు ఎత్తి పట్టుకున్న రాక్షస సైన్యాలు ఆ భవనాన్ని కాపాడుతున్నాయి.
+VIS E5.04 3 | Four-tusked elephants and red and white horses in the outer courts, rakshasa soldiers with raised weapons on guard
+SAY E5.04 4 | లోపల నుండి మృదంగాలు, భేరీలు, శంఖాల ధ్వని, ఆభరణాల గలగలలు సముద్రపు హోరులా వినిపిస్తున్నాయి.
+VIS E5.04 4 | Within the palace walls: drums, conches and the glitter of jewellery, the sound rising like the sea
+SAY E5.04 5 | హనుమంతుడు ఆ భవనం చుట్టూ ఉన్న ఇళ్ళనీ, తోటలనీ, ముంగిళ్ళనీ భయం లేకుండా తిరుగుతూ వెతికాడు.
+E5.04 15 | అందులోకి ఎంతమంది ఎక్కినా, ఇంకా ఒకడికి చోటు ఉంటుంది. =>
+E5.04 19 | రాముడి చేత కట్టబడిన దీర్ఘమైన మంగళసూత్రం మా అమ్మ మెడలో మెరుస్తూ ఉంటుంది => ఒకప్పుడు విలువైన ఆభరణాలతో మెరిసిన మా అమ్మ కంఠం ఇప్పుడు దుఃఖంతో పూడుకుపోయి ఉంటుంది
+VIS E5.04 19 | A soft inset of Sita as he pictures her — tears on her cheeks, a throat choked with grief, dark lashes
+E5.04 26 | వీళ్ళందరూ రావణుడిని కోరుకుని వచ్చినవారు. => వీళ్ళందరూ రావణుడిని కోరుకుని వచ్చినవారే. ఒక్క సీతమ్మను మాత్రమే రావణుడు బలవంతంగా తెచ్చాడు. "ఈ రావణుడు సీతమ్మను కూడా ఆమె భర్తతో సుఖంగా ఉండనిచ్చి ఉంటే ఎంత బాగుండేది" అనుకున్నాడు హనుమ.
+
+# E5.05  (5-10-12: he drew back in dread, as from a hissing serpent)
+E5.05 3 | హనుమంతుడు రావణుడి తల్పం దగ్గరికి వెళితే, రావణుడి రోమ కూపాల నుండి కొడుతున్న బ్రహ్మతేజస్సు చేత హనుమంతుడు అవతలకి తొలగతోయబడ్డాడు. => హనుమంతుడు రావణుడి తల్పం దగ్గరికి వెళ్ళగానే, బుసలు కొడుతున్న పాము దగ్గర నుండి తప్పుకున్నట్టు భయంతో వెనక్కి తగ్గాడు.
+VIS E5.05 3 | Hanuman (kitten-sized) creeping close to the sleeping Ravana's couch — and recoiling in dread as from a hissing serpent
+
+# E5.06  (5-13-7..15: his fears for Sita; 5-13-22..37: Rama would die first on hearing, then Lakshmana, Bharata,
+#         Shatrughna, the queens, Sugriva, Ruma, Tara, Angada and the vanaras; 5-13-47: "one who lives sees good
+#         things"; 5-13-49..50: kill Ravana or drag him to Rama; 5-13-55: the Ashoka grove is the one place unsearched)
+SAY E5.06 9 | "సీతమ్మ కనపడలేదు" అనే చేదు మాట వింటే రాముడు ప్రాణం విడిచిపెడతాడు. రాముడు లేకపోతే ఆయన్ని ప్రాణంగా ప్రేమించే లక్ష్మణుడు ఉండడు.
+VIS E5.06 9 | Imagined: Rama hearing the news and sinking down, Lakshmana stricken beside him
+SAY E5.06 10 | అన్నలు లేరని విని భరతుడు, భరతుడు లేడని శత్రుఘ్నుడు ప్రాణాలు వదులుతారు. కొడుకులు లేరని కౌసల్య, సుమిత్ర, కైకేయి కూడా ఉండరు.
+VIS E5.06 10 | Imagined: Bharata, Shatrughna and the three queens of Ayodhya in grief, fading one into the next
+SAY E5.06 11 | రాముడు పోయాడని చూసి మాట నిలుపుకునే సుగ్రీవుడు ప్రాణం విడుస్తాడు. రుమ, తార, అంగదుడు, వానరులంతా బతకరు. నేను తీసుకెళ్ళే ఒక్క మాటతో ఇక్ష్వాకు వంశం, వానర వంశం రెండూ నశిస్తాయి. అందుకే సీతమ్మను చూడకుండా నేను కిష్కింధకు వెళ్ళను.
+VIS E5.06 11 | Imagined: Sugriva, Ruma, Tara and young Angada in grief; the vanaras wailing on the hills
+SAY E5.06 12 | బహుశా రాముడి బాణాలకు భయపడి రావణుడు వేగంగా ఎగురుతున్నప్పుడు, సీతమ్మ జారి సముద్రంలో పడిపోయిందేమో. లేదా ఆ వేగానికి, భయానికి దారిలోనే ప్రాణం విడిచిందేమో.
+SAY E5.06 13 | లేదా ఒంటరిగా తన శీలాన్ని కాపాడుకుంటున్న సీతమ్మను ఆ దుర్మార్గుడు గానీ, అతని భార్యలు గానీ చంపేశారేమో. లేదా "హా రామా, హా లక్ష్మణా" అని ఏడుస్తూ పంజరంలో గోరువంకలా ఎక్కడో బంధించబడి ఉందేమో.
+E5.06 14 | లేదా ఈ లంకని పెల్లఘించి పట్టుకుపోతాను. => లేదా ఈ రావణుడినే సముద్రం మీదుగా ఈడ్చుకెళ్ళి రాముడి ముందు పడేస్తాను.
+E5.06 16 | ఛి! మరణించడం ఏమిటి, ఆత్మహత్య మహా పాపం. => చనిపోవడంలో ఎన్నో దోషాలు ఉన్నాయి. బతికి ఉన్నవాడే శుభాలు చూస్తాడు.
+SAY E5.06 20 | అప్పుడు హనుమంతుడికి గుర్తొచ్చింది. పెద్ద పెద్ద చెట్లతో ఉన్న ఈ అశోకవనం ఒక్కటే ఇంకా వెతకలేదు. వెంటనే ధనుస్సు నుండి విడిచిన బాణంలా ఆ అశోకవనంలోకి దూకాడు.
+VIS E5.06 20 | Hanuman's gaze falling on the dark mass of the Ashoka grove beyond the palace wall; Hanuman flying to it like an arrow
+E5.07 1 | హనుమంతుడి ప్రార్థనకి సమాధానంగా అశోకవనం కనిపించింది => హనుమంతుడు ఇంకా వెతకని అశోకవనంలోకి దూకాడు
+
+# E5.07  (5-15-15: the thousand-pillared building is a temple (chaitya); 5-15-51..54: her form is Rama's form, his mind
+#         goes to Rama; 5-16-24..26: she sees nothing but Rama, her husband is her ornament)
+E5.07 2 | అది అక్కడున్న సైనికులు విశ్రాంతి తీసుకోవడం కోసం ఏర్పాటు చేసిన మంటపం, దాని మీదకి శింశుపా వృక్షం ఉంది. => దాని దగ్గర బంగారు అరుగులతో ఒక పెద్ద శింశుపా వృక్షం ఉంది.
+SAY E5.07 8 | ఆవిడ ఒక్కొక్క అవయవంలోనూ రాముడే గుర్తొచ్చాడు. రాముడి రూపం ఎలాంటిదో ఈ తల్లి రూపం అలాంటిదే. ఆ క్షణంలో హనుమ మనసు రాముడి దగ్గరకు వెళ్ళింది.
+SAY E5.07 21 | ఈ తల్లి రాక్షస స్త్రీలను గానీ, పువ్వులను గానీ, చెట్లను గానీ చూడడం లేదు. ఒకే మనసుతో రాముడినే ధ్యానిస్తోంది. స్త్రీకి ఆభరణాల కన్నా భర్తే గొప్ప అలంకారం. అందుకే రాముడు దగ్గర లేని ఈ తల్లి వెలవెలబోతోంది" అని అనుకున్నాడు.
+VIS E5.07 21 | Close on Sita's eyes — unseeing of the guards and the flowers around her, lost in thought of Rama
+
+# E5.08  (5-18-2: Brahma-rakshasas versed in the six limbs of the Veda; 5-18-6..15: Ravana in all his ornaments, a
+#         hundred women with lamps, chowries, fans, a jewelled wine-vessel and a white parasol, staggering with sleep;
+#         5-20-19..20, 26..28, 31..32: his boasts, Rama in bark cloth, Hiranyakashipu and Indra's glory, his women
+#         and apsaras to serve her)
+SAY E5.08 2 | హనుమంతుడు సీతమ్మని అలా చూస్తుండగా రాత్రి కొంచెమే మిగిలింది. తెల్లవారుజామున ఆరు వేదాంగాలు తెలిసిన బ్రహ్మరాక్షసుల వేద పఠనం వినిపించింది.
+SAY E5.08 3 | మంగళవాయిద్యాల శబ్దాలకు రావణుడు నిద్రలేచాడు.
+SAY E5.08 5 | ఆయన వెంటనే ఉత్తమమైన ఆభరణాలు ధరించి అశోకవనానికి బయలుదేరాడు. దేవ, గంధర్వ స్త్రీలు ఇంద్రుడి వెంట నడిచినట్టు, వంద మంది అంతఃపుర స్త్రీలు రావణుడి వెంట బయలుదేరారు.
+SAY E5.08 6 | ఆ స్త్రీలలో కొందరు బంగారు దీపాలు, కొందరు చామరాలు, కొందరు తాటాకు విసనకర్రలు పట్టుకున్నారు. ఒకామె రత్నాల పాత్రలో మద్యం పట్టుకుని రావణుడి కుడివైపు నడిచింది, ఇంకొకామె చంద్రుడిలాంటి తెల్లని గొడుగు పట్టింది.
+VIS E5.08 6 | Women bearing golden lamps, chowries and palm-leaf fans, a jewelled wine-vessel and a white parasol with a golden handle
+SAY E5.08 7 | నిద్రమత్తుతో తూలుతూ ఆ స్త్రీలు, మెరుపులు మేఘాన్ని అనుసరించినట్టు రావణుడిని అనుసరించారు. ఇంతమంది పరివారంతో, కోరికతో నిండిన మనసుతో, దీనురాలైన ఒక్క స్త్రీ దగ్గరకు తెల్లవారుజామున రావణుడు బయలుదేరాడు.
+VIS E5.08 7 | Sleepy, jewelled women following Ravana's lamp-lit procession through the grove in the first grey light
+SAY E5.08 13 | ఈ లోకంలో నాకు సాటి వచ్చేవాడు ఎవ్వడూ లేడు. దేవతలు, అసురులు కూడా యుద్ధంలో నా ముందు నిలబడలేక జెండాలు విరిగి పారిపోయారు. నా బలం ఏమిటో చూడు.
+VIS E5.08 13 | Ravana spreading his arms, boasting that no god or demon can stand against him
+E5.08 18 | 7000 మంది ఉత్తమకాంతలు నీకు దాసీ జనంగా వస్తారు. => నా అంతఃపుర స్త్రీలు, అప్సరసలు అందరూ నీకు సేవ చేస్తారు.
+SAY E5.08 19 | ఆ రాముడు నారచీరలు కట్టుకుని అడవుల్లో తిరుగుతూ నేల మీద పడుకుంటున్నాడు. అసలు బతికి ఉన్నాడో లేదో కూడా అనుమానమే. హిరణ్యకశిపుడి చేతికి వెళ్ళిన కీర్తిని ఇంద్రుడు తిరిగి పొందలేకపోయినట్టు, నా చేతిలో ఉన్న నిన్ను రాముడు ఎప్పటికీ పొందలేడు.
+VIS E5.08 19 | Ravana sneering — a man in bark cloth will never take her from his hands
+
+# E5.09  (5-21-3..22: Sita's reply with the blade of grass; 5-22-2..9: Ravana spares her for desire, two months, then
+#         his breakfast; 5-22-20..21: she could burn him but waits for Rama's word; 5-22-36..37: he orders the guards to
+#         use every means; the book's long note on penance for adultery is not Valmiki's and is left out)
+SAY E5.09 3 | నీకు అనేకమంది భార్యలు ఉన్నారు, నీ మనసు వాళ్ళ మీద పెట్టుకో. నీ భార్యలను ఎలా కాపాడుకుంటావో, పరాయివాళ్ళ భార్యలను కూడా అలాగే కాపాడాలి. నేను మంచి వంశంలో పుట్టి ఒక్క భర్తకే అంకితమైనదాన్ని.
+SAY E5.09 4 | రాముడు శరణు అన్నవాళ్ళను ప్రేమతో కాపాడతాడు. బతకాలని ఉంటే రాముడితో స్నేహం చేసుకో. నన్ను తీసుకెళ్ళి రాముడికి అప్పగించు, అదే నీకు మంచిది.
+SAY E5.09 5 | 'నేను సీతని తీసుకొచ్చాను' అనుకుంటున్నావేమో. సూర్యుడి నుండి సూర్యకాంతిని వేరు చేయలేనట్టు, రాముడి నుండి నన్ను ఎవరూ వేరు చేయలేరు. ఐశ్వర్యం చూపించి, ధనం చూపించి నన్ను ఆశ పెట్టలేవు.
+SAY E5.09 6 | లోకనాథుడైన రాముడి భుజం మీద తల పెట్టుకున్న నేను ఇంకొకరి భుజం మీద ఎలా తల పెడతాను? వేదం చదువుకున్న బ్రాహ్మణుడికి విద్య ఎలా సొంతమో, నేను రాముడికి మాత్రమే సొంతం.
+VIS E5.09 6 | Close on Sita, steady; a brief memory-flash of her head resting on Rama's shoulder
+SAY E5.09 11 | ఈ మాటలు విన్న రావణుడికి కోపం వచ్చింది. "స్త్రీలతో ఎంత మెత్తగా మాట్లాడితే అంత చులకన అవుతాం. మంచి సారథి గుర్రాలను అదుపులో పెట్టినట్టు, నీ మీద ఉన్న కోరికే నా కోపాన్ని అదుపులో పెడుతోంది.
+SAY E5.09 12 | నీ కఠినమైన మాటలకు నిన్ను భయంకరంగా చంపాలి. కానీ ఆ కోరిక వల్లే వదిలేస్తున్నాను. నేను పెట్టిన గడువులో ఇంకా రెండు నెలలు మిగిలాయి. ఆ తరువాత నువ్వు నా పాన్పు చేరాలి. లేకపోతే నా ఉదయపు భోజనం కోసం వంటశాలలో నిన్ను ముక్కలు చేస్తారు" అన్నాడు.
+SAY E5.09 13 | తరువాత భయంకరమైన రూపాలున్న రాక్షస స్త్రీలను పిలిచి "సామ, దాన, భేద, దండోపాయాలు అన్నీ ప్రయోగించండి.
+SAY E5.09 14 | సీత ఎంత తొందరగా నాకు వశమవుతుందో అలా చేయండి" అని మళ్ళీ మళ్ళీ ఆజ్ఞాపించాడు.
+DROP E5.09 15
+DROP E5.09 16
+DROP E5.09 17
+
+# E5.10  (5-24-20..47: the threats are spoken by Vinata, Vikata, Chandodari, Praghasa and Ajamukhi; 5-27-4..6: Trijata
+#         wakes and stops them; 5-27-11: Sita in white on the white mountain; 5-27-20..21: Rama, equal to Vishnu in
+#         strength, whom no one can defeat (the ocean-of-milk throne, the coronation and the four-armed form are not in
+#         Valmiki); 5-27-29..30: Kumbhakarna on a camel, Indrajit on a sea-beast; 5-27-44..50: the omens, and that she
+#         is pleased by a bow — Trijata does not call her Mahalakshmi)
+SAY E5.10 7 | అప్పుడు వినత అనే రాక్షసి "నీ పతిభక్తి చూపించింది చాలు. ఏదైనా అతిగా చేస్తే అదే దోషం. ఆ దీనుడైన రాముడిని వదిలి రావణుడిని భర్తగా చేసుకో. లేకపోతే మేమంతా ఇప్పుడే నిన్ను తినేస్తాం" అంది.
+SAY E5.10 8 | వికట అనే రాక్షసి పిడికిలి బిగించి గర్జిస్తూ "నీ కఠినమైన మాటలు ఇంతవరకూ జాలితో భరించాం. ఇది రావణుడి అంతఃపురం, ఇక్కడ ఇంద్రుడు కూడా నిన్ను కాపాడలేడు. మా మాట వినకపోతే నీ గుండె పెకలించి తినేస్తాను" అంది.
+SAY E5.10 9 | చండోదరి అనే రాక్షసి పెద్ద శూలం తిప్పుతూ "భయంతో వణుకుతున్న ఈ లేడి కళ్ళ దాన్ని చూస్తే నాకు తినాలని ఉంది" అంది.
+SAY E5.10 10 | ప్రఘస అనే రాక్షసి "దీని పీక పిసికేద్దాం, ఆలస్యం ఎందుకు? మనిషి చచ్చిపోయిందని రాజుకు చెబితే 'తినేయండి' అనే అంటాడు" అంది.
+SAY E5.10 11 | మిగతా రాక్షస స్త్రీలు కూడా గొడ్డళ్ళు, శూలాలు పట్టుకుని పెదవులు నాకుతూ ఆమె చుట్టూ చేరారు.
+SAY E5.10 12 | అజాముఖి అనే రాక్షసి "అందరం సమానంగా పంచుకుందాం, గొడవ వద్దు. తొందరగా కల్లు తీసుకురండి" అంది. ఇంకొక రాక్షసి "అదే నా మాట కూడా. కల్లు తాగి, నికుంభిలా దేవి ముందు నాట్యం చేద్దాం" అంది.
+SAY E5.10 14 | అప్పటిదాకా నిద్రపోతున్న త్రిజట అనే ముసలి రాక్షసి లేచి "మిమ్మల్ని మీరే తినండి. జనకుడి కూతురు, దశరథుడి కోడలు అయిన సీతను మీరు తినలేరు. రాక్షసుల నాశనాన్ని చెప్పే, ఒళ్ళు గగుర్పొడిచే కల ఇప్పుడే నాకు వచ్చింది.
+E5.10 16 | పచ్చటి పట్టు పుట్టం కట్టుకుని ఉంది => తెల్లటి వస్త్రాలు కట్టుకుని ఉంది
+VIS E5.10 16 | Dream: Sita in white on a white mountain ringed by the ocean, Rama's hand lifting her up onto the elephant
+SAY E5.10 18 | విష్ణువుతో సమానమైన బలం ఉన్న రాముడు, సీతాలక్ష్మణులతో కలిసి నాకు కలలో అలా కనిపించాడు. ఆ రాముడిని దేవతలు గానీ, రాక్షసులు గానీ ఎవరూ గెలవలేరు.
+VIS E5.10 18 | Dream: Rama radiant beside Sita and Lakshmana in white, a divine glow about him
+DROP E5.10 19
+DROP E5.10 20
+E5.10 24 | వాళ్ళ వెనకాల కుంభకర్ణుడు, ఇంద్రజిత్ మొదలైనవారు ఒంటె, మొసలి మొదలైన వాహనములను ఎక్కి దక్షిణ దిక్కుకి వెళ్ళిపోయారు. => కుంభకర్ణుడు ఒంటె మీద, ఇంద్రజిత్ ఒక నీటి జంతువు మీద, రావణుడి కొడుకులంతా నూనె పూసుకుని దక్షిణ దిక్కుకి వెళ్ళిపోయారు.
+E5.10 27 | ఎడమ తొడ అదురుతోంది, కట్టుకున్న పట్టు పుట్టం తనంతట కొంచెం కిందకి జారింది. => ఎడమ తొడ అదురుతోంది.
+SAY E5.10 29 | మీరు బతకాలి అనుకుంటే, మీ మీదకి రామ బాణాలు పడకూడదు అనుకుంటే, భయపెట్టడం ఆపి ఈ తల్లి ముందు ప్రణిపాతం చేసి వేడుకోండి. నమస్కారానికే ప్రసన్నమయ్యే ఈ తల్లి మనల్ని పెద్ద ఆపద నుండి కాపాడగలదు.
+
+# E5.11  (5-29-2..6: the left eye quivers like a red lotus struck by a fish, the left shoulder and thigh, her golden cloth
+#         slips — hope sprouts like a seed in rain; 5-30-5: what Hanuma has learned; 5-30-17..30: Sanskrit like a brahmin
+#         would frighten her, so plain human speech; if she cries out the guards come, and they may kill her)
+E5.11 12 | తెల్ల పద్మమునకు => ఎర్ర తామరకు
+VIS E5.11 12 | Inset: a half-open red lotus on a pond, a fish beside its stem
+E5.11 14 | అలా అందంగా అటూ ఇటూ కదిలింది. => అలా అందంగా అటూ ఇటూ కదిలింది. ఎడమ భుజం, ఎడమ తొడ కూడా అదిరాయి. బంగారు రంగు చీర కొంచెం జారింది. ఎండకు, గాలికి వాడిపోయిన విత్తనం వానకు మొలకెత్తినట్టు సీతమ్మ మనసులో ఆశ చిగురించింది.
+E5.11 15 | సీతమ్మని జగన్మాతగా తెలుసుకున్నాను. => రాక్షసుల బలం, ఈ నగరం, రావణుడి శక్తి అన్నీ తెలుసుకున్నాను.
+E5.11 19 | కాని రాముడు లంకా పట్టణాన్ని చేరేలోపల నేను చేసిన అల్లరి చేత సీతమ్మని రావణుడు వేరొకచోట దాచవచ్చు. => ఆ గొడవలో రాక్షసులు సీతమ్మనే చంపేయవచ్చు. అప్పుడు రాముడి పని, సుగ్రీవుడి పని రెండూ చెడిపోతాయి.
+SAY E5.11 20 | నేను బ్రాహ్మణుడిలా సంస్కృతంలో మాట్లాడితే, ఒక వానరుడు అలా ఎలా మాట్లాడతాడని, నన్ను రావణుడే అనుకుని సీతమ్మ భయపడుతుంది. అందుకని సామాన్య మనుషులు మాట్లాడే అర్థవంతమైన మాటలే మాట్లాడాలి.
+SAY E5.11 21 | భయపడి సీతమ్మ గట్టిగా అరిస్తే, ఆయుధాలతో రాక్షస స్త్రీలు చుట్టుముడతారు. నేను పోరాడితే లంక సైన్యం వస్తుంది. నేను చిక్కితే, సీతమ్మ జాడ రాముడికి చెప్పేవాడే ఉండడు. నూరు యోజనాల సముద్రం దాటగలవాడు నేను తప్ప ఇంకెవరూ లేరు. ఇప్పుడు నేను ఏమి చెయ్యాలి? ఏమి మాట్లాడి సీతమ్మని ఓదార్చాలి?
+
+# E5.12  (5-31-16..19: she looks up at the tree; 5-33-3..13: Hanuma first asks who she is — a goddess, Rohini,
+#         Arundhati? — and sees she is human, a queen; 5-33-15..31: her story; 5-34-2..6: "I am Rama's messenger,
+#         Rama asks after you, Lakshmana bows"; "joy comes to the living even after a hundred years"; 5-34-8..18:
+#         as he comes near she fears he is Ravana, lets go of the branch and sits on the ground (she does not faint),
+#         then asks him to tell her of Rama)
+SAY E5.12 9 | ఇంతవరకూ వినపడని రామనామం వినపడేసరికి సీతమ్మ ఆశ్చర్యపోయింది. రాముడినే తలుచుకుంటూ, పరమ సంతోషంతో ముఖం పైకెత్తి శింశుపా వృక్షం వైపు చూసింది.
+VIS E5.12 9 | Sita (beneath the shimshupa tree) lifting her face in wonder toward the branches above, a first light of joy in her eyes
+SAY E5.12 16 | అప్పుడు హనుమంతుడు మెల్లగా కొన్ని కొమ్మల కిందకి దిగి, చేతులు జోడించి ఇలా అడిగాడు: "తామర రేకుల వంటి కన్నులున్న తల్లీ! నలిగిన పట్టు చీర కట్టుకుని, చెట్టు కొమ్మ పట్టుకుని నిలబడిన నువ్వు ఎవరు? నీ కళ్ళ నుండి ఈ కన్నీళ్ళు ఎందుకు?
+SAY E5.12 17 | నువ్వు దేవతవా, గంధర్వ స్త్రీవా? చంద్రుడిని విడిచి వచ్చిన రోహిణివా? వశిష్ఠుడి మీద అలిగి వచ్చిన అరుంధతివా?
+VIS E5.12 17 | Hanuman (small, palms joined, on a low branch) asking softly whether she is a goddess
+SAY E5.12 18 | కానీ నువ్వు నిట్టూరుస్తున్నావు, ఏడుస్తున్నావు.
+VIS E5.12 18 | Sita weeping and sighing beneath the tree; Hanuman watching her with reverence
+SAY E5.12 23 | అప్పుడు హనుమంతుడు "అమ్మా! నేను రాముడు పంపిన దూతను. రాముడు నీ క్షేమం అడిగాడు. లక్ష్మణుడు తల వంచి నీకు నమస్కారం చెప్పాడు" అన్నాడు. రాముడి క్షేమం విన్న సీతమ్మ ఒళ్ళు పులకరించింది. "బతికి ఉన్నవాడికి నూరు సంవత్సరాలకైనా ఆనందం వస్తుంది అనే మాట నిజమే" అంది. ఆ సంతోషంలో హనుమంతుడు ఆమెకు మరింత దగ్గరగా వచ్చాడు.
+VIS E5.12 23 | Hanuman (small, palms joined) speaking to Sita from a low branch; her face lighting with joy; then Hanuman coming down closer
+SAY E5.12 24 | అతను దగ్గరికి వస్తున్న కొద్దీ సీతమ్మకు అనుమానం పెరిగింది. చెట్టు కొమ్మ వదిలేసి నేల మీద కూర్చుండిపోయింది. "అయ్యో! ఇన్ని విషయాలు చెప్పేశానే. జనస్థానంలో సన్యాసి వేషంలో వచ్చిన రావణుడివే నువ్వు, మళ్ళీ రూపం మార్చుకుని వచ్చావు" అంది.
+VIS E5.12 24 | Sita letting go of the branch and sinking to the ground in fear, turned away from the approaching vanara
+SAY E5.12 25 | కానీ వెంటనే "నిన్ను చూస్తే నా మనసులో ఏదో సంతోషం కలుగుతోంది. నువ్వు నిజంగా రాముడి దూతవే అయితే నీకు శుభం కలుగుగాక. రాముడి కథ నాకు ఎంతో ఇష్టం. నా రాముడి గుణాలు నాకు చెప్పు నాయనా" అని పలికింది.
+
+# E5.13  (5-35-81: Kesari killed the demon Shambasadana; 5-35-2..3: Sita's questions; 5-36-5..6: shy and glad)
+E5.13 1 | నాయనా! నువ్వు ఎవరివో యదార్ధంగా చెప్పు అని హనుమంతుడిని అడిగింది. => నాయనా! రాముడి గుణాలు నాకు చెప్పు అని హనుమంతుడిని అడిగింది.
+E5.13 4 | సంభరాసురుడు అనే రాక్షసుడిని => శంబసాదనుడు అనే రాక్షసుడిని
+
+# E5.14  (5-37-29..38: she calls the offer "your monkey nature" — no laughter; he takes it as the first slight, leaps
+#         down and grows like Meru, red-faced, teeth and nails like diamond, and offers to carry Lanka itself;
+#         5-37-40..56: she knows his strength, but she might fall, the rakshasas would follow, if he alone killed them
+#         Rama's glory would be less, she might be hidden away)
+SAY E5.14 15 | అది విన్న సీతమ్మ ఒళ్ళంతా ఆనందంతో, ఆశ్చర్యంతో పులకరించింది. కానీ హనుమ అప్పటిదాకా చాలా చిన్నగా ఉండడం వల్ల "హనుమా! ఇంత చిన్న శరీరంతో నన్ను అంత దూరం ఎలా తీసుకెళతావు? ఇది నీ వానర స్వభావమే" అంది.
+VIS E5.14 15 | Sita half-smiling in wonder at the kitten-sized vanara's offer
+SAY E5.14 16 | ఆ మాటను తనకు జరిగిన మొదటి అవమానంగా భావించిన హనుమంతుడు "నా బలం అమ్మకు తెలియదు, నా రూపం చూపిస్తాను" అనుకుని, చెట్టు దిగి తన శరీరాన్ని పెంచాడు. మేరు, మందర పర్వతాల్లా, మండుతున్న అగ్నిలా సీతమ్మ ముందు నిలబడ్డాడు.
+SAY E5.14 17 | ఎర్రని ముఖం, వజ్రాల్లాంటి దంతాలు, గోళ్ళతో పర్వతంలా నిలబడిన హనుమ "అమ్మా! కొండలు, అడవులు, కోటలతో సహా ఈ లంకనే రావణుడితో కలిపి మోసుకెళ్ళగలను. సందేహం వదిలి నాతో రా" అన్నాడు.
+VIS E5.14 17 | The vast form: red face, teeth and nails like diamond, a mountain of a vanara standing before Sita
+SAY E5.14 18 | హనుమంతుడిని అలా చూసిన సీతమ్మ "నాయనా! నీ ధైర్యం, బలం, గాలిలాంటి వేగం, అగ్నిలాంటి తేజస్సు నాకు బాగా తెలుసు. లేకపోతే ఈ అగాధ సముద్రాన్ని దాటి ఇక్కడికి ఎవరు రాగలరు?
+SAY E5.14 19 | నన్ను తీసుకెళ్ళగల శక్తి నీకు ఉందని నాకు తెలుసు. కానీ దాని వల్ల రాముడి పని చెడిపోకూడదు. నీ వేగానికి నా మనసు తిరిగి, సముద్రం మీద నేను నీ వీపు మీద నుండి జారి పడిపోవచ్చు,
+VIS E5.14 19 | Sita, calm and composed, reasoning with the towering Hanuman
+E5.14 21 | అందుచేత నేను నీ వీపు మీద => నువ్వు ఒక్కడివే రాక్షసులందరినీ చంపేస్తే రాముడి కీర్తి తగ్గుతుంది. అందుచేత నేను నీ వీపు మీద
+
+# E5.15  (5-38-15..28: the crow pecks at her, greedy for flesh; her garment slips and Rama laughs; she sleeps on his
+#         lap, he on hers; the crow claws her breast; "who plays with a five-faced serpent?"; the crow is Indra's son;
+#         5-38-33..38: the three worlds turn it away, it falls at Rama's feet; 5-38-69..71: she gives the crest-jewel,
+#         he puts it on his finger and walks round her in reverence; 5-40-5: the realgar mark on her cheek)
+SAY E5.15 6 | ఆ కాకి మామూలు కాకి కాదు. అది ఇంద్రుడి కొడుకు, గాలిలా వేగంగా ఎగిరేవాడు.
+VIS E5.15 6 | A great glossy black crow on a crag, an unnatural sheen on its feathers
+SAY E5.15 7 | ఆ పర్వతం మీద తిరుగుతూ ఉండే ఆ కాకి మాంసం కోసం ఆశపడి మా దగ్గరకు వచ్చింది.
+SAY E5.15 8 | నా పక్కన రాముడు సంతోషంగా కూర్చుని ఉన్నాడు. ఆ కాకి నన్ను ముక్కుతో పొడవడం మొదలుపెట్టింది.
+VIS E5.15 8 | Memory-grade: Rama and Sita resting on a hillside by a pool; a crow swooping at Sita
+SAY E5.15 9 | అప్పుడు నేను ఒక మట్టిగడ్డ తీసి ఆ కాకిని అదిలించాను. అయినా అది మళ్ళీ మళ్ళీ పొడుస్తూ అక్కడే దాగి ఉంది.
+SAY E5.15 10 | ఆ కోపంలో నా చీర జారుతుంటే, ముడి బిగించుకుంటున్న నన్ను చూసి రాముడు నవ్వాడు. నేను కోపంతో, సిగ్గుతో రాముడి దగ్గరకే చేరాను.
+VIS E5.15 10 | Memory-grade: Rama laughing softly as a flustered Sita tightens the knot of her garment
+SAY E5.15 11 | అలసిపోయి రాముడి ఒడిలో తల పెట్టుకుని చాలాసేపు పడుకున్నాను. రాముడు నన్ను ఓదార్చాడు.
+SAY E5.15 12 | కొంతసేపటికి రాముడు నా ఒడిలో తల పెట్టుకుని నిద్రపోయాడు. అప్పుడు అదే కాకి మళ్ళీ వచ్చి, ఒక్కసారిగా వాలి నా గుండెల మధ్య గోళ్ళతో చీరేసింది.
+E5.15 14 | (సీతమ్మని పంచముఖ గాయత్రిగా రాముడు ఆనాడు లోకానికి చెప్పాడు) =>
+SAY E5.15 18 | ఆ కాకి అన్ని లోకాలూ తిరిగింది. తండ్రి ఇంద్రుడు, దేవతలు, మహర్షులు ఎవరూ ఆశ్రయం ఇవ్వలేదు. చివరికి రాముడినే శరణు కోరి ఆయన పాదాల దగ్గర పడింది.
+DROP E5.15 19
+SAY E5.15 27 | తరువాత సీతమ్మ తన చీర కొంగున కట్టి దాచుకున్న మూటను విప్పి, అందులో ఉన్న దివ్యమైన చూడామణిని తీసి, "దీనిని రాముడికి ఇవ్వు" అని హనుమ చేతికి ఇచ్చింది.
+VIS E5.15 27 | Sita untying a knot in the end of her garment and taking out a radiant crest-jewel
+E5.15 30 | హనుమంతుడు ఆ చూడామణిని కన్నులకి అద్దుకుని, రాముడు ఇచ్చిన ఉంగరాన్ని ఎలా భద్రపరుచుకున్నాడో, అలా చూడామణిని కూడా జాగ్రత్తగా భద్రపరుచుకున్నాడు. => హనుమంతుడు ఆ చూడామణిని తన వేలికి పెట్టుకుని, సీతమ్మకు ప్రదక్షిణం చేసి నమస్కరించాడు.
+VIS E5.15 30 | Hanuman slipping the crest-jewel onto his finger and walking round Sita in reverence, palms joined
+E5.15 32 | ఒక కుంకుమ శిలని => ఒక ఎర్రని మణిశిలను
+
+# E5.16  (5-39-7..23: her messages, and "stay one day in a hidden place and rest — your nearness eases my grief";
+#         5-39-25..26: how will the army cross? only Garuda, Vayu or you can; 5-39-38..39: none with Sugriva is weaker
+#         than me, the great ones are not sent on errands; 5-41-2..13: sama, dana and bheda are useless here, only force;
+#         destroy the grove so Ravana sends his army, and learn his strength; 5-42-13..15: Indra's, Kubera's or Rama's
+#         messenger)
+SAY E5.16 2 | అప్పుడు హనుమంతుడు "నేను బయలుదేరతాను" అనగానే, సీతమ్మ కన్నీళ్ళతో "నాయనా! రామలక్ష్మణులకు, సుగ్రీవుడికి, పెద్దలైన వానరులందరికీ నా క్షేమం చెప్పు. ఈ దుఃఖ సముద్రం నుండి రాముడు నన్ను దాటించే ఉపాయం ఆలోచించు.
+SAY E5.16 3 | నీకు ఇష్టమైతే ఎక్కడైనా రహస్యమైన చోట ఒక్క రోజు ఉండి, విశ్రాంతి తీసుకుని రేపు వెళ్ళు. నువ్వు దగ్గర ఉంటే నా దుఃఖం కొంతసేపైనా తగ్గుతుంది.
+E5.16 7 | ఇంక ఎవరూ ఇక్కడికి రాలేరు, మరి రావణ సంహారం ఎలా జరుగుతుంది?" => మరి ఆ వానర సైన్యం, రామలక్ష్మణులు ఈ సముద్రాన్ని ఎలా దాటుతారు?"
+E5.16 9 | కాని నాకన్నా తక్కువ బలం ఉన్నవాడు సుగ్రీవుడి దగ్గర లేడమ్మా. => కాని నాకన్నా తక్కువ బలం ఉన్నవాడు సుగ్రీవుడి దగ్గర లేడమ్మా. గొప్పవాళ్ళను ఎవరూ దూతలుగా పంపరు, నాలాంటి వాళ్ళనే పంపుతారు.
+SAY E5.16 11 | సీతమ్మ దగ్గర సెలవు తీసుకుని కొంత దూరం వెళ్ళిన హనుమంతుడు ఇలా ఆలోచించాడు: "సీతమ్మను చూశాను. ఇక మిగిలింది కొంచెమే. రాక్షసులకు సామం పనికిరాదు, ధనవంతులకు దానం పనికిరాదు, బలగర్వం ఉన్నవాళ్ళకు భేదం పనికిరాదు. ఇక్కడ పరాక్రమమే దారి.
+VIS E5.16 11 | Hanuman at the northern edge of the grove, thinking — here only force will serve
+SAY E5.16 12 | రావణుడి బలం ఎంతో, అతని ఆలోచన ఏమిటో తెలుసుకుని వెళితేనే నా పని పూర్తవుతుంది. రావణుడికి ఎంతో ఇష్టమైన ఈ అందమైన వనాన్ని నాశనం చేస్తాను. కోపంతో రావణుడు సైన్యాన్ని పంపుతాడు, అప్పుడు వాళ్ళతో యుద్ధం చేస్తాను" అనుకొని,
+E5.16 13 | అలాగే హనుమ చేసిన మహా నాదానికి అక్కడున్న పక్షులు గుండెలు బద్దలై కిందపడిపోయాయి. => పక్షులు భయంతో అరుస్తూ ఎగిరిపోయాయి.
+E5.16 17 | అది ఇంద్రుడి దూతో, కుబేరుడి దూతో, విష్ణువు దూతో, యముడి దూతో మాకు తెలీదు. => అది ఇంద్రుడి దూతో, కుబేరుడి దూతో, లేక సీత కోసం రాముడు పంపిన దూతో మాకు తెలీదు.
+
+# E5.17  (5-42-34: "I am the servant of Rama, king of Kosala"; 5-43-6..12: his arm-slaps fill Lanka with sound and
+#         the birds and temple guards fall senseless)
+E5.17 8 | అటువంటి రాముడికి దాసానుదాసుడిని నేను. => కోసల రాజైన ఆ రాముడికి నేను దాసుడిని.
+E5.17 14 | ఆ నాదం వినేసరికి లంకా పట్టణంలో కొన్ని వేలమంది గుండెలు బద్దలయ్యి, చెవుల వెంట, ముక్కుల వెంట నెత్తురు కారి చనిపోయారు. అప్పుడాయన తొడలు కొట్టాడు, ఆ శబ్దానికి కొంతమంది రాక్షసులు చనిపోయారు. => ఆయన భుజాలు చరిచిన ఆ భయంకరమైన శబ్దానికి లంక అంతా మారుమోగింది. ఆకాశంలో పక్షులు, ఆ మందిరానికి కాపలా ఉన్న రాక్షసులు స్పృహ తప్పి కిందపడిపోయారు.
+VIS E5.17 14 | The roar rolling over Lanka; Hanuman clapping his great arms; birds and the temple guards falling senseless
+
+# E5.18  (5-45-8..14: he roams the clear sky making their arrows useless, then strikes with palms, feet, fists and
+#         nails, and some fall at his roar; 5-46-6..11: "a being made by Indra's tapas — I have seen Vali, Sugriva,
+#         Jambavan, Nila, none was like this"; 5-46-20: Durdhara's five arrows; 5-47-31..32: he kills Aksha's eight
+#         horses with his palm and the chariot falls)
+SAY E5.18 3 | వాళ్ళు అన్ని వైపుల నుండి హనుమ మీదకి బాణాల వర్షం కురిపించారు. హనుమంతుడు మేఘాలు లేని ఆకాశంలోకి ఎగిరి, ఆ బాణాలనూ, రథాలనూ వృథా చేశాడు.
+VIS E5.18 3 | The seven sons of ministers in chariots ringing Hanuman with arrows; Hanuman soaring above them in a clear sky
+SAY E5.18 4 | తరువాత పెద్దగా గర్జిస్తూ వాళ్ళ మీదకి దూకాడు. కొందరిని అరచేతులతో, కొందరిని పాదాలతో, పిడికిళ్ళతో, గోళ్ళతో కొట్టాడు. కొందరు ఆయన గర్జనకే పడిపోయారు. మిగిలిన సైన్యం భయంతో పది దిక్కులకూ పారిపోయింది.
+VIS E5.18 4 | Hanuman falling upon them — wide shot, dust, broken chariots and fleeing soldiers, no close-ups
+E5.18 6 | నేను ఎందరో మహర్షులను బాధ పెట్టాను, వాళ్ళందరూ తమ తపోశక్తులని ధారపోసి సృష్టించిన మహా భూతం అయ్యి ఉంటుంది" అన్నాడు. => ఇంద్రుడు తన తపోబలంతో సృష్టించిన మహా భూతం అయ్యి ఉంటుంది. వాలిని, సుగ్రీవుడిని, జాంబవంతుడిని, నీలుడిని నేను చూశాను, కానీ వాళ్ళెవరికీ ఇంత బలం, ఇంత తెలివి లేవు" అన్నాడు.
+E5.18 7 | మూడు ఇనుప బాణములు => అయిదు ఇనుప బాణములు
+E5.18 14 | ఆకాశంలోకి ఎగిరి శరీరాన్ని పెద్దద్ది చేసి కింద పడ్డాడు. అప్పుడు గుర్రాలు, రథం, సారధి చనిపోయారు కాని => తన అరచేతి దెబ్బలతో ఆకాశంలో పరిగెడుతున్న ఆ రథం ఎనిమిది గుర్రాలను చంపేశాడు. రథం విరిగి నేలకూలింది. కాని
+VIS E5.18 14 | Hanuman striking down the eight horses of Aksha's sky-chariot with his palm; Aksha springing free with bow and sword
+
+# E5.15 (5-66-4..5: the jewel was Janaka's wedding gift, given to him by Indra at a yajna)
+E5.15 28 | ఈ చూడామణిని వివాహ సమయంలో నా శిరస్సుయందు మా అమ్మ అలంకరించింది. => వివాహ సమయంలో మా తండ్రిగారు ఈ చూడామణిని నాకు కానుకగా ఇచ్చారు, మా అమ్మ దీనిని నా శిరస్సున అలంకరించింది.
+
+# E5.19  (5-48-1: angry at Aksha's death, Ravana steadies his mind; 5-48-46..50: Hanuma bound with hemp and bark, and
+#         once another bond is laid the Brahma-weapon lets go — no second missile can hold; 5-49-17..18: Hanuma's
+#         admiration; 5-50-2..3: Ravana wonders if this is Nandi, who cursed him at Kailasa, or Bana; 5-50-8..9:
+#         Prahasta asks if Indra, Yama, Varuna, Kubera or Vishnu sent him)
+SAY E5.19 2 | తన చిన్న కొడుకు అక్షుడు చనిపోయాడని విని రావణుడికి పట్టరాని కోపం వచ్చింది. కానీ మనసును అదుపులో పెట్టుకుని ఆలోచించాడు.
+VIS E5.19 2 | Ravana (enthroned, like a dark cloud set upon a throne), jaw set in fury yet holding himself still
+E5.19 8 | కనపడ్డ గుడ్డ ముక్కలతో => జనపనార తాళ్ళతో, చెట్ల నారతో
+E5.19 10 | ఒకసారి బ్రహ్మాస్త్రం వెయ్యబడ్డ వ్యక్తి మీద ధనుర్వేదంలో ఉన్న ఏ అస్త్రం మళ్ళీ సూర్యోదయం అయ్యేవరకు పనిచెయ్యదు. => అస్త్రం పట్టు ఒకసారి వదిలిపోతే, ఇంకొక అస్త్రం అతని మీద పనిచెయ్యదు. నా గొప్ప ప్రయత్నం అంతా వృథా అయిపోయింది.
+E5.19 16 | మా ప్రభువు ధర్మాత్ముడు. =>
+E5.19 16 | నిన్ను అగ్ని పంపించాడ? యముడు పంపించాడ? కుబేరుడు పంపించాడ? విష్ణువు పంపించాడ? => నిన్ను ఇంద్రుడు పంపించాడా? యముడా, వరుణుడా, కుబేరుడా, విష్ణువా?
+SAY E5.19 19 | హనుమను చూసిన రావణుడి మనసులో అనుమానం మొదలైంది. 'ఇతని రూపం వానరుడిదే కానీ, ఈ తేజస్సు మామూలు వానరుడిది కాదు.
+SAY E5.19 20 | బహుశా ఆనాడు నేను కైలాస పర్వతాన్ని కదిపినప్పుడు నన్ను శపించిన నందీశ్వరుడే ఈ రూపంలో వచ్చాడేమో, లేక బలి కొడుకు బాణాసురుడేమో' అనుకున్నాడు.
+
+# E5.20  (5-51-31..32: "I alone could destroy Lanka, but Rama has vowed to slay the enemy himself"; 5-51-39..45: Rama
+#         could dissolve and re-create the worlds; neither Brahma, Rudra nor Indra could stand before him in battle —
+#         Kailasa, Shiva's bow and Parashurama are not in this speech; 5-53-6..8: rags and oil)
+SAY E5.20 11 | రాముడు తలచుకుంటే పంచభూతాలతో సహా ఈ లోకాలన్నిటినీ నాశనం చేసి, మళ్ళీ అలాగే సృష్టించగలడు.
+VIS E5.20 11 | Painted inset: Rama radiant with his bow against a sky of turning stars and worlds
+SAY E5.20 12 | నాలుగు ముఖాల బ్రహ్మ గానీ, త్రిపురాలను కాల్చిన రుద్రుడు గానీ, దేవేంద్రుడు గానీ యుద్ధంలో రాముడి ముందు నిలబడలేరు.
+VIS E5.20 12 | Painted inset: Rama with his drawn bow, the heavens hushed around him
+E5.20 13 | అయినా నిన్ను చంపడానికి రాముడు ఎందుకు, నేను చాలు. => నేను ఒక్కడినే ఈ లంకను నాశనం చేయగలను, కానీ శత్రువును తానే సంహరిస్తానని రాముడు ప్రతిజ్ఞ చేశాడు.
+E5.20 18 | నెయ్యి పోసి మంట వెలిగించారు => నూనె పోసి మంట వెలిగించారు
+
+# E5.21  (5-55-29..34: the Charanas say Sita alone is unburnt; 5-54-10: he had passed over Vibhishana's house;
+#         5-56-1..9: "thank heaven you are safe" — she: "you could do it alone, but it befits Rama to win me with his
+#         arrows" — he: "Rama will come soon with the vanara and bear chiefs")
+E5.21 12 | జరగలేదు. అలాగే విభీషణుడి ఇల్లుకి కూడా ఏమి జరగలేదు" అన్నారు. => జరగలేదు" అన్నారు. నిప్పు పెడుతున్నప్పుడే హనుమ విభీషణుడి ఇంటిని వదిలేశాడు.
+SAY E5.21 13 | అప్పుడు హనుమంతుడు శింశుపా వృక్షం కింద ఉన్న సీతమ్మ దగ్గరికి వచ్చి నమస్కరించి "అమ్మా! అదృష్టం కొద్దీ నువ్వు క్షేమంగా ఉన్నావు" అన్నాడు. సీతమ్మ "నాయనా! ఈ పని ఒంటరిగా పూర్తి చేయగల శక్తి నీకు ఉంది. కానీ రాముడే తన బాణాలతో లంకను గెలిచి నన్ను తీసుకెళ్ళడం ఆయనకు తగినది" అంది.
+SAY E5.21 14 | హనుమంతుడు "అమ్మా! వానర, భల్లూక వీరులతో రాముడు తొందరలోనే వచ్చి, శత్రువులను గెలిచి నీ దుఃఖం తీరుస్తాడు" అని ఓదార్చి, నమస్కరించి, రాముడిని చూడాలనే ఆతృతతో ఆకాశంలోకి ఎగిరి నల్లటి వనాలతో,
+VIS E5.21 14 | Hanuman's farewell — palms joined before Sita; then one bound into the sky
+
+# E5.22  (5-57-29..37: he lands on Mahendra, bows to Jambavan and Angada, and tells them "I have seen Sita";
+#         5-62-8..40: the guards are beaten and tossed, Angada himself throws down Dadhimukha, who goes to Sugriva and
+#         falls at his feet; 5-63-11..17: Lakshmana asks, Sugriva guesses the truth; 5-65-1: they come to Rama on
+#         Mount Prasravana)
+SAY E5.22 5 | హనుమని దూరంలో చూడగానే వానరులంతా చేతులు జోడించి నిలబడ్డారు. హనుమంతుడు మహేంద్రగిరి మీద దిగి, జాంబవంతుడికి, అంగదుడికి నమస్కరించి, "చూడబడెను సీతమ్మ" అని ఒక్క మాటలో చెప్పాడు.
+SAY E5.22 15 | ఆ వానరాల అల్లరికి దధిముఖుడి కాపలాదారులు అడ్డుపడితే, వాళ్ళను మోకాళ్ళతో కొట్టి గాలిలోకి విసిరేశారు. దధిముఖుడు చెట్టు పట్టుకుని రాగా, అంగదుడే అతన్ని కింద పడేశాడు. అప్పుడు దధిముఖుడు సుగ్రీవుడి దగ్గరికి వెళ్ళి, ఆయన పాదాల మీద పడి జరిగిందంతా చెప్పాడు.
+VIS E5.22 15 | The revellers tossing the grove's guards about; old Dadhimukha thrown down; then Dadhimukha prostrate before Sugriva (crowned king)
+SAY E5.22 16 | అది విన్న సుగ్రీవుడి ముఖం సంతోషంతో వెలిగిపోయింది. పక్కనే ఉన్న లక్ష్మణుడు "ఈ వనపాలకుడు ఎందుకు వచ్చాడు? ఏం చెబుతున్నాడు?" అని అడిగాడు.
+VIS E5.22 16 | Dadhimukha complaining at Sugriva's feet; Sugriva's face breaking into a slow smile; Lakshmana puzzled beside him
+SAY E5.22 17 | అప్పుడు సుగ్రీవుడు "లక్ష్మణా! దక్షిణ దిక్కుకి వెళ్ళిన వానరాలు మధువనాన్ని నాశనం చేశాయట. పని పూర్తి కాకపోతే వాళ్ళు ఎప్పుడూ ఇలా చేయరు.
+E5.22 19 | కిష్కింధకి చేరిపోయారు. => రాముడు ఉన్న ప్రస్రవణ పర్వతానికి చేరుకున్నారు.
+
+# Kept slokas spelled as in Valmiki (5-36-2, 5-42-36)
+E5.13 16 | దేవ్యంహుళీయకం => దేవ్యంగుళీయకం
+E5.17 6 | అర్ధయిత్వా => అర్దయిత్వా
