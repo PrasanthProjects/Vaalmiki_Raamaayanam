@@ -129,6 +129,7 @@ h1 mark { background: none; color: var(--saffron); }
         <h1 id="headline"></h1>
         <div class="tabs" role="tablist">
           <button class="tab" role="tab" id="tab-clips" aria-selected="true">క్లిప్‌లు</button>
+          <button class="tab" role="tab" id="tab-dialog" aria-selected="false" hidden>🎙 డైలాగ్</button>
           <button class="tab" role="tab" id="tab-thumb" aria-selected="false">థంబ్‌నెయిల్ & అప్‌లోడ్</button>
           <button class="tab" role="tab" id="tab-refs" aria-selected="false">రిఫరెన్స్‌లు (పాత్రలు · ప్రదేశాలు)</button>
         </div>
@@ -228,21 +229,6 @@ h1 mark { background: none; color: var(--saffron); }
       if (s.reading) { const r = el('div', 'read'); r.append(el('div', 'eyebrow', 'చదవడానికి సులువుగా')); s.reading.forEach((l) => r.append(el('div', '', l))); sl.append(r); }
       p.append(sl);
     }
-    if (s.tts && s.tts.length) {
-      p.append(el('h2', 'section-title', D.ttsTitle || 'వాయిస్ టెక్స్ట్'));
-      if (s.ttsAll) {   // the whole video's narration in one tap
-        const all = el('div', 'card'); const act = el('div', 'actions');
-        const b = el('button', 'copy', '📋 మొత్తం డైలాగ్‌లు కాపీ'); b.dataset.label = b.textContent;
-        b.addEventListener('click', () => copyText(s.ttsAll, b));
-        act.append(b); all.append(el('div', 'label', 'ఈ వీడియో మొత్తం నెరేషన్ – ' + s.ttsAll.length + ' అక్షరాలు'), act,
-          el('p', 'note', s.ttsAllNote || ''));
-        p.append(all);
-      }
-      const tb = el('div', 'cards');
-      s.tts.forEach((t, i) => tb.append(textBlock(((s.ttsLabels && s.ttsLabels[i]) || ('భాగం ' + (i + 1) + ' / ' + s.tts.length)) + ' · ' + t.length + ' అక్షరాలు', t, 'టెక్స్ట్ కాపీ')));
-      p.append(tb);
-      p.append(el('h2', 'section-title', 'క్లిప్‌లు'));
-    }
     const f = el('div', 'filters'); f.append(el('span', '', 'చూపించు:'));
     [['all', 'అన్నీ'], ['video', 'వీడియో'], ['image', 'ఇమేజ్'], ['todo', 'మిగిలినవి']].forEach(([k, t]) => {
       const c = el('button', 'chip', t); c.setAttribute('aria-pressed', filter === k ? 'true' : 'false');
@@ -271,6 +257,35 @@ h1 mark { background: none; color: var(--saffron); }
     });
     if (!cards.children.length) cards.append(el('p', 'note', 'ఈ ఫిల్టర్‌లో క్లిప్‌లు లేవు.'));
     p.append(cards);
+  }
+  function renderDialog(s) {
+    const p = $('panel');
+    if (s.tts && s.tts.length) {
+      p.append(el('h2', 'section-title', D.ttsTitle || 'వాయిస్ టెక్స్ట్'));
+      if (s.ttsAll) {   // the whole video's narration in one tap
+        const all = el('div', 'card'); const act = el('div', 'actions');
+        const b = el('button', 'copy', '📋 మొత్తం డైలాగ్‌లు కాపీ'); b.dataset.label = b.textContent;
+        b.addEventListener('click', () => copyText(s.ttsAll, b));
+        act.append(b); all.append(el('div', 'label', 'ఈ వీడియో మొత్తం నెరేషన్ – ' + s.ttsAll.length + ' అక్షరాలు'), act,
+          el('p', 'note', s.ttsAllNote || ''));
+        p.append(all);
+      }
+      const tb = el('div', 'cards');
+      s.tts.forEach((t, i) => tb.append(textBlock(((s.ttsLabels && s.ttsLabels[i]) || ('భాగం ' + (i + 1) + ' / ' + s.tts.length)) + ' · ' + t.length + ' అక్షరాలు', t, 'టెక్స్ట్ కాపీ')));
+      p.append(tb);
+    }
+    // every spoken line in clip order: the same numbered steps as the recording script
+    p.append(el('h2', 'section-title', 'క్లిప్ వారీగా డైలాగ్‌లు'));
+    const list = el('div', 'cards'); let step = null;
+    s.clips.forEach((c) => {
+      if (c.narration && c.narration.startsWith('(')) { if (step) step.no.textContent += '–' + c.no; return; }   // same line, new picture
+      if (!c.narration) return;
+      const card = el('article', 'card'); const head = el('div', 'head');
+      const no = el('span', 'no', '🎙 ' + c.no); head.append(no, el('span', 'time', c.time), el('span', 'label', c.label));
+      const box = promptBox(c.narration, 'డైలాగ్ కాపీ'); box.classList.add('open');
+      card.append(head, box); list.append(card); step = { no };
+    });
+    p.append(list);
   }
   function renderThumb(s) {
     const p = $('panel'); const e = entry(sid(s.n));
@@ -329,10 +344,10 @@ h1 mark { background: none; color: var(--saffron); }
     const s = D.slokas[cur];
     $('eyebrow').textContent = s.badge + ' · ' + count(s) + '/' + (s.clips.length + 1) + ' పూర్తి';
     markHl($('headline'), s.headline, s.hl);
-    ['clips', 'thumb', 'refs'].forEach((t) => $('tab-' + t).setAttribute('aria-selected', tab === t ? 'true' : 'false'));
+    ['clips', 'dialog', 'thumb', 'refs'].forEach((t) => $('tab-' + t).setAttribute('aria-selected', tab === t ? 'true' : 'false'));
     $('pick').value = String(cur);
     $('panel').textContent = '';
-    if (tab === 'clips') renderClips(s); else if (tab === 'thumb') renderThumb(s); else renderRefs();
+    if (tab === 'clips') renderClips(s); else if (tab === 'dialog') renderDialog(s); else if (tab === 'thumb') renderThumb(s); else renderRefs();
   }
   function go(i) {
     cur = Math.max(0, Math.min(D.slokas.length - 1, i));
@@ -347,7 +362,8 @@ h1 mark { background: none; color: var(--saffron); }
   $('prev').addEventListener('click', () => go(cur - 1));
   $('next').addEventListener('click', () => go(cur + 1));
   $('search').addEventListener('input', renderList);
-  ['clips', 'thumb', 'refs'].forEach((t) => $('tab-' + t).addEventListener('click', () => { tab = t; render(); }));
+  ['clips', 'dialog', 'thumb', 'refs'].forEach((t) => $('tab-' + t).addEventListener('click', () => { tab = t; render(); }));
+  if (D.slokas.some((x) => x.tts && x.tts.length)) $('tab-dialog').hidden = false;   // long videos: a dialogue-only tab
   const fromHash = D.slokas.findIndex((s) => '#' + sid(s.n) === location.hash);
   let saved = 0; try { saved = +(localStorage.getItem(LKEY + '-cur') || 0); } catch (e) {}
   cur = fromHash >= 0 ? fromHash : (saved < D.slokas.length ? saved : 0);
