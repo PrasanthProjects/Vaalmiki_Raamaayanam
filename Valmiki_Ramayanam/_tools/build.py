@@ -23,6 +23,9 @@ TOOLS = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(TOOLS)
 sys.path.insert(0, TOOLS)
 from shorts_style import STYLE, RESPECT, TAIL, CHARS, GROUPS  # noqa: E402
+import live_style as LS  # noqa: E402
+
+LIVE = False   # set per sarga: True when its flow rows use the published page's reference library (live_style)
 
 KANDAS = {
     '1_Bala_Kanda': 'బాలకాండ', '2_Ayodhya_Kanda': 'అయోధ్యకాండ', '3_Aranya_Kanda': 'అరణ్యకాండ',
@@ -41,10 +44,15 @@ FIX = {
     ('1_Bala_Kanda', 1, 65): [('చాస్తి', 'చాస్థి')],
     ('1_Bala_Kanda', 1, 84): [('మహాత్మనః ॥', 'మహాత్మనః ।')],
     ('1_Bala_Kanda', 1, 100): [('త్ క్షత్రియో', 'స్యాత్ క్షత్రియో')],
+    # Sarga 2: wiki indentation (::) and a hyphen split the two long last ślokas; k for c (चरितं, शिरसश्च); a stray ర్.
+    ('1_Bala_Kanda', 2, 38): [('భగవాన్ ర్మునిర్', 'భగవాన్ మునిర్')],
+    ('1_Bala_Kanda', 2, 42): [('మనోరమై-\n::స్తదాస్య', 'మనోరమైస్తదాస్య'), ('యశస్వినో\n::యశస్కరం', 'యశస్వినో యశస్కరం')],
+    ('1_Bala_Kanda', 2, 43): [('సంధియోగం\n::సమమధురో', 'సంధియోగం సమమధురో'), ('రఘువరకరితం', 'రఘువరచరితం'),
+                              ('మునిప్రణీతం\n::దశశిరసశ్క', 'మునిప్రణీతం దశశిరసశ్చ')],
 }
 
 # The long episode each sarga's Shorts come from, for YouTube's "Related video" link on every Short.
-RELATED = {('బాలకాండ', 1): ('E1.01', 'వాల్మీకి మహర్షి కథ')}
+RELATED = {('బాలకాండ', 1): ('E1.01', 'వాల్మీకి మహర్షి కథ'), ('బాలకాండ', 2): ('E1.02', 'క్రౌంచ పక్షులు')}
 
 HASHTAGS = '#shorts #ramayanam #telugushorts #devotional #shloka #ramayanintelugu #valmikiramayanam'
 
@@ -161,6 +169,7 @@ MOTION_WORDS = ('leap', 'fly', 'flies', 'flying', 'descend', 'arrow', 'running',
                 'storm', 'lightning', 'throw', 'hurl', 'flick', 'roar', 'rising', 'rises', 'glides', 'flow')
 # Shots AI video handles badly (crowds, many arms or heads): always a still image.
 STILL_ONLY = {'RAVANA', 'KHARA', 'KABANDHA'} | GROUPS
+STILL_ONLY |= {'RAVANA_TEN', 'KHARA_SOLO', 'RAKSHASA_ARMY', 'VANARA_ARMY', 'AYODHYA_PEOPLE', 'RISHIS_GROUP'} | set(LS.GROUP_TEXT)
 
 
 def motion_score(clip):
@@ -242,11 +251,16 @@ def clip_cards(clips, texts):
     for i, (chars, frame, motion, cam, light) in enumerate(clips):
         a, b, label = SLOTS[i]
         video = kinds[i] == 'video'
+        if LIVE:
+            keys = keys_of(chars)
+            refs = LS.ref_keys(keys)
+            prompt = LS.video(keys, frame, motion, cam, light) if video else LS.still(keys, frame, light)
+        else:
+            refs = [k for k in keys_of(chars) if k not in GROUPS]
+            prompt = clip_prompt(chars, frame, motion, cam, light) if video else still_prompt(chars, frame, light)
         cards.append({
             'no': i + 1, 'time': f'{mmss(a)} – {mmss(b)}', 'label': label, 'kind': kinds[i],
-            'narration': texts[i], 'refs': [k for k in keys_of(chars) if k not in GROUPS],
-            'move': '' if video else editor_move(cam),
-            'prompt': clip_prompt(chars, frame, motion, cam, light) if video else still_prompt(chars, frame, light),
+            'narration': texts[i], 'refs': refs, 'move': '' if video else editor_move(cam), 'prompt': prompt,
         })
     return cards
 
@@ -260,6 +274,8 @@ def thumb_md(t, clips, kanda_te, sarga, n):
 
 def thumb_prompt(clips):
     pick = next((c for c in clips if keys_of(c[0])), clips[0])
+    if LIVE:
+        return LS.thumb(keys_of(pick[0]), pick[1], pick[4])
     who = '; '.join(CHARS[k] for k in keys_of(pick[0]))
     refs = [k for k in keys_of(pick[0]) if k not in GROUPS]
     prompt = ("Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. "
@@ -352,14 +368,12 @@ def reference_sheets():
     out = ["# పాత్రల రిఫరెన్స్ ఇమేజ్‌లు (Character Reference Sheets)\n",
            "Google Flow లో పాత్రలు ప్రతి క్లిప్‌లో ఒకేలా కనిపించడానికి, ముందుగా ప్రతి పాత్రకు **ఒక్కసారి** ఇమేజ్ తయారు చేయండి.\n",
            "1. కింది ప్రాంప్ట్‌తో Flow (లేదా ఏదైనా ఇమేజ్ టూల్) లో ఇమేజ్ తయారు చేయండి. 3–4 వెర్షన్లలో ఉత్తమమైనది ఎంచుకోండి.",
-           "2. దాన్ని `Valmiki_Ramayanam/_reference_images/` ఫోల్డర్‌లో ఇచ్చిన పేరుతో సేవ్ చేయండి (ఉదా: `RAMA_S3.png`).",
+           "2. దాన్ని `Valmiki_Ramayanam/_reference_images/` ఫోల్డర్‌లో ఇచ్చిన పేరుతో సేవ్ చేయండి (ఉదా: `RAMA_PRINCE.png`).",
            "3. ప్రతి క్లిప్‌లో **రిఫరెన్స్** అని ఉన్న ఇమేజ్‌లను Flow లో *Ingredients* గా జత చేసి, ఆ క్లిప్ ప్రాంప్ట్ ఇవ్వండి.",
            "4. ఒకసారి ఆమోదించిన ఇమేజ్‌ను మార్చవద్దు. మారిస్తే ఆ పాత్ర ఉన్న అన్ని క్లిప్‌లు మళ్ళీ చేయాలి.\n",
-           "గుంపులు (ఋషులు, రాక్షస సైన్యం, వానర సైన్యం, దేవతలు, ప్రజలు) కు రిఫరెన్స్ అవసరం లేదు.\n"]
-    for k, desc in CHARS.items():
-        if k in GROUPS:
-            continue
-        out.append(f"## `{k}.png`\n\n```text\n{ref_prompt(desc)}\n```\n")
+           "పాత్రలు, గుంపులు, వస్తువులు, ప్రదేశాలు – క్లిప్‌ల్లో **రిఫరెన్స్** లో ఉన్న ప్రతిదానికీ ఒక ఇమేజ్.\n"]
+    for k, v in LS.LIB.items():   # the published page's library: the images the clips are made with
+        out.append(f"## `{k}.png` · {v['te']}\n\n```text\n{v['refprompt']}\n```\n")
     return '\n'.join(out)
 
 
@@ -372,8 +386,41 @@ def ref_prompt(desc):
 
 # ---------- Flow helper page ----------
 
+def used_refs(slokas):
+    """Every reference image a sarga's clips and thumbnails use."""
+    return {k for s in slokas for k in s['thumbRefs'] + [r for c in s['clips'] for r in c['refs']]}
+
+
+def sarga_references(kanda_te, sarga, slokas):
+    """00_REFERENCES.md for one sarga: only the images its Shorts need, with the ślokas that use each."""
+    where = {}
+    for s in slokas:
+        for k in s['thumbRefs'] + [r for c in s['clips'] for r in c['refs']]:
+            where.setdefault(k, set()).add(s['n'])
+    out = [f"# {kanda_te} · సర్గ {sarga} – రిఫరెన్స్ ఇమేజ్‌లు ({len(where)})\n",
+           "ఈ సర్గ Shorts కు కావలసినవి మాత్రమే. ఇంతకు ముందు చేసిన ఇమేజ్ ఉంటే అదే వాడండి, కొత్తవి మాత్రమే చేయండి. "
+           "ప్రతి క్లిప్‌లో **రిఫరెన్స్** లో ఉన్నవి Flow లో *Ingredients* గా జత చేయండి.\n",
+           "| ఇమేజ్ | ఏమిటి | ఏ శ్లోకాల్లో |\n|---|---|---|"]
+    for k in sorted(where, key=lambda k: min(where[k])):
+        out.append(f"| `{k}.png` | {LS.LIB[k]['te']} | {', '.join(map(str, sorted(where[k])))} |")
+    out.append('')
+    for k in sorted(where, key=lambda k: min(where[k])):
+        out.append(f"## `{k}.png` · {LS.LIB[k]['te']}\n\n```text\n{LS.LIB[k]['refprompt']}\n```\n")
+    return '\n'.join(out)
+
+
 def helper_page(kanda_dir, kanda_te, sarga, slokas):
     """The clip-by-clip copy page: returns (fragment to publish on claude.ai, full local HTML)."""
+    if LIVE:   # the published page's own layout (dialogue, objects and places tabs) and library
+        data = {'key': f'{kanda_dir}_s{sarga:03d}', 'name': f'{kanda_te} · సర్గ {sarga}', 'slokas': slokas,
+                'refs': LS.library(used_refs(slokas))}
+        blob = json.dumps(data, ensure_ascii=False).replace('</', '<\\/')
+        tpl = open(os.path.join(TOOLS, 'flow_helper_live_template.html'), encoding='utf-8').read()
+        fragment = tpl.replace('__TITLE__', f'{kanda_te} సర్గ {sarga} క్లిప్‌లు').replace('__DATA__', blob)
+        full = ('<!doctype html><html lang="te"><head><meta charset="utf-8">'
+                '<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"></head><body>'
+                + fragment + '</body></html>')
+        return fragment, full
     data = {'key': f'{kanda_dir}_s{sarga:03d}', 'name': f'{kanda_te} · సర్గ {sarga}', 'slokas': slokas,
             'unit': 'శ్లోకాలు', 'clipWord': 'క్లిప్', 'subtitle': 'Google Flow కోసం క్లిప్ ప్రాంప్ట్‌లు',
             'refs': [{'key': k, 'prompt': ref_prompt(v)} for k, v in CHARS.items() if k not in GROUPS]}
@@ -404,6 +451,8 @@ def main(kanda_dir, sarga):
         rows = [r.split(' | ') for r in body.split('\n') if r.strip()]
         assert len(rows) == 7 and all(len(r) == 6 for r in rows), f'flow {n}: need 7 rows of 6 fields'
         flow[n] = [r[1:] for r in rows]
+    global LIVE
+    LIVE = all(LS.known(keys_of(row[0])) for rows in flow.values() for row in rows)
     thumbs = pipe_lines(os.path.join(data, 'thumbnails.txt'))
     pinned = {n: v[0] for n, v in pipe_lines(os.path.join(data, 'pinned_comments.txt')).items()}
 
@@ -449,7 +498,8 @@ def main(kanda_dir, sarga):
             'badge': f'{kanda_te} · సర్గ {sarga} · శ్లోకం {n}', 'title': title, 'sloka': ls,
             'reading': read if read != ls else None, 'clips': clip_cards(flow[n], texts),
             'thumbPrompt': tprompt, 'thumbRefs': trefs,
-            'desc': upload_desc(title, ls, tt, kanda_te, sarga, n), 'pinned': pinned[n], 'srt': name + '.srt'})
+            'desc': upload_desc(title, ls, tt, kanda_te, sarga, n), 'pinned': pinned[n], 'srt': name + '.srt',
+            **({'speaker': [x.strip() for x in f['SPK'].split(' | ', 1)]} if 'SPK' in f else {})})
         n_video += kinds.count('video')
         n_image += kinds.count('image')
     open(os.path.join(out_dir, '00_INDEX.md'), 'w', encoding='utf-8', newline='\n').write(
@@ -461,6 +511,9 @@ def main(kanda_dir, sarga):
         + '\n'.join(index) + '\n')
     open(os.path.join(out_dir, 'thumbnails_canva.csv'), 'w', encoding='utf-8', newline='').write(canva_csv(canva_rows))
     fragment, full = helper_page(kanda_dir, kanda_te, sarga, helper)
+    if LIVE:
+        open(os.path.join(out_dir, '00_REFERENCES.md'), 'w', encoding='utf-8', newline='\n').write(
+            sarga_references(kanda_te, sarga, helper))
     open(os.path.join(out_dir, '00_CLIPS_HELPER.html'), 'w', encoding='utf-8', newline='\n').write(full)
     os.makedirs(os.path.join(TOOLS, 'publish'), exist_ok=True)  # claude.ai copy; not committed
     open(os.path.join(TOOLS, 'publish', f'{kanda_dir}_Sarga_{sarga:03d}.html'), 'w', encoding='utf-8',
