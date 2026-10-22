@@ -37,7 +37,7 @@ GROUPS = [  # crowd words in a scene -> one consistent crowd description
     (r'\bvanara (army|soldiers|host|troops)|\bvanaras\b',
      'an army of vanara warriors (muscular, upright, human-proportioned bodies with monkey faces and tails), '
      'varied fur tones and builds, dhotis and sashes, white Vishnu namam'),
-    (r'\brakshasa (army|soldiers|host|troops)|\brakshasas\b',
+    (r'\brakshasa (army|soldiers|host|troops)|\brakshasas\b|\bkinkaras\b',
      'rakshasa soldiers with varied builds, skin tones and dark ornate armour, some with moustaches, '
      'three ash-white Shiva lines; fierce but not horror'),
     (r'\b(devas|devatas|devatalu|gods|celestials)\b',
@@ -126,6 +126,7 @@ def tag_name(m):
 def clean_visual(v):
     v = re.sub(r'\[([^\]]*)\]', tag_name, v)
     v = re.sub(r'\s*\((?:see|per|use)[^)]*\)', '', v, flags=re.I)
+    v = re.sub(r'\s*\(generic rakshasi template[^)]*\)', '', v)   # the guards' look comes from their reference
     v = re.sub(r",?\s*per (?:the )?style guide'?s?[^,.;]*", '', v, flags=re.I)
     return re.sub(r'\s+', ' ', v).strip(' ,;')
 
@@ -147,6 +148,9 @@ def ayodhya_scene(visual, loc, ep):
 def group_looks(visual, loc, ep):
     """Crowd descriptions for a scene; a crowd in Ayodhya is the people of Ayodhya, with their own reference image."""
     low, looks, refs = visual.lower(), [], []
+    if ep_key(ep) >= (5, 1) and re.search(r'rakshasi guards|rakshasa women|rakshasa woman guards|generic rakshasi', low):
+        looks.append(character('RAKSHASI_GUARDS', ep))   # Sundara: the Ashoka-grove guards have their own image
+        refs.append('RAKSHASI_GUARDS')
     for pat, desc in GROUPS:
         if re.search(pat, low):
             if desc is GROUPS[4][1] and ayodhya_scene(visual, loc, ep):

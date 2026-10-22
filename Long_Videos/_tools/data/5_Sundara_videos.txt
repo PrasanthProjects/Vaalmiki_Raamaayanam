@@ -1,0 +1,255 @@
+# Sundara Kaanda: 22 episodes -> videos of 10-12 minutes (same rules as 4_Kishkindha_videos.txt)
+
+# Slokas kept on screen, each with its meaning card
+KEEP E5.01 2
+CARD E5.01 2 | సుందరకాండలో రాముడు సుందరుడు, కథ సుందరం, సీతమ్మ సుందరి, వనం సుందరం, కావ్యం సుందరం, హనుమ సుందరుడు, మంత్రం సుందరం. సుందరకాండలో సుందరం కానిది ఏముంది?
+KEEP E5.01 6
+CARD E5.01 6 | రావణుడు ఎత్తుకుపోయిన సీతమ్మ జాడ వెతకడానికి హనుమంతుడు చారణులు వెళ్ళే ఆకాశ మార్గంలో వెళ్ళాలని సంకల్పించాడు.
+KEEP E5.13 16
+CARD E5.13 16 | అమ్మా! నేను వానరుడిని, బుద్ధిమంతుడైన రాముడి దూతను. రాముడి పేరు చెక్కిన ఈ ఉంగరం చూడు.
+KEEP E5.13 17
+CARD E5.13 17 | నీకు నమ్మకం కలగడానికి ఆయనే ఇది ఇచ్చి పంపాడు. ధైర్యంగా ఉండు, నీ కష్టాలు తీరిపోయాయి.
+KEEP E5.17 3
+CARD E5.17 3 | అతి బలవంతుడైన రాముడికి జయం, మహాబలుడైన లక్ష్మణుడికి జయం. రాముడి రక్షణలో ఉన్న సుగ్రీవ మహారాజుకు జయం.
+KEEP E5.17 4
+CARD E5.17 4 | ఏ పనైనా అలుపు లేకుండా చేసే కోసల రాజు రాముడికి నేను దాసుడిని. శత్రు సైన్యాలను నాశనం చేసే వాయుపుత్రుడు హనుమను నేను.
+KEEP E5.17 5
+CARD E5.17 5 | వెయ్యి మంది రావణులు వచ్చినా యుద్ధంలో నాకు సాటి కారు. వేల కొద్దీ రాళ్ళతో, చెట్లతో కొడతాను.
+KEEP E5.17 6
+CARD E5.17 6 | లంకను నాశనం చేసి, సీతమ్మకు నమస్కరించి, రాక్షసులంతా చూస్తుండగానే పని పూర్తి చేసుకుని వెళతాను.
+KEEP E5.16 8
+CARD E5.16 8 | సుగ్రీవుడి దగ్గర నాతో సమానమైనవాళ్ళు, నాకన్నా గొప్పవాళ్ళు ఉన్నారు. నాకన్నా తక్కువవాడు ఒక్కడూ లేడు.
+KEEP E5.06 17
+CARD E5.06 17 | లక్ష్మణుడితో కూడిన రాముడికి, జనకుని కూతురు సీతమ్మకు నమస్కారం. రుద్రుడికి, ఇంద్రుడికి, యముడికి, వాయుదేవుడికి, చంద్రుడికి, సూర్యుడికి, దేవతలందరికీ నమస్కారం.
+
+# Spelling slips in the scene tables (the episode files are never edited by the builder)
+E5.10 28 | భర్తు సమాగమాన్ని పొందుతుంది => భర్తను కలుసుకుంటుంది
+E5.10 28 | సుభశకునములు => శుభశకునములు
+E5.10 29 | శ్రీ మహాలస్త్రి => శ్రీ మహాలక్ష్మి
+E5.11 12 | ఒక చాప వచ్చి => ఒక చేప వచ్చి
+E5.11 13 | ఆ చాప అక్కడినుండి => ఆ చేప అక్కడినుండి
+E5.11 20 | వానర బాషలో => వానర భాషలో
+E5.11 20 | ఆ బాష అర్ధం => ఆ భాష అర్ధం
+E5.11 20 | మనుష్య బాషలో మాట్లాడితే రాక్షసులు => మనుష్య భాషలో మాట్లాడితే రాక్షసులు
+E5.11 20 | నేను మనుష్య బాషలో => నేను మనుష్య భాషలో
+E5.12 2 | సంపాదించివాడు => సంపాదించినవాడు
+E5.12 5 | ప్రవేసపెట్టి => ప్రవేశపెట్టి
+E5.12 12 | సప్రహ కోల్పోయి => స్పృహ కోల్పోయి
+E5.13 4 | క్షేత్రాముగా => క్షేత్రముగా
+E5.13 7 | రామ బక్తుడివి => రామ భక్తుడివి
+E5.14 3 | అగిగాక => అడిగాక
+E5.14 12 | సప్రహ ఉండడం => స్పృహ ఉండడం
+E5.14 14 | కుర్చో" => కూర్చో"
+E5.14 18 | గరుగ్మంతుడికి => గరుత్మంతుడికి
+E5.14 22 | సప్రహలో => స్పృహలో
+E5.14 22 | సప్రశించను => స్పృశించను
+E5.15 21 | కాకసురుడిని => కాకాసురుడిని
+E5.15 28 | (చూడమణి => (చూడామణి
+E5.16 7 | గరుగ్మంతుడు => గరుత్మంతుడు
+E5.16 10 | నిదర్సనం => నిదర్శనం
+E5.18 16 | ఆ దెబ్బకి అక్షకుమారుడి కళ్ళు పేలిపోయి గుడ్లు ఎగిరిపోయాయి, తలకాయి వెయ్యి ముక్కలయ్యింది, కడుపు బద్దలయిపోయి పేగులు బయటకి వచ్చాయి. => ఆ దెబ్బకి అక్ష కుమారుడు అక్కడికక్కడే ప్రాణాలు విడిచాడు.
+E5.19 9 | నిర్భంధింపబడ్డ => నిర్బంధింపబడ్డ
+E5.19 13 | తన మంత్రైన ప్రహస్తుడి => తన మంత్రి అయిన ప్రహస్తుడి
+E5.19 18 | వీడి దెగ్గరే కాని => వీడి దగ్గర
+E5.19 20 | కైలాశ పర్వతాలని => కైలాస పర్వతాన్ని
+E5.19 21 | కిష్కిందా రాజ్యాన్ని => కిష్కింధ రాజ్యాన్ని
+E5.20 3 | లంకలొ పెట్టావు => లంకలో పెట్టావు
+E5.20 14 | ఇంతలా అపేక్షించి => ఇంతలా అధిక్షేపించి
+E5.20 18 | పాట బట్టలు => పాత బట్టలు
+E5.22 12 | తెనేపట్లు => తేనెపట్లు
+E5.22 16 | వానర బాషలో => వానర భాషలో
+E5.22 19 | కిష్కిందకి => కిష్కింధకి
+E5.22 23 | అడిగిగాడు => అడిగాడు
+E5.22 24 | శోకముర్తి => శోకమూర్తి
+E5.22 26 | సుందర కాండ సమాప్తం. => ఇంతటితో సుందర కాండ సమాప్తం.
+
+# Plain spelling for names the scene tables write two ways
+SIMPLE | దదిముఖుడ => దధిముఖుడ
+SIMPLE | మధువానాన్ని => మధువనాన్ని
+E5.08 12 | సీత! నీకు అందమైన స్తనములు ఉన్నాయి, ఏనుగు తొండాల్లాంటి తొడలు ఉన్నాయి. => సీత! నువ్వు చాలా అందంగా ఉన్నావు.
+
+TONE E5.01 | awe
+TONE E5.02 | curious
+TONE E5.03 | curious
+TONE E5.04 | awe
+TONE E5.05 | curious
+TONE E5.06 | serious
+TONE E5.07 | sad
+TONE E5.08 | tense
+TONE E5.09 | serious
+TONE E5.10 | tense
+TONE E5.11 | sad
+TONE E5.12 | warm
+TONE E5.13 | warm
+TONE E5.14 | warm
+TONE E5.15 | serious
+TONE E5.16 | tense
+TONE E5.17 | awe
+TONE E5.18 | tense
+TONE E5.19 | serious
+TONE E5.20 | tense
+TONE E5.21 | awe
+TONE E5.22 | warm
+TONE E5.07 9 | warm
+TONE E5.14 9 | awe
+TONE E5.18 5 | tense
+TONE E5.20 17 | tense
+
+# Videos that start inside an episode: their own hook, a short "so far", and the teaser that ends the video before
+SPLIT E5.07 9 | FROM: 17 | HOOK: మట్టి నేల మీద కూర్చున్న ఒక తల్లి. ఆమె కోసమే పద్నాలుగు వేల మంది రాక్షసులు నేలకూలారు, వాలి పడిపోయాడు. ఆ తల్లిని చూస్తూ హనుమ మనసులో ఏమనుకున్నాడు? | RECAP: ఇంతవరకు: లంక అంతా వెతికిన హనుమ అశోకవనానికి వచ్చాడు. శింశుపా చెట్టు మీద నుండి చూస్తే, రాక్షస స్త్రీల మధ్య కన్నీళ్ళతో ఉన్న సీతమ్మ కనిపించింది. | TEASE: అమ్మను చూసిన హనుమ మనసులో రాముడు మెదిలాడు. ఆ ఆలోచన ఏమిటో తరువాతి వీడియోలో చూద్దాం.
+SPLIT E5.14 9 | FROM: 16 | HOOK: పిల్లి పిల్లంత వానరుడు ఒక్కసారిగా మేరు పర్వతం అంత ఎదిగిపోయాడు. ఆ రూపం చూసి సీతమ్మ ఏమంది? | RECAP: ఇంతవరకు: హనుమ ఇచ్చిన ఉంగరం చూసిన సీతమ్మ అందరి క్షేమం అడిగింది. ఇంకో నెల మాత్రమే ప్రాణాలతో ఉంటానని రాముడికి చెప్పమంది. | TEASE: ఒక్క నెల గడువు! అది విన్న హనుమ ఏం చేశాడో తరువాతి వీడియోలో చూద్దాం.
+SPLIT E5.18 5 | FROM: 11 | HOOK: రావణుడి చిన్న కొడుకు. అగ్నిలా మెరిసే పిల్లవాడు. అతని పరాక్రమం చూసి హనుమకే ముచ్చటేసింది. కానీ ఇంట్లో అగ్ని ఉందని చూస్తూ ఊరుకుంటే ఇల్లే తగలబడుతుందని హనుమకు తెలుసు. | RECAP: ఇంతవరకు: అశోకవనాన్ని నాశనం చేసిన హనుమను పట్టుకోవడానికి రావణుడు కింకరులను, జంబుమాలిని, ఏడుగురు మంత్రుల కొడుకులను పంపాడు. వాళ్ళెవరూ తిరిగి రాలేదు. | TEASE: ఇప్పుడు రావణుడు ఐదుగురు సేనానాయకులను పిలిచాడు. తరువాతి వీడియోలో చూద్దాం.
+SPLIT E5.20 17 | FROM: 18 | HOOK: లంకేశ్వరుడి శిక్ష: ఆ వానరుడి తోకను తగలబెట్టండి! పాత గుడ్డలు, నెయ్యి, మంట. కానీ ఆ మంటే లంకకు శిక్ష అవుతుందని ఎవరూ ఊహించలేదు. | RECAP: ఇంతవరకు: రావణ సభలో హనుమ, సీతమ్మను రాముడికి అప్పగించమని హితవు చెప్పాడు. రావణుడు హనుమను చంపమంటే, దూతను చంపకూడదని విభీషణుడు అడ్డు చెప్పాడు. | TEASE: చంపకూడదు, కానీ శిక్ష తప్పదు. ఏ శిక్ష వేశారో తరువాతి వీడియోలో చూద్దాం.
+
+# Re-hooks whose picture must come from the part that is in the same video
+REHOOK E5.14 7 | ఉంగరం చేతిలో పట్టుకున్న సీతమ్మ ఒక్కొక్కరి గురించీ అడిగింది. చివరికి ఒక గడువు పెట్టింది. ఏమిటా గడువు?
+REHOOK E5.18 3 | ఏడుగురు వీరులు, నాలుగు వైపుల నుండి బాణాల వర్షం. హనుమ ఆకాశంలోకి ఎగిరి ఏం చేశాడు?
+REHOOK E5.20 4 | బందీగా నిలబడిన ఒక వానరుడు. ఎదురుగా లోకాలను గెలిచిన రాజు. అయినా హనుమ గొంతులో భయం లేదు.
+
+# One welcome line at the start of every video
+WELCOME E5.01 | నమస్కారం. ఈ రోజు నుండి శ్రీమద్రామాయణం సుందరకాండ. మహేంద్రగిరి నుండి హనుమ సముద్ర లంఘనం, దారిలో మూడు పరీక్షలు.
+WELCOME E5.03 | నమస్కారం. శ్రీమద్రామాయణం సుందరకాండలో ఈ రోజు హనుమ లంకా ప్రవేశం, రావణుడి అంతఃపురం, పుష్పక విమానం.
+WELCOME E5.05 | నమస్కారం. శ్రీమద్రామాయణం సుందరకాండలో ఈ రోజు నిద్రిస్తున్న రావణుడు, హనుమ నిరాశ, అశోకవనంలో సీతమ్మ దర్శనం.
+WELCOME E5.07 9 | నమస్కారం. శ్రీమద్రామాయణం సుందరకాండలో ఈ రోజు సీతమ్మను చూసిన హనుమ మనసు, అశోకవనానికి రావణుడు, గడ్డిపరక జవాబు.
+WELCOME E5.10 | నమస్కారం. శ్రీమద్రామాయణం సుందరకాండలో ఈ రోజు రాక్షస స్త్రీల బెదిరింపులు, త్రిజట కల, సీతమ్మ నిరాశ, హనుమ ఆలోచన.
+WELCOME E5.12 | నమస్కారం. శ్రీమద్రామాయణం సుందరకాండలో ఈ రోజు చెట్టు మీద నుండి రామ కథ, సీతమ్మతో హనుమ మాటలు, రాముడి ఉంగరం.
+WELCOME E5.14 9 | నమస్కారం. శ్రీమద్రామాయణం సుందరకాండలో ఈ రోజు హనుమ పెద్ద రూపం, సీతమ్మ నిర్ణయం, కాకాసురుడి కథ, చూడామణి.
+WELCOME E5.16 | నమస్కారం. శ్రీమద్రామాయణం సుందరకాండలో ఈ రోజు అశోకవన విధ్వంసం, హనుమ జయ మంత్రం, రావణుడి సైన్యాలతో యుద్ధం.
+WELCOME E5.18 5 | నమస్కారం. శ్రీమద్రామాయణం సుందరకాండలో ఈ రోజు అక్ష కుమారుడు, ఇంద్రజిత్ బ్రహ్మాస్త్రం, రావణ సభలో హనుమ.
+WELCOME E5.20 17 | నమస్కారం. శ్రీమద్రామాయణం సుందరకాండలో ఈ రోజు హనుమ తోకకు నిప్పు, లంకా దహనం, చూడబడెను సీతమ్మ.
+
+# Where each video starts (pinned, so that a narration fix never re-cuts the kaanda; edit this line to re-cut).
+CUTS | E5.01, E5.03, E5.05, E5.07 9, E5.10, E5.12, E5.14 9, E5.16, E5.18 5, E5.20 17
+
+# Where each scene happens (memory insets and painted insets are left out)
+PLACE E5.01 1,5,7-20 | MAHENDRA_SHORE
+PLACE E5.01 21-24 | OCEAN_SKY
+PLACE E5.02 1,8-11,16-21,24-32 | OCEAN_SKY
+PLACE E5.03 1-6 | LAMBA_HILL
+PLACE E5.03 7-15 | LANKA_GATE
+PLACE E5.03 16-24,26 | LANKA_STREETS
+PLACE E5.04 1-5,10,20 | LANKA_PALACE
+PLACE E5.04 6-9 | LANKA_STREETS
+PLACE E5.04 11,13-18 | PUSHPAKA
+PLACE E5.04 21-26 | RAVANA_BEDCHAMBER
+PLACE E5.05 1-14 | RAVANA_BEDCHAMBER
+PLACE E5.05 15-17 | LANKA_PALACE
+PLACE E5.06 1-2 | LANKA_PALACE
+PLACE E5.06 3-7,12-19 | LANKA_STREETS
+PLACE E5.06 20-21 | ASHOKA_VANA
+PLACE E5.07 1-2 | ASHOKA_VANA
+PLACE E5.07 3-9,12-13,15-21 | SHIMSHUPA_TREE
+PLACE E5.08 2 | LANKA_STREETS
+PLACE E5.08 3-4 | RAVANA_BEDCHAMBER
+PLACE E5.08 5-7 | LANKA_PALACE
+PLACE E5.08 1,8-20 | SHIMSHUPA_TREE
+PLACE E5.09 1-14,18-22 | SHIMSHUPA_TREE
+PLACE E5.10 1-14,27-30 | SHIMSHUPA_TREE
+PLACE E5.11 1-11,14-22 | SHIMSHUPA_TREE
+PLACE E5.12 1-2,8-25 | SHIMSHUPA_TREE
+PLACE E5.13 1-2,4-21 | SHIMSHUPA_TREE
+PLACE E5.14 1-10,13-23 | SHIMSHUPA_TREE
+PLACE E5.15 1-3,22-30 | SHIMSHUPA_TREE
+PLACE E5.15 4-5,8-16,18,20-21 | CHITRAKUTA
+PLACE E5.16 1-10,14-16 | SHIMSHUPA_TREE
+PLACE E5.16 11-13 | ASHOKA_VANA
+PLACE E5.16 17-20 | LANKA_COURT
+PLACE E5.17 1-2 | LANKA_COURT
+PLACE E5.17 7-23 | ASHOKA_VANA
+PLACE E5.18 2 | LANKA_STREETS
+PLACE E5.18 3-4,7-9,11-16 | ASHOKA_VANA
+PLACE E5.18 5-6,10 | LANKA_COURT
+PLACE E5.19 1,5-11 | ASHOKA_VANA
+PLACE E5.19 2-4,12-19,21-24 | LANKA_COURT
+PLACE E5.20 1-10,13-18 | LANKA_COURT
+PLACE E5.20 19-20 | LANKA_STREETS
+PLACE E5.20 21 | LANKA_GATE
+PLACE E5.20 22-24 | SHIMSHUPA_TREE
+PLACE E5.21 1-3 | LANKA_GATE
+PLACE E5.21 4-7 | LANKA_STREETS
+PLACE E5.21 8-10 | LAMBA_HILL
+PLACE E5.21 13-14 | SHIMSHUPA_TREE
+PLACE E5.22 2 | OCEAN_SKY
+PLACE E5.22 3-9 | MAHENDRA_SHORE
+PLACE E5.22 10-15 | MADHUVANA
+PLACE E5.22 16-25 | PRASRAVANA_CAVE
+
+# The four Jaya-mantra cards: the scene line was only a casting note
+VIS E5.17 3 | Hanuman (in his great battle form) seated on the great archway of the Ashoka grove, proclaiming to the city; the shloka in gold lettering over a darkened hold of the scene
+VIS E5.17 4 | Hanuman (in his great battle form) on the archway, one hand on his heart as he names himself Rama's servant; the shloka in gold lettering over a darkened hold of the scene
+VIS E5.17 5 | Hanuman (in his great battle form) on the archway, a great rock and an uprooted tree beside him; the shloka in gold lettering over a darkened hold of the scene
+VIS E5.17 6 | Hanuman (in his great battle form) on the archway looking out over golden Lanka; the shloka in gold lettering over a darkened hold of the scene
+
+# Who is really on screen (the scene lines name some people only in passing)
+CAST E5.01 11,14,17,20-22 | HANUMAN
+CAST E5.02 2 | SAGARA, HANUMAN
+CAST E5.02 28-29 | HANUMAN, SURASA
+CAST E5.02 31-32 | HANUMAN, SIMHIKA
+CAST E5.03 1,6,26 | HANUMAN
+CAST E5.03 8-12 | LANKINI, HANUMAN
+CAST E5.03 13-15 | LANKINI
+CAST E5.04 1,20 | HANUMAN
+CAST E5.05 2,5-8 | RAVANA
+CAST E5.05 12 | HANUMAN, MANDODARI
+CAST E5.06 6-7,13-14,16,19 | HANUMAN
+CAST E5.07 5-6 | SITA
+CAST E5.07 9 | HANUMAN
+CAST E5.07 17,19 | HANUMAN, SITA
+CAST E5.08 11 | HANUMAN, RAVANA, SITA
+CAST E5.08 13,16-17,19 | RAVANA, SITA
+CAST E5.09 9 | SITA
+CAST E5.09 10 | SITA, RAVANA
+CAST E5.09 21-22 | RAKSHASI_GUARDS, SITA
+CAST E5.10 8-12 | RAKSHASI_GUARDS, SITA
+CAST E5.10 14,29-30 | TRIJATA, RAKSHASI_GUARDS
+CAST E5.10 19 | RAMA, SITA
+CAST E5.10 25 | VIBHISHANA, HANUMAN
+CAST E5.10 28 | SITA
+CAST E5.11 1 | TRIJATA, RAKSHASI_GUARDS, SITA
+CAST E5.11 14 | SITA
+CAST E5.11 15 | HANUMAN, SITA
+CAST E5.11 18 | HANUMAN, RAKSHASI_GUARDS
+CAST E5.12 7 | HANUMAN
+CAST E5.12 8,10-12,14,16,18,24-25 | HANUMAN, SITA
+CAST E5.12 15,19 | SITA
+CAST E5.13 1,4-7,19-21 | HANUMAN, SITA
+CAST E5.13 13 | RAMA
+CAST E5.14 1,22 | SITA
+CAST E5.14 2-8,10,13-16,18-21,23 | HANUMAN, SITA
+CAST E5.14 17 | HANUMAN
+CAST E5.15 3,22-26 | HANUMAN, SITA
+CAST E5.15 7-8,17 | KAKASURA
+CAST E5.15 9 | SITA, KAKASURA
+CAST E5.15 10,13 | RAMA, SITA
+CAST E5.15 12 | RAMA, SITA, KAKASURA
+CAST E5.15 15,18,20-21 | RAMA, KAKASURA
+CAST E5.16 3-7 | HANUMAN, SITA
+CAST E5.16 11-12 | HANUMAN
+CAST E5.16 14-16 | RAKSHASI_GUARDS, SITA
+CAST E5.16 18-20 | RAKSHASI_GUARDS, RAVANA
+CAST E5.17 2 | RAVANA
+CAST E5.17 3-7,9 | HANUMAN
+CAST E5.17 19-22 | HANUMAN, JAMBUMALI
+CAST E5.18 1 | HANUMAN
+CAST E5.18 2 | -
+CAST E5.18 10 | RAVANA, AKSHAKUMARA
+CAST E5.19 1,6 | HANUMAN
+CAST E5.19 4 | INDRAJIT, RAVANA
+CAST E5.19 13 | RAVANA, PRAHASTA, HANUMAN
+CAST E5.19 16 | PRAHASTA, HANUMAN
+CAST E5.19 18,21-24 | HANUMAN, RAVANA
+CAST E5.19 19 | RAVANA
+CAST E5.20 3-5,8-9,13-14 | HANUMAN, RAVANA
+CAST E5.20 10 | RAMA
+CAST E5.20 17 | RAVANA, VIBHISHANA
+CAST E5.20 22 | RAKSHASI_GUARDS, SITA
+CAST E5.20 24 | SITA
+CAST E5.21 3-4 | HANUMAN
+CAST E5.21 12 | SITA
+CAST E5.21 14 | HANUMAN, SITA
+CAST E5.22 6 | HANUMAN
+CAST E5.22 8-9 | ANGADA, JAMBAVANTHA, HANUMAN
+CAST E5.22 10 | DADHIMUKHA, HANUMAN, ANGADA
+CAST E5.22 17-18 | SUGRIVA, LAKSHMANA, DADHIMUKHA
+CAST E5.22 19 | RAMA, HANUMAN, ANGADA, SUGRIVA
+CAST E5.22 20-21,23,25 | RAMA, HANUMAN

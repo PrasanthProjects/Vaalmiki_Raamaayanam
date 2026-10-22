@@ -249,6 +249,31 @@ EXTRA.update({   # Aranya Kaanda
     'ANJANA': ("Anjana, Hanuman's mother: a beautiful vanara woman (once the apsara Punjikasthala) shown in her human "
                "form, about twenty-five, in a yellow silk saree properly draped, flowers in her hair, modest gold "
                "ornaments; a gentle, radiant face"),
+    # Sundara Kaanda
+    'SAGARA': ("Sagara, the lord of the ocean: a majestic sea-god of about fifty with a calm, deep-blue complexion, long "
+               "flowing hair like waves, a pearl and coral crown, strings of pearls and conch ornaments, sea-green silk; "
+               "rising from the water, dignified and kindly"),
+    'MAINAKA': ("Mainaka, the golden mountain in human form: a broad, strong, gentle man of about forty-five with a "
+                "golden complexion, a crown shaped like mountain peaks, gold and gem ornaments, an earth-brown silk "
+                "garment; standing on his own golden summit with joined hands, warm and hospitable"),
+    'LANKINI': ("Lankini, the guardian goddess of the city of Lanka in rakshasi form: a towering, powerful woman of "
+                "fierce aspect, dark skin, wild hair bound with gold, heavy gold ornaments and a dark red garment "
+                "properly draped, a spear in hand; formidable but not grotesque, later humbled and gracious"),
+    'DHANYAMALINI': ("Dhanyamalini, one of Ravana's queens: a beautiful young rakshasa queen with a dark complexion, "
+                     "rich silk properly draped and heavy gold jewellery; coaxing and playful"),
+    'PRAHASTA': ("Prahasta, Ravana's chief minister and commander: a tall, heavy-set rakshasa of about fifty with a "
+                 "dark bronze complexion, a thick moustache, a minister's gold headband and dark armour under a silk "
+                 "upper cloth; shrewd, measured and imposing"),
+    'DADHIMUKHA': ("Dadhimukha, Sugriva's old uncle and keeper of the honey-grove: an elderly, stout vanara "
+                   "(human-proportioned, upright, with a grey-furred simian face), a plain dhoti, a staff; fussy, "
+                   "indignant and loyal"),
+    'KAKASURA': ("Kakasura, the son of Indra in the form of a crow: a large glossy black crow with a faint unnatural "
+                 "sheen and sharp eyes"),
+    'NANDI': ("Nandi, Shiva's attendant: a radiant divine being with a bull's face on a strong human body, white and "
+              "gold, holding a trident, a calm, powerful presence"),
+    'RAKSHASI_GUARDS': ("the rakshasi guards of the Ashoka grove: a ring of rakshasa women of varied, fearsome but "
+                        "not grotesque looks (dark and ruddy complexions, wild hair, tusks on a few), dark coarse "
+                        "garments fully draped, iron spears, axes and clubs; menacing in face and voice only"),
 })
 # Looks added for the Aranya scripts are matched by name only from Aranya on, so the earlier kaandas' prompts
 # (where these names are passing mentions) stay exactly as they were planned.
@@ -260,6 +285,8 @@ FROM_EP.update({_k: 'E9.99' for _k in ('BALI', 'VAMANA', 'KUSHA_KING', 'KUSHANAB
                                        'SOMADA', 'BRAHMADATTA', 'SATYAVATI', 'RICHIKA')})
 FROM_EP.update({_k: 'E4.01' for _k in ('RUMA', 'HANUMAN_BHIKSHU', 'RIKSHARAJAS', 'SUPARSHVA', 'HIMAVAN', 'NISHAKARA',
                                        'KANDU', 'SWAYAMPRABHA', 'HEMA', 'MAYA_DANAVA', 'ANJANA')})
+FROM_EP.update({_k: 'E5.01' for _k in ('SAGARA', 'MAINAKA', 'LANKINI', 'DHANYAMALINI', 'PRAHASTA', 'DADHIMUKHA',
+                                       'KAKASURA', 'NANDI', 'RAKSHASI_GUARDS')})
 BIBLE['TARA'] = {'lock': EXTRA['TARA'], 'stages': {}}   # the bible's entry starts mid-sentence
 ALIASES.update({'Svayamprabha': 'SWAYAMPRABHA', 'Suparshva': 'SUPARSHVA', 'Himavan': 'HIMAVAN', 'Nishakara': 'NISHAKARA',
                 'Riksharajas': 'RIKSHARAJAS', 'Kandu': 'KANDU', 'Hema': 'HEMA', 'Anjana': 'ANJANA', 'Ruma': 'RUMA'})
@@ -274,6 +301,11 @@ NO_MARK |= {'SHIVA', 'MANMATHA', 'SUNDA', 'SUKETU', 'VRITRASURA', 'SURABHI', 'DH
             'AYODHYA_PEOPLE', 'BALI', 'VAMANA', 'VAYU', 'KUSHANABHA_DAUGHTERS', 'SOMADA',   # (these two carry their dot in the look)
             'DUNDUBHI', 'MAYAVI', 'SAMPATI', 'SUPARSHVA', 'HIMAVAN', 'SWAYAMPRABHA', 'HEMA', 'MAYA_DANAVA'}
 WOMEN |= {'RUMA', 'ANJANA'}
+ALIASES.update({'Sagara': 'SAGARA', 'Mainaka': 'MAINAKA', 'Prahasta': 'PRAHASTA', 'Dadhimukha': 'DADHIMUKHA',
+                'Aksha': 'AKSHAKUMARA', 'Dhanyamalini': 'DHANYAMALINI'})
+NO_MARK |= {'SAGARA', 'MAINAKA', 'LANKINI', 'KAKASURA', 'NANDI', 'RAKSHASI_GUARDS'}
+WOMEN |= {'DHANYAMALINI'}
+RAVANA_SIDE |= {'PRAHASTA'}
 WOMEN |= {'ANASUYA', 'SATYAVATI'}
 RAVANA_SIDE |= {'SUBAHU', 'AKAMPANA', 'DUSHANA', 'TRISHIRA'}
 
@@ -443,6 +475,34 @@ PLACES = {
     'MAHENDRA_SHORE': (('mahendra shore',), None,
         "The southern shore below Mount Mahendra: the vast blue ocean to the horizon, white sand and dark rocks, the "
         "great forested Mahendra mountain rising from the shore; wind, waves and open sky"),
+    # Sundara Kaanda (PLACE lines in data/5_Sundara_videos.txt)
+    'OCEAN_SKY': (('ocean sky',), None,
+        "High above the southern ocean: an endless deep-blue sea far below catching the sunlight, towering white "
+        "clouds and open sky, no land in sight; vast, bright and windswept"),
+    'LAMBA_HILL': (('lamba hill',), None,
+        "Mount Lamba, a peak of the Trikuta range beside Lanka: a green wooded hilltop at the sea's edge looking down "
+        "on the golden walled city of Lanka with its towers and mansions, the ocean behind"),
+    'LANKA_GATE': (('lanka gate',), None,
+        "The royal gate of Lanka: a towering gateway in high golden walls, carved stone guardians and flag-poles, "
+        "great gold-plated doors, torches burning in brackets, a moat and drawbridge before it"),
+    'LANKA_STREETS': (('lanka streets',), None,
+        "The streets of Lanka: wide paved streets between golden mansions with gem-set pillars and crystal stairs, "
+        "step-wells and lotus pools, flowering trees, peacocks, chariots and elephants, rooftop terraces; at night "
+        "lit by the full moon and lamps"),
+    'PUSHPAKA': (('pushpaka',), None,
+        "Inside the Pushpaka vimana: a flying palace of gold and jewels, its halls holding lotus pools, little "
+        "gardens, golden daises and couches, gem-inlaid lattices, a vast carpet on which the whole earth is worked"),
+    'RAVANA_BEDCHAMBER': (('ravana bedchamber',), None,
+        "Ravana's bedchamber: a vast chamber with torches fixed to the walls, a golden couch on a dais with steps of "
+        "cat's-eye gems, silk canopies, musical instruments and wine vessels scattered about, everything bathed in a "
+        "deep red-gold glow"),
+    'SHIMSHUPA_TREE': (('shimshupa tree',), None,
+        "The great shimshupa tree in the Ashoka grove of Lanka: a broad old tree with dense golden-green leaves and "
+        "thick spreading branches beside a white thousand-pillared pavilion, bare earth beneath it, flowering ashoka "
+        "trees and high garden walls around"),
+    'MADHUVANA': (('madhuvana',), None,
+        "Madhuvana, Sugriva's royal honey-grove: a dense grove of fruit and flowering trees heavy with honeycombs, "
+        "clay jars of honey-wine set beneath them, a grassy hillside, sunlit and festive"),
 }
 
 
