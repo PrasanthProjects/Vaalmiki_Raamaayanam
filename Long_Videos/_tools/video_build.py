@@ -1,4 +1,5 @@
-"""Re-cut the long episodes into 10–12 minute YouTube videos, narrated without the slokas.
+"""Re-cut the long episodes into YouTube videos of a set length (10–12 minutes, or the data file's LENGTH line),
+narrated without the slokas.
 
 usage:  python video_build.py data/0_1_Parichayam_Baala.txt
 
@@ -11,7 +12,7 @@ Long_Videos/Videos/:
 
 What changes from the episode kits:
   - every sloka scene is dropped; the few lines that pointed at a sloka are reworded (data/*_videos.txt)
-  - consecutive episodes are joined until a video runs 10–12 minutes
+  - consecutive episodes are joined until a video runs 10–12 minutes ('LENGTH | 8 10' in data/*_videos.txt: 8–10)
   - inside a video, only the first episode keeps its "గత భాగంలో…" recap and only the last keeps its teaser;
     each later episode opens with its own hook as a re-hook, so the join feels like a new peak, not a restart
   - one life lesson (the last episode's) and one subscribe line, at the end
@@ -33,6 +34,7 @@ VIDEOS = os.path.join(L.LONG, 'Videos')
 L.CUES['R'] = '[ఇంతవరకు · సహజంగా, కొంచెం వేగంగా – కొత్త వీక్షకుడికి కథ గుర్తుచేస్తున్నట్లు]'
 L.CUES['T'] = '[తరువాతి వీడియో టీజర్ · నెమ్మదిగా, ఉత్కంఠగా, ప్రశ్న మీద ఆగండి]'
 TARGET, LOW, HIGH = 11 * 60, 10 * 60, 12 * 60
+MINUTES = '10–12'   # the length range in page titles (data LENGTH line)
 SIMPLE = []   # [exact words, plain Telugu, times used] (data/*_videos.txt SIMPLE lines)
 PLACES_USED = set()
 CARDS = {}   # (episode, scene) -> on-screen meaning under a kept sloka (data/*_videos.txt CARD lines)
@@ -87,6 +89,11 @@ def read_fixes(path):
                 for x in rest.split(','):
                     w = x.split()
                     CUTS.append((w[0], int(w[1]) if len(w) > 1 else None))
+                continue
+            if head == 'LENGTH':     # "8 10": videos of 8–10 minutes, aimed near the short end
+                global TARGET, LOW, HIGH, MINUTES
+                lo, hi = map(int, rest.split())
+                LOW, HIGH, TARGET, MINUTES = lo * 60, hi * 60, lo * 60 + 20, f'{lo}–{hi}'
                 continue
             if head == 'SIMPLE':
                 old, new = rest.split(' => ', 1)
@@ -424,8 +431,8 @@ SPLIT_COST = 100 ** 2   # cutting an episode costs as much as missing 11 minutes
 
 
 def group_videos(eps, extras, splits):
-    """Cut the kaanda's chapters into videos as close to 11 minutes as possible (DP over cut points).
-    Whole episodes are preferred; an episode is cut at a chapter only when that keeps videos in 10–12 minutes,
+    """Cut the kaanda's chapters into videos as close to TARGET as possible (DP over cut points).
+    Whole episodes are preferred; an episode is cut at a chapter only when that keeps videos in LOW–HIGH,
     and preferably where data/*_videos.txt already has a SPLIT opening for that chapter."""
     units = [(e, c) for e in eps for c in range(len(e['starts']))]
     n = len(units)
@@ -492,7 +499,7 @@ def place_refs():
 def reference_md(refs_used):
     """Long_Videos/Videos/<kaanda>/00_REFERENCES.md: every character and place reference the videos use."""
     chars = L.reference_file(refs_used)[1]
-    lines = ['# రిఫరెన్స్ ఇమేజ్‌లు – 10–12 నిమిషాల వీడియోలు (పాత్రలు + ప్రదేశాలు)\n',
+    lines = [f'# రిఫరెన్స్ ఇమేజ్‌లు – {MINUTES} నిమిషాల వీడియోలు (పాత్రలు + ప్రదేశాలు)\n',
              'ప్రతి పాత్రకు, ప్రతి ప్రదేశానికి ఒక్కసారే ఇమేజ్ చేయండి. ఉత్తమమైనది ఇచ్చిన పేరుతో `Long_Videos/_reference_images/` లో '
              'సేవ్ చేసి, క్లిప్‌లో "రిఫరెన్స్" లో ఉన్న ఇమేజ్‌లన్నీ Flow లో *Ingredients* గా జత చేయండి. '
              'ప్రదేశం ఇమేజ్‌లో మనుషులు ఉండరు – పాత్రలు వేరుగా జత అవుతాయి.\n',
@@ -733,11 +740,11 @@ def main(data_path):
             print(f"V{i:02d} {mmss(total):>6}  {eps_long}")
         label = ('పరిచయం + ' if any(e['k'] == 0 for e in kaanda_eps) else '') + kaanda_te
         open(os.path.join(out_dir, '00_INDEX.md'), 'w', encoding='utf-8', newline='\n').write('\n'.join([
-            f'# {label} – 10–12 నిమిషాల వీడియోలు (శ్లోకాలు లేకుండా)\n',
+            f'# {label} – {MINUTES} నిమిషాల వీడియోలు (శ్లోకాలు లేకుండా)\n',
             f'{len(kaanda_eps)} ఎపిసోడ్‌లు → **{len(pages)} వీడియోలు**. ప్రతి వీడియో ఫైల్‌లో పూర్తి కిట్ ఉంది: రికార్డింగ్ స్క్రిప్ట్, '
             'క్లిప్ ప్రాంప్ట్‌లు, థంబ్‌నెయిల్, టైటిల్, అధ్యాయాలతో వివరణ, పిన్ కామెంట్, క్యాప్షన్లు.\n',
             '| వీడియో | ఎపిసోడ్‌లు | నిడివి | కథ |', '|---|---|---|---|', *index, '']))
-        payload = {'key': f'videos_{k}', 'name': f'{label} – 10–12 నిమిషాల వీడియోలు', 'slokas': pages,
+        payload = {'key': f'videos_{k}', 'name': f'{label} – {MINUTES} నిమిషాల వీడియోలు', 'slokas': pages,
                    'refs': L.reference_file(refs_used)[1] + place_refs(), 'placeKeys': sorted(PLACES_USED), 'unit': 'వీడియోలు', 'clipWord': '',
                    'subtitle': 'శ్లోకాలు లేకుండా · ప్రతి క్లిప్‌కు Flow ప్రాంప్ట్, థంబ్‌నెయిల్, అప్‌లోడ్',
                    'scriptTitle': '', 'ttsTitle': '🔊 ElevenLabs టెక్స్ట్ – ప్రతి భాగం వరుసగా కాపీ చేసి పేస్ట్ చేయండి'}
