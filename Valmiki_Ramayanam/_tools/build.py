@@ -24,6 +24,8 @@ ROOT = os.path.dirname(TOOLS)
 sys.path.insert(0, TOOLS)
 from shorts_style import STYLE, RESPECT, TAIL, CHARS, GROUPS  # noqa: E402
 import live_style as LS  # noqa: E402
+sys.path.insert(0, os.path.join(os.path.dirname(ROOT), 'Long_Videos', '_tools'))
+import honor  # noqa: E402  (respectful names, shared with the long videos)
 
 LIVE = False   # set per sarga: True when its flow rows use the published page's reference library (live_style)
 
@@ -471,6 +473,21 @@ def main(kanda_dir, sarga):
     LIVE = all(LS.known(keys_of(row[0])) for rows in flow.values() for row in rows)
     thumbs = pipe_lines(os.path.join(data, 'thumbnails.txt'))
     pinned = {n: v[0] for n, v in pipe_lines(os.path.join(data, 'pinned_comments.txt')).items()}
+    # Respectful names in everything the viewer hears or reads (the śloka itself stays as Valmiki wrote it).
+    honor.DISCIPLE_BHARADWAJA = kanda_dir.startswith('1_')
+    hon = lambda t: honor.Honorer(quotes=False)(t)
+    mean = {n: (hon(pp), hon(tt)) for n, (pp, tt) in mean.items()}
+    def hon_narr(f):    # one voice-aware pass per śloka, in spoken order (a speech may run over two lines)
+        h = honor.Honorer()
+        return {k: (v if k.endswith('_VIS') else h(v)) for k, v in f.items()}
+    narr = {n: hon_narr(f) for n, f in narr.items()}
+    def thumb(v):     # the highlight must stay a piece of the headline
+        main, hl, rest = hon(v[0]), hon(v[1]), [hon(x) for x in v[2:]]
+        if hl not in main:
+            hl = v[1] if v[1] in main else next((w for w in main.split() if w.startswith(v[1][:2])), main.split()[-1])
+        return [main, hl, *rest]
+    thumbs = {n: thumb(v) for n, v in thumbs.items()}
+    pinned = {n: hon(v) for n, v in pinned.items()}
 
     out_dir = os.path.join(ROOT, kanda_dir, f'Sarga_{sarga:03d}')
     os.makedirs(os.path.join(out_dir, 'captions'), exist_ok=True)

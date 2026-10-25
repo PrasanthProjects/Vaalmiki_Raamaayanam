@@ -28,6 +28,7 @@ import long_build as L
 import long_style as S
 from long_style import PLACES, place_for, STYLE
 import tts
+import honor
 from long_build import BUMPER, OUTRO, KAANDAS, HASHTAGS, mmss
 
 VIDEOS = os.path.join(L.LONG, 'Videos')
@@ -380,6 +381,23 @@ def assemble(parts, extras, splits, vid_index):
                 seq[k:m] = seq[k + 1:m] + [hook]
             elif j < k:
                 seq[j:k + 1] = [seq[k]] + seq[j:k]
+    # Respect for the main characters and the sages, in the order the lines are spoken (a speech can run on over
+    # several scene lines, and a dropped subject carries from line to line); slokas stay as Valmiki wrote them.
+    hon = honor.Honorer()
+    todo = [it for it in seq if it.get('narration') and not it.get('scene', {}).get('verse')]
+    odd = [it['narration'].count('"') % 2 for it in todo]
+    for j, item in enumerate(todo):
+        if 'scene' not in item:
+            hon.reset()
+        new = hon(item['narration'])
+        if hon.in_quote and odd[j] and not any(odd[j + 1:j + 4]):
+            hon.in_quote = False    # a speech left open by a missing closing quote ends with its own line
+        if new != item['narration']:
+            item['narration'] = new
+            item['secs'] = max(item['secs'], L.speak_secs(new))
+        if item.get('onscreen') and 'scene' not in item:
+            item['onscreen'] = honor.Honorer(quotes=False)(item['onscreen'])
+    chapters[:] = [(it, honor.Honorer(quotes=False)(t)) for it, t in chapters]
     for item in seq:   # every new part carries its delivery tone (hooks were set above)
         if item['new'] and 'tone' not in item:
             item['tone'] = {'B': 'curious' if item['narration'].rstrip().endswith('?') else 'calm',
@@ -610,10 +628,12 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
     voice_md = '\n'.join(f'**{lab}** · {len(v)} అక్షరాలు\n\n```text\n{v}\n```\n' for lab, (_, v) in zip(labels, voice))
     verses = [x['narration'] for x in spoken if x.get('scene', {}).get('verse')]
     lead = group[0]
-    main, hl, sub = lead['d']['head']
+    plain = lambda t: honor.Honorer(quotes=False)(t)
+    main, hl, sub = (plain(x) for x in lead['d']['head'])
+    pin = plain(lead['d']['pin'])
     tprompt, trefs = L.thumb_prompt(lead['scenes'], lead['ep'])
     refs_used.update(trefs)
-    tels = [e['tel'] for e in group]
+    tels = [plain(e['tel']) for e in group]
     names = ' · '.join(tels)
     if len(names) > 66:
         names = f'{tels[0]} … {tels[-1]}'
@@ -628,7 +648,7 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
     eps_txt = f"{group[0]['ep']}–{group[-1]['ep']}" if len(group) > 1 else group[0]['ep']
     eps_long = ' + '.join(tag(p, False) if j == 0 and p[1] else tag(p, True) for j, p in enumerate(parts))
     srcs = ', '.join(e['src'] for e in group if e['src'])
-    desc = (f"{title}\n\n" + '\n'.join(e['d']['sum'] for e in group)
+    desc = (f"{title}\n\n" + '\n'.join(plain(e['d']['sum']) for e in group)
             + ''.join(f"\n\n🕉️ {v}" for v in verses) + "\n\n⏱️ అధ్యాయాలు\n"
             + '\n'.join(f'{mmss(a)} {c}' for a, c in chap)
             + "\n\n📖 మూలం: చిత్రరూపంలో సంపూర్ణ వాల్మీకి రామాయణము" + (f", {srcs}" if srcs else '') + "\n"
@@ -687,7 +707,7 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
         '### 4. YouTube అప్‌లోడ్\n',
         f'**టైటిల్:**\n\n```text\n{title}\n```\n',
         f'**వివరణ (అధ్యాయాలతో):**\n\n```text\n{desc}\n```\n',
-        f"**పిన్ కామెంట్:**\n\n```text\n{lead['d']['pin']}\n```\n",
+        f"**పిన్ కామెంట్:**\n\n```text\n{pin}\n```\n",
         f'**ట్యాగ్‌లు:**\n\n```text\n{tags}\n```\n',
         f'**క్యాప్షన్ ఫైల్:** `{srt_rel}` – YouTube Studio → Subtitles → Upload file.\n'])
     fname = f"V{i:02d}_{eps_txt.replace('–', '-')}.md"
@@ -695,7 +715,7 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
             'title': title, 'sloka': [], 'tts': [v for _, v in voice], 'ttsLabels': labels,
             'ttsAll': '\n\n'.join(v for k, v in voice if k != 'intro'),
             'ttsAllNote': 'ఇంట్రో క్లిప్ లేకుండా, శ్లోకాలతో సహా మొత్తం వరుసగా. ElevenLabs ఒకేసారి ఇంత పెద్ద టెక్స్ట్ తీసుకోకపోతే కింద ఉన్న భాగాలు ఒక్కొక్కటిగా వాడండి.', 'reading': None, 'clips': cards, 'thumbPrompt': tprompt,
-            'thumbRefs': trefs, 'desc': desc, 'pinned': lead['d']['pin'], 'srt': srt_rel}
+            'thumbRefs': trefs, 'desc': desc, 'pinned': pin, 'srt': srt_rel}
     return fname, md, srt(spoken), page, total, warn, eps_long, list(zip(labels, [v for _, v in voice]))
 
 
@@ -716,6 +736,7 @@ def main(data_path):
     refs_used, warns = set(), []
     for k, kaanda_eps in by_kaanda.items():
         folder, kaanda_te = KAANDAS[k]
+        honor.DISCIPLE_BHARADWAJA = k == 1
         name = folder.replace(' - ', '_').replace(' ', '_')
         out_dir, cap_dir = os.path.join(VIDEOS, name), os.path.join(VIDEOS, 'captions', name)
         tts_dir = os.path.join(VIDEOS, 'tts', name)
@@ -736,7 +757,7 @@ def main(data_path):
                 '\n\n'.join(f'===== {lab} =====\n\n{v}' for lab, v in voice) + '\n')
             pages.append(page)
             index.append(f"| [V{i:02d}]({fname}) | {eps_long} | {mmss(total)} | "
-                         f"{' · '.join(e['tel'] for e in group)} |")
+                         f"{' · '.join(honor.Honorer(quotes=False)(e['tel']) for e in group)} |")
             print(f"V{i:02d} {mmss(total):>6}  {eps_long}")
         label = ('పరిచయం + ' if any(e['k'] == 0 for e in kaanda_eps) else '') + kaanda_te
         open(os.path.join(out_dir, '00_INDEX.md'), 'w', encoding='utf-8', newline='\n').write('\n'.join([
