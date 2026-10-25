@@ -52,11 +52,11 @@ def cast(keys, visual, ep, loc=''):
     for key in keys:
         k, _, stage = key.partition(':')
         assert k in S.BIBLE, f'{ep}: CAST names unknown character {k}'
-        line = S.STAGES.get('RAMA' if k == 'LAKSHMANA' else k, [])
+        line = S.STAGES.get(k, [])
         at = next((e for e, st in line if st == stage), None) if stage else ep
         assert at, f'{ep}: {k} has no stage {stage}'
         looks.append(S.character(k, at))
-        st = S.stage_of('RAMA' if k == 'LAKSHMANA' else k, at) if line else None
+        st = S.stage_of(k, at) if line else None
         refs.append(f'{k}_{st}' if st else k)
     g_looks, g_refs = L.group_looks(visual, loc, ep)
     return looks + g_looks, refs + g_refs

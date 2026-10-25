@@ -54,7 +54,8 @@ STAGES = {
     # Sita's captivity look once she is in Lanka (E3.25)
     'RAMA': [('E0.00', 'S2'), ('E1.05', 'S1'), ('E1.23', 'S2'), ('E2.18', 'S3'), ('E3.06', 'S4'), ('E6.39', 'S5')],
     'SITA': [('E0.00', 'S1'), ('E2.01', 'S2'), ('E2.18', 'S3'), ('E3.25', 'S4'), ('E6.35', 'S5')],
-    'LAKSHMANA': [('E0.00', 'S2'), ('E1.05', 'S1'), ('E1.23', 'S2'), ('E2.18', 'S3'), ('E3.06', 'S4'), ('E6.39', 'S5')],
+    # Lakshmana has his own looks (00_CHARACTER_BIBLE.md): forest look from the hair-matting at Shringaverapura (2.52)
+    'LAKSHMANA': [('E0.00', 'S2'), ('E1.05', 'S1'), ('E1.23', 'S2'), ('E2.18', 'S3'), ('E2.23', 'S4'), ('E6.39', 'S5')],
 }
 
 
@@ -556,9 +557,9 @@ def character(key, ep):
     if not entry:
         return None
     lock = clean_lock(entry['lock'])
-    stage = stage_of('RAMA' if key == 'LAKSHMANA' else key, ep) if key in STAGES else None
+    stage = stage_of(key, ep) if key in STAGES else None
     if stage:
-        look = BIBLE.get('RAMA' if key == 'LAKSHMANA' else key, {}).get('stages', {}).get(stage)
+        look = BIBLE.get(key, {}).get('stages', {}).get(stage)
         if look:
             lock = lock.rstrip(' .;') + f'. In this episode: {look.strip().rstrip(".")}.'
     if key in ('HANUMAN', 'SUGRIVA', 'VALI', 'TARA', 'ANGADA', 'NALA', 'NILA') and 'human-proportioned' not in lock:

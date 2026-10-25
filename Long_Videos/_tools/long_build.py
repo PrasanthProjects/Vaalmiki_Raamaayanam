@@ -171,7 +171,7 @@ def scene_cast(scene, ep):
     refs = []
     for k in keys:
         if character(k, ep):
-            stage = stage_of('RAMA' if k == 'LAKSHMANA' else k, ep) if k in STAGES else None
+            stage = stage_of(k, ep) if k in STAGES else None
             refs.append(f'{k}_{stage}' if stage else k)
     return looks, refs + g_refs
 
@@ -651,7 +651,7 @@ def reference_file(refs):
         key, _, stage = r.partition('_S')
         ep = 'E6.39'
         if stage:
-            ep = next(st for st, s in STAGES['RAMA' if key == 'LAKSHMANA' else key] if s == 'S' + stage)
+            ep = next(st for st, s in STAGES[key] if s == 'S' + stage)
             ep = ep if ep != 'E0.00' else 'E1.01'
         look = character(key, ep)
         prompt = ("Character reference image for film continuity: one character only, full body, standing, facing "

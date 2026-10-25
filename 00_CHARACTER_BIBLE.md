@@ -145,7 +145,16 @@ This is a hard production rule, not a suggestion, because getting it wrong is ex
 
 ### లక్ష్మణుడు — LAKSHMANA
 **Role:** Rama's younger brother, son of Sumitra, devoted, quick-tempered.
-**Visual Lock:** Same 5-stage scheme as Rama (one year younger), always at Rama's side from S1 onward. Leaner build, shorter hair, stays clean-shaven even through the exile stages (deliberate distinguishing choice from Rama's beard, for at-a-glance recognition) — otherwise same valkala/costume progression as Rama.
+**Visual Lock:** Golden-fair skin, sharp alert eyes, lean strong build, shorter hair than Rama, one year younger, always at Rama's side. Stays clean-shaven even through the exile stages (deliberate distinguishing choice from Rama's beard, for at-a-glance recognition).
+
+**Age/Appearance Stages (his own — the exile stages follow Valmiki: bark garments when leaving Ayodhya, 2.37; hair matted with banyan sap at Shringaverapura, 2.52):**
+| Stage | Tag | Coverage | Look |
+|---|---|---|---|
+| S1 — boy | LAKSHMANA-S1 | Baala Khaanda, Vishwamitra's yagna → swayamvara | Slim boyish build, no facial hair, cream silk dhoti with a thin gold border, simple topknot, a small bow |
+| S2 — prince | LAKSHMANA-S2 | End of Baala → Ayodhya until the bark garments (E2.18) | Same face, broad shoulders, gold-zari silk veshti and angavastram, princely jewelry (crown band, earrings, necklace, armlets) |
+| S3 — exile begins | LAKSHMANA-S3 | E2.18–E2.22: bark garments in Dasharatha's court → Tamasa → Guha's riverbank | Same face, clean-shaven; plain brown bark-cloth (valkala) wrap and upper cloth over a simple ochre dhoti, hair tied in a plain knot, NO crown, NO jewelry, NO silk; bow in hand, two quivers on the back, a sword at the waist |
+| S4 — forest | LAKSHMANA-S4 | From E2.23 (hair matted at Shringaverapura) → rest of Ayodhya, Aranya, Kishkindha, Sundara, Yuddha | Same face, always clean-shaven; long hair matted into a jata coiled high on the head; brown bark-cloth (valkala) wrap with a black deer-skin over one shoulder, only tulasi/rudraksha beads, sun-tanned skin, NO crown, NO jewelry, NO silk; bow in hand, two quivers on the back, a sword at the waist; alert, protective stance |
+| S5 — coronation | LAKSHMANA-S5 | Final Yuddha Khaanda scene | Jata untied and hair dressed royally, gold-zari silk and princely jewelry return, still clean-shaven |
 **Voice:** Male, early-to-mid-20s vocal quality, sharper/more energetic than Rama, quicker to show emotion, faster pace especially when angry/protective.
 
 ### భరతుడు — BHARATA
