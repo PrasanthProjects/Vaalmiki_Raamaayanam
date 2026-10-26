@@ -53,7 +53,7 @@ BARE_SUFFIX = {'': 'base', 'ే': 'base_e', 'ని': 'acc', 'ను': 'acc', '�
 
 VILLAINS = {'రావణ', 'శూర్పణఖ', 'మారీచ', 'ఖర', 'దూషణ', 'త్రిశిర', 'విరాధ', 'కబంధ', 'కుంభకర్ణ', 'ఇంద్రజిత్',
             'మేఘనాద', 'మంథర', 'తాటక', 'సుబాహు', 'అకంపన', 'వాలి', 'ప్రహస్త', 'లంకిణి', 'సింహిక', 'అతికాయ'}
-FAMILY_ELDERS = {'DASHARATHA', 'KAUSALYA', 'SUMITRA', 'KAIKEYI', 'JANAKA', 'PARASHURAMA', 'BRAHMA', 'GODS'}
+FAMILY_ELDERS = {'DASHARATHA', 'KAUSALYA', 'SUMITRA', 'KAIKEYI', 'JANAKA', 'PARASHURAMA', 'BRAHMA', 'GODS', 'JATAYU'}
 ALL_SAGES = set(SAGES) | {'SAGE'}
 # who speaks of a person without honorifics (elders of that person)
 ELDERS = {
@@ -72,6 +72,8 @@ for k in SAGES:
     ELDERS[k] = {'BRAHMA', 'GODS'}
 SPEAKERS = {   # word starts that name a speaker (nominative) besides the honoured ones
     'కైకేయి': 'KAIKEYI', 'కైకేయ': 'KAIKEYI', 'కైక': 'KAIKEYI', 'సుగ్రీవు': 'SUGRIVA', 'జాంబవంతు': 'JAMBAVAN', 'పరశురాము': 'PARASHURAMA',
+    'గుహు': 'GUHA', 'సుమంత్రు': 'SUMANTRA', 'విభీషణు': 'VIBHISHANA', 'అంగదు': 'ANGADA', 'జటాయువు': 'JATAYU',
+    'శబరి': 'SHABARI', 'సంపాతి': 'SAMPATI', 'ఊర్మిళ': 'URMILA', 'త్రిజట': 'TRIJATA', 'ప్రజలు': 'PEOPLE', 'నీలు': 'NILA',
     'బ్రహ్మ': 'BRAHMA', 'ఇంద్రు': 'GODS', 'దేవతలు': 'GODS', 'ఋషులు': 'SAGE', 'మహర్షి': 'SAGE', 'మునులు': 'SAGE',
 }
 OTHER_NAMES = {'జటాయువు', 'వాలి', 'సంపాతి', 'ముని', 'ఋషి', 'బ్రహ్మ', 'విష్ణువు', 'అగ్ని', 'వాయువు', 'కైకేయి', 'కైక',
@@ -88,6 +90,8 @@ GEN_CUE = {'మనసు', 'మనస్సు', 'ముఖం', 'ముఖమ�
            'చేతి', 'ఆశ్రమము', 'సభ', 'మందిరం', 'ఇల్లు', 'ఇంటి', 'రాజ్యం', 'వంశం', 'కుమారుడు', 'కుమార్తె', 'కోడలు', 'పెద్ద',
            'పేరు', 'నామం', 'ధనుస్సు', 'బాణం', 'బాణాలు', 'కోదండం', 'పాదుకలు', 'రథం', 'సేవ', 'దర్శనం', 'కథ', 'రూపు', 'శిష్యులు'}
 GEN_CUE |= {'కంట', 'కంటికి', 'కంటి', 'కంటిముందు', 'దృష్టి', 'చెవిన', 'చెవికి'}
+THING_VERBS = ('గుర్తు', 'తెలిసింది', 'తెలిసిందో', 'అనిపించింది', 'జరిగింది', 'కలిగింది', 'అయ్యింది', 'అయింది',
+               'దొరికింది', 'కనిపించింది', 'వినిపించింది', 'పోయింది', 'మారింది')
 GEN_END = ('లో', 'లోని', 'లోకి', 'లోనే', 'లోంచి')
 # Bala Kanda's Bharadwaja is Valmiki's young disciple, not the sage of Prayaga (set by the builders per kaanda)
 DISCIPLE_BHARADWAJA = False
@@ -174,9 +178,11 @@ def _agree(words, gender):
 def _is_nom(after, gender, before_quote=False):
     """A bare name is the subject when its own verb follows in the clause; a following body word, place word or
     a word in -లో makes it the owner (సీతమ్మ చేతిలో, మతంగ మహర్షి ఆశ్రమం)."""
-    words = WORD.findall(re.split(r'[.?!,]', after, 1)[0])
+    words = WORD.findall(re.split(r'[.?!,]', after, maxsplit=1)[0])
     if not words:
         return True                 # the name ends the clause ("…భార్య సీత.") or a speech follows ("సీతమ్మ "…")
+    if re.search(r'ు(డి|ని|డికి|డిని|నికి)$', words[0]) and words[0] not in GEN_CUE:
+        return True                 # another person's oblique next: "హనుమ రావణుడి వంక చూసి" – the name is the subject
     if words[0] in ('నా', 'నేను', 'నీ', 'నువ్వు', 'మా', 'మేము', 'మీరు', 'మీ', 'నాయన', 'నాయనా', 'అయ్యా', 'అమ్మా',
                     'తల్లీ', 'రామా', 'లక్ష్మణా', 'సీతా', 'హనుమా', 'ఓ'):
         return True                 # a speech starts: "సీతమ్మ నా పేరు సీత …" – she is the one speaking
@@ -189,7 +195,7 @@ def _is_nom(after, gender, before_quote=False):
         if words[0] in ('నాకు', 'నీకు', 'మాకు', 'మనకు', 'మీకు', 'తనకు', 'అతనికి', 'ఆయనకు', 'వాళ్ళకి', 'వారికి',
                         'ఏదీ', 'ఏమీ', 'ఎవరినీ', 'ఎప్పుడూ', 'కూడా', 'మాత్రం', 'ఇలా', 'అలా', 'అప్పుడు', 'వెంటనే', 'మళ్ళీ'):
             return True
-        return any(w.endswith(('లేదు', 'లేదని', 'లేదట', 'కపోతే', 'కుండా')) for w in words[:6])
+        return any(w.endswith(('లేదు', 'లేదని', 'లేదట', 'కపోతే', 'కుండా', 'నదై', 'నవాడై', 'నదిగా')) for w in words[:6])
     if words[0] in GEN_CUE or words[0].endswith(GEN_END):
         # "కన్నీళ్ళు పెట్టుకున్నాడు", "మనసులో అనుకుంది": a reflexive verb (…కు…) keeps the name as the subject
         return bool(re.search(r'కు(న్న|ంది|ంటు|ని)', hit[1]))
@@ -278,6 +284,9 @@ def honor_clause(text, speaker=None, before_quote=False):
             g = 'm' if key == 'SAGE' else HONOR[key][2]
             phrase = m.group(1)
             nom = _is_nom(text[m.end():], g, before_quote)
+            if key in ('DASHARATHA', 'JANAKA') and not nom:
+                w1 = (WORD.findall(text[m.end():m.end() + 30]) or [''])[0]
+                nom = w1.endswith(('ని', 'ను')) and w1 not in GEN_CUE     # "జనక మహారాజు భూమిని దున్నగా"
             if key in ('DASHARATHA', 'JANAKA'):
                 if text[m.end():m.end() + 3].startswith((' గా', 'గా')):
                     continue
@@ -338,7 +347,9 @@ def _fix_verbs(s, marks, topic):
             mm = MASC_V.search(w)
             if mm:
                 new = w[:mm.start()] + {'ాడ': 'ార', 'ేడ': 'ేర', 'లడ': 'లర'}[mm.group(1)] + mm.group(2)
-        if not new and cur in ('f', 's'):
+        prev = WORD.findall(s[:m.start()])[-1:] or ['']
+        if not new and cur in ('f', 's') and not (w.startswith(THING_VERBS) or prev[0].endswith('ం')):
+            # "ఒక రహస్యం గుర్తుకొచ్చింది": a thing is the subject of this ింది, not her
             for rx, fn in FEM_V:
                 mm = rx.search(w)
                 if mm:
@@ -357,6 +368,35 @@ def honor_text(text, speaker=None, topic=None, before_quote=False):
     return _fix_verbs(s, marks, topic)
 
 
+CLOSE_CUE = re.compile(r'\s*[,.!?—-]*\s*(అని|అంటూ|అన్నాడు|అన్నారు|అన్నది|అంది|అనగా|అనేసరికి|అనుకున్నాడు|అనుకుంది|అనుకున్నారు|అన్న)(?![ఀ-౿])')
+
+
+def speaker_after_close(text):
+    """The speaker named right after the first (closing) quote of a line: "…" అని గుహుడు అన్నాడు."""
+    i = text.find('"')
+    m = re.match(r'\s*[,.!?—-]*\s*(?:అని|అంటూ)\s+(.{0,40})', text[i + 1:]) if i >= 0 else None
+    return _speaker_of(m.group(1)) if m else None
+
+
+PERSON_WORD = re.compile(r'(?<![ఀ-౿])(నేను|నా|నన్ను|నాకు|నువ్వు|నీ|నిన్ను|నీకు|మీరు|మీ|మిమ్మల్ని|మీకు|మేము|మా|మమ్మల్ని|'
+                         r'మనం|మన|మనకు|మనల్ని)(?![ఀ-౿])')
+
+
+def quoted_narration(text):
+    """A whole line in quote marks with no నేను/నువ్వు/మీరు words is the book's narration quoted, not a speech."""
+    t = text.strip()
+    return t.count('"') == 2 and t.startswith('"') and t.endswith('"') and not PERSON_WORD.search(t)
+
+
+def first_quote_closes(text):
+    """True when the first quote mark in a line closes a speech ("…" అని …), False when it opens one,
+    None when the line has no quote mark."""
+    i = text.find('"')
+    if i < 0:
+        return None
+    return bool(CLOSE_CUE.match(text[i + 1:])) or not text[i + 1:].strip()
+
+
 class Honorer:
     """Carries who is speaking across lines (a speech can open in one scene line and close several lines later)."""
 
@@ -365,6 +405,7 @@ class Honorer:
         self.in_quote = False
         self.speaker = None
         self.tail = ''
+        self.hint = None       # the speaker named after a speech that closes on a later line (set by the builder)
         self.topic = None      # whose verbs follow when the storyteller drops the subject
         self.qtopic = None
 
@@ -382,7 +423,8 @@ class Honorer:
             if p == '"':
                 if not self.in_quote:     # a speech opens: its speaker is the first name in the clause before it
                     clause = re.split(r'[.?!]', before)[-1]
-                    self.speaker = _speaker_of(clause) or 'UNKNOWN'
+                    self.speaker = _speaker_of(clause) or self.hint or 'UNKNOWN'
+                    self.hint = None
                 else:
                     self.speaker = None
                 self.qtopic = None
@@ -404,3 +446,40 @@ class Honorer:
             before += p
         self.tail = (self.tail + text)[-300:]
         return ''.join(out)
+
+
+# python honor.py – sentences that once went wrong, with the expected result
+CHECKS = [
+    ('రాముడు వచ్చాడు.', 'శ్రీరాములవారు వచ్చారు.'),
+    ('రాముడు, సీతమ్మ, లక్ష్మణుడు, జటాయువు పంచవటిని చేరుకున్నారు.',
+     'శ్రీరాములవారు, సీతమ్మవారు, లక్ష్మణులవారు, జటాయువు పంచవటిని చేరుకున్నారు.'),
+    ('సీతమ్మ చేతిలో ఉంగరం ఉంది.', 'సీతమ్మవారి చేతిలో ఉంగరం ఉంది.'),
+    ('సీత కూడా బయలుదేరింది.', 'సీతమ్మవారు కూడా బయలుదేరారు.'),
+    ('కౌసల్య ఏమందో తెలుసా?', 'కౌసల్యాదేవిగారు ఏమన్నారో తెలుసా?'),
+    ('పదమూడేళ్ళ వనవాసంలో సీతమ్మ ఏదీ అడగలేదు.', 'పదమూడేళ్ళ వనవాసంలో సీతమ్మవారు ఏదీ అడగలేదు.'),
+    ('సీతమ్మ జాడ దొరకలేదు.', 'సీతమ్మవారి జాడ దొరకలేదు.'),
+    ('ఒకవేళ సీతమ్మ నాకు కనపడకపోతే, తిరిగొస్తాను.', 'ఒకవేళ సీతమ్మవారు నాకు కనపడకపోతే, తిరిగొస్తాను.'),
+    ('ఆ అడవిలో వాల్మీకి కంట పడింది ఒక జంట.', 'ఆ అడవిలో వాల్మీకి మహర్షి కంట పడింది ఒక జంట.'),
+    ('భరతుడు ఇప్పుడు రాజ్యం చేస్తున్నాడు.', 'భరతులవారు ఇప్పుడు రాజ్యం చేస్తున్నారు.'),
+    ('రాముడు వచ్చాడు. సహాయం పొందినవాడు మాట నిలబెట్టుకోవాలి.', 'శ్రీరాములవారు వచ్చారు. సహాయం పొందినవాడు మాట నిలబెట్టుకోవాలి.'),
+    ('రాముడు పిల్లవాడు అనుకోకు.', 'శ్రీరాములవారు పిల్లవాడు అనుకోకు.'),
+    ('ఇక్ష్వాకు వంశంలో పుట్టిన రాముడు అనే పేరుతో.', 'ఇక్ష్వాకు వంశంలో పుట్టిన రాముడు అనే పేరుతో.'),
+    ('జనక మహారాజు భూమిని దున్నగా, పెట్టె తగిలింది.', 'జనక మహారాజుగారు భూమిని దున్నగా, పెట్టె తగిలింది.'),
+    ('అప్పుడు హనుమ రావణుడి వంక చూశాడు.', 'అప్పుడు హనుమంతులవారు రావణుడి వంక చూశారు.'),
+    ('నాయన హనుమ! రా.', 'నాయన హనుమ! రా.'),
+    ('దశరథుడు "రాముడు నా ప్రాణం" అన్నాడు.', 'దశరథ మహారాజుగారు "రాముడు నా ప్రాణం" అన్నారు.'),
+    ('హనుమంతుడు "సీతమ్మ క్షేమంగా ఉంది" అన్నాడు.', 'హనుమంతులవారు "సీతమ్మవారు క్షేమంగా ఉన్నారు" అన్నారు.'),
+    ('రావణుడు "రాముడు ఎవడు?" అన్నాడు.', 'రావణుడు "రాముడు ఎవడు?" అన్నాడు.'),
+    ('సీతమ్మ ఏడ్చింది. చిత్రకూటంలో జరిగిన ఒక రహస్యం గుర్తుకొచ్చింది.',
+     'సీతమ్మవారు ఏడ్చారు. చిత్రకూటంలో జరిగిన ఒక రహస్యం గుర్తుకొచ్చింది.'),
+    ('రాముడినే చూసినంత ఆనందాన్ని సీతమ్మ పొందినదై, ఉంగరాన్ని చూసింది.',
+     'శ్రీరాములవారినే చూసినంత ఆనందాన్ని సీతమ్మవారు పొందినదై, ఉంగరాన్ని చూసారు.'),
+]
+
+if __name__ == '__main__':
+    import sys
+    sys.stdout.reconfigure(encoding='utf-8')
+    bad = [(a, b, Honorer()(a)) for a, b in CHECKS if Honorer()(a) != b]
+    for a, b, got in bad:
+        print('IN :', a, '\nWANT:', b, '\nGOT :', got, '\n')
+    print(f'{len(CHECKS) - len(bad)}/{len(CHECKS)} checks pass')

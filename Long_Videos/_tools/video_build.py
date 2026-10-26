@@ -29,6 +29,8 @@ import long_style as S
 from long_style import PLACES, place_for, STYLE
 import tts
 import honor
+
+QUOTE_WRAPPED = False
 from long_build import BUMPER, OUTRO, KAANDAS, HASHTAGS, mmss
 
 VIDEOS = os.path.join(L.LONG, 'Videos')
@@ -385,13 +387,48 @@ def assemble(parts, extras, splits, vid_index):
     # several scene lines, and a dropped subject carries from line to line); slokas stay as Valmiki wrote them.
     hon = honor.Honorer()
     todo = [it for it in seq if it.get('narration') and not it.get('scene', {}).get('verse')]
-    odd = [it['narration'].count('"') % 2 for it in todo]
+
+    def view(t):
+        """The line as the honorific pass should read it, and how to put its own quote marks back.
+        Baala's scene tables wrap whole passages of the book in "…" and put speech in '…'; elsewhere "…" is speech
+        (a whole line in "…" with no నేను/నువ్వు words is quoted narration, and a speech opened with " is sometimes
+        closed with ')."""
+        pre = suf = ''
+        if QUOTE_WRAPPED:
+            if t.lstrip().startswith('"'):
+                a = t.index('"') + 1
+                pre, t = t[:a], t[a:]
+            if t.rstrip().endswith('"'):
+                z = t.rindex('"')
+                t, suf = t[:z], t[z:]
+        elif honor.quoted_narration(t):
+            a, z = t.index('"') + 1, t.rindex('"')
+            pre, t, suf = t[:a], t[a:z], t[z:]
+        swap = "'" in t and '"' not in t and (QUOTE_WRAPPED or (t.count("'") == 1 and re.search(r"'\s*(అని|అంటూ)\s", t)))
+        core = t.replace("'", '"') if swap else t
+        return core, (lambda n: pre + (n.replace('"', "'") if swap else n) + suf)
+
+    views = [view(it['narration']) for it in todo]
+    closes = [honor.first_quote_closes(c) for c, _ in views]
+    last_speaker = None
     for j, item in enumerate(todo):
-        if 'scene' not in item:
+        core, restore = views[j]
+        if 'scene' not in item:     # hooks, bridges, recaps: always the storyteller
             hon.reset()
-        new = hon(item['narration'])
-        if hon.in_quote and odd[j] and not any(odd[j + 1:j + 4]):
-            hon.in_quote = False    # a speech left open by a missing closing quote ends with its own line
+            hon.in_quote = False
+        if hon.in_quote:
+            # an open speech runs on only into a line that closes it ("…" అని …), possibly after a few lines
+            # with no quote mark; otherwise its closing quote is missing and it ended with the line before
+            nxt = next((c for c in closes[j:j + 20] if c is not None), None)
+            if not nxt:
+                hon.in_quote, last_speaker = False, hon.speaker
+        elif closes[j]:     # the line closes a speech whose opening we lost: what comes before the quote is speech
+            hon.in_quote, hon.qtopic = True, None
+            hon.speaker = honor.speaker_after_close(core) or last_speaker or 'UNKNOWN'
+        if core.count('"') % 2 and not hon.in_quote:     # a speech opens and closes on a later line
+            k = next((k for k in range(j + 1, min(j + 21, len(todo))) if closes[k] is not None), None)
+            hon.hint = honor.speaker_after_close(views[k][0]) if k is not None and closes[k] else None
+        new = restore(hon(core))
         if new != item['narration']:
             item['narration'] = new
             item['secs'] = max(item['secs'], L.speak_secs(new))
@@ -737,6 +774,8 @@ def main(data_path):
     for k, kaanda_eps in by_kaanda.items():
         folder, kaanda_te = KAANDAS[k]
         honor.DISCIPLE_BHARADWAJA = k == 1
+        global QUOTE_WRAPPED
+        QUOTE_WRAPPED = k == 1    # Baala's tables quote the book in "…" and speech in '…'
         name = folder.replace(' - ', '_').replace(' ', '_')
         out_dir, cap_dir = os.path.join(VIDEOS, name), os.path.join(VIDEOS, 'captions', name)
         tts_dir = os.path.join(VIDEOS, 'tts', name)
