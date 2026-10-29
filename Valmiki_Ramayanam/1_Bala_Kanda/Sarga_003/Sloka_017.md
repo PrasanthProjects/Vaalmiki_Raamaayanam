@@ -1,0 +1,195 @@
+# బాలకాండ · సర్గ 3 · శ్లోకం 17
+
+**ఈ ఫైల్‌లో:** 1. శ్లోకం · 2. ప్రతిపదార్థం · 3. తాత్పర్యం · 4. నెరేషన్ · 5. క్లిప్‌లు · 6. థంబ్‌నెయిల్ · 7. YouTube అప్‌లోడ్
+
+## 1. శ్లోకం
+
+పాదుకాగ్ర్యాభిషేకం చ నన్దిగ్రామనివాసనమ్ ।  
+దణ్డకారణ్యగమనం విరాధస్య వధం తథా ॥ 17 ॥
+
+**చదవడానికి సులువుగా (రికార్డింగ్ కోసం):**
+
+పాదుకాగ్ర్యాభిషేకం చ నందిగ్రామనివాసనమ్ ।  
+దండకారణ్యగమనం విరాధస్య వధం తథా ॥ 17 ॥
+
+## 2. ప్రతిపదార్థం
+
+- పాదుకాగ్ర్యాభిషేకమ్ చ: శ్రేష్ఠమైన పాదుకలకు పట్టాభిషేకం
+- నన్దిగ్రామనివాసనమ్: (భరతులవారు) నందిగ్రామంలో నివసించడం
+- దణ్డకారణ్యగమనమ్: దండకారణ్యానికి వెళ్ళడం
+- విరాధస్య వధమ్ తథా: విరాధుడి వధ
+
+## 3. తాత్పర్యం
+
+శ్రీరాములవారి పాదుకలకు పట్టాభిషేకం, భరతులవారు నందిగ్రామంలో ఉండి పాలించడం, శ్రీరాములవారు దండకారణ్యానికి వెళ్ళడం, విరాధుడనే రాక్షసుడి వధ.
+
+## 4. నెరేషన్ స్క్రిప్ట్ (~45 సెకన్లు)
+
+### 0:00 – 0:04 · హుక్
+
+- **విజువల్:** సింహాసనం మీద శ్రీరాముడి పాదుకలు.
+- **వాయిస్ (నాటకీయంగా):** సింహాసనం మీద రాజు లేడు... ఆయన పాదుకలు ఉన్నాయి!
+- **తెరపై టెక్స్ట్:** పాదుకా పాలన
+
+### 0:04 – 0:15 · శ్లోక పఠనం
+
+- **విజువల్:** నందిగ్రామంలో పాదుకలకు నమస్కరిస్తున్న భరతుడు. శ్లోకం తెరపై.
+- **వాయిస్ (శ్రావ్యంగా, స్పష్టంగా):**
+
+> పాదుకాగ్ర్యాభిషేకం చ నన్దిగ్రామనివాసనమ్ ।  
+> దణ్డకారణ్యగమనం విరాధస్య వధం తథా ॥ 17 ॥  
+
+### 0:15 – 0:38 · తాత్పర్యం & జీవిత పాఠం
+
+- **విజువల్:** దట్టమైన దండకారణ్యంలో నడుస్తున్న ముగ్గురు.
+- **వాయిస్ (సంభాషణ శైలిలో):** శ్రీరాములవారి పాదుకలకు పట్టాభిషేకం, భరతులవారు నందిగ్రామంలో ఉండి పాలించడం, శ్రీరాములవారు దండకారణ్యానికి వెళ్ళడం, విరాధుడనే రాక్షసుడి వధ... ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి. పాదుకలను ముందు పెట్టి పాలించారు భరతులవారు. పదవి కాదు, బాధ్యత ముఖ్యం.
+- **తెరపై టెక్స్ట్:** పాదుకాభిషేకం | నందిగ్రామం | విరాధ వధ
+
+### 0:38 – 0:45 · ముగింపు & CTA
+
+- **విజువల్:** ఆశ్రమంలో ఎదురుచూస్తున్న వృద్ధ మహర్షి.
+- **వాయిస్ (వేగంగా, ముగింపు స్వరం లేకుండా):** దండకారణ్యంలో శ్రీరాములవారి కోసం ఎదురుచూసిన మహర్షులు ఎవరు? తరువాతి షార్ట్‌లో! నచ్చితే లైక్ చేసి, మీ వాళ్ళకి షేర్ చేయండి!
+
+## 5. క్లిప్‌లు (9:16)
+
+ఈ Short లో **🎥 వీడియో: 1** · **🖼️ ఇమేజ్ + కదలిక: 6**
+
+- **🎥 వీడియో:** Flow (Veo) లో ప్రాంప్ట్ పెట్టండి. ముందు ఇదే ప్రాంప్ట్‌తో ఇమేజ్ చేసి, నచ్చితే *Frames to Video* లో మొదటి ఫ్రేమ్‌గా వాడితే తప్పులు తక్కువ. 8 సెకన్ల క్లిప్‌ను ఇచ్చిన సమయానికి ట్రిమ్ చేయండి.
+- **🖼️ ఇమేజ్ + కదలిక:** ప్రాంప్ట్‌తో ఒక ఇమేజ్ మాత్రమే చేయండి. ఎడిటర్‌లో (CapCut / Resolve) ఇచ్చిన కదలిక పెట్టండి.
+- **రిఫరెన్స్** లో ఉన్న ఇమేజ్‌లను జత చేయండి (Flow లో *Ingredients*) – [00_CHARACTER_REFERENCE_SHEETS.md](../../00_CHARACTER_REFERENCE_SHEETS.md).
+
+### క్లిప్ 1 · 0:00 – 0:04 · హుక్ · 🎥 వీడియో
+
+- **నెరేషన్:** సింహాసనం మీద రాజు లేడు... ఆయన పాదుకలు ఉన్నాయి!
+- **రిఫరెన్స్:** `PADUKA.png` · `NANDIGRAMA.png`
+
+```text
+Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. Very high quality: ultra-detailed, sharp and clean cinematic render, rich colour depth, film-quality lighting, smooth natural 24fps motion, no blur, no noise, no artefacts. Use the attached reference images as the exact look of each character, object and place (PADUKA.png = Rama's padukas; NANDIGRAMA.png = Nandigrama (location)): match the face, skin colour, hair, clothing and ornaments exactly as in the reference (hand-held objects only as this scene describes), keep the same art style, and do not redesign them. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, every character with a clearly individual face (different face shape, eyes, nose, age and build) so that no two characters ever share the same face, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture; forest and ashram settings are lush, green and serene with flowering trees, clear rivers and streams, deer, peacocks and birds (darker only where the scene says so); volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters (keep exactly this look for the whole shot): Rama's padukas: a pair of simple wooden sandals with round toe-knobs, polished dark wood with thin gold edging, glowing softly with sacred light. Location (match the attached place reference NANDIGRAMA.png): Nandigrama, the humble village outside Ayodhya: a simple thatched hut where Bharata lives as an ascetic; inside, Rama's padukas rest on a small golden throne under a white umbrella, with a deer-skin mat and an oil lamp. Opening frame: Rama's padukas placed on the throne under a royal umbrella. Then: Flowers fall gently onto the throne. Camera: Slow push-in. Lighting and effects: Golden divine light. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; smooth, physically consistent motion with no morphing or flicker. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, subtitles, logos or watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.
+```
+
+### క్లిప్ 2 · 0:04 – 0:10 · శ్లోక పఠనం – 1 · 🖼️ ఇమేజ్ + కదలిక
+
+- **నెరేషన్:** పాదుకాగ్ర్యాభిషేకం చ నన్దిగ్రామనివాసనమ్ ।
+- **రిఫరెన్స్:** `BHARATA.png` · `PADUKA.png` · `NANDIGRAMA.png`
+- **ఎడిటర్‌లో కదలిక:** ఎడమ నుండి కుడికి నెమ్మదిగా ప్యాన్ + కొద్దిగా జూమ్-ఇన్
+
+```text
+Vertical 9:16 cinematic still image, 1080x1920, main subject in the centre safe area. Very high quality: ultra-detailed, sharp and clean 4K-quality render, rich colour depth, film-quality lighting, no blur, no noise, no artefacts. Use the attached reference images as the exact look of each character, object and place (BHARATA.png = Bharata; PADUKA.png = Rama's padukas; NANDIGRAMA.png = Nandigrama (location)): match the face, skin colour, hair, clothing and ornaments exactly as in the reference (hand-held objects only as this scene describes), keep the same art style, and do not redesign them. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, every character with a clearly individual face (different face shape, eyes, nose, age and build) so that no two characters ever share the same face, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture; forest and ashram settings are lush, green and serene with flowering trees, clear rivers and streams, deer, peacocks and birds (darker only where the scene says so); volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters: Bharata: young prince, fair skin, gentle refined devoted face, medium build, simple white ascetic dhoti and upper cloth, no crown, white Vishnu namam with a red centre line on the forehead, distinctive face: soft heart-shaped face, large gentle eyes that look slightly downward, rounded nose, thin pencil moustache, wavy hair to the shoulders, slender frame, about twenty-four; Rama's padukas: a pair of simple wooden sandals with round toe-knobs, polished dark wood with thin gold edging, glowing softly with sacred light. Location (match the attached place reference NANDIGRAMA.png): Nandigrama, the humble village outside Ayodhya: a simple thatched hut where Bharata lives as an ascetic; inside, Rama's padukas rest on a small golden throne under a white umbrella, with a deer-skin mat and an oil lamp. Scene: Bharata bowing before the padukas in Nandigrama. Lighting and atmosphere: Soft lamp light. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, logos or watermarks.
+```
+
+### క్లిప్ 3 · 0:10 – 0:15 · శ్లోక పఠనం – 2 · 🖼️ ఇమేజ్ + కదలిక
+
+- **నెరేషన్:** దణ్డకారణ్యగమనం విరాధస్య వధం తథా ॥ 17 ॥
+- **రిఫరెన్స్:** `BHARATA.png` · `NANDIGRAMA.png`
+- **ఎడిటర్‌లో కదలిక:** ఎడమ నుండి కుడికి నెమ్మదిగా ప్యాన్ + కొద్దిగా జూమ్-ఇన్
+
+```text
+Vertical 9:16 cinematic still image, 1080x1920, main subject in the centre safe area. Very high quality: ultra-detailed, sharp and clean 4K-quality render, rich colour depth, film-quality lighting, no blur, no noise, no artefacts. Use the attached reference images as the exact look of each character, object and place (BHARATA.png = Bharata; NANDIGRAMA.png = Nandigrama (location)): match the face, skin colour, hair, clothing and ornaments exactly as in the reference (hand-held objects only as this scene describes), keep the same art style, and do not redesign them. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, every character with a clearly individual face (different face shape, eyes, nose, age and build) so that no two characters ever share the same face, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture; forest and ashram settings are lush, green and serene with flowering trees, clear rivers and streams, deer, peacocks and birds (darker only where the scene says so); volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters: Bharata: young prince, fair skin, gentle refined devoted face, medium build, simple white ascetic dhoti and upper cloth, no crown, white Vishnu namam with a red centre line on the forehead, distinctive face: soft heart-shaped face, large gentle eyes that look slightly downward, rounded nose, thin pencil moustache, wavy hair to the shoulders, slender frame, about twenty-four. Location (match the attached place reference NANDIGRAMA.png): Nandigrama, the humble village outside Ayodhya: a simple thatched hut where Bharata lives as an ascetic; inside, Rama's padukas rest on a small golden throne under a white umbrella, with a deer-skin mat and an oil lamp. Scene: Bharata in bark clothes conducting royal duties beside the padukas. Lighting and atmosphere: Warm morning light. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, logos or watermarks.
+```
+
+### క్లిప్ 4 · 0:15 – 0:23 · తాత్పర్యం – 1 · 🖼️ ఇమేజ్ + కదలిక
+
+- **నెరేషన్:** శ్రీరాములవారి పాదుకలకు పట్టాభిషేకం, భరతులవారు నందిగ్రామంలో ఉండి పాలించడం, శ్రీరాములవారు దండకారణ్యానికి వెళ్ళడం, విరాధుడనే రాక్షసుడి వధ...
+- **రిఫరెన్స్:** `RAMA_ARANYA.png` · `SITA_ARANYA.png` · `LAKSHMANA_ARANYA.png` · `DANDAKA.png`
+- **ఎడిటర్‌లో కదలిక:** ఎడమ నుండి కుడికి నెమ్మదిగా ప్యాన్ + కొద్దిగా జూమ్-ఇన్
+
+```text
+Vertical 9:16 cinematic still image, 1080x1920, main subject in the centre safe area. Very high quality: ultra-detailed, sharp and clean 4K-quality render, rich colour depth, film-quality lighting, no blur, no noise, no artefacts. Use the attached reference images as the exact look of each character, object and place (RAMA_ARANYA.png = Rama in forest exile; SITA_ARANYA.png = Goddess Sita in exile; LAKSHMANA_ARANYA.png = Lakshmana in forest exile; DANDAKA.png = the Dandaka forest (location)): match the face, skin colour, hair, clothing and ornaments exactly as in the reference (hand-held objects only as this scene describes), keep the same art style, and do not redesign them. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, every character with a clearly individual face (different face shape, eyes, nose, age and build) so that no two characters ever share the same face, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture; forest and ashram settings are lush, green and serene with flowering trees, clear rivers and streams, deer, peacocks and birds (darker only where the scene says so); volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters: Rama in forest exile from the start of the vanavasam until the end of the war, avatar of Lord Vishnu: deep blue divine skin, calm serene face, hair tied up in a coiled jata crown, always clean-shaven with no beard or moustache, saffron-ochre naara-cheera bark-cloth dhoti and upper cloth, no jewellery, Kodanda bow and quiver, carried from the start of the vanavasam until the end of the war (bow in hand only in action, travel or guard scenes; otherwise the quiver on his back and the bow resting nearby), subtle divine glow, white Vishnu namam with a red centre line on the forehead, distinctive face: oval face with a gently rounded chin, large lotus-petal-shaped eyes, long straight nose, full calm lips, broad forehead, softly arched brows; Goddess Sita in exile, incarnation of Lakshmi: warm golden-fair skin, gentle divine face, single long braid, simple saffron cotton saree fully and modestly draped with pallu over the shoulder, minimal jewellery, red kumkum bindi on the forehead and sindoor in the hair parting, distinctive face: delicate oval face, large doe-like eyes with long lashes, small straight nose, bow-shaped lips, soft rounded chin, about twenty-two in appearance; Lakshmana in forest exile from the start of the vanavasam until the end of the war: golden-fair skin, lean strong build, hair tied up in a short jata, always clean-shaven with no beard or moustache, saffron-ochre naara-cheera bark-cloth dhoti and upper cloth, no jewellery, bow and quiver, carried from the start of the vanavasam until the end of the war (bow in hand only in action, travel or guard scenes; otherwise on his back), alert protective stance, white Vishnu namam with a red centre line on the forehead, distinctive face: sharp angular face with a pointed chin, narrow intense eyes, straight brows drawn together in alertness, high cheekbones, thin aquiline nose. Location (match the attached place reference DANDAKA.png): the Dandaka forest: a vast, dense, ancient forest with huge trees, hanging vines and drifting mist, only a few sunbeams reaching the ground, darker and more mysterious than other forests, never horror. Scene: The three walking into the dense Dandaka forest. Lighting and atmosphere: Deep green forest light. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, logos or watermarks.
+```
+
+### క్లిప్ 5 · 0:23 – 0:31 · తాత్పర్యం – 2 · 🖼️ ఇమేజ్ + కదలిక
+
+- **నెరేషన్:** ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి.
+- **రిఫరెన్స్:** `VIRADHA.png` · `RAMA_ARANYA.png` · `DANDAKA.png`
+- **ఎడిటర్‌లో కదలిక:** నెమ్మదిగా జూమ్-ఇన్ (100% → 112%)
+
+```text
+Vertical 9:16 cinematic still image, 1080x1920, main subject in the centre safe area. Very high quality: ultra-detailed, sharp and clean 4K-quality render, rich colour depth, film-quality lighting, no blur, no noise, no artefacts. Use the attached reference images as the exact look of each character, object and place (VIRADHA.png = Viradha the rakshasa; RAMA_ARANYA.png = Rama in forest exile; DANDAKA.png = the Dandaka forest (location)): match the face, skin colour, hair, clothing and ornaments exactly as in the reference (hand-held objects only as this scene describes), keep the same art style, and do not redesign them. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, every character with a clearly individual face (different face shape, eyes, nose, age and build) so that no two characters ever share the same face, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture; forest and ashram settings are lush, green and serene with flowering trees, clear rivers and streams, deer, peacocks and birds (darker only where the scene says so); volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters: Viradha the rakshasa: towering mountain-like demon, sunken eyes, big belly, wearing a tiger-skin garment, carrying a huge spear, fierce but not horror, no gore; Rama in forest exile from the start of the vanavasam until the end of the war, avatar of Lord Vishnu: deep blue divine skin, calm serene face, hair tied up in a coiled jata crown, always clean-shaven with no beard or moustache, saffron-ochre naara-cheera bark-cloth dhoti and upper cloth, no jewellery, Kodanda bow and quiver, carried from the start of the vanavasam until the end of the war (bow in hand only in action, travel or guard scenes; otherwise the quiver on his back and the bow resting nearby), subtle divine glow, white Vishnu namam with a red centre line on the forehead, distinctive face: oval face with a gently rounded chin, large lotus-petal-shaped eyes, long straight nose, full calm lips, broad forehead, softly arched brows. Location (match the attached place reference DANDAKA.png): the Dandaka forest: a vast, dense, ancient forest with huge trees, hanging vines and drifting mist, only a few sunbeams reaching the ground, darker and more mysterious than other forests, never horror. Scene: Rama facing the giant rakshasa Viradha in the forest. Lighting and atmosphere: Dramatic forest light. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, logos or watermarks.
+```
+
+### క్లిప్ 6 · 0:31 – 0:38 · జీవిత పాఠం · 🖼️ ఇమేజ్ + కదలిక
+
+- **నెరేషన్:** పాదుకలను ముందు పెట్టి పాలించారు భరతులవారు. పదవి కాదు, బాధ్యత ముఖ్యం.
+- **రిఫరెన్స్:** అవసరం లేదు
+- **ఎడిటర్‌లో కదలిక:** నెమ్మదిగా జూమ్-ఇన్ (100% → 112%)
+
+```text
+Vertical 9:16 cinematic still image, 1080x1920, main subject in the centre safe area. Very high quality: ultra-detailed, sharp and clean 4K-quality render, rich colour depth, film-quality lighting, no blur, no noise, no artefacts. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, every character with a clearly individual face (different face shape, eyes, nose, age and build) so that no two characters ever share the same face, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture; forest and ashram settings are lush, green and serene with flowering trees, clear rivers and streams, deer, peacocks and birds (darker only where the scene says so); volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Scene: Symbolic shot: a pair of padukas on a throne glowing brighter than a crown beside them. Lighting and atmosphere: Golden glow. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, logos or watermarks.
+```
+
+### క్లిప్ 7 · 0:38 – 0:45 · ముగింపు & CTA · 🖼️ ఇమేజ్ + కదలిక
+
+- **నెరేషన్:** దండకారణ్యంలో శ్రీరాములవారి కోసం ఎదురుచూసిన మహర్షులు ఎవరు? తరువాతి షార్ట్‌లో! నచ్చితే లైక్ చేసి, మీ వాళ్ళకి షేర్ చేయండి!
+- **రిఫరెన్స్:** `SHARABHANGA.png` · `FOREST_ASHRAM.png`
+- **ఎడిటర్‌లో కదలిక:** నెమ్మదిగా జూమ్-ఇన్ (100% → 112%)
+
+```text
+Vertical 9:16 cinematic still image, 1080x1920, main subject in the centre safe area. Very high quality: ultra-detailed, sharp and clean 4K-quality render, rich colour depth, film-quality lighting, no blur, no noise, no artefacts. Use the attached reference images as the exact look of each character, object and place (SHARABHANGA.png = Sage Sharabhanga; FOREST_ASHRAM.png = a sages' hermitage in the Dandaka forest (location)): match the face, skin colour, hair, clothing and ornaments exactly as in the reference (hand-held objects only as this scene describes), keep the same art style, and do not redesign them. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, every character with a clearly individual face (different face shape, eyes, nose, age and build) so that no two characters ever share the same face, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture; forest and ashram settings are lush, green and serene with flowering trees, clear rivers and streams, deer, peacocks and birds (darker only where the scene says so); volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters: Sage Sharabhanga: extremely old frail rishi, pale cream-grey bark-cloth wrap, a crooked wooden walking stick only when standing or walking, radiant tapas glow around him, white Vishnu namam with a red centre line on the forehead, distinctive face: extremely thin skeletal face, sunken cheeks and eyes, sparse wispy white beard down to the waist, bald crown with a thin white topknot, pale brown skin, bent frail frame, over ninety. Location (match the attached place reference FOREST_ASHRAM.png): a sages' hermitage in the Dandaka forest (for Sharabhanga, Sutikshna and Agastya): a radiant clearing in the deep forest with a cluster of thatched huts, a glowing sacred fire, sacred trees hung with flower garlands, deer resting peacefully. Scene: An old sage waiting at his hermitage door, looking down the path. Lighting and atmosphere: Warm forest light, soft flash. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, logos or watermarks.
+```
+
+### ఈ శ్లోకానికి రిఫరెన్స్ ఇమేజ్‌లు
+
+పాత్రలు, గుంపులు, వస్తువులు, ప్రదేశాలు – అన్నీ. ఇమేజ్ ప్రాంప్ట్‌లు: [00_REFERENCES.md](00_REFERENCES.md).
+
+| ఇమేజ్ | ఏమిటి | ఏ క్లిప్‌లలో |
+|---|---|---|
+| `PADUKA.png` | శ్రీరాముని పాదుకలు | 1, 2, థంబ్‌నెయిల్ |
+| `NANDIGRAMA.png` | నందిగ్రామం – భరతుడి కుటీరం | 1, 2, 3 |
+| `BHARATA.png` | భరతుడు – నందిగ్రామంలో తపస్వి (రాముడి వనవాసకాలంలో) | 2, 3 |
+| `RAMA_ARANYA.png` | శ్రీరాముడు – వనవాసం నుండి యుద్ధకాండ వరకు (నారచీరలు) | 4, 5 |
+| `SITA_ARANYA.png` | సీతమ్మ – అరణ్యవాసం (కాషాయ నూలు చీర) | 4 |
+| `LAKSHMANA_ARANYA.png` | లక్ష్మణుడు – వనవాసం నుండి యుద్ధకాండ వరకు (నారచీరలు) | 4 |
+| `DANDAKA.png` | దండకారణ్యం | 4, 5 |
+| `VIRADHA.png` | విరాధుడు | 5 |
+| `SHARABHANGA.png` | శరభంగ మహర్షి | 7 |
+| `FOREST_ASHRAM.png` | దండకారణ్యంలో మునుల ఆశ్రమాలు | 7 |
+
+## 6. థంబ్‌నెయిల్ (1080×1920)
+
+| భాగం | టెక్స్ట్ | రూపం |
+|---|---|---|
+| హెడ్‌లైన్ (పై 35%) | **పాదుకల పాలన** | తెలుపు, **పాదుకల** పసుపు (#FFD700), నల్ల అవుట్‌లైన్ + షాడో |
+| కింది లైన్ (కింది 12%) | నందిగ్రామం | తెలుపు, సెమీ-బోల్డ్ |
+| బ్యాడ్జ్ (పై ఎడమ) | బాలకాండ · సర్గ 3 · శ్లోకం 17 | కాషాయ పట్టీ, తెలుపు అక్షరాలు |
+
+- **ఫాంట్:** Noto Sans Telugu ExtraBold లేదా Gidugu. హెడ్‌లైన్ 2 లైన్లలోపు.
+- **బొమ్మ:** పాత్ర ముఖం కింది-మధ్యలో, కళ్ళు స్పష్టంగా.
+- **రిఫరెన్స్:** `PADUKA.png`
+- బ్యాక్‌గ్రౌండ్ ఈ ప్రాంప్ట్‌తో చేసి, టెక్స్ట్ Canva / ఎడిటర్‌లో వేయండి.
+
+```text
+Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. Very high quality: ultra-detailed, sharp and clean 4K-quality render, rich colour depth, film-quality lighting, no blur, no noise, no artefacts. Use the attached reference image as the exact look of the character (PADUKA.png = Rama's padukas): match the face, skin colour, hair, clothing and ornaments exactly as in the reference (hand-held objects only as this scene describes), keep the same art style, and do not redesign it. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, every character with a clearly individual face (different face shape, eyes, nose, age and build) so that no two characters ever share the same face, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture; forest and ashram settings are lush, green and serene with flowering trees, clear rivers and streams, deer, peacocks and birds (darker only where the scene says so); volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters: Rama's padukas: a pair of simple wooden sandals with round toe-knobs, polished dark wood with thin gold edging, glowing softly with sacred light. Scene: Rama's padukas placed on the throne under a royal umbrella. Make it a bold, emotional close-up of the main character or symbol in the lower-middle of the frame, strong expression, high contrast, glowing rim light. Golden divine light. Keep the top 35% of the frame a clean dark gradient or soft sky with no important detail (space for a headline) and the bottom 12% calm and plain (space for a small line). This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, numbers, logos or watermarks in the image.
+```
+
+## 7. YouTube అప్‌లోడ్
+
+**టైటిల్:**
+
+```text
+పాదుకలకు పట్టాభిషేకం! 👣 | Ramayanam 1.3.17
+```
+
+**వివరణ (Description):**
+
+```text
+పాదుకలకు పట్టాభిషేకం! 👣 | Ramayanam 1.3.17
+
+పాదుకాగ్ర్యాభిషేకం చ నన్దిగ్రామనివాసనమ్ ।
+దణ్డకారణ్యగమనం విరాధస్య వధం తథా ॥ 17 ॥
+
+తాత్పర్యం:
+శ్రీరాములవారి పాదుకలకు పట్టాభిషేకం, భరతులవారు నందిగ్రామంలో ఉండి పాలించడం, శ్రీరాములవారు దండకారణ్యానికి వెళ్ళడం, విరాధుడనే రాక్షసుడి వధ.
+
+📖 మూలం: శ్రీమద్వాల్మీకి రామాయణం · బాలకాండ · సర్గ 3 · శ్లోకం 17
+🙏 శ్లోకం శ్లోకంగా వాల్మీకి రామాయణం – అర్థం, జీవిత పాఠంతో.
+
+#shorts #ramayanam #telugushorts #devotional #shloka #ramayanintelugu #valmikiramayanam
+```
+
+**పిన్ కామెంట్:**
+
+```text
+"పదవి కంటే బాధ్యత ముఖ్యం" – మీరు ఒప్పుకుంటారా?
+```
+
+**క్యాప్షన్ ఫైల్:** [captions/Sloka_017.srt](captions/Sloka_017.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
