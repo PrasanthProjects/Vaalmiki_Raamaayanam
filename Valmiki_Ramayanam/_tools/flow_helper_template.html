@@ -261,7 +261,9 @@ h1 mark { background: none; color: var(--saffron); }
       if (c.note) dl.append(el('dt', '', 'గమనిక'), el('dd', '', c.note));
       if (c.imagePrompt) {   // image first, then Frames to Video
         card.append(dl, el('div', 'eyebrow', '🖼️ ఇమేజ్ ప్రాంప్ట్ (Flow / Imagen)'), promptBox(c.imagePrompt, 'ఇమేజ్ ప్రాంప్ట్ కాపీ'));
-        if (c.kind === 'video') card.append(el('div', 'eyebrow', '🎥 వీడియో ప్రాంప్ట్ (Flow – Frames to Video)'), promptBox(c.prompt, 'వీడియో ప్రాంప్ట్ కాపీ'));
+        if (c.videoPrompt) card.append(el('div', 'eyebrow', c.kind === 'video' ? '🎥 వీడియో ప్రాంప్ట్ (Flow – Frames to Video)'
+          : '🎞 వీడియో ప్రాంప్ట్ (కావాలంటే – పై ఇమేజ్‌ను Frames to Video లో పెట్టి మెల్లని కదలిక)'), promptBox(c.videoPrompt, 'వీడియో ప్రాంప్ట్ కాపీ'));
+        else if (c.kind === 'video') card.append(el('div', 'eyebrow', '🎥 వీడియో ప్రాంప్ట్ (Flow – Frames to Video)'), promptBox(c.prompt, 'వీడియో ప్రాంప్ట్ కాపీ'));
       } else card.append(dl, promptBox(c.prompt));
       cards.append(card);
     });
