@@ -130,6 +130,7 @@ h1 mark { background: none; color: var(--saffron); }
         <div class="tabs" role="tablist">
           <button class="tab" role="tab" id="tab-clips" aria-selected="true">క్లిప్‌లు</button>
           <button class="tab" role="tab" id="tab-dialog" aria-selected="false" hidden>🎙 డైలాగ్</button>
+          <button class="tab" role="tab" id="tab-voices" aria-selected="false" hidden>🎭 గొంతులు</button>
           <button class="tab" role="tab" id="tab-thumb" aria-selected="false">థంబ్‌నెయిల్ & అప్‌లోడ్</button>
           <button class="tab" role="tab" id="tab-refs" aria-selected="false">రిఫరెన్స్‌లు (పాత్రలు · ప్రదేశాలు)</button>
         </div>
@@ -154,7 +155,7 @@ h1 mark { background: none; color: var(--saffron); }
   // ---------- storage: claude.ai db (synced across devices) or this browser ----------
   try { done = JSON.parse(localStorage.getItem(LKEY) || '{}'); } catch (e) { done = {}; }
   function saveLocal() { try { localStorage.setItem(LKEY, JSON.stringify(done)); } catch (e) {} }
-  function entry(k) { return done[k] || (done[k] = k === 'refs' ? {} : { c: [], t: false }); }
+  function entry(k) { return done[k] || (done[k] = (k === 'refs' || k === 'voices') ? {} : { c: [], t: false }); }
   function persist(k) {
     saveLocal();
     if (remote) remote.doc(D.key + '_' + k).set(JSON.parse(JSON.stringify(done[k]))).catch(() => { setSync('సేవ్ కాలేదు – ఈ బ్రౌజర్‌లో మాత్రమే ఉంది'); });
@@ -301,6 +302,35 @@ h1 mark { background: none; color: var(--saffron); }
     });
     p.append(list);
   }
+  function renderVoices(s) {   // one saved voice per character: how it should sound, the design prompt, a test line
+    const p = $('panel'); const e = entry('voices');
+    if (D.voicesNote) p.append(el('p', 'note', D.voicesNote));
+    const here = D.voices.filter((v) => v.lines[s.n]);
+    const groups = [[s.n + ' లో మాట్లాడే గొంతులు', here]];
+    [...new Set(D.voices.map((v) => v.group))].forEach((g) => groups.push([g, D.voices.filter((v) => v.group === g && !v.lines[s.n])]));
+    groups.forEach(([title, list]) => {
+      if (!list.length) return;
+      p.append(el('h2', 'section-title', title + ' (' + list.length + ')'));
+      const cards = el('div', 'cards');
+      list.forEach((v) => {
+        const card = el('article', 'card' + (e[v.key] ? ' done' : ''));
+        const head = el('div', 'head'); head.append(el('span', 'no', '🎭 ' + v.name));
+        if (v.lines[s.n]) head.append(el('span', 'time', s.n + ': ' + v.lines[s.n] + ' మాటలు'));
+        const lab = el('label', 'check'); const cb = el('input'); cb.type = 'checkbox'; cb.checked = !!e[v.key];
+        cb.addEventListener('change', () => { e[v.key] = cb.checked; persist('voices'); render(); });
+        lab.append(cb, document.createTextNode('గొంతు సేవ్ చేశాను')); head.append(lab);
+        card.append(head, el('p', '', v.how));
+        if (v.uses) card.append(el('p', 'note', 'స్క్రిప్ట్‌లో ఈ పేర్లు: ' + v.uses));
+        card.append(el('div', 'label', '🎨 Voice Design వివరణ (ఇంగ్లీష్)'));
+        const d = promptBox(v.design, 'వివరణ కాపీ'); d.classList.add('open'); card.append(d);
+        card.append(el('div', 'label', '🔊 ప్రివ్యూ టెక్స్ట్ (Voice Design లో "Text to preview")'));
+        const t = promptBox(v.preview, 'ప్రివ్యూ కాపీ'); t.classList.add('open'); card.append(t);
+        card.append(el('p', 'note', 'ఎపిసోడ్‌లు: ' + Object.keys(v.lines).map((k) => k + ' (' + v.lines[k] + ')').join(', ')));
+        cards.append(card);
+      });
+      p.append(cards);
+    });
+  }
   function renderThumb(s) {
     const p = $('panel'); const e = entry(sid(s.n));
     p.append(el('h2', 'section-title', 'థంబ్‌నెయిల్'));
@@ -358,10 +388,10 @@ h1 mark { background: none; color: var(--saffron); }
     const s = D.slokas[cur];
     $('eyebrow').textContent = s.badge + ' · ' + count(s) + '/' + (s.clips.length + 1) + ' పూర్తి';
     markHl($('headline'), s.headline, s.hl);
-    ['clips', 'dialog', 'thumb', 'refs'].forEach((t) => $('tab-' + t).setAttribute('aria-selected', tab === t ? 'true' : 'false'));
+    ['clips', 'dialog', 'voices', 'thumb', 'refs'].forEach((t) => $('tab-' + t).setAttribute('aria-selected', tab === t ? 'true' : 'false'));
     $('pick').value = String(cur);
     $('panel').textContent = '';
-    if (tab === 'clips') renderClips(s); else if (tab === 'dialog') renderDialog(s); else if (tab === 'thumb') renderThumb(s); else renderRefs();
+    if (tab === 'clips') renderClips(s); else if (tab === 'dialog') renderDialog(s); else if (tab === 'voices') renderVoices(s); else if (tab === 'thumb') renderThumb(s); else renderRefs();
   }
   function go(i) {
     cur = Math.max(0, Math.min(D.slokas.length - 1, i));
@@ -376,8 +406,9 @@ h1 mark { background: none; color: var(--saffron); }
   $('prev').addEventListener('click', () => go(cur - 1));
   $('next').addEventListener('click', () => go(cur + 1));
   $('search').addEventListener('input', renderList);
-  ['clips', 'dialog', 'thumb', 'refs'].forEach((t) => $('tab-' + t).addEventListener('click', () => { tab = t; render(); }));
+  ['clips', 'dialog', 'voices', 'thumb', 'refs'].forEach((t) => $('tab-' + t).addEventListener('click', () => { tab = t; render(); }));
   if (D.slokas.some((x) => x.tts && x.tts.length)) $('tab-dialog').hidden = false;   // long videos: a dialogue-only tab
+  if (D.voices && D.voices.length) $('tab-voices').hidden = false;   // a cast with saved voices (kids series)
   const fromHash = D.slokas.findIndex((s) => '#' + sid(s.n) === location.hash);
   let saved = 0; try { saved = +(localStorage.getItem(LKEY + '-cur') || 0); } catch (e) {}
   cur = fromHash >= 0 ? fromHash : (saved < D.slokas.length ? saved : 0);
