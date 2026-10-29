@@ -237,7 +237,9 @@ h1 mark { background: none; color: var(--saffron); }
       all.append(el('div', 'label', 'Google Flow స్క్రిప్ట్ – అన్ని క్లిప్‌లు వరుసగా (ఇమేజ్ + వీడియో ప్రాంప్ట్‌లు)'), act); p.append(all);
     }
     const f = el('div', 'filters'); f.append(el('span', '', 'చూపించు:'));
-    [['all', 'అన్నీ'], ['video', 'వీడియో'], ['image', 'ఇమేజ్'], ['todo', 'మిగిలినవి']].forEach(([k, t]) => {
+    const both = s.clips.some((c) => c.videoPrompt);   // every clip has an image and a video prompt (kids series)
+    (both ? [['all', 'అన్నీ'], ['video', 'యాక్షన్ క్లిప్‌లు'], ['image', 'మెల్లని కదలిక క్లిప్‌లు'], ['todo', 'మిగిలినవి']]
+      : [['all', 'అన్నీ'], ['video', 'వీడియో'], ['image', 'ఇమేజ్'], ['todo', 'మిగిలినవి']]).forEach(([k, t]) => {
       const c = el('button', 'chip', t); c.setAttribute('aria-pressed', filter === k ? 'true' : 'false');
       c.addEventListener('click', () => { filter = k; render(); }); f.append(c); });
     p.append(f);
@@ -249,7 +251,7 @@ h1 mark { background: none; color: var(--saffron); }
       const card = el('article', 'card' + (e.c[i] ? ' done' : ''));
       const head = el('div', 'head');
       head.append(el('span', 'no', D.clipWord + ' ' + c.no), el('span', 'time', c.time), el('span', 'label', c.label),
-        el('span', 'kind ' + c.kind, c.kind === 'video' ? 'వీడియో · Flow' : 'ఇమేజ్ + కదలిక'));
+        el('span', 'kind ' + c.kind, c.videoPrompt ? '🖼️ ఇమేజ్ + 🎥 వీడియో' : c.kind === 'video' ? 'వీడియో · Flow' : 'ఇమేజ్ + కదలిక'));
       const lab = el('label', 'check'); const cb = el('input'); cb.type = 'checkbox'; cb.id = 'c-' + s.n + '-' + c.no; cb.checked = !!e.c[i];
       cb.addEventListener('change', () => { e.c[i] = cb.checked; persist(sid(s.n)); render(); renderList(); });
       lab.append(cb, document.createTextNode('పూర్తైంది')); head.append(lab); card.append(head);
@@ -261,8 +263,8 @@ h1 mark { background: none; color: var(--saffron); }
       if (c.note) dl.append(el('dt', '', 'గమనిక'), el('dd', '', c.note));
       if (c.imagePrompt) {   // image first, then Frames to Video
         card.append(dl, el('div', 'eyebrow', '🖼️ ఇమేజ్ ప్రాంప్ట్ (Flow / Imagen)'), promptBox(c.imagePrompt, 'ఇమేజ్ ప్రాంప్ట్ కాపీ'));
-        if (c.videoPrompt) card.append(el('div', 'eyebrow', c.kind === 'video' ? '🎥 వీడియో ప్రాంప్ట్ (Flow – Frames to Video)'
-          : '🎞 వీడియో ప్రాంప్ట్ (కావాలంటే – పై ఇమేజ్‌ను Frames to Video లో పెట్టి మెల్లని కదలిక)'), promptBox(c.videoPrompt, 'వీడియో ప్రాంప్ట్ కాపీ'));
+        if (c.videoPrompt) card.append(el('div', 'eyebrow', '🎥 వీడియో ప్రాంప్ట్ (Flow – Frames to Video: పై ఇమేజ్‌ను మొదటి ఫ్రేమ్‌గా పెట్టండి)'
+          + (c.kind === 'video' ? ' · యాక్షన్' : ' · మెల్లని కదలిక')), promptBox(c.videoPrompt, 'వీడియో ప్రాంప్ట్ కాపీ'));
         else if (c.kind === 'video') card.append(el('div', 'eyebrow', '🎥 వీడియో ప్రాంప్ట్ (Flow – Frames to Video)'), promptBox(c.prompt, 'వీడియో ప్రాంప్ట్ కాపీ'));
       } else card.append(dl, promptBox(c.prompt));
       cards.append(card);
