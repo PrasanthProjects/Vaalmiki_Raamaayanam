@@ -291,7 +291,7 @@ h1 mark { background: none; color: var(--saffron); }
     const p = $('panel'); const e = entry(sid(s.n));
     p.append(el('h2', 'section-title', 'థంబ్‌నెయిల్'));
     const card = el('article', 'card' + (e.t ? ' done' : ''));
-    const head = el('div', 'head'); head.append(el('span', 'label', '1080×1920 · బ్యాక్‌గ్రౌండ్ ఇమేజ్'));
+    const head = el('div', 'head'); head.append(el('span', 'label', D.thumbLabel || '1080×1920 · బ్యాక్‌గ్రౌండ్ ఇమేజ్'));
     const lab = el('label', 'check'); const cb = el('input'); cb.type = 'checkbox'; cb.id = 't-' + s.n; cb.checked = !!e.t;
     cb.addEventListener('change', () => { e.t = cb.checked; persist(sid(s.n)); render(); renderList(); });
     lab.append(cb, document.createTextNode('పూర్తైంది')); head.append(lab); card.append(head);
@@ -304,9 +304,9 @@ h1 mark { background: none; color: var(--saffron); }
     p.append(el('h2', 'section-title', 'YouTube అప్‌లోడ్'));
     const up = el('div', 'cards');
     up.append(textBlock('టైటిల్', s.title, 'టైటిల్ కాపీ'), textBlock('వివరణ (Description)', s.desc, 'వివరణ కాపీ'),
-      textBlock('పిన్ కామెంట్', s.pinned, 'కామెంట్ కాపీ'));
+      textBlock(D.pinLabel || 'పిన్ కామెంట్', s.pinned, 'కామెంట్ కాపీ'));
     p.append(up);
-    p.append(el('p', 'note', 'క్యాప్షన్ ఫైల్: ' + s.srt + ' (Sarga ఫోల్డర్‌లోని captions/ లో ఉంది).'));
+    p.append(el('p', 'note', D.srtNote ? D.srtNote + s.srt : 'క్యాప్షన్ ఫైల్: ' + s.srt + ' (Sarga ఫోల్డర్‌లోని captions/ లో ఉంది).'));
   }
   function renderRefs() {
     const p = $('panel'); const e = entry('refs');
