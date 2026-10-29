@@ -229,6 +229,12 @@ h1 mark { background: none; color: var(--saffron); }
       if (s.reading) { const r = el('div', 'read'); r.append(el('div', 'eyebrow', 'చదవడానికి సులువుగా')); s.reading.forEach((l) => r.append(el('div', '', l))); sl.append(r); }
       p.append(sl);
     }
+    if (s.promptsAll) {
+      const all = el('div', 'card'); const act = el('div', 'actions');
+      const b = el('button', 'copy', '📋 ఈ ఎపిసోడ్ అన్ని ప్రాంప్ట్‌లు కాపీ'); b.dataset.label = b.textContent;
+      b.addEventListener('click', () => copyText(s.promptsAll, b)); act.append(b);
+      all.append(el('div', 'label', 'Google Flow స్క్రిప్ట్ – అన్ని క్లిప్‌లు వరుసగా (ఇమేజ్ + వీడియో ప్రాంప్ట్‌లు)'), act); p.append(all);
+    }
     const f = el('div', 'filters'); f.append(el('span', '', 'చూపించు:'));
     [['all', 'అన్నీ'], ['video', 'వీడియో'], ['image', 'ఇమేజ్'], ['todo', 'మిగిలినవి']].forEach(([k, t]) => {
       const c = el('button', 'chip', t); c.setAttribute('aria-pressed', filter === k ? 'true' : 'false');
@@ -252,7 +258,10 @@ h1 mark { background: none; color: var(--saffron); }
       dl.append(el('dt', '', 'రిఫరెన్స్'), refs);
       if (c.move) dl.append(el('dt', '', 'ఎడిటర్‌లో'), el('dd', '', c.move));
       if (c.note) dl.append(el('dt', '', 'గమనిక'), el('dd', '', c.note));
-      card.append(dl, promptBox(c.prompt));
+      if (c.imagePrompt) {   // image first, then Frames to Video
+        card.append(dl, el('div', 'eyebrow', '🖼️ ఇమేజ్ ప్రాంప్ట్ (Flow / Imagen)'), promptBox(c.imagePrompt, 'ఇమేజ్ ప్రాంప్ట్ కాపీ'));
+        if (c.kind === 'video') card.append(el('div', 'eyebrow', '🎥 వీడియో ప్రాంప్ట్ (Flow – Frames to Video)'), promptBox(c.prompt, 'వీడియో ప్రాంప్ట్ కాపీ'));
+      } else card.append(dl, promptBox(c.prompt));
       cards.append(card);
     });
     if (!cards.children.length) cards.append(el('p', 'note', 'ఈ ఫిల్టర్‌లో క్లిప్‌లు లేవు.'));
@@ -262,6 +271,7 @@ h1 mark { background: none; color: var(--saffron); }
     const p = $('panel');
     if (s.tts && s.tts.length) {
       p.append(el('h2', 'section-title', D.ttsTitle || 'వాయిస్ టెక్స్ట్'));
+      if (D.ttsNote) p.append(el('p', 'note', D.ttsNote));
       if (s.ttsAll) {   // the whole video's narration in one tap
         const all = el('div', 'card'); const act = el('div', 'actions');
         const b = el('button', 'copy', '📋 మొత్తం డైలాగ్‌లు కాపీ'); b.dataset.label = b.textContent;
@@ -282,8 +292,12 @@ h1 mark { background: none; color: var(--saffron); }
       if (!c.narration) return;
       const card = el('article', 'card'); const head = el('div', 'head');
       const no = el('span', 'no', '🎙 ' + c.no); head.append(no, el('span', 'time', c.time), el('span', 'label', c.label));
-      const box = promptBox(c.narration, 'డైలాగ్ కాపీ'); box.classList.add('open');
-      card.append(head, box); list.append(card); step = { no };
+      card.append(head);
+      if (c.lines && c.lines.length) {   // one copy button per spoken line, ready for a voice tool
+        c.lines.forEach((l) => { card.append(el('div', 'eyebrow', '🎙 ' + l.who + (l.cue ? ' · ' + l.cue : '')));
+          const bx = promptBox(l.tts, 'వాయిస్ టెక్స్ట్ కాపీ'); bx.classList.add('open'); card.append(bx); });
+      } else { const box = promptBox(c.narration, 'డైలాగ్ కాపీ'); box.classList.add('open'); card.append(box); }
+      list.append(card); step = { no };
     });
     p.append(list);
   }
