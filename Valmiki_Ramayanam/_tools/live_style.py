@@ -106,6 +106,30 @@ def still(keys, frame, light):
             f"{ANATOMY}. {RESPECT} No text, letters, logos or watermarks.")
 
 
+STABLE = ("Keep it stable: every character keeps exactly the same face, hair, clothes, ornaments, colours and size "
+          "as in the start frame for the whole shot; nobody new appears and nobody disappears; no sudden or jerky "
+          "movements, no running, jumping or turning unless the action says so; hands and weapons stay natural; "
+          "the background and props stay fixed; one continuous shot with no cuts and no scene change.")
+GENTLE = ("Only small, natural, gentle movement: soft breathing, a slow blink, a slight turn of the head or eyes, "
+          "clothes, hair and leaves stirring in a light breeze, lamp flames and water shimmering softly; "
+          "the characters stay in their places and keep their poses.")
+
+
+def start_video(keys, frame, motion, cam, light, action):
+    """Flow Frames to Video: the still made from still() is the first frame. Action clips play their motion over
+    0–2 s settle / 2–6 s action / 6–8 s rest; the other clips only breathe."""
+    keys = order(keys)
+    move = (f"Action, slow and smooth: 0–2 s hold the start frame and settle; 2–6 s {motion}; 6–8 s come to rest "
+            "and hold the final pose." if action else GENTLE)
+    cam = cam if action else 'a very slow, steady push-in'
+    return ("Animate the attached start frame as one continuous 8 second vertical 9:16 shot. "
+            f"{QUALITY_VIDEO} {use_sentence(keys)}Style: {STYLE}. {cast(keys, True)}"
+            f"The frame shows: {frame}{hands_note(keys, frame, motion)} {move} Camera: {cam}; slow, steady and "
+            f"smooth, no shake, no sudden zoom. Lighting and effects: {light} {STABLE} {ANATOMY}; physically "
+            f"consistent motion with no morphing or flicker. {RESPECT} No text, letters, subtitles, logos or "
+            "watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.")
+
+
 def video(keys, frame, motion, cam, light):
     keys = order(keys)
     return ("Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. "

@@ -40,6 +40,10 @@ TARGET, LOW, HIGH = 11 * 60, 10 * 60, 12 * 60
 MINUTES = '10–12'   # the length range in page titles (data LENGTH line)
 SIMPLE = []   # [exact words, plain Telugu, times used] (data/*_videos.txt SIMPLE lines)
 PLACES_USED = set()
+CLIPS_NOTE = ('ప్రతి క్లిప్‌కు రెండు ప్రాంప్ట్‌లు: ముందు 🖼️ ఇమేజ్ చేయండి (రిఫరెన్స్ ఇమేజ్‌లు జత చేసి). వీడియో కావాలంటే '
+              'ఆ ఇమేజ్‌ను Flow → Frames to Video లో మొదటి ఫ్రేమ్‌గా పెట్టి 🎥 వీడియో ప్రాంప్ట్ వాడండి. "యాక్షన్" క్లిప్‌లు కథలో '
+              'కదలిక ఉన్నవి; "మెల్లని కదలిక" క్లిప్‌లకు ఇమేజ్ + ఎడిటర్ కదలిక చాలు, కావాలంటే వీడియో కూడా చేయవచ్చు. '
+              'వీడియోలో పాత్రలు అకస్మాత్తుగా కదిలితే: మళ్ళీ Generate చేయండి, లేదా ఇమేజ్ + ఎడిటర్ కదలిక వాడండి.')
 CARDS = {}   # (episode, scene) -> on-screen meaning under a kept sloka (data/*_videos.txt CARD lines)
 CUTS = []        # (episode, chapter scene or None): where each video starts (data/*_videos.txt CUTS line)
 PLACE_MAP = {}   # episode -> [(first scene, last scene, PLACES key)] for scripts without a location column
@@ -637,11 +641,12 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
             note = (note + ' ' if note else '') + f"తెరపై టెక్స్ట్: «{item['onscreen']}»"
         if item.get('tip'):
             note = (note + ' ' if note else '') + item['tip']
-        move = '' if kind == 'video' else L.editor_move(item['visual'], n)
+        move = '' if kind == 'video' else L.editor_move(item['visual'], n) + ' (వీడియో చేయకపోతే)'
         a = item['start']
         card = {'no': str(n), 'time': f"{mmss(a)} – {mmss(a + secs)}", 'label': f"{item['label']} · {secs} సె",
                 'kind': kind, 'narration': item['narration'], 'refs': refs, 'move': move, 'note': note,
-                'prompt': L.scene_prompt(s, kind, looks)}
+                'prompt': L.scene_prompt(s, kind, looks), 'imagePrompt': L.scene_prompt(s, 'image', looks),
+                'videoPrompt': L.video_prompt(s, kind, looks, n)}
         cards.append(card)
         head = '🎥 వీడియో' if kind == 'video' else '🖼️ ఇమేజ్ + కదలిక'
         star = ' · ✨ కొత్తది' if item['new'] else (' · 🔁 అదే నెరేషన్, కొత్త చిత్రం' if item.get('cont') else '')
@@ -805,7 +810,7 @@ def main(data_path):
             'క్లిప్ ప్రాంప్ట్‌లు, థంబ్‌నెయిల్, టైటిల్, అధ్యాయాలతో వివరణ, పిన్ కామెంట్, క్యాప్షన్లు.\n',
             '| వీడియో | ఎపిసోడ్‌లు | నిడివి | కథ |', '|---|---|---|---|', *index, '']))
         payload = {'key': f'videos_{k}', 'name': f'{label} – {MINUTES} నిమిషాల వీడియోలు', 'slokas': pages,
-                   'refs': L.reference_file(refs_used)[1] + place_refs(), 'placeKeys': sorted(PLACES_USED), 'unit': 'వీడియోలు', 'clipWord': '',
+                   'refs': L.reference_file(refs_used)[1] + place_refs(), 'placeKeys': sorted(PLACES_USED), 'unit': 'వీడియోలు', 'clipWord': '', 'clipsNote': CLIPS_NOTE,
                    'subtitle': 'శ్లోకాలు లేకుండా · ప్రతి క్లిప్‌కు Flow ప్రాంప్ట్, థంబ్‌నెయిల్, అప్‌లోడ్',
                    'scriptTitle': '', 'ttsTitle': '🔊 ElevenLabs టెక్స్ట్ – ప్రతి భాగం వరుసగా కాపీ చేసి పేస్ట్ చేయండి'}
         blob = json.dumps(payload, ensure_ascii=False).replace('</', '<\\/')

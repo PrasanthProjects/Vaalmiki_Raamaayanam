@@ -246,6 +246,12 @@ def flow_md(clips, texts):
     return '\n'.join(out)
 
 
+CLIPS_NOTE = ('ప్రతి క్లిప్‌కు రెండు ప్రాంప్ట్‌లు: ముందు 🖼️ ఇమేజ్ చేయండి (రిఫరెన్స్ ఇమేజ్‌లు జత చేసి). వీడియో కావాలంటే '
+              'ఆ ఇమేజ్‌ను Flow → Frames to Video లో మొదటి ఫ్రేమ్‌గా పెట్టి 🎥 వీడియో ప్రాంప్ట్ వాడండి. "యాక్షన్" క్లిప్‌లు కథలో '
+              'కదలిక ఉన్నవి; "మెల్లని కదలిక" క్లిప్‌లకు ఇమేజ్ + ఎడిటర్ కదలిక చాలు, కావాలంటే వీడియో కూడా చేయవచ్చు. '
+              'వీడియోలో పాత్రలు అకస్మాత్తుగా కదిలితే: మళ్ళీ Generate చేయండి, లేదా ఇమేజ్ + ఎడిటర్ కదలిక వాడండి.')
+
+
 def clip_cards(clips, texts):
     """One dict per clip; shared by the Markdown file and the Flow helper page."""
     kinds = clip_kinds(clips)
@@ -257,12 +263,18 @@ def clip_cards(clips, texts):
             keys = keys_of(chars)
             refs = LS.ref_keys(keys)
             prompt = LS.video(keys, frame, motion, cam, light) if video else LS.still(keys, frame, light)
+            both = {'imagePrompt': LS.still(keys, frame, light),
+                    'videoPrompt': LS.start_video(keys, frame, motion, cam, light, video)}
         else:
             refs = [k for k in keys_of(chars) if k not in GROUPS]
             prompt = clip_prompt(chars, frame, motion, cam, light) if video else still_prompt(chars, frame, light)
+            both = {'imagePrompt': still_prompt(chars, frame, light),
+                    'videoPrompt': clip_prompt(chars, frame, motion if video else LS.GENTLE,
+                                               cam if video else 'a very slow, steady push-in', light)
+                    + ' ' + LS.STABLE}
         cards.append({
             'no': i + 1, 'time': f'{mmss(a)} – {mmss(b)}', 'label': label, 'kind': kinds[i],
-            'narration': texts[i], 'refs': refs, 'move': '' if video else editor_move(cam), 'prompt': prompt,
+            'narration': texts[i], 'refs': refs, 'move': ('' if video else editor_move(cam) + ' (వీడియో చేయకపోతే)'), 'prompt': prompt, **both,
         })
     return cards
 
@@ -431,7 +443,7 @@ def helper_page(kanda_dir, kanda_te, sarga, slokas):
     """The clip-by-clip copy page: returns (fragment to publish on claude.ai, full local HTML)."""
     if LIVE:   # the published page's own layout (dialogue, objects and places tabs) and library
         data = {'key': f'{kanda_dir}_s{sarga:03d}', 'name': f'{kanda_te} · సర్గ {sarga}', 'slokas': slokas,
-                'refs': LS.library(used_refs(slokas))}
+                'clipsNote': CLIPS_NOTE, 'refs': LS.library(used_refs(slokas))}
         blob = json.dumps(data, ensure_ascii=False).replace('</', '<\\/')
         tpl = open(os.path.join(TOOLS, 'flow_helper_live_template.html'), encoding='utf-8').read()
         fragment = tpl.replace('__TITLE__', f'{kanda_te} సర్గ {sarga} క్లిప్‌లు').replace('__DATA__', blob)
@@ -440,7 +452,7 @@ def helper_page(kanda_dir, kanda_te, sarga, slokas):
                 + fragment + '</body></html>')
         return fragment, full
     data = {'key': f'{kanda_dir}_s{sarga:03d}', 'name': f'{kanda_te} · సర్గ {sarga}', 'slokas': slokas,
-            'unit': 'శ్లోకాలు', 'clipWord': 'క్లిప్', 'subtitle': 'Google Flow కోసం క్లిప్ ప్రాంప్ట్‌లు',
+            'unit': 'శ్లోకాలు', 'clipWord': 'క్లిప్', 'clipsNote': CLIPS_NOTE, 'subtitle': 'Google Flow కోసం క్లిప్ ప్రాంప్ట్‌లు',
             'refs': [{'key': k, 'prompt': ref_prompt(v)} for k, v in CHARS.items() if k not in GROUPS]}
     blob = json.dumps(data, ensure_ascii=False).replace('</', '<\\/')
     tpl = open(os.path.join(TOOLS, 'flow_helper_template.html'), encoding='utf-8').read()

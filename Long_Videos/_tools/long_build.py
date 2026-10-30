@@ -206,6 +206,39 @@ def scene_prompt(scene, kind, looks):
     return "Cinematic 16:9 still frame, 1920x1080, film still quality. " + body
 
 
+STABLE = ("Keep it stable: every character keeps exactly the same face, hair, clothes, ornaments, colours and size "
+          "as in the start frame for the whole shot; nobody new appears and nobody disappears; no sudden or jerky "
+          "movements; hands and weapons stay natural; the background and props stay fixed; one continuous shot with "
+          "no cuts and no scene change.")
+GENTLE = ("Only small, natural, gentle movement: soft breathing, a slow blink, a slight turn of the head or eyes, "
+          "clothes, hair and leaves stirring in a light breeze, lamp flames and water shimmering softly; "
+          "the characters stay in their places and keep their poses.")
+CAMS = ['a very slow, steady push-in', 'a very slow pan from left to right', 'a very slow pull-back',
+        'a very slow pan from right to left']
+
+
+def video_prompt(scene, kind, looks, i=0):
+    """Flow Frames to Video with the still from scene_prompt(..., 'image', ...) as the first frame: action scenes play
+    their action (0–2 s settle, 2–6 s action, 6–8 s rest); the others only breathe."""
+    who = ' '.join(f'{x}.' for x in looks)
+    loc = f"Setting: {scene['loc']}. " if scene['loc'] else ''
+    if kind == 'video':
+        move = ("Action, slow and smooth: 0–2 s hold the start frame and settle; 2–6 s play the main action of the "
+                "scene; 6–8 s come to rest and hold the final pose.")
+        cam = 'slow and steady, gently following the action'
+    else:
+        v = scene['visual'].lower()
+        move = GENTLE
+        cam = (CAMS[0] if any(w in v for w in ('close on', 'close-up', 'closeup', 'close up', 'face'))
+               else CAMS[1] if any(w in v for w in ('wide', 'aerial', 'landscape', 'panorama', 'city', 'army'))
+               else CAMS[i % 4])
+    return ("Animate the attached start frame as one continuous 8 second cinematic 16:9 shot. "
+            f"Style: {STYLE}. {loc}" + (f"Characters (keep exactly this look): {who} " if who else '')
+            + f"The scene: {scene_text(scene)}. {move} Camera: {cam}; no shake, no sudden zoom. {STABLE} "
+            "Smooth, physically consistent motion with no morphing or flicker. Correct anatomy and natural hands. "
+            f"{RESPECT} {TAIL}")
+
+
 def thumb_prompt(scenes, ep):
     pick = next((s for s in scenes if names_in(s['visual'])), scenes[0])
     looks, refs = scene_cast(pick, ep)
