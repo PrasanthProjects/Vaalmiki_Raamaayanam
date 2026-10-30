@@ -236,6 +236,7 @@ h1 mark { background: none; color: var(--saffron); }
       b.addEventListener('click', () => copyText(s.promptsAll, b)); act.append(b);
       all.append(el('div', 'label', 'Google Flow స్క్రిప్ట్ – అన్ని క్లిప్‌లు వరుసగా (ఇమేజ్ + వీడియో ప్రాంప్ట్‌లు)'), act); p.append(all);
     }
+    if (D.clipsNote) p.append(el('p', 'note', D.clipsNote));
     const f = el('div', 'filters'); f.append(el('span', '', 'చూపించు:'));
     const both = s.clips.some((c) => c.videoPrompt);   // every clip has an image and a video prompt (kids series)
     (both ? [['all', 'అన్నీ'], ['video', 'యాక్షన్ క్లిప్‌లు'], ['image', 'మెల్లని కదలిక క్లిప్‌లు'], ['todo', 'మిగిలినవి']]
