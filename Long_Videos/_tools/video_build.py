@@ -756,7 +756,7 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
     page = {'n': f'V{i:02d}', 'headline': main, 'hl': hl, 'sub': sub, 'badge': f'{kaanda_te} · {i} · {mmss(total)}',
             'title': title, 'sloka': [], 'tts': [v for _, v in voice], 'ttsLabels': labels,
             'ttsAll': '\n\n'.join(v for k, v in voice if k != 'intro'),
-            'ttsAllNote': 'ఇంట్రో క్లిప్ లేకుండా, శ్లోకాలతో సహా మొత్తం వరుసగా. ElevenLabs ఒకేసారి ఇంత పెద్ద టెక్స్ట్ తీసుకోకపోతే కింద ఉన్న భాగాలు ఒక్కొక్కటిగా వాడండి.', 'reading': None, 'clips': cards, 'thumbPrompt': tprompt,
+            'ttsAllNote': 'ఇంట్రో క్లిప్ లేకుండా, శ్లోకాలతో సహా మొత్తం వరుసగా. ElevenLabs ఒకేసారి ఇంత పెద్ద టెక్స్ట్ తీసుకోకపోతే కింద ఉన్న భాగాలు ఒక్కొక్కటిగా వాడండి.', 'reading': None, 'clips': [{k: v for k, v in c.items() if k != 'prompt'} for c in cards], 'thumbPrompt': tprompt,
             'thumbRefs': trefs, 'desc': desc, 'pinned': pin, 'srt': srt_rel}
     return fname, md, srt(spoken), page, total, warn, eps_long, list(zip(labels, [v for _, v in voice]))
 
