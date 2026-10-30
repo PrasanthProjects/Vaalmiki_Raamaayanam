@@ -90,8 +90,9 @@ GEN_CUE = {'మనసు', 'మనస్సు', 'ముఖం', 'ముఖమ�
            'చేతి', 'ఆశ్రమము', 'సభ', 'మందిరం', 'ఇల్లు', 'ఇంటి', 'రాజ్యం', 'వంశం', 'కుమారుడు', 'కుమార్తె', 'కోడలు', 'పెద్ద',
            'పేరు', 'నామం', 'ధనుస్సు', 'బాణం', 'బాణాలు', 'కోదండం', 'పాదుకలు', 'రథం', 'సేవ', 'దర్శనం', 'కథ', 'రూపు', 'శిష్యులు'}
 GEN_CUE |= {'కంట', 'కంటికి', 'కంటి', 'కంటిముందు', 'దృష్టి', 'చెవిన', 'చెవికి'}
+GEN_CUE |= {'ఆశ్రమానికి', 'ఆశ్రమాన్ని', 'పాదాలకు', 'పాదాలను', 'పాదాలని'}
 THING_VERBS = ('గుర్తు', 'తెలిసింది', 'తెలిసిందో', 'అనిపించింది', 'జరిగింది', 'కలిగింది', 'అయ్యింది', 'అయింది',
-               'దొరికింది', 'కనిపించింది', 'వినిపించింది', 'పోయింది', 'మారింది')
+               'దొరికింది', 'కనిపించింది', 'వినిపించింది', 'పోయింది', 'మారింది', 'కుదిరింది', 'చల్లబడ', 'చల్లారింది')
 GEN_END = ('లో', 'లోని', 'లోకి', 'లోనే', 'లోంచి')
 # Bala Kanda's Bharadwaja is Valmiki's young disciple, not the sage of Prayaga (set by the builders per kaanda)
 DISCIPLE_BHARADWAJA = False
@@ -105,23 +106,23 @@ UDU_RE = re.compile(W + rf'({_pref_re(UDU)})(డు|డి|ని|ణ్ణి|�
 BARE_RE = re.compile(W + rf'({_pref_re(BARE)})((?:{"|".join(sorted((s for s in BARE_SUFFIX if s), key=len, reverse=True))})?)(?![{TE}])')
 RESP_RE = re.compile(W + rf'({_pref_re(RESPECTFUL_NOM)})(?![{TE}])')
 WORD = re.compile(rf'[{TE}]+')
-MASC_V = re.compile(rf'(ాడ|ేడ|లడ)(ు|ని|నీ|ంటే|ట|ో|ేమో)$')
+MASC_V = re.compile(rf'(ాడ|ేడ|లడ)(ు|ని|నీ|ంటే|ట|ో|ేమో|ా)$')
 # feminine verbs (ది = ద + ి, so "…దని", "…దట", "…దో" end in ద + another vowel sign)
-_SUF = {'ి': '', 'ని': 'ని', 'ట': 'ట', 'ో': 'ో'}
+_SUF = {'ి': '', 'ని': 'ని', 'ట': 'ట', 'ో': 'ో', 'ా': 'ా'}
 
 
 def _fem(stem_new):
     return lambda m: stem_new + ('ు' if not _SUF[m.group(1)] else _SUF[m.group(1)])
 
 
-FEM_V = [(re.compile(r'అంద(ి|ని|ట|ో)$'), _fem('అన్నార')),
-         (re.compile(r'(?<=[ఏఎ])మంద(ి|ని|ట|ో)$'), _fem('మన్నార')),
-         (re.compile(r'ఉంద(ి|ని|ట|ో)$'), _fem('ఉన్నార')),
-         (re.compile(r'కూర్చుంద(ి|ని|ట|ో)$'), _fem('కూర్చున్నార')),
-         (re.compile(r'కుంద(ి|ని|ట|ో)$'), _fem('కున్నార')),
-         (re.compile(r'([తట])ుంద(ి|ని|ట|ో)$'), lambda m: m.group(1) + 'ార' + ('ు' if not _SUF[m.group(2)] else _SUF[m.group(2)])),
+FEM_V = [(re.compile(r'అంద(ి|ని|ట|ో|ా)$'), _fem('అన్నార')),
+         (re.compile(r'(?<=[ఏఎ])మంద(ి|ని|ట|ో|ా)$'), _fem('మన్నార')),
+         (re.compile(r'ఉంద(ి|ని|ట|ో|ా)$'), _fem('ఉన్నార')),
+         (re.compile(r'కూర్చుంద(ి|ని|ట|ో|ా)$'), _fem('కూర్చున్నార')),
+         (re.compile(r'కుంద(ి|ని|ట|ో|ా)$'), _fem('కున్నార')),
+         (re.compile(r'([తట])ుంద(ి|ని|ట|ో|ా)$'), lambda m: m.group(1) + 'ార' + ('ు' if not _SUF[m.group(2)] else _SUF[m.group(2)])),
          (re.compile(r'ంటిద(ి|ో)$'), lambda m: 'ంటివారు' if m.group(1) == 'ి' else 'ంటివారో'),
-         (re.compile(r'ింద(ి|ని|ట|ో)$'), _fem('ార'))]
+         (re.compile(r'ింద(ి|ని|ట|ో|ా)$'), _fem('ార'))]
 
 
 def _udu_form(key, case, rest):
@@ -161,7 +162,7 @@ def _agree(words, gender):
             return None
         if w.endswith('వాడు'):
             continue
-        if w.endswith(('ారు', 'ారని', 'ారట', 'ారో')):
+        if w.endswith(('ారు', 'ారని', 'ారట', 'ారో', 'ారా')):
             return i, w             # already respectful
         if gender in ('m', 's') and w not in NOT_VERB:
             m = MASC_V.search(w)
@@ -173,6 +174,12 @@ def _agree(words, gender):
                 if m:
                     return i, w[:m.start()] + fn(m)
     return None
+
+
+def _owned(w):
+    """A body word, place word or thing word (with or without a case ending): the name before it is its owner."""
+    return (w in GEN_CUE or w.endswith(GEN_END)
+            or any(w == g + c for g in GEN_CUE for c in ('ను', 'ని', 'కి', 'కు', 'తో', 'పై', 'మీద')))
 
 
 def _is_nom(after, gender, before_quote=False):
@@ -190,7 +197,7 @@ def _is_nom(after, gender, before_quote=False):
     if not hit:
         # verb forms that need no change ("ఏదీ అడగలేదు", "నాకు కనపడకపోతే") still make the name the subject,
         # unless an owned thing comes first ("సీతమ్మ జాడ దొరకలేదు")
-        if words[0] in GEN_CUE or words[0].endswith(GEN_END):
+        if _owned(words[0]):
             return False
         if words[0] in ('నాకు', 'నీకు', 'మాకు', 'మనకు', 'మీకు', 'తనకు', 'అతనికి', 'ఆయనకు', 'వాళ్ళకి', 'వారికి',
                         'ఏదీ', 'ఏమీ', 'ఎవరినీ', 'ఎప్పుడూ', 'కూడా', 'మాత్రం', 'ఇలా', 'అలా', 'అప్పుడు', 'వెంటనే', 'మళ్ళీ',
@@ -199,7 +206,7 @@ def _is_nom(after, gender, before_quote=False):
         if re.search(r'(ిన|ున్న)$', words[0]) and words[0] != 'అన్న':
             return True             # "సీతమ్మ ఇచ్చిన చూడామణి": she is the one who gave it
         return any(w.endswith(('లేదు', 'లేదని', 'లేదట', 'కపోతే', 'కుండా', 'నదై', 'నవాడై', 'నదిగా')) for w in words[:6])
-    if words[0] in GEN_CUE or words[0].endswith(GEN_END):
+    if _owned(words[0]):
         # "కన్నీళ్ళు పెట్టుకున్నాడు", "మనసులో అనుకుంది": a reflexive verb (…కు…) keeps the name as the subject
         return bool(re.search(r'కు(న్న|ంది|ంటు|ని)', hit[1]))
     return True
@@ -322,18 +329,27 @@ def _fix_verbs(s, marks, topic):
     out, pos = [], 0
     cur = topic
     ref = topic                     # the last respectful person mentioned in any case (for ఆయన)
+    nom_end = None                  # where the last respectful subject was named
     for m in WORD.finditer(s):
         w = m.group(0)
         hit = next((mk for mk in marks if mk[0] <= m.start() < mk[1]), None)
         if hit:
             if hit[2]:
                 cur = hit[2]
+                nom_end = hit[1]
             ref = hit[3] or ref
             continue
         if w == 'ఆయన' and (cur or ref):
             cur = cur or ref        # "ఆయన" after a respectful person is that person
             continue
         if _other_nom(w):
+            nxt = (WORD.findall(s[m.end():m.end() + 40]) or [''])[0]
+            if nxt == 'అనే':
+                continue            # "హనుమంతుడు అనే వానరుడిని": only a name
+            if w in OTHER_NAMES and (nxt == 'సాక్షిగా' or _owned(nxt)):
+                continue            # "అహల్య పాదాలకు", "శబరి ఆశ్రమానికి", "అగ్ని సాక్షిగా": an owner, not a subject
+            if w in STOP_NOM and re.search(r'(ిన|ున్న)$', nxt):
+                continue            # "అతను చేసిన ఉపకారాన్ని": the subject of a describing word only
             cur = None
             ref = None
             continue
@@ -351,7 +367,9 @@ def _fix_verbs(s, marks, topic):
             if mm:
                 new = w[:mm.start()] + {'ాడ': 'ార', 'ేడ': 'ేర', 'లడ': 'లర'}[mm.group(1)] + mm.group(2)
         prev = WORD.findall(s[:m.start()])[-1:] or ['']
-        if not new and cur in ('f', 's') and not (w.startswith(THING_VERBS) or prev[0].endswith('ం')):
+        right_after = nom_end is not None and s[nom_end:m.start()].strip() in ('', 'ఎలా', 'కూడా')
+        if not new and cur in ('f', 's') and (right_after or not (
+                w.startswith(THING_VERBS) or prev[0].endswith('ం') and prev[0] not in ('ఏం', 'ఏమేం'))):
             # "ఒక రహస్యం గుర్తుకొచ్చింది": a thing is the subject of this ింది, not her
             for rx, fn in FEM_V:
                 mm = rx.search(w)
@@ -479,6 +497,20 @@ CHECKS = [
      'సీతమ్మవారు ఏడ్చారు. చిత్రకూటంలో జరిగిన ఒక రహస్యం గుర్తుకొచ్చింది.'),
     ('రాముడినే చూసినంత ఆనందాన్ని సీతమ్మ పొందినదై, ఉంగరాన్ని చూసింది.',
      'శ్రీరాములవారినే చూసినంత ఆనందాన్ని సీతమ్మవారు పొందినదై, ఉంగరాన్ని చూసారు.'),
+    ('రాముడు ఒప్పుకున్నాడా? లేదా?', 'శ్రీరాములవారు ఒప్పుకున్నారా? లేదా?'),
+    ('రాముడు ఎప్పుడు తిరిగి వస్తాడా అని ఎదురుచూశారు.', 'శ్రీరాములవారు ఎప్పుడు తిరిగి వస్తారా అని ఎదురుచూశారు.'),
+    ('అప్పుడు సీతమ్మ ఏం చేసింది?', 'అప్పుడు సీతమ్మవారు ఏం చేసారు?'),
+    ('హనుమ మాట సీతమ్మ బాధను తగ్గించింది.', 'హనుమంతులవారి మాట సీతమ్మవారి బాధను తగ్గించింది.'),
+    ('రాముడు ముందుగా అహల్య పాదాలకు నమస్కరించాడు.', 'శ్రీరాములవారు ముందుగా అహల్య పాదాలకు నమస్కరించారు.'),
+    ('రాముడు హనుమంతుడు అనే వానరుడిని కలుసుకున్నాడు.', 'శ్రీరాములవారు హనుమంతుడు అనే వానరుడిని కలుసుకున్నారు.'),
+    ('రాముడు శబరి ఆశ్రమానికి వెళ్ళాడు.', 'శ్రీరాములవారు శబరి ఆశ్రమానికి వెళ్ళారు.'),
+    ('మారీచుడు ముందు పరిగెడుతున్నాడు, వెనకాల రాముడు పరిగెడుతున్నాడు.',
+     'మారీచుడు ముందు పరిగెడుతున్నాడు, వెనకాల శ్రీరాములవారు పరిగెడుతున్నారు.'),
+    ('రాముడు పోయాడని చూసి సుగ్రీవుడు ప్రాణం విడుస్తాడు.', 'శ్రీరాములవారు పోయారని చూసి సుగ్రీవుడు ప్రాణం విడుస్తాడు.'),
+    ('లంకలో సీతమ్మ దొరికింది ఒక చెట్టు కింద!', 'లంకలో సీతమ్మవారు దొరికారు ఒక చెట్టు కింద!'),
+    ('హనుమ తోక ఊపాడు. తోకకి ఉన్న నిప్పు చల్లబడింది.', 'హనుమంతులవారు తోక ఊపారు. తోకకి ఉన్న నిప్పు చల్లబడింది.'),
+    ('రాముడు అతను చేసిన ఉపకారాన్ని గుర్తుకుతెచ్చుకొని ఆనందపడతాడు.',
+     'శ్రీరాములవారు అతను చేసిన ఉపకారాన్ని గుర్తుకుతెచ్చుకొని ఆనందపడతారు.'),
 ]
 
 if __name__ == '__main__':
