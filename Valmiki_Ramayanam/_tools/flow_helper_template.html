@@ -329,6 +329,10 @@ h1 mark { background: none; color: var(--saffron); }
         const d = promptBox(v.design, 'వివరణ కాపీ'); d.classList.add('open'); card.append(d);
         card.append(el('div', 'label', '🔊 ప్రివ్యూ టెక్స్ట్ (Voice Design లో "Text to preview")'));
         const t = promptBox(v.preview, 'ప్రివ్యూ కాపీ'); t.classList.add('open'); card.append(t);
+        if (v.trial) {   // a longer line in the character's own voice, to test the saved voice for natural sound
+          card.append(el('div', 'label', '🎙 ట్రయల్ టెక్స్ట్ (సుమారు 25 సెకన్లు – సేవ్ చేసిన గొంతు సహజంగా ఉందో పరీక్షించడానికి)'));
+          const tr = promptBox(v.trial, 'ట్రయల్ కాపీ'); tr.classList.add('open'); card.append(tr);
+        }
         card.append(el('p', 'note', 'ఎపిసోడ్‌లు: ' + Object.keys(v.lines).map((k) => k + ' (' + v.lines[k] + ')').join(', ')));
         cards.append(card);
       });
