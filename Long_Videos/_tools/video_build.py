@@ -810,7 +810,7 @@ def main(data_path):
             'క్లిప్ ప్రాంప్ట్‌లు, థంబ్‌నెయిల్, టైటిల్, అధ్యాయాలతో వివరణ, పిన్ కామెంట్, క్యాప్షన్లు.\n',
             '| వీడియో | ఎపిసోడ్‌లు | నిడివి | కథ |', '|---|---|---|---|', *index, '']))
         payload = {'key': f'videos_{k}', 'name': f'{label} – {MINUTES} నిమిషాల వీడియోలు', 'slokas': pages,
-                   'refs': L.reference_file(refs_used)[1] + place_refs(), 'placeKeys': sorted(PLACES_USED), 'unit': 'వీడియోలు', 'clipWord': '', 'clipsNote': CLIPS_NOTE,
+                   'refs': L.reference_file(refs_used)[1] + place_refs(), 'placeKeys': sorted(PLACES_USED), 'unit': 'వీడియోలు', 'clipWord': '', 'clipsNote': CLIPS_NOTE, 'clipDialog': True,
                    'subtitle': 'శ్లోకాలు లేకుండా · ప్రతి క్లిప్‌కు Flow ప్రాంప్ట్, థంబ్‌నెయిల్, అప్‌లోడ్',
                    'scriptTitle': '', 'ttsTitle': '🔊 ElevenLabs టెక్స్ట్ – ప్రతి భాగం వరుసగా కాపీ చేసి పేస్ట్ చేయండి'}
         blob = json.dumps(payload, ensure_ascii=False).replace('</', '<\\/')

@@ -237,6 +237,12 @@ h1 mark { background: none; color: var(--saffron); }
       all.append(el('div', 'label', 'Google Flow స్క్రిప్ట్ – అన్ని క్లిప్‌లు వరుసగా (ఇమేజ్ + వీడియో ప్రాంప్ట్‌లు)'), act); p.append(all);
     }
     if (D.clipsNote) p.append(el('p', 'note', D.clipsNote));
+    if (D.clipDialog && s.ttsAll) {   // the whole dialogue one tap away from the clips
+      const all = el('div', 'card'); const act = el('div', 'actions');
+      const b = el('button', 'copy', '📋 మొత్తం డైలాగ్‌లు కాపీ'); b.dataset.label = b.textContent;
+      b.addEventListener('click', () => copyText(s.ttsAll, b)); act.append(b);
+      all.append(el('div', 'label', 'ఈ వీడియో మొత్తం నెరేషన్ – ' + s.ttsAll.length + ' అక్షరాలు'), act); p.append(all);
+    }
     const f = el('div', 'filters'); f.append(el('span', '', 'చూపించు:'));
     const both = s.clips.some((c) => c.videoPrompt);   // every clip has an image and a video prompt (kids series)
     (both ? [['all', 'అన్నీ'], ['video', 'యాక్షన్ క్లిప్‌లు'], ['image', 'మెల్లని కదలిక క్లిప్‌లు'], ['todo', 'మిగిలినవి']]
@@ -262,6 +268,10 @@ h1 mark { background: none; color: var(--saffron); }
       dl.append(el('dt', '', 'రిఫరెన్స్'), refs);
       if (c.move) dl.append(el('dt', '', 'ఎడిటర్‌లో'), el('dd', '', c.move));
       if (c.note) dl.append(el('dt', '', 'గమనిక'), el('dd', '', c.note));
+      if (D.clipDialog && c.narration && !c.narration.startsWith('(')) {
+        const dd = el('dd'); const b = el('button', 'copy', '🎙 ఈ సీన్ డైలాగ్ కాపీ'); b.dataset.label = b.textContent;
+        b.addEventListener('click', () => copyText(c.narration, b)); dd.append(b); dl.append(el('dt', '', 'డైలాగ్'), dd);
+      }
       if (c.imagePrompt) {   // image first, then Frames to Video
         card.append(dl, el('div', 'eyebrow', '🖼️ ఇమేజ్ ప్రాంప్ట్ (Flow / Imagen)'), promptBox(c.imagePrompt, 'ఇమేజ్ ప్రాంప్ట్ కాపీ'));
         if (c.videoPrompt) card.append(el('div', 'eyebrow', '🎥 వీడియో ప్రాంప్ట్ (Flow – Frames to Video: పై ఇమేజ్‌ను మొదటి ఫ్రేమ్‌గా పెట్టండి)'

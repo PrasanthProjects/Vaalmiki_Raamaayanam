@@ -179,8 +179,17 @@ def motion_score(clip):
     return sum(text.count(w) for w in MOTION_WORDS)
 
 
+KEPT = {}   # a Short's rows → what its published page already fixed (kinds, thumbnail, speaker)
+
+
+def row_key(rows):
+    return tuple(map(tuple, rows))
+
+
 def clip_kinds(clips):
     """Pick 2–3 clips per Short that really need video; the rest are stills animated in the editor."""
+    if row_key(clips) in KEPT:
+        return KEPT[row_key(clips)]['kinds']
     kinds = ['image'] * len(clips)
     ok = [not (set(keys_of(c[0])) & STILL_ONLY) for c in clips]
     if ok[0]:
@@ -287,6 +296,8 @@ def thumb_md(t, clips, kanda_te, sarga, n):
 
 
 def thumb_prompt(clips):
+    if row_key(clips) in KEPT:
+        return KEPT[row_key(clips)]['thumb']
     pick = next((c for c in clips if keys_of(c[0])), clips[0])
     if LIVE:
         return LS.thumb(keys_of(pick[0]), pick[1], pick[4])
@@ -481,6 +492,12 @@ def main(kanda_dir, sarga):
         rows = [r.split(' | ') for r in body.split('\n') if r.strip()]
         assert len(rows) == 7 and all(len(r) == 6 for r in rows), f'flow {n}: need 7 rows of 6 fields'
         flow[n] = [r[1:] for r in rows]
+    # Sarga 1's published scenes and reference images (kept with the sarga so a rebuild cannot lose them)
+    saved = os.path.join(data, 'live_rows.json')
+    kept = json.load(open(saved, encoding='utf-8')) if os.path.exists(saved) else {}
+    for n, one in kept.items():
+        flow[int(n)] = one['rows']
+        KEPT[row_key(one['rows'])] = one
     global LIVE
     LIVE = all(LS.known(keys_of(row[0])) for rows in flow.values() for row in rows)
     thumbs = pipe_lines(os.path.join(data, 'thumbnails.txt'))
@@ -545,7 +562,8 @@ def main(kanda_dir, sarga):
             'reading': read if read != ls else None, 'clips': clip_cards(flow[n], texts),
             'thumbPrompt': tprompt, 'thumbRefs': trefs,
             'desc': upload_desc(title, ls, tt, kanda_te, sarga, n), 'pinned': pinned[n], 'srt': name + '.srt',
-            **({'speaker': [x.strip() for x in f['SPK'].split(' | ', 1)]} if 'SPK' in f else {})})
+            **({'speaker': [x.strip() for x in f['SPK'].split(' | ', 1)]} if 'SPK' in f else {}),
+            **({'speaker': KEPT[row_key(flow[n])]['speaker']} if row_key(flow[n]) in KEPT else {})})
         n_video += kinds.count('video')
         n_image += kinds.count('image')
     open(os.path.join(out_dir, '00_INDEX.md'), 'w', encoding='utf-8', newline='\n').write(
