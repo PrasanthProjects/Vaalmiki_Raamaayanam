@@ -426,3 +426,97 @@ TONE E1.21 15 | awe
 
 # Where each video starts (pinned, so that a narration fix never re-cuts the kaanda; edit this line to re-cut).
 CUTS | E0.01, E1.02 22, E1.04 22, E1.06, E1.08, E1.10 17, E1.11 35, E1.12 31, E1.13 27, E1.15 8, E1.16 8, E1.18, E1.19 17, E1.21 15, E1.23, E1.24
+
+# Pictures that follow the narration (2026-11-03): a long line that moves to a new idea gets one picture per idea.
+# SHOTS <episode> <scene> | <picture 1> || <picture 2> [|| …]   the line is shared out at sentence ends, in order;
+#   "VIDEO: " in front of a picture marks a moving shot. Scenes left out keep their one picture (wide, then closer).
+# V06 (E1.10-E1.11)
+SHOTS E1.10 22 | Sage Chuli seated in deep tapas in his forest hermitage while the gandharva maiden Somada humbly serves him, bringing flowers and water || Sage Chuli opening his eyes and kindly asking Somada, who stands before him with joined palms, what he can do for her
+SHOTS E1.10 25 | The radiant young sage-king Brahmadatta seated on his throne in the city of Kampilya || Kushanabha giving his hundred daughters in marriage to Brahmadatta before the sacred wedding fire, priests chanting
+SHOTS E1.10 28 | VIDEO: Rama, Lakshmana and Vishwamitra with the sages rising and walking on along the forest path || VIDEO: Rama, Lakshmana and Vishwamitra arriving at the wide sparkling Ganga, their faces lighting up with joy
+SHOTS E1.11 4 | Kushanabha performing the Putrakameshti yajna before a blazing sacred fire, priests pouring ghee || The old king Kusha appearing at the yajna and blessing Kushanabha with a raised hand, promising him a son named Gadhi
+SHOTS E1.11 7 | Vishwamitra speaking warmly to Rama and Lakshmana on the riverbank, his hand on his chest as he tells them he is called Kaushika || A gentle memory: Vishwamitra's elder sister Satyavati beside her husband, the sage Richika, at their ashram
+SHOTS E1.11 9 | Vishwamitra seated in meditation beside a clear Himalayan river, the Kaushiki, close to his sister || Vishwamitra at Siddhashrama placing his hand on Rama's shoulder in gratitude, Lakshmana beside them
+SHOTS E1.11 11 | The sages on the Ganga bank praising Vishwamitra with joined palms || Rama turning to Vishwamitra with a curious, respectful question on the Ganga bank, Lakshmana listening, Vishwamitra about to begin
+SHOTS E1.11 14 | VIDEO: Ganga flowing through the heavens as a shining river of light among celestial clouds || Uma (Parvati) seated beside Lord Shiva on Kailasa as his divine consort, serene and radiant
+SHOTS E1.11 17 | Lord Shiva and Goddess Parvati seated together, serene and radiant, on snowy Kailasa in soft golden light || The devas gathered in heaven, looking at each other with worry about the power that may be born
+SHOTS E1.11 22 | The devas with joined palms telling Lord Shiva that the earth will hold his energy || VIDEO: Lord Shiva releasing his radiant tejas onto the earth; the golden light spreading over the land
+SHOTS E1.11 28 | Bhudevi, the earth goddess, bowing her head under Parvati's curse || VIDEO: The devas lowering their heads in silence and returning to their own abodes
+VIS E1.11 29 | The earth glowing and trembling, unable to hold Lord Shiva's fiery tejas
+VIS E1.11 31 | Lord Shiva and Parvati walking away westward over the snowy mountains to resume their tapas
+# V07 (E1.11-E1.12)
+SHOTS E1.11 36 | Ganga taking the form of a beautiful radiant woman and receiving the fiery tejas from Agni with both hands || Ganga crying out, overwhelmed by the burning power within her, asking the devas what she should do
+SHOTS E1.11 38 | VIDEO: Gold and silver forming and glittering across the land from the light of the fallen tejas || Dull grey veins of tin and lead forming in the rocks beneath
+SHOTS E1.11 39 | VIDEO: Copper, iron and many other ores spreading through the earth into deep mines || A thicket of golden sharavana reeds rising where the light fell
+SHOTS E1.11 43 | The six Krittikas joyfully taking the radiant newborn child into their arms || The divine child Kartikeya with six faces, lovingly fed by the six Krittikas at once, glowing and peaceful
+SHOTS E1.11 46 | The young Kartikeya, radiant and beautiful like his mother Parvati || The child Kartikeya seated before Lord Shiva, explaining the meaning of Om, Shiva listening with a smile
+SHOTS E1.12 7 | Queen Keshini holding her newborn son Asamanjasa || VIDEO: Queen Sumati's gourd falling and breaking open, many tiny babies coming out, attendants gently gathering them
+SHOTS E1.12 15 | King Sagara calling his sixty thousand sons together in the palace courtyard || VIDEO: The sixty thousand sons spreading out across the land, digging the earth with their strong hard nails
+SHOTS E1.12 19 | The sixty thousand sons, covered in dust, telling King Sagara they could not find the horse || King Sagara pointing downward, sending them back to dig down to the netherworld
+SHOTS E1.12 26 | King Sagara calling his grandson Amshuman and sending him to search for his uncles || VIDEO: Amshuman walking through the deep tunnel his uncles had dug || Amshuman at Kapila Maharshi's ashram, grieving beside great heaps of ash
+SHOTS E1.12 27 | Amshuman beside the heaps of ash, looking for water for their last rites || Garuda, the noble divine bird, appearing in the sky before Amshuman
+SHOTS E1.12 29 | Amshuman leading the yajna horse home and King Sagara completing his yajna || The aged King Sagara grieving alone for his sons on his throne
+SHOTS E1.12 30 | King Amshuman in long tapas in the forest || King Dilipa ruling on his throne, looking up sadly at the sky where the Ganga still flows far away
+# V08 (E1.12-E1.13)
+SHOTS E1.12 35 | Bhagiratha standing on the tip of one toe in tapas, arms raised, in the snowy mountains || Lord Shiva appearing before Bhagiratha and promising to catch the Ganga on his head
+SHOTS E1.12 42 | VIDEO: Bhagiratha on his chariot leading the river, the Ganga rushing behind him carrying fish, turtles and crocodiles || The devas standing in the sky watching the Ganga's descent in wonder
+SHOTS E1.12 45 | Bhagiratha turning back on his chariot and finding the river gone || Bhagiratha bowing at the feet of Jahnu Maharshi, the Ganga flowing out again from the sage's ears
+SHOTS E1.12 47 | VIDEO: The Ganga following Bhagiratha down into the netherworld and flowing over the ashes of his ancestors || VIDEO: The sixty thousand sons of Sagara rising as glowing forms towards heaven
+SHOTS E1.13 12 | The devas with joined palms praying to Lord Vishnu as Mount Mandara sinks into the ocean of milk || VIDEO: Lord Vishnu as the great tortoise Kurma lifting Mount Mandara up on his back
+SHOTS E1.13 13 | VIDEO: The churning starting again, white foam rising from the ocean of milk || Countless radiant apsaras rising from the foam with their attendants
+SHOTS E1.13 24 | Diti beginning her tapas at Shuklaplavana || Indra arriving before Diti with joined palms, offering to serve her
+# V09 (E1.13-E1.15)
+SHOTS E1.14 5 | Gautama Maharshi leaving the ashram at dawn for his river rites, Ahalya at the doorway || Indra, disguised in the form of Gautama, walking quietly towards the ashram hut
+SHOTS E1.14 26 | VIDEO: Flowers raining from the sky over the ashram, celestial drums sounding, gandharvas and apsaras rejoicing as the devas praise Ahalya || Gautama Maharshi arriving and walking away together with Ahalya to continue their tapas
+SHOTS E1.14 28 | King Janaka hurrying out with his priest Shatananda Maharshi on hearing that Vishwamitra has arrived || King Janaka bowing and honouring Vishwamitra with respect at the yajna grounds
+# 1.51.5-8: it is Vishwamitra who tells Shatananda that his mother is freed (the book has the speaker the wrong way round)
+E1.15 4 | అని చెప్పారు శతానందుడు. => అని శతానందుడితో విశ్వామిత్రుడు చెప్పాడు.
+# V10 (E1.15-E1.16)
+SHOTS E1.15 11 | The young King Vishwamitra, before he became a sage, ruling on his royal throne in rich armour and crown || VIDEO: King Vishwamitra riding with his great army through the land and arriving at Vashishtha Maharshi's ashram
+SHOTS E1.15 13 | Vashishtha's ashram: many leaf huts under great flowering trees, deer and birds all around || Shabala, the radiant wish-giving cow, giving milk for the yajna fires
+SHOTS E1.15 18 | A just king giving his treasury's wealth to the needy, people receiving it gratefully || Vashishtha Maharshi kindly asking King Vishwamitra about his ministers and his rule
+SHOTS E1.15 40 | King Vishwamitra, angry, pointing at Shabala and giving an order || Soldiers tying a rope around Shabala's neck and leading her away
+# V11 (E1.16-E1.17)
+SHOTS E1.16 15 | VIDEO: Shabala creating many more warriors, the Shakas, Haritas and Kiratas, from her body || VIDEO: The warriors driving King Vishwamitra's army away across the field, without blood or gore
+SHOTS E1.16 16 | King Vishwamitra stepping down from his chariot and looking at his scattered army in stunned silence || King Vishwamitra turning to look at his hundred sons
+SHOTS E1.16 20 | King Vishwamitra resolving to gain every divine weapon, his fist clenched || King Vishwamitra placing the crown on one son on the throne, then walking away towards the Himalayas
+SHOTS E1.16 21 | Vishwamitra in fierce tapas on a snowy Himalayan peak || Lord Shiva appearing before Vishwamitra in radiant light, offering him a boon
+SHOTS E1.16 27 | VIDEO: Divine weapons falling one after another like an earthquake, and Vashishtha's ashram turning to ash (no blood or gore) || VIDEO: The teachers, students, deer and cows of the ashram running into the forest
+SHOTS E1.16 28 | Vashishtha Maharshi raising his hand and calling to the fleeing people not to run || Vashishtha Maharshi standing alone in the empty, burnt ashram
+SHOTS E1.17 8 | King Vishwamitra closing his eyes and chanting the mantras of the Brahmastra || VIDEO: Oceans surging and mountains cracking as every creature in the world trembles in fear
+SHOTS E1.17 14 | Vishwamitra and his senior wife walking away into a quiet forest to begin a new life of tapas || Vishwamitra in deep tapas over the years, his four young sons beside his wife
+# V12 (E1.18-E1.19)
+SHOTS E1.18 2 | King Trishanku of the Ikshvaku line ruling on his throne in a richly decorated court || King Trishanku standing alone on his palace terrace, gazing up longingly at the heavens
+SHOTS E1.18 23 | VIDEO: Vishwamitra, with his remaining tapas, creating a new cluster of stars and seven new sages in the southern sky || The devas arriving in a hurry before Vishwamitra
+SHOTS E1.18 26 | Vishwamitra, calmer, nodding to the devas in agreement || VIDEO: Vishwamitra walking away towards the west and beginning fierce tapas there
+SHOTS E1.19 4 | VIDEO: King Ambarisha travelling through the land in search of a boy for the yajna || The sage Richika seated with his wife and three sons on the peak of Bhrigutunga
+SHOTS E1.19 8 | Richika, with a heavy heart, sending his middle son Shunahshepa with King Ambarisha || King Ambarisha giving a hundred thousand cows to Richika in return
+# V13 (E1.19-E1.21)
+SHOTS E1.19 21 | Vishwamitra alone in his ashram, sorrowful that he cursed his own sons in anger || Vishwamitra beginning a new thousand years of silent tapas
+SHOTS E1.20 2 | VIDEO: Vishwamitra walking to the holy lake at Pushkara to bathe || The apsara Menaka near the lake, radiant like lightning among clouds, fully and modestly dressed
+SHOTS E1.20 15 | Vishwamitra in summer tapas surrounded by four fires, arms raised, looking at the sun || Vishwamitra in the rainy season doing tapas standing waist-deep in water
+SHOTS E1.20 17 | VIDEO: Vishwamitra walking to bathe in the morning and seeing the apsara Rambha, fully and modestly dressed || VIDEO: Trees suddenly full of spring blossoms and a cuckoo singing, though it is not spring
+SHOTS E1.21 7 | Vishwamitra recognising that the hungry brahmin is Indra in disguise || Vishwamitra calmly giving his only morsel to the brahmin and closing his eyes again in tapas
+SHOTS E1.21 9 | Vishwamitra utterly serene in tapas, seeing the Supreme everywhere || Brahma arriving in the sky with the devas
+# V14 (E1.21-E1.22)
+SHOTS E1.21 16 | Vishwamitra washing Vashishtha Maharshi's feet with reverence || Shatananda Maharshi finishing the story, speaking to Rama in Janaka's hall
+SHOTS E1.21 17 | Shatananda Maharshi telling Rama how fortunate he is to have such a guru, Rama listening with joy || Everyone in the hall bowing down in full prostration before Vishwamitra
+SHOTS E1.21 18 | King Janaka inviting Vishwamitra to come at sunrise and taking leave with joined palms || The next morning: Vishwamitra, Rama and Lakshmana arriving at King Janaka's royal court
+SHOTS E1.21 20 | King Janaka beginning to tell the story of the bow in his court || Daksha Prajapati conducting a great yajna without offering Lord Shiva his share
+SHOTS E1.21 24 | VIDEO: Thousands of strong men pulling the great wheeled iron chest || The kings of the Videha line worshipping the bow in its chest every day
+SHOTS E1.22 5 | VIDEO: The armies of the angry suitor-kings marching on Mithila || The people of Mithila digging a deep moat around the city and shutting the gates
+SHOTS E1.22 7 | King Janaka in tapas in a quiet hall of the palace || VIDEO: A shining army of the devas driving away the besieging kings
+SHOTS E1.22 9 | Vishwamitra asking King Janaka to bring the bow for the princes to see || VIDEO: Five thousand strong men pulling the eight-wheeled iron chest into the court
+SHOTS E1.22 16 | VIDEO: The great bow breaking with a thunderous crash, the earth shaking like a mountain splitting || Everyone in the court fainting from the sound, except Rama, Lakshmana, Vishwamitra and King Janaka standing firm
+# V15 (E1.23)
+SHOTS E1.23 5 | Janaka's messengers bowing before King Dasharatha and delivering the marriage proposal and invitation || Joy spreading through the Ayodhya court, ministers and sages smiling
+SHOTS E1.23 9 | VIDEO: Treasurers setting out ahead with chests of jewels, diamonds and bags of wealth || VIDEO: Chariots and the fourfold army readying, priests and ministers joining King Dasharatha for the journey to Mithila
+SHOTS E1.23 11 | VIDEO: King Dasharatha and his great retinue arriving at the gates of Mithila || King Janaka welcoming King Dasharatha warmly with joined palms, inviting him inside
+SHOTS E1.23 19 | Vashishtha, Vishwamitra, Shatananda and many great sages gathering together at Mithila || Mithila glowing with lamps through the night
+SHOTS E1.23 28 | A brief recall: Kapila Maharshi's ashram and the ashes of the sixty thousand sons of Sagara || The line of kings from Asamanjasa to Amshuman, Dilipa and Bhagiratha, shown as a row of crowned figures
+SHOTS E1.23 29 | The line of crowned kings continuing to Kakutstha, Raghu and Pravriddha || King Pravriddha, cursed by Vashishtha, about to curse back with water in his palm while his queen stops him
+SHOTS E1.23 33 | King Janaka smiling with joy and beginning to tell his own family line || The ancient emperor Nimi and his son Mithi founding the city of Mithila
+SHOTS E1.23 35 | The Videha line arriving at King Janaka and his brother Kushadhvaja || The infant Sita found in the furrow, and then little Urmila, in Janaka's palace
+SHOTS E1.23 40 | King Janaka asking King Dasharatha and his sons to perform the godana and ancestral rites in Mithila || The sages fixing the wedding day under the star Uttara Phalguni, a starry night sky above
+# V16 (E1.24-E1.26)
+SHOTS E1.24 5 | King Janaka and Rama standing beside the sacred wedding fire || Sita being led forward to the wedding fire in bridal attire, fully and modestly dressed

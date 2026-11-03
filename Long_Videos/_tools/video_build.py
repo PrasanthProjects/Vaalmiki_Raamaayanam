@@ -49,6 +49,9 @@ CUTS = []        # (episode, chapter scene or None): where each video starts (da
 PLACE_MAP = {}   # episode -> [(first scene, last scene, PLACES key)] for scripts without a location column
 CAST = {}        # (episode, scene) -> character keys on screen, where the prompt only mentions someone (data CAST lines)
 VIS = {}         # (episode, scene) -> a corrected picture description (data VIS lines)
+SHOTS = {}       # (episode, scene) -> one picture per part of a long line (data SHOTS lines)
+SHOTS_USED = set()
+SEEN_EPS = set()   # episodes built in this run (SHOTS lines of other kaandas are read too)
 LOCS = {}        # (episode, scene) -> a corrected location register (data LOC lines)
 LESSON_PIC = {}  # episode -> the scene whose picture goes with its life lesson (data LESSON lines)
 
@@ -116,6 +119,10 @@ def read_fixes(path):
             if head.startswith('CARD '):
                 _, ep, no = head.split()
                 CARDS[(ep, int(no))] = rest
+                continue
+            if head.startswith('SHOTS '):   # a long line told in several pictures, each matching its own sentences
+                _, ep, no = head.split()
+                SHOTS[(ep, int(no))] = [x.strip() for x in rest.split(' || ')]
                 continue
             if head.startswith('VIS '):    # the script's picture line is a production note or wrong: say what is seen
                 _, ep, no = head.split()
@@ -457,11 +464,59 @@ def verse_card(s, sc):
     return 'శ్లోకం తెలుగు లిపిలో, అక్షరం అక్షరం కనిపిస్తూ' + (f' · కింద అర్థం: {meaning}' if meaning else '')
 
 
+def sentences(text):
+    """The line cut after . ? ! (a quote mark that closes the sentence stays with it)."""
+    parts = re.findall(r'.+?(?:[.?!…]+["”’]?(?=\s|$)|$)', text.strip())
+    return [p.strip() for p in parts if p.strip()]
+
+
+def shot_split(item, shots):
+    """One clip per picture; the line is shared out at sentence ends, as evenly as the sentences allow."""
+    sens = sentences(item['narration'])
+    if len(sens) < len(shots):   # one long sentence: share it out at commas and dashes instead
+        sens = [c.strip() for c in re.split(r'(?<=,)\s+|\s+(?=—)', item['narration'].strip()) if c.strip()]
+    n = min(len(shots), len(sens))
+    assert n == len(shots), f"{item['ep']} scene {item['scene']['no']}: {len(shots)} SHOTS but only {len(sens)} parts"
+    total = sum(len(s) for s in sens)
+    groups, at = [], 0
+    for k in range(n):   # cut where the running length is closest to k+1 shares, keeping a sentence for each later shot
+        if k == n - 1:
+            groups.append(sens[at:])
+            break
+        goal = total * (k + 1) / n
+        best, run = at + 1, sum(len(s) for s in sens[:at + 1])
+        for j in range(at + 1, len(sens) - (n - 1 - k)):
+            nxt = run + len(sens[j])
+            if abs(nxt - goal) < abs(run - goal):
+                best, run = j + 1, nxt
+            else:
+                break
+        groups.append(sens[at:best])
+        at = best
+    lens = [sum(len(s) for s in g) for g in groups]
+    secs = [max(3, round(item['secs'] * l / sum(lens))) for l in lens]
+    secs[-1] += item['secs'] - sum(secs)
+    out = []
+    for k, (g, sec, vis) in enumerate(zip(groups, secs, shots)):
+        kind = 'video' if vis.startswith('VIDEO: ') else 'image'
+        vis = vis[len('VIDEO: '):] if kind == 'video' else vis
+        out.append(dict(item, id=f"{item['id']}{'abcdefgh'[k]}", label=f"{item['label']} ({k + 1}/{n})", secs=max(3, sec),
+                        visual=vis, kind=kind, narration=' '.join(g), cont=False, shot=True))
+    return out
+
+
 def expand(seq):
-    """Retention pass: recap-length tip, and two stills (wide, then closer) for long still scenes."""
+    """Retention pass: recap-length tip; a long line told in its own pictures (SHOTS), else two stills
+    (wide, then closer) for long still scenes."""
     out = []
     for item in seq:
         item = dict(item)
+        key = (item['ep'], item['scene']['no']) if 'scene' in item else None
+        SEEN_EPS.add(item['ep'])
+        if key in SHOTS:
+            out += shot_split(item, SHOTS[key])
+            SHOTS_USED.add(key)
+            continue
         if 'scene' in item and item['narration'].startswith('గత భాగ') and item['secs'] > 8:
             item['tip'] = 'రీక్యాప్‌ను ఎడిట్‌లో 8 సెకన్లలోపు కుదించండి – హుక్ తరువాత వీక్షకులు వెంటనే కొత్త కథ కోరుకుంటారు.'
         if item['kind'] == 'image' and item['secs'] >= 11 and not item['new']:
@@ -642,11 +697,12 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
         if item.get('tip'):
             note = (note + ' ' if note else '') + item['tip']
         move = '' if kind == 'video' else L.editor_move(item['visual'], n) + ' (వీడియో చేయకపోతే)'
+        advice = L.advice(item['visual'], kind, item['id'])
         a = item['start']
         card = {'no': str(n), 'time': f"{mmss(a)} – {mmss(a + secs)}", 'label': f"{item['label']} · {secs} సె",
                 'kind': kind, 'narration': item['narration'], 'refs': refs, 'move': move, 'note': note,
                 'prompt': L.scene_prompt(s, kind, looks), 'imagePrompt': L.scene_prompt(s, 'image', looks),
-                'videoPrompt': L.video_prompt(s, kind, looks, n)}
+                'videoPrompt': L.video_prompt(s, kind, looks, n), 'advice': advice}
         cards.append(card)
         head = '🎥 వీడియో' if kind == 'video' else '🖼️ ఇమేజ్ + కదలిక'
         star = ' · ✨ కొత్తది' if item['new'] else (' · 🔁 అదే నెరేషన్, కొత్త చిత్రం' if item.get('cont') else '')
@@ -655,6 +711,7 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
         lines = [f"#### {n}. {item['label']} · {card['time']} · {secs} సె · {head}{star}\n",
                  f"- **నెరేషన్:** {short}",
                  f"- **రిఫరెన్స్:** {' · '.join(f'`{r}.png`' for r in refs) if refs else 'అవసరం లేదు'}"]
+        lines.append(f'- **సూచన:** {advice}')
         if move:
             lines.append(f'- **ఎడిటర్‌లో కదలిక:** {move}')
         if note:
@@ -768,6 +825,8 @@ def main(data_path):
     eps = [story(ep, d, fixes) for ep, d in data.items()]
     assert not fixes, f'fixes for scenes that were not found: {sorted(fixes)}'
     assert not VIS, f'VIS lines for scenes that were not found: {sorted(VIS)}'
+    lost = sorted(k for k in set(SHOTS) - SHOTS_USED if k[0] in SEEN_EPS)
+    assert not lost, f'SHOTS lines for scenes that were not found: {lost}'
     assert not LOCS, f'LOC lines for scenes that were not found: {sorted(LOCS)}'
     unused = [r[0] for r in SIMPLE if not r[2]]
     assert not unused, f'SIMPLE words not found anywhere: {unused}'

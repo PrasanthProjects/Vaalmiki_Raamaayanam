@@ -184,6 +184,28 @@ def kinds_for(scenes):
     return ['video' if i in pick else 'image' for i in range(len(scenes))]
 
 
+STILL = ('speak', 'says', 'tells', 'listen', 'explain', 'answer', 'ask', 'bow', 'seated', 'sits', 'sitting', 'stand',
+         'standing', 'portrait', 'close on', 'close-up', 'face', 'blessing', 'bless', 'meditat', 'pray', 'thinking')
+
+
+def advice(visual, kind, cid):
+    """Which of the two prompts suits this clip best, and why (both stay on the page)."""
+    v = visual.lower()
+    moving = [w.strip() for w in MOTION if w in v]
+    if cid in ('I',):
+        return '🎥 వీడియో — ఛానల్ ఇంట్రో క్లిప్ (ఒక్కసారే చేసినది)'
+    if cid in ('C', 'W', 'R', 'T') or cid.startswith('B'):
+        return '🖼️ ఇమేజ్ చాలు — మాట/శీర్షిక సీన్; ఇమేజ్ + నెమ్మది జూమ్ సరిపోతుంది'
+    if kind == 'video' or len(moving) >= 2:
+        why = ', '.join(dict.fromkeys(moving[:3])) or 'కథలో కదలిక'
+        return f'🎥 వీడియో మంచిది — ఈ సీన్‌లో కదలిక ఉంది ({why}); ఇమేజ్ చేసి దాన్ని మొదటి ఫ్రేమ్‌గా వీడియో చేయండి'
+    if moving:
+        return f'🖼️ ఇమేజ్ చాలు, కావాలంటే వీడియో — కొంచెం కదలిక ఉంది ({moving[0]}); ఇమేజ్ + ఎడిటర్ కదలికతో కూడా బాగుంటుంది'
+    if any(w in v for w in STILL):
+        return '🖼️ ఇమేజ్ మంచిది — మాట్లాడటం/నిలబడటం/ఆశీర్వాదం లాంటి నిశ్చల సీన్; వీడియోలో అనవసర కదలికలు వస్తాయి'
+    return '🖼️ ఇమేజ్ మంచిది — పెద్ద కదలిక లేదు; ఇమేజ్ + నెమ్మది జూమ్/ప్యాన్ చాలు'
+
+
 def editor_move(visual, i):
     v = visual.lower()
     if any(w in v for w in ('close on', 'close-up', 'closeup', 'close up', 'face')):
