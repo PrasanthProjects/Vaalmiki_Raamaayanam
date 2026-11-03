@@ -1,0 +1,103 @@
+<title>పురాణ ప్రశ్నలు</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;600;700&family=Ramabhadra&display=swap">
+<style>
+:root { --bg: #FBF7EF; --card: #FFFFFF; --ink: #2A2118; --muted: #786A58; --line: #E8DFCF; --accent: #B5541B; --soft: #F4EBDD; --ok: #2F7D4A; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg: #17130F; --card: #221C16; --ink: #F1E9DC; --muted: #B3A58F; --line: #3A3026; --accent: #E8925A; --soft: #2C241C; --ok: #6CC08A; } }
+:root[data-theme="dark"] { --bg: #17130F; --card: #221C16; --ink: #F1E9DC; --muted: #B3A58F; --line: #3A3026; --accent: #E8925A; --soft: #2C241C; --ok: #6CC08A; }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.6 'Noto Sans Telugu', system-ui, sans-serif; }
+.wrap { max-width: 860px; margin: 0 auto; padding: 16px; }
+h1 { font-family: Ramabhadra, 'Noto Sans Telugu', sans-serif; font-weight: 400; font-size: 26px; margin: 4px 0 2px; }
+.sub { color: var(--muted); margin: 0 0 14px; }
+.bar { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-bottom: 14px; }
+select, button { font: inherit; color: var(--ink); }
+select { flex: 1 1 220px; padding: 8px 10px; border: 1px solid var(--line); border-radius: 10px; background: var(--card); }
+.chip { border: 1px solid var(--line); background: var(--card); border-radius: 999px; padding: 6px 12px; cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--accent); color: #fff; border-color: var(--accent); }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 14px; margin: 0 0 12px; }
+.eyebrow { font-size: 12px; letter-spacing: .06em; color: var(--muted); margin-bottom: 6px; }
+h2 { font-size: 18px; margin: 18px 0 8px; }
+.q { padding: 10px 0; border-top: 1px solid var(--line); }
+.q:first-child { border-top: 0; }
+.opts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; margin: 6px 0; }
+.opt { background: var(--soft); border-radius: 8px; padding: 6px 8px; font-size: 14px; }
+.opt.right { outline: 2px solid var(--ok); }
+.src { font-size: 13px; color: var(--muted); }
+pre { white-space: pre-wrap; word-break: break-word; background: var(--soft); border-radius: 10px; padding: 10px; margin: 6px 0; font: 13px/1.55 ui-monospace, Menlo, Consolas, monospace; max-height: 9em; overflow: auto; }
+.copy { border: 0; background: var(--accent); color: #fff; border-radius: 8px; padding: 6px 12px; cursor: pointer; }
+table { width: 100%; border-collapse: collapse; font-size: 13px; }
+td, th { border-top: 1px solid var(--line); padding: 6px 4px; text-align: left; vertical-align: top; }
+.tl { overflow-x: auto; }
+.done { display: flex; gap: 6px; align-items: center; font-size: 14px; }
+.note { color: var(--muted); font-size: 14px; }
+@media (max-width: 520px) { .opts { grid-template-columns: 1fr; } }
+</style>
+<div class="wrap">
+  <h1>పురాణ ప్రశ్నలు</h1>
+  <p class="sub">తాతయ్య, చిన్ని అడిగే రామాయణ, మహాభారత, భాగవత క్విజ్ Shorts · ప్రతి జవాబుకు మూలం</p>
+  <div class="bar"><select id="pick" aria-label="Short ఎంచుకోండి"></select><button class="chip" id="castBtn" aria-pressed="false">🎭 పాత్రలు</button></div>
+  <div id="panel"></div>
+</div>
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(function () {
+  var D = JSON.parse(document.getElementById('data').textContent);
+  var $ = function (id) { return document.getElementById(id); };
+  var store = { get: function (k) { try { return localStorage.getItem('purana-quiz-' + k); } catch (e) { return null; } },
+                set: function (k, v) { try { localStorage.setItem('purana-quiz-' + k, v); } catch (e) {} } };
+  function esc(t) { return String(t).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function box(label, text) {
+    return '<div class="eyebrow">' + esc(label) + '</div><pre>' + esc(text) + '</pre><button class="copy" data-copy="' + esc(text) + '">కాపీ</button>';
+  }
+  function bind() {
+    document.querySelectorAll('[data-copy]').forEach(function (b) {
+      b.onclick = function () {
+        var t = b.getAttribute('data-copy');
+        (navigator.clipboard ? navigator.clipboard.writeText(t) : Promise.reject()).then(function () { b.textContent = 'కాపీ అయింది ✓'; },
+          function () { b.textContent = 'పై బాక్స్ నుండి కాపీ చేయండి'; });
+        setTimeout(function () { b.textContent = 'కాపీ'; }, 1600);
+      };
+    });
+    var d = $('doneBox');
+    if (d) d.onchange = function () { store.set('done-' + d.dataset.id, d.checked ? '1' : ''); render(); };
+  }
+  D.shorts.forEach(function (s, i) {
+    var o = document.createElement('option'); o.value = i; o.textContent = (store.get('done-' + s.id) ? '✓ ' : '') + s.id + ' · ' + s.title + ' (' + s.book + ')';
+    $('pick').append(o);
+  });
+  var cur = +(store.get('cur') || 0), cast = false;
+  if (!D.shorts[cur]) cur = 0;
+  $('pick').value = cur;
+  $('pick').onchange = function () { cur = +this.value; cast = false; store.set('cur', cur); render(); };
+  $('castBtn').onclick = function () { cast = !cast; render(); };
+  function render() {
+    $('castBtn').setAttribute('aria-pressed', cast);
+    Array.prototype.forEach.call($('pick').options, function (o, i) { var s = D.shorts[i]; o.textContent = (store.get('done-' + s.id) ? '✓ ' : '') + s.id + ' · ' + s.title + ' (' + s.book + ')'; });
+    if (cast) {
+      $('panel').innerHTML = '<p class="note">రెండు పాత్రలు అన్ని Shorts లోనూ ఒకేలా ఉండాలి: ఒక్కసారి రిఫరెన్స్ ఇమేజ్ చేసి, ప్రతి ప్రాంప్ట్‌తో జత చేయండి.</p>'
+        + D.cast.map(function (c) { return '<div class="card">' + box(c.name + ' · ' + c.key + '.png', c.prompt) + '</div>'; }).join('');
+      bind(); return;
+    }
+    var s = D.shorts[cur];
+    var h = '<div class="card"><div class="eyebrow">' + esc(s.book) + ' · సుమారు ' + esc(s.len) + ' · నిలువు 9:16</div><h2 style="margin-top:0">' + esc(s.id + ' · ' + s.title) + '</h2>'
+      + '<label class="done"><input type="checkbox" id="doneBox" data-id="' + esc(s.id) + '"' + (store.get('done-' + s.id) ? ' checked' : '') + '> ఈ Short పూర్తైంది</label></div>';
+    h += '<h2>ప్రశ్నలు, జవాబులు, మూలాలు</h2><div class="card">' + s.qs.map(function (q, i) {
+      return '<div class="q"><b>' + (i + 1) + '. ' + esc(q.q) + '</b> <span class="src">(' + (q.who === 'T' ? 'తాతయ్య' : 'చిన్ని') + ' అడుగుతారు)</span><div class="opts">'
+        + q.opts.map(function (o, k) { return '<div class="opt' + ('ABC'[k] === q.ans ? ' right' : '') + '">' + 'ABC'[k] + ') ' + esc(o) + '</div>'; }).join('')
+        + '</div><div>' + esc(q.why) + '</div><div class="src">📖 మూలం: ' + esc(q.src) + '</div></div>';
+    }).join('') + '</div>';
+    h += '<h2>టైమ్‌లైన్</h2><div class="card tl"><table><tr><th>సమయం</th><th>భాగం</th><th>ఎవరు</th><th>తెరపై</th></tr>'
+      + s.rows.map(function (r) { return '<tr><td>' + esc(r.t) + '</td><td>' + esc(r.part) + '</td><td>' + esc(r.who || '–') + '</td><td>' + esc(r.screen).replace(/\n/g, '<br>') + '</td></tr>'; }).join('')
+      + '</table></div>';
+    h += '<h2>🔊 వాయిస్</h2><div class="card"><p class="note">తాతయ్య, చిన్ని గొంతులు వేర్వేరుగా; ఒక్కో లైన్ ఆ గొంతుతో.</p>' + box('రెండు గొంతుల స్క్రిప్ట్', s.voice) + '</div>';
+    h += '<h2>🖼️ ఇమేజ్ / 🎥 వీడియో</h2><p class="note">సూచన: తాతయ్య–చిన్ని షాట్లు 🎥 వీడియో (మాట్లాడుతున్నట్టు); జవాబు చిత్రాలు 🖼️ ఇమేజ్ + నెమ్మది జూమ్ చాలు; ఆప్షన్ కార్డులు ఎడిటర్‌లో.</p>'
+      + '<div class="card">' + box('తాతయ్య–చిన్ని ఇమేజ్', s.pres) + box('తాతయ్య–చిన్ని వీడియో (పై ఇమేజ్ మొదటి ఫ్రేమ్‌గా)', s.presVideo) + '</div>'
+      + s.answers.map(function (a, i) { return '<div class="card">' + box('జవాబు ' + (i + 1) + ' ఇమేజ్', a.img) + box('జవాబు ' + (i + 1) + ' వీడియో (కావాలంటే)', a.vid) + '</div>'; }).join('');
+    h += '<h2>📤 అప్‌లోడ్</h2><div class="card">' + box('టైటిల్', s.ytitle) + box('వివరణ', s.desc) + '</div>';
+    $('panel').innerHTML = h; bind();
+  }
+  render();
+})();
+</script>

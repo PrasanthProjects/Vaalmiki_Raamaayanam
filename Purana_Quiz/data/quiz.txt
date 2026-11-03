@@ -1,0 +1,76 @@
+# పురాణ ప్రశ్నలు – తాతయ్య, చిన్ని  (Quiz Shorts data)
+# SHORT <id> | <title on screen> | <book: ramayana / bharatam / bhagavatam>
+# Q <who asks: T = తాతయ్య, C = చిన్ని> | <question> | <option A> | <option B> | <option C> | <answer letter> | <source> | <one-line why> | <picture for the answer, English>
+# Every answer must be checkable at the source given. Valmiki references are kaanda + sarga; Bharatam = parva; Bhagavatam = skandha.
+
+SHORT R01 | రామాయణం ఎలా పుట్టింది? | ramayana
+Q C | తాతయ్యా, వాల్మీకి మహర్షికి రాముడి కథ మొదట ఎవరు చెప్పారు? | బ్రహ్మదేవుడు | నారద మహర్షి | వశిష్ఠ మహర్షి | B | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 1 | "ఈ లోకంలో గుణవంతుడు ఎవరు?" అని వాల్మీకి అడిగితే నారద మహర్షి రాముడి కథ చెప్పారు. | Narada Maharshi with his veena telling a story to Valmiki Maharshi at a forest ashram by the Tamasa river
+Q T | చిన్నీ, తమసా నది ఒడ్డున వాల్మీకి మహర్షి చూసిన పక్షుల జంట ఏది? | హంసలు | నెమళ్ళు | క్రౌంచ పక్షులు | C | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 2 | వేటగాడి బాణానికి మగ క్రౌంచ పక్షి పడిపోతే, ఆడ పక్షి ఏడుపు చూసి వాల్మీకి మనసు కరిగింది. | A pair of krauncha birds (sarus cranes) on a tree branch by a calm river at dawn, Valmiki watching with compassion
+Q C | ఆ బాధలో వాల్మీకి నోటి నుండి వచ్చిన మొదటి శ్లోకం ఏ మాటతో మొదలవుతుంది? | మా నిషాద | శుక్లాంబరధరం | వందే మాతరం | A | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 2 | "మా నిషాద ప్రతిష్ఠాం త్వమ్…" — ఇదే లోకంలో మొదటి శ్లోకం అంటారు, అందుకే వాల్మీకి ఆదికవి. | Valmiki Maharshi with tears in his eyes, a glowing verse rising like light from his heart
+Q T | రామాయణం మొత్తం ఎన్ని కాండలు? | ఐదు | ఆరు (ఉత్తరకాండతో ఏడు) | పది | B | వాల్మీకి రామాయణం | బాల, అయోధ్య, అరణ్య, కిష్కింధ, సుందర, యుద్ధ — ఆరు; ఉత్తరకాండతో కలిపి ఏడు అంటారు. | Seven palm-leaf manuscript bundles tied with red thread, glowing softly on a wooden stand
+
+SHORT R02 | బాల రాముడు | ramayana
+Q T | శ్రీరాముడు ఏ నక్షత్రంలో పుట్టారు? | రోహిణి | పునర్వసు | అశ్విని | B | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 18 | చైత్ర మాసం, నవమి నాడు, పునర్వసు నక్షత్రంలో — అందుకే శ్రీరామనవమి. | Queen Kausalya joyfully holding the newborn baby Rama in a lamp-lit palace room, a star shining in the night sky outside
+Q C | రాముడికి "బల, అతిబల" విద్యలు నేర్పించిన గురువు ఎవరు? | విశ్వామిత్ర మహర్షి | వశిష్ఠ మహర్షి | అగస్త్య మహర్షి | A | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 22 | సరయూ ఒడ్డున విశ్వామిత్ర మహర్షి నేర్పిన ఈ విద్యలతో ఆకలి, దప్పిక, అలసట ఉండవు. | Vishwamitra Maharshi teaching the young Rama on the bank of the Sarayu river at sunset, Lakshmana beside them
+Q T | రాముడి చేతిలో మొదట సంహరింపబడిన రాక్షసి ఎవరు? | శూర్పణఖ | తాటక | లంకిణి | B | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 26 | విశ్వామిత్ర మహర్షి ఆజ్ఞతో, మునులను బాధించే తాటకను రాముడు సంహరించాడు. | Young Rama drawing his bow in a dark forest, a huge shadowy figure in the distance, no blood or gore
+Q C | రాముడు ఆశ్రమంలో అడుగుపెట్టగానే శాపం తీరిన స్త్రీ ఎవరు? | అహల్య | శబరి | తార | A | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 49 | వాల్మీకి రామాయణంలో రాముడు ఆశ్రమంలో అడుగుపెట్టగానే అహల్య శాపం తీరింది; రాయి మారే కథ తరువాతి సంప్రదాయం. | Ahalya standing radiant in a forest ashram, freed from her curse, Rama and Lakshmana bowing to her respectfully
+
+SHORT R03 | సీతా కల్యాణం | ramayana
+Q C | శివ ధనుస్సు ఉన్న ఇనుప పెట్టెను ఎంతమంది లాక్కొచ్చారు? | వంద మంది | వెయ్యి మంది | ఐదు వేల మంది | C | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 67 | ఎనిమిది చక్రాల ఆ పెట్టెను ఐదు వేల మంది బలశాలులు అతి కష్టం మీద లాక్కొచ్చారు. | Thousands of strong men pulling a giant eight-wheeled iron chest into a grand royal court
+Q T | జనక మహారాజుకు సీతమ్మ ఎలా దొరికింది? | నది ఒడ్డున | యజ్ఞం కోసం భూమి దున్నుతుంటే నాగటి చాలులో | అడవిలో | B | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 66 | నాగటి చాలు నుండి వచ్చింది కనుకనే "సీత" అని పేరు. | King Janaka ploughing a field with a golden plough, a radiant baby girl rising from the furrow
+Q C | లక్ష్మణుడు ఎవరిని వివాహం చేసుకున్నాడు? | ఊర్మిళ | మాండవి | శ్రుతకీర్తి | A | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 73 | సీతమ్మ చెల్లెలు ఊర్మిళ లక్ష్మణుడిని; మాండవి భరతుడిని, శ్రుతకీర్తి శత్రుఘ్నుడిని వివాహం చేసుకున్నారు. | Four royal couples seated before a sacred wedding fire, flowers raining from the sky
+Q T | రాముడు శివ ధనుస్సు ఎక్కుపెడితే ఏమైంది? | విల్లు వంగింది | విల్లు మధ్యలో విరిగిపోయింది | విల్లు మాయమైంది | B | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 67 | పిడుగు లాంటి శబ్దంతో విల్లు విరిగింది, భూమి కంపించింది. | Rama lifting and bending a giant divine bow, the bow cracking in the middle with a flash of light
+
+SHORT R04 | వనవాసం | ramayana
+Q T | రాముడు, సీత, లక్ష్మణుడిని గంగ దాటించింది ఎవరి పడవ? | గుహుడు | సుమంత్రుడు | జటాయువు | A | వాల్మీకి రామాయణం, అయోధ్యాకాండ, సర్గ 52 | నిషాద రాజు గుహుడు రాముడి ప్రాణ స్నేహితుడు; పడవ తెప్పించి గంగ దాటించాడు. | Guha's boat carrying Rama, Sita and Lakshmana across the wide Ganga at sunrise
+Q C | భరతుడు అయోధ్య సింహాసనం మీద ఏమి పెట్టి రాజ్యం చేశాడు? | రాముడి కిరీటం | రాముడి పాదుకలు | రాముడి విల్లు | B | వాల్మీకి రామాయణం, అయోధ్యాకాండ, సర్గ 112–115 | అన్నగారి పాదుకలనే రాజుగా భావించి, నందిగ్రామం నుండి రాజ్యం చూసుకున్నాడు. | A pair of golden wooden sandals placed on a royal throne, Bharata bowing before them in simple clothes
+Q T | సీతమ్మను కాపాడటానికి రావణుడితో పోరాడిన పక్షి రాజు ఎవరు? | గరుడుడు | జటాయువు | సంపాతి | B | వాల్మీకి రామాయణం, అరణ్యకాండ, సర్గ 51 | వృద్ధుడైనా జటాయువు రావణుడితో ధైర్యంగా పోరాడాడు. | The great old eagle Jatayu flying bravely at a flying chariot in the sky, no blood or gore
+Q C | రాముడి కోసం ఏళ్ళుగా ఎదురుచూసి, ఆతిథ్యం ఇచ్చిన భక్తురాలు ఎవరు? | శబరి | అనసూయ | మంథర | A | వాల్మీకి రామాయణం, అరణ్యకాండ, సర్గ 74 | మతంగ మహర్షి శిష్యురాలు శబరి రాముడి దర్శనంతో ధన్యురాలైంది. | The old devotee Shabari offering forest fruits to Rama and Lakshmana at her ashram by the Pampa lake
+
+SHORT R05 | సుందరకాండ | ramayana
+Q C | హనుమంతుడు లంకకు ఏ పర్వతం మీద నుండి ఎగిరాడు? | మహేంద్ర పర్వతం | మేరు పర్వతం | హిమాలయం | A | వాల్మీకి రామాయణం, సుందరకాండ, సర్గ 1 | "రాముడు వదిలిన బాణంలా వెళ్తాను" అని మహేంద్రగిరి మీద నుండి ఎగిరాడు. | Hanuman leaping from a mountain peak over the ocean, arms stretched, at sunrise
+Q T | అశోకవనంలో సీతమ్మ ఏ చెట్టు కింద కూర్చుంది? | మర్రి చెట్టు | శింశుపా చెట్టు | వేప చెట్టు | B | వాల్మీకి రామాయణం, సుందరకాండ, సర్గ 15 | శింశుపా చెట్టు కింద సీతమ్మను చూసిన హనుమ ఆ చెట్టు కొమ్మల్లో దాక్కున్నాడు. | Sita seated sadly under a large flowering shimshupa tree in a garden at night, Hanuman hidden in the branches
+Q C | సీతమ్మ నమ్మడానికి హనుమ ఏమి చూపించాడు? | రాముడి ఉంగరం | రాముడి విల్లు | రాముడి కిరీటం | A | వాల్మీకి రామాయణం, సుందరకాండ, సర్గ 36 | రాముడు ఇచ్చిన, రామనామం ఉన్న ఉంగరం చూసి సీతమ్మ ఆనందించింది. | Hanuman kneeling and offering a golden ring with Rama's name to Sita
+Q T | సీతమ్మ హనుమకు గుర్తుగా ఇచ్చిన ఆభరణం ఏది? | ఉంగరం | చూడామణి | గాజులు | B | వాల్మీకి రామాయణం, సుందరకాండ, సర్గ 38 | తన జడలోని చూడామణిని రాముడికి ఇవ్వమని హనుమకు ఇచ్చింది. | Sita handing a glowing hair jewel (chudamani) to Hanuman, who receives it with joined palms
+
+SHORT R06 | లంకా యుద్ధం | ramayana
+Q T | సముద్రం మీద వారధి కట్టిన వానర శిల్పి ఎవరు? | నలుడు | అంగదుడు | సుగ్రీవుడు | A | వాల్మీకి రామాయణం, యుద్ధకాండ, సర్గ 22 | విశ్వకర్మ కుమారుడైన నలుడి నాయకత్వంలో వానరులు వారధి కట్టారు. | The vanara army building a great stone bridge across the ocean, a vanara architect directing them
+Q C | రావణుడిని వదిలి రాముడి శరణు కోరిన రావణుడి తమ్ముడు ఎవరు? | కుంభకర్ణుడు | విభీషణుడు | ఇంద్రజిత్తు | B | వాల్మీకి రామాయణం, యుద్ధకాండ, సర్గ 17–18 | "శరణు అన్నవారిని కాపాడతాను" అని రాముడు విభీషణుడికి అభయం ఇచ్చాడు. | Vibhishana in the sky with four companions, joined palms, as Rama looks up kindly from the shore
+Q T | సంజీవని మూలికల కోసం వెళ్ళిన హనుమ ఏం చేశాడు? | మూలికను గుర్తుపట్టలేక పర్వత శిఖరాన్నే ఎత్తుకొచ్చాడు | ఒక్క మూలిక తెచ్చాడు | వెళ్ళలేదు | A | వాల్మీకి రామాయణం, యుద్ధకాండ, సర్గ 74 | ఔషధులు కనబడకపోతే ఆ పర్వత శిఖరాన్నే పెకలించి తెచ్చాడు. | Hanuman flying through the night sky carrying a glowing mountain peak on one hand
+Q C | యుద్ధం తరువాత రాముడు అయోధ్యకు దేనిలో తిరిగి వచ్చాడు? | రథంలో | పుష్పక విమానంలో | ఏనుగు మీద | B | వాల్మీకి రామాయణం, యుద్ధకాండ, సర్గ 121–123 | విభీషణుడు ఇచ్చిన పుష్పక విమానంలో అందరూ అయోధ్యకు వచ్చారు. | The flower-decorated Pushpaka vimana flying over green land towards Ayodhya, Rama and Sita inside
+
+SHORT M01 | మహాభారతం – మొదలు | bharatam
+Q C | మహాభారతాన్ని రచించిన మహర్షి ఎవరు? | వాల్మీకి | వేదవ్యాసుడు | నారదుడు | B | మహాభారతం, ఆదిపర్వం | వేదాలను విభజించిన కృష్ణద్వైపాయనుడే వేదవ్యాసుడు, మహాభారత కర్త. | The sage Veda Vyasa with a long white beard dictating a great epic in a forest ashram
+Q T | భీష్ముడి అసలు పేరు ఏమిటి? | దేవవ్రతుడు | శంతనుడు | విచిత్రవీర్యుడు | A | మహాభారతం, ఆదిపర్వం | తండ్రి కోసం జీవితాంతం వివాహం చేసుకోనని చేసిన "భీష్మ ప్రతిజ్ఞ" వల్లే భీష్ముడు అయ్యాడు. | Young prince Devavrata raising his hand in a solemn vow, flowers falling from the sky
+Q C | అర్జునుడి ధనుస్సు పేరు ఏమిటి? | కోదండం | గాండీవం | పినాకం | B | మహాభారతం, ఆదిపర్వం (ఖాండవ దహనం) | ఖాండవ వన దహనం సమయంలో అగ్నిదేవుడి కోరికపై వరుణుడు అర్జునుడికి గాండీవం ఇచ్చాడు. | Arjuna holding a shining divine bow, the fire god Agni handing it to him with a blessing
+Q T | కురుక్షేత్ర యుద్ధం ఎన్ని రోజులు జరిగింది? | 7 రోజులు | 18 రోజులు | 30 రోజులు | B | మహాభారతం, భీష్మ–ద్రోణ–కర్ణ–శల్య పర్వాలు | 18 రోజుల యుద్ధం — భారతంలో 18 పర్వాలు, గీతలో 18 అధ్యాయాలు కూడా. | A vast battlefield at dawn with conch shells raised, banners flying, no blood or gore
+
+SHORT M02 | పాండవులు | bharatam
+Q T | నకుల సహదేవుల తల్లి ఎవరు? | కుంతి | మాద్రి | గాంధారి | B | మహాభారతం, ఆదిపర్వం | పాండు రాజు రెండో భార్య మాద్రి; కుంతి ఉపదేశించిన మంత్రంతో అశ్వినీ దేవతల వల్ల కవలలు పుట్టారు. | Queen Madri holding twin baby boys in a forest hermitage
+Q C | ఏకలవ్యుడు ఎవరి విగ్రహాన్ని గురువుగా పెట్టుకుని విలువిద్య నేర్చుకున్నాడు? | ద్రోణాచార్యుడు | కృపాచార్యుడు | భీష్ముడు | A | మహాభారతం, ఆదిపర్వం | ద్రోణుడి మట్టి విగ్రహం ముందు సాధన చేసి గొప్ప విలుకాడు అయ్యాడు. | Ekalavya practising archery in a forest before a clay statue of his teacher Drona
+Q T | యక్షుడి ప్రశ్నలకు జవాబులు చెప్పి తమ్ముళ్ళను బతికించుకున్నది ఎవరు? | భీముడు | అర్జునుడు | ధర్మరాజు | C | మహాభారతం, అరణ్యపర్వం (యక్ష ప్రశ్నలు) | సరస్సు దగ్గర యక్షుడి ప్రశ్నలకు ధర్మరాజు చెప్పిన జవాబులే "యక్ష ప్రశ్నలు". | Yudhishthira standing calmly by a lake answering questions from a mysterious voice, his brothers lying asleep nearby
+Q C | భీముడి కొడుకు, మాయా యుద్ధంలో గొప్ప వీరుడు ఎవరు? | ఘటోత్కచుడు | అభిమన్యుడు | బర్బరీకుడు | A | మహాభారతం, ఆదిపర్వం | భీముడు, హిడింబల కుమారుడు ఘటోత్కచుడు. | The giant hero Ghatotkacha standing tall in a forest, friendly and strong
+
+SHORT M03 | భగవద్గీత | bharatam
+Q C | భగవద్గీత ఎక్కడ, ఎవరికి చెప్పబడింది? | ద్వారకలో బలరాముడికి | కురుక్షేత్రంలో అర్జునుడికి | హస్తినాపురంలో భీష్ముడికి | B | మహాభారతం, భీష్మపర్వం | యుద్ధభూమిలో రథం మీద శ్రీకృష్ణుడు అర్జునుడికి గీత ఉపదేశించాడు. | Lord Krishna on a chariot between two armies teaching a kneeling Arjuna, divine light around Krishna
+Q T | భగవద్గీతలో ఎన్ని అధ్యాయాలు ఉన్నాయి? | 12 | 18 | 24 | B | మహాభారతం, భీష్మపర్వం | 18 అధ్యాయాలు, సుమారు 700 శ్లోకాలు. | An open book of the Bhagavad Gita glowing on a stand beside a flute and a peacock feather
+Q C | యుద్ధంలో అర్జునుడి రథానికి సారథి ఎవరు? | శ్రీకృష్ణుడు | శల్యుడు | సంజయుడు | A | మహాభారతం, ఉద్యోగ–భీష్మ పర్వాలు | ఆయుధం పట్టనని మాట ఇచ్చి, సారథిగా అర్జునుడికి తోడుగా నిలిచాడు. | Lord Krishna holding the reins of four white horses on Arjuna's chariot
+Q T | యుద్ధం జరుగుతుండగా దృతరాష్ట్రుడికి అంతా చెప్పినది ఎవరు? | విదురుడు | సంజయుడు | వ్యాసుడు | B | మహాభారతం, భీష్మపర్వం | వ్యాస మహర్షి ఇచ్చిన దివ్య దృష్టితో సంజయుడు యుద్ధం అంతా వర్ణించాడు. | Sanjaya with eyes glowing, describing the war to the blind king Dhritarashtra in a palace hall
+
+SHORT B01 | భక్త ప్రహ్లాదుడు | bhagavatam
+Q T | ప్రహ్లాదుడి తండ్రి ఎవరు? | హిరణ్యాక్షుడు | హిరణ్యకశిపుడు | బలి చక్రవర్తి | B | శ్రీమద్భాగవతం, సప్తమ స్కంధం | విష్ణుద్వేషి హిరణ్యకశిపుడి కొడుకు ప్రహ్లాదుడు గొప్ప విష్ణు భక్తుడు. | The boy Prahlada with joined palms, chanting peacefully, his angry father on a throne behind him
+Q C | నరసింహస్వామి ఎక్కడ నుండి ఉద్భవించారు? | ఆకాశం నుండి | స్తంభం నుండి | సముద్రం నుండి | B | శ్రీమద్భాగవతం, సప్తమ స్కంధం | "నీ హరి ఈ స్తంభంలో ఉన్నాడా?" అని కొడితే ఆ స్తంభం నుండే నరసింహుడు వచ్చారు. | Lord Narasimha emerging in blazing light from a cracked palace pillar, Prahlada bowing, no blood or gore
+Q T | ధ్రువుడు ఏ వయసులో తపస్సు చేసి విష్ణుదర్శనం పొందాడు? | ఐదేళ్ళ వయసులో | ఇరవై ఏళ్ళకు | వృద్ధాప్యంలో | A | శ్రీమద్భాగవతం, చతుర్థ స్కంధం | ఐదేళ్ళ బాలుడు ధ్రువుడు నారదుడి ఉపదేశంతో తపస్సు చేసి ధ్రువ నక్షత్ర స్థానం పొందాడు. | The five-year-old boy Dhruva meditating on one foot in a forest, Lord Vishnu appearing before him
+Q C | ఏనుగుల రాజు గజేంద్రుడిని ఎవరి బారి నుండి విష్ణువు కాపాడాడు? | సింహం | మొసలి | పాము | B | శ్రీమద్భాగవతం, అష్టమ స్కంధం | సరస్సులో మొసలి పట్టుకుంటే గజేంద్రుడు శరణు కోరాడు; విష్ణువు చక్రంతో కాపాడాడు — గజేంద్ర మోక్షం. | The elephant Gajendra in a lotus lake raising a lotus flower to Lord Vishnu arriving on Garuda
+
+SHORT B02 | దశావతారాలు | bhagavatam
+Q T | మందర పర్వతాన్ని వీపున మోసిన అవతారం ఏది? | మత్స్యావతారం | కూర్మావతారం | వరాహావతారం | B | శ్రీమద్భాగవతం, అష్టమ స్కంధం | క్షీర సాగర మథనంలో మునిగిపోతున్న మందరాన్ని కూర్మంగా మోశారు. | A giant divine tortoise carrying a mountain on its back in a milky ocean
+Q C | మూడు అడుగుల నేల అడిగిన అవతారం ఏది? | వామనుడు | పరశురాముడు | బలరాముడు | A | శ్రీమద్భాగవతం, అష్టమ స్కంధం | బలి చక్రవర్తిని మూడు అడుగులు అడిగి, ముల్లోకాలను కొలిచారు. | The small brahmin boy Vamana with an umbrella standing before King Bali, then growing to cosmic size
+Q T | వరాహావతారంలో స్వామి సముద్రం నుండి ఎవరిని పైకి ఎత్తారు? | భూదేవిని | లక్ష్మీదేవిని | గంగాదేవిని | A | శ్రీమద్భాగవతం, తృతీయ స్కంధం | హిరణ్యాక్షుడు సముద్రంలో దాచిన భూమిని వరాహమూర్తి తన కోరల మీద ఎత్తి తెచ్చారు. | Lord Varaha, the divine boar, rising from the ocean lifting the earth goddess gently on his tusks
+Q C | దశావతారాల్లో ఏడో అవతారం ఎవరు? | శ్రీకృష్ణుడు | శ్రీరాముడు | నరసింహుడు | B | దశావతార సంప్రదాయం | మత్స్య, కూర్మ, వరాహ, నరసింహ, వామన, పరశురామ — తరువాత ఏడవది శ్రీరామావతారం. | Ten divine avatars of Vishnu shown in a row in glowing frames, the seventh, Lord Rama, highlighted
+
+SHORT B03 | చిన్ని కృష్ణుడు | bhagavatam
+Q C | గోకులంలో కృష్ణుడిని పెంచిన తల్లి ఎవరు? | దేవకి | యశోద | రోహిణి | B | శ్రీమద్భాగవతం, దశమ స్కంధం | దేవకీ వసుదేవుల కొడుకు కృష్ణుడు; గోకులంలో యశోద నందులు పెంచారు. | Mother Yashoda lovingly feeding butter to little Krishna in a village home
+Q T | గోవర్ధన గిరిని ఎత్తి కృష్ణుడు ఎన్ని రోజులు పట్టుకున్నాడు? | ఒక్క రోజు | ఏడు రోజులు | నలభై రోజులు | B | శ్రీమద్భాగవతం, దశమ స్కంధం | ఇంద్రుడు కురిపించిన వర్షం నుండి గోకులాన్ని కాపాడటానికి ఏడు రోజులు చిటికెన వేలి మీద ఎత్తి పట్టుకున్నాడు. | Little Krishna holding up Govardhana hill on his little finger like an umbrella, villagers and cows sheltering beneath in the rain
+Q C | కుచేలుడు (సుదాముడు) కృష్ణుడికి కానుకగా ఏమి తెచ్చాడు? | అటుకులు | వెన్న | పండ్లు | A | శ్రీమద్భాగవతం, దశమ స్కంధం | పేద స్నేహితుడు తెచ్చిన పిడికెడు అటుకులనే కృష్ణుడు ప్రేమగా తిన్నాడు. | Lord Krishna joyfully eating a handful of flattened rice brought by his poor friend Sudama in Dwaraka palace
+Q T | యమునా నదిని విషంతో నింపిన పాము ఎవరు? | కాళీయుడు | వాసుకి | తక్షకుడు | A | శ్రీమద్భాగవతం, దశమ స్కంధం | కాళీయుడి పడగలపై నాట్యం చేసి, కృష్ణుడు యమునను శుద్ధి చేశాడు. | Little Krishna dancing joyfully on the hoods of a giant many-headed serpent in a river, no harm shown
