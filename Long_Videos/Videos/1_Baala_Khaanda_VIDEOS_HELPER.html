@@ -266,6 +266,7 @@ h1 mark { background: none; color: var(--saffron); }
       dl.append(el('dt', '', 'నెరేషన్'), el('dd', '', c.narration));
       const refs = el('dd', 'refs'); (c.refs.length ? c.refs : ['అవసరం లేదు']).forEach((r) => refs.append(el('span', 'ref', c.refs.length ? r + '.png' : r)));
       dl.append(el('dt', '', 'రిఫరెన్స్'), refs);
+      if (c.advice) dl.append(el('dt', '', 'సూచన'), el('dd', '', c.advice));   // which of the two prompts suits this clip
       if (c.move) dl.append(el('dt', '', 'ఎడిటర్‌లో'), el('dd', '', c.move));
       if (c.note) dl.append(el('dt', '', 'గమనిక'), el('dd', '', c.note));
       if (D.clipDialog && c.narration && !c.narration.startsWith('(')) {
