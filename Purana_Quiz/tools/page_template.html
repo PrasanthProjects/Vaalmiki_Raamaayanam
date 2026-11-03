@@ -1,45 +1,123 @@
 <title>పురాణ ప్రశ్నలు</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;600;700&family=Ramabhadra&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;500;600;700&family=Ramabhadra&display=swap">
 <style>
-:root { --bg: #FBF7EF; --card: #FFFFFF; --ink: #2A2118; --muted: #786A58; --line: #E8DFCF; --accent: #B5541B; --soft: #F4EBDD; --ok: #2F7D4A; }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg: #17130F; --card: #221C16; --ink: #F1E9DC; --muted: #B3A58F; --line: #3A3026; --accent: #E8925A; --soft: #2C241C; --ok: #6CC08A; } }
-:root[data-theme="dark"] { --bg: #17130F; --card: #221C16; --ink: #F1E9DC; --muted: #B3A58F; --line: #3A3026; --accent: #E8925A; --soft: #2C241C; --ok: #6CC08A; }
+/* Layout: a sticky Short picker, then the Short as four numbered steps (questions → voice → pictures → upload),
+   every copyable text in a snippet with one big copy button. Indigo ink, marigold for actions, green for right answers. */
+:root {
+  --bg: #F3F2F8; --card: #FFFFFF; --ink: #1E1A2E; --muted: #6A6580; --line: #E2DFEC; --sunk: #F7F6FB;
+  --act: #C77A06; --act-ink: #FFFFFF; --ok: #1E8A5A; --ok-soft: #E3F4EB; --tag: #EDEAF7;
+  --display: 'Ramabhadra', 'Noto Sans Telugu', sans-serif; --body: 'Noto Sans Telugu', system-ui, sans-serif;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #13111C; --card: #1D1A29; --ink: #EEEBF7; --muted: #A49FB8; --line: #302C42; --sunk: #181622;
+  --act: #F0A630; --act-ink: #1B1405; --ok: #4CC58C; --ok-soft: #173326; --tag: #2A2640; color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --bg: #13111C; --card: #1D1A29; --ink: #EEEBF7; --muted: #A49FB8; --line: #302C42; --sunk: #181622;
+  --act: #F0A630; --act-ink: #1B1405; --ok: #4CC58C; --ok-soft: #173326; --tag: #2A2640; color-scheme: dark; }
 * { box-sizing: border-box; }
-body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.6 'Noto Sans Telugu', system-ui, sans-serif; }
-.wrap { max-width: 860px; margin: 0 auto; padding: 16px; }
-h1 { font-family: Ramabhadra, 'Noto Sans Telugu', sans-serif; font-weight: 400; font-size: 26px; margin: 4px 0 2px; }
-.sub { color: var(--muted); margin: 0 0 14px; }
-.bar { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-bottom: 14px; }
-select, button { font: inherit; color: var(--ink); }
-select { flex: 1 1 220px; padding: 8px 10px; border: 1px solid var(--line); border-radius: 10px; background: var(--card); }
-.chip { border: 1px solid var(--line); background: var(--card); border-radius: 999px; padding: 6px 12px; cursor: pointer; }
-.chip[aria-pressed="true"] { background: var(--accent); color: #fff; border-color: var(--accent); }
-.card { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 14px; margin: 0 0 12px; }
-.eyebrow { font-size: 12px; letter-spacing: .06em; color: var(--muted); margin-bottom: 6px; }
-h2 { font-size: 18px; margin: 18px 0 8px; }
-.q { padding: 10px 0; border-top: 1px solid var(--line); }
-.q:first-child { border-top: 0; }
-.opts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; margin: 6px 0; }
-.opt { background: var(--soft); border-radius: 8px; padding: 6px 8px; font-size: 14px; }
-.opt.right { outline: 2px solid var(--ok); }
-.src { font-size: 13px; color: var(--muted); }
-pre { white-space: pre-wrap; word-break: break-word; background: var(--soft); border-radius: 10px; padding: 10px; margin: 6px 0; font: 13px/1.55 ui-monospace, Menlo, Consolas, monospace; max-height: 9em; overflow: auto; }
-.copy { border: 0; background: var(--accent); color: #fff; border-radius: 8px; padding: 6px 12px; cursor: pointer; }
-table { width: 100%; border-collapse: collapse; font-size: 13px; }
-td, th { border-top: 1px solid var(--line); padding: 6px 4px; text-align: left; vertical-align: top; }
-.tl { overflow-x: auto; }
-.done { display: flex; gap: 6px; align-items: center; font-size: 14px; }
-.note { color: var(--muted); font-size: 14px; }
-@media (max-width: 520px) { .opts { grid-template-columns: 1fr; } }
+html, body { margin: 0; }
+body { background: var(--bg); color: var(--ink); font: 16px/1.6 var(--body); }
+.wrap { max-width: 820px; margin: 0 auto; padding: 0 16px 80px; }
+button { font: inherit; color: inherit; cursor: pointer; }
+button:focus-visible, select:focus-visible, input:focus-visible { outline: 3px solid var(--act); outline-offset: 2px; }
+
+/* top */
+.top { position: sticky; top: 0; z-index: 5; background: var(--bg); padding: 12px 0 10px; border-bottom: 1px solid var(--line); }
+.brand { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+.brand h1 { font: 400 24px/1.2 var(--display); margin: 0; }
+.brand span { color: var(--muted); font-size: 13px; }
+.nav { display: flex; gap: 8px; margin-top: 10px; align-items: center; }
+.nav select { flex: 1; min-width: 0; padding: 10px 12px; border: 1px solid var(--line); border-radius: 12px; background: var(--card); color: var(--ink); font: 500 15px var(--body); }
+.nav .step { width: 44px; height: 44px; border: 1px solid var(--line); border-radius: 12px; background: var(--card); font-size: 18px; }
+.nav .cast { height: 44px; padding: 0 14px; border: 1px solid var(--line); border-radius: 12px; background: var(--card); white-space: nowrap; }
+.nav .cast[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
+.jump { display: flex; gap: 6px; margin-top: 10px; overflow-x: auto; scrollbar-width: none; }
+.jump a { flex: none; text-decoration: none; color: var(--ink); background: var(--tag); border-radius: 999px; padding: 5px 12px; font-size: 14px; }
+
+/* short header */
+.head { display: grid; gap: 6px; padding: 18px 0 6px; }
+.head .meta { display: flex; gap: 8px; flex-wrap: wrap; font-size: 13px; color: var(--muted); }
+.head .meta b { background: var(--tag); color: var(--ink); font-weight: 600; border-radius: 6px; padding: 1px 8px; }
+.head h2 { font: 400 28px/1.25 var(--display); margin: 0; text-wrap: balance; }
+.done { display: inline-flex; gap: 8px; align-items: center; font-size: 15px; width: fit-content; }
+.done input { width: 20px; height: 20px; accent-color: var(--ok); }
+
+/* sections */
+section { margin-top: 26px; }
+.sec { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
+.sec .n { width: 28px; height: 28px; border-radius: 50%; background: var(--ink); color: var(--bg); display: grid; place-items: center; font-weight: 700; font-size: 14px; flex: none; }
+.sec h3 { margin: 0; font-size: 19px; }
+.hint { color: var(--muted); font-size: 14px; margin: -4px 0 10px; }
+
+/* quiz cards */
+.qs { display: grid; gap: 12px; }
+.qcard { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 14px; display: grid; gap: 10px; }
+.qtop { display: flex; justify-content: space-between; gap: 8px; font-size: 13px; color: var(--muted); }
+.qcard .q { font-weight: 600; font-size: 17px; }
+.opts { display: grid; gap: 6px; }
+.opt { display: flex; gap: 10px; align-items: flex-start; border: 1px solid var(--line); border-radius: 12px; padding: 8px 12px; background: var(--sunk); }
+.opt i { font-style: normal; font-weight: 700; width: 22px; flex: none; }
+.opt.right { border-color: var(--ok); background: var(--ok-soft); }
+.opt.right::after { content: '✓ జవాబు'; margin-left: auto; color: var(--ok); font-weight: 700; font-size: 13px; white-space: nowrap; }
+.why { font-size: 15px; }
+.src { font-size: 13px; color: var(--muted); border-left: 3px solid var(--act); padding-left: 8px; }
+
+/* snippets */
+.snips { display: grid; gap: 10px; }
+.snip { background: var(--card); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; }
+.snip header { display: flex; align-items: center; gap: 10px; padding: 10px 12px; }
+.snip .lab { flex: 1; min-width: 0; font-weight: 600; font-size: 15px; }
+.snip .lab small { display: block; font-weight: 400; color: var(--muted); font-size: 13px; }
+.cp { flex: none; border: 0; border-radius: 10px; padding: 9px 16px; background: var(--act); color: var(--act-ink); font-weight: 700; font-size: 15px; min-width: 104px; }
+.cp.ok { background: var(--ok); color: #fff; }
+.snip .txt { margin: 0; padding: 10px 12px 12px; border-top: 1px solid var(--line); background: var(--sunk); white-space: pre-wrap; word-break: break-word; font: 14px/1.6 var(--body); max-height: 7.2em; overflow: hidden; position: relative; }
+.snip.open .txt { max-height: none; }
+.more { display: block; width: 100%; border: 0; border-top: 1px solid var(--line); background: var(--card); color: var(--muted); padding: 7px; font-size: 13px; }
+.tag { display: inline-block; font-size: 12px; font-weight: 600; border-radius: 6px; padding: 1px 8px; margin-left: 6px; background: var(--tag); }
+.tag.best { background: var(--ok-soft); color: var(--ok); }
+
+/* voice lines */
+.lines { background: var(--card); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; }
+.line { display: flex; gap: 10px; align-items: center; padding: 10px 12px; border-top: 1px solid var(--line); }
+.line:first-child { border-top: 0; }
+.line .who { flex: none; width: 64px; font-weight: 700; font-size: 14px; }
+.line .who.c { color: var(--act); }
+.line .say { flex: 1; min-width: 0; font-size: 15px; }
+.line .cp { min-width: 0; padding: 7px 12px; font-size: 14px; }
+.allbar { display: flex; justify-content: flex-end; margin-bottom: 8px; }
+
+/* timeline */
+.tl { background: var(--card); border: 1px solid var(--line); border-radius: 14px; overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-size: 14px; }
+th, td { padding: 8px 10px; border-top: 1px solid var(--line); text-align: left; vertical-align: top; }
+th { border-top: 0; color: var(--muted); font-weight: 600; font-size: 13px; }
+td:first-child { font-variant-numeric: tabular-nums; white-space: nowrap; color: var(--muted); }
+details.tld summary { cursor: pointer; color: var(--muted); font-size: 14px; margin: 8px 0; }
+
+.toast { position: fixed; left: 50%; bottom: 20px; transform: translateX(-50%); background: var(--ink); color: var(--bg); padding: 10px 18px; border-radius: 999px; font-weight: 600; opacity: 0; pointer-events: none; transition: opacity .2s; }
+.toast.show { opacity: 1; }
+@media (prefers-reduced-motion: reduce) { .toast { transition: none; } }
+@media (max-width: 420px) { .line { flex-wrap: wrap; } .line .who { width: auto; } .cp { min-width: 88px; } }
 </style>
+
 <div class="wrap">
-  <h1>పురాణ ప్రశ్నలు</h1>
-  <p class="sub">తాతయ్య, చిన్ని అడిగే రామాయణ, మహాభారత, భాగవత క్విజ్ Shorts · ప్రతి జవాబుకు మూలం</p>
-  <div class="bar"><select id="pick" aria-label="Short ఎంచుకోండి"></select><button class="chip" id="castBtn" aria-pressed="false">🎭 పాత్రలు</button></div>
+  <div class="top">
+    <div class="brand"><h1>పురాణ ప్రశ్నలు</h1><span>తాతయ్య, చిన్ని క్విజ్ Shorts · రామాయణం · మహాభారతం · భాగవతం</span></div>
+    <div class="nav">
+      <button class="step" id="prev" aria-label="ముందు Short">‹</button>
+      <select id="pick" aria-label="Short ఎంచుకోండి"></select>
+      <button class="step" id="next" aria-label="తరువాతి Short">›</button>
+      <button class="cast" id="castBtn" aria-pressed="false">పాత్రలు</button>
+    </div>
+    <nav class="jump" id="jump" aria-label="ఈ Short లో"></nav>
+  </div>
   <div id="panel"></div>
 </div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
 <script id="data" type="application/json">__DATA__</script>
 <script>
 (function () {
@@ -47,56 +125,87 @@ td, th { border-top: 1px solid var(--line); padding: 6px 4px; text-align: left; 
   var $ = function (id) { return document.getElementById(id); };
   var store = { get: function (k) { try { return localStorage.getItem('purana-quiz-' + k); } catch (e) { return null; } },
                 set: function (k, v) { try { localStorage.setItem('purana-quiz-' + k, v); } catch (e) {} } };
+  var TEXTS = [];
   function esc(t) { return String(t).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
-  function box(label, text) {
-    return '<div class="eyebrow">' + esc(label) + '</div><pre>' + esc(text) + '</pre><button class="copy" data-copy="' + esc(text) + '">కాపీ</button>';
+  function keep(t) { TEXTS.push(t); return TEXTS.length - 1; }
+  function cpBtn(t, label) { return '<button class="cp" data-t="' + keep(t) + '">' + (label || 'కాపీ') + '</button>'; }
+  function snip(label, sub, text, tag) {
+    return '<div class="snip"><header><div class="lab">' + esc(label) + (tag || '') + (sub ? '<small>' + esc(sub) + '</small>' : '') + '</div>'
+      + cpBtn(text) + '</header><pre class="txt">' + esc(text) + '</pre><button class="more">పూర్తిగా చూపించు</button></div>';
   }
-  function bind() {
-    document.querySelectorAll('[data-copy]').forEach(function (b) {
-      b.onclick = function () {
-        var t = b.getAttribute('data-copy');
-        (navigator.clipboard ? navigator.clipboard.writeText(t) : Promise.reject()).then(function () { b.textContent = 'కాపీ అయింది ✓'; },
-          function () { b.textContent = 'పై బాక్స్ నుండి కాపీ చేయండి'; });
-        setTimeout(function () { b.textContent = 'కాపీ'; }, 1600);
-      };
-    });
-    var d = $('doneBox');
-    if (d) d.onchange = function () { store.set('done-' + d.dataset.id, d.checked ? '1' : ''); render(); };
+  var toastTimer;
+  function toast(msg) { var t = $('toast'); t.textContent = msg; t.classList.add('show'); clearTimeout(toastTimer); toastTimer = setTimeout(function () { t.classList.remove('show'); }, 1600); }
+  function fallbackCopy(text) {
+    var ta = document.createElement('textarea'); ta.value = text; ta.setAttribute('readonly', ''); ta.style.position = 'fixed'; ta.style.opacity = '0';
+    document.body.append(ta); ta.select(); var ok = false; try { ok = document.execCommand('copy'); } catch (e) {} ta.remove(); return ok;
   }
-  D.shorts.forEach(function (s, i) {
-    var o = document.createElement('option'); o.value = i; o.textContent = (store.get('done-' + s.id) ? '✓ ' : '') + s.id + ' · ' + s.title + ' (' + s.book + ')';
-    $('pick').append(o);
+  function copy(btn) {
+    var text = TEXTS[+btn.dataset.t], label = btn.textContent;
+    var done = function () { btn.classList.add('ok'); btn.textContent = '✓ కాపీ'; toast('కాపీ అయింది – ఇప్పుడు పేస్ట్ చేయండి');
+      setTimeout(function () { btn.classList.remove('ok'); btn.textContent = label; }, 1500); };
+    var fail = function () { if (fallbackCopy(text)) return done(); toast('కాపీ కాలేదు – టెక్స్ట్‌ను నొక్కి పట్టి కాపీ చేయండి');
+      var s = btn.closest('.snip'); if (s) s.classList.add('open'); };
+    if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(text).then(done, fail); else fail();
+  }
+  document.addEventListener('click', function (e) {
+    var b = e.target.closest('.cp'); if (b) return copy(b);
+    var m = e.target.closest('.more'); if (m) { var s = m.closest('.snip'); s.classList.toggle('open'); m.textContent = s.classList.contains('open') ? 'తక్కువ చూపించు' : 'పూర్తిగా చూపించు'; }
   });
+
   var cur = +(store.get('cur') || 0), cast = false;
   if (!D.shorts[cur]) cur = 0;
-  $('pick').value = cur;
-  $('pick').onchange = function () { cur = +this.value; cast = false; store.set('cur', cur); render(); };
+  function label(s) { return (store.get('done-' + s.id) ? '✓ ' : '') + s.id + ' · ' + s.title + ' — ' + s.book; }
+  function fillPick() { $('pick').innerHTML = D.shorts.map(function (s, i) { return '<option value="' + i + '">' + esc(label(s)) + '</option>'; }).join(''); $('pick').value = cur; }
+  function go(i) { cur = (i + D.shorts.length) % D.shorts.length; cast = false; store.set('cur', cur); render(); window.scrollTo(0, 0); }
+  $('pick').onchange = function () { go(+this.value); };
+  $('prev').onclick = function () { go(cur - 1); };
+  $('next').onclick = function () { go(cur + 1); };
   $('castBtn').onclick = function () { cast = !cast; render(); };
+
   function render() {
-    $('castBtn').setAttribute('aria-pressed', cast);
-    Array.prototype.forEach.call($('pick').options, function (o, i) { var s = D.shorts[i]; o.textContent = (store.get('done-' + s.id) ? '✓ ' : '') + s.id + ' · ' + s.title + ' (' + s.book + ')'; });
+    TEXTS = []; fillPick(); $('castBtn').setAttribute('aria-pressed', cast);
     if (cast) {
-      $('panel').innerHTML = '<p class="note">రెండు పాత్రలు అన్ని Shorts లోనూ ఒకేలా ఉండాలి: ఒక్కసారి రిఫరెన్స్ ఇమేజ్ చేసి, ప్రతి ప్రాంప్ట్‌తో జత చేయండి.</p>'
-        + D.cast.map(function (c) { return '<div class="card">' + box(c.name + ' · ' + c.key + '.png', c.prompt) + '</div>'; }).join('');
-      bind(); return;
+      $('jump').innerHTML = '';
+      $('panel').innerHTML = '<div class="head"><h2>పాత్రలు</h2><p class="hint">ఈ రెండు పాత్రలు అన్ని Shorts లోనూ ఒకేలా ఉండాలి. ఒక్కసారి రిఫరెన్స్ ఇమేజ్ చేసి సేవ్ చేయండి; ప్రతి ఇమేజ్ ప్రాంప్ట్‌తో వాటిని జత చేయండి.</p></div><div class="snips">'
+        + D.cast.map(function (c) { return snip(c.name, c.key + '.png గా సేవ్ చేయండి', c.prompt); }).join('') + '</div>';
+      return;
     }
-    var s = D.shorts[cur];
-    var h = '<div class="card"><div class="eyebrow">' + esc(s.book) + ' · సుమారు ' + esc(s.len) + ' · నిలువు 9:16</div><h2 style="margin-top:0">' + esc(s.id + ' · ' + s.title) + '</h2>'
-      + '<label class="done"><input type="checkbox" id="doneBox" data-id="' + esc(s.id) + '"' + (store.get('done-' + s.id) ? ' checked' : '') + '> ఈ Short పూర్తైంది</label></div>';
-    h += '<h2>ప్రశ్నలు, జవాబులు, మూలాలు</h2><div class="card">' + s.qs.map(function (q, i) {
-      return '<div class="q"><b>' + (i + 1) + '. ' + esc(q.q) + '</b> <span class="src">(' + (q.who === 'T' ? 'తాతయ్య' : 'చిన్ని') + ' అడుగుతారు)</span><div class="opts">'
-        + q.opts.map(function (o, k) { return '<div class="opt' + ('ABC'[k] === q.ans ? ' right' : '') + '">' + 'ABC'[k] + ') ' + esc(o) + '</div>'; }).join('')
-        + '</div><div>' + esc(q.why) + '</div><div class="src">📖 మూలం: ' + esc(q.src) + '</div></div>';
-    }).join('') + '</div>';
-    h += '<h2>టైమ్‌లైన్</h2><div class="card tl"><table><tr><th>సమయం</th><th>భాగం</th><th>ఎవరు</th><th>తెరపై</th></tr>'
+    var s = D.shorts[cur], dub = store.get('done-' + s.id);
+    $('jump').innerHTML = [['q', '1 ప్రశ్నలు'], ['v', '2 వాయిస్'], ['p', '3 చిత్రాలు'], ['u', '4 అప్‌లోడ్']]
+      .map(function (x) { return '<a href="#sec-' + x[0] + '">' + x[1] + '</a>'; }).join('');
+    var h = '<div class="head"><div class="meta"><b>' + esc(s.book) + '</b><span>' + s.qs.length + ' ప్రశ్నలు</span><span>సుమారు ' + esc(s.len) + '</span><span>నిలువు 9:16</span></div>'
+      + '<h2>' + esc(s.id + ' · ' + s.title) + '</h2>'
+      + '<label class="done"><input type="checkbox" id="doneBox"' + (dub ? ' checked' : '') + '> ఈ Short పూర్తైంది</label></div>';
+
+    h += '<section id="sec-q"><div class="sec"><span class="n">1</span><h3>ప్రశ్నలు, జవాబులు</h3></div><p class="hint">తెరపై కార్డులు ఇలా రావాలి. ✓ ఉన్నది జవాబు; కింద మూలం.</p><div class="qs">'
+      + s.qs.map(function (q, i) {
+        return '<div class="qcard"><div class="qtop"><span>ప్రశ్న ' + (i + 1) + ' / ' + s.qs.length + '</span><span>' + (q.who === 'T' ? 'తాతయ్య' : 'చిన్ని') + ' అడుగుతారు</span></div>'
+          + '<div class="q">' + esc(q.q) + '</div><div class="opts">'
+          + q.opts.map(function (o, k) { return '<div class="opt' + ('ABC'[k] === q.ans ? ' right' : '') + '"><i>' + 'ABC'[k] + '</i><span>' + esc(o) + '</span></div>'; }).join('')
+          + '</div><div class="why">' + esc(q.why) + '</div><div class="src">మూలం: ' + esc(q.src) + '</div></div>';
+      }).join('') + '</div>'
+      + '<details class="tld"><summary>సెకను వారీ టైమ్‌లైన్ చూడండి</summary><div class="tl"><table><tr><th>సమయం</th><th>భాగం</th><th>ఎవరు</th><th>తెరపై</th></tr>'
       + s.rows.map(function (r) { return '<tr><td>' + esc(r.t) + '</td><td>' + esc(r.part) + '</td><td>' + esc(r.who || '–') + '</td><td>' + esc(r.screen).replace(/\n/g, '<br>') + '</td></tr>'; }).join('')
-      + '</table></div>';
-    h += '<h2>🔊 వాయిస్</h2><div class="card"><p class="note">తాతయ్య, చిన్ని గొంతులు వేర్వేరుగా; ఒక్కో లైన్ ఆ గొంతుతో.</p>' + box('రెండు గొంతుల స్క్రిప్ట్', s.voice) + '</div>';
-    h += '<h2>🖼️ ఇమేజ్ / 🎥 వీడియో</h2><p class="note">సూచన: తాతయ్య–చిన్ని షాట్లు 🎥 వీడియో (మాట్లాడుతున్నట్టు); జవాబు చిత్రాలు 🖼️ ఇమేజ్ + నెమ్మది జూమ్ చాలు; ఆప్షన్ కార్డులు ఎడిటర్‌లో.</p>'
-      + '<div class="card">' + box('తాతయ్య–చిన్ని ఇమేజ్', s.pres) + box('తాతయ్య–చిన్ని వీడియో (పై ఇమేజ్ మొదటి ఫ్రేమ్‌గా)', s.presVideo) + '</div>'
-      + s.answers.map(function (a, i) { return '<div class="card">' + box('జవాబు ' + (i + 1) + ' ఇమేజ్', a.img) + box('జవాబు ' + (i + 1) + ' వీడియో (కావాలంటే)', a.vid) + '</div>'; }).join('');
-    h += '<h2>📤 అప్‌లోడ్</h2><div class="card">' + box('టైటిల్', s.ytitle) + box('వివరణ', s.desc) + '</div>';
-    $('panel').innerHTML = h; bind();
+      + '</table></div></details></section>';
+
+    var lines = s.rows.filter(function (r) { return r.who && r.say; });
+    h += '<section id="sec-v"><div class="sec"><span class="n">2</span><h3>వాయిస్</h3></div><p class="hint">తాతయ్య, చిన్ని గొంతులు వేర్వేరు. ఒక్కో లైన్‌ను ఆ గొంతుతో జనరేట్ చేయండి — వరుసగా కాపీ చేస్తూ వెళ్ళండి.</p>'
+      + '<div class="allbar">' + cpBtn(s.voice, 'అన్ని లైన్లు కాపీ') + '</div><div class="lines">'
+      + lines.map(function (r) { return '<div class="line"><span class="who' + (r.who === 'చిన్ని' ? ' c' : '') + '">' + esc(r.who) + '</span><span class="say">' + esc(r.say) + '</span>' + cpBtn(r.say) + '</div>'; }).join('')
+      + '</div></section>';
+
+    h += '<section id="sec-p"><div class="sec"><span class="n">3</span><h3>చిత్రాలు</h3></div><p class="hint">ఆప్షన్ కార్డులు, కౌంట్‌డౌన్, మూలం టెక్స్ట్ ఎడిటర్‌లో పెట్టండి — AI చిత్రాల్లో అక్షరాలు వద్దు.</p><div class="snips">'
+      + snip('తాతయ్య, చిన్ని — ఇమేజ్', 'అన్ని ప్రశ్నలకూ ఇదే ఇమేజ్ వాడవచ్చు', s.pres)
+      + snip('తాతయ్య, చిన్ని — వీడియో', 'పై ఇమేజ్‌ను మొదటి ఫ్రేమ్‌గా పెట్టండి (మాట్లాడుతున్నట్టు)', s.presVideo, '<span class="tag best">ఇది మంచిది</span>')
+      + s.answers.map(function (a, i) {
+        return snip('జవాబు ' + (i + 1) + ' — ఇమేజ్', s.qs[i] ? s.qs[i].opts['ABC'.indexOf(s.qs[i].ans)] : '', a.img, '<span class="tag best">ఇది చాలు</span>')
+          + snip('జవాబు ' + (i + 1) + ' — వీడియో', 'కావాలంటే మాత్రమే: పై ఇమేజ్ మొదటి ఫ్రేమ్‌గా', a.vid);
+      }).join('') + '</div></section>';
+
+    h += '<section id="sec-u"><div class="sec"><span class="n">4</span><h3>అప్‌లోడ్</h3></div><div class="snips">'
+      + snip('టైటిల్', '', s.ytitle) + snip('వివరణ', 'మూలాలు, హ్యాష్‌ట్యాగ్‌లతో', s.desc) + '</div></section>';
+    $('panel').innerHTML = h;
+    $('doneBox').onchange = function () { store.set('done-' + s.id, this.checked ? '1' : ''); fillPick(); };
   }
   render();
 })();
