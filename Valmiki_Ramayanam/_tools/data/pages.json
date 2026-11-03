@@ -1,17 +1,60 @@
 {
   "shorts": {
-    "1_Bala_Kanda": {"1": "https://claude.ai/artifact/8oC1VrGMnbHfa4MdckxJKy", "2": "https://claude.ai/artifact/TJ1s5GXtKxVAg5vJjLjydY", "3": "https://claude.ai/artifact/CoLxSXfhsHhNK2kPinrEmU"}
+    "1_Bala_Kanda": {
+      "1": "https://claude.ai/artifact/8oC1VrGMnbHfa4MdckxJKy",
+      "2": "https://claude.ai/artifact/TJ1s5GXtKxVAg5vJjLjydY",
+      "3": "https://claude.ai/artifact/CoLxSXfhsHhNK2kPinrEmU"
+    }
   },
   "long": [
-    ["పరిచయం + బాలకాండ", "16 వీడియోలు", "https://claude.ai/artifact/J3PwBdS9cGRz95zjMC6Nud"],
-    ["అయోధ్యకాండ", "25 వీడియోలు", "https://claude.ai/artifact/97J99gZsiqKiiitF1vpU28"],
-    ["అరణ్యకాండ", "17 వీడియోలు", "https://claude.ai/artifact/DTAVexqkQ6yhWzXza6GcwU"],
-    ["కిష్కింధకాండ", "13 వీడియోలు", "https://claude.ai/artifact/B5pwT1kM3Aw9deiTe2B5e6"],
-    ["సుందరకాండ", "10 వీడియోలు", "https://claude.ai/artifact/75UpZo8N6V1ExpjiPsEVYa"],
-    ["యుద్ధకాండ", "తరువాత", null]
+    [
+      "పరిచయం + బాలకాండ",
+      "16 వీడియోలు",
+      "https://claude.ai/artifact/J3PwBdS9cGRz95zjMC6Nud"
+    ],
+    [
+      "అయోధ్యకాండ",
+      "25 వీడియోలు",
+      "https://claude.ai/artifact/97J99gZsiqKiiitF1vpU28"
+    ],
+    [
+      "అరణ్యకాండ",
+      "17 వీడియోలు",
+      "https://claude.ai/artifact/DTAVexqkQ6yhWzXza6GcwU"
+    ],
+    [
+      "కిష్కింధకాండ",
+      "13 వీడియోలు",
+      "https://claude.ai/artifact/B5pwT1kM3Aw9deiTe2B5e6"
+    ],
+    [
+      "సుందరకాండ",
+      "10 వీడియోలు",
+      "https://claude.ai/artifact/75UpZo8N6V1ExpjiPsEVYa"
+    ],
+    [
+      "యుద్ధకాండ",
+      "తరువాత",
+      null
+    ]
+  ],
+  "quiz": [
+    [
+      "పురాణ ప్రశ్నలు",
+      "రామాయణం · మహాభారతం · భాగవతం — 12 Shorts, 48 ప్రశ్నలు",
+      "https://claude.ai/artifact/Xinu3pPQmSBQ9hiEoEJ8DT"
+    ]
   ],
   "other": [
-    ["బాలకాండ – ఎపిసోడ్ వారీ కిట్ (పాతది)", "ఒక్కో ఎపిసోడ్ సీన్ ప్రాంప్ట్‌లు", "https://claude.ai/artifact/8ijSCsoonXmUDBiW5YaPZK"],
-    ["Production Bible", "పాత్రలు, శైలి, నియమాలు", "https://claude.ai/artifact/Ma4HieJYj9dfYTMtwS9KQ5"]
+    [
+      "బాలకాండ – ఎపిసోడ్ వారీ కిట్ (పాతది)",
+      "ఒక్కో ఎపిసోడ్ సీన్ ప్రాంప్ట్‌లు",
+      "https://claude.ai/artifact/8ijSCsoonXmUDBiW5YaPZK"
+    ],
+    [
+      "Production Bible",
+      "పాత్రలు, శైలి, నియమాలు",
+      "https://claude.ai/artifact/Ma4HieJYj9dfYTMtwS9KQ5"
+    ]
   ]
 }

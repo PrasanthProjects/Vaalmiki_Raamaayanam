@@ -87,6 +87,11 @@ span.tile { background: var(--sunk); color: var(--muted); border: 1px solid tran
   <div id="kandas" style="display:grid;gap:28px"></div>
 
   <section>
+    <div class="khead part"><h2>పురాణ ప్రశ్నలు</h2><span class="count">క్విజ్ Shorts · తాతయ్య, చిన్ని · ప్రతి జవాబుకు మూలం</span></div>
+    <div class="long" id="quiz"></div>
+  </section>
+
+  <section>
     <div class="khead part"><h2>ఇతర పేజీలు</h2></div>
     <div class="long" id="other"></div>
   </section>
@@ -125,7 +130,7 @@ span.tile { background: var(--sunk); color: var(--muted); border: 1px solid tran
       a.append(el('b', '', name), el('span', '', note)); $(box).append(a);
     });
   }
-  cards(D.long, 'long'); cards(D.other || [], 'other');
+  cards(D.long, 'long'); cards(D.quiz || [], 'quiz'); cards(D.other || [], 'other');
 
   function open() {
     const k = D.kandas.find((x) => x.dir === $('kanda').value); const n = parseInt($('sarga').value, 10);
