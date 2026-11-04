@@ -359,6 +359,8 @@ def assemble(parts, extras, splits, vid_index):
             seq.append({'id': str(s['no']), 'ep': e['ep'], 'label': f"{e['ep']} · సీన్ {s['no']}", 'kind': s['kind'],
                         'secs': s['secs'], 'narration': s['narration'], 'new': False, 'visual': s['visual'],
                         'loc': s['loc'], 'onscreen': verse_card(s, sc), 'scene': s})
+        if not last and lesson_ep is e:   # an episode that ends mid-video: its lesson right where its story ends,
+            seq.append(lesson(extras, lesson_ep, e['ep']))   # not after the next episode's teaser
         if last and ep_end and not teaser_last and lesson_ep:
             seq.append(lesson(extras, lesson_ep, e['ep']))
         if last and not ep_end:   # the story goes on in the next video: end on its question, then the lesson
@@ -369,7 +371,7 @@ def assemble(parts, extras, splits, vid_index):
                         'secs': L.speak_secs(line), 'narration': line, 'new': True, 'loc': nxt['loc'], 'onscreen': '',
                         'from_no': nxt['no'],
                         'visual': f"A suspenseful glimpse, half in shadow: {nxt['visual']}"})
-            if lesson_ep:
+            if lesson_ep is e:   # (a lesson for an earlier episode was already told where that episode ended)
                 seq.append(lesson(extras, lesson_ep, e['ep']))
     cta = L.CTAS[vid_index % len(L.CTAS)]
     seq.append({'id': 'C', 'ep': parts[-1][0]['ep'], 'label': 'ముగింపు', 'kind': 'image', 'secs': L.speak_secs(cta),
