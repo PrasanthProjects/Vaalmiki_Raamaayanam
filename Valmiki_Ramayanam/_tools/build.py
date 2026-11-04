@@ -51,10 +51,17 @@ FIX = {
     ('1_Bala_Kanda', 2, 42): [('మనోరమై-\n::స్తదాస్య', 'మనోరమైస్తదాస్య'), ('యశస్వినో\n::యశస్కరం', 'యశస్వినో యశస్కరం')],
     ('1_Bala_Kanda', 2, 43): [('సంధియోగం\n::సమమధురో', 'సంధియోగం సమమధురో'), ('రఘువరకరితం', 'రఘువరచరితం'),
                               ('మునిప్రణీతం\n::దశశిరసశ్క', 'మునిప్రణీతం దశశిరసశ్చ')],
+    # Sarga 4: బృంహ్మణ for బృంహణ; wiki indentation (::), a hyphen and a dandā mid-line split the two last ślokas.
+    ('1_Bala_Kanda', 4, 6): [('వేదోపబృంహ్మణార్థాయ', 'వేదోపబృంహణార్థాయ')],
+    ('1_Bala_Kanda', 4, 35): [('పార్థివలక్షణాన్వితౌ ।\n::కుశీలవౌ చైవ', 'పార్థివలక్షణాన్వితౌ కుశీలవౌ చైవ'),
+                              ('ప్రచక్షతే ।\n::మహానుభావం చరితం', 'ప్రచక్షతే మహానుభావం చరితం')],
+    ('1_Bala_Kanda', 4, 36): [('ప్రచోదితా-\n::వగాయతాం మార్గవిధానసమ్పదా', 'ప్రచోదితావగాయతాం మార్గవిధానసమ్పదా'),
+                              ('శనై-\nర్బుభూషయా', 'శనైర్బుభూషయా')],
 }
 
 # The long episode each sarga's Shorts come from, for YouTube's "Related video" link on every Short.
-RELATED = {('బాలకాండ', 1): ('E1.01', 'వాల్మీకి మహర్షి కథ'), ('బాలకాండ', 2): ('E1.02', 'క్రౌంచ పక్షులు')}
+RELATED = {('బాలకాండ', 1): ('E1.01', 'వాల్మీకి మహర్షి కథ'), ('బాలకాండ', 2): ('E1.02', 'క్రౌంచ పక్షులు'),
+           ('బాలకాండ', 4): ('E1.02', 'క్రౌంచ పక్షులు, లవకుశుల గానం')}
 
 HASHTAGS = '#shorts #ramayanam #telugushorts #devotional #shloka #ramayanintelugu #valmikiramayanam'
 
@@ -95,12 +102,21 @@ def sentences(text):
 def split3(text):
     """Split the lesson voiceover into 3 roughly equal runs of whole sentences."""
     sents = sentences(text)
+    while len(sents) < 3:   # fewer than 3 sentences: cut the longest one at the comma nearest its middle
+        i = max(range(len(sents)), key=lambda k: len(sents[k]))
+        cuts = [m.end() for m in re.finditer(r',\s', sents[i])]
+        if not cuts:
+            break
+        at = min(cuts, key=lambda c: abs(c - len(sents[i]) / 2))
+        sents[i:i + 1] = [sents[i][:at].strip(), sents[i][at:].strip()]
     total = sum(len(s) for s in sents)
     parts, cur, acc = [], [], 0
-    for s in sents:
+    for i, s in enumerate(sents):
         cur.append(s)
         acc += len(s)
-        if len(parts) < 2 and acc >= total * (len(parts) + 1) / 3:
+        left = len(sents) - i - 1           # sentences still to place
+        need = 2 - len(parts)               # parts still to start after this one
+        if need and (acc >= total * (len(parts) + 1) / 3 or left == need):
             parts.append(' '.join(cur))
             cur = []
     parts.append(' '.join(cur))
