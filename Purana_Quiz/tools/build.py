@@ -14,6 +14,7 @@ import re
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WHO = {'T': 'తాతయ్య', 'C': 'చిన్ని'}
 BOOK = {'ramayana': 'రామాయణం', 'bharatam': 'మహాభారతం', 'bhagavatam': 'భాగవతం'}
+BOOK_EN = {'ramayana': 'Ramayanam', 'bharatam': 'Mahabharatam', 'bhagavatam': 'Bhagavatam'}
 STYLE = ('Vertical 9:16, 1080x1920, warm premium 3D animated film look, soft cinematic light, rich Indian colours, '
          'the main subject in the centre third (top and bottom kept calm for on-screen text). ')
 RESPECT = ('Sacred Hindu devotional subject: every deity and sage shown with deep reverence and traditional iconography; '
@@ -188,7 +189,7 @@ def kit(s, n):
            if x else '')
     desc = (f"{title}{nl}{nl}తాతయ్య, చిన్ని అడిగే {len(s['qs'])} పురాణ ప్రశ్నలు. మీ జవాబులు కామెంట్‌లో రాయండి!{ask}{nl}{nl}📖 మూలాలు:{nl}"
             + nl.join(f"{i}. {q['src']}" for i, q in enumerate(s['qs'], 1))
-            + f'{nl}{nl}#పురాణప్రశ్నలు #రామాయణం #మహాభారతం #భాగవతం #TeluguQuiz #PuranaQuiz #Shorts')
+            + f'{nl}{nl}#పురాణప్రశ్నలు #{BOOK[s['book']]} #{BOOK_EN[s['book']]} #TeluguQuiz #PuranaQuiz #Shorts')
     # pin this as the first comment so people answer under it
     pin = (f"💬 కామెంట్ ప్రశ్న: {x['q']}{nl}{abc(x)}{nl}A, B, C లో మీ జవాబు కింద రాయండి 👇 జవాబు తరువాతి Short లో!"
            if x else '')
