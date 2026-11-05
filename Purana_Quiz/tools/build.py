@@ -159,6 +159,25 @@ def presenters_prompt(who):
               f'smile, lips closed, looking at {sp}. Both faces fully visible, nothing covering the mouths. ' + RESPECT)
 
 
+def solo_prompt(key):
+    """One reusable talking frame per character, alone on the swing, for every Short."""
+    return (STYLE + f'Setting: {SET}. Medium close-up of one character only: {CAST[key][1]}. Sitting on the swing, '
+            'facing the camera three-quarters, face clear and evenly lit, mouth slightly open as if speaking, a calm '
+            'friendly expression, hands resting naturally on the lap. Soft blurred background. ' + RESPECT)
+
+
+def solo_video(key):
+    """One reusable talking loop per character: small mouth movement, small natural motion, starts and ends the same."""
+    who = 'the grandfather' if key == 'TATAYYA' else 'Chinni'
+    extra = ('a slow gentle nod and a warm smile, one small hand gesture' if key == 'TATAYYA'
+             else 'a small lively head tilt and a bright smile, one small hand gesture')
+    return (f'Animate the attached start frame as one continuous 10 second vertical shot that can loop: {who} is '
+            f'talking calmly with small, natural mouth movements, soft blinks, {extra}, the shoulders breathing '
+            'softly; the swing sways only a little, the lamp flame flickers. Movements stay small and slow, the face '
+            'and clothes stay exactly the same, the camera does not move, no cuts, and the last frame matches the '
+            'first so the clip loops smoothly. Audio: none.')
+
+
 def talk_prompt(who):
     """For video tools that add lip movement themselves (no audio input): only the speaker's lips move."""
     sp, ls = SPEAKER[who]
@@ -255,7 +274,8 @@ def main():
         open(os.path.join(ROOT, 'Shorts', f"{s['id']}.md"), 'w', encoding='utf-8', newline='\n').write(md + '\n')
         pages.append(page)
     cast = [{'key': k, 'name': v[0], 'prompt': STYLE + f'Character reference sheet on a plain light background: {v[1]}. '
-             'Front view, side view and three-quarter view, full body, consistent look. ' + RESPECT} for k, v in CAST.items()]
+             'Front view, side view and three-quarter view, full body, consistent look. ' + RESPECT,
+             'soloImg': solo_prompt(k), 'soloVid': solo_video(k)} for k, v in CAST.items()]
     tpl = open(os.path.join(ROOT, 'tools', 'page_template.html'), encoding='utf-8').read()
     voices = [{'name': CAST[k][0], 'en': v[0], 'desc': v[1], 'sample': v[2], 'sets': v[3]} for k, v in VOICE_DESIGN.items()]
     blob = json.dumps({'shorts': pages, 'cast': cast, 'voices': voices, 'voiceHow': VOICE_HOW}, ensure_ascii=False).replace('</', '<\\/')

@@ -181,6 +181,11 @@ details.tld summary { cursor: pointer; color: var(--muted); font-size: 14px; mar
       $('jump').innerHTML = '';
       $('panel').innerHTML = '<div class="head"><h2>పాత్రలు</h2><p class="hint">ఈ రెండు పాత్రలు అన్ని Shorts లోనూ ఒకేలా ఉండాలి. ఒక్కసారి రిఫరెన్స్ ఇమేజ్ చేసి సేవ్ చేయండి; ప్రతి ఇమేజ్ ప్రాంప్ట్‌తో వాటిని జత చేయండి.</p></div><div class="snips">'
         + D.cast.map(function (c) { return snip(c.name, c.key + '.png గా సేవ్ చేయండి', c.prompt); }).join('') + '</div>'
+        + '<div class="sec sub"><h3>🎥 అన్ని Shorts కీ ఒకే క్లిప్</h3></div><p class="hint">ఒక్కొక్కరికి ఒక ఇమేజ్, దానితో 10 సెకన్ల మాట్లాడే క్లిప్ (చిన్న నోటి కదలికలు, చిన్న కదలికలు మాత్రమే, మొదలు–చివర ఒకటే కాబట్టి లూప్ అవుతుంది). ఒక్కసారి చేసి సేవ్ చేయండి; ఆ వ్యక్తి మాట్లాడే ప్రతి లైన్‌కూ ఎడిటర్‌లో ఇదే క్లిప్‌ను లైన్ ఉన్నంత సేపు లూప్ చేయండి. నోరు ఆడియోకి సరిగ్గా సరిపోవాలంటే ఇదే ఇమేజ్‌ను లిప్‌సింక్ టూల్‌లో వాడండి.</p><div class="snips">'
+        + D.cast.map(function (c) {
+          return snip(c.name + ' ఒక్కరే — ఇమేజ్', c.key + '_talk.png గా సేవ్ చేయండి', c.soloImg, '<span class="tag best">ఒక్కసారి</span>')
+            + snip(c.name + ' ఒక్కరే — మాట్లాడే క్లిప్', 'పై ఇమేజ్ మొదటి ఫ్రేమ్‌గా; ' + c.key + '_talk.mp4 గా సేవ్ చేసి అన్ని Shorts లో వాడండి', c.soloVid, '<span class="tag best">ఒక్కసారి</span>');
+        }).join('') + '</div>'
         + '<div class="sec sub"><h3>🔊 గొంతులు</h3></div>' + voiceSnips();
       return;
     }
