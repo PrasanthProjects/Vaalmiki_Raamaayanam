@@ -29,21 +29,20 @@ CAST = {
 # ElevenLabs → Voices → "Voice Design": paste the description, paste the Telugu sample as the preview text, pick the
 # preview that sounds most like the person, save it under the name, then use these settings for every line.
 VOICE_DESIGN = {
-    'TATAYYA': ('Tatayya', 'A warm, kind Telugu grandfather around 70 years old, speaking native Telugu with a natural '
-                'Andhra accent. Medium-low, slightly husky but clear voice, unhurried and gentle, with a smile in it. '
-                'Sounds like a loving grandfather telling stories on the verandah in the evening: wise, patient, a '
-                'little playful when he teases his granddaughter, proud when she answers right. Clear pronunciation of '
-                'every Telugu word, no shouting, no drama, no old-age tremble or cough. Studio quality, close and warm, '
-                'no background noise.',
+    'TATAYYA': ('Tatayya', 'A warm, kind, mature male voice speaking native Telugu with a natural Andhra accent. '
+                'Medium-low, slightly husky but clear, unhurried and gentle, with a smile in it. Sounds like a wise, '
+                'loving storyteller on a verandah in the evening: patient, a little playful when teasing, proud when '
+                'someone answers right. Clear pronunciation of every Telugu word, no shouting, no drama, no tremble or '
+                'cough. Studio quality, close and warm, no background noise.',
                 'చిన్నీ, ఇలా రా అమ్మా, నా పక్కన కూర్చో. ఈ రోజు నీకు ఒక మంచి ప్రశ్న అడుగుతాను. '
                 'వాల్మీకి మహర్షికి రాముడి కథ మొదట ఎవరు చెప్పారో తెలుసా? ఆలోచించి చెప్పు. '
                 'భలే! సరిగ్గా చెప్పావు, నా బంగారు తల్లి. జవాబు నారద మహర్షి!',
                 'Stability 50% · Similarity 75% · Style 20% · Speed 0.95 · Speaker boost ON'),
-    'CHINNI': ('Chinni', 'A cheerful, bright Telugu girl about 10 years old, speaking native Telugu with a natural '
-               'Andhra accent. Light, sweet, high but not squeaky child voice, curious and lively, quick and clear, '
-               'with natural excitement when she asks a question and happy pride when she gets the answer. Every '
-               'Telugu word pronounced clearly like a smart school girl. Not a cartoon voice, not an adult imitating '
-               'a child, no lisp. Studio quality, close and clean, no background noise.',
+    'CHINNI': ('Chinni', 'A cheerful, bright female voice speaking native Telugu with a natural Andhra accent. Very '
+               'light, small, sweet and high-pitched but not squeaky, soft and airy, curious and lively, quick and '
+               'clear, with natural excitement when asking a question and happy pride when getting the answer right. '
+               'Playful, innocent and full of wonder. Every Telugu word pronounced clearly. Not a cartoon voice, no '
+               'lisp. Studio quality, close and clean, no background noise.',
                'తాతయ్యా, తాతయ్యా! ఈ రోజు నేనే మీకు ఒక ప్రశ్న అడుగుతాను. '
                'తమసా నది ఒడ్డున వాల్మీకి మహర్షి చూసిన పక్షుల జంట ఏది? మీకు తెలుసా? '
                'హహ, నాకు తెలుసు! క్రౌంచ పక్షులు! నేను సరిగ్గా చెప్పానా తాతయ్యా?',
@@ -52,7 +51,9 @@ VOICE_DESIGN = {
 VOICE_HOW = ('ElevenLabs → Voices → Create a Voice → Voice Design. (1) "Prompt" లో వివరణ పేస్ట్ చేయండి. '
              '(2) "Text to preview" లో తెలుగు శాంపిల్ పేస్ట్ చేయండి. (3) వచ్చిన 3 గొంతుల్లో ఆ పాత్రకు బాగా సరిపోయింది ఎంచుకుని '
              'ఆ పేరుతో సేవ్ చేయండి. (4) ప్రతి లైన్‌కు అదే గొంతు, కింది సెట్టింగ్‌లు; మోడల్ Eleven v3 (లేదా Multilingual v2). '
-             'రెండు గొంతులూ ఒక్కసారి చేస్తే అన్ని Shorts కీ సరిపోతాయి.')
+             'రెండు గొంతులూ ఒక్కసారి చేస్తే అన్ని Shorts కీ సరిపోతాయి. ElevenLabs పిల్లల గొంతులను, వయసు రాసిన ప్రాంప్ట్‌లను '
+             'ఒప్పుకోదు, అందుకే వివరణలో వయసు లేదు. చిన్ని గొంతు పెద్దగా వస్తే మళ్ళీ Generate నొక్కండి, '
+             'లేదా Voice Library లో "soft high female" అని వెతకండి.')
 SET = ('a cosy Telugu home verandah in the evening: a wooden swing (oonjal) with brass chains, a tulasi pot, a glowing '
        'brass lamp, a bookshelf with old palm-leaf bundles and a few books')
 CTAS = ['"జై శ్రీరామ్" అని కామెంట్ చేసి, మీ స్కోర్ కూడా రాయండి.', 'నచ్చితే లైక్ చేసి, మీ ఇంట్లో పిల్లలకు షేర్ చేయండి.',
