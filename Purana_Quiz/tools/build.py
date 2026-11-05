@@ -2,7 +2,7 @@
 
 usage:  python Purana_Quiz/tools/build.py
 
-Reads   Purana_Quiz/data/quiz.txt          the Shorts (4 questions each, with the source of every answer)
+Reads   Purana_Quiz/data/quiz.txt          the Shorts (2-3 questions each + a comment question, with the source of every answer)
 Writes  Purana_Quiz/Shorts/<id>.md          the kit: timeline, voice lines, on-screen text, image/video prompts, upload text
         Purana_Quiz/tools/publish/quiz.html the phone page (published to claude.ai)
 """
@@ -80,7 +80,7 @@ def parse():
             else:
                 shorts[-1]['next'] = item
     for i, s in enumerate(shorts):
-        assert 3 <= len(s['qs']) <= 5, f"{s['id']}: 3 to 5 questions"
+        assert 2 <= len(s["qs"]) <= 4, f"{s['id']}: 2 to 4 questions"
         s['prev'] = shorts[i - 1].get('next') if i else None   # last Short's comment question, answered here
         s['prev_id'] = shorts[i - 1]['id'] if i else ''
     return shorts
@@ -111,8 +111,7 @@ def timeline(s, n):
     p = s.get('prev')
     if p:
         k = 'ABC'.index(p['ans'])
-        add('గత ప్రశ్న జవాబు', 'T', f"ముందుగా, క్రితం ప్రశ్నకు జవాబు: {p['ans']}, {p['opts'][k]}! {p['why']} "
-            'కామెంట్‌లో సరిగ్గా చెప్పిన అందరికీ అభినందనలు!',
+        add('గత ప్రశ్న జవాబు', 'T', f"క్రితం ప్రశ్నకు జవాబు: {p['ans']}, {p['opts'][k]}! {p['why']}",
             f"గత ప్రశ్న: {p['q']}\n✅ {p['ans']}) {p['opts'][k]}\nమూలం: {p['src']}", p['pic'], 6)
     for i, q in enumerate(s['qs'], 1):
         other = 'C' if q['who'] == 'T' else 'T'
