@@ -73,8 +73,9 @@ def parse():
         if not line or line.startswith('#'):
             continue
         if line.startswith('SHORT '):
-            sid, title, book = (x.strip() for x in line[6:].split('|'))
-            shorts.append({'id': sid, 'title': title, 'book': book, 'qs': []})
+            f = [x.strip() for x in line[6:].split('|')]
+            sid, title, book = f[:3]
+            shorts.append({'id': sid, 'title': title, 'book': book, 'hook': f[3] if len(f) > 3 else '', 'qs': []})
         elif line.startswith(('Q ', 'NEXT ')):
             kind, rest = line.split(' ', 1)
             f = [x.strip() for x in rest.split('|')]
@@ -113,8 +114,9 @@ def timeline(s, n):
         rows.append((t, d, part, who, say, screen, vis))
         t += d
 
-    add('హుక్', 'C' if n % 2 else 'T', f"{BOOK[s['book']]} క్విజ్! ఈ {len(s['qs'])} ప్రశ్నలకు మీకు జవాబు తెలుసా?",
-        f"{s['title']} · {len(s['qs'])} ప్రశ్నలు", 'presenters', 3)
+    # open on a story teaser from these sargas, not on "N questions"
+    add('హుక్', 'C' if n % 2 else 'T', s['hook'] or f"{BOOK[s['book']]} క్విజ్! మీకు జవాబు తెలుసా?",
+        s['title'], 'presenters', 3)
     p = s.get('prev')
     if p:
         k = 'ABC'.index(p['ans'])
