@@ -79,7 +79,7 @@ This is a hard production rule, not a suggestion, because getting it wrong is ex
 ### రాక్షససైనికులు — Generic rakshasa soldiers (Lanka army)
 **Composition:** Male soldiers — this text's rakshasa armies are consistently depicted as male warrior ranks.
 **Tilakam:** Shiva Namam (tripundra — three horizontal white/ash lines across the forehead, optional small red bindu at center) on every soldier — see "TILAKAM" section above. This is the army's visible mark of allegiance to Ravana, a devotee of Shiva.
-**Visual Lock:** Muscular demon warriors with physically real, anatomically grounded builds — dark reddish-brown to grey skin (varying per individual within that range) rendered with real skin texture, fanged but not individually detailed faces, dark leather-and-metal armor with real material weight and wear, mace/sword/spear. Vary each soldier's exact build, height, skin-tone shade, armor wear/damage, and facial hair — give some (not all) individual soldiers mustaches, others clean-shaven or with other styles — so the ranks read as individual real fighters, not a repeated unit model. Kept simpler than named rakshasas (Ravana, Kumbhakarna, Indrajit, Vibhishana, Khara, Dushana, Trishira) so principals read clearly against the crowd — but never cartoonish or "movie-monster" stylized; they should read as real, physically threatening beings photographed in-scene, not illustrated or CGI-rendered creatures.
+**Visual Lock:** Muscular demon warriors with physically real, anatomically grounded builds — dark reddish-brown to grey skin (varying per individual within that range) rendered with real skin texture, every soldier with his own face (different face shape, nose, eyes, age, skin shade and facial hair; short tusks on only a few), no two alike and none resembling Ravana, all single-headed and uncrowned, dark leather-and-metal armor with real material weight and wear, mace/sword/spear. Vary each soldier's exact build, height, skin-tone shade, armor wear/damage, and facial hair — give some (not all) individual soldiers mustaches, others clean-shaven or with other styles — so the ranks read as individual real fighters, not a repeated unit model. Kept simpler than named rakshasas (Ravana, Kumbhakarna, Indrajit, Vibhishana, Khara, Dushana, Trishira) so principals read clearly against the crowd — but never cartoonish or "movie-monster" stylized; they should read as real, physically threatening beings photographed in-scene, not illustrated or CGI-rendered creatures.
 
 ### వానరసైనికులు — Generic vanara soldiers (Kishkindha/Yuddha army)
 **Composition:** Male soldiers — the vanara armies in this text are consistently depicted as male warrior ranks.
@@ -297,7 +297,7 @@ This is a hard production rule, not a suggestion, because getting it wrong is ex
 
 ### తాటక — TATAKA
 **Role:** Powerful demoness (cursed yakshini) terrorizing Vishwamitra's yagna forest; killed by Rama in his first real combat (Baala Khaanda).
-**Visual Lock:** Towering, significantly larger than human, wild hair, fierce fanged face, dark rough grey-green/brown skin, huge muscular build, tattered primal hide/bark clothing (older and more primal than the later "courtly" demons), clawed hands.
+**Visual Lock:** Towering, significantly larger than human, wild matted copper-grey hair, a wide fierce face with glaring yellow eyes, a flared nose and two small tusks, dark rough grey-green/brown skin, huge muscular build, tattered primal hide/bark clothing (older and more primal than the later "courtly" demons), clawed hands.
 **Voice:** Female, guttural, roaring, primal — minimal actual dialogue, mostly roars.
 
 ### అహల్య — AHALYA
@@ -312,22 +312,22 @@ This is a hard production rule, not a suggestion, because getting it wrong is ex
 
 ### విరాధుడు — VIRADHA
 **Role:** Cursed gandharva-turned-rakshasa; attacks Rama's group early in Aranya Khaanda; freed by burial (his own requested method).
-**Visual Lock:** Towering mountain-like build, sunken deep-set eyes, distended belly, wrapped in bloody tiger hide, carries a trophy-hung spear (stylized/implied gore, not explicit).
+**Visual Lock:** Towering mountain-like build, a huge lumpy face with small deep-sunk eyes under a heavy brow, a wide flat nose and a matted brown beard, distended belly, wrapped in bloody tiger hide, carries a trophy-hung spear (stylized/implied gore, not explicit).
 **Voice:** Male, crude, threatening, boastful — softens into calm resignation once he reveals his curse and asks to be buried alive.
 
 ### ఖరుడు, దూషణుడు, త్రిశిరుడు — KHARA, DUSHANA, TRISHIRA
 **Role:** Shurpanakha's brothers/commanders; lead 14,000 rakshasas against Rama in Panchavati; all killed by Rama alone (Aranya Khaanda).
-**Visual Lock:** One tier above the generic rakshasa-soldier template — individually armored/detailed. Khara (eldest, most prominent): dark reddish hue, heavy mace or bow. Dushana: wields a parigha (iron club). Trishira: three-tufted/three-crested helmet (a visual nod to his name without literally giving him three heads — that trait belongs only to Ravana).
+**Visual Lock:** One tier above the generic rakshasa-soldier template — individually armored/detailed. Each has a completely different face and none resembles Ravana. Khara (eldest, most prominent, about forty): towering, dark reddish skin, broad flat face, bulging bloodshot eyes, thick bristling black beard, horned helmet, heavy mace or bow. Dushana (about thirty-five): burly and short-necked, dark bronze skin, bald scarred head, broken flattened nose, short coarse beard, wields a parigha (iron club). Trishira (about thirty): lean and tall, slate-grey skin, sharp pointed chin, long thin moustache, no beard, three-tufted/three-crested helmet (a visual nod to his name without literally giving him three heads — that trait belongs only to Ravana).
 **Voice:** Khara — booming, arrogant, most vocal of the three. Dushana — gruffer, mostly a physical-combat presence. Trishira — similar to Dushana, minimal individual dialogue.
 
 ### శూర్పణఖ — SHURPANAKHA
 **Role:** Ravana's sister; her mutilation triggers the war (Aranya Khaanda).
-**Visual Lock:** Shapeshifting rakshasi — true monstrous form (sharp teeth, wild hair, nails "like winnowing fans," dark skin) is the DEFAULT/primary identity. **Updated per the source (E3.10):** this text has her approach Rama in her true form — there is NO attractive-disguise phase; the source's own portrait is aged, pot-bellied, coppery wire-like hair, crooked eyes, a harsh barking voice. Keep her unsettling, never gory or comic-grotesque. After the mutilation (E3.11) she keeps her face hidden — no close-up of the wounds anywhere in the series.
+**Visual Lock:** Shapeshifting rakshasi — true monstrous form (sharp teeth, wild hair, nails "like winnowing fans," dark skin) is the DEFAULT/primary identity. **Updated per the source (E3.10):** this text has her approach Rama in her true form — there is NO attractive-disguise phase; the source's own portrait is aged, pot-bellied, coppery wire-like hair, crooked narrow eyes, a lean hard face with a hooked nose and thin tight lips, a harsh barking voice. Keep her unsettling, never gory or comic-grotesque. After the mutilation (E3.11) she keeps her face hidden — no close-up of the wounds anywhere in the series.
 **Voice:** Female, falsely sweet/seductive initially, shifting to shrieking fury after rejection and mutilation.
 
 ### మారీచుడు — MARICHA
 **Role:** Transforms into the golden deer to lure Rama, enabling Sita's abduction (Aranya Khaanda).
-**Visual Lock:** Two distinct forms — aged demon-advisor form (grey-toned skin, gaunt, world-weary/fearful) for his Lanka court scenes, and a fully separate golden deer form (strikingly beautiful, shimmering golden fur, bejeweled-looking antlers, unnaturally beautiful — a visual cue it's magical) for the deer scenes.
+**Visual Lock:** Two distinct forms — aged demon-advisor form (grey-toned skin, gaunt hollow-cheeked face, sunken fearful eyes, sparse grey stubble, thin bony frame; as an ascetic by the sea he wears matted hair and a black deer-skin) for his Lanka court scenes, and a fully separate golden deer form (strikingly beautiful, shimmering golden fur, bejeweled-looking antlers, unnaturally beautiful — a visual cue it's magical) for the deer scenes.
 **Voice:** Demon form — weary, fearful, reluctant (he knows this plan kills him). Note in scripts as "Maricha, mimicking Rama's voice" when he cries out in Rama's voice while dying — this is a trick, never actually voiced as Rama himself.
 
 ### జటాయువు — JATAYU
@@ -352,37 +352,37 @@ This is a hard production rule, not a suggestion, because getting it wrong is ex
 
 ### కుంభకర్ణుడు — KUMBHAKARNA
 **Role:** Ravana's giant brother, famous for months-long sleep; fights and dies in the war (Yuddha Khaanda).
-**Visual Lock:** Enormous giant rakshasa, significantly larger than Ravana, minimal "just-woken" wrap-clothing in his key scene, sleepy/groggy expression transitioning to battle-fury, same dark reddish-bronze tone as Ravana but single-headed.
+**Visual Lock:** Enormous giant rakshasa, significantly larger than Ravana, minimal "just-woken" wrap-clothing in his key scene, sleepy/groggy expression transitioning to battle-fury, single-headed, very dark grey-black skin (not Ravana's colouring), a huge round face with heavy drooping sleepy eyelids, a big flat nose, puffy cheeks and a thick drooping moustache.
 **Voice:** Male, deep, booming, initially groggy/slow, shifting to thunderous battle-roar.
 
 ### ఇంద్రజిత్తు (మేఘనాధుడు) — INDRAJIT
 **Role:** Ravana's son, master of illusion-warfare, nearly kills Lakshmana (Yuddha Khaanda).
-**Visual Lock:** Young rakshasa warrior-prince, resembles Ravana in coloring but younger/leaner, elaborate distinct warrior armor/headgear, subtle magical-distortion effects around him in battle to signal his illusion mastery.
+**Visual Lock:** Young rakshasa warrior-prince of about thirty with his own face, not a copy of Ravana: tall and lean, dusky wheat-brown skin, a sharp handsome angular face, piercing narrow eyes, a thin pointed moustache and no beard, long hair in a high warrior knot, elaborate distinct warrior armor/headgear, subtle magical-distortion effects around him in battle to signal his illusion mastery.
 **Voice:** Male, confident, cunning, younger-sounding than Ravana but the same arrogant edge — a "worthy heir" quality.
 
 ### విభీషణుడు — VIBHISHANA
 **Role:** Ravana's righteous younger brother; defects to Rama's side (Yuddha Khaanda).
-**Visual Lock:** A rakshasa but visually gentler than Ravana — less fanged/fierce, calmer posture, simpler/less ostentatious royal dress, worried/earnest expression reflecting his internal conflict.
+**Visual Lock:** A rakshasa but visually gentler than Ravana — less fanged/fierce, calmer posture, a long gentle face with soft kind eyes and a neat short black beard, slim build, light-brown skin, simpler/less ostentatious royal dress, worried/earnest expression reflecting his internal conflict.
 **Voice:** Male, earnest, troubled, morally serious — noticeably more restrained/thoughtful than Ravana's bombast.
 
 ### మండోదరి — MANDODARI
 **Role:** Ravana's queen; pleads with him to avoid war, especially late in Yuddha Khaanda.
-**Visual Lock:** Dignified demon queen, sorrowful/pleading demeanor increasing as the war progresses.
+**Visual Lock:** Dignified demon queen of about thirty-five, a soft oval face with sad wise almond eyes and a fair complexion, sorrowful/pleading demeanor increasing as the war progresses.
 **Voice:** Female, elegant, increasingly desperate as the war progresses.
 
 ### అక్షకుమారుడు — AKSHAKUMARA
 **Role:** Ravana's young son, killed fighting Hanuman in the Ashoka Vatika garden (Sundara Khaanda) — the first personal loss that shakes Ravana.
-**Visual Lock:** Young rakshasa prince, slighter-built than the adult commanders, bright/intense energy, radiant "like sacred fire" when eager for battle, fine princely armor.
+**Visual Lock:** Young rakshasa prince of about sixteen, a boyish round face with wide eager eyes and no beard or moustache, slighter-built than the adult commanders, bright/intense energy, radiant "like sacred fire" when eager for battle, fine princely armor.
 **Voice:** Male, young, eager, fearless, excited for his first real battle.
 
 ### జంబుమాలి — JAMBUMALI
 **Role:** First named commander sent against Hanuman in the garden (Sundara Khaanda), killed.
-**Visual Lock:** Rakshasa warrior-commander, donkey-drawn chariot, similar tier to Khara/Dushana/Trishira with his own armor details.
+**Visual Lock:** Rakshasa warrior-commander with a thin sharp face, wide fierce eyes and a short black moustache, red garlands and red earrings, donkey-drawn chariot, similar tier to Khara/Dushana/Trishira with his own armor details.
 **Voice:** Male, confident, combative — brief role.
 
 ### కుంభుడు, నికుంభుడు, ప్రజంఘుడు, మకరాక్షుడు — KUMBHA, NIKUMBHA, PRAJANGHA, MAKARAKSHA
 **Role:** Rakshasa commanders (Kumbhakarna's sons and others) in the war's later stages (Yuddha Khaanda), each killed by a different Rama-side hero.
-**Visual Lock:** Same tier as Khara/Dushana/Trishira — generic-soldier template scaled up with individual armor/weapon details.
+**Visual Lock:** Same tier as Khara/Dushana/Trishira, each with his own face and none resembling Ravana or each other. Kumbha: a giant young rakshasa, very dark grey skin, round heavy face like his father Kumbhakarna but younger, alert eyes, short moustache. Nikumbha: very dark grey skin, a long square heavy face, angry narrow eyes, thick black beard, shaven head. Prajangha: lean, long-legged, olive-brown skin, narrow face, hooked nose, thin beard. Makaraksha (Khara's son): dark reddish skin, sharp angular face, cold narrow crocodile-like eyes, no beard, crocodile-motif armour.
 **Voice:** Male, generic confident-warrior register — brief individual battle roles.
 
 ### సురస — SURASA
@@ -397,17 +397,17 @@ This is a hard production rule, not a suggestion, because getting it wrong is ex
 
 ### త్రిజట — TRIJATA
 **Role:** Elderly rakshasi guard sympathetic to Sita in Ashoka Vatika; relays a calming prophetic dream (Sundara Khaanda).
-**Visual Lock:** Elderly rakshasi, notably gentler/more sympathetic than the other guards — calmer wiser expression, slightly less monstrous features while still clearly a rakshasi, positioned protectively near Sita.
+**Visual Lock:** Elderly rakshasi, tall and sturdy, dark skin, grey hair in a large bun, a long gentle face with kind wise wrinkled eyes, notably gentler/more sympathetic than the other guards — calmer wiser expression, slightly less monstrous features while still clearly a rakshasi, positioned protectively near Sita.
 **Voice:** Female, elderly, calm, wise, protective.
 
 ### హరిజట, ఏకజట, అజముఖి — HARIJATA, EKAJATA, AJAMUKHI
 **Role:** Sita's hostile guards in Ashoka Vatika, calmed by Trijata's dream (Sundara Khaanda).
-**Visual Lock:** Hostile hungry-looking rakshasi guards, varying individual monstrous details for group distinction, aggressive predatory postures.
+**Visual Lock:** Hostile hungry-looking rakshasi guards, no two alike: Harijata tall and thin with coal-black skin and wild loose hair; Ekajata stout with slate-grey skin, a single matted lock and one fierce eye; Ajamukhi heavy with ruddy brown skin, a long goat-like face and short braids; aggressive predatory postures.
 **Voice:** Female (all three), hungry, cruel, casually violent in threats — softened only after Trijata's account.
 
 ### సుకుడు — SUKA
 **Role:** Ravana's spy assessing the vanara army; treated with mercy by Rama (Yuddha Khaanda).
-**Visual Lock:** Deliberately unremarkable rakshasa (no elaborate armor/markings), nervous calculating expression.
+**Visual Lock:** Deliberately unremarkable rakshasa (no elaborate armor/markings), small and wiry, ashy olive skin, a narrow pinched face, darting eyes and a thin moustache, nervous calculating expression.
 **Voice:** Male, nervous, pleading when caught — brief role.
 
 ---

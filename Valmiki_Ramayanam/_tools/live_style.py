@@ -42,7 +42,7 @@ GROUP_TEXT = {
                'women in fully draped sarees), each with a red kumkum mark'),
     'RISHIS': ('a group of venerable forest rishis in ochre and white robes with white beards and kamandalus, most with '
                'white Vishnu namam and some with three ash-white Shiva lines'),
-    'RAKSHASAS': ('an army of varied rakshasa soldiers in traditional dark dhotis and ornate armour, fierce but not '
+    'RAKSHASAS': ('an army of varied rakshasa soldiers in which no two faces are alike and none resembles Ravana (different ages, skin tones, builds, hair and beards, all single-headed and uncrowned), in traditional dark dhotis and ornate armour, fierce but not '
                   'horror, different builds, some with moustaches, three horizontal ash-white Shiva lines with a red '
                   'dot on the forehead'),
     'VANARAS': ('a vast army of varied vanara warriors in traditional dhotis and sashes, different fur tones and builds, '

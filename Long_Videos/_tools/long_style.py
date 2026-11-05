@@ -534,6 +534,13 @@ def clean_lock(lock):
     return re.sub(r'\s+', ' ', lock.replace('**', '')).strip()
 
 
+# every rakshasa except Ravana himself: a face of their own (Ravana's look is not to be copied)
+OWN_FACE = {'KUMBHAKARNA', 'INDRAJIT', 'KHARA', 'DUSHANA', 'TRISHIRA', 'MARICHA', 'MARICHA_YOUNG', 'AKSHAKUMARA',
+            'JAMBUMALI', 'KUMBHA', 'SUKA', 'VIRADHA', 'SUBAHU', 'AKAMPANA', 'PRAHASTA', 'ILVALA', 'VATAPI',
+            'VIBHISHANA', 'MANDODARI', 'TRIJATA', 'HARIJATA', 'SHURPANAKHA', 'TATAKA', 'AYOMUKHI', 'SIMHIKA',
+            'LANKINI', 'DHANYAMALINI'}
+
+
 def mark_for(key):
     if key in NO_MARK:
         return ''
@@ -564,6 +571,11 @@ def character(key, ep):
             lock = lock.rstrip(' .;') + f'. In this episode: {look.strip().rstrip(".")}.'
     if key in ('HANUMAN', 'SUGRIVA', 'VALI', 'TARA', 'ANGADA', 'NALA', 'NILA') and 'human-proportioned' not in lock:
         lock = f'{VANARA}; {lock}'
+    if key in OWN_FACE and 'own face' not in lock:
+        lock = lock.rstrip(' .;') + ('; her own face, build and skin tone, clearly different from every other rakshasi'
+                                     if key in WOMEN else
+                                     '; his own face, build and skin tone, never resembling Ravana (no Ravana-style crown, '
+                                     'no upturned curled moustache) and clearly different from every other rakshasa')
     mark = mark_for(key)
     name = key.replace('_', ' ').title()
     return f"{name}: {lock.rstrip(' .;')}" + (f"; {mark}" if mark else '')
