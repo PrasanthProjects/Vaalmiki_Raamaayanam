@@ -1,5 +1,6 @@
 # పురాణ ప్రశ్నలు – తాతయ్య, చిన్ని  (Quiz Shorts data)
 # SHORT <id> | <title on screen> | <book: ramayana / bharatam / bhagavatam> | <opening line: a story teaser, not "N questions">
+# The opening teaser must be answered inside the same Short (a question or an answer line says it), never left for the next Short.
 # Q <who asks: T = తాతయ్య, C = చిన్ని> | <question> | <option A> | <option B> | <option C> | <answer letter> | <source> | <one-line why> | <picture for the answer, English>
 # NEXT <who> | same 8 fields as Q: the comment question at the end of this Short; its answer opens the next Short.
 # Ask about what happens in the story, not about ślokas (first words, counts of ślokas or chapters).
@@ -8,7 +9,7 @@
 
 SHORT R01 | రామాయణం ఎలా పుట్టింది? | ramayana | ప్రపంచంలో మొట్టమొదటి కవిత… ఒక పక్షి కన్నీటి నుండి పుట్టిందని తెలుసా?
 Q C | తాతయ్యా, వాల్మీకి మహర్షికి రాముడి కథ మొదట ఎవరు చెప్పారు? | బ్రహ్మదేవుడు | నారద మహర్షి | వశిష్ఠ మహర్షి | B | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 1 | "ఈ లోకంలో గుణవంతుడు ఎవరు?" అని వాల్మీకి అడిగితే నారద మహర్షి రాముడి కథ చెప్పారు. | Narada Maharshi with his veena telling a story to Valmiki Maharshi at a forest ashram by the Tamasa river
-Q T | చిన్నీ, తమసా నది ఒడ్డున వాల్మీకి మహర్షి చూసిన పక్షుల జంట ఏది? | హంసలు | నెమళ్ళు | క్రౌంచ పక్షులు | C | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 2 | వేటగాడి బాణానికి మగ క్రౌంచ పక్షి పడిపోతే, ఆడ పక్షి ఏడుపు చూసి వాల్మీకి మనసు కరిగింది. | A pair of krauncha birds (sarus cranes) on a tree branch by a calm river at dawn, Valmiki watching with compassion
+Q T | చిన్నీ, తమసా నది ఒడ్డున వాల్మీకి మహర్షి చూసిన పక్షుల జంట ఏది? | హంసలు | నెమళ్ళు | క్రౌంచ పక్షులు | C | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 2 | వేటగాడి బాణానికి మగ క్రౌంచ పక్షి పడిపోతే, ఆడ పక్షి ఏడుపు చూసి వాల్మీకి మనసు కరిగింది — ఆ బాధలోంచే లోకంలో మొదటి కవిత పుట్టింది. | A pair of krauncha birds (sarus cranes) on a tree branch by a calm river at dawn, Valmiki watching with compassion
 Q C | రామాయణం మొత్తం ఎన్ని కాండలు? | ఐదు | ఆరు (ఉత్తరకాండతో ఏడు) | పది | B | వాల్మీకి రామాయణం | బాల, అయోధ్య, అరణ్య, కిష్కింధ, సుందర, యుద్ధ — ఆరు; ఉత్తరకాండతో కలిపి ఏడు అంటారు. | Seven palm-leaf manuscript bundles tied with red thread, glowing softly on a wooden stand
 NEXT C | దశరథ మహారాజు పిల్లల కోసం చేసిన పుత్రకామేష్టి యజ్ఞం చేయించిన మహర్షి ఎవరు? | వశిష్ఠ మహర్షి | ఋష్యశృంగ మహర్షి | విశ్వామిత్ర మహర్షి | B | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 15–16 | ఋష్యశృంగ మహర్షి చేయించిన పుత్రకామేష్టిలో అగ్ని నుండి దివ్య పురుషుడు పాయసం తెచ్చి ఇచ్చాడు. | A sacred fire ritual in a royal yajna hall, a radiant divine being rising from the fire holding a golden vessel of payasam, King Dasharatha receiving it with joined palms
 
@@ -20,7 +21,7 @@ NEXT C | రాముడికి "బల, అతిబల" విద్యల�
 
 SHORT R03 | బాలకాండ · సర్గ 23–26 | ramayana | పదహారేళ్ళు కూడా నిండని రాముడు… మొదటిసారి భయంకరమైన అడవిలో అడుగుపెట్టాడు!
 Q C | విశ్వామిత్ర మహర్షితో వెళ్తూ రామలక్ష్మణులు మొదటి రాత్రి ఏ నదుల సంగమం దగ్గర గడిపారు? | గంగ, సరయూ సంగమం | గంగ, శోణ సంగమం | తమసా నది ఒడ్డు | A | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 23 | గంగ సరయూ కలిసే చోట కామాశ్రమంలో మునులతో ఆ రాత్రి ఉన్నారు. | Two young princes and an old sage walking at sunset where two rivers meet, a small hermitage on the bank
-Q T | రాముడి చేతిలో మొదట సంహరింపబడిన రాక్షసి ఎవరు? | శూర్పణఖ | తాటక | లంకిణి | B | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 26 | విశ్వామిత్ర మహర్షి ఆజ్ఞతో, మునులను బాధించే తాటకను రాముడు సంహరించాడు. | Young Rama drawing his bow in a dark forest, a huge shadowy figure in the distance, no blood or gore
+Q T | రాముడి చేతిలో మొదట సంహరింపబడిన రాక్షసి ఎవరు? | శూర్పణఖ | తాటక | లంకిణి | B | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 26 | ఎవరూ అడుగుపెట్టలేని భయంకరమైన తాటక వనంలో, మునులను బాధించే తాటకను విశ్వామిత్ర మహర్షి ఆజ్ఞతో రాముడు సంహరించాడు. | Young Rama drawing his bow in a dark forest, a huge shadowy figure in the distance, no blood or gore
 NEXT C | తాటక సంహారం తరువాత విశ్వామిత్ర మహర్షి రాముడికి ఏమి ఇచ్చారు? | దివ్యాస్త్రాలు | బంగారు రథం | శివ ధనుస్సు | A | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 27 | సంతోషించిన విశ్వామిత్ర మహర్షి ఎన్నో దివ్యాస్త్రాలను రాముడికి ఉపదేశించారు; అవి వచ్చి రాముడికి నమస్కరించాయి. | Glowing divine weapons appearing as shining beings with joined palms before young Rama, Vishwamitra blessing him
 
 SHORT R04 | బాలకాండ · సర్గ 29–34 | ramayana | ఒక్క బాణం… ఒక రాక్షసుడిని వంద యోజనాల దూరం ఎగరగొట్టి సముద్రంలో పడేసింది!
@@ -31,7 +32,7 @@ NEXT C | శివపార్వతుల తేజస్సు నుండి
 
 SHORT R05 | బాలకాండ · సర్గ 40–44 | ramayana | అరవై వేల మంది రాకుమారులు క్షణంలో బూడిద… వాళ్ళ కోసమే ఆకాశం నుండి గంగ దిగింది!
 Q C | యజ్ఞాశ్వం కోసం భూమిని తవ్వుకుంటూ వెళ్ళిన సగర కుమారులు ఎవరి కోపానికి భస్మమయ్యారు? | కపిల మహర్షి | వశిష్ఠ మహర్షి | విశ్వామిత్ర మహర్షి | A | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 40 | అరవై వేల మంది సగర కుమారులు కపిల మహర్షిని దొంగ అనుకుని అవమానించారు. | A calm sage meditating deep under the earth beside a royal horse, a bright light around him, no harm shown
-Q T | ఆకాశం నుండి గంగను భూమికి తెచ్చిన రాజు ఎవరు? | సగర మహారాజు | దిలీప మహారాజు | భగీరథ మహారాజు | C | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 42–44 | ఎన్నో ఏళ్ళ తపస్సుతో భగీరథుడు గంగను తెచ్చాడు; అందుకే గంగకు "భాగీరథి" అని పేరు. | King Bhagiratha with joined palms as the river Ganga descends from the sky in a shining stream
+Q T | ఆకాశం నుండి గంగను భూమికి తెచ్చిన రాజు ఎవరు? | సగర మహారాజు | దిలీప మహారాజు | భగీరథ మహారాజు | C | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 42–44 | బూడిదైన తన పూర్వీకులు, సగర కుమారులకు మోక్షం కోసం భగీరథుడు ఎన్నో ఏళ్ళ తపస్సుతో గంగను తెచ్చాడు; అందుకే గంగకు "భాగీరథి" అని పేరు. | King Bhagiratha with joined palms as the river Ganga descends from the sky in a shining stream
 NEXT C | ఆకాశం నుండి దూకిన గంగను తన జటాజూటంలో పట్టుకున్నది ఎవరు? | శివుడు | బ్రహ్మదేవుడు | ఇంద్రుడు | A | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 43 | గంగ వేగానికి భూమి తట్టుకోలేదని, శివుడు ఆమెను తన జటలలో పట్టుకుని మెల్లగా వదిలారు. | Lord Shiva standing on the Himalayas catching the descending Ganga in his matted hair, calm and majestic
 
 SHORT R06 | బాలకాండ · సర్గ 45–51 | ramayana | దేవతలు, రాక్షసులు కలిసి సముద్రాన్ని చిలికారు… కానీ మొదట వచ్చింది అమృతం కాదు!
@@ -45,8 +46,8 @@ Q C | శరీరంతోనే స్వర్గానికి పంపమ
 Q T | విశ్వామిత్రుడి తపస్సు భంగం చేయడానికి వచ్చి, శాపంతో రాయిగా మారిన అప్సరస ఎవరు? | రంభ | మేనక | ఘృతాచి | A | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 64 | కోపంతో శపించిన తరువాత, కోపాన్ని కూడా గెలవాలని విశ్వామిత్రుడు ఇంకా గొప్ప తపస్సు చేశాడు. | A celestial dancer frozen into a glowing stone statue in a forest, the sage Vishwamitra turning away in deep thought
 NEXT C | "బ్రహ్మర్షి" అని ఎవరి నోటి నుండి వినాలని విశ్వామిత్రుడు కోరుకున్నాడు? | వశిష్ఠ మహర్షి | బ్రహ్మదేవుడు | ఇంద్రుడు | A | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 65 | బ్రహ్మదేవుడు వరం ఇచ్చినా, వశిష్ఠ మహర్షి "బ్రహ్మర్షి" అని పిలిచాకే విశ్వామిత్రుడు తృప్తి పడ్డాడు. | The sage Vasishtha embracing the sage Vishwamitra with respect, devas showering flowers from the sky
 
-SHORT R08 | బాలకాండ · సర్గ 66–67 | ramayana | ఎంతో మంది రాజులు కదపలేకపోయిన విల్లు… మిథిలలో ఆ రోజు ఏం జరిగింది?
-Q T | శివ ధనుస్సు జనక మహారాజు ఇంటికి ఎలా వచ్చింది? | పరశురాముడు ఇచ్చాడు | విశ్వామిత్ర మహర్షి తెచ్చారు | దేవతలు జనకుడి పూర్వీకుడు దేవరాతుడి దగ్గర దాచారు | C | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 66 | శివుడు దేవతలకు ఇచ్చిన ఆ విల్లును దేవతలు జనకుడి వంశంలో దేవరాత మహారాజు దగ్గర దాచి ఉంచారు. | A huge divine bow glowing on a decorated altar in King Janaka's palace, devas in the clouds above blessing it
+SHORT R08 | బాలకాండ · సర్గ 66–67 | ramayana | ఎంతో మంది రాజులు కదపలేకపోయిన విల్లు… అది జనక మహారాజు ఇంటికి ఎలా వచ్చింది?
+Q T | శివ ధనుస్సు జనక మహారాజు ఇంటికి ఎలా వచ్చింది? | పరశురాముడు ఇచ్చాడు | విశ్వామిత్ర మహర్షి తెచ్చారు | దేవతలు జనకుడి పూర్వీకుడు దేవరాతుడి దగ్గర దాచారు | C | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 66 | శివుడు దేవతలకు ఇచ్చిన ఆ విల్లును దేవతలు జనకుడి వంశంలో దేవరాత మహారాజు దగ్గర దాచి ఉంచారు; ఎంతో మంది రాజులు వచ్చి దాన్ని ఎత్తలేక వెళ్ళిపోయారు. | A huge divine bow glowing on a decorated altar in King Janaka's palace, devas in the clouds above blessing it
 Q C | జనక మహారాజుకు సీతమ్మ ఎలా దొరికింది? | నది ఒడ్డున | యజ్ఞం కోసం భూమి దున్నుతుంటే నాగటి చాలులో | అడవిలో | B | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 66 | నాగటి చాలు నుండి వచ్చింది కనుకనే "సీత" అని పేరు. | King Janaka ploughing a field with a golden plough, a radiant baby girl rising from the furrow
 Q T | శివ ధనుస్సు ఉన్న ఇనుప పెట్టెను ఎంతమంది లాక్కొచ్చారు? | వంద మంది | వెయ్యి మంది | ఐదు వేల మంది | C | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 67 | ఎనిమిది చక్రాల ఆ పెట్టెను ఐదు వేల మంది బలశాలులు అతి కష్టం మీద లాక్కొచ్చారు. | Thousands of strong men pulling a giant eight-wheeled iron chest into a grand royal court
 NEXT C | రాముడు శివ ధనుస్సు ఎక్కుపెడితే ఏమైంది? | విల్లు వంగింది | విల్లు మధ్యలో విరిగిపోయింది | విల్లు మాయమైంది | B | వాల్మీకి రామాయణం, బాలకాండ, సర్గ 67 | పిడుగు లాంటి శబ్దంతో విల్లు విరిగింది, భూమి కంపించింది. | Rama lifting and bending a giant divine bow, the bow cracking in the middle with a flash of light
