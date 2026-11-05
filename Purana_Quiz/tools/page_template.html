@@ -50,6 +50,11 @@ section { margin-top: 26px; }
 .sec { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
 .sec .n { width: 28px; height: 28px; border-radius: 50%; background: var(--ink); color: var(--bg); display: grid; place-items: center; font-weight: 700; font-size: 14px; flex: none; }
 .sec h3 { margin: 0; font-size: 19px; }
+.sec.sub { margin: 18px 0 6px; }
+.qcard.prev { border-style: dashed; }
+.qcard.next { border: 2px solid var(--act); }
+.sec.sub h3 { font-size: 17px; }
+.line .say b { font-size: 13px; font-weight: 600; opacity: .75; }
 .hint { color: var(--muted); font-size: 14px; margin: -4px 0 10px; }
 
 /* quiz cards */
@@ -162,12 +167,21 @@ details.tld summary { cursor: pointer; color: var(--muted); font-size: 14px; mar
   $('next').onclick = function () { go(cur + 1); };
   $('castBtn').onclick = function () { cast = !cast; render(); };
 
+  function voiceSnips() {
+    return '<p class="hint">' + esc(D.voiceHow) + '</p><div class="snips">'
+      + D.voices.map(function (v) {
+        return snip(v.name + ' గొంతు — వివరణ', v.en + ' పేరుతో సేవ్ చేయండి', v.desc, '<span class="tag best">Prompt</span>')
+          + snip(v.name + ' గొంతు — తెలుగు శాంపిల్', 'Text to preview · సెట్టింగ్‌లు: ' + v.sets, v.sample);
+      }).join('') + '</div>';
+  }
+
   function render() {
     TEXTS = []; fillPick(); $('castBtn').setAttribute('aria-pressed', cast);
     if (cast) {
       $('jump').innerHTML = '';
       $('panel').innerHTML = '<div class="head"><h2>పాత్రలు</h2><p class="hint">ఈ రెండు పాత్రలు అన్ని Shorts లోనూ ఒకేలా ఉండాలి. ఒక్కసారి రిఫరెన్స్ ఇమేజ్ చేసి సేవ్ చేయండి; ప్రతి ఇమేజ్ ప్రాంప్ట్‌తో వాటిని జత చేయండి.</p></div><div class="snips">'
-        + D.cast.map(function (c) { return snip(c.name, c.key + '.png గా సేవ్ చేయండి', c.prompt); }).join('') + '</div>';
+        + D.cast.map(function (c) { return snip(c.name, c.key + '.png గా సేవ్ చేయండి', c.prompt); }).join('') + '</div>'
+        + '<div class="sec sub"><h3>🔊 గొంతులు</h3></div>' + voiceSnips();
       return;
     }
     var s = D.shorts[cur], dub = store.get('done-' + s.id);
@@ -177,33 +191,51 @@ details.tld summary { cursor: pointer; color: var(--muted); font-size: 14px; mar
       + '<h2>' + esc(s.id + ' · ' + s.title) + '</h2>'
       + '<label class="done"><input type="checkbox" id="doneBox"' + (dub ? ' checked' : '') + '> ఈ Short పూర్తైంది</label></div>';
 
-    h += '<section id="sec-q"><div class="sec"><span class="n">1</span><h3>ప్రశ్నలు, జవాబులు</h3></div><p class="hint">తెరపై కార్డులు ఇలా రావాలి. ✓ ఉన్నది జవాబు; కింద మూలం.</p><div class="qs">'
+    function qcard(q, top, who) {
+      return '<div class="qcard"><div class="qtop"><span>' + top + '</span><span>' + who + '</span></div>'
+        + '<div class="q">' + esc(q.q) + '</div><div class="opts">'
+        + q.opts.map(function (o, k) { return '<div class="opt' + ('ABC'[k] === q.ans ? ' right' : '') + '"><i>' + 'ABC'[k] + '</i><span>' + esc(o) + '</span></div>'; }).join('')
+        + '</div><div class="why">' + esc(q.why) + '</div><div class="src">మూలం: ' + esc(q.src) + '</div></div>';
+    }
+    h += '<section id="sec-q"><div class="sec"><span class="n">1</span><h3>ప్రశ్నలు, జవాబులు</h3></div><p class="hint">తెరపై కార్డులు ఇలా రావాలి. ✓ ఉన్నది జవాబు; కింద మూలం. Shorts ఈ వరుసలోనే అప్‌లోడ్ చేయండి — చివరి కామెంట్ ప్రశ్న జవాబు తరువాతి Short మొదట్లో వస్తుంది.</p><div class="qs">'
+      + (s.prev ? qcard(s.prev, '⏮ మొదట: గత ప్రశ్న జవాబు', s.prevId + ' లో అడిగింది · తాతయ్య చెబుతారు').replace('qcard', 'qcard prev') : '')
       + s.qs.map(function (q, i) {
         return '<div class="qcard"><div class="qtop"><span>ప్రశ్న ' + (i + 1) + ' / ' + s.qs.length + '</span><span>' + (q.who === 'T' ? 'తాతయ్య' : 'చిన్ని') + ' అడుగుతారు</span></div>'
           + '<div class="q">' + esc(q.q) + '</div><div class="opts">'
           + q.opts.map(function (o, k) { return '<div class="opt' + ('ABC'[k] === q.ans ? ' right' : '') + '"><i>' + 'ABC'[k] + '</i><span>' + esc(o) + '</span></div>'; }).join('')
           + '</div><div class="why">' + esc(q.why) + '</div><div class="src">మూలం: ' + esc(q.src) + '</div></div>';
-      }).join('') + '</div>'
-      + '<details class="tld"><summary>సెకను వారీ టైమ్‌లైన్ చూడండి</summary><div class="tl"><table><tr><th>సమయం</th><th>భాగం</th><th>ఎవరు</th><th>తెరపై</th></tr>'
+      }).join('')
+      + (s.next ? qcard(s.next, '💬 చివర: కామెంట్ ప్రశ్న', 'జవాబు తెరపై చెప్పకూడదు — తరువాతి Short లో').replace('qcard', 'qcard next') : '')
+      + '</div><details class="tld"><summary>సెకను వారీ టైమ్‌లైన్ చూడండి</summary><div class="tl"><table><tr><th>సమయం</th><th>భాగం</th><th>ఎవరు</th><th>తెరపై</th></tr>'
       + s.rows.map(function (r) { return '<tr><td>' + esc(r.t) + '</td><td>' + esc(r.part) + '</td><td>' + esc(r.who || '–') + '</td><td>' + esc(r.screen).replace(/\n/g, '<br>') + '</td></tr>'; }).join('')
       + '</table></div></details></section>';
 
     var lines = s.rows.filter(function (r) { return r.who && r.say; });
     h += '<section id="sec-v"><div class="sec"><span class="n">2</span><h3>వాయిస్</h3></div><p class="hint">తాతయ్య, చిన్ని గొంతులు వేర్వేరు. ఒక్కో లైన్‌ను ఆ గొంతుతో జనరేట్ చేయండి — వరుసగా కాపీ చేస్తూ వెళ్ళండి.</p>'
+      + '<details class="tld"><summary>🎙️ తాతయ్య, చిన్ని గొంతులు తయారు చేయడం (ఒక్కసారే)</summary>' + voiceSnips() + '</details>'
       + '<div class="allbar">' + cpBtn(s.voice, 'అన్ని లైన్లు కాపీ') + '</div><div class="lines">'
       + lines.map(function (r) { return '<div class="line"><span class="who' + (r.who === 'చిన్ని' ? ' c' : '') + '">' + esc(r.who) + '</span><span class="say">' + esc(r.say) + '</span>' + cpBtn(r.say) + '</div>'; }).join('')
       + '</div></section>';
 
     h += '<section id="sec-p"><div class="sec"><span class="n">3</span><h3>చిత్రాలు</h3></div><p class="hint">ఆప్షన్ కార్డులు, కౌంట్‌డౌన్, మూలం టెక్స్ట్ ఎడిటర్‌లో పెట్టండి — AI చిత్రాల్లో అక్షరాలు వద్దు.</p><div class="snips">'
-      + snip('తాతయ్య, చిన్ని — ఇమేజ్', 'అన్ని ప్రశ్నలకూ ఇదే ఇమేజ్ వాడవచ్చు', s.pres)
-      + snip('తాతయ్య, చిన్ని — వీడియో', 'పై ఇమేజ్‌ను మొదటి ఫ్రేమ్‌గా పెట్టండి (మాట్లాడుతున్నట్టు)', s.presVideo, '<span class="tag best">ఇది మంచిది</span>')
+      + snip('తాతయ్య మాట్లాడుతూ — ఇమేజ్', 'తాతయ్య లైన్లకు ఇదే (చిన్ని నోరు మూసి వింటుంది)', s.pres.T, '<span class="tag best">తప్పనిసరి</span>')
+      + snip('చిన్ని మాట్లాడుతూ — ఇమేజ్', 'చిన్ని లైన్లకు ఇదే (తాతయ్య నోరు మూసి వింటారు)', s.pres.C, '<span class="tag best">తప్పనిసరి</span>')
+      + '</div><div class="sec sub"><h3>👄 లిప్‌సింక్ క్లిప్‌లు</h3></div><p class="hint">' + esc(s.lipHow) + '</p><div class="lines">'
+      + s.lips.map(function (l) { return '<div class="line"><span class="who' + (l.frame === 'C' ? ' c' : '') + '">' + esc(l.who) + '</span><span class="say"><b>' + esc(l.t + ' · ' + l.part + ' · ' + l.who + ' మాట్లాడుతూ ఇమేజ్ · ' + l.d + ' సె.') + '</b><br>' + esc(l.say) + '</span>' + cpBtn(l.say) + '</div>'; }).join('')
+      + '</div><div class="snips">'
+      + snip('తాతయ్య మాట్లాడుతూ — వీడియో', 'ఆడియో పెట్టలేని వీడియో టూల్ అయితే మాత్రమే (నోరు ఆడియోకి సరిగ్గా సరిపోదు)', s.talk.T)
+      + snip('చిన్ని మాట్లాడుతూ — వీడియో', 'ఆడియో పెట్టలేని వీడియో టూల్ అయితే మాత్రమే', s.talk.C)
       + s.answers.map(function (a, i) {
-        return snip('జవాబు ' + (i + 1) + ' — ఇమేజ్', s.qs[i] ? s.qs[i].opts['ABC'.indexOf(s.qs[i].ans)] : '', a.img, '<span class="tag best">ఇది చాలు</span>')
-          + snip('జవాబు ' + (i + 1) + ' — వీడియో', 'కావాలంటే మాత్రమే: పై ఇమేజ్ మొదటి ఫ్రేమ్‌గా', a.vid);
+        var q = a.label.indexOf('గత') === 0 ? s.prev : s.qs[+a.label.split(' ')[1] - 1];
+        return snip(a.label + ' — ఇమేజ్', q ? q.opts['ABC'.indexOf(q.ans)] : '', a.img, '<span class="tag best">ఇది చాలు</span>')
+          + snip(a.label + ' — వీడియో', 'కావాలంటే మాత్రమే: పై ఇమేజ్ మొదటి ఫ్రేమ్‌గా', a.vid);
       }).join('') + '</div></section>';
 
     h += '<section id="sec-u"><div class="sec"><span class="n">4</span><h3>అప్‌లోడ్</h3></div><div class="snips">'
-      + snip('టైటిల్', '', s.ytitle) + snip('వివరణ', 'మూలాలు, హ్యాష్‌ట్యాగ్‌లతో', s.desc) + '</div></section>';
+      + snip('టైటిల్', '', s.ytitle) + snip('వివరణ', 'మూలాలు, కామెంట్ ప్రశ్న, హ్యాష్‌ట్యాగ్‌లతో', s.desc)
+      + (s.pin ? snip('📌 పిన్ కామెంట్', 'అప్‌లోడ్ అయిన వెంటనే కామెంట్ చేసి Pin చేయండి', s.pin, '<span class="tag best">ముఖ్యం</span>')
+        + snip('✅ జవాబు రిప్లై', 'తరువాతి Short వచ్చాక, పిన్ కామెంట్ కింద రిప్లై; <లింక్> దగ్గర ఆ Short లింక్', s.reveal) : '')
+      + '</div></section>';
     $('panel').innerHTML = h;
     $('doneBox').onchange = function () { store.set('done-' + s.id, this.checked ? '1' : ''); fillPick(); };
   }
