@@ -92,7 +92,33 @@ section { margin-top: 26px; }
 .line .who.c { color: var(--act); }
 .line .say { flex: 1; min-width: 0; font-size: 15px; }
 .line .cp { min-width: 0; padding: 7px 12px; font-size: 14px; }
-.allbar { display: flex; justify-content: flex-end; margin-bottom: 8px; }
+.allbar { display: flex; justify-content: flex-end; gap: 8px; flex-wrap: wrap; margin-bottom: 8px; }
+/* shot list */
+.shots { display: grid; gap: 10px; }
+.shot { background: var(--card); border: 1px solid var(--line); border-left: 5px solid var(--line); border-radius: 14px; padding: 12px; display: grid; gap: 8px; }
+.shot.k-lip { border-left-color: var(--act); }
+.shot.k-vo { border-left-color: var(--ok); }
+.shot .sh { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; font-size: 13px; color: var(--muted); }
+.shot .num { width: 30px; height: 30px; border-radius: 50%; background: var(--ink); color: var(--bg); display: grid; place-items: center; font-weight: 700; font-size: 14px; flex: none; }
+.shot .part { color: var(--ink); font-weight: 700; font-size: 15px; }
+.chip { display: inline-block; border-radius: 999px; padding: 2px 10px; font-size: 12px; font-weight: 700; background: var(--tag); color: var(--ink); }
+.chip.one { background: #FDEBD0; color: #8A5300; }
+.chip.two { background: var(--ok-soft); color: var(--ok); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .chip.one { background: #3A2A10; color: #F0B860; } }
+:root[data-theme="dark"] .chip.one { background: #3A2A10; color: #F0B860; }
+.kv { display: grid; grid-template-columns: 64px minmax(0, 1fr); gap: 4px 8px; font-size: 14px; margin: 0; }
+.kv dt { color: var(--muted); }
+.kv dd { margin: 0; word-break: break-word; }
+.kv code { font: 600 13px/1.5 var(--body); background: var(--sunk); border: 1px solid var(--line); border-radius: 6px; padding: 0 6px; }
+.shot .say { background: var(--sunk); border-radius: 10px; padding: 8px 10px; font-size: 16px; display: flex; gap: 10px; align-items: center; }
+.shot .say span { flex: 1; min-width: 0; }
+.shot .say .cp { min-width: 0; padding: 7px 12px; font-size: 14px; }
+.legend { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; font-size: 13px; color: var(--muted); margin-bottom: 10px; }
+.steps { margin: 0 0 12px; padding-left: 22px; font-size: 14px; color: var(--muted); }
+.steps li { margin: 3px 0; }
+.group { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 12px; display: grid; gap: 10px; }
+.group h4 { margin: 0; font-size: 16px; }
+.group h4 small { display: block; font-weight: 400; color: var(--muted); font-size: 13px; }
 
 /* timeline */
 .tl { background: var(--card); border: 1px solid var(--line); border-radius: 14px; overflow-x: auto; }
@@ -115,7 +141,7 @@ details.tld summary { cursor: pointer; color: var(--muted); font-size: 14px; mar
       <button class="step" id="prev" aria-label="ముందు Short">‹</button>
       <select id="pick" aria-label="Short ఎంచుకోండి"></select>
       <button class="step" id="next" aria-label="తరువాతి Short">›</button>
-      <button class="cast" id="castBtn" aria-pressed="false">పాత్రలు</button>
+      <button class="cast" id="castBtn" aria-pressed="false">పాత్రలు ⭐</button>
     </div>
     <nav class="jump" id="jump" aria-label="ఈ Short లో"></nav>
   </div>
@@ -179,18 +205,29 @@ details.tld summary { cursor: pointer; color: var(--muted); font-size: 14px; mar
     TEXTS = []; fillPick(); $('castBtn').setAttribute('aria-pressed', cast);
     if (cast) {
       $('jump').innerHTML = '';
-      $('panel').innerHTML = '<div class="head"><h2>పాత్రలు</h2><p class="hint">ఈ రెండు పాత్రలు అన్ని Shorts లోనూ ఒకేలా ఉండాలి. ఒక్కసారి రిఫరెన్స్ ఇమేజ్ చేసి సేవ్ చేయండి; ప్రతి ఇమేజ్ ప్రాంప్ట్‌తో వాటిని జత చేయండి.</p></div><div class="snips">'
-        + D.cast.map(function (c) { return snip(c.name, c.key + '.png గా సేవ్ చేయండి', c.prompt); }).join('') + '</div>'
-        + '<div class="sec sub"><h3>🎥 అన్ని Shorts కీ ఒకే క్లిప్</h3></div><p class="hint">ఒక్కొక్కరికి ఒక ఇమేజ్, దానితో 10 సెకన్ల మాట్లాడే క్లిప్ (చిన్న నోటి కదలికలు, చిన్న కదలికలు మాత్రమే, మొదలు–చివర ఒకటే కాబట్టి లూప్ అవుతుంది). ఒక్కసారి చేసి సేవ్ చేయండి; ఆ వ్యక్తి మాట్లాడే ప్రతి లైన్‌కూ ఎడిటర్‌లో ఇదే క్లిప్‌ను లైన్ ఉన్నంత సేపు లూప్ చేయండి. నోరు ఆడియోకి సరిగ్గా సరిపోవాలంటే ఇదే ఇమేజ్‌ను లిప్‌సింక్ టూల్‌లో వాడండి.</p><div class="snips">'
+      var USE = { hook: 'Short మొదటి లైన్ (హుక్) కి', talk: 'మిగతా లైన్లు అన్నిటికీ' };
+      function trio(title, sub, key, start, end, vid, tag) {
+        return '<div class="group"><h4>' + esc(title) + '<small>' + esc(sub) + '</small></h4>'
+          + snip('మొదటి ఇమేజ్ (start frame)', key + '_start.png', start, tag)
+          + snip('చివరి ఇమేజ్ (end frame)', key + '_end.png', end, tag)
+          + snip('వీడియో (రెండు ఇమేజ్‌లు జత చేసి)', key + '.mp4', vid, tag) + '</div>';
+      }
+      $('panel').innerHTML = '<div class="head"><h2>పాత్రలు – ఒక్కసారే చేయాల్సినవి</h2><p class="hint">ఇవి అన్ని Shorts లోనూ అదే. ఇక్కడి పేర్లతో సేవ్ చేయండి – ప్రతి Short షాట్ లిస్ట్ ఈ పేర్లనే అడుగుతుంది. అన్ని ఇమేజ్‌లలో ముఖం నేరుగా కెమెరా వైపు, స్పష్టమైన నవ్వుతో.</p></div>'
+        + '<div class="sec"><span class="n">1</span><h3>రిఫరెన్స్ షీట్లు</h3></div><p class="hint">ముందు ఇవి చేయండి; తరువాతి ఇమేజ్‌లన్నిటికీ వీటిని రిఫరెన్స్‌గా జత చేయండి – ముఖాలు మారవు.</p><div class="snips">'
+        + D.cast.map(function (c) { return snip(c.name + ' – రిఫరెన్స్', c.key + '.png', c.prompt); }).join('') + '</div>'
+        + '<div class="sec sub"><span class="n">2</span><h3>👤 ఒక్కరే – మాట్లాడే షాట్లు (లిప్‌సింక్)</h3></div><p class="hint">వీడియోలో ఒక్కరే ఉంటారు, కాబట్టి లిప్‌సింక్ ఆ నోరే కదుపుతుంది. మొదటి, చివరి ఇమేజ్ చేసి, ElevenLabs వీడియోలో రెండూ జత చేయండి.</p><div class="snips">'
         + D.cast.map(function (c) {
-          return snip(c.name + ' ఒక్కరే — ఇమేజ్', c.key + '_talk.png గా సేవ్ చేయండి', c.soloImg, '<span class="tag best">ఒక్కసారి</span>')
-            + snip(c.name + ' ఒక్కరే — మాట్లాడే క్లిప్', 'పై ఇమేజ్ మొదటి ఫ్రేమ్‌గా; ' + c.key + '_talk.mp4 గా సేవ్ చేసి అన్ని Shorts లో వాడండి', c.soloVid, '<span class="tag best">ఒక్కసారి</span>');
+          return c.shots.map(function (x) {
+            return trio(c.name + ' – ' + (x.kind === 'hook' ? 'హుక్' : 'మాట్లాడుతూ'), USE[x.kind], c.key + '_' + x.kind, x.start, x.end, x.vid, '<span class="tag best">ఒక్కరే</span>');
+          }).join('');
         }).join('') + '</div>'
-        + '<div class="sec sub"><h3>🔊 గొంతులు</h3></div>' + voiceSnips();
+        + '<div class="sec sub"><span class="n">3</span><h3>👥 ఇద్దరూ – మాటలు లేని చోట్ల</h3></div><p class="hint">తెరపై ఎవరూ మాట్లాడని చోట్ల మాత్రమే (నోళ్ళు మూసి) – లిప్‌సింక్ అక్కర్లేదు, ఆడియో మీద పెడితే చాలు.</p><div class="snips">'
+        + D.both.map(function (b) { return trio(b.label, b.key + ' – ఇద్దరూ', b.key, b.start, b.end, b.vid, '<span class="tag">ఇద్దరూ</span>'); }).join('') + '</div>'
+        + '<div class="sec sub"><span class="n">4</span><h3>🔊 గొంతులు</h3></div>' + voiceSnips();
       return;
     }
     var s = D.shorts[cur], dub = store.get('done-' + s.id);
-    $('jump').innerHTML = [['q', '1 ప్రశ్నలు'], ['v', '2 వాయిస్'], ['p', '3 చిత్రాలు'], ['u', '4 అప్‌లోడ్']]
+    $('jump').innerHTML = [['q', '1 ప్రశ్నలు'], ['v', '2 షాట్ లిస్ట్'], ['p', '3 జవాబు చిత్రాలు'], ['u', '4 అప్‌లోడ్']]
       .map(function (x) { return '<a href="#sec-' + x[0] + '">' + x[1] + '</a>'; }).join('');
     var h = '<div class="head"><div class="meta"><b>' + esc(s.book) + '</b><span>' + s.qs.length + ' ప్రశ్నలు</span><span>సుమారు ' + esc(s.len) + '</span><span>నిలువు 9:16</span></div>'
       + '<h2>' + esc(s.id + ' · ' + s.title) + '</h2>'
@@ -215,25 +252,30 @@ details.tld summary { cursor: pointer; color: var(--muted); font-size: 14px; mar
       + s.rows.map(function (r) { return '<tr><td>' + esc(r.t) + '</td><td>' + esc(r.part) + '</td><td>' + esc(r.who || '–') + '</td><td>' + esc(r.screen).replace(/\n/g, '<br>') + '</td></tr>'; }).join('')
       + '</table></div></details></section>';
 
-    var lines = s.rows.filter(function (r) { return r.who && r.say; });
-    h += '<section id="sec-v"><div class="sec"><span class="n">2</span><h3>వాయిస్</h3></div><p class="hint">తాతయ్య, చిన్ని గొంతులు వేర్వేరు. ఒక్కో లైన్‌ను ఆ గొంతుతో జనరేట్ చేయండి — వరుసగా కాపీ చేస్తూ వెళ్ళండి.</p>'
-      + '<details class="tld"><summary>🎙️ తాతయ్య, చిన్ని గొంతులు తయారు చేయడం (ఒక్కసారే)</summary>' + voiceSnips() + '</details>'
-      + '<div class="allbar">' + cpBtn(s.voice, 'అన్ని లైన్లు కాపీ') + '</div><div class="lines">'
-      + lines.map(function (r) { return '<div class="line"><span class="who' + (r.who === 'చిన్ని' ? ' c' : '') + '">' + esc(r.who) + '</span><span class="say">' + esc(r.say) + '</span>' + cpBtn(r.say) + '</div>'; }).join('')
-      + '</div></section>';
+    var DO = { lip: '👄 లిప్‌సింక్', vo: '🔊 ఆడియో మాత్రమే', none: '⏱️ మాటలు లేవు' };
+    var CH = { 'ఒక్కరే': 'one', 'ఇద్దరూ': 'two', 'చిత్రం': '' };
+    h += '<section id="sec-v"><div class="sec"><span class="n">2</span><h3>షాట్ లిస్ట్ – వరుసగా</h3></div>'
+      + '<ol class="steps"><li>పాత్రలు ⭐ పేజీలోని ఇమేజ్‌లు, 6 వీడియోలు ఒక్కసారి చేసి ఉంచండి.</li><li>ElevenLabs: కింది బటన్లతో తాతయ్య లైన్లు, చిన్ని లైన్లు వేరుగా కాపీ చేసి, ఒక్కో లైన్ నంబర్‌తో సేవ్ చేయండి (ఉదా: 03_chinni.mp3).</li><li>👄 షాట్: ఆ ఒక్కరి వీడియో + ఆ ఆడియో → లిప్‌సింక్.</li><li>🔊 షాట్: ఇద్దరి వీడియో / జవాబు వీడియో మీద ఆడియో మాత్రమే.</li><li>ఎడిటర్‌లో నంబర్ వరుసలో పెట్టి, "తెరపై" టెక్స్ట్ పెట్టండి.</li></ol>'
+      + '<div class="allbar">' + cpBtn(s.byVoice.T, 'తాతయ్య లైన్లు అన్నీ') + cpBtn(s.byVoice.C, 'చిన్ని లైన్లు అన్నీ') + '</div>'
+      + '<div class="legend"><span class="chip one">ఒక్కరే</span> మాట్లాడేవారు మాత్రమే తెరపై · <span class="chip two">ఇద్దరూ</span> నోళ్ళు మూసి · <span class="chip">చిత్రం</span> జవాబు చిత్రం</div><div class="shots">'
+      + s.shots.map(function (x) {
+        return '<div class="shot k-' + x.kind + '"><div class="sh"><span class="num">' + x.n + '</span><span class="part">' + esc(x.part) + '</span>'
+          + '<span class="chip ' + CH[x.cast] + '">' + esc(x.cast) + '</span><span>' + esc(x.t) + ' · ' + x.d + ' సె.</span></div>'
+          + '<dl class="kv"><dt>ఇమేజ్</dt><dd><code>' + esc(x.img) + '</code></dd><dt>వీడియో</dt><dd>' + esc(x.vid) + '</dd>'
+          + '<dt>గొంతు</dt><dd>' + DO[x.kind] + (x.who ? ' – <b>' + esc(x.who) + '</b>' + (x.file ? ' · <code>' + esc(x.file) + '</code>' : '') : '') + '</dd>'
+          + '<dt>తెరపై</dt><dd>' + esc(x.screen).replace(/\n/g, '<br>') + '</dd></dl>'
+          + (x.say ? '<div class="say"><span>' + esc(x.say) + '</span>' + cpBtn(x.say) + '</div>' : '')
+          + '</div>';
+      }).join('') + '</div>'
+      + '<details class="tld"><summary>🎙️ గొంతులు ఇంకా చేయలేదా? (ఒక్కసారే)</summary>' + voiceSnips() + '</details></section>';
 
-    h += '<section id="sec-p"><div class="sec"><span class="n">3</span><h3>చిత్రాలు</h3></div><p class="hint">ఆప్షన్ కార్డులు, కౌంట్‌డౌన్, మూలం టెక్స్ట్ ఎడిటర్‌లో పెట్టండి — AI చిత్రాల్లో అక్షరాలు వద్దు.</p><div class="snips">'
-      + snip('తాతయ్య మాట్లాడుతూ — ఇమేజ్', 'తాతయ్య లైన్లకు ఇదే (చిన్ని నోరు మూసి వింటుంది)', s.pres.T, '<span class="tag best">తప్పనిసరి</span>')
-      + snip('చిన్ని మాట్లాడుతూ — ఇమేజ్', 'చిన్ని లైన్లకు ఇదే (తాతయ్య నోరు మూసి వింటారు)', s.pres.C, '<span class="tag best">తప్పనిసరి</span>')
-      + '</div><div class="sec sub"><h3>👄 లిప్‌సింక్ క్లిప్‌లు</h3></div><p class="hint">' + esc(s.lipHow) + '</p><div class="lines">'
-      + s.lips.map(function (l) { return '<div class="line"><span class="who' + (l.frame === 'C' ? ' c' : '') + '">' + esc(l.who) + '</span><span class="say"><b>' + esc(l.t + ' · ' + l.part + ' · ' + l.who + ' మాట్లాడుతూ ఇమేజ్ · ' + l.d + ' సె.') + '</b><br>' + esc(l.say) + '</span>' + cpBtn(l.say) + '</div>'; }).join('')
-      + '</div><div class="snips">'
-      + snip('తాతయ్య మాట్లాడుతూ — వీడియో', 'ఆడియో పెట్టలేని వీడియో టూల్ అయితే మాత్రమే (నోరు ఆడియోకి సరిగ్గా సరిపోదు)', s.talk.T)
-      + snip('చిన్ని మాట్లాడుతూ — వీడియో', 'ఆడియో పెట్టలేని వీడియో టూల్ అయితే మాత్రమే', s.talk.C)
-      + s.answers.map(function (a, i) {
+    h += '<section id="sec-p"><div class="sec"><span class="n">3</span><h3>ఈ Short జవాబు చిత్రాలు</h3></div><p class="hint">ప్రతి జవాబుకు మొదటి, చివరి ఇమేజ్ – ElevenLabs వీడియోలో రెండూ జత చేయండి. చిత్రాల్లో అక్షరాలు వద్దు – కార్డులు ఎడిటర్‌లో.</p><div class="snips">'
+      + s.answers.map(function (a) {
         var q = a.label.indexOf('గత') === 0 ? s.prev : s.qs[+a.label.split(' ')[1] - 1];
-        return snip(a.label + ' — ఇమేజ్', q ? q.opts['ABC'.indexOf(q.ans)] : '', a.img, '<span class="tag best">ఇది చాలు</span>')
-          + snip(a.label + ' — వీడియో', 'కావాలంటే మాత్రమే: పై ఇమేజ్ మొదటి ఫ్రేమ్‌గా', a.vid);
+        return '<div class="group"><h4>' + esc(a.label) + '<small>' + esc(q ? q.opts['ABC'.indexOf(q.ans)] : '') + '</small></h4>'
+          + snip('మొదటి ఇమేజ్ (start frame)', '', a.img, '<span class="tag best">ఇమేజ్</span>')
+          + snip('చివరి ఇమేజ్ (end frame)', '', a.end, '<span class="tag best">ఇమేజ్</span>')
+          + snip('వీడియో (రెండు ఇమేజ్‌లు జత చేసి)', '', a.vid) + '</div>';
       }).join('') + '</div></section>';
 
     h += '<section id="sec-u"><div class="sec"><span class="n">4</span><h3>అప్‌లోడ్</h3></div><div class="snips">'

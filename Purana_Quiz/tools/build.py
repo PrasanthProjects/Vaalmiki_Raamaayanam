@@ -145,63 +145,93 @@ def timeline(s, n):
     return rows, t
 
 
-SPEAKER = {'T': ('the grandfather', 'Chinni'), 'C': ('Chinni', 'the grandfather')}
+KEY = {'T': 'TATAYYA', 'C': 'CHINNI'}
+FRONT = ('Facing the camera straight on and looking directly into the lens: a full front view of the face, no side '
+         'or profile view, eyes clear and bright, a clear happy expression and a warm natural smile. ')
+ONE = ('Only this one person in the whole image: no other people, no second face, no reflections or posters of '
+       'faces, so a lip-sync tool can only animate this face. ')
+# (start frame, end frame, the motion between them) for every common shot; the end frame always closes the mouth
+SOLO = {
+    ('TATAYYA', 'hook'): (
+        'leaning a little forward with a twinkle in his eyes, one finger raised as if about to share a wonderful '
+        'secret, eyebrows lifted, smiling, mouth slightly open',
+        'sitting back relaxed with the finger lowered, a big warm smile, mouth closed, eyes twinkling',
+        'he tells the secret with small natural mouth movements and a lively face, then sits back smiling'),
+    ('TATAYYA', 'talk'): (
+        'sitting relaxed, hands resting on his lap, a gentle smile, mouth slightly open as if speaking',
+        'the same relaxed pose, a slightly wider kind smile, a small nod, mouth closed',
+        'he talks calmly with small natural mouth movements, soft blinks and one small hand gesture'),
+    ('CHINNI', 'hook'): (
+        'leaning towards the camera with wide excited eyes, both hands raised near her face in wonder, a big bright '
+        'smile, mouth slightly open',
+        'hands lowered and clasped happily, a big bright smile, mouth closed, eyes sparkling',
+        'she speaks excitedly with small natural mouth movements, then clasps her hands and smiles'),
+    ('CHINNI', 'talk'): (
+        'sitting up straight holding her tablet on her lap, a bright smile, mouth slightly open as if speaking',
+        'the same pose with a small happy head tilt, a bright smile, mouth closed',
+        'she talks brightly with small natural mouth movements, soft blinks and one small hand gesture'),
+}
+BOTH = {
+    'think': ('both look at the camera with thoughtful smiles as if solving a puzzle, the grandfather stroking his '
+              'beard, Chinni with a finger on her chin',
+              'both smile broadly at the camera with bright "I know it!" faces, Chinni raising one finger',
+              'both think for a moment, then their faces light up with a smile'),
+    'wave': ('both smile at the camera and wave, Chinni pointing down as if saying "write in the comments"',
+             'both smile at the camera with joined palms in a namaste',
+             'both wave happily, Chinni points down once, then both join their palms in a namaste'),
+}
 
 
-def presenters_prompt(who):
-    """One start frame per speaker: the speaker turned a little toward the camera, face clear and well lit, mouth
-    slightly open; the listener's mouth closed. Lip-sync tools animate the face that is clearest, so this matters."""
-    sp, ls = SPEAKER[who]
-    return (STYLE + f'Setting: {SET}. ' + 'Characters (keep exactly this look in every Short): '
-            + ' '.join(f'{v[1]}.' for v in CAST.values())
-            + f' Moment: medium two-shot, the two sit together on the swing; {sp} is speaking, face turned three-quarters '
-              f'toward the camera, clearly lit, mouth slightly open, a small hand gesture; {ls} listens with a curious '
-              f'smile, lips closed, looking at {sp}. Both faces fully visible, nothing covering the mouths. ' + RESPECT)
+def solo_frame(key, kind, end=False):
+    """Start or end picture for one character alone: front view, one face only, for lip sync."""
+    pose = SOLO[(key, kind)][1 if end else 0]
+    return (STYLE + f'Setting: {SET}. Medium close-up, {CAST[key][1]}. Sitting alone on the swing, {pose}. ' + FRONT
+            + 'Face large and evenly lit, the lamp glowing softly behind, background softly blurred. ' + ONE + RESPECT)
 
 
-def solo_prompt(key):
-    """One reusable talking frame per character, alone on the swing, for every Short."""
-    return (STYLE + f'Setting: {SET}. Medium close-up of one character only: {CAST[key][1]}. Sitting on the swing, '
-            'facing the camera three-quarters, face clear and evenly lit, mouth slightly open as if speaking, a calm '
-            'friendly expression, hands resting naturally on the lap. Soft blurred background. ' + RESPECT)
+def solo_clip(key, kind):
+    who = 'The grandfather' if key == 'TATAYYA' else 'Chinni'
+    return (f'Animate from the attached start frame to the attached end frame as one continuous 10 second vertical '
+            f'shot: {who} faces the camera the whole time; {SOLO[(key, kind)][2]}. Small, slow, natural movements, soft '
+            'blinks, the swing sways only a little, the lamp flame flickers. The face and clothes stay exactly the '
+            'same, the face never turns sideways, the camera does not move, no cuts. Audio: none.')
 
 
-def solo_video(key):
-    """One reusable talking loop per character: small mouth movement, small natural motion, starts and ends the same."""
-    who = 'the grandfather' if key == 'TATAYYA' else 'Chinni'
-    extra = ('a slow gentle nod and a warm smile, one small hand gesture' if key == 'TATAYYA'
-             else 'a small lively head tilt and a bright smile, one small hand gesture')
-    return (f'Animate the attached start frame as one continuous 10 second vertical shot that can loop: {who} is '
-            f'talking calmly with small, natural mouth movements, soft blinks, {extra}, the shoulders breathing '
-            'softly; the swing sways only a little, the lamp flame flickers. Movements stay small and slow, the face '
-            'and clothes stay exactly the same, the camera does not move, no cuts, and the last frame matches the '
-            'first so the clip loops smoothly. Audio: none.')
+def both_frame(mood, end=False):
+    """Start or end picture with both on the swing, for moments with no speech on screen (mouths closed)."""
+    return (STYLE + f'Setting: {SET}. Characters (keep exactly this look): ' + ' '.join(f'{v[1]}.' for v in CAST.values())
+            + f' Medium two-shot, the two sit together on the swing; {BOTH[mood][1 if end else 0]}. Both mouths closed. '
+            + FRONT.replace('the face', 'both faces') + RESPECT)
 
 
-def talk_prompt(who):
-    """For video tools that add lip movement themselves (no audio input): only the speaker's lips move."""
-    sp, ls = SPEAKER[who]
-    return (f'Animate the attached start frame as one continuous vertical shot, as long as the voice line: only {sp} '
-            f'talks, with clear natural lip movement, blinks and a small hand gesture; {ls} keeps the lips closed, '
-            'listens, smiles and nods slightly. The swing sways very gently, the lamp flame flickers. Same faces and '
-            'clothes, the camera stays still, no cuts. Audio: soft ambient only.')
+def both_clip(mood):
+    return (f'Animate from the attached start frame to the attached end frame as one continuous 8 second vertical '
+            f'shot: {BOTH[mood][2]}. Both face the camera the whole time and keep their mouths closed (no talking), '
+            'soft blinks, the swing sways gently, the lamp flame flickers. Small slow movements, same faces and '
+            'clothes, the camera does not move, no cuts. Audio: none.')
 
 
 def answer_prompt(pic):
-    return STYLE + f'A devotional illustration: {pic}. ' + RESPECT
+    return STYLE + f'A devotional illustration: {pic}. Faces clear and front-facing where shown, calm and gentle. ' + RESPECT
+
+
+def answer_end(pic):
+    return (STYLE + f'The same devotional illustration as the start frame: {pic}. The same figures in the same places, '
+            'seen a little closer, the light warmer and brighter like a soft divine glow, faces calm and smiling. ' + RESPECT)
 
 
 def video_prompt(d):
-    return (f'Animate the attached start frame as one continuous {d} second vertical shot: slow, gentle movement only — a '
-            'soft push-in, light and cloth moving gently; the figures keep exactly the same look and stay in place; '
-            'no sudden moves, no cuts. ' + RESPECT + ' Audio: soft ambient only.')
+    return (f'Animate from the attached start frame to the attached end frame as one continuous {d} second vertical '
+            'shot: a slow, gentle push-in, light and cloth moving softly; the figures keep exactly the same look and '
+            'stay in place; no sudden moves, no cuts. ' + RESPECT + ' Audio: soft ambient only.')
 
 
-LIPSYNC = ('లిప్‌సింక్ సరిగ్గా రావాలంటే: (1) ముందు ElevenLabs లో ఒక్కో లైన్ వాయిస్ ఫైల్ చేయండి. (2) మాట్లాడేవారి ఇమేజ్ '
-           '(తాతయ్య మాట్లాడుతూ / చిన్ని మాట్లాడుతూ) తీసుకోండి. (3) లిప్‌సింక్ టూల్‌లో (Kling "Lip Sync", Hedra, HeyGen, '
-           'Runway లాంటివి) ఆ ఇమేజ్ + ఆ లైన్ ఆడియో పెట్టండి — నోరు ఆడియోకి సరిగ్గా కదులుతుంది. ఒక క్లిప్‌లో ఒక్కరే '
-           'మాట్లాడాలి; టూల్ ముఖం అడిగితే మాట్లాడేవారి ముఖం ఎంచుకోండి. ఆప్షన్లు, జవాబు లైన్లు కార్డు/చిత్రం మీద '
-           'వాయిస్ మాత్రమే — వాటికి లిప్‌సింక్ అక్కర్లేదు.')
+LIPSYNC = ('ఒక్కసారి: పాత్రలు పేజీలోని మొదటి/చివరి ఇమేజ్‌లతో ElevenLabs లో 6 వీడియోలు చేసి ఉంచండి (TATAYYA_hook.mp4, '
+           'TATAYYA_talk.mp4, CHINNI_hook.mp4, CHINNI_talk.mp4, BOTH_think.mp4, BOTH_wave.mp4). ప్రతి Short కి: (1) ప్రతి లైన్‌ను '
+           'ఆ గొంతుతో ElevenLabs లో చేసి, నంబర్‌తో సేవ్ చేయండి (ఉదా: 03_chinni.mp3). (2) 👄 షాట్: ఆ ఒక్కరి వీడియో + ఆ ఆడియో '
+           'లిప్‌సింక్ టూల్‌లో (ElevenLabs / Kling Lip Sync / Hedra / HeyGen) – వీడియోలో ఒక్కరే ఉంటారు కాబట్టి ఆ నోరే కదులుతుంది; '
+           'లైన్ వీడియో కంటే పొడవైతే వీడియోను ఎడిటర్‌లో కొంచెం నెమ్మది చేయండి. (3) 🔊 షాట్: ఇద్దరి వీడియో / జవాబు వీడియో మీద '
+           'ఆడియో మాత్రమే. (4) ఎడిటర్‌లో నంబర్ వరుసలో పెట్టి, కార్డుల టెక్స్ట్ పెట్టండి.')
 
 
 def kit(s, n):
@@ -232,33 +262,49 @@ def kit(s, n):
         md.append(f"| మొదట | తాతయ్య (గత ప్రశ్న, {s['prev_id']} నుండి) | {p['q']} | **{p['ans']}) {p['opts']['ABC'.index(p['ans'])]}** | {p['src']} |")
     if x:
         md.append(f"| చివర 💬 | {WHO[x['who']]} (కామెంట్ ప్రశ్న — జవాబు తరువాతి Short లో) | {x['q']} | **{x['ans']}) {x['opts']['ABC'.index(x['ans'])]}** | {x['src']} |")
-    md += ['', '## టైమ్‌లైన్', '', '| సమయం | భాగం | ఎవరు | మాట | తెరపై | దృశ్యం |', '|---|---|---|---|---|---|']
-    for t, d, part, who, say, screen, vis in rows:
-        shown = 'తాతయ్య, చిన్ని ఊయల మీద' if vis == 'presenters' else 'ప్రశ్న కార్డు + 3 ఆప్షన్లు' if vis == 'options' else 'జవాబు చిత్రం'
-        md.append(f"| {mmss(t)}–{mmss(t + d)} | {part} | {WHO.get(who, '–')} | {say or '–'} | {screen.replace(chr(10), ' · ')} | {shown} |")
-    lips = [{'t': f'{mmss(r[0])}–{mmss(r[0] + r[1])}', 'part': r[2], 'who': WHO[r[3]], 'frame': r[3], 'say': r[4], 'd': r[1]}
-            for r in rows if r[6] == 'presenters' and r[3]]
+    # the shot list: one clip per line, each with the one picture it needs and whether it is lip-synced
+    shots, pi = [], 0
+    for i, (t, d, part, who, say, screen, vis) in enumerate(rows, 1):
+        if vis == 'presenters':          # someone speaks on screen: only that person in the picture, lip-synced
+            base = f"{KEY[who]}_{'hook' if part == 'హుక్' else 'talk'}"
+            img = f'{base}_start.png → {base}_end.png'
+            kind, cast, vid = 'lip', 'ఒక్కరే', f'{base}.mp4 (ఒక్కసారి చేసినది) + ఈ ఆడియో → లిప్‌సింక్ → {i:02d}.mp4'
+        elif vis == 'options':           # card on screen, nobody talks on screen: both, mouths closed
+            mood = 'wave' if part == 'కామెంట్ ఆప్షన్లు' else 'think'
+            img = f'BOTH_{mood}_start.png → BOTH_{mood}_end.png, పైన ఆప్షన్ కార్డు'
+            kind, cast, vid = 'vo' if say else 'none', 'ఇద్దరూ', f'BOTH_{mood}.mp4 (ఒక్కసారి చేసినది), లిప్‌సింక్ వద్దు'
+        else:                            # the answer: the story picture with the voice over it
+            img = f'{labels[pi]} చిత్రం'
+            img = f'{labels[pi]} – మొదటి → చివరి ఇమేజ్'
+            kind, cast, vid = 'vo', 'చిత్రం', f'{labels[pi]} వీడియో (మొదటి → చివరి ఇమేజ్‌లతో), లిప్‌సింక్ వద్దు'
+            pi += 1
+        shots.append({'n': i, 't': f'{mmss(t)}–{mmss(t + d)}', 'd': d, 'part': part, 'who': WHO.get(who, ''),
+                      'key': KEY.get(who, ''), 'say': say, 'img': img, 'vid': vid, 'cast': cast, 'kind': kind,
+                      'screen': screen, 'file': f"{i:02d}_{KEY[who].lower()}.mp3" if who else ''})
+    DO = {'lip': '👄 లిప్‌సింక్', 'vo': '🔊 ఆడియో మాత్రమే', 'none': '⏱️ మాటలు లేవు – టిక్ టిక్ శబ్దం'}
+    md += ['', '## 🎬 షాట్ లిస్ట్ (వరుసగా)', '', LIPSYNC, '',
+           '| # | సమయం | భాగం | తెరపై ఎవరు | ఇమేజ్ | వీడియో | గొంతు | లైన్ (ElevenLabs) | ఆడియో ఫైల్ |',
+           '|---|---|---|---|---|---|---|---|---|']
+    md += [f"| {x_['n']} | {x_['t']} | {x_['part']} | {x_['cast']} | {x_['img']} | {x_['vid']} | {DO[x_['kind']]}"
+           f"{' – ' + x_['who'] if x_['who'] else ''} | {x_['say'] or '–'} | {x_['file'] or '–'} |" for x_ in shots]
     md += ['', '## 🔊 వాయిస్ (రెండు గొంతులు)', '', VOICE_HOW, '']
     for k, (name, desc_, sample, sets) in VOICE_DESIGN.items():
         md += [f'### {CAST[k][0]} గొంతు ({name})', '', '```text', desc_, '```', '', '```text', sample, '```', '', f'సెట్టింగ్‌లు: {sets}', '']
-    md += ['### లైన్లు', '', '```text', voice, '```', '', '## 👄 లిప్‌సింక్', '', LIPSYNC, '',
-           '| సమయం | భాగం | ఎవరు మాట్లాడతారు | ఇమేజ్ | లైన్ |', '|---|---|---|---|---|']
-    md += [f"| {l['t']} | {l['part']} | {l['who']} | {l['who']} మాట్లాడుతూ | {l['say']} |" for l in lips]
-    md += ['', '## 🖼️ ఇమేజ్ / 🎥 వీడియో ప్రాంప్ట్‌లు', '',
-           '**సూచన:** తాతయ్య–చిన్ని రెండు ఇమేజ్‌లు ఒక్కసారి చేస్తే అన్ని ప్రశ్నలకూ సరిపోతాయి. జవాబు చిత్రాలు 🖼️ ఇమేజ్ + నెమ్మది జూమ్ చాలు. ఆప్షన్ కార్డులు ఎడిటర్‌లో టెక్స్ట్‌తో చేయండి.', '']
-    for k in 'TC':
-        md += [f'### {WHO[k]} మాట్లాడుతూ — ఇమేజ్', '', '```text', presenters_prompt(k), '```', '',
-               f'### {WHO[k]} మాట్లాడుతూ — వీడియో (ఆడియో పెట్టలేని టూల్ అయితే మాత్రమే)', '', '```text', talk_prompt(k), '```', '']
+    md += ['', '## 🖼️ జవాబు చిత్రాలు', '',
+           '**తాతయ్య, చిన్ని, ఇద్దరి ఇమేజ్‌లు, వీడియోలు ఒక్కసారే చేయాలి – పాత్రలు పేజీలో.** '
+           'ఇక్కడ ఈ Short కి మాత్రమే కావలసిన జవాబు చిత్రాలు. ఆప్షన్ కార్డులు ఎడిటర్‌లో టెక్స్ట్‌తో చేయండి.', '']
     for lab, r in zip(labels, pics):
-        md += [f'### {lab} చిత్రం', '', '```text', answer_prompt(r[6]), '```', '', '```text', video_prompt(r[1]), '```', '']
+        md += [f'### {lab} – మొదటి ఇమేజ్', '', '```text', answer_prompt(r[6]), '```', '', f'### {lab} – చివరి ఇమేజ్', '',
+               '```text', answer_end(r[6]), '```', '', f'### {lab} – వీడియో', '', '```text', video_prompt(r[1]), '```', '']
     md += ['## 📤 అప్‌లోడ్', '', '```text', title, '```', '', '```text', desc, '```', '']
     if x:
         md += ['### 📌 పిన్ కామెంట్ (అప్‌లోడ్ అయిన వెంటనే)', '', '```text', pin, '```', '',
                '### ✅ జవాబు రిప్లై (తరువాతి Short వచ్చాక, పిన్ కామెంట్ కింద)', '', '```text', reveal, '```', '']
     page = {'id': s['id'], 'title': s['title'], 'book': BOOK[s['book']], 'len': mmss(total), 'voice': voice, 'ytitle': title,
-            'desc': desc, 'qs': s['qs'], 'lips': lips, 'lipHow': LIPSYNC,
-            'pres': {k: presenters_prompt(k) for k in 'TC'}, 'talk': {k: talk_prompt(k) for k in 'TC'},
-            'answers': [{'label': lab, 'img': answer_prompt(r[6]), 'vid': video_prompt(r[1])} for lab, r in zip(labels, pics)],
+            'desc': desc, 'qs': s['qs'], 'shots': shots, 'lipHow': LIPSYNC,
+            'byVoice': {k: '\n'.join(f"{x_['n']:02d}. {x_['say']}" for x_ in shots if x_['key'] == KEY[k]) for k in 'TC'},
+            'answers': [{'label': lab, 'img': answer_prompt(r[6]), 'end': answer_end(r[6]), 'vid': video_prompt(r[1])}
+                        for lab, r in zip(labels, pics)],
             'prev': p, 'prevId': s['prev_id'], 'next': x, 'pin': pin, 'reveal': reveal,
             'rows': [{'t': f'{mmss(t)}–{mmss(t + d)}', 'part': part, 'who': WHO.get(who, ''), 'say': say, 'screen': screen}
                      for t, d, part, who, say, screen, vis in rows]}
@@ -275,10 +321,13 @@ def main():
         pages.append(page)
     cast = [{'key': k, 'name': v[0], 'prompt': STYLE + f'Character reference sheet on a plain light background: {v[1]}. '
              'Front view, side view and three-quarter view, full body, consistent look. ' + RESPECT,
-             'soloImg': solo_prompt(k), 'soloVid': solo_video(k)} for k, v in CAST.items()]
+             'shots': [{'kind': kd, 'start': solo_frame(k, kd), 'end': solo_frame(k, kd, True), 'vid': solo_clip(k, kd)}
+                       for kd in ('hook', 'talk')]} for k, v in CAST.items()]
     tpl = open(os.path.join(ROOT, 'tools', 'page_template.html'), encoding='utf-8').read()
     voices = [{'name': CAST[k][0], 'en': v[0], 'desc': v[1], 'sample': v[2], 'sets': v[3]} for k, v in VOICE_DESIGN.items()]
-    blob = json.dumps({'shorts': pages, 'cast': cast, 'voices': voices, 'voiceHow': VOICE_HOW}, ensure_ascii=False).replace('</', '<\\/')
+    both = [{'key': f'BOTH_{m}', 'label': lab, 'start': both_frame(m), 'end': both_frame(m, True), 'vid': both_clip(m)}
+            for m, lab in (('think', 'ఇద్దరూ ఆలోచిస్తూ – ఆప్షన్లు, కౌంట్‌డౌన్ కింద'), ('wave', 'ఇద్దరూ చేయి ఊపుతూ – కామెంట్ ప్రశ్న ఆప్షన్ల కింద'))]
+    blob = json.dumps({'shorts': pages, 'cast': cast, 'both': both, 'voices': voices, 'voiceHow': VOICE_HOW}, ensure_ascii=False).replace('</', '<\\/')
     os.makedirs(os.path.join(ROOT, 'tools', 'publish'), exist_ok=True)
     open(os.path.join(ROOT, 'tools', 'publish', 'quiz.html'), 'w', encoding='utf-8', newline='\n').write(tpl.replace('__DATA__', blob))
     print(f'{len(shorts)} Shorts, {sum(len(s["qs"]) for s in shorts)} questions')
