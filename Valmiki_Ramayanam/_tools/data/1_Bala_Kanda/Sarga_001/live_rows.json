@@ -3511,11 +3511,11 @@
 "Orange fire glow."
 ],
 [
-"RAVANA, MARICHA",
-"Ravana standing at the entrance to Maricha's cave.",
+"RAVANA, MARICHA, MARICHA_ASHRAM",
+"Ravana arriving at Maricha's simple leaf hut on the lonely sea shore, Maricha coming out to meet him (outdoors, no throne, no palace).",
 "He steps inside, motion slows.",
 "Slow tracking.",
-"Dark moody light, soft flash."
+"Evening light by the sea, soft flash."
 ]
 ],
 "kinds": [
@@ -3541,15 +3541,15 @@
 "50": {
 "rows": [
 [
-"MARICHA, RAVANA",
-"Maricha raising his hands to stop Ravana.",
+"MARICHA, RAVANA, MARICHA_ASHRAM",
+"Maricha raising his hands to stop Ravana outside his leaf hut on the sea shore (outdoors, no throne, no palace).",
 "He waves his hands, warning.",
 "Slow push-in.",
-"Dim cave light."
+"Soft evening light by the sea, dark clouds gathering."
 ],
 [
-"MARICHA",
-"Maricha's hermitage by the sea.",
+"MARICHA, MARICHA_ASHRAM",
+"Maricha's hermitage by the sea: Maricha alone outside his leaf hut.",
 "Waves crash on rocks.",
 "Slow aerial glide.",
 "Moody blue light."
@@ -3562,18 +3562,18 @@
 "Golden flashback glow."
 ],
 [
-"RAVANA",
-"Ravana demanding help.",
+"RAVANA, MARICHA_ASHRAM",
+"Ravana demanding help, standing on the sea shore by the leaf hut (outdoors, no throne, no palace).",
 "He points at Maricha commandingly.",
 "Slow push-in.",
-"Dark red light."
+"Soft evening light by the sea, dark clouds gathering."
 ],
 [
-"MARICHA",
-"Maricha pleading.",
+"MARICHA, MARICHA_ASHRAM",
+"Maricha pleading outside his leaf hut (outdoors, no throne, no palace).",
 "He joins his hands.",
 "Slow side dolly.",
-"Dim light."
+"Soft evening light by the sea, dark clouds gathering."
 ],
 [
 "",
@@ -3583,11 +3583,11 @@
 "Soft light."
 ],
 [
-"RAVANA",
-"Ravana turning away dismissively.",
+"RAVANA, MARICHA_ASHRAM",
+"Ravana turning away dismissively on the sea shore, his golden flying chariot waiting behind (outdoors, no throne, no palace).",
 "He turns his back, motion slows.",
 "Slow push-in.",
-"Red glow, soft flash."
+"Evening light by the sea, soft flash."
 ]
 ],
 "kinds": [
@@ -3614,39 +3614,39 @@
 "51": {
 "rows": [
 [
-"RAVANA_TEN, RAVANA_COURT",
-"Ravana on his throne with a dark shadowy figure of death looming behind him.",
+"RAVANA, MARICHA_ASHRAM",
+"Ravana standing outside Maricha's leaf hut on the sea shore, a dark shadowy figure of death looming behind him (outdoors, no throne, no palace).",
 "The shadow leans closer to Ravana, who does not notice.",
 "Slow push-in.",
-"Dark red-black light, smoke."
+"Dark evening light by the sea, smoke-like shadow."
 ],
 [
-"MARICHA, RAVANA_TEN",
-"Maricha warning Ravana, hands raised.",
+"MARICHA, RAVANA, MARICHA_ASHRAM",
+"Maricha warning Ravana, hands raised, outside his leaf hut on the sea shore (outdoors, no throne, no palace).",
 "Maricha speaks urgently, Ravana sneers.",
 "Slow orbit.",
-"Dim cave light."
+"Soft evening light by the sea, dark clouds gathering."
 ],
 [
-"RAVANA_TEN",
-"Ravana waving away the warning.",
+"RAVANA, MARICHA_ASHRAM",
+"Ravana waving away the warning on the sea shore (outdoors, no throne, no palace).",
 "He brushes the advice aside with a sweep of his arms.",
 "Slow push-in.",
-"Red glow."
+"Soft evening light by the sea, dark clouds gathering."
 ],
 [
-"MARICHA",
-"Maricha looking down, defeated and afraid.",
+"MARICHA, MARICHA_ASHRAM",
+"Maricha looking down, defeated and afraid, outside his leaf hut (outdoors, no throne, no palace).",
 "He lowers his head.",
 "Slow push-in.",
 "Cold blue light."
 ],
 [
-"RAVANA",
-"Ravana laughing arrogantly.",
-"His heads tilt back in laughter.",
+"RAVANA, MARICHA_ASHRAM",
+"Ravana laughing arrogantly on the sea shore (outdoors, no throne, no palace).",
+"His head tilts back in laughter.",
 "Slow low-angle orbit.",
-"Red-gold palace light."
+"Soft evening light by the sea, dark clouds gathering."
 ],
 [
 "",

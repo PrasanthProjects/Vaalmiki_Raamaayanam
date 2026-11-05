@@ -3,7 +3,7 @@
 2 | HANUMAN, BRAHMA | A faint vision of Brahma blessing Hanuman, glowing above him. | Golden light falls on Hanuman's ropes. | Slow upward tilt. | Divine golden glow.
 3 | HANUMAN | Close-up of Hanuman's calm smile. | His eyes glint cleverly. | Slow push-in. | Golden rim light.
 4 | HANUMAN | The ropes loosening by themselves around Hanuman, yet he keeps them on. | The ropes slacken, he holds them in place. | Slow macro push-in. | Soft golden glow.
-5 | RAVANA | Ravana's grand court in Lanka with a golden throne. | Courtiers turn as Hanuman is brought in. | Slow push-in. | Opulent gold and red light.
+5 | RAVANA_TEN | Ten-headed Ravana on his golden throne in his grand court in Lanka. | Courtiers turn as Hanuman is brought in. | Slow push-in. | Opulent gold and red light.
 6 | - | Symbolic shot: a calm chess piece moving forward on a board. | The piece slides forward. | Slow push-in. | Dramatic side light.
 7 | HANUMAN | Rakshasas setting fire to Hanuman's tail. | The tail catches fire, motion slows. | Slow push-in. | Orange fire glow, soft flash.
 
@@ -44,9 +44,9 @@
 7 | VANARAS | The vanara army crossing the bridge. | They march forward, motion slows. | Slow aerial tracking. | Golden light, soft flash.
 
 ### 81
-1 | RAMA_S4, RAVANA | Rama releasing a glowing divine arrow at Ravana. | The arrow speeds toward Ravana. | Slow tracking. | Brilliant golden light.
+1 | RAMA_S4, RAVANA_TEN | Rama releasing a glowing divine arrow at ten-headed Ravana on the battlefield. | The arrow speeds toward Ravana. | Slow tracking. | Brilliant golden light.
 2 | RAMA_S4 | Rama on the battlefield of Lanka. | He stands firm. | Slow orbit. | Dramatic red sky.
-3 | RAVANA | Ravana falling (no gore). | He falls heavily. | Slow tilt down. | Dust and fire glow.
+3 | RAVANA_TEN | Ten-headed Ravana falling on the battlefield (no gore). | He falls heavily. | Slow tilt down. | Dust and fire glow.
 4 | SITA_S4 | Sita walking toward Rama. | She walks slowly. | Slow push-in. | Soft light.
 5 | RAMA_S4 | Rama's face showing hesitation. | He looks down thoughtfully. | Slow push-in. | Moody light.
 6 | - | Symbolic shot: a heavy crown on a pedestal. | Light falls on it. | Slow push-in. | Golden glow.

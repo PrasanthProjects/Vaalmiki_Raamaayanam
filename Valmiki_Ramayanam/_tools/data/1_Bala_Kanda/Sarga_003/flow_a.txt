@@ -173,7 +173,7 @@
 1 | GOLDEN_DEER, PANCHAVATI | A shimmering golden deer with silver spots near the leaf hut. | It lifts its head and leaps gracefully. | Slow push-in. | Magical golden light.
 2 | RAMA_ARANYA, KHARA, TRISHIRA, JANASTHANA | Rama battling Khara and Trishira on the Janasthana field. | Rama releases a glowing arrow. | Slow low-angle orbit. | Dramatic golden light, dust.
 3 | RAVANA_TEN, RAVANA_COURT | Ten-headed Ravana rising from his throne in anger. | He stands and clenches his fists. | Slow low-angle push-in. | Red fiery light.
-4 | MARICHA, RAVANA_TEN | Ravana and Maricha speaking at Maricha's simple hermitage by the sea. | Maricha shakes his head, Ravana points threateningly. | Slow side dolly. | Dim moody light.
+4 | MARICHA, RAVANA, MARICHA_ASHRAM | Ravana and Maricha speaking outside Maricha's simple leaf hut on the sea shore (outdoors, no throne, no palace). | Maricha shakes his head, Ravana points threateningly. | Slow side dolly. | Dim moody light.
 5 | RAVANA_SANYASI, SITA_ARANYA, PANCHAVATI | Ravana disguised as a sanyasi approaching Sita at the hut. | He walks forward holding a staff and water pot. | Slow tracking shot. | Shadowy light.
 6 | - | Symbolic shot: a beautiful golden mask cracking to reveal darkness behind it. | The mask cracks slowly. | Slow push-in. | Golden light turning dark.
 7 | RAMA_ARANYA, PANCHAVATI | Rama standing before the empty leaf hut, stunned with grief. | He drops his bow to his side, motion slows. | Slow push-in. | Grey light, soft flash.

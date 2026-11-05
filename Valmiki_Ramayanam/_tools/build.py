@@ -186,7 +186,7 @@ MOTION_WORDS = ('leap', 'fly', 'flies', 'flying', 'descend', 'arrow', 'running',
                 'battle', 'swing', 'crash', 'pierc', 'burn', 'gallop', 'dive', 'ascend', 'emerg', 'transform',
                 'storm', 'lightning', 'throw', 'hurl', 'flick', 'roar', 'rising', 'rises', 'glides', 'flow')
 # Shots AI video handles badly (crowds, many arms or heads): always a still image.
-STILL_ONLY = {'RAVANA', 'KHARA', 'KABANDHA'} | GROUPS
+STILL_ONLY = {'RAVANA', 'KHARA', 'KABANDHA', 'MARICHA_ASHRAM', 'RAVANA_COURT'} | GROUPS
 STILL_ONLY |= {'RAVANA_TEN', 'KHARA_SOLO', 'RAKSHASA_ARMY', 'VANARA_ARMY', 'AYODHYA_PEOPLE', 'RISHIS_GROUP'} | set(LS.GROUP_TEXT)
 
 

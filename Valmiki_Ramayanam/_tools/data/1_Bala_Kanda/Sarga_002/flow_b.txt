@@ -102,7 +102,7 @@
 2 | RAMA_ARANYA, LAKSHMANA_ARANYA, SITA_ARANYA | Rama, Lakshmana and Sita standing at a forest hermitage. | Sita smiles, Rama looks ahead. | Slow side dolly. | Warm light.
 3 | RAMA_ARANYA, LAKSHMANA_ARANYA | Rama and Lakshmana with bows in a forest clearing. | They stand alert. | Slow orbit. | Golden light.
 4 | SITA_ARANYA | Sita in the forest near a flowering tree. | She looks up gently. | Slow push-in. | Soft warm light.
-5 | RAVANA_TEN | Ten-headed Ravana on his throne in shadow. | — | Slow push-in. | Dark red dramatic light.
+5 | RAVANA_TEN, RAVANA_COURT | Ten-headed Ravana on his throne in his court, in shadow. | — | Slow push-in. | Dark red dramatic light.
 6 | RAMA_ARANYA, RAVANA_TEN | Split image: Rama on one side, ten-headed Ravana on the other. | — | Slow push-in. | Blue-gold versus dark red light.
 7 | VALMIKI, TAMASA_ASHRAM | Valmiki thinking deeply, a faint question in his eyes. | He looks up, motion slows. | Slow push-in. | Soft light, soft flash.
 

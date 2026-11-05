@@ -208,17 +208,17 @@
 ### 49
 1 | - | A quiet battlefield at dusk. | Smoke drifts over the empty field. | Slow aerial glide. | Red-orange dusk light.
 2 | RAMA_S3 | Rama standing calmly on the empty battlefield. | Wind moves his hair. | Slow push-in. | Golden dusk light.
-3 | RAVANA | Ravana on his throne in Lanka, enraged. | He clenches his fists, eyes blazing. | Slow push-in. | Dark red-gold palace light.
-4 | RAVANA | Ravana standing up from his throne in anger. | He rises furiously. | Slow low-angle push-in. | Fiery red glow.
-5 | RAVANA | Close-up of Ravana's furious faces. | His eyes flash with rage. | Slow orbit. | Red light, smoke.
+3 | RAVANA_TEN | Ten-headed Ravana seated on his golden throne in his royal court in Lanka, enraged. | He clenches his fists, eyes blazing. | Slow push-in. | Dark red-gold palace light.
+4 | RAVANA_TEN | Ten-headed Ravana standing up from his throne in his royal court, in anger. | He rises furiously. | Slow low-angle push-in. | Fiery red glow.
+5 | RAVANA | Close-up of Ravana's furious face. | His eyes flash with rage. | Slow orbit. | Red light, smoke.
 6 | - | Symbolic shot: a fire consuming the wood it burns from. | The flames grow and devour. | Slow push-in. | Orange fire glow.
-7 | RAVANA, MARICHA | Ravana standing at the entrance to Maricha's cave. | He steps inside, motion slows. | Slow tracking. | Dark moody light, soft flash.
+7 | RAVANA, MARICHA | Ravana arriving at Maricha's simple leaf hut on the lonely sea shore, Maricha coming out to meet him (outdoors, no throne, no palace). | He walks up to the hut, motion slows. | Slow tracking. | Evening light by the sea, soft flash.
 
 ### 50
-1 | MARICHA, RAVANA | Maricha raising his hands to stop Ravana. | He waves his hands, warning. | Slow push-in. | Dim cave light.
+1 | MARICHA, RAVANA | Maricha raising his hands to stop Ravana outside his leaf hut on the sea shore (outdoors, no throne, no palace). | He waves his hands, warning. | Slow push-in. | Soft evening light by the sea.
 2 | MARICHA | Maricha's hermitage by the sea. | Waves crash on rocks. | Slow aerial glide. | Moody blue light.
 3 | MARICHA | Maricha remembering Rama's arrow in a flashback. | He flinches at the memory. | Slow push-in. | Golden flashback glow.
-4 | RAVANA | Ravana demanding help. | He points at Maricha commandingly. | Slow push-in. | Dark red light.
+4 | RAVANA | Ravana demanding help, standing on the sea shore by a leaf hut (outdoors, no throne, no palace). | He points ahead commandingly. | Slow push-in. | Evening light, dark clouds.
 5 | MARICHA | Maricha pleading. | He joins his hands. | Slow side dolly. | Dim light.
 6 | - | Symbolic shot: a hand stopping a falling stone. | The hand catches the stone. | Slow macro push-in. | Soft light.
-7 | RAVANA | Ravana turning away dismissively. | He turns his back, motion slows. | Slow push-in. | Red glow, soft flash.
+7 | RAVANA | Ravana turning away dismissively on the sea shore, his golden flying chariot waiting behind (outdoors, no throne, no palace). | He turns his back, motion slows. | Slow push-in. | Evening light by the sea, soft flash.
