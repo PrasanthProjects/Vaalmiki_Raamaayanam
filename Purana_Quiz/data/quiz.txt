@@ -2,6 +2,7 @@
 # SHORT <id> | <title on screen> | <book: ramayana / bharatam / bhagavatam>
 # Q <who asks: T = తాతయ్య, C = చిన్ని> | <question> | <option A> | <option B> | <option C> | <answer letter> | <source> | <one-line why> | <picture for the answer, English>
 # NEXT <who> | same 8 fields as Q: the comment question at the end of this Short; its answer opens the next Short.
+# Ask about what happens in the story, not about ślokas (first words, counts of ślokas or chapters).
 # Wrong options come from the same story (its people, places, things), never from another book or outside.
 # Every answer must be checkable at the source given. Valmiki references are kaanda + sarga; Bharatam = parva; Bhagavatam = skandha.
 
@@ -68,7 +69,7 @@ Q C | యుద్ధం వద్దని, పాండవులు చివ�
 NEXT C | భగవద్గీత ఎక్కడ, ఎవరికి చెప్పబడింది? | ద్వారకలో బలరాముడికి | కురుక్షేత్రంలో అర్జునుడికి | హస్తినాపురంలో భీష్ముడికి | B | మహాభారతం, భీష్మపర్వం | యుద్ధభూమిలో రథం మీద శ్రీకృష్ణుడు అర్జునుడికి గీత ఉపదేశించాడు. | Lord Krishna on a chariot between two armies teaching a kneeling Arjuna, divine light around Krishna
 
 SHORT M04 | భగవద్గీత | bharatam
-Q T | భగవద్గీతలో ఎన్ని అధ్యాయాలు ఉన్నాయి? | 12 | 18 | 24 | B | మహాభారతం, భీష్మపర్వం | 18 అధ్యాయాలు, సుమారు 700 శ్లోకాలు. | An open book of the Bhagavad Gita glowing on a stand beside a flute and a peacock feather
+Q T | యుద్ధభూమిలో అర్జునుడు విల్లు కింద పెట్టి "యుద్ధం చేయను" అని ఎందుకు అన్నాడు? | అలసిపోయి | ఎదురుగా తన తాతలు, గురువులు, బంధువులు ఉన్నారని బాధతో | శ్రీకృష్ణుడు వద్దన్నాడని | B | మహాభారతం, భీష్మపర్వం (భగవద్గీత మొదటి అధ్యాయం) | భీష్ముడు, ద్రోణుడు లాంటి పెద్దలను చూసి అర్జునుడి మనసు కరిగిపోయింది; అప్పుడే శ్రీకృష్ణుడు గీత చెప్పాడు. | Arjuna sitting sadly on his chariot with his bow laid down, Lord Krishna turning to him with a gentle, wise smile, two armies far away, no blood or gore
 Q C | యుద్ధంలో అర్జునుడి రథానికి సారథి ఎవరు? | శ్రీకృష్ణుడు | శల్యుడు | సంజయుడు | A | మహాభారతం, ఉద్యోగ–భీష్మ పర్వాలు | ఆయుధం పట్టనని మాట ఇచ్చి, సారథిగా అర్జునుడికి తోడుగా నిలిచాడు. | Lord Krishna holding the reins of four white horses on Arjuna's chariot
 Q T | యుద్ధం జరుగుతుండగా దృతరాష్ట్రుడికి అంతా చెప్పినది ఎవరు? | విదురుడు | సంజయుడు | వ్యాసుడు | B | మహాభారతం, భీష్మపర్వం | వ్యాస మహర్షి ఇచ్చిన దివ్య దృష్టితో సంజయుడు యుద్ధం అంతా వర్ణించాడు. | Sanjaya with eyes glowing, describing the war to the blind king Dhritarashtra in a palace hall
 NEXT C | శ్రీమద్భాగవతాన్ని పరీక్షిత్తు మహారాజుకు చెప్పింది ఎవరు? | వ్యాస మహర్షి | సూత మహర్షి | శుక మహర్షి | C | శ్రీమద్భాగవతం, ప్రథమ స్కంధం | గంగ ఒడ్డున ఏడు రోజులు శుక మహర్షి భాగవతం చెప్పారు. | The young sage Shuka teaching King Parikshit seated on the bank of the Ganga, sages listening around
