@@ -187,3 +187,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_086.srt](captions/Sloka_086.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+मरे हुए वानर फिर से जीवित! 🌈 | Ramayanam 1.1.86
+```
+
+**Hindi description:**
+
+```text
+मरे हुए वानर फिर से जीवित! 🌈 | Ramayanam 1.1.86
+
+देवताभ्यो वरं प्राप्य समुत्थाप्य च वानरान् ।
+अयोध्यां प्रस्थितो रामः पुष्पकेण सुहृद्वृतः ॥ 86 ॥
+
+शब्दार्थ:
+• देवताभ्यः वरम् प्राप्य – देवताओं से वर पाकर
+• वानरान् समुत्थाप्य च – और वानरों को फिर उठाकर (जीवित करके)
+• सुहृद्वृतः – मित्रों से घिरे
+• रामः – राम
+• पुष्पकेण – पुष्पक से
+• अयोध्याम् प्रस्थितः – अयोध्या को चले
+
+भावार्थ:
+"देवताओं से वर पाकर श्रीराम ने युद्ध में मरे सब वानरों को फिर से जीवित कर दिया। फिर सब मित्रों के साथ पुष्पक विमान से अयोध्या के लिए चल पड़े।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 86
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+The fallen vanaras live again! 🌈 | Ramayanam 1.1.86
+```
+
+**English description:**
+
+```text
+The fallen vanaras live again! 🌈 | Ramayanam 1.1.86
+
+devatābhyo varaṃ prāpya samutthāpya ca vānarān |
+ayodhyāṃ prasthito rāmaḥ puṣpakeṇa suhṛdvṛtaḥ || 86 ||
+
+Word meanings:
+• devatābhyaḥ varam prāpya – receiving a boon from the gods
+• vānarān samutthāpya ca – and raising up the vanaras (bringing them back to life)
+• suhṛdvṛtaḥ – surrounded by friends
+• rāmaḥ – Rama
+• puṣpakeṇa – in the Pushpaka
+• ayodhyām prasthitaḥ – set out for Ayodhya
+
+Meaning:
+"Receiving a boon from the gods, Rama brought every vanara who had fallen in battle back to life. Then, with all his friends, he set out for Ayodhya in the Pushpaka chariot."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 86
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

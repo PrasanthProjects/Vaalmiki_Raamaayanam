@@ -187,3 +187,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_050.srt](captions/Sloka_050.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+रावण को रोकने वाला मारीच! ✋ | Ramayanam 1.1.50
+```
+
+**Hindi description:**
+
+```text
+रावण को रोकने वाला मारीच! ✋ | Ramayanam 1.1.50
+
+सहायं वरयामास मारीचं नाम राक्षसम् ।
+वार्यमाणः सुबहुशो मारीचेन स रावणः ॥ 50 ॥
+
+शब्दार्थ:
+• मारीचम् नाम राक्षसम् – मारीच नाम के राक्षस से
+• सहायम् वरयामास – सहायता माँगी
+• सः रावणः – उस रावण ने
+• मारीचेन – मारीच द्वारा
+• सुबहुशः – बहुत बार
+• वार्यमाणः – रोका गया
+
+भावार्थ:
+"रावण ने मारीच नामक राक्षस के पास जाकर सहायता माँगी। पर मारीच ने 'यह काम मत करो' कहकर रावण को बहुत बार रोका।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 50
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Maricha tries to stop Ravana! ✋ | Ramayanam 1.1.50
+```
+
+**English description:**
+
+```text
+Maricha tries to stop Ravana! ✋ | Ramayanam 1.1.50
+
+sahāyaṃ varayāmāsa mārīcaṃ nāma rākṣasam |
+vāryamāṇaḥ subahuśo mārīcena sa rāvaṇaḥ || 50 ||
+
+Word meanings:
+• mārīcam nāma rākṣasam – the rakshasa named Maricha
+• sahāyam varayāmāsa – asked for help
+• saḥ rāvaṇaḥ – that Ravana
+• mārīcena – by Maricha
+• subahuśaḥ – many times
+• vāryamāṇaḥ – was warned against it
+
+Meaning:
+"Ravana went to the rakshasa named Maricha and asked for his help. But Maricha warned him many times: 'Do not do this.'"
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 50
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

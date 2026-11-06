@@ -177,3 +177,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_098.srt](captions/Sloka_098.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+रामायण पढ़ने से क्या होता है? 📖 | Ramayanam 1.1.98
+```
+
+**Hindi description:**
+
+```text
+रामायण पढ़ने से क्या होता है? 📖 | Ramayanam 1.1.98
+
+इदं पवित्रं पापघ्नं पुण्यं वेदैश्च सम्मितम् ।
+यः पठेद् रामचरितं सर्वपापैः प्रमुच्यते ॥ 98 ॥
+
+शब्दार्थ:
+• इदम् रामचरितम् – यह रामचरित
+• पवित्रम् – पवित्र
+• पापघ्नम् – पापों का नाश करने वाला
+• पुण्यम् – पुण्य देने वाला
+• वेदैः च सम्मितम् – और वेदों के समान
+• यः पठेत् – जो पढ़े
+• सर्वपापैः प्रमुच्यते – सब पापों से मुक्त हो जाता है
+
+भावार्थ:
+"यह रामचरित अत्यंत पवित्र है, पापों का नाश करता है, पुण्य देता है और वेदों के समान है। जो इसे पढ़ता है, वह सब पापों से मुक्त हो जाता है।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 98
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+What happens when you read the Ramayana? 📖 | Ramayanam 1.1.98
+```
+
+**English description:**
+
+```text
+What happens when you read the Ramayana? 📖 | Ramayanam 1.1.98
+
+idaṃ pavitraṃ pāpaghnaṃ puṇyaṃ vedaiśca sammitam |
+yaḥ paṭhed rāmacaritaṃ sarvapāpaiḥ pramucyate || 98 ||
+
+Word meanings:
+• idam rāmacaritam – this story of Rama
+• pavitram – sacred
+• pāpaghnam – destroyer of sins
+• puṇyam – bestower of merit
+• vedaiḥ ca sammitam – and equal to the Vedas
+• yaḥ paṭhet – whoever reads it
+• sarvapāpaiḥ pramucyate – is freed from all sins
+
+Meaning:
+"This story of Rama is sacred; it destroys sin, bestows merit and is equal to the Vedas. Whoever reads it is freed from all sins."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 98
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

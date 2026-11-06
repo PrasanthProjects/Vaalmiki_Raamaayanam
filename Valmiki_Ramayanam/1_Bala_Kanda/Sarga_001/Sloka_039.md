@@ -195,3 +195,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_039.srt](captions/Sloka_039.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+14 वर्ष महल में न जाने वाला राजा! 🛖 | Ramayanam 1.1.39
+```
+
+**Hindi description:**
+
+```text
+14 वर्ष महल में न जाने वाला राजा! 🛖 | Ramayanam 1.1.39
+
+नन्दिग्रामेऽकरोद् राज्यं रामागमनकाङ्क्षया ।
+गते तु भरते श्रीमान् सत्यसन्धो जितेन्द्रियः ॥ 39 ॥
+
+शब्दार्थ:
+• रामागमनकाङ्क्षया – राम के लौटने की प्रतीक्षा में
+• नन्दिग्रामे – नंदिग्राम में
+• राज्यम् अकरोत् – राज्य चलाया
+• भरते गते तु – भरत के चले जाने पर
+• श्रीमान् – शोभावान
+• सत्यसन्धः – वचन के पक्के
+• जितेन्द्रियः – इंद्रियों को जीतने वाले (राम)
+
+भावार्थ:
+"भरत अयोध्या में न जाकर नंदिग्राम में रहे और श्रीराम कब लौटेंगे इसकी प्रतीक्षा करते हुए (श्रीराम की पादुकाओं के नाम से) राज्य चलाया। भरत के चले जाने के बाद, वचन के पक्के, इंद्रियों को जीतने वाले श्रीराम..."
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 39
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+A king who stayed out of the palace for 14 years! 🛖 | Ramayanam 1.1.39
+```
+
+**English description:**
+
+```text
+A king who stayed out of the palace for 14 years! 🛖 | Ramayanam 1.1.39
+
+nandigrāme'karod rājyaṃ rāmāgamanakāṅkṣayā |
+gate tu bharate śrīmān satyasandho jitendriyaḥ || 39 ||
+
+Word meanings:
+• rāmāgamanakāṅkṣayā – longing for Rama's return
+• nandigrāme – at Nandigrama
+• rājyam akarot – ruled the kingdom
+• bharate gate tu – after Bharata had gone
+• śrīmān – the glorious
+• satyasandhaḥ – true to his word
+• jitendriyaḥ – master of his senses (Rama)
+
+Meaning:
+"Bharata did not enter Ayodhya; he lived at Nandigrama and ruled the kingdom in the name of Rama's sandals, waiting for Rama's return. After Bharata left, Rama – true to his word and master of his senses..."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 39
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

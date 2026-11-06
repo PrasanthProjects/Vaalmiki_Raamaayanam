@@ -192,3 +192,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_081.srt](captions/Sloka_081.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+रावण-वध! 🏹👑 | Ramayanam 1.1.81
+```
+
+**Hindi description:**
+
+```text
+रावण-वध! 🏹👑 | Ramayanam 1.1.81
+
+तेन गत्वा पुरीं लङ्कां हत्वा रावणमाहवे ।
+रामः सीतामनुप्राप्य परां व्रीडामुपागमत् ॥ 81 ॥
+
+शब्दार्थ:
+• तेन – उस (सेतु) से
+• लङ्काम् पुरीम् गत्वा – लंका नगरी जाकर
+• आहवे रावणम् हत्वा – युद्ध में रावण को मारकर
+• रामः – राम
+• सीताम् अनुप्राप्य – सीता को पाकर
+• पराम् व्रीडाम् उपागमत् – बड़े संकोच में पड़ गए
+
+भावार्थ:
+"उस सेतु से लंका जाकर, युद्ध में रावण का संहार करके श्रीराम ने सीता को फिर से पाया। पर बहुत समय तक पराए के घर रही पत्नी को स्वीकार करने पर लोग क्या कहेंगे – यह सोचकर वे बड़े संकोच में पड़ गए।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 81
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Ravana is slain! 🏹👑 | Ramayanam 1.1.81
+```
+
+**English description:**
+
+```text
+Ravana is slain! 🏹👑 | Ramayanam 1.1.81
+
+tena gatvā purīṃ laṅkāṃ hatvā rāvaṇamāhave |
+rāmaḥ sītāmanuprāpya parāṃ vrīḍāmupāgamat || 81 ||
+
+Word meanings:
+• tena – by that (bridge)
+• laṅkām purīm gatvā – going to the city of Lanka
+• āhave rāvaṇam hatvā – slaying Ravana in battle
+• rāmaḥ – Rama
+• sītām anuprāpya – regaining Sita
+• parām vrīḍām upāgamat – felt deep hesitation
+
+Meaning:
+"Crossing that bridge to Lanka and slaying Ravana in battle, Rama won Sita back. But he was deeply troubled about what the world would say if he took back a wife who had long lived in another's house."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 81
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

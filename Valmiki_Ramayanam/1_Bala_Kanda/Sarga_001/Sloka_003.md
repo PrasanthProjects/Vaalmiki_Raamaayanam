@@ -186,3 +186,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_003.srt](captions/Sloka_003.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+सबको प्रिय लगने वाले मनुष्य का गुण! ✨ | Ramayanam 1.1.3
+```
+
+**Hindi description:**
+
+```text
+सबको प्रिय लगने वाले मनुष्य का गुण! ✨ | Ramayanam 1.1.3
+
+चारित्रेण च को युक्तः सर्वभूतेषु को हितः ।
+विद्वान्कः कः समर्थश्च कश्चैकप्रियदर्शनः ॥ 3 ॥
+
+शब्दार्थ:
+• चारित्रेण च युक्तः – अच्छे आचरण वाला
+• कः – कौन
+• सर्वभूतेषु हितः – सब प्राणियों का हित करने वाला
+• कः – कौन
+• विद्वान् कः – विद्वान कौन
+• कः समर्थः च – और समर्थ कौन
+• कः च एकप्रियदर्शनः – और देखने में एकमात्र प्रिय कौन
+
+भावार्थ:
+"अच्छे आचरण वाला कौन है? सब प्राणियों का भला चाहने वाला कौन है? सब कुछ जानने वाला विद्वान और हर कार्य कर सकने वाला समर्थ कौन है? ऐसा कौन है जिसे कोई भी, कभी भी देखे तो आनंद ही हो?"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 3
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+The quality that makes a person loved by all ✨ | Ramayanam 1.1.3
+```
+
+**English description:**
+
+```text
+The quality that makes a person loved by all ✨ | Ramayanam 1.1.3
+
+cāritreṇa ca ko yuktaḥ sarvabhūteṣu ko hitaḥ |
+vidvānkaḥ kaḥ samarthaśca kaścaikapriyadarśanaḥ || 3 ||
+
+Word meanings:
+• cāritreṇa ca yuktaḥ – of good conduct
+• kaḥ – who
+• sarvabhūteṣu hitaḥ – doing good to all beings
+• kaḥ – who
+• vidvān kaḥ – who is learned
+• kaḥ samarthaḥ ca – and who is capable
+• kaḥ ca ekapriyadarśanaḥ – and who alone is a joy to behold
+
+Meaning:
+"Who has noble conduct? Who wishes well to every living being? Who is learned in everything and able to accomplish any task? Who is so lovely that anyone who sees him, at any time, feels joy?"
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 3
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

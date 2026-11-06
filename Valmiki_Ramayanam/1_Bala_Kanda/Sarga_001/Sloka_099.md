@@ -179,3 +179,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_099.srt](captions/Sloka_099.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+रामायण – आयु बढ़ाने वाली कथा! 🌺 | Ramayanam 1.1.99
+```
+
+**Hindi description:**
+
+```text
+रामायण – आयु बढ़ाने वाली कथा! 🌺 | Ramayanam 1.1.99
+
+एतदाख्यानमायुष्यं पठन् रामायणं नरः ।
+सपुत्रपौत्रः सगणः प्रेत्य स्वर्गे महीयते ॥ 99 ॥
+
+शब्दार्थ:
+• आयुष्यम् – आयु बढ़ाने वाली
+• एतत् रामायणम् आख्यानम् – इस रामायण कथा को
+• पठन् नरः – पढ़ने वाला मनुष्य
+• सपुत्रपौत्रः – पुत्र-पौत्रों सहित
+• सगणः – अपने परिवार के साथ
+• प्रेत्य – मृत्यु के बाद
+• स्वर्गे महीयते – स्वर्ग में सम्मान पाता है
+
+भावार्थ:
+"आयु बढ़ाने वाली इस रामायण कथा को पढ़ने वाला मनुष्य इस लोक में पुत्र-पौत्रों और परिवार के साथ सुख से रहता है, और मृत्यु के बाद स्वर्ग में सम्मान पाता है।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 99
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+The Ramayana – a story that blesses with long life! 🌺 | Ramayanam 1.1.99
+```
+
+**English description:**
+
+```text
+The Ramayana – a story that blesses with long life! 🌺 | Ramayanam 1.1.99
+
+etadākhyānamāyuṣyaṃ paṭhan rāmāyaṇaṃ naraḥ |
+saputrapautraḥ sagaṇaḥ pretya svarge mahīyate || 99 ||
+
+Word meanings:
+• āyuṣyam – bestowing long life
+• etat rāmāyaṇam ākhyānam – this tale of the Ramayana
+• paṭhan naraḥ – the one who reads it
+• saputrapautraḥ – with sons and grandsons
+• sagaṇaḥ – with all his people
+• pretya – after death
+• svarge mahīyate – is honoured in heaven
+
+Meaning:
+"Whoever reads this tale of the Ramayana, which blesses with long life, lives happily here with children, grandchildren and family, and after death is honoured in heaven."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 99
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

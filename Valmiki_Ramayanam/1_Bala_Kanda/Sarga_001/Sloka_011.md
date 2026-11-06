@@ -191,3 +191,69 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_011.srt](captions/Sloka_011.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+श्रीराम के शुभ लक्षण ✨ | Ramayanam 1.1.11
+```
+
+**Hindi description:**
+
+```text
+श्रीराम के शुभ लक्षण ✨ | Ramayanam 1.1.11
+
+समः समविभक्ताङ्गः स्निग्धवर्णः प्रतापवान् ।
+पीनवक्षा विशालाक्षो लक्ष्मीवाञ्छुभलक्षणः ॥ 11 ॥
+
+शब्दार्थ:
+• समः – न बहुत लंबे, न बहुत छोटे
+• समविभक्ताङ्गः – सब अंग ठीक अनुपात में
+• स्निग्धवर्णः – चिकनी, चमकती त्वचा वाले
+• प्रतापवान् – प्रतापी
+• पीनवक्षाः – ऊँची, बलवान छाती वाले
+• विशालाक्षः – बड़ी आँखों वाले
+• लक्ष्मीवान् – शोभा से युक्त
+• शुभलक्षणः – शुभ लक्षणों वाले
+
+भावार्थ:
+"वे न बहुत लंबे हैं, न बहुत छोटे। शरीर का हर अंग ठीक अनुपात में है। उनका रंग चिकना और चमकीला है। वे प्रतापी हैं, उनकी छाती बलवान और आँखें बड़ी-बड़ी हैं। वे शोभा से भरे हैं और पूरे शरीर में शुभ लक्षण हैं।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 11
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+The auspicious marks of Sri Rama ✨ | Ramayanam 1.1.11
+```
+
+**English description:**
+
+```text
+The auspicious marks of Sri Rama ✨ | Ramayanam 1.1.11
+
+samaḥ samavibhaktāṅgaḥ snigdhavarṇaḥ pratāpavān |
+pīnavakṣā viśālākṣo lakṣmīvāñchubhalakṣaṇaḥ || 11 ||
+
+Word meanings:
+• samaḥ – neither too tall nor too short
+• samavibhaktāṅgaḥ – with well-proportioned limbs
+• snigdhavarṇaḥ – with a glowing, smooth complexion
+• pratāpavān – majestic
+• pīnavakṣāḥ – with a full, strong chest
+• viśālākṣaḥ – large-eyed
+• lakṣmīvān – full of grace
+• śubhalakṣaṇaḥ – bearing auspicious marks
+
+Meaning:
+"He is neither too tall nor too short. Every limb of his body is perfectly proportioned. His complexion glows. He is majestic, with a strong chest and large eyes. He is full of grace, and his whole body bears auspicious marks."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 11
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

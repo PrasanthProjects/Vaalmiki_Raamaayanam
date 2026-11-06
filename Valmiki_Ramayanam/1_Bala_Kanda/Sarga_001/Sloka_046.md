@@ -183,3 +183,63 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_046.srt](captions/Sloka_046.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+शूर्पणखा की कथा! ✂️ | Ramayanam 1.1.46
+```
+
+**Hindi description:**
+
+```text
+शूर्पणखा की कथा! ✂️ | Ramayanam 1.1.46
+
+तेन तत्रैव वसता जनस्थाननिवासिनी ।
+विरूपिता शूर्पणखा राक्षसी कामरूपिणी ॥ 46 ॥
+
+शब्दार्थ:
+• तत्र एव वसता तेन – वहीं रहते हुए उन (राम) के द्वारा
+• जनस्थाननिवासिनी – जनस्थान में रहने वाली
+• कामरूपिणी – इच्छा से रूप बदलने वाली
+• शूर्पणखा राक्षसी – शूर्पणखा राक्षसी
+• विरूपिता – कुरूप कर दी गई
+
+भावार्थ:
+"श्रीराम जब वहाँ (पंचवटी में) रह रहे थे, तब जनस्थान में रहने वाली, इच्छा से कोई भी रूप धारण कर सकने वाली शूर्पणखा राक्षसी के नाक-कान कटवाकर उसे कुरूप किया गया।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 46
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+The story of Shurpanakha! ✂️ | Ramayanam 1.1.46
+```
+
+**English description:**
+
+```text
+The story of Shurpanakha! ✂️ | Ramayanam 1.1.46
+
+tena tatraiva vasatā janasthānanivāsinī |
+virūpitā śūrpaṇakhā rākṣasī kāmarūpiṇī || 46 ||
+
+Word meanings:
+• tatra eva vasatā tena – by him (Rama) while living there
+• janasthānanivāsinī – who lived in Janasthana
+• kāmarūpiṇī – able to take any form she wished
+• śūrpaṇakhā rākṣasī – the rakshasi Shurpanakha
+• virūpitā – was disfigured
+
+Meaning:
+"While Rama lived there (at Panchavati), the rakshasi Shurpanakha of Janasthana, who could take any form she wished, was disfigured by having her nose and ears cut off."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 46
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

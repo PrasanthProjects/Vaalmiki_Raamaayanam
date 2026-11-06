@@ -189,3 +189,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_051.srt](captions/Sloka_051.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+अच्छी सलाह न मानने वाला रावण! ⚠️ | Ramayanam 1.1.51
+```
+
+**Hindi description:**
+
+```text
+अच्छी सलाह न मानने वाला रावण! ⚠️ | Ramayanam 1.1.51
+
+न विरोधो बलवता क्षमो रावण तेन ते ।
+अनादृत्य तु तद्वाक्यं रावणः कालचोदितः ॥ 51 ॥
+
+शब्दार्थ:
+• रावण – हे रावण!
+• तेन बलवता – उन बलवान (राम) से
+• विरोधः – शत्रुता
+• ते न क्षमः – तुम्हारे लिए ठीक नहीं
+• कालचोदितः रावणः – काल से प्रेरित रावण
+• तत् वाक्यम् – उस बात को
+• अनादृत्य तु – अनसुना करके
+
+भावार्थ:
+मारीच ने चेताया: "हे रावण! उन महाबली श्रीराम से शत्रुता तुम्हारे लिए बिल्कुल अच्छी नहीं।" परंतु जिसका काल निकट था, उस रावण ने यह अच्छी बात अनसुनी कर दी।
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 51
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Ravana, who would not heed good advice! ⚠️ | Ramayanam 1.1.51
+```
+
+**English description:**
+
+```text
+Ravana, who would not heed good advice! ⚠️ | Ramayanam 1.1.51
+
+na virodho balavatā kṣamo rāvaṇa tena te |
+anādṛtya tu tadvākyaṃ rāvaṇaḥ kālacoditaḥ || 51 ||
+
+Word meanings:
+• rāvaṇa – O Ravana!
+• tena balavatā – with that mighty one (Rama)
+• virodhaḥ – enmity
+• te na kṣamaḥ – is not good for you
+• kālacoditaḥ rāvaṇaḥ – Ravana, driven by his doom
+• tat vākyam – those words
+• anādṛtya tu – ignoring
+
+Meaning:
+Maricha warned: "O Ravana! Enmity with the mighty Rama is not good for you at all." But Ravana, whose end was near, ignored this good advice.
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 51
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

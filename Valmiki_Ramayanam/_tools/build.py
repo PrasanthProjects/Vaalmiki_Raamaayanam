@@ -353,6 +353,81 @@ def upload_desc(title, sloka_lines, tt, kanda_te, sarga, n):
             + f"\n{HASHTAGS}")
 
 
+# ---- other languages: the śloka in Devanagari and in IAST, Hindi and English meanings (data/…/multilang_*.txt) ----
+def te2dev(t):
+    """Telugu script → Devanagari, letter for letter (the two scripts share Unicode's layout)."""
+    out = []
+    for c in t:
+        o = ord(c)
+        if 0x0C01 <= o <= 0x0C4D or 0x0C60 <= o <= 0x0C63 or 0x0C66 <= o <= 0x0C6F:
+            out.append(chr(o - 0x300))
+        elif o in (0x0C55, 0x0C56):
+            continue
+        else:
+            out.append(c)
+    return ''.join(out)
+
+
+IAST_V = dict(zip('అఆఇఈఉఊఋౠఌఎఏఐఒఓఔ', ['a', 'ā', 'i', 'ī', 'u', 'ū', 'ṛ', 'ṝ', 'ḷ', 'e', 'e', 'ai', 'o', 'o', 'au']))
+IAST_S = dict(zip('ాిీుూృౄెేైొోౌ', ['ā', 'i', 'ī', 'u', 'ū', 'ṛ', 'ṝ', 'e', 'e', 'ai', 'o', 'o', 'au']))
+IAST_C = dict(zip('కఖగఘఙచఛజఝఞటఠడఢణతథదధనపఫబభమయరలవశషసహళఱ',
+                  ['k', 'kh', 'g', 'gh', 'ṅ', 'c', 'ch', 'j', 'jh', 'ñ', 'ṭ', 'ṭh', 'ḍ', 'ḍh', 'ṇ', 't', 'th', 'd',
+                   'dh', 'n', 'p', 'ph', 'b', 'bh', 'm', 'y', 'r', 'l', 'v', 'ś', 'ṣ', 's', 'h', 'ḷ', 'r']))
+
+
+def te2iast(t):
+    """Telugu script → IAST (the standard way to write Sanskrit in English letters)."""
+    out, i = [], 0
+    while i < len(t):
+        c = t[i]
+        nxt = t[i + 1] if i + 1 < len(t) else ''
+        if c in IAST_C:
+            out.append(IAST_C[c])
+            if nxt == '్':
+                i += 1
+            elif nxt in IAST_S:
+                out.append(IAST_S[nxt])
+                i += 1
+            else:
+                out.append('a')
+        elif c in IAST_V:
+            out.append(IAST_V[c])
+        else:
+            out.append({'ం': 'ṃ', 'ః': 'ḥ', 'ఽ': "'", 'ఁ': 'm̐', '।': '|', '॥': '||'}.get(c, c))
+        i += 1
+    return ''.join(out)
+
+
+KANDA_HI = {'1_Bala_Kanda': 'बालकाण्ड'}
+KANDA_EN = {'1_Bala_Kanda': 'Bala Kanda'}
+HASH_HI = '#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts'
+HASH_EN = '#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism'
+
+
+def other_languages(m, keys, sloka_lines, kanda_dir, sarga, n):
+    """The Hindi and English title and description of one Short, or {} when the śloka has none yet."""
+    if not m:
+        return {}
+    hiw, enw = [x.strip() for x in m['HIW'].split(' | ')], [x.strip() for x in m['ENW'].split(' | ')]
+    assert len(hiw) == len(keys) == len(enw), f'śloka {n}: {len(keys)} words, HIW {len(hiw)}, ENW {len(enw)}'
+    num = f"{kanda_dir.split('_')[0]}.{sarga}.{n}"
+    t_hi, t_en = f"{m['TITLE_HI']} | Ramayanam {num}", f"{m['TITLE_EN']} | Ramayanam {num}"
+    assert len(t_hi) <= 100 and len(t_en) <= 100, f'śloka {n}: title over 100 characters'
+    dev = [te2dev(l) for l in sloka_lines]
+    iast = [te2iast(l) for l in sloka_lines]
+    d_hi = (f"{t_hi}\n\n" + '\n'.join(dev) + "\n\nशब्दार्थ:\n"
+            + '\n'.join(f'• {te2dev(k)} – {w}' for k, w in zip(keys, hiw))
+            + f"\n\nभावार्थ:\n{m['HI']}\n\n"
+            f"📖 स्रोत: श्रीमद् वाल्मीकि रामायण · {KANDA_HI[kanda_dir]} · सर्ग {sarga} · श्लोक {n}\n"
+            "🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।\n\n" + HASH_HI)
+    d_en = (f"{t_en}\n\n" + '\n'.join(iast) + "\n\nWord meanings:\n"
+            + '\n'.join(f'• {te2iast(k)} – {w}' for k, w in zip(keys, enw))
+            + f"\n\nMeaning:\n{m['EN']}\n\n"
+            f"📖 Source: Srimad Valmiki Ramayana · {KANDA_EN[kanda_dir]} · Sarga {sarga} · Shloka {n}\n"
+            "🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.\n\n" + HASH_EN)
+    return {'titleHi': t_hi, 'descHi': d_hi, 'titleEn': t_en, 'descEn': d_en}
+
+
 def upload_md(title, sloka_lines, tt, pinned, kanda_te, sarga, n, srt_name):
     desc = upload_desc(title, sloka_lines, tt, kanda_te, sarga, n)
     return ("## 7. YouTube అప్‌లోడ్\n\n"
@@ -503,6 +578,9 @@ def main(kanda_dir, sarga):
                    re.sub(r'\n+', '\n\n', tt.strip()))
     narr = {n: dict(l.split(': ', 1) for l in body.split('\n') if ': ' in l)
             for n, body in blocks(os.path.join(data, 'narration_*.txt'))}
+    words = {n: [l[2:].split(': ', 1)[0] for l in pp.split('\n') if l.startswith('- ')] for n, (pp, tt) in mean.items()}
+    multi = {n: dict(l.split(': ', 1) for l in body.split('\n') if ': ' in l)
+             for n, body in blocks(os.path.join(data, 'multilang_*.txt'))}
     flow = {}
     for n, body in blocks(os.path.join(data, 'flow_*.txt')):
         rows = [r.split(' | ') for r in body.split('\n') if r.strip()]
@@ -564,7 +642,10 @@ def main(kanda_dir, sarga):
               + flow_md(flow[n], texts) + '\n'
               + (sloka_refs_md(flow[n], texts) + '\n' if LIVE else '')
               + thumb_md(thumbs[n], flow[n], kanda_te, sarga, n) + '\n'
-              + upload_md(title, ls, tt, pinned[n], kanda_te, sarga, n, name + '.srt'))
+              + upload_md(title, ls, tt, pinned[n], kanda_te, sarga, n, name + '.srt')
+              + ''.join(f"\n**{lab}:**\n\n```text\n{o[k]}\n```\n" for o in [other_languages(multi.get(n), words[n], ls, kanda_dir, sarga, n)]
+                        for lab, k in (('Hindi title', 'titleHi'), ('Hindi description', 'descHi'),
+                                       ('English title', 'titleEn'), ('English description', 'descEn')) if o))
         open(os.path.join(out_dir, name + '.md'), 'w', encoding='utf-8', newline='\n').write(md)
         open(os.path.join(out_dir, 'captions', name + '.srt'), 'w', encoding='utf-8', newline='\n').write(srt(texts))
         kinds = clip_kinds(flow[n])
@@ -578,6 +659,7 @@ def main(kanda_dir, sarga):
             'reading': read if read != ls else None, 'clips': clip_cards(flow[n], texts),
             'thumbPrompt': tprompt, 'thumbRefs': trefs,
             'desc': upload_desc(title, ls, tt, kanda_te, sarga, n), 'pinned': pinned[n], 'srt': name + '.srt',
+            **other_languages(multi.get(n), words[n], ls, kanda_dir, sarga, n),
             **({'speaker': [x.strip() for x in f['SPK'].split(' | ', 1)]} if 'SPK' in f else {}),
             **({'speaker': KEPT[row_key(flow[n])]['speaker']} if row_key(flow[n]) in KEPT else {})})
         n_video += kinds.count('video')

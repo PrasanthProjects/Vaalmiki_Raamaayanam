@@ -185,3 +185,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_026.srt](captions/Sloka_026.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+श्रीराम को प्राणों जैसी प्रिय कौन? 💞 | Ramayanam 1.1.26
+```
+
+**Hindi description:**
+
+```text
+श्रीराम को प्राणों जैसी प्रिय कौन? 💞 | Ramayanam 1.1.26
+
+भ्रातरं दयितो भ्रातुः सौभ्रात्रमनुदर्शयन् ।
+रामस्य दयिता भार्या नित्यं प्राणसमा हिता ॥ 26 ॥
+
+शब्दार्थ:
+• भ्रातुः दयितः – भाई के प्रिय (लक्ष्मण)
+• भ्रातरम् – भाई के प्रति
+• सौभ्रात्रम् अनुदर्शयन् – सच्चा भ्रातृ-प्रेम दिखाते हुए
+• रामस्य दयिता भार्या – राम की प्रिय पत्नी
+• नित्यम् प्राणसमा – सदा प्राणों के समान
+• हिता – सदा भला चाहने वाली
+
+भावार्थ:
+"भाई के प्रिय लक्ष्मण, एक अच्छा भाई कैसा होना चाहिए यह संसार को दिखाते हुए श्रीराम के साथ चले। और श्रीराम की प्रिय पत्नी, जो उन्हें प्राणों के समान प्रिय थीं और सदा उनका भला चाहती थीं, वे सीता..." (वाक्य अगले श्लोकों में आगे बढ़ता है।)
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 26
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Who was as dear to Sri Rama as his own life? 💞 | Ramayanam 1.1.26
+```
+
+**English description:**
+
+```text
+Who was as dear to Sri Rama as his own life? 💞 | Ramayanam 1.1.26
+
+bhrātaraṃ dayito bhrātuḥ saubhrātramanudarśayan |
+rāmasya dayitā bhāryā nityaṃ prāṇasamā hitā || 26 ||
+
+Word meanings:
+• bhrātuḥ dayitaḥ – dear to his brother (Lakshmana)
+• bhrātaram – toward his brother
+• saubhrātram anudarśayan – showing true brotherly love
+• rāmasya dayitā bhāryā – Rama's beloved wife
+• nityam prāṇasamā – always as dear as life
+• hitā – ever wishing his good
+
+Meaning:
+"Lakshmana, dear to his brother, walked with Rama, showing the world what a true brother is. And Rama's beloved wife, dear to him as his own life and always seeking his good – Sita..." (the sentence continues in the next shlokas).
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 26
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

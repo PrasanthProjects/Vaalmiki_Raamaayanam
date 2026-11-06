@@ -191,3 +191,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_016.srt](captions/Sloka_016.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+अच्छे लोग किसके पास जाते हैं? 🌊 | Ramayanam 1.1.16
+```
+
+**Hindi description:**
+
+```text
+अच्छे लोग किसके पास जाते हैं? 🌊 | Ramayanam 1.1.16
+
+सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः ।
+आर्यः सर्वसमश्चैव सदैव प्रियदर्शनः ॥ 16 ॥
+
+शब्दार्थ:
+• सिन्धुभिः समुद्रः इव – जैसे नदियाँ समुद्र में
+• सद्भिः – सज्जनों द्वारा
+• सर्वदा अभिगतः – सदा जिनके पास पहुँचा जाता है
+• आर्यः – पूज्य
+• सर्वसमः च एव – सबको समान देखने वाले
+• सदा एव प्रियदर्शनः – सदा देखने में आनंददायक
+
+भावार्थ:
+"जैसे सब नदियाँ समुद्र में जाकर मिलती हैं, वैसे ही सब सज्जन सदा उन्हीं के पास पहुँचते हैं। वे पूज्य हैं, सबको समान दृष्टि से देखते हैं, और जब भी देखो उनका रूप आनंद ही देता है।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 16
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Whom do good people gather around? 🌊 | Ramayanam 1.1.16
+```
+
+**English description:**
+
+```text
+Whom do good people gather around? 🌊 | Ramayanam 1.1.16
+
+sarvadābhigataḥ sadbhiḥ samudra iva sindhubhiḥ |
+āryaḥ sarvasamaścaiva sadaiva priyadarśanaḥ || 16 ||
+
+Word meanings:
+• sindhubhiḥ samudraḥ iva – as rivers to the ocean
+• sadbhiḥ – by good people
+• sarvadā abhigataḥ – always approached
+• āryaḥ – noble and revered
+• sarvasamaḥ ca eva – treating everyone equally
+• sadā eva priyadarśanaḥ – ever a joy to behold
+
+Meaning:
+"Just as all rivers flow into the ocean, all good people are always drawn to him. He is revered, looks on everyone equally, and whenever you see him, his presence brings only joy."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 16
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

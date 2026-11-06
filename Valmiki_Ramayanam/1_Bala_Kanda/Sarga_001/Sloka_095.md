@@ -184,3 +184,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_095.srt](captions/Sloka_095.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+अनगिनत दान! 🐄💰 | Ramayanam 1.1.95
+```
+
+**Hindi description:**
+
+```text
+अनगिनत दान! 🐄💰 | Ramayanam 1.1.95
+
+गवां कोट्ययुतं दत्त्वा विद्वद्भ्यो विधिपूर्वकम् ।
+असंख्येयं धनं दत्त्वा ब्राह्मणेभ्यो महायशाः ॥ 95 ॥
+
+शब्दार्थ:
+• गवाम् कोट्ययुतम् – करोड़ों-लाखों गाएँ
+• विद्वद्भ्यः – विद्वानों को
+• विधिपूर्वकम् दत्त्वा – विधि-पूर्वक देकर
+• महायशाः – महा यशस्वी (राम)
+• ब्राह्मणेभ्यः – ब्राह्मणों को
+• असंख्येयम् धनम् दत्त्वा – असंख्य धन देकर
+
+भावार्थ:
+"...अनगिनत गाएँ विधि-पूर्वक विद्वानों को दान करके और ब्राह्मणों को असंख्य धन देकर, महा यशस्वी श्रीराम..."
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 95
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Countless gifts! 🐄💰 | Ramayanam 1.1.95
+```
+
+**English description:**
+
+```text
+Countless gifts! 🐄💰 | Ramayanam 1.1.95
+
+gavāṃ koṭyayutaṃ dattvā vidvadbhyo vidhipūrvakam |
+asaṃkhyeyaṃ dhanaṃ dattvā brāhmaṇebhyo mahāyaśāḥ || 95 ||
+
+Word meanings:
+• gavām koṭyayutam – countless millions of cows
+• vidvadbhyaḥ – to the learned
+• vidhipūrvakam dattvā – giving according to the rites
+• mahāyaśāḥ – the greatly renowned (Rama)
+• brāhmaṇebhyaḥ – to the brahmins
+• asaṃkhyeyam dhanam dattvā – giving countless wealth
+
+Meaning:
+"...giving countless cows to the learned according to the sacred rites, and wealth beyond counting to the brahmins, the illustrious Rama..."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 95
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

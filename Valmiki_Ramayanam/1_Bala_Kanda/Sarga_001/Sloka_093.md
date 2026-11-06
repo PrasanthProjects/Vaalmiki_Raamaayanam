@@ -182,3 +182,63 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_093.srt](captions/Sloka_093.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+जहाँ चोर ही नहीं! 🔓 | Ramayanam 1.1.93
+```
+
+**Hindi description:**
+
+```text
+जहाँ चोर ही नहीं! 🔓 | Ramayanam 1.1.93
+
+न चापि क्षुद्भयं तत्र न तस्करभयं तथा ।
+नगराणि च राष्ट्राणि धनधान्ययुतानि च ॥ 93 ॥
+
+शब्दार्थ:
+• तत्र – वहाँ
+• क्षुद्भयम् च अपि न – भूख का भय भी नहीं
+• तथा तस्करभयम् न – वैसे ही चोरों का भय नहीं
+• नगराणि राष्ट्राणि च – नगर और देश
+• धनधान्ययुतानि च – धन-धान्य से भरे
+
+भावार्थ:
+"वहाँ भूख का भय नहीं होगा, न चोरों का डर। सब नगर और देश धन-धान्य से भरे रहेंगे।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 93
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+A kingdom without thieves! 🔓 | Ramayanam 1.1.93
+```
+
+**English description:**
+
+```text
+A kingdom without thieves! 🔓 | Ramayanam 1.1.93
+
+na cāpi kṣudbhayaṃ tatra na taskarabhayaṃ tathā |
+nagarāṇi ca rāṣṭrāṇi dhanadhānyayutāni ca || 93 ||
+
+Word meanings:
+• tatra – there
+• kṣudbhayam ca api na – no fear of hunger either
+• tathā taskarabhayam na – likewise no fear of thieves
+• nagarāṇi rāṣṭrāṇi ca – cities and lands
+• dhanadhānyayutāni ca – filled with wealth and grain
+
+Meaning:
+"There will be no fear of hunger and no fear of thieves. Every city and land will overflow with wealth and grain."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 93
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

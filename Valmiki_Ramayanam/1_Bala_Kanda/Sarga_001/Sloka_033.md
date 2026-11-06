@@ -185,3 +185,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_033.srt](captions/Sloka_033.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+"राम, राम" कहते हुए दशरथ... 💔 | Ramayanam 1.1.33
+```
+
+**Hindi description:**
+
+```text
+"राम, राम" कहते हुए दशरथ... 💔 | Ramayanam 1.1.33
+
+राजा दशरथस्स्वर्गं जगाम विलपन् सुतम् ।
+गते तु तस्मिन् भरतो वसिष्ठप्रमुखैर्द्विजैः ॥ 33 ॥
+
+शब्दार्थ:
+• राजा दशरथः – राजा दशरथ
+• सुतम् विलपन् – पुत्र के लिए विलाप करते हुए
+• स्वर्गम् जगाम – स्वर्ग चले गए
+• तस्मिन् गते तु – उनके चले जाने पर
+• भरतः – भरत
+• वसिष्ठप्रमुखैः द्विजैः – वसिष्ठ आदि ब्राह्मणों द्वारा
+
+भावार्थ:
+"...महाराज दशरथ 'राम, राम' कहकर पुत्र के लिए विलाप करते हुए प्राण त्यागकर स्वर्ग चले गए। उनके जाने के बाद वसिष्ठ आदि गुरुजनों ने भरत को..."
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 33
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Crying "Rama, Rama", King Dasharatha... 💔 | Ramayanam 1.1.33
+```
+
+**English description:**
+
+```text
+Crying "Rama, Rama", King Dasharatha... 💔 | Ramayanam 1.1.33
+
+rājā daśarathassvargaṃ jagāma vilapan sutam |
+gate tu tasmin bharato vasiṣṭhapramukhairdvijaiḥ || 33 ||
+
+Word meanings:
+• rājā daśarathaḥ – King Dasharatha
+• sutam vilapan – lamenting for his son
+• svargam jagāma – went to heaven (passed away)
+• tasmin gate tu – after he had gone
+• bharataḥ – Bharata
+• vasiṣṭhapramukhaiḥ dvijaiḥ – by Vasishtha and the other brahmins
+
+Meaning:
+"...King Dasharatha, crying 'Rama, Rama' and lamenting for his son, gave up his life and went to heaven. After his passing, Vasishtha and the other elders asked Bharata..."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 33
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

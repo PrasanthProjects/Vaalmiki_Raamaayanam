@@ -191,3 +191,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_075.srt](captions/Sloka_075.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+हनुमान का विध्वंस! 💥🐒 | Ramayanam 1.1.75
+```
+
+**Hindi description:**
+
+```text
+हनुमान का विध्वंस! 💥🐒 | Ramayanam 1.1.75
+
+पञ्च सेनाग्रगान् हत्वा सप्त मन्त्रिसुतानपि ।
+शूरमक्षं च निष्पिष्य ग्रहणं समुपागमत् ॥ 75 ॥
+
+शब्दार्थ:
+• पञ्च सेनाग्रगान् – पाँच सेनापतियों को
+• सप्त मन्त्रिसुतान् अपि – सात मंत्री-पुत्रों को भी
+• हत्वा – मारकर
+• शूरम् अक्षम् च – और वीर अक्ष को
+• निष्पिष्य – कुचलकर
+• ग्रहणम् समुपागमत् – पकड़े गए
+
+भावार्थ:
+"हनुमान ने पाँच सेनापतियों और सात मंत्री-पुत्रों का वध किया और रावण के वीर पुत्र अक्षकुमार को कुचल डाला। फिर (इंद्रजीत के ब्रह्मास्त्र से) जान-बूझकर पकड़े गए।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 75
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Hanuman's rampage! 💥🐒 | Ramayanam 1.1.75
+```
+
+**English description:**
+
+```text
+Hanuman's rampage! 💥🐒 | Ramayanam 1.1.75
+
+pañca senāgragān hatvā sapta mantrisutānapi |
+śūramakṣaṃ ca niṣpiṣya grahaṇaṃ samupāgamat || 75 ||
+
+Word meanings:
+• pañca senāgragān – five commanders
+• sapta mantrisutān api – seven ministers' sons as well
+• hatvā – slaying
+• śūram akṣam ca – and the valiant Aksha
+• niṣpiṣya – crushing
+• grahaṇam samupāgamat – was captured
+
+Meaning:
+"Hanuman slew five commanders and seven sons of ministers, and crushed Ravana's valiant son Aksha. Then he let himself be captured (by Indrajit's Brahma weapon)."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 75
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

@@ -205,3 +205,75 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_100.srt](captions/Sloka_100.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+कोई भी पढ़े, कल्याण ही! रामायण फलश्रुति 🙏 | Ramayanam 1.1.100
+```
+
+**Hindi description:**
+
+```text
+कोई भी पढ़े, कल्याण ही! रामायण फलश्रुति 🙏 | Ramayanam 1.1.100
+
+पठन् द्विजो वागृषभत्वमीयात् ।
+स्यात् क्षत्रियो भूमिपतित्वमीयात् ॥
+वणिक् जनः पण्यफलत्वमीयात् ।
+जनश्च शूद्रोऽपि महत्त्वमीयात् ॥ 100 ॥
+
+शब्दार्थ:
+• पठन् – (इसे) पढ़ने पर
+• द्विजः – ब्राह्मण
+• वागृषभत्वम् ईयात् – वाणी में श्रेष्ठता पाता है
+• क्षत्रियः – क्षत्रिय
+• भूमिपतित्वम् ईयात् स्यात् – पृथ्वी का स्वामित्व पाता है
+• वणिक् जनः – व्यापारी
+• पण्यफलत्वम् ईयात् – व्यापार में लाभ पाता है
+• शूद्रः अपि जनः च – और शूद्र भी
+• महत्त्वम् ईयात् – महानता पाता है
+
+भावार्थ:
+"इस रामायण को पढ़कर ब्राह्मण वाणी में श्रेष्ठता पाता है, क्षत्रिय राज्य पाता है, व्यापारी व्यापार में लाभ पाता है और शूद्र भी महानता पाता है। अर्थात् कोई भी पढ़े, उसका कल्याण ही होता है।" (इसी के साथ 'संक्षेप रामायण' नाम का पहला सर्ग पूरा होता है।)
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 100
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Whoever reads it is blessed! The Ramayana's promise 🙏 | Ramayanam 1.1.100
+```
+
+**English description:**
+
+```text
+Whoever reads it is blessed! The Ramayana's promise 🙏 | Ramayanam 1.1.100
+
+paṭhan dvijo vāgṛṣabhatvamīyāt |
+syāt kṣatriyo bhūmipatitvamīyāt ||
+vaṇik janaḥ paṇyaphalatvamīyāt |
+janaśca śūdro'pi mahattvamīyāt || 100 ||
+
+Word meanings:
+• paṭhan – on reading (this)
+• dvijaḥ – a brahmin
+• vāgṛṣabhatvam īyāt – gains mastery of speech
+• kṣatriyaḥ – a kshatriya
+• bhūmipatitvam īyāt syāt – gains rule over the land
+• vaṇik janaḥ – a merchant
+• paṇyaphalatvam īyāt – gains profit in trade
+• śūdraḥ api janaḥ ca – and a shudra too
+• mahattvam īyāt – gains greatness
+
+Meaning:
+"By reading this Ramayana, a brahmin gains mastery of speech, a kshatriya gains a kingdom, a merchant prospers in trade, and a shudra too attains greatness. Whoever reads it is blessed." (This completes the first sarga, known as the Ramayana in brief.)
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 100
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

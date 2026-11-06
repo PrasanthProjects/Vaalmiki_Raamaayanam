@@ -193,3 +193,71 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_009.srt](captions/Sloka_009.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+श्रीराम का रूप कैसा है? 👑 | Ramayanam 1.1.9
+```
+
+**Hindi description:**
+
+```text
+श्रीराम का रूप कैसा है? 👑 | Ramayanam 1.1.9
+
+बुद्धिमान्नीतिमान्वाग्मी श्रीमाञ्छत्रुनिबर्हणः ।
+विपुलांसो महाबाहुः कम्बुग्रीवो महाहनुः ॥ 9 ॥
+
+शब्दार्थ:
+• बुद्धिमान् – बुद्धिमान
+• नीतिमान् – नीति को जानने वाले
+• वाग्मी – सुंदर बोलने वाले
+• श्रीमान् – शोभा से युक्त
+• शत्रुनिबर्हणः – शत्रुओं का नाश करने वाले
+• विपुलांसः – चौड़े कंधों वाले
+• महाबाहुः – लंबी, बलवान भुजाओं वाले
+• कम्बुग्रीवः – शंख जैसी गर्दन वाले
+• महाहनुः – मजबूत जबड़ों वाले
+
+भावार्थ:
+"वे बड़े बुद्धिमान हैं, नीति जानते हैं, सुंदर बोलते हैं, शोभा से भरे हैं और शत्रुओं का नाश करते हैं। उनके कंधे चौड़े, भुजाएँ लंबी और बलवान, गर्दन शंख जैसी सुंदर और जबड़े मजबूत हैं।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 9
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+What does Sri Rama look like? 👑 | Ramayanam 1.1.9
+```
+
+**English description:**
+
+```text
+What does Sri Rama look like? 👑 | Ramayanam 1.1.9
+
+buddhimānnītimānvāgmī śrīmāñchatrunibarhaṇaḥ |
+vipulāṃso mahābāhuḥ kambugrīvo mahāhanuḥ || 9 ||
+
+Word meanings:
+• buddhimān – wise
+• nītimān – knower of right conduct
+• vāgmī – eloquent
+• śrīmān – full of splendour
+• śatrunibarhaṇaḥ – destroyer of enemies
+• vipulāṃsaḥ – broad-shouldered
+• mahābāhuḥ – long, mighty-armed
+• kambugrīvaḥ – with a neck shaped like a conch
+• mahāhanuḥ – with a strong jaw
+
+Meaning:
+"He is wise, knows right conduct, speaks beautifully, is full of splendour and destroys his enemies. He has broad shoulders, long mighty arms, a neck as graceful as a conch shell, and a strong jaw."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 9
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

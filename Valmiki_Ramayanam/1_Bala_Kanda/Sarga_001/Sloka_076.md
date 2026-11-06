@@ -196,3 +196,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_076.srt](captions/Sloka_076.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+बँधे हनुमान की मुस्कान का रहस्य! 😏 | Ramayanam 1.1.76
+```
+
+**Hindi description:**
+
+```text
+बँधे हनुमान की मुस्कान का रहस्य! 😏 | Ramayanam 1.1.76
+
+अस्त्रेणोन्मुक्तमात्मानं ज्ञात्वा पैतामहाद् वरात् ।
+मर्षयन् राक्षसान् वीरो यन्त्रिणस्तान् यदृच्छया ॥ 76 ॥
+
+शब्दार्थ:
+• पैतामहात् वरात् – ब्रह्मा के दिए वर से
+• अस्त्रेण उन्मुक्तम् आत्मानम् – स्वयं को अस्त्र से मुक्त
+• ज्ञात्वा – जानकर भी
+• वीरः – वीर (हनुमान)
+• यन्त्रिणः तान् राक्षसान् – बाँधकर ले जाते उन राक्षसों को
+• यदृच्छया – अपनी इच्छा से
+• मर्षयन् – सहते रहे
+
+भावार्थ:
+"ब्रह्मदेव के वर से वे अस्त्र के बंधन से मुक्त हो चुके हैं – यह जानते हुए भी वीर हनुमान (रावण से मिलने के उद्देश्य से) उन्हें बाँधकर ले जाते राक्षसों को जान-बूझकर सहते रहे।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 76
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+The secret behind the bound Hanuman's smile! 😏 | Ramayanam 1.1.76
+```
+
+**English description:**
+
+```text
+The secret behind the bound Hanuman's smile! 😏 | Ramayanam 1.1.76
+
+astreṇonmuktamātmānaṃ jñātvā paitāmahād varāt |
+marṣayan rākṣasān vīro yantriṇastān yadṛcchayā || 76 ||
+
+Word meanings:
+• paitāmahāt varāt – by Brahma's boon
+• astreṇa unmuktam ātmānam – himself freed from the weapon
+• jñātvā – though knowing
+• vīraḥ – the hero (Hanuman)
+• yantriṇaḥ tān rākṣasān – those rakshasas who bound and dragged him
+• yadṛcchayā – of his own will
+• marṣayan – bore patiently
+
+Meaning:
+"Though he knew that Brahma's boon had already freed him from the weapon's hold, the heroic Hanuman (wanting to meet Ravana) deliberately put up with the rakshasas who bound him and dragged him away."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 76
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

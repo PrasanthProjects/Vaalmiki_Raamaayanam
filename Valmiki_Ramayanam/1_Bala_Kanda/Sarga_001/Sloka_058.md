@@ -193,3 +193,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_058.srt](captions/Sloka_058.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+श्रीराम और हनुमान की पहली भेंट! 🐒🙏 | Ramayanam 1.1.58
+```
+
+**Hindi description:**
+
+```text
+श्रीराम और हनुमान की पहली भेंट! 🐒🙏 | Ramayanam 1.1.58
+
+शबर्या पूजितः सम्यग् रामो दशरथात्मजः ।
+पम्पातीरे हनुमता सङ्गतो वानरेण ह ॥ 58 ॥
+
+शब्दार्थ:
+• दशरथात्मजः रामः – दशरथ के पुत्र राम
+• शबर्या – शबरी द्वारा
+• सम्यक् पूजितः – भली-भाँति पूजे गए
+• पम्पातीरे – पंपा सरोवर के तट पर
+• हनुमता वानरेण – हनुमान वानर से
+• सङ्गतः ह – मिले
+
+भावार्थ:
+"दशरथ-पुत्र श्रीराम का शबरी ने बड़ी भक्ति से भली-भाँति पूजन किया। फिर पंपा सरोवर के तट पर श्रीराम हनुमान नामक वानर से मिले।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 58
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+The moment Sri Rama first met Hanuman! 🐒🙏 | Ramayanam 1.1.58
+```
+
+**English description:**
+
+```text
+The moment Sri Rama first met Hanuman! 🐒🙏 | Ramayanam 1.1.58
+
+śabaryā pūjitaḥ samyag rāmo daśarathātmajaḥ |
+pampātīre hanumatā saṅgato vānareṇa ha || 58 ||
+
+Word meanings:
+• daśarathātmajaḥ rāmaḥ – Rama, son of Dasharatha
+• śabaryā – by Shabari
+• samyak pūjitaḥ – was worshipped with devotion
+• pampātīre – on the shore of Lake Pampa
+• hanumatā vānareṇa – the vanara Hanuman
+• saṅgataḥ ha – met
+
+Meaning:
+"Shabari worshipped Rama, the son of Dasharatha, with great devotion. Then, on the shore of Lake Pampa, Rama met the vanara named Hanuman."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 58
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

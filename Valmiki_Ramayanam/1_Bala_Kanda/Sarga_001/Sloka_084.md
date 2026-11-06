@@ -194,3 +194,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_084.srt](captions/Sloka_084.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+तीनों लोकों का आनंद! 🌟 | Ramayanam 1.1.84
+```
+
+**Hindi description:**
+
+```text
+तीनों लोकों का आनंद! 🌟 | Ramayanam 1.1.84
+
+सदेवर्षिगणं तुष्टं राघवस्य महात्मनः ।
+बभौ रामः सम्प्रहृष्टः पूजितः सर्वदेवतैः ॥ 84 ॥
+
+शब्दार्थ:
+• सदेवर्षिगणम् – देवताओं और ऋषियों के समूह सहित
+• तुष्टम् – प्रसन्न हुए
+• सर्वदैवतैः पूजितः – सब देवताओं से पूजित
+• रामः – राम
+• सम्प्रहृष्टः – अत्यंत प्रसन्न होकर
+• बभौ – शोभित हुए
+
+भावार्थ:
+"...देवताओं और ऋषियों सहित सब प्रसन्न हो उठे। सब देवताओं से पूजित श्रीराम बड़े आनंद से शोभायमान हुए।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 84
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Joy across the three worlds! 🌟 | Ramayanam 1.1.84
+```
+
+**English description:**
+
+```text
+Joy across the three worlds! 🌟 | Ramayanam 1.1.84
+
+sadevarṣigaṇaṃ tuṣṭaṃ rāghavasya mahātmanaḥ |
+babhau rāmaḥ samprahṛṣṭaḥ pūjitaḥ sarvadevataiḥ || 84 ||
+
+Word meanings:
+• sadevarṣigaṇam – together with the hosts of gods and sages
+• tuṣṭam – rejoiced
+• sarvadaivataiḥ pūjitaḥ – worshipped by all the gods
+• rāmaḥ – Rama
+• samprahṛṣṭaḥ – overjoyed
+• babhau – shone
+
+Meaning:
+"...rejoiced, together with all the gods and sages. Worshipped by every god, Rama shone with great joy."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 84
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

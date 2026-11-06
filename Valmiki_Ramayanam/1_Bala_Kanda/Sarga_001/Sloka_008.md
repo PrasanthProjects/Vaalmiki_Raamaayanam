@@ -190,3 +190,69 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_008.srt](captions/Sloka_008.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+रामायण में "राम" नाम पहली बार! 🙏 | Ramayanam 1.1.8
+```
+
+**Hindi description:**
+
+```text
+रामायण में "राम" नाम पहली बार! 🙏 | Ramayanam 1.1.8
+
+इक्ष्वाकुवंशप्रभवो रामो नाम जनैः श्रुतः ।
+नियतात्मा महावीर्यो द्युतिमान्धृतिमान्वशी ॥ 8 ॥
+
+शब्दार्थ:
+• इक्ष्वाकुवंशप्रभवः – इक्ष्वाकु वंश में जन्मे
+• रामः नाम – राम नाम वाले
+• जनैः श्रुतः – लोगों में प्रसिद्ध
+• नियतात्मा – मन को वश में रखने वाले
+• महावीर्यः – महा पराक्रमी
+• द्युतिमान् – तेजस्वी
+• धृतिमान् – धैर्यवान
+• वशी – इंद्रियों को जीतने वाले
+
+भावार्थ:
+"इक्ष्वाकु वंश में जन्मे 'राम' नाम से सब लोगों में प्रसिद्ध एक महापुरुष हैं। वे मन को वश में रखने वाले, महा पराक्रमी, तेज से चमकने वाले, कितना भी संकट आए धैर्य न खोने वाले और इंद्रियों को जीतने वाले हैं।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 8
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+The name "Rama" appears for the first time! 🙏 | Ramayanam 1.1.8
+```
+
+**English description:**
+
+```text
+The name "Rama" appears for the first time! 🙏 | Ramayanam 1.1.8
+
+ikṣvākuvaṃśaprabhavo rāmo nāma janaiḥ śrutaḥ |
+niyatātmā mahāvīryo dyutimāndhṛtimānvaśī || 8 ||
+
+Word meanings:
+• ikṣvākuvaṃśaprabhavaḥ – born in the Ikshvaku dynasty
+• rāmaḥ nāma – named Rama
+• janaiḥ śrutaḥ – famed among the people
+• niyatātmā – with a disciplined mind
+• mahāvīryaḥ – of great valour
+• dyutimān – radiant
+• dhṛtimān – steadfast
+• vaśī – master of his senses
+
+Meaning:
+"Born in the Ikshvaku dynasty, there is a great soul known to all the people by the name Rama. He has a disciplined mind and great valour, shines with radiance, never loses courage however hard things become, and has mastered his senses."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 8
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

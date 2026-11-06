@@ -185,3 +185,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_060.srt](captions/Sloka_060.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+सीता की कथा सुनकर सुग्रीव! 😥 | Ramayanam 1.1.60
+```
+
+**Hindi description:**
+
+```text
+सीता की कथा सुनकर सुग्रीव! 😥 | Ramayanam 1.1.60
+
+आदितस्तद् यथावृत्तं सीतायाश्च विशेषतः ।
+सुग्रीवश्चापि तत्सर्वं श्रुत्वा रामस्य वानरः ॥ 60 ॥
+
+शब्दार्थ:
+• आदितः – आरंभ से
+• यथावृत्तम् – जैसा हुआ वैसा
+• विशेषतः सीतायाः च – और विशेष रूप से सीता के बारे में
+• वानरः सुग्रीवः च अपि – और वानर सुग्रीव भी
+• रामस्य – राम से
+• तत् सर्वम् श्रुत्वा – वह सब सुनकर
+
+भावार्थ:
+"...आरंभ से, जैसा हुआ वैसा ही, और विशेष रूप से सीता के हरण के बारे में विस्तार से बताया। श्रीराम से यह सब सुनकर वानर सुग्रीव ने भी..."
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 60
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Sugriva hears what happened to Sita! 😥 | Ramayanam 1.1.60
+```
+
+**English description:**
+
+```text
+Sugriva hears what happened to Sita! 😥 | Ramayanam 1.1.60
+
+āditastad yathāvṛttaṃ sītāyāśca viśeṣataḥ |
+sugrīvaścāpi tatsarvaṃ śrutvā rāmasya vānaraḥ || 60 ||
+
+Word meanings:
+• āditaḥ – from the beginning
+• yathāvṛttam – just as it happened
+• viśeṣataḥ sītāyāḥ ca – and especially about Sita
+• vānaraḥ sugrīvaḥ ca api – and the vanara Sugriva too
+• rāmasya – from Rama
+• tat sarvam śrutvā – hearing all of that
+
+Meaning:
+"...from the beginning, exactly as it happened, and above all about Sita's abduction. Hearing all this from Rama, the vanara Sugriva in turn..."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 60
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

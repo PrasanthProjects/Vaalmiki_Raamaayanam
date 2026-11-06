@@ -188,3 +188,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_020.srt](captions/Sloka_020.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+राजा दशरथ की सबसे बड़ी इच्छा! 👑 | Ramayanam 1.1.20
+```
+
+**Hindi description:**
+
+```text
+राजा दशरथ की सबसे बड़ी इच्छा! 👑 | Ramayanam 1.1.20
+
+ज्येष्ठं ज्येष्ठगुणैर्युक्तं प्रियं दशरथस्सुतम् ।
+प्रकृतीनां हितैर्युक्तं प्रकृतिप्रियकाम्यया ॥ 20 ॥
+
+शब्दार्थ:
+• ज्येष्ठम् – बड़े पुत्र
+• ज्येष्ठगुणैः युक्तम् – उत्तम गुणों से युक्त
+• दशरथः – महाराज दशरथ
+• प्रियम् सुतम् – अपने प्रिय पुत्र को
+• प्रकृतीनाम् हितैः युक्तम् – प्रजा का हित करने वाले
+• प्रकृतिप्रियकाम्यया – प्रजा को प्रसन्न करने की इच्छा से
+
+भावार्थ:
+"अपने बड़े पुत्र, उत्तम गुणों वाले, अत्यंत प्रिय और प्रजा का हित करने वाले उन श्रीराम को, प्रजा को प्रसन्न करने की इच्छा से महाराज दशरथ..." (वाक्य अगले श्लोक में पूरा होता है।)
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 20
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+King Dasharatha's greatest wish! 👑 | Ramayanam 1.1.20
+```
+
+**English description:**
+
+```text
+King Dasharatha's greatest wish! 👑 | Ramayanam 1.1.20
+
+jyeṣṭhaṃ jyeṣṭhaguṇairyuktaṃ priyaṃ daśarathassutam |
+prakṛtīnāṃ hitairyuktaṃ prakṛtipriyakāmyayā || 20 ||
+
+Word meanings:
+• jyeṣṭham – eldest
+• jyeṣṭhaguṇaiḥ yuktam – endowed with the finest virtues
+• daśarathaḥ – King Dasharatha
+• priyam sutam – his beloved son
+• prakṛtīnām hitaiḥ yuktam – devoted to his people's good
+• prakṛtipriyakāmyayā – wishing to please his people
+
+Meaning:
+"His eldest son, blessed with the finest virtues, dearly loved and devoted to the people's good – wishing to make his people happy, King Dasharatha..." (the sentence is completed in the next shloka).
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 20
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

@@ -188,3 +188,61 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_080.srt](captions/Sloka_080.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+रामसेतु का निर्माण! 🌉 | Ramayanam 1.1.80
+```
+
+**Hindi description:**
+
+```text
+रामसेतु का निर्माण! 🌉 | Ramayanam 1.1.80
+
+दर्शयामास चात्मानं समुद्रः सरितां पतिः ।
+समुद्रवचनाच्चैव नलं सेतुमकारयत् ॥ 80 ॥
+
+शब्दार्थ:
+• सरिताम् पतिः समुद्रः – नदियों के स्वामी समुद्र ने
+• आत्मानम् दर्शयामास च – स्वयं को प्रकट किया
+• समुद्रवचनात् च एव – और समुद्र के कहने पर
+• नलम् सेतुम् अकारयत् – नल से सेतु बनवाया
+
+भावार्थ:
+"तब नदियों के स्वामी समुद्रदेव स्वयं प्रकट हुए। समुद्र के बताए उपाय से श्रीराम ने नल नामक वानर से समुद्र पर सेतु बनवाया।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 80
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Building the Rama Setu! 🌉 | Ramayanam 1.1.80
+```
+
+**English description:**
+
+```text
+Building the Rama Setu! 🌉 | Ramayanam 1.1.80
+
+darśayāmāsa cātmānaṃ samudraḥ saritāṃ patiḥ |
+samudravacanāccaiva nalaṃ setumakārayat || 80 ||
+
+Word meanings:
+• saritām patiḥ samudraḥ – the ocean, lord of rivers
+• ātmānam darśayāmāsa ca – revealed himself
+• samudravacanāt ca eva – and at the ocean's word
+• nalam setum akārayat – had Nala build a bridge
+
+Meaning:
+"Then the ocean god, lord of all rivers, appeared in person. Following the ocean's advice, Rama had the vanara Nala build a bridge across the sea."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 80
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

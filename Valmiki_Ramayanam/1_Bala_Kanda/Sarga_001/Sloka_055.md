@@ -192,3 +192,63 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_055.srt](captions/Sloka_055.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+बिना सिर का राक्षस कबंध! 👁️ | Ramayanam 1.1.55
+```
+
+**Hindi description:**
+
+```text
+बिना सिर का राक्षस कबंध! 👁️ | Ramayanam 1.1.55
+
+मार्गमाणो वने सीतां राक्षसं सन्ददर्श ह ।
+कबन्धं नाम रूपेण विकृतं घोरदर्शनम् ॥ 55 ॥
+
+शब्दार्थ:
+• वने सीताम् मार्गमाणः – वन में सीता को खोजते हुए
+• रूपेण विकृतम् – रूप में विकृत
+• घोरदर्शनम् – देखने में भयंकर
+• कबन्धम् नाम राक्षसम् – कबंध नाम के राक्षस को
+• सन्ददर्श ह – देखा
+
+भावार्थ:
+"वन में सीता को खोजते हुए श्रीराम के सामने विकृत रूप वाला, देखने में ही भयंकर कबंध नामक राक्षस आ गया।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 55
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Kabandha, the headless rakshasa! 👁️ | Ramayanam 1.1.55
+```
+
+**English description:**
+
+```text
+Kabandha, the headless rakshasa! 👁️ | Ramayanam 1.1.55
+
+mārgamāṇo vane sītāṃ rākṣasaṃ sandadarśa ha |
+kabandhaṃ nāma rūpeṇa vikṛtaṃ ghoradarśanam || 55 ||
+
+Word meanings:
+• vane sītām mārgamāṇaḥ – searching for Sita in the forest
+• rūpeṇa vikṛtam – deformed in shape
+• ghoradarśanam – terrible to behold
+• kabandham nāma rākṣasam – the rakshasa named Kabandha
+• sandadarśa ha – saw
+
+Meaning:
+"As Rama searched the forest for Sita, a rakshasa named Kabandha appeared before him – deformed in shape and terrible to behold."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 55
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

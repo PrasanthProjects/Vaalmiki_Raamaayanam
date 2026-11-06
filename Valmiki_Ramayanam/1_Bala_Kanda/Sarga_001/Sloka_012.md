@@ -194,3 +194,69 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_012.srt](captions/Sloka_012.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+वचन न तोड़ने वाला नेता कैसा होता है? 🙏 | Ramayanam 1.1.12
+```
+
+**Hindi description:**
+
+```text
+वचन न तोड़ने वाला नेता कैसा होता है? 🙏 | Ramayanam 1.1.12
+
+धर्मज्ञः सत्यसन्धश्च प्रजानां च हिते रतः ।
+यशस्वी ज्ञानसम्पन्नः शुचिर्वश्यः समाधिमान् ॥ 12 ॥
+
+शब्दार्थ:
+• धर्मज्ञः – धर्म को जानने वाले
+• सत्यसन्धः च – दिए वचन को निभाने वाले
+• प्रजानाम् च हिते रतः – प्रजा के हित में रमे रहने वाले
+• यशस्वी – यशस्वी
+• ज्ञानसम्पन्नः – ज्ञान से भरे
+• शुचिः – पवित्र (भीतर-बाहर शुद्ध)
+• वश्यः – बड़ों के प्रति विनम्र
+• समाधिमान् – मन को एकाग्र रखने वाले
+
+भावार्थ:
+"वे धर्म को जानने वाले, दिया हुआ वचन कभी न तोड़ने वाले और सदा प्रजा के भले की ही सोचने वाले हैं। बड़े यशस्वी और ज्ञानी हैं। मन और आचरण दोनों से पवित्र हैं। बड़ों की बात मानते हैं और मन को एकाग्र रख सकते हैं।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 12
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+What is a leader who never breaks his word like? 🙏 | Ramayanam 1.1.12
+```
+
+**English description:**
+
+```text
+What is a leader who never breaks his word like? 🙏 | Ramayanam 1.1.12
+
+dharmajñaḥ satyasandhaśca prajānāṃ ca hite rataḥ |
+yaśasvī jñānasampannaḥ śucirvaśyaḥ samādhimān || 12 ||
+
+Word meanings:
+• dharmajñaḥ – knower of dharma
+• satyasandhaḥ ca – true to his promises
+• prajānām ca hite rataḥ – devoted to the welfare of his people
+• yaśasvī – renowned
+• jñānasampannaḥ – rich in knowledge
+• śuciḥ – pure within and without
+• vaśyaḥ – humble before elders
+• samādhimān – of focused mind
+
+Meaning:
+"He knows dharma, never breaks his word and always thinks of his people's welfare. He is famous and full of knowledge, pure in mind and conduct, listens to his elders and can hold his mind in perfect focus."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 12
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

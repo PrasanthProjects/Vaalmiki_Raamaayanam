@@ -186,3 +186,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_094.srt](captions/Sloka_094.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+सतयुग जैसा रामराज्य! 🔱 | Ramayanam 1.1.94
+```
+
+**Hindi description:**
+
+```text
+सतयुग जैसा रामराज्य! 🔱 | Ramayanam 1.1.94
+
+नित्यं प्रमुदिताः सर्वे यथा कृतयुगे तथा ।
+अश्वमेधशतैरिष्ट्वा तथा बहुसुवर्णकैः ॥ 94 ॥
+
+शब्दार्थ:
+• कृतयुगे यथा – जैसे सतयुग में
+• तथा – वैसे ही
+• सर्वे – सब
+• नित्यम् प्रमुदिताः – सदा आनंदित
+• अश्वमेधशतैः – सैकड़ों अश्वमेध यज्ञों से
+• तथा बहुसुवर्णकैः – और बहुत स्वर्ण-दक्षिणा वाले यज्ञों से
+• इष्ट्वा – यज्ञ करके
+
+भावार्थ:
+"सतयुग की तरह सब लोग सदा आनंद में रहेंगे। श्रीराम सैकड़ों अश्वमेध यज्ञ और बहुत-सा सोना दक्षिणा में देने वाले यज्ञ करके..."
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 94
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Rama Rajya, like the golden age! 🔱 | Ramayanam 1.1.94
+```
+
+**English description:**
+
+```text
+Rama Rajya, like the golden age! 🔱 | Ramayanam 1.1.94
+
+nityaṃ pramuditāḥ sarve yathā kṛtayuge tathā |
+aśvamedhaśatairiṣṭvā tathā bahusuvarṇakaiḥ || 94 ||
+
+Word meanings:
+• kṛtayuge yathā – as in the Krita Yuga (golden age)
+• tathā – just so
+• sarve – everyone
+• nityam pramuditāḥ – ever joyful
+• aśvamedhaśataiḥ – with hundreds of horse sacrifices
+• tathā bahusuvarṇakaiḥ – and with sacrifices of abundant gold gifts
+• iṣṭvā – having performed
+
+Meaning:
+"As in the golden age, everyone will always be happy. Rama, having performed hundreds of horse sacrifices and sacrifices with gifts of abundant gold..."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 94
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

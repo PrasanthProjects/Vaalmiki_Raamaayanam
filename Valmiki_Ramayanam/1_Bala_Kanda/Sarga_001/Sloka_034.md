@@ -188,3 +188,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_034.srt](captions/Sloka_034.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+सिंहासन ठुकराने वाले भरत! 👑❌ | Ramayanam 1.1.34
+```
+
+**Hindi description:**
+
+```text
+सिंहासन ठुकराने वाले भरत! 👑❌ | Ramayanam 1.1.34
+
+नियुज्यमानो राज्याय नैच्छत् राज्यं महाबलः ।
+स जगाम वनं वीरो रामपादप्रसादकः ॥ 34 ॥
+
+शब्दार्थ:
+• राज्याय नियुज्यमानः – राज्य सँभालने को कहे जाने पर भी
+• महाबलः – महाबली (भरत)
+• राज्यम् न ऐच्छत् – राज्य नहीं चाहा
+• सः वीरः – वे वीर
+• रामपादप्रसादकः – राम के चरणों को प्रसन्न करने के लिए
+• वनम् जगाम – वन को गए
+
+भावार्थ:
+"...वसिष्ठ आदि ने भरत से राज्य सँभालने को कहा, पर महाबली भरत ने राज्य नहीं चाहा। श्रीराम के चरणों की शरण लेकर उन्हें प्रसन्न करने के लिए वे वन चल पड़े।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 34
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Bharata, who refused the throne! 👑❌ | Ramayanam 1.1.34
+```
+
+**English description:**
+
+```text
+Bharata, who refused the throne! 👑❌ | Ramayanam 1.1.34
+
+niyujyamāno rājyāya naicchat rājyaṃ mahābalaḥ |
+sa jagāma vanaṃ vīro rāmapādaprasādakaḥ || 34 ||
+
+Word meanings:
+• rājyāya niyujyamānaḥ – though asked to take the kingdom
+• mahābalaḥ – the mighty (Bharata)
+• rājyam na aicchat – did not want the kingdom
+• saḥ vīraḥ – that hero
+• rāmapādaprasādakaḥ – to win the grace of Rama's feet
+• vanam jagāma – went to the forest
+
+Meaning:
+"...Vasishtha and the elders asked Bharata to take the throne, but the mighty Bharata did not want the kingdom. To take refuge at Rama's feet and win his grace, he set out for the forest."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 34
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

@@ -194,3 +194,69 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_036.srt](captions/Sloka_036.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+"राजा तो आप ही हैं, भैया!" 🥺 | Ramayanam 1.1.36
+```
+
+**Hindi description:**
+
+```text
+"राजा तो आप ही हैं, भैया!" 🥺 | Ramayanam 1.1.36
+
+त्वमेव राजा धर्मज्ञ इति रामं वचोऽब्रवीत् ।
+रामोऽपि परमोदारः सुमुखस्सुमहायशाः ॥ 36 ॥
+
+शब्दार्थ:
+• धर्मज्ञ – हे धर्म को जानने वाले!
+• त्वम् एव राजा – आप ही राजा हैं
+• इति – ऐसा
+• रामम् वचः अब्रवीत् – राम से कहा
+• रामः अपि – राम भी
+• परमोदारः – परम उदार
+• सुमुखः – प्रसन्न मुख वाले
+• सुमहायशाः – महान यशस्वी
+
+भावार्थ:
+"'भैया! आप धर्म को जानते हैं। इस राज्य के राजा आप ही हैं' – भरत ने श्रीराम से कहा। परंतु परम उदार, सदा प्रसन्न रहने वाले, महान यशस्वी श्रीराम ने..."
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 36
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+"You alone are the king, brother!" 🥺 | Ramayanam 1.1.36
+```
+
+**English description:**
+
+```text
+"You alone are the king, brother!" 🥺 | Ramayanam 1.1.36
+
+tvameva rājā dharmajña iti rāmaṃ vaco'bravīt |
+rāmo'pi paramodāraḥ sumukhassumahāyaśāḥ || 36 ||
+
+Word meanings:
+• dharmajña – O knower of dharma!
+• tvam eva rājā – you alone are the king
+• iti – so
+• rāmam vacaḥ abravīt – he said to Rama
+• rāmaḥ api – Rama too
+• paramodāraḥ – supremely generous
+• sumukhaḥ – of cheerful face
+• sumahāyaśāḥ – greatly renowned
+
+Meaning:
+"'Brother, you know dharma. You alone are the king of this land,' Bharata said to Rama. But Rama – supremely generous, always cheerful and greatly renowned..."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 36
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

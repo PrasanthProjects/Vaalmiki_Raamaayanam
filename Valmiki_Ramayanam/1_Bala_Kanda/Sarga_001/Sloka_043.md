@@ -190,3 +190,63 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_043.srt](captions/Sloka_043.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+कभी खाली न होने वाले तरकश! ♾️ | Ramayanam 1.1.43
+```
+
+**Hindi description:**
+
+```text
+कभी खाली न होने वाले तरकश! ♾️ | Ramayanam 1.1.43
+
+खड्गञ्च परमप्रीतस्तूणी चाक्षयसायकौ ।
+वसतस्तस्य रामस्य वने वनचरैः सह ॥ 43 ॥
+
+शब्दार्थ:
+• परमप्रीतः – बहुत प्रसन्न होकर
+• खड्गम् च – तलवार भी
+• अक्षयसायकौ तूणी च – और कभी न घटने वाले बाणों वाले दो तरकश
+• वने वनचरैः सह – वन में वनवासियों के साथ
+• वसतः तस्य रामस्य – रहते हुए उन राम के पास
+
+भावार्थ:
+"बड़ी प्रसन्नता से उन्होंने एक तलवार और कभी खाली न होने वाले बाणों से भरे दो तरकश भी स्वीकार किए। वन में वनवासियों के साथ रहते हुए उन श्रीराम के पास..."
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 43
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Quivers whose arrows never run out! ♾️ | Ramayanam 1.1.43
+```
+
+**English description:**
+
+```text
+Quivers whose arrows never run out! ♾️ | Ramayanam 1.1.43
+
+khaḍgañca paramaprītastūṇī cākṣayasāyakau |
+vasatastasya rāmasya vane vanacaraiḥ saha || 43 ||
+
+Word meanings:
+• paramaprītaḥ – greatly pleased
+• khaḍgam ca – a sword too
+• akṣayasāyakau tūṇī ca – and two quivers of never-ending arrows
+• vane vanacaraiḥ saha – in the forest with the forest-dwellers
+• vasataḥ tasya rāmasya – to that Rama as he lived there
+
+Meaning:
+"With great joy he also accepted a sword and two quivers whose arrows never run out. To Rama, as he lived in the forest among its dwellers..."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 43
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

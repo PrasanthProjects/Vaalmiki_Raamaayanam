@@ -185,3 +185,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_072.srt](captions/Sloka_072.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+हनुमान का समुद्र-लंघन! 🌊🐒 | Ramayanam 1.1.72
+```
+
+**Hindi description:**
+
+```text
+हनुमान का समुद्र-लंघन! 🌊🐒 | Ramayanam 1.1.72
+
+ततो गृध्रस्य वचनात् संपातेर्हनुमान् बली ।
+शतयोजनविस्तीर्णं पुप्लुवे लवणार्णवम् ॥ 72 ॥
+
+शब्दार्थ:
+• ततः – तब
+• गृध्रस्य संपातेः वचनात् – गिद्ध संपाति के कहने पर
+• बली हनुमान् – बलवान हनुमान
+• शतयोजनविस्तीर्णम् – सौ योजन चौड़े
+• लवणार्णवम् – खारे समुद्र को
+• पुप्लुवे – लाँघ गए
+
+भावार्थ:
+"फिर जटायु के भाई गिद्ध संपाति के यह बताने पर (कि सीता लंका में हैं), बलवान हनुमान सौ योजन चौड़े खारे समुद्र को एक ही छलाँग में पार कर गए।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 72
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Hanuman leaps across the ocean! 🌊🐒 | Ramayanam 1.1.72
+```
+
+**English description:**
+
+```text
+Hanuman leaps across the ocean! 🌊🐒 | Ramayanam 1.1.72
+
+tato gṛdhrasya vacanāt saṃpāterhanumān balī |
+śatayojanavistīrṇaṃ pupluve lavaṇārṇavam || 72 ||
+
+Word meanings:
+• tataḥ – then
+• gṛdhrasya saṃpāteḥ vacanāt – at the word of the vulture Sampati
+• balī hanumān – the mighty Hanuman
+• śatayojanavistīrṇam – a hundred yojanas wide
+• lavaṇārṇavam – the salt ocean
+• pupluve – leapt across
+
+Meaning:
+"Then, when the vulture Sampati, Jatayu's brother, told them that Sita was in Lanka, the mighty Hanuman leapt across the salt ocean, a hundred yojanas wide, in a single bound."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 72
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

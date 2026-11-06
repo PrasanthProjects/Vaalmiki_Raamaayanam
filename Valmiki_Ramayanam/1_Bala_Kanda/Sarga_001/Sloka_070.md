@@ -190,3 +190,69 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_070.srt](captions/Sloka_070.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+सुग्रीव का राज्याभिषेक! 👑🐒 | Ramayanam 1.1.70
+```
+
+**Hindi description:**
+
+```text
+सुग्रीव का राज्याभिषेक! 👑🐒 | Ramayanam 1.1.70
+
+ततः सुग्रीववचनात् हत्वा वालिनमाहवे ।
+सुग्रीवमेव तद्राज्ये राघवः प्रत्यपादयत् ॥ 70 ॥
+
+शब्दार्थ:
+• ततः – तब
+• सुग्रीववचनात् – सुग्रीव के कहने पर
+• आहवे – युद्ध में
+• वालिनम् हत्वा – वाली को मारकर
+• राघवः – राघव ने
+• तत् राज्ये – उस राज्य में
+• सुग्रीवम् एव – सुग्रीव को ही
+• प्रत्यपादयत् – स्थापित किया
+
+भावार्थ:
+"सुग्रीव की इच्छा के अनुसार युद्ध में वाली का वध करके श्रीराम ने किष्किंधा के राज्य पर सुग्रीव को ही राजा बनाया।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 70
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Sugriva is crowned king! 👑🐒 | Ramayanam 1.1.70
+```
+
+**English description:**
+
+```text
+Sugriva is crowned king! 👑🐒 | Ramayanam 1.1.70
+
+tataḥ sugrīvavacanāt hatvā vālinamāhave |
+sugrīvameva tadrājye rāghavaḥ pratyapādayat || 70 ||
+
+Word meanings:
+• tataḥ – then
+• sugrīvavacanāt – at Sugriva's request
+• āhave – in battle
+• vālinam hatvā – slaying Vali
+• rāghavaḥ – Raghava
+• tat rājye – in that kingdom
+• sugrīvam eva – Sugriva himself
+• pratyapādayat – installed
+
+Meaning:
+"Having slain Vali in battle as Sugriva wished, Rama made Sugriva himself king of Kishkindha."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 70
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

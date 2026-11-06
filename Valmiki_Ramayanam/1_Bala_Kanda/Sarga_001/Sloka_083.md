@@ -190,3 +190,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_083.srt](captions/Sloka_083.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+अग्निदेव की गवाही! 🔥✨ | Ramayanam 1.1.83
+```
+
+**Hindi description:**
+
+```text
+अग्निदेव की गवाही! 🔥✨ | Ramayanam 1.1.83
+
+ततोऽग्निवचनात् सीतां ज्ञात्वा विगतकल्मषाम् ।
+कर्मणा तेन महता त्रैलोक्यं सचराचरम् ॥ 83 ॥
+
+शब्दार्थ:
+• ततः – तब
+• अग्निवचनात् – अग्नि के कहने से
+• सीताम् विगतकल्मषाम् ज्ञात्वा – सीता को निर्दोष जानकर (स्वीकार किया)
+• महात्मनः राघवस्य – महात्मा राघव के
+• तेन महता कर्मणा – उस महान कार्य से
+• सचराचरम् त्रैलोक्यम् – चर-अचर सहित तीनों लोक
+
+भावार्थ:
+"तब अग्निदेव ने स्वयं प्रकट होकर सीता को निर्दोष बताया, और श्रीराम ने प्रसन्नता से उन्हें स्वीकार किया। महात्मा श्रीराम के उस महान कार्य (रावण-वध) से चर-अचर सहित तीनों लोक..."
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 83
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+The fire god bears witness! 🔥✨ | Ramayanam 1.1.83
+```
+
+**English description:**
+
+```text
+The fire god bears witness! 🔥✨ | Ramayanam 1.1.83
+
+tato'gnivacanāt sītāṃ jñātvā vigatakalmaṣām |
+karmaṇā tena mahatā trailokyaṃ sacarācaram || 83 ||
+
+Word meanings:
+• tataḥ – then
+• agnivacanāt – by the fire god's word
+• sītām vigatakalmaṣām jñātvā – knowing Sita to be free of any fault (he accepted her)
+• mahātmanaḥ rāghavasya – of the great-souled Raghava
+• tena mahatā karmaṇā – by that great deed
+• sacarācaram trailokyam – the three worlds with all moving and unmoving beings
+
+Meaning:
+"Then Agni, the fire god, appeared and declared Sita free of all fault, and Rama joyfully accepted her. Through that great deed of the great-souled Rama (the slaying of Ravana), the three worlds with all their beings, moving and unmoving..."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 83
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

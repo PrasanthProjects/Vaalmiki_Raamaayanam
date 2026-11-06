@@ -194,3 +194,69 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_057.srt](captions/Sloka_057.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+शबरी के पास श्रीराम! 🌺 | Ramayanam 1.1.57
+```
+
+**Hindi description:**
+
+```text
+शबरी के पास श्रीराम! 🌺 | Ramayanam 1.1.57
+
+श्रमणां धर्मनिपुणामभिगच्छेति राघव ।
+सोऽभ्यगच्छन्महातेजाः शबरीं शत्रुसूदनः ॥ 57 ॥
+
+शब्दार्थ:
+• राघव – हे राघव!
+• धर्मनिपुणाम् – धर्म में निपुण
+• श्रमणाम् – तपस्विनी (शबरी) के पास
+• अभिगच्छ इति – जाइए – ऐसा (कहा)
+• महातेजाः – महा तेजस्वी
+• शत्रुसूदनः – शत्रुओं का संहार करने वाले
+• सः – वे (राम)
+• शबरीम् अभ्यगच्छत् – शबरी के पास गए
+
+भावार्थ:
+कबंध ने कहा: "हे राघव! धर्म को भली-भाँति जानने वाली तपस्विनी शबरी के दर्शन कीजिए।" तब महा तेजस्वी, शत्रुओं का संहार करने वाले श्रीराम शबरी के आश्रम गए।
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 57
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Sri Rama comes to Shabari! 🌺 | Ramayanam 1.1.57
+```
+
+**English description:**
+
+```text
+Sri Rama comes to Shabari! 🌺 | Ramayanam 1.1.57
+
+śramaṇāṃ dharmanipuṇāmabhigaccheti rāghava |
+so'bhyagacchanmahātejāḥ śabarīṃ śatrusūdanaḥ || 57 ||
+
+Word meanings:
+• rāghava – O Raghava!
+• dharmanipuṇām – skilled in dharma
+• śramaṇām – to the woman ascetic (Shabari)
+• abhigaccha iti – go – so (he said)
+• mahātejāḥ – of great radiance
+• śatrusūdanaḥ – slayer of enemies
+• saḥ – he (Rama)
+• śabarīm abhyagacchat – went to Shabari
+
+Meaning:
+Kabandha said: "O Raghava! Go and see Shabari, the woman ascetic who knows dharma well." Then Rama, radiant and the slayer of foes, went to Shabari's hermitage.
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 57
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

@@ -191,3 +191,69 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_062.srt](captions/Sloka_062.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+वाली-वध की श्रीराम की प्रतिज्ञा! 🏹 | Ramayanam 1.1.62
+```
+
+**Hindi description:**
+
+```text
+वाली-वध की श्रीराम की प्रतिज्ञा! 🏹 | Ramayanam 1.1.62
+
+रामायावेदितं सर्वं प्रणयात् दुःखितेन च ।
+प्रतिज्ञातञ्च रामेण तदा वालिवधं प्रति ॥ 62 ॥
+
+शब्दार्थ:
+• दुःखितेन – दुखी (सुग्रीव) द्वारा
+• प्रणयात् – मित्रता के अपनेपन से
+• सर्वम् – सब कुछ
+• रामाय आवेदितम् – राम को बताया गया
+• तदा – तब
+• रामेण – राम द्वारा
+• वालिवधम् प्रति – वाली के वध के बारे में
+• प्रतिज्ञातम् च – प्रतिज्ञा की गई
+
+भावार्थ:
+"...दुखी सुग्रीव ने मित्रता के अपनेपन से श्रीराम को सब कुछ बता दिया। तब श्रीराम ने प्रतिज्ञा की: 'मैं वाली का वध करूँगा।'"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 62
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Sri Rama vows to slay Vali! 🏹 | Ramayanam 1.1.62
+```
+
+**English description:**
+
+```text
+Sri Rama vows to slay Vali! 🏹 | Ramayanam 1.1.62
+
+rāmāyāveditaṃ sarvaṃ praṇayāt duḥkhitena ca |
+pratijñātañca rāmeṇa tadā vālivadhaṃ prati || 62 ||
+
+Word meanings:
+• duḥkhitena – by the grieving (Sugriva)
+• praṇayāt – with the trust of friendship
+• sarvam – everything
+• rāmāya āveditam – was told to Rama
+• tadā – then
+• rāmeṇa – by Rama
+• vālivadham prati – regarding the slaying of Vali
+• pratijñātam ca – a vow was made
+
+Meaning:
+"...in his grief, with the trust of a friend, Sugriva told Rama everything. Then Rama vowed: 'I will slay Vali.'"
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 62
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

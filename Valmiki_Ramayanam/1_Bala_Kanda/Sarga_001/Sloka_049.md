@@ -189,3 +189,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_049.srt](captions/Sloka_049.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+14,000 राक्षस! 😲 | Ramayanam 1.1.49
+```
+
+**Hindi description:**
+
+```text
+14,000 राक्षस! 😲 | Ramayanam 1.1.49
+
+रक्षसां निहतान्यासन् सहस्राणि चतुर्दश ।
+ततो ज्ञातिवधं श्रुत्वा रावणः क्रोधमूर्छितः ॥ 49 ॥
+
+शब्दार्थ:
+• रक्षसाम् – राक्षसों में से
+• चतुर्दश सहस्राणि – चौदह हज़ार
+• निहतानि आसन् – मारे गए
+• ततः – तब
+• ज्ञातिवधम् श्रुत्वा – अपने बंधुओं का वध सुनकर
+• रावणः – रावण
+• क्रोधमूर्छितः – क्रोध से बेसुध
+
+भावार्थ:
+"...चौदह हज़ार राक्षसों का संहार कर दिया। अपने सब बंधुओं के मारे जाने की बात सुनकर रावण क्रोध से बेसुध होकर जल उठा।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 49
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Fourteen thousand rakshasas! 😲 | Ramayanam 1.1.49
+```
+
+**English description:**
+
+```text
+Fourteen thousand rakshasas! 😲 | Ramayanam 1.1.49
+
+rakṣasāṃ nihatānyāsan sahasrāṇi caturdaśa |
+tato jñātivadhaṃ śrutvā rāvaṇaḥ krodhamūrchitaḥ || 49 ||
+
+Word meanings:
+• rakṣasām – of the rakshasas
+• caturdaśa sahasrāṇi – fourteen thousand
+• nihatāni āsan – were slain
+• tataḥ – then
+• jñātivadham śrutvā – hearing of his kinsmen's slaughter
+• rāvaṇaḥ – Ravana
+• krodhamūrchitaḥ – beside himself with rage
+
+Meaning:
+"...fourteen thousand of them. Hearing that all his kinsmen had been slain, Ravana burned with rage until he was beside himself."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 49
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

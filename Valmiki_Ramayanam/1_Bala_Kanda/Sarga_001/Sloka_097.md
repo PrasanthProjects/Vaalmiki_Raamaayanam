@@ -185,3 +185,63 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_097.srt](captions/Sloka_097.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+श्रीराम ने कितने वर्ष राज्य किया? ⏳ | Ramayanam 1.1.97
+```
+
+**Hindi description:**
+
+```text
+श्रीराम ने कितने वर्ष राज्य किया? ⏳ | Ramayanam 1.1.97
+
+दशवर्षसहस्राणि दशवर्षशतानि च ।
+रामो राज्यमुपासित्वा ब्रह्मलोकं प्रयास्यति ॥ 97 ॥
+
+शब्दार्थ:
+• दशवर्षसहस्राणि – दस हज़ार वर्ष
+• दशवर्षशतानि च – और दस सौ (एक हज़ार) वर्ष
+• रामः – राम
+• राज्यम् उपासित्वा – राज्य करके
+• ब्रह्मलोकम् प्रयास्यति – ब्रह्मलोक जाएँगे
+
+भावार्थ:
+"श्रीराम ग्यारह हज़ार वर्ष (दस हज़ार और एक हज़ार) राज्य करके अपने परमधाम को जाएँगे।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 97
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+How many years did Sri Rama rule? ⏳ | Ramayanam 1.1.97
+```
+
+**English description:**
+
+```text
+How many years did Sri Rama rule? ⏳ | Ramayanam 1.1.97
+
+daśavarṣasahasrāṇi daśavarṣaśatāni ca |
+rāmo rājyamupāsitvā brahmalokaṃ prayāsyati || 97 ||
+
+Word meanings:
+• daśavarṣasahasrāṇi – ten thousand years
+• daśavarṣaśatāni ca – and ten hundred (a thousand) years
+• rāmaḥ – Rama
+• rājyam upāsitvā – having ruled the kingdom
+• brahmalokam prayāsyati – will go to the realm of Brahma
+
+Meaning:
+"Rama will rule for eleven thousand years (ten thousand and a thousand more), and then return to his supreme abode."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 97
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

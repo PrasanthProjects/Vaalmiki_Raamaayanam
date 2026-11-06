@@ -187,3 +187,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_059.srt](captions/Sloka_059.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+श्रीराम और सुग्रीव का मिलन! 🤝 | Ramayanam 1.1.59
+```
+
+**Hindi description:**
+
+```text
+श्रीराम और सुग्रीव का मिलन! 🤝 | Ramayanam 1.1.59
+
+हनुमद्वचनाच्चैव सुग्रीवेण समागतः ।
+सुग्रीवाय च तत्सर्वं शंसद्रामो महाबलः ॥ 59 ॥
+
+शब्दार्थ:
+• हनुमद्वचनात् च एव – हनुमान के कहने पर
+• सुग्रीवेण समागतः – सुग्रीव से मिले
+• महाबलः रामः – महाबली राम ने
+• सुग्रीवाय – सुग्रीव को
+• तत् सर्वम् – वह सब
+• शंसत् – बताया
+
+भावार्थ:
+"हनुमान के कहने पर श्रीराम सुग्रीव से मिले। महाबली श्रीराम ने अपने साथ जो कुछ हुआ, वह सब सुग्रीव को बताया।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 59
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Sri Rama meets Sugriva! 🤝 | Ramayanam 1.1.59
+```
+
+**English description:**
+
+```text
+Sri Rama meets Sugriva! 🤝 | Ramayanam 1.1.59
+
+hanumadvacanāccaiva sugrīveṇa samāgataḥ |
+sugrīvāya ca tatsarvaṃ śaṃsadrāmo mahābalaḥ || 59 ||
+
+Word meanings:
+• hanumadvacanāt ca eva – at Hanuman's word
+• sugrīveṇa samāgataḥ – met Sugriva
+• mahābalaḥ rāmaḥ – the mighty Rama
+• sugrīvāya – to Sugriva
+• tat sarvam – all of that
+• śaṃsat – told
+
+Meaning:
+"At Hanuman's word, Rama met Sugriva. The mighty Rama told Sugriva everything that had happened to him."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 59
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

@@ -187,3 +187,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_052.srt](captions/Sloka_052.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+सोने के हिरण की माया! 🦌✨ | Ramayanam 1.1.52
+```
+
+**Hindi description:**
+
+```text
+सोने के हिरण की माया! 🦌✨ | Ramayanam 1.1.52
+
+जगाम सहमारीचस्तस्याश्रमपदं तदा ।
+तेन मायाविना दूरमपवाह्य नृपात्मजौ ॥ 52 ॥
+
+शब्दार्थ:
+• सहमारीचः – मारीच को साथ लेकर
+• तदा – तब
+• तस्य आश्रमपदम् – उन (राम) के आश्रम पर
+• जगाम – गया
+• मायाविना तेन – उस मायावी (मारीच) के द्वारा
+• नृपात्मजौ – दोनों राजकुमारों को
+• दूरम् अपवाह्य – दूर ले जाकर
+
+भावार्थ:
+"रावण मारीच को साथ लेकर श्रीराम के आश्रम पर गया। मायावी मारीच के द्वारा (सोने के हिरण के रूप में) दोनों राजकुमारों – राम और लक्ष्मण – को आश्रम से दूर ले जाकर..."
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 52
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+The magic of the golden deer! 🦌✨ | Ramayanam 1.1.52
+```
+
+**English description:**
+
+```text
+The magic of the golden deer! 🦌✨ | Ramayanam 1.1.52
+
+jagāma sahamārīcastasyāśramapadaṃ tadā |
+tena māyāvinā dūramapavāhya nṛpātmajau || 52 ||
+
+Word meanings:
+• sahamārīcaḥ – taking Maricha with him
+• tadā – then
+• tasya āśramapadam – to his (Rama's) hermitage
+• jagāma – went
+• māyāvinā tena – by that master of illusion (Maricha)
+• nṛpātmajau – the two princes
+• dūram apavāhya – drawing far away
+
+Meaning:
+"Ravana went with Maricha to Rama's hermitage. Through Maricha, the master of illusion (in the form of a golden deer), he drew the two princes, Rama and Lakshmana, far from the hermitage..."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 52
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

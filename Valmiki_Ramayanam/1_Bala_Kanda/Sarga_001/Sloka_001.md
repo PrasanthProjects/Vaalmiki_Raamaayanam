@@ -190,3 +190,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_001.srt](captions/Sloka_001.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+रामायण का पहला श्लोक यही है! 🚩 | Ramayanam 1.1.1
+```
+
+**Hindi description:**
+
+```text
+रामायण का पहला श्लोक यही है! 🚩 | Ramayanam 1.1.1
+
+तपः स्वाध्यायनिरतं तपस्वी वाग्विदां वरम् ।
+नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुङ्गवम् ॥ 1 ॥
+
+शब्दार्थ:
+• तपस्वी – तपस्वी
+• वाल्मीकिः – महर्षि वाल्मीकि
+• तपः स्वाध्याय निरतम् – सदा तप और वेदों के अध्ययन में लीन
+• वाग्विदां वरम् – बोलने में निपुण लोगों में श्रेष्ठ
+• मुनिपुङ्गवम् – मुनियों में उत्तम
+• नारदम् – देवर्षि नारद से
+• परिपप्रच्छ – पूछा
+
+भावार्थ:
+तपस्वी महर्षि वाल्मीकि ने सदा तप और वेदाध्ययन में लीन रहने वाले, वाणी के जानकारों में श्रेष्ठ, मुनियों में उत्तम देवर्षि नारद से यह पूछा। (यही श्रीमद् रामायण का पहला श्लोक है – इसी प्रश्न से रामकथा शुरू होती है।)
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 1
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+The very first shloka of the Ramayana! 🚩 | Ramayanam 1.1.1
+```
+
+**English description:**
+
+```text
+The very first shloka of the Ramayana! 🚩 | Ramayanam 1.1.1
+
+tapaḥ svādhyāyanirataṃ tapasvī vāgvidāṃ varam |
+nāradaṃ paripapraccha vālmīkirmunipuṅgavam || 1 ||
+
+Word meanings:
+• tapasvī – the ascetic
+• vālmīkiḥ – Sage Valmiki
+• tapaḥ svādhyāya niratam – ever absorbed in penance and the study of the Vedas
+• vāgvidāṃ varam – the best among the masters of speech
+• munipuṅgavam – the foremost of sages
+• nāradam – Sage Narada
+• paripapraccha – asked
+
+Meaning:
+Sage Valmiki, the ascetic, asked Sage Narada – who is ever absorbed in penance and the study of the Vedas, the finest of all who know how to speak, and the foremost of sages – this question. (This is the very first shloka of the Ramayana; the story of Rama begins with this question.)
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 1
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

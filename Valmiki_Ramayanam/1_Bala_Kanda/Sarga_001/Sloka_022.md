@@ -189,3 +189,63 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_022.srt](captions/Sloka_022.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+कैकेयी के माँगे वे दो वर! 😢 | Ramayanam 1.1.22
+```
+
+**Hindi description:**
+
+```text
+कैकेयी के माँगे वे दो वर! 😢 | Ramayanam 1.1.22
+
+पूर्वं दत्तवरा देवी वरमेनमयाचत ।
+विवासनञ्च रामस्य भरतस्याभिषेचनम् ॥ 22 ॥
+
+शब्दार्थ:
+• पूर्वम् दत्तवरा – पहले से वर पाई हुई
+• देवी – रानी (कैकेयी)
+• वरम् एनम् अयाचत – ये वर माँगे
+• रामस्य विवासनम् च – राम का वनवास
+• भरतस्य अभिषेचनम् – और भरत का राज्याभिषेक
+
+भावार्थ:
+"...पहले ही दशरथ से दो वर पा चुकी कैकेयी ने अब वे वर माँगे: एक – श्रीराम को वन भेजना, दूसरा – भरत का राज्याभिषेक।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 22
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+The two boons Kaikeyi asked for! 😢 | Ramayanam 1.1.22
+```
+
+**English description:**
+
+```text
+The two boons Kaikeyi asked for! 😢 | Ramayanam 1.1.22
+
+pūrvaṃ dattavarā devī varamenamayācata |
+vivāsanañca rāmasya bharatasyābhiṣecanam || 22 ||
+
+Word meanings:
+• pūrvam dattavarā – who had been granted boons earlier
+• devī – the queen (Kaikeyi)
+• varam enam ayācata – asked for these boons
+• rāmasya vivāsanam ca – Rama's exile to the forest
+• bharatasya abhiṣecanam – and Bharata's coronation
+
+Meaning:
+"...Kaikeyi, who had earlier been granted two boons by Dasharatha, now asked for them: first, that Rama be sent to the forest; second, that Bharata be crowned."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 22
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

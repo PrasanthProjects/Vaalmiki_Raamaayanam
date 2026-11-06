@@ -192,3 +192,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_017.srt](captions/Sloka_017.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+समुद्र जैसी गहराई, हिमालय जैसा धैर्य! 🏔️ | Ramayanam 1.1.17
+```
+
+**Hindi description:**
+
+```text
+समुद्र जैसी गहराई, हिमालय जैसा धैर्य! 🏔️ | Ramayanam 1.1.17
+
+स च सर्वगुणोपेतः कौसल्यानन्दवर्धनः ।
+समुद्र इव गाम्भीर्ये धैर्येण हिमवानिव ॥ 17 ॥
+
+शब्दार्थ:
+• सः च – वे राम
+• सर्वगुणोपेतः – सब गुणों से युक्त
+• कौसल्यानन्दवर्धनः – माता कौशल्या का आनंद बढ़ाने वाले
+• गाम्भीर्ये – गंभीरता में
+• समुद्रः इव – समुद्र के समान
+• धैर्येण – धैर्य में
+• हिमवान् इव – हिमालय के समान
+
+भावार्थ:
+"सब सद्गुणों से युक्त वे श्रीराम माता कौशल्या का आनंद बढ़ाने वाले हैं। वे समुद्र की तरह गंभीर हैं – उनके मन की गहराई कोई नहीं नाप सकता। और हिमालय की तरह इतने धीर हैं कि कोई भी संकट उन्हें हिला नहीं सकता।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 17
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Deep as the ocean, steady as the Himalayas! 🏔️ | Ramayanam 1.1.17
+```
+
+**English description:**
+
+```text
+Deep as the ocean, steady as the Himalayas! 🏔️ | Ramayanam 1.1.17
+
+sa ca sarvaguṇopetaḥ kausalyānandavardhanaḥ |
+samudra iva gāmbhīrye dhairyeṇa himavāniva || 17 ||
+
+Word meanings:
+• saḥ ca – that Rama
+• sarvaguṇopetaḥ – endowed with every virtue
+• kausalyānandavardhanaḥ – who increases his mother Kausalya's joy
+• gāmbhīrye – in depth of character
+• samudraḥ iva – like the ocean
+• dhairyeṇa – in steadfastness
+• himavān iva – like the Himalayas
+
+Meaning:
+"That Rama, endowed with every virtue, is the joy of his mother Kausalya. He is deep like the ocean – no one can fathom his mind – and steady like the Himalayas, unshaken by any hardship."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 17
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

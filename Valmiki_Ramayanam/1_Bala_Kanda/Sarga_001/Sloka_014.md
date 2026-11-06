@@ -190,3 +190,61 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_014.srt](captions/Sloka_014.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+ज्ञान + बल = श्रीराम! 📜🏹 | Ramayanam 1.1.14
+```
+
+**Hindi description:**
+
+```text
+ज्ञान + बल = श्रीराम! 📜🏹 | Ramayanam 1.1.14
+
+रक्षिता स्वस्य धर्मस्य स्वजनस्य च रक्षिता ।
+वेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निष्ठितः ॥ 14 ॥
+
+शब्दार्थ:
+• स्वस्य धर्मस्य रक्षिता – अपने धर्म (कर्तव्य) के रक्षक
+• स्वजनस्य च रक्षिता – और अपने लोगों के रक्षक
+• वेदवेदाङ्गतत्त्वज्ञः – वेदों और वेदांगों का सार जानने वाले
+• धनुर्वेदे च निष्ठितः – और धनुर्विद्या में निपुण
+
+भावार्थ:
+"वे अपने धर्म का पालन अवश्य करते हैं और अपने आश्रितों की रक्षा करते हैं। वेदों और वेदांगों का पूरा सार जानते हैं। धनुर्विद्या में वे पूर्ण निपुण हैं।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 14
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Knowledge + strength = Sri Rama! 📜🏹 | Ramayanam 1.1.14
+```
+
+**English description:**
+
+```text
+Knowledge + strength = Sri Rama! 📜🏹 | Ramayanam 1.1.14
+
+rakṣitā svasya dharmasya svajanasya ca rakṣitā |
+vedavedāṅgatattvajño dhanurvede ca niṣṭhitaḥ || 14 ||
+
+Word meanings:
+• svasya dharmasya rakṣitā – keeper of his own duty
+• svajanasya ca rakṣitā – and protector of his own people
+• vedavedāṅgatattvajñaḥ – knower of the essence of the Vedas and their limbs
+• dhanurvede ca niṣṭhitaḥ – and a master of archery
+
+Meaning:
+"He never fails in his own duty and protects those who depend on him. He knows the full essence of the Vedas and their supporting sciences, and he is a master of archery."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 14
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

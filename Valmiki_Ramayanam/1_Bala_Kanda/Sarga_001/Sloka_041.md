@@ -189,3 +189,61 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_041.srt](captions/Sloka_041.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+श्रीराम का सामना पहले राक्षस से! 👹 | Ramayanam 1.1.41
+```
+
+**Hindi description:**
+
+```text
+श्रीराम का सामना पहले राक्षस से! 👹 | Ramayanam 1.1.41
+
+प्रविश्य तु महारण्यं रामो राजीवलोचनः ।
+विराधं राक्षसं हत्वा शरभङ्गं ददर्श ह ॥ 41 ॥
+
+शब्दार्थ:
+• राजीवलोचनः रामः – कमल जैसे नेत्रों वाले राम
+• महारण्यम् प्रविश्य तु – महावन में प्रवेश करके
+• विराधम् राक्षसम् हत्वा – विराध राक्षस को मारकर
+• शरभङ्गम् ददर्श ह – शरभंग मुनि के दर्शन किए
+
+भावार्थ:
+"कमल जैसे नेत्रों वाले श्रीराम ने उस महावन में प्रवेश किया, विराध नामक राक्षस का संहार किया और शरभंग मुनि के दर्शन किए।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 41
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Sri Rama faces his first rakshasa! 👹 | Ramayanam 1.1.41
+```
+
+**English description:**
+
+```text
+Sri Rama faces his first rakshasa! 👹 | Ramayanam 1.1.41
+
+praviśya tu mahāraṇyaṃ rāmo rājīvalocanaḥ |
+virādhaṃ rākṣasaṃ hatvā śarabhaṅgaṃ dadarśa ha || 41 ||
+
+Word meanings:
+• rājīvalocanaḥ rāmaḥ – lotus-eyed Rama
+• mahāraṇyam praviśya tu – entering the great forest
+• virādham rākṣasam hatvā – slaying the rakshasa Viradha
+• śarabhaṅgam dadarśa ha – beheld Sage Sharabhanga
+
+Meaning:
+"Lotus-eyed Rama entered that great forest, slew the rakshasa named Viradha, and went to see Sage Sharabhanga."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 41
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

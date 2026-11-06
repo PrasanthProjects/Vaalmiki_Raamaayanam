@@ -193,3 +193,69 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_021.srt](captions/Sloka_021.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+राज्याभिषेक की तैयारी... और कैकेयी की नज़र! 👁️ | Ramayanam 1.1.21
+```
+
+**Hindi description:**
+
+```text
+राज्याभिषेक की तैयारी... और कैकेयी की नज़र! 👁️ | Ramayanam 1.1.21
+
+यौवराज्येन संयोक्तुम् ऐच्छत्प्रीत्या महीपतिः ।
+तस्याभिषेकसम्भारान् दृष्ट्वा भार्याथ कैकयी ॥ 21 ॥
+
+शब्दार्थ:
+• महीपतिः – राजा (दशरथ)
+• प्रीत्या – प्रेम से
+• यौवराज्येन संयोक्तुम् – युवराज पद पर बिठाना
+• ऐच्छत् – चाहा
+• अथ – तब
+• तस्य अभिषेकसम्भारान् – उस अभिषेक की तैयारियों को
+• दृष्ट्वा – देखकर
+• भार्या कैकयी – राजा की पत्नी कैकेयी
+
+भावार्थ:
+"...महाराज दशरथ ने बड़े प्रेम से श्रीराम को युवराज बनाना चाहा। उस अभिषेक के लिए हो रही तैयारियों को देखकर राजा की पत्नी कैकेयी ने..."
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 21
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+The coronation is prepared... and Kaikeyi watches! 👁️ | Ramayanam 1.1.21
+```
+
+**English description:**
+
+```text
+The coronation is prepared... and Kaikeyi watches! 👁️ | Ramayanam 1.1.21
+
+yauvarājyena saṃyoktum aicchatprītyā mahīpatiḥ |
+tasyābhiṣekasambhārān dṛṣṭvā bhāryātha kaikayī || 21 ||
+
+Word meanings:
+• mahīpatiḥ – the king (Dasharatha)
+• prītyā – with love
+• yauvarājyena saṃyoktum – to install as crown prince
+• aicchat – wished
+• atha – then
+• tasya abhiṣekasambhārān – the preparations for that coronation
+• dṛṣṭvā – seeing
+• bhāryā kaikayī – the king's wife Kaikeyi
+
+Meaning:
+"...With great love King Dasharatha wished to crown Rama as the heir. Seeing the preparations for that coronation, the king's wife Kaikeyi..."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 21
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

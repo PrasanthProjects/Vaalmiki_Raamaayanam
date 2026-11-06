@@ -187,3 +187,63 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_071.srt](captions/Sloka_071.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+चारों दिशाओं में वानर सेना! 🧭 | Ramayanam 1.1.71
+```
+
+**Hindi description:**
+
+```text
+चारों दिशाओं में वानर सेना! 🧭 | Ramayanam 1.1.71
+
+स च सर्वान् समानीय वानरान् वानरर्षभः ।
+दिशः प्रस्थापयामास दिदृक्षुर्जनकात्मजाम् ॥ 71 ॥
+
+शब्दार्थ:
+• वानरर्षभः सः च – और वे वानरश्रेष्ठ (सुग्रीव)
+• सर्वान् वानरान् – सब वानरों को
+• समानीय – बुलाकर
+• जनकात्मजाम् दिदृक्षुः – जनक की पुत्री (सीता) को खोजने की इच्छा से
+• दिशः प्रस्थापयामास – दिशाओं में भेजा
+
+भावार्थ:
+"वानरश्रेष्ठ सुग्रीव ने सब वानरों को बुलाया और माता सीता का पता लगाने के लिए उन्हें सब दिशाओं में भेज दिया।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 71
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+The vanara army sets out in all directions! 🧭 | Ramayanam 1.1.71
+```
+
+**English description:**
+
+```text
+The vanara army sets out in all directions! 🧭 | Ramayanam 1.1.71
+
+sa ca sarvān samānīya vānarān vānararṣabhaḥ |
+diśaḥ prasthāpayāmāsa didṛkṣurjanakātmajām || 71 ||
+
+Word meanings:
+• vānararṣabhaḥ saḥ ca – and that best of vanaras (Sugriva)
+• sarvān vānarān – all the vanaras
+• samānīya – gathering
+• janakātmajām didṛkṣuḥ – longing to find Janaka's daughter (Sita)
+• diśaḥ prasthāpayāmāsa – sent them in every direction
+
+Meaning:
+"Sugriva, the best of vanaras, gathered all the vanaras and sent them in every direction to find Mother Sita."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 71
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

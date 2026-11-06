@@ -185,3 +185,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_048.srt](captions/Sloka_048.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+अकेले श्रीराम बनाम राक्षस सेना! 🏹🔥 | Ramayanam 1.1.48
+```
+
+**Hindi description:**
+
+```text
+अकेले श्रीराम बनाम राक्षस सेना! 🏹🔥 | Ramayanam 1.1.48
+
+निजघान रणे रामस्तेषां चैव पदानुगान् ।
+वने तस्मिन् निवसता जनस्थाननिवासिनाम् ॥ 48 ॥
+
+शब्दार्थ:
+• रामः – राम ने
+• रणे – युद्ध में
+• निजघान – मार डाला
+• तेषाम् पदानुगान् च एव – और उनके अनुयायियों को भी
+• तस्मिन् वने निवसता – उस वन में रहते हुए (राम द्वारा)
+• जनस्थाननिवासिनाम् – जनस्थान में रहने वाले
+
+भावार्थ:
+"...श्रीराम ने युद्ध में संहार किया, और उनके साथ आए अनुयायियों को भी मार डाला। उस वन में रहते हुए श्रीराम ने जनस्थान में रहने वाले..."
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 48
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Sri Rama alone against a rakshasa army! 🏹🔥 | Ramayanam 1.1.48
+```
+
+**English description:**
+
+```text
+Sri Rama alone against a rakshasa army! 🏹🔥 | Ramayanam 1.1.48
+
+nijaghāna raṇe rāmasteṣāṃ caiva padānugān |
+vane tasmin nivasatā janasthānanivāsinām || 48 ||
+
+Word meanings:
+• rāmaḥ – Rama
+• raṇe – in battle
+• nijaghāna – slew
+• teṣām padānugān ca eva – and their followers too
+• tasmin vane nivasatā – (by Rama) as he lived in that forest
+• janasthānanivāsinām – dwelling in Janasthana
+
+Meaning:
+"...Rama slew them in battle, along with the followers who came with them. Living in that forest, Rama destroyed, of the rakshasas who dwelt in Janasthana..."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 48
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

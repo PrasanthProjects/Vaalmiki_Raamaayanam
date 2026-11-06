@@ -190,3 +190,63 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_053.srt](captions/Sloka_053.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+जटायु का बलिदान! 🦅 | Ramayanam 1.1.53
+```
+
+**Hindi description:**
+
+```text
+जटायु का बलिदान! 🦅 | Ramayanam 1.1.53
+
+जहार भार्यां रामस्य गृध्रं हत्वा जटायुषम् ।
+गृध्रञ्च निहतं दृष्ट्वा हृतां श्रुत्वा च मैथिलीम् ॥ 53 ॥
+
+शब्दार्थ:
+• जटायुषम् गृध्रम् हत्वा – जटायु गिद्ध (पक्षिराज) को मारकर
+• रामस्य भार्याम् – राम की पत्नी को
+• जहार – हर लिया
+• गृध्रम् च निहतम् दृष्ट्वा – और गिद्ध को मरा हुआ देखकर
+• मैथिलीम् हृताम् श्रुत्वा च – और मैथिली (सीता) के हरण को सुनकर
+
+भावार्थ:
+"...सीता को बचाने आए पक्षिराज जटायु को मारकर रावण ने श्रीराम की पत्नी सीता का हरण कर लिया। अंतिम साँसें गिनते जटायु को देखकर और उनके मुँह से सीता के हरण की बात सुनकर..."
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 53
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Jatayu's sacrifice! 🦅 | Ramayanam 1.1.53
+```
+
+**English description:**
+
+```text
+Jatayu's sacrifice! 🦅 | Ramayanam 1.1.53
+
+jahāra bhāryāṃ rāmasya gṛdhraṃ hatvā jaṭāyuṣam |
+gṛdhrañca nihataṃ dṛṣṭvā hṛtāṃ śrutvā ca maithilīm || 53 ||
+
+Word meanings:
+• jaṭāyuṣam gṛdhram hatvā – striking down the vulture-king Jatayu
+• rāmasya bhāryām – Rama's wife
+• jahāra – he carried off
+• gṛdhram ca nihatam dṛṣṭvā – and seeing the vulture struck down
+• maithilīm hṛtām śrutvā ca – and hearing that Maithili (Sita) had been carried off
+
+Meaning:
+"...striking down Jatayu, the king of birds, who tried to save Sita, Ravana carried off Rama's wife. Seeing Jatayu at his last breath, and hearing from him that Sita had been taken..."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 53
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

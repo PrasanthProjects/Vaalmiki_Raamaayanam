@@ -192,3 +192,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_096.srt](captions/Sloka_096.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+संसार को धर्म में स्थापित करने वाले श्रीराम ⚖️ | Ramayanam 1.1.96
+```
+
+**Hindi description:**
+
+```text
+संसार को धर्म में स्थापित करने वाले श्रीराम ⚖️ | Ramayanam 1.1.96
+
+राजवंशान् शतगुणान् स्थापयिष्यति राघवः ।
+चातुर्वर्ण्यं च लोकेऽस्मिन् स्वे स्वे धर्मे नियोक्ष्यति ॥ 96 ॥
+
+शब्दार्थ:
+• राघवः – राघव
+• शतगुणान् राजवंशान् – सैकड़ों गुना राजवंशों को
+• स्थापयिष्यति – स्थापित करेंगे
+• लोके अस्मिन् – इस लोक में
+• चातुर्वर्ण्यम् च – और चारों वर्णों को
+• स्वे स्वे धर्मे – अपने-अपने धर्म में
+• नियोक्ष्यति – लगाएँगे
+
+भावार्थ:
+"...सैकड़ों राजवंशों की स्थापना करेंगे। इस संसार में सब वर्णों के लोगों को अपने-अपने धर्म का पालन करने में लगाएँगे।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 96
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Sri Rama sets the world on the path of dharma ⚖️ | Ramayanam 1.1.96
+```
+
+**English description:**
+
+```text
+Sri Rama sets the world on the path of dharma ⚖️ | Ramayanam 1.1.96
+
+rājavaṃśān śataguṇān sthāpayiṣyati rāghavaḥ |
+cāturvarṇyaṃ ca loke'smin sve sve dharme niyokṣyati || 96 ||
+
+Word meanings:
+• rāghavaḥ – Raghava
+• śataguṇān rājavaṃśān – royal lines a hundredfold
+• sthāpayiṣyati – will establish
+• loke asmin – in this world
+• cāturvarṇyam ca – and the four varnas
+• sve sve dharme – each in its own dharma
+• niyokṣyati – will set
+
+Meaning:
+"...will establish royal lines a hundredfold, and will set people of every varna in this world to follow their own dharma."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 96
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

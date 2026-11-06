@@ -184,3 +184,61 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_074.srt](captions/Sloka_074.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+श्रीराम की अंगूठी सीता के हाथ! 💍 | Ramayanam 1.1.74
+```
+
+**Hindi description:**
+
+```text
+श्रीराम की अंगूठी सीता के हाथ! 💍 | Ramayanam 1.1.74
+
+निवेदयित्वाभिज्ञानं प्रवृत्तिं विनिवेद्य च ।
+समाश्वास्य च वैदेहीं मर्दयामास तोरणम् ॥ 74 ॥
+
+शब्दार्थ:
+• अभिज्ञानम् निवेदयित्वा – पहचान का चिह्न (अंगूठी) देकर
+• प्रवृत्तिम् विनिवेद्य च – और समाचार बताकर
+• वैदेहीम् समाश्वास्य च – और वैदेही (सीता) को सांत्वना देकर
+• तोरणम् मर्दयामास – (वाटिका का) द्वार तोड़ डाला
+
+भावार्थ:
+"हनुमान ने श्रीराम की दी हुई पहचान, उनकी अंगूठी, सीता को दी, श्रीराम का कुशल समाचार सुनाया और सीता को ढाढ़स बँधाया। फिर अशोक वाटिका का मुख्य द्वार तोड़ डाला।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 74
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Sri Rama's ring reaches Sita! 💍 | Ramayanam 1.1.74
+```
+
+**English description:**
+
+```text
+Sri Rama's ring reaches Sita! 💍 | Ramayanam 1.1.74
+
+nivedayitvābhijñānaṃ pravṛttiṃ vinivedya ca |
+samāśvāsya ca vaidehīṃ mardayāmāsa toraṇam || 74 ||
+
+Word meanings:
+• abhijñānam nivedayitvā – giving the token of recognition (the ring)
+• pravṛttim vinivedya ca – and telling the news
+• vaidehīm samāśvāsya ca – and consoling Vaidehi (Sita)
+• toraṇam mardayāmāsa – smashed the gateway (of the grove)
+
+Meaning:
+"Hanuman gave Sita the token Rama had sent, his ring, told her Rama was well, and comforted her. Then he smashed the main gateway of the Ashoka grove."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 74
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

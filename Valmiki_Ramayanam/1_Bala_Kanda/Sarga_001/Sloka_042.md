@@ -191,3 +191,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_042.srt](captions/Sloka_042.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+इंद्र का धनुष श्रीराम के हाथ! 🏹 | Ramayanam 1.1.42
+```
+
+**Hindi description:**
+
+```text
+इंद्र का धनुष श्रीराम के हाथ! 🏹 | Ramayanam 1.1.42
+
+सुतीक्ष्णं चाप्यगस्त्यं च अगस्त्यभ्रातरं तथा ।
+अगस्त्यवचनाच्चैव जग्राहैन्द्रं शरासनम् ॥ 42 ॥
+
+शब्दार्थ:
+• सुतीक्ष्णम् च अपि – सुतीक्ष्ण मुनि के भी
+• अगस्त्यम् च – अगस्त्य मुनि के
+• तथा अगस्त्यभ्रातरम् – और अगस्त्य के भाई के (दर्शन किए)
+• अगस्त्यवचनात् च एव – अगस्त्य के कहने पर
+• ऐन्द्रम् शरासनम् – इंद्र का धनुष
+• जग्राह – ग्रहण किया
+
+भावार्थ:
+"फिर उन्होंने सुतीक्ष्ण मुनि, अगस्त्य मुनि और अगस्त्य के भाई के दर्शन किए। अगस्त्य मुनि के कहने पर उनसे इंद्र का धनुष स्वीकार किया।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 42
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Indra's bow comes to Sri Rama! 🏹 | Ramayanam 1.1.42
+```
+
+**English description:**
+
+```text
+Indra's bow comes to Sri Rama! 🏹 | Ramayanam 1.1.42
+
+sutīkṣṇaṃ cāpyagastyaṃ ca agastyabhrātaraṃ tathā |
+agastyavacanāccaiva jagrāhaindraṃ śarāsanam || 42 ||
+
+Word meanings:
+• sutīkṣṇam ca api – Sage Sutikshna too
+• agastyam ca – Sage Agastya
+• tathā agastyabhrātaram – and likewise Agastya's brother (he visited)
+• agastyavacanāt ca eva – at Agastya's word
+• aindram śarāsanam – Indra's bow
+• jagrāha – accepted
+
+Meaning:
+"Then he visited Sage Sutikshna, Sage Agastya and Agastya's brother. At Agastya's word, he accepted from him the bow of Indra."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 42
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

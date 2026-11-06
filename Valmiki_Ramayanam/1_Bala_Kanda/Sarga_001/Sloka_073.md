@@ -194,3 +194,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_073.srt](captions/Sloka_073.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+अशोक वाटिका में माता सीता! 🌳💔 | Ramayanam 1.1.73
+```
+
+**Hindi description:**
+
+```text
+अशोक वाटिका में माता सीता! 🌳💔 | Ramayanam 1.1.73
+
+तत्र लङ्कां समासाद्य पुरीं रावणपालिताम् ।
+ददर्श सीतां ध्यायन्तीम् अशोकवनिकां गताम् ॥ 73 ॥
+
+शब्दार्थ:
+• तत्र – वहाँ
+• रावणपालिताम् – रावण के शासन वाली
+• लङ्काम् पुरीम् – लंका नगरी में
+• समासाद्य – पहुँचकर
+• अशोकवनिकाम् गताम् – अशोक वाटिका में बैठी
+• ध्यायन्तीम् – (श्रीराम का) ध्यान करती
+• सीताम् ददर्श – सीता को देखा
+
+भावार्थ:
+"रावण के शासन वाली लंका नगरी में पहुँचकर हनुमान ने अशोक वाटिका में बैठी, श्रीराम का ही ध्यान करती हुई माता सीता को देखा।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 73
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Mother Sita in the Ashoka grove! 🌳💔 | Ramayanam 1.1.73
+```
+
+**English description:**
+
+```text
+Mother Sita in the Ashoka grove! 🌳💔 | Ramayanam 1.1.73
+
+tatra laṅkāṃ samāsādya purīṃ rāvaṇapālitām |
+dadarśa sītāṃ dhyāyantīm aśokavanikāṃ gatām || 73 ||
+
+Word meanings:
+• tatra – there
+• rāvaṇapālitām – ruled by Ravana
+• laṅkām purīm – the city of Lanka
+• samāsādya – reaching
+• aśokavanikām gatām – in the Ashoka grove
+• dhyāyantīm – meditating (on Rama)
+• sītām dadarśa – saw Sita
+
+Meaning:
+"Reaching Lanka, the city ruled by Ravana, Hanuman saw Mother Sita sitting in the Ashoka grove, her mind fixed on Rama alone."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 73
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

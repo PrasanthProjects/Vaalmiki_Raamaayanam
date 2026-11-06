@@ -190,3 +190,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_030.srt](captions/Sloka_030.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+वन से वन, नदी से नदी! 🌳 | Ramayanam 1.1.30
+```
+
+**Hindi description:**
+
+```text
+वन से वन, नदी से नदी! 🌳 | Ramayanam 1.1.30
+
+गुहेन सहितो रामो लक्ष्मणेन च सीतया ।
+ते वनेन वनङ्गत्वा नदीस्तीर्त्वा बहूदकाः ॥ 30 ॥
+
+शब्दार्थ:
+• गुहेन सहितः – गुह के साथ
+• लक्ष्मणेन सीतया च – लक्ष्मण और सीता के साथ
+• रामः – राम
+• ते – वे
+• वनेन वनम् गत्वा – एक वन से दूसरे वन जाकर
+• बहूदकाः नदीः तीर्त्वा – जल से भरी नदियाँ पार करके
+
+भावार्थ:
+"गुह, लक्ष्मण और सीता के साथ श्रीराम चल पड़े। वे एक वन से दूसरे वन होते हुए, जल से भरी बहती नदियों को पार करते हुए..."
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 30
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+From forest to forest, river to river! 🌳 | Ramayanam 1.1.30
+```
+
+**English description:**
+
+```text
+From forest to forest, river to river! 🌳 | Ramayanam 1.1.30
+
+guhena sahito rāmo lakṣmaṇena ca sītayā |
+te vanena vanaṅgatvā nadīstīrtvā bahūdakāḥ || 30 ||
+
+Word meanings:
+• guhena sahitaḥ – with Guha
+• lakṣmaṇena sītayā ca – with Lakshmana and Sita
+• rāmaḥ – Rama
+• te – they
+• vanena vanam gatvā – going from forest to forest
+• bahūdakāḥ nadīḥ tīrtvā – crossing rivers full of water
+
+Meaning:
+"With Guha, Lakshmana and Sita, Rama set out. Going from one forest to the next and crossing rivers brimming with water, they..."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 30
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

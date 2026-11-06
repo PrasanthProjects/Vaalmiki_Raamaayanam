@@ -198,3 +198,73 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_005.srt](captions/Sloka_005.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+क्या कोई संपूर्ण मनुष्य हो सकता है? 🚩 | Ramayanam 1.1.5
+```
+
+**Hindi description:**
+
+```text
+क्या कोई संपूर्ण मनुष्य हो सकता है? 🚩 | Ramayanam 1.1.5
+
+एतदिच्छाम्यहं श्रोतुं परं कौतूहलं हि मे ।
+महर्षे त्वं समर्थोऽसि ज्ञातुमेवंविधं नरम् ॥ 5 ॥
+
+शब्दार्थ:
+• एतत् – यह सब
+• श्रोतुम् – सुनना
+• अहम् इच्छामि – मैं चाहता हूँ
+• मे – मुझे
+• परम् कौतूहलम् हि – बड़ी उत्सुकता है
+• महर्षे – हे महर्षि!
+• त्वम् – आप ही
+• समर्थः असि – समर्थ हैं
+• ज्ञातुम् – जानने में
+• एवंविधम् नरम् – ऐसे मनुष्य को
+
+भावार्थ:
+अपने प्रश्न पूरे करते हुए वाल्मीकि देवर्षि नारद से कहते हैं: "हे महर्षि! क्या इतने गुण एक ही मनुष्य में हो सकते हैं? ऐसा महापुरुष कौन है, यह सुनने की मुझे बहुत उत्सुकता है। तीनों लोकों में घूमने वाले आप जैसे महर्षि ही ऐसे उत्तम व्यक्ति को पूरी तरह जान सकते हैं। कृपया मुझे बताइए।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 5
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Can a perfect human being exist? 🚩 | Ramayanam 1.1.5
+```
+
+**English description:**
+
+```text
+Can a perfect human being exist? 🚩 | Ramayanam 1.1.5
+
+etadicchāmyahaṃ śrotuṃ paraṃ kautūhalaṃ hi me |
+maharṣe tvaṃ samartho'si jñātumevaṃvidhaṃ naram || 5 ||
+
+Word meanings:
+• etat – all this
+• śrotum – to hear
+• aham icchāmi – I wish
+• me – to me
+• param kautūhalam hi – there is great curiosity
+• maharṣe – O great sage!
+• tvam – you alone
+• samarthaḥ asi – are able
+• jñātum – to know
+• evaṃvidham naram – such a man
+
+Meaning:
+Finishing his questions, Valmiki says to Narada: "O great sage! Can so many virtues be found in one person? I am longing to hear who such a great soul is. Only a sage like you, who travels all three worlds, can truly know such a person. Please tell me."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 5
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

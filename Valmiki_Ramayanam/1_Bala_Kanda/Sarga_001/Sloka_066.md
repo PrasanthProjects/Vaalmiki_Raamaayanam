@@ -189,3 +189,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_066.srt](captions/Sloka_066.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+एक बाण... सात वृक्ष... पाताल तक! 🏹🌳 | Ramayanam 1.1.66
+```
+
+**Hindi description:**
+
+```text
+एक बाण... सात वृक्ष... पाताल तक! 🏹🌳 | Ramayanam 1.1.66
+
+बिभेद च पुनस्सालान् सप्तैकेन महेषुणा ।
+गिरिं रसातलञ्चैव जनयन् प्रत्ययं तथा ॥ 66 ॥
+
+शब्दार्थ:
+• पुनः च – फिर से
+• एकेन महेषुणा – एक ही महान बाण से
+• सप्त सालान् – सात साल वृक्षों को
+• गिरिम् रसातलम् च एव – पर्वत और रसातल को भी
+• बिभेद – भेद दिया
+• तथा प्रत्ययम् जनयन् – इस प्रकार विश्वास जगाते हुए
+
+भावार्थ:
+"फिर एक ही बाण से उन्होंने एक पंक्ति में खड़े सात साल वृक्षों को, उनके पीछे के पर्वत को और धरती को चीरते हुए रसातल तक भेद दिया। इस प्रकार सुग्रीव को अपने बल पर पूरा विश्वास दिला दिया।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 66
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+One arrow... seven trees... down to the netherworld! 🏹🌳 | Ramayanam 1.1.66
+```
+
+**English description:**
+
+```text
+One arrow... seven trees... down to the netherworld! 🏹🌳 | Ramayanam 1.1.66
+
+bibheda ca punassālān saptaikena maheṣuṇā |
+giriṃ rasātalañcaiva janayan pratyayaṃ tathā || 66 ||
+
+Word meanings:
+• punaḥ ca – again
+• ekena maheṣuṇā – with a single great arrow
+• sapta sālān – seven sala trees
+• girim rasātalam ca eva – the mountain and even the netherworld
+• bibheda – pierced
+• tathā pratyayam janayan – thus inspiring faith
+
+Meaning:
+"Then, with a single arrow, he pierced seven sala trees standing in a row, the mountain behind them and the earth itself, right down to the netherworld. In this way he gave Sugriva complete faith in his strength."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 66
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

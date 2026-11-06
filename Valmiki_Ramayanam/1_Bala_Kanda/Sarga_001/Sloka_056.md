@@ -187,3 +187,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_056.srt](captions/Sloka_056.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+शाप-मुक्त कबंध ने बताया रहस्य! 🔥 | Ramayanam 1.1.56
+```
+
+**Hindi description:**
+
+```text
+शाप-मुक्त कबंध ने बताया रहस्य! 🔥 | Ramayanam 1.1.56
+
+तन्निहत्य महाबाहुर्ददाह स्वर्गतश्च सः ।
+स चास्य कथयामास शबरीं धर्मचारिणीम् ॥ 56 ॥
+
+शब्दार्थ:
+• महाबाहुः – महाबाहु (राम) ने
+• तम् निहत्य – उसे मारकर
+• ददाह – उसका दाह किया
+• सः च स्वर्गतः – और वह स्वर्ग जाते हुए
+• अस्य – इन (राम) को
+• धर्मचारिणीम् शबरीम् – धर्म का आचरण करने वाली शबरी के बारे में
+• कथयामास – बताया
+
+भावार्थ:
+"महाबाहु श्रीराम ने कबंध का संहार करके उसके शरीर का दाह किया। शाप से छूटकर दिव्य रूप में स्वर्ग जाते हुए कबंध ने श्रीराम को धर्म का पालन करने वाली शबरी के बारे में बताया।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 56
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+The secret told by Kabandha, freed from his curse! 🔥 | Ramayanam 1.1.56
+```
+
+**English description:**
+
+```text
+The secret told by Kabandha, freed from his curse! 🔥 | Ramayanam 1.1.56
+
+tannihatya mahābāhurdadāha svargataśca saḥ |
+sa cāsya kathayāmāsa śabarīṃ dharmacāriṇīm || 56 ||
+
+Word meanings:
+• mahābāhuḥ – the mighty-armed (Rama)
+• tam nihatya – slaying him
+• dadāha – cremated him
+• saḥ ca svargataḥ – and he, going to heaven
+• asya – to Rama
+• dharmacāriṇīm śabarīm – of Shabari, who lives by dharma
+• kathayāmāsa – told
+
+Meaning:
+"The mighty-armed Rama slew Kabandha and cremated his body. Freed from his curse and rising to heaven in a divine form, Kabandha told Rama about Shabari, who lived by dharma."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 56
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

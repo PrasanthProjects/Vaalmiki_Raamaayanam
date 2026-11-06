@@ -187,3 +187,69 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_082.srt](captions/Sloka_082.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+माता सीता का अग्नि-प्रवेश 🔥🙏 | Ramayanam 1.1.82
+```
+
+**Hindi description:**
+
+```text
+माता सीता का अग्नि-प्रवेश 🔥🙏 | Ramayanam 1.1.82
+
+तामुवाच ततो रामः परुषं जनसंसदि ।
+अमृष्यमाणा सा सीता विवेश ज्वलनं सती ॥ 82 ॥
+
+शब्दार्थ:
+• ततः – तब
+• रामः – राम ने
+• जनसंसदि – लोगों की सभा में
+• ताम् – उन (सीता) से
+• परुषम् उवाच – कठोर वचन कहे
+• अमृष्यमाणा – (वे वचन) सहन न कर पाकर
+• सती सा सीता – वे पतिव्रता सीता
+• ज्वलनम् विवेश – अग्नि में प्रवेश कर गईं
+
+भावार्थ:
+"तब श्रीराम ने सबके सामने सीता से कठोर वचन कहे। उन वचनों को सहन न कर पाकर पतिव्रता माता सीता जलती अग्नि में प्रवेश कर गईं।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 82
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Mother Sita enters the fire 🔥🙏 | Ramayanam 1.1.82
+```
+
+**English description:**
+
+```text
+Mother Sita enters the fire 🔥🙏 | Ramayanam 1.1.82
+
+tāmuvāca tato rāmaḥ paruṣaṃ janasaṃsadi |
+amṛṣyamāṇā sā sītā viveśa jvalanaṃ satī || 82 ||
+
+Word meanings:
+• tataḥ – then
+• rāmaḥ – Rama
+• janasaṃsadi – in the assembly of people
+• tām – to her (Sita)
+• paruṣam uvāca – spoke harsh words
+• amṛṣyamāṇā – unable to bear (those words)
+• satī sā sītā – that faithful Sita
+• jvalanam viveśa – entered the fire
+
+Meaning:
+"Then, before everyone, Rama spoke harsh words to Sita. Unable to bear them, the faithful Sita walked into the blazing fire."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 82
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

@@ -186,3 +186,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_038.srt](captions/Sloka_038.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+इच्छा पूरी न हुई, फिर भी... भरत! 😢 | Ramayanam 1.1.38
+```
+
+**Hindi description:**
+
+```text
+इच्छा पूरी न हुई, फिर भी... भरत! 😢 | Ramayanam 1.1.38
+
+निवर्तयामास ततो भरतं भरताग्रजः ।
+स काममनवाप्यैव रामपादावुपस्पृशन् ॥ 38 ॥
+
+शब्दार्थ:
+• ततः – तब
+• भरताग्रजः – भरत के बड़े भाई (राम)
+• भरतम् निवर्तयामास – भरत को लौटा दिया
+• सः – वे (भरत)
+• कामम् अनवाप्य एव – अपनी इच्छा पूरी न होने पर भी
+• रामपादौ उपस्पृशन् – राम के चरण छूकर
+
+भावार्थ:
+"...भरत के बड़े भाई श्रीराम ने भरत को अयोध्या लौटा दिया। श्रीराम को वापस लाने की इच्छा पूरी न होने पर भी भरत भाई के चरण छूकर प्रणाम करके लौटे।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 38
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+His wish unfulfilled, yet... Bharata! 😢 | Ramayanam 1.1.38
+```
+
+**English description:**
+
+```text
+His wish unfulfilled, yet... Bharata! 😢 | Ramayanam 1.1.38
+
+nivartayāmāsa tato bharataṃ bharatāgrajaḥ |
+sa kāmamanavāpyaiva rāmapādāvupaspṛśan || 38 ||
+
+Word meanings:
+• tataḥ – then
+• bharatāgrajaḥ – Bharata's elder brother (Rama)
+• bharatam nivartayāmāsa – sent Bharata back
+• saḥ – he (Bharata)
+• kāmam anavāpya eva – though his wish was not fulfilled
+• rāmapādau upaspṛśan – touching Rama's feet
+
+Meaning:
+"...Rama, Bharata's elder brother, sent him back to Ayodhya. Though his wish to bring Rama home was not fulfilled, Bharata touched his brother's feet in reverence and returned."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 38
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

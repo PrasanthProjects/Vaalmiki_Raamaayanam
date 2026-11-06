@@ -188,3 +188,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_047.srt](captions/Sloka_047.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+अचानक पूरी राक्षस सेना! 😱 | Ramayanam 1.1.47
+```
+
+**Hindi description:**
+
+```text
+अचानक पूरी राक्षस सेना! 😱 | Ramayanam 1.1.47
+
+ततः शूर्पणखावाक्यादुद्युक्तान् सर्वराक्षसान् ।
+खरं त्रिशिरसं चैव दूषणं चैव राक्षसम् ॥ 47 ॥
+
+शब्दार्थ:
+• ततः – तब
+• शूर्पणखावाक्यात् – शूर्पणखा के कहने से
+• उद्युक्तान् सर्वराक्षसान् – युद्ध को तैयार सब राक्षसों को
+• खरम् – खर को
+• त्रिशिरसम् च एव – त्रिशिरा को भी
+• दूषणम् च एव राक्षसम् – और दूषण राक्षस को भी
+
+भावार्थ:
+"फिर शूर्पणखा की बातों से भड़ककर युद्ध के लिए आए सब राक्षसों को, खर को, त्रिशिरा को और दूषण नामक राक्षस को..."
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 47
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Suddenly, a whole rakshasa army! 😱 | Ramayanam 1.1.47
+```
+
+**English description:**
+
+```text
+Suddenly, a whole rakshasa army! 😱 | Ramayanam 1.1.47
+
+tataḥ śūrpaṇakhāvākyādudyuktān sarvarākṣasān |
+kharaṃ triśirasaṃ caiva dūṣaṇaṃ caiva rākṣasam || 47 ||
+
+Word meanings:
+• tataḥ – then
+• śūrpaṇakhāvākyāt – at Shurpanakha's words
+• udyuktān sarvarākṣasān – all the rakshasas ready for battle
+• kharam – Khara
+• triśirasam ca eva – Trishira too
+• dūṣaṇam ca eva rākṣasam – and the rakshasa Dushana
+
+Meaning:
+"Then all the rakshasas who came to fight, stirred up by Shurpanakha's words – Khara, Trishira and the rakshasa named Dushana..."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 47
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

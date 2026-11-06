@@ -187,3 +187,63 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_024.srt](captions/Sloka_024.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+श्रीराम ने एक शब्द भी विरोध नहीं किया! 🙏 | Ramayanam 1.1.24
+```
+
+**Hindi description:**
+
+```text
+श्रीराम ने एक शब्द भी विरोध नहीं किया! 🙏 | Ramayanam 1.1.24
+
+स जगाम वनं वीरः प्रतिज्ञामनुपालयन् ।
+पितुर्वचननिर्देशात् कैकेय्याः प्रियकारणात् ॥ 24 ॥
+
+शब्दार्थ:
+• सः वीरः – वे वीर (राम)
+• प्रतिज्ञाम् अनुपालयन् – (पिता की) प्रतिज्ञा निभाते हुए
+• पितुः वचननिर्देशात् – पिता के वचन को आज्ञा मानकर
+• कैकेय्याः प्रियकारणात् – कैकेयी को प्रसन्न करने के लिए
+• वनम् जगाम – वन को गए
+
+भावार्थ:
+"वीर श्रीराम पिता का वचन निभाने के लिए, पिता की आज्ञा मानकर और माता कैकेयी को प्रसन्न करने के लिए वन चले गए।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 24
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Sri Rama did not say a single word against it! 🙏 | Ramayanam 1.1.24
+```
+
+**English description:**
+
+```text
+Sri Rama did not say a single word against it! 🙏 | Ramayanam 1.1.24
+
+sa jagāma vanaṃ vīraḥ pratijñāmanupālayan |
+piturvacananirdeśāt kaikeyyāḥ priyakāraṇāt || 24 ||
+
+Word meanings:
+• saḥ vīraḥ – that hero (Rama)
+• pratijñām anupālayan – upholding (his father's) promise
+• pituḥ vacananirdeśāt – taking his father's word as a command
+• kaikeyyāḥ priyakāraṇāt – to please Kaikeyi
+• vanam jagāma – went to the forest
+
+Meaning:
+"The heroic Rama went to the forest – to keep his father's promise, to obey his father's command, and to please his stepmother Kaikeyi."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 24
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

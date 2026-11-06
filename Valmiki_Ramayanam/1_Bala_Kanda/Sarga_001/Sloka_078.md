@@ -190,3 +190,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_078.srt](captions/Sloka_078.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+"दृष्टा सीता" – मैंने सीता को देखा! 🙌 | Ramayanam 1.1.78
+```
+
+**Hindi description:**
+
+```text
+"दृष्टा सीता" – मैंने सीता को देखा! 🙌 | Ramayanam 1.1.78
+
+सोऽभिगम्य महात्मानं कृत्वा रामं प्रदक्षिणम् ।
+न्यवेदयदमेयात्मा दृष्टा सीतेति तत्त्वतः ॥ 78 ॥
+
+शब्दार्थ:
+• अमेयात्मा सः – अपार बुद्धि-बल वाले वे (हनुमान)
+• महात्मानम् रामम् – महात्मा राम के
+• अभिगम्य – पास जाकर
+• प्रदक्षिणम् कृत्वा – प्रदक्षिणा करके
+• दृष्टा सीता इति – "सीता देखी गईं" – ऐसा
+• तत्त्वतः न्यवेदयत् – जैसा था वैसा निवेदन किया
+
+भावार्थ:
+"अपार बुद्धि-बल वाले हनुमान महात्मा श्रीराम के पास आए, उनकी प्रदक्षिणा की और 'दृष्टा सीता' – 'सीता को देख लिया' – कहकर सब कुछ जैसा था वैसा निवेदन किया।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 78
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+"Drishta Sita" – I have seen Sita! 🙌 | Ramayanam 1.1.78
+```
+
+**English description:**
+
+```text
+"Drishta Sita" – I have seen Sita! 🙌 | Ramayanam 1.1.78
+
+so'bhigamya mahātmānaṃ kṛtvā rāmaṃ pradakṣiṇam |
+nyavedayadameyātmā dṛṣṭā sīteti tattvataḥ || 78 ||
+
+Word meanings:
+• ameyātmā saḥ – he of immeasurable wisdom (Hanuman)
+• mahātmānam rāmam – the great-souled Rama
+• abhigamya – approaching
+• pradakṣiṇam kṛtvā – circling him in reverence
+• dṛṣṭā sītā iti – "Sita has been seen" – so
+• tattvataḥ nyavedayat – reported exactly as it was
+
+Meaning:
+"Hanuman, of boundless wisdom, came to the great-souled Rama, circled him in reverence and reported everything exactly as it was, beginning with 'Drishta Sita' – 'I have seen Sita.'"
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 78
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

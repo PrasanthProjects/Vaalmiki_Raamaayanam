@@ -190,3 +190,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_091.srt](captions/Sloka_091.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+रामराज्य में परिवार! 👨‍👩‍👧‍👦 | Ramayanam 1.1.91
+```
+
+**Hindi description:**
+
+```text
+रामराज्य में परिवार! 👨‍👩‍👧‍👦 | Ramayanam 1.1.91
+
+न पुत्रमरणं केचित् द्रक्ष्यन्ति पुरुषाः क्वचित् ।
+नार्यश्चाविधवा नित्यं भविष्यन्ति पतिव्रताः ॥ 91 ॥
+
+शब्दार्थ:
+• क्वचित् – कहीं भी
+• केचित् पुरुषाः – कोई पुरुष
+• पुत्रमरणम् न द्रक्ष्यन्ति – पुत्र की मृत्यु नहीं देखेंगे
+• नार्यः च – और स्त्रियाँ
+• नित्यम् अविधवाः – सदा सौभाग्यवती (विधवा न होने वाली)
+• पतिव्रताः भविष्यन्ति – पतिव्रता रहेंगी
+
+भावार्थ:
+"श्रीराम के राज्य में कहीं भी कोई पिता अपने पुत्र की मृत्यु नहीं देखेगा। स्त्रियाँ कभी पति को नहीं खोएँगी और पतिव्रता रहेंगी।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 91
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Families in Rama Rajya! 👨‍👩‍👧‍👦 | Ramayanam 1.1.91
+```
+
+**English description:**
+
+```text
+Families in Rama Rajya! 👨‍👩‍👧‍👦 | Ramayanam 1.1.91
+
+na putramaraṇaṃ kecit drakṣyanti puruṣāḥ kvacit |
+nāryaścāvidhavā nityaṃ bhaviṣyanti pativratāḥ || 91 ||
+
+Word meanings:
+• kvacit – anywhere
+• kecit puruṣāḥ – any man
+• putramaraṇam na drakṣyanti – will not see the death of a son
+• nāryaḥ ca – and women
+• nityam avidhavāḥ – never widowed
+• pativratāḥ bhaviṣyanti – will remain devoted to their husbands
+
+Meaning:
+"In Rama's kingdom, no father anywhere will see his son die. Women will never lose their husbands, and will remain devoted to them."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 91
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

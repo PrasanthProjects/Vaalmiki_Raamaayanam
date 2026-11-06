@@ -191,3 +191,69 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_010.srt](captions/Sloka_010.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+"आजानुबाहु" का अर्थ जानते हैं? 💪 | Ramayanam 1.1.10
+```
+
+**Hindi description:**
+
+```text
+"आजानुबाहु" का अर्थ जानते हैं? 💪 | Ramayanam 1.1.10
+
+महोरस्को महेष्वासो गूढजत्रुररिन्दमः ।
+आजानुबाहुः सुशिराः सुललाटः सुविक्रमः ॥ 10 ॥
+
+शब्दार्थ:
+• महोरस्कः – चौड़ी छाती वाले
+• महेष्वासः – महान धनुष धारण करने वाले
+• गूढजत्रुः – मांसपेशियों से ढकी हँसली वाले
+• अरिन्दमः – शत्रुओं का दमन करने वाले
+• आजानुबाहुः – घुटनों तक लंबी भुजाओं वाले
+• सुशिराः – सुंदर सिर वाले
+• सुललाटः – सुंदर ललाट वाले
+• सुविक्रमः – सुंदर चाल वाले
+
+भावार्थ:
+"उनकी छाती चौड़ी है और वे महान धनुष धारण करते हैं। गर्दन के पास की हड्डियाँ बाहर नहीं दिखतीं, मांसपेशियों से ढकी रहती हैं। वे शत्रुओं का दमन करते हैं। उनकी भुजाएँ घुटनों तक लंबी हैं (आजानुबाहु)। सिर सुंदर, ललाट सुंदर और चाल गरिमामय है।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 10
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Do you know what "Ajanubahu" means? 💪 | Ramayanam 1.1.10
+```
+
+**English description:**
+
+```text
+Do you know what "Ajanubahu" means? 💪 | Ramayanam 1.1.10
+
+mahorasko maheṣvāso gūḍhajatrurarindamaḥ |
+ājānubāhuḥ suśirāḥ sulalāṭaḥ suvikramaḥ || 10 ||
+
+Word meanings:
+• mahoraskaḥ – broad-chested
+• maheṣvāsaḥ – wielder of a mighty bow
+• gūḍhajatruḥ – with collarbones covered by muscle
+• arindamaḥ – subduer of enemies
+• ājānubāhuḥ – with arms reaching to the knees
+• suśirāḥ – with a well-shaped head
+• sulalāṭaḥ – with a fine forehead
+• suvikramaḥ – with a graceful stride
+
+Meaning:
+"He has a broad chest and carries a mighty bow. His collarbones do not show; they are covered with strong muscle. He subdues his enemies. His arms reach down to his knees (ajanubahu). His head is well-shaped, his forehead fine and his stride dignified."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 10
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

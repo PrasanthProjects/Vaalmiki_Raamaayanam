@@ -192,3 +192,69 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_063.srt](captions/Sloka_063.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+सुग्रीव को श्रीराम पर संदेह! 🤔 | Ramayanam 1.1.63
+```
+
+**Hindi description:**
+
+```text
+सुग्रीव को श्रीराम पर संदेह! 🤔 | Ramayanam 1.1.63
+
+वालिनश्च बलं तत्र कथयामास वानरः ।
+सुग्रीवः शङ्कितश्चासीन्नित्यं वीर्येण राघवे ॥ 63 ॥
+
+शब्दार्थ:
+• तत्र – तब
+• वानरः – वानर (सुग्रीव) ने
+• वालिनः बलम् च – और वाली का बल
+• कथयामास – बताया
+• सुग्रीवः – सुग्रीव
+• राघवे – राघव के बारे में
+• वीर्येण – (उनके) पराक्रम को लेकर
+• नित्यम् शङ्कितः च आसीत् – सदा शंकित रहे
+
+भावार्थ:
+"तब सुग्रीव ने श्रीराम को बताया कि वाली कितना बलवान है। 'क्या श्रीराम सचमुच इतने बलवान वाली को जीत सकेंगे?' – सुग्रीव के मन में यह संदेह बना रहा।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 63
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Sugriva doubts Sri Rama! 🤔 | Ramayanam 1.1.63
+```
+
+**English description:**
+
+```text
+Sugriva doubts Sri Rama! 🤔 | Ramayanam 1.1.63
+
+vālinaśca balaṃ tatra kathayāmāsa vānaraḥ |
+sugrīvaḥ śaṅkitaścāsīnnityaṃ vīryeṇa rāghave || 63 ||
+
+Word meanings:
+• tatra – then
+• vānaraḥ – the vanara (Sugriva)
+• vālinaḥ balam ca – and Vali's strength
+• kathayāmāsa – described
+• sugrīvaḥ – Sugriva
+• rāghave – about Raghava
+• vīryeṇa – regarding (his) valour
+• nityam śaṅkitaḥ ca āsīt – remained doubtful
+
+Meaning:
+"Then Sugriva told Rama how mighty Vali was. A doubt stayed in his mind: 'Can Rama really defeat someone as strong as Vali?'"
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 63
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

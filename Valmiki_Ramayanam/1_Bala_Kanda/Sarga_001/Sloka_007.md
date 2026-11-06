@@ -188,3 +188,71 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_007.srt](captions/Sloka_007.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+इतने गुण एक ही व्यक्ति में?! 😲 | Ramayanam 1.1.7
+```
+
+**Hindi description:**
+
+```text
+इतने गुण एक ही व्यक्ति में?! 😲 | Ramayanam 1.1.7
+
+बहवो दुर्लभाश्चैव ये त्वया कीर्तिता गुणाः ।
+मुने वक्ष्याम्यहं बुद्ध्वा तैर्युक्तः श्रूयतां नरः ॥ 7 ॥
+
+शब्दार्थ:
+• मुने – हे मुनि!
+• त्वया – आपने
+• ये गुणाः कीर्तिताः – जिन गुणों का वर्णन किया
+• (ते) बहवः – वे बहुत हैं
+• दुर्लभाः च एव – (एक व्यक्ति में) मिलना भी कठिन
+• अहम् बुद्ध्वा – मैं सोच-समझकर
+• वक्ष्यामि – बताऊँगा
+• तैः युक्तः नरः – उन गुणों से युक्त मनुष्य के बारे में
+• श्रूयताम् – सुनिए
+
+भावार्थ:
+"हे मुनि! आपने जो गुण बताए वे बहुत हैं, और सब एक ही मनुष्य में मिलना अत्यंत दुर्लभ है। फिर भी मैं अच्छी तरह सोचकर उन सब गुणों से युक्त महापुरुष के बारे में बताता हूँ, सुनिए।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 7
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+So many virtues in just one person?! 😲 | Ramayanam 1.1.7
+```
+
+**English description:**
+
+```text
+So many virtues in just one person?! 😲 | Ramayanam 1.1.7
+
+bahavo durlabhāścaiva ye tvayā kīrtitā guṇāḥ |
+mune vakṣyāmyahaṃ buddhvā tairyuktaḥ śrūyatāṃ naraḥ || 7 ||
+
+Word meanings:
+• mune – O sage!
+• tvayā – by you
+• ye guṇāḥ kīrtitāḥ – the virtues you described
+• (te) bahavaḥ – they are many
+• durlabhāḥ ca eva – and rare to find (in one person)
+• aham buddhvā – I, having thought it over
+• vakṣyāmi – will tell
+• taiḥ yuktaḥ naraḥ – of the man who has them all
+• śrūyatām – listen
+
+Meaning:
+"O sage! The virtues you have named are many, and finding all of them in one person is very rare. Yet, having thought it over, I will tell you of the great man who has them all. Listen."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 7
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

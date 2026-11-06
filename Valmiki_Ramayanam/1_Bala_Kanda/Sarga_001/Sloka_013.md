@@ -185,3 +185,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_013.srt](captions/Sloka_013.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+धर्म की रक्षा कौन करता है? 🛡️ | Ramayanam 1.1.13
+```
+
+**Hindi description:**
+
+```text
+धर्म की रक्षा कौन करता है? 🛡️ | Ramayanam 1.1.13
+
+प्रजापतिसमः श्रीमान् धाता रिपुनिषूदनः ।
+रक्षिता जीवलोकस्य धर्मस्य परिरक्षिता ॥ 13 ॥
+
+शब्दार्थ:
+• प्रजापतिसमः – प्रजा की रक्षा में ब्रह्मा के समान
+• श्रीमान् – शोभा से युक्त
+• धाता – सबका पालन करने वाले
+• रिपुनिषूदनः – शत्रुओं का संहार करने वाले
+• जीवलोकस्य रक्षिता – सब जीवों के रक्षक
+• धर्मस्य परिरक्षिता – धर्म के रक्षक
+
+भावार्थ:
+"प्रजा की रक्षा करने में वे ब्रह्मदेव के समान हैं। शोभा से भरे हैं, सबका पालन-पोषण करते हैं और शत्रुओं का संहार करते हैं। संसार के सब जीवों के और धर्म के रक्षक हैं।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 13
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Who protects dharma? 🛡️ | Ramayanam 1.1.13
+```
+
+**English description:**
+
+```text
+Who protects dharma? 🛡️ | Ramayanam 1.1.13
+
+prajāpatisamaḥ śrīmān dhātā ripuniṣūdanaḥ |
+rakṣitā jīvalokasya dharmasya parirakṣitā || 13 ||
+
+Word meanings:
+• prajāpatisamaḥ – equal to Brahma in protecting his people
+• śrīmān – glorious
+• dhātā – sustainer of all
+• ripuniṣūdanaḥ – slayer of enemies
+• jīvalokasya rakṣitā – protector of all living beings
+• dharmasya parirakṣitā – guardian of dharma
+
+Meaning:
+"In protecting his people he is like Brahma himself. He is glorious, sustains everyone and destroys his enemies. He protects every living being and guards dharma."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 13
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

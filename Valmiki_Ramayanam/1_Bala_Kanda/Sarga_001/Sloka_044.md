@@ -194,3 +194,69 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_044.srt](captions/Sloka_044.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+सब ऋषियों ने श्रीराम से क्या विनती की? 🙏 | Ramayanam 1.1.44
+```
+
+**Hindi description:**
+
+```text
+सब ऋषियों ने श्रीराम से क्या विनती की? 🙏 | Ramayanam 1.1.44
+
+ऋषयोऽभ्यागमन् सर्वे वधायासुररक्षसाम् ।
+स तेषां प्रतिशुश्राव राक्षसानां तदा वने ॥ 44 ॥
+
+शब्दार्थ:
+• सर्वे ऋषयः – सब ऋषि
+• असुररक्षसाम् वधाय – असुरों और राक्षसों के वध के लिए
+• अभ्यागमन् – आए
+• सः – उन (राम) ने
+• तदा वने – तब उस वन में
+• तेषाम् – उनको
+• राक्षसानाम् (वधम्) – राक्षसों (के वध) का
+• प्रतिशुश्राव – वचन दिया
+
+भावार्थ:
+"...सब ऋषि असुरों और राक्षसों का संहार करने की विनती करने आए। तब श्रीराम ने उस वन में ऋषियों को वचन दिया कि वे राक्षसों का संहार करेंगे।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 44
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+What did all the sages ask of Sri Rama? 🙏 | Ramayanam 1.1.44
+```
+
+**English description:**
+
+```text
+What did all the sages ask of Sri Rama? 🙏 | Ramayanam 1.1.44
+
+ṛṣayo'bhyāgaman sarve vadhāyāsurarakṣasām |
+sa teṣāṃ pratiśuśrāva rākṣasānāṃ tadā vane || 44 ||
+
+Word meanings:
+• sarve ṛṣayaḥ – all the sages
+• asurarakṣasām vadhāya – to have the asuras and rakshasas slain
+• abhyāgaman – came
+• saḥ – he (Rama)
+• tadā vane – then, in that forest
+• teṣām – to them
+• rākṣasānām (vadham) – (the slaying of) the rakshasas
+• pratiśuśrāva – promised
+
+Meaning:
+"...all the sages came to plead with him to destroy the asuras and rakshasas. There in the forest, Rama gave the sages his word that he would destroy the rakshasas."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 44
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

@@ -192,3 +192,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_029.srt](captions/Sloka_029.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+श्रीराम के प्रिय मित्र गुह! 🤗 | Ramayanam 1.1.29
+```
+
+**Hindi description:**
+
+```text
+श्रीराम के प्रिय मित्र गुह! 🤗 | Ramayanam 1.1.29
+
+शृङ्गवीरपुरे सूतं गङ्गाकूले व्यसर्जयत् ।
+गुहमासाद्य धर्मात्मा निषादाधिपतिं प्रियम् ॥ 29 ॥
+
+शब्दार्थ:
+• धर्मात्मा – धर्मात्मा (राम)
+• शृङ्गवीरपुरे – शृंगवेरपुर में
+• गङ्गाकूले – गंगा के तट पर
+• निषादाधिपतिम् – निषादों के राजा
+• प्रियम् गुहम् – प्रिय गुह से
+• आसाद्य – मिलकर
+• सूतम् व्यसर्जयत् – सारथी (सुमंत्र) को लौटा दिया
+
+भावार्थ:
+"धर्मात्मा श्रीराम गंगा के तट पर शृंगवेरपुर पहुँचे और वहाँ निषादों के राजा, अपने प्रिय मित्र गुह से मिले। वहाँ से उन्होंने सारथी सुमंत्र को अयोध्या लौटा दिया।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 29
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Guha, Sri Rama's dear friend! 🤗 | Ramayanam 1.1.29
+```
+
+**English description:**
+
+```text
+Guha, Sri Rama's dear friend! 🤗 | Ramayanam 1.1.29
+
+śṛṅgavīrapure sūtaṃ gaṅgākūle vyasarjayat |
+guhamāsādya dharmātmā niṣādādhipatiṃ priyam || 29 ||
+
+Word meanings:
+• dharmātmā – the righteous one (Rama)
+• śṛṅgavīrapure – at Shringaverapura
+• gaṅgākūle – on the bank of the Ganga
+• niṣādādhipatim – king of the Nishadas
+• priyam guham – his dear friend Guha
+• āsādya – meeting
+• sūtam vyasarjayat – sent the charioteer (Sumantra) back
+
+Meaning:
+"The righteous Rama reached Shringaverapura on the bank of the Ganga and met there Guha, king of the Nishadas and his dear friend. From there he sent the charioteer Sumantra back to Ayodhya."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 29
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

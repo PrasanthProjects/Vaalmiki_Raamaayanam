@@ -185,3 +185,63 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_079.srt](captions/Sloka_079.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+समुद्र पर श्रीराम का क्रोध! 🌊🔥 | Ramayanam 1.1.79
+```
+
+**Hindi description:**
+
+```text
+समुद्र पर श्रीराम का क्रोध! 🌊🔥 | Ramayanam 1.1.79
+
+ततः सुग्रीवसहितो गत्वा तीरं महोदधेः ।
+समुद्रं क्षोभयामास शरैरादित्यसन्निभैः ॥ 79 ॥
+
+शब्दार्थ:
+• ततः – तब
+• सुग्रीवसहितः – सुग्रीव के साथ
+• महोदधेः तीरम् गत्वा – महासागर के तट पर जाकर
+• आदित्यसन्निभैः शरैः – सूर्य जैसे दहकते बाणों से
+• समुद्रम् क्षोभयामास – समुद्र को क्षुब्ध कर दिया
+
+भावार्थ:
+"फिर श्रीराम सुग्रीव के साथ महासागर के तट पर पहुँचे। (समुद्र के रास्ता न देने पर) सूर्य जैसे दहकते बाणों से उन्होंने समुद्र को उथल-पुथल कर दिया।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 79
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Sri Rama's anger at the ocean! 🌊🔥 | Ramayanam 1.1.79
+```
+
+**English description:**
+
+```text
+Sri Rama's anger at the ocean! 🌊🔥 | Ramayanam 1.1.79
+
+tataḥ sugrīvasahito gatvā tīraṃ mahodadheḥ |
+samudraṃ kṣobhayāmāsa śarairādityasannibhaiḥ || 79 ||
+
+Word meanings:
+• tataḥ – then
+• sugrīvasahitaḥ – together with Sugriva
+• mahodadheḥ tīram gatvā – going to the shore of the great ocean
+• ādityasannibhaiḥ śaraiḥ – with arrows blazing like the sun
+• samudram kṣobhayāmāsa – stirred the ocean into turmoil
+
+Meaning:
+"Then Rama reached the shore of the great ocean with Sugriva. (When the ocean would not give way,) he churned it into turmoil with arrows blazing like the sun."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 79
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

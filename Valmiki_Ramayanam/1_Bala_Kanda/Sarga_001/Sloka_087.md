@@ -192,3 +192,63 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_087.srt](captions/Sloka_087.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+भरत के पास हनुमान! 🏃‍♂️ | Ramayanam 1.1.87
+```
+
+**Hindi description:**
+
+```text
+भरत के पास हनुमान! 🏃‍♂️ | Ramayanam 1.1.87
+
+भरद्वाजाश्रमं गत्वा रामः सत्यपराक्रमः ।
+भरतस्यान्तिके रामो हनूमन्तं व्यसर्जयत् ॥ 87 ॥
+
+शब्दार्थ:
+• सत्यपराक्रमः रामः – सत्य-पराक्रमी राम
+• भरद्वाजाश्रमम् गत्वा – भरद्वाज के आश्रम जाकर
+• रामः – राम ने
+• भरतस्य अन्तिके – भरत के पास
+• हनूमन्तम् व्यसर्जयत् – हनुमान को भेजा
+
+भावार्थ:
+"सत्य-पराक्रमी श्रीराम मार्ग में भरद्वाज मुनि के आश्रम गए। वहाँ से अपने आने की सूचना देने के लिए उन्होंने हनुमान को पहले भरत के पास भेजा।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 87
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Hanuman goes ahead to Bharata! 🏃‍♂️ | Ramayanam 1.1.87
+```
+
+**English description:**
+
+```text
+Hanuman goes ahead to Bharata! 🏃‍♂️ | Ramayanam 1.1.87
+
+bharadvājāśramaṃ gatvā rāmaḥ satyaparākramaḥ |
+bharatasyāntike rāmo hanūmantaṃ vyasarjayat || 87 ||
+
+Word meanings:
+• satyaparākramaḥ rāmaḥ – Rama of true valour
+• bharadvājāśramam gatvā – going to Bharadwaja's hermitage
+• rāmaḥ – Rama
+• bharatasya antike – to Bharata
+• hanūmantam vyasarjayat – sent Hanuman
+
+Meaning:
+"On the way, Rama of true valour stopped at Sage Bharadwaja's hermitage. From there he sent Hanuman ahead to Bharata to tell him he was coming."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 87
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

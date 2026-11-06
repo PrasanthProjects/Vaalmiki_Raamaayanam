@@ -190,3 +190,63 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_031.srt](captions/Sloka_031.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+चित्रकूट में श्रीराम का घर! 🏡 | Ramayanam 1.1.31
+```
+
+**Hindi description:**
+
+```text
+चित्रकूट में श्रीराम का घर! 🏡 | Ramayanam 1.1.31
+
+चित्रकूटमनुप्राप्य भरद्वाजस्य शासनात् ।
+रम्यमावसथं कृत्वा रममाणा वने त्रयः ॥ 31 ॥
+
+शब्दार्थ:
+• भरद्वाजस्य शासनात् – भरद्वाज मुनि की आज्ञा से
+• चित्रकूटम् अनुप्राप्य – चित्रकूट पहुँचकर
+• रम्यम् आवसथम् कृत्वा – सुंदर कुटिया बनाकर
+• त्रयः – तीनों
+• वने रममाणाः – वन में आनंद से रहते हुए
+
+भावार्थ:
+"...भरद्वाज मुनि के कहे अनुसार चित्रकूट पर्वत पहुँचे। वहाँ सुंदर पर्णकुटी बनाकर श्रीराम, सीता और लक्ष्मण – तीनों वन में आनंद से रहने लगे।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 31
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Sri Rama's home at Chitrakuta! 🏡 | Ramayanam 1.1.31
+```
+
+**English description:**
+
+```text
+Sri Rama's home at Chitrakuta! 🏡 | Ramayanam 1.1.31
+
+citrakūṭamanuprāpya bharadvājasya śāsanāt |
+ramyamāvasathaṃ kṛtvā ramamāṇā vane trayaḥ || 31 ||
+
+Word meanings:
+• bharadvājasya śāsanāt – as Sage Bharadwaja advised
+• citrakūṭam anuprāpya – reaching Chitrakuta
+• ramyam āvasatham kṛtvā – building a lovely hut
+• trayaḥ – the three of them
+• vane ramamāṇāḥ – living happily in the forest
+
+Meaning:
+"...as Sage Bharadwaja advised, they reached Mount Chitrakuta. Building a lovely leaf hut there, Rama, Sita and Lakshmana lived happily in the forest."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 31
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

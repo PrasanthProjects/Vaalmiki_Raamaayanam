@@ -192,3 +192,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_025.srt](captions/Sloka_025.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+लक्ष्मण जैसा भाई हो तो! 🤝 | Ramayanam 1.1.25
+```
+
+**Hindi description:**
+
+```text
+लक्ष्मण जैसा भाई हो तो! 🤝 | Ramayanam 1.1.25
+
+तं व्रजन्तं प्रियो भ्राता लक्ष्मणोऽनुजगाम ह ।
+स्नेहाद् विनयसम्पन्नः सुमित्रानन्दवर्धनः ॥ 25 ॥
+
+शब्दार्थ:
+• व्रजन्तम् तम् – वन जाते हुए उन (राम) को
+• प्रियः भ्राता – प्रिय भाई
+• विनयसम्पन्नः – विनय से भरे
+• सुमित्रानन्दवर्धनः – माता सुमित्रा का आनंद बढ़ाने वाले
+• लक्ष्मणः – लक्ष्मण
+• स्नेहात् – प्रेम से
+• अनुजगाम ह – पीछे-पीछे गए
+
+भावार्थ:
+"वन जाते हुए श्रीराम के पीछे-पीछे उनके प्रिय छोटे भाई, विनय से भरे, माता सुमित्रा का आनंद बढ़ाने वाले लक्ष्मण भी भाई के प्रेम में चल पड़े।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 25
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+If only everyone had a brother like Lakshmana! 🤝 | Ramayanam 1.1.25
+```
+
+**English description:**
+
+```text
+If only everyone had a brother like Lakshmana! 🤝 | Ramayanam 1.1.25
+
+taṃ vrajantaṃ priyo bhrātā lakṣmaṇo'nujagāma ha |
+snehād vinayasampannaḥ sumitrānandavardhanaḥ || 25 ||
+
+Word meanings:
+• vrajantam tam – him (Rama) as he left for the forest
+• priyaḥ bhrātā – his beloved brother
+• vinayasampannaḥ – full of humility
+• sumitrānandavardhanaḥ – who increases his mother Sumitra's joy
+• lakṣmaṇaḥ – Lakshmana
+• snehāt – out of love
+• anujagāma ha – followed
+
+Meaning:
+"As Rama left for the forest, his beloved younger brother Lakshmana – humble, the joy of his mother Sumitra – followed him out of love."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 25
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

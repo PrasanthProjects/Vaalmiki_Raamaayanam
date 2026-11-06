@@ -195,3 +195,71 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_002.srt](captions/Sloka_002.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+इस संसार का सच्चा नायक कौन है? 🤔 | Ramayanam 1.1.2
+```
+
+**Hindi description:**
+
+```text
+इस संसार का सच्चा नायक कौन है? 🤔 | Ramayanam 1.1.2
+
+को न्वस्मिन्साम्प्रतं लोके गुणवान्कश्च वीर्यवान् ।
+धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः ॥ 2 ॥
+
+शब्दार्थ:
+• अस्मिन् लोके – इस लोक में
+• साम्प्रतम् – इस समय
+• कः नु – कौन
+• गुणवान् – गुणवान
+• कः च वीर्यवान् – और कौन पराक्रमी
+• धर्मज्ञः च – धर्म को जानने वाला
+• कृतज्ञः च – किए उपकार को न भूलने वाला
+• सत्यवाक्यः – सदा सत्य बोलने वाला
+• दृढव्रतः – अपने व्रत पर दृढ़
+
+भावार्थ:
+वाल्मीकि पूछते हैं: "हे स्वामी! इस समय इस लोक में सब गुणों से भरा हुआ कौन है? महान पराक्रमी कौन है? धर्म को जानने वाला, छोटा-सा उपकार भी न भूलने वाला, सदा सत्य बोलने वाला और अपने संकल्प पर अटल रहने वाला कौन है?"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 2
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Who is the true hero of this world? 🤔 | Ramayanam 1.1.2
+```
+
+**English description:**
+
+```text
+Who is the true hero of this world? 🤔 | Ramayanam 1.1.2
+
+ko nvasminsāmprataṃ loke guṇavānkaśca vīryavān |
+dharmajñaśca kṛtajñaśca satyavākyo dṛḍhavrataḥ || 2 ||
+
+Word meanings:
+• asmin loke – in this world
+• sāmpratam – now, in this age
+• kaḥ nu – who
+• guṇavān – full of virtues
+• kaḥ ca vīryavān – and who is valiant
+• dharmajñaḥ ca – knower of dharma
+• kṛtajñaḥ ca – grateful, never forgetting a kindness
+• satyavākyaḥ – ever truthful in speech
+• dṛḍhavrataḥ – firm in his vows
+
+Meaning:
+Valmiki asks: "Revered one! Who in this world today is full of every virtue? Who is truly valiant? Who knows dharma, never forgets even a small kindness, always speaks the truth and stays firm in his vows?"
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 2
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

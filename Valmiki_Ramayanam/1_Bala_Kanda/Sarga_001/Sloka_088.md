@@ -194,3 +194,63 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_088.srt](captions/Sloka_088.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+नंदिग्राम की ओर पुष्पक! ✈️ | Ramayanam 1.1.88
+```
+
+**Hindi description:**
+
+```text
+नंदिग्राम की ओर पुष्पक! ✈️ | Ramayanam 1.1.88
+
+पुनराख्यायिकां जल्पन् सुग्रीवसहितस्तदा ।
+पुष्पकं तत् समारुह्य नन्दिग्रामं ययौ तदा ॥ 88 ॥
+
+शब्दार्थ:
+• तदा – तब
+• सुग्रीवसहितः – सुग्रीव के साथ
+• पुनः आख्यायिकाम् जल्पन् – फिर से कथाएँ कहते हुए
+• तत् पुष्पकम् समारुह्य – उस पुष्पक पर चढ़कर
+• नन्दिग्रामम् ययौ – नंदिग्राम गए
+
+भावार्थ:
+"फिर सुग्रीव के साथ बीती बातें बार-बार कहते हुए, पुष्पक विमान पर चढ़कर श्रीराम नंदिग्राम पहुँचे।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 88
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+The Pushpaka heads for Nandigrama! ✈️ | Ramayanam 1.1.88
+```
+
+**English description:**
+
+```text
+The Pushpaka heads for Nandigrama! ✈️ | Ramayanam 1.1.88
+
+punarākhyāyikāṃ jalpan sugrīvasahitastadā |
+puṣpakaṃ tat samāruhya nandigrāmaṃ yayau tadā || 88 ||
+
+Word meanings:
+• tadā – then
+• sugrīvasahitaḥ – together with Sugriva
+• punaḥ ākhyāyikām jalpan – telling the stories again
+• tat puṣpakam samāruhya – boarding that Pushpaka
+• nandigrāmam yayau – went to Nandigrama
+
+Meaning:
+"Then, retelling all that had happened with Sugriva again and again, Rama boarded the Pushpaka and reached Nandigrama."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 88
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

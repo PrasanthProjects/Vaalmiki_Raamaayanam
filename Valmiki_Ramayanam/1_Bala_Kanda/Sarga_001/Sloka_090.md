@@ -188,3 +188,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_090.srt](captions/Sloka_090.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+यही है रामराज्य! 🏛️✨ | Ramayanam 1.1.90
+```
+
+**Hindi description:**
+
+```text
+यही है रामराज्य! 🏛️✨ | Ramayanam 1.1.90
+
+प्रहृष्टमुदितो लोकस्तुष्टः पुष्टः सुधार्मिकः ।
+निरामयो ह्यरोगश्च दुर्भिक्षभयवर्जितः ॥ 90 ॥
+
+शब्दार्थ:
+• लोकः – (राम के राज्य में) लोग
+• प्रहृष्टमुदितः – बहुत हर्षित और प्रसन्न
+• तुष्टः पुष्टः – संतुष्ट और समृद्ध
+• सुधार्मिकः – धर्मपरायण
+• निरामयः – कष्ट से रहित
+• अरोगः च हि – और रोग से रहित
+• दुर्भिक्षभयवर्जितः – अकाल के भय से मुक्त
+
+भावार्थ:
+(यहाँ से नारद जी बताते हैं कि श्रीराम का शासन कैसा होगा।) "श्रीराम के राज्य में लोग बहुत प्रसन्न, संतुष्ट, समृद्ध और धर्मपरायण रहेंगे। उन्हें न कष्ट होगा, न रोग, न अकाल का भय।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 90
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+This is Rama Rajya! 🏛️✨ | Ramayanam 1.1.90
+```
+
+**English description:**
+
+```text
+This is Rama Rajya! 🏛️✨ | Ramayanam 1.1.90
+
+prahṛṣṭamudito lokastuṣṭaḥ puṣṭaḥ sudhārmikaḥ |
+nirāmayo hyarogaśca durbhikṣabhayavarjitaḥ || 90 ||
+
+Word meanings:
+• lokaḥ – the people (in Rama's reign)
+• prahṛṣṭamuditaḥ – joyful and delighted
+• tuṣṭaḥ puṣṭaḥ – content and prosperous
+• sudhārmikaḥ – devoted to dharma
+• nirāmayaḥ – free of suffering
+• arogaḥ ca hi – and free of disease
+• durbhikṣabhayavarjitaḥ – free of the fear of famine
+
+Meaning:
+(From here Narada describes what Rama's reign will be like.) "Under Rama, the people will be joyful, content, prosperous and devoted to dharma. They will know no suffering, no disease and no fear of famine."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 90
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

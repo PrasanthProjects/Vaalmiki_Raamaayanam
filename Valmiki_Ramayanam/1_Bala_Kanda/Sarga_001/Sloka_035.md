@@ -187,3 +187,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_035.srt](captions/Sloka_035.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+भाई के चरणों में गिरे भरत 🙏 | Ramayanam 1.1.35
+```
+
+**Hindi description:**
+
+```text
+भाई के चरणों में गिरे भरत 🙏 | Ramayanam 1.1.35
+
+गत्वा तु स महात्मानं रामं सत्यपराक्रमम् ।
+अयाचद्भ्रातरं रामम् आर्यभावपुरस्कृतः ॥ 35 ॥
+
+शब्दार्थ:
+• सः तु – वे (भरत)
+• गत्वा – जाकर
+• महात्मानम् – महात्मा
+• सत्यपराक्रमम् – कभी व्यर्थ न जाने वाले पराक्रम वाले
+• भ्रातरम् रामम् – बड़े भाई राम से
+• आर्यभावपुरस्कृतः – बड़े भाई के प्रति आदर भाव के साथ
+• अयाचत् – विनती की
+
+भावार्थ:
+"भरत चित्रकूट गए और महात्मा, सत्य-पराक्रमी बड़े भाई श्रीराम से बड़े आदर और विनय के साथ यह विनती की।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 35
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Bharata falls at his brother's feet 🙏 | Ramayanam 1.1.35
+```
+
+**English description:**
+
+```text
+Bharata falls at his brother's feet 🙏 | Ramayanam 1.1.35
+
+gatvā tu sa mahātmānaṃ rāmaṃ satyaparākramam |
+ayācadbhrātaraṃ rāmam āryabhāvapuraskṛtaḥ || 35 ||
+
+Word meanings:
+• saḥ tu – he (Bharata)
+• gatvā – going
+• mahātmānam – the great-souled
+• satyaparākramam – whose valour never fails
+• bhrātaram rāmam – his elder brother Rama
+• āryabhāvapuraskṛtaḥ – with deep reverence for his elder
+• ayācat – pleaded
+
+Meaning:
+"Bharata went to Chitrakuta and, with deep reverence and humility, pleaded with his great-souled elder brother Rama, whose valour never fails."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 35
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

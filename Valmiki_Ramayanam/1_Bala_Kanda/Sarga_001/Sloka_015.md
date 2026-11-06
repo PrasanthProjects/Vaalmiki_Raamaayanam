@@ -184,3 +184,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_015.srt](captions/Sloka_015.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+संकट में भी न टूटने वाला मन! 💎 | Ramayanam 1.1.15
+```
+
+**Hindi description:**
+
+```text
+संकट में भी न टूटने वाला मन! 💎 | Ramayanam 1.1.15
+
+सर्वशास्त्रार्थतत्त्वज्ञः स्मृतिमान् प्रतिभानवान् ।
+सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः ॥ 15 ॥
+
+शब्दार्थ:
+• सर्वशास्त्रार्थतत्त्वज्ञः – सब शास्त्रों का अर्थ और सार जानने वाले
+• स्मृतिमान् – अच्छी स्मरण-शक्ति वाले
+• प्रतिभानवान् – प्रतिभाशाली (समय पर सही उपाय सूझने वाले)
+• सर्वलोकप्रियः – सारे लोक के प्रिय
+• साधुः – सज्जन
+• अदीनात्मा – कभी उदास न होने वाले
+• विचक्षणः – अच्छे-बुरे का विवेक रखने वाले
+
+भावार्थ:
+"वे सब शास्त्रों का सार जानते हैं। जो सुनते हैं, कभी नहीं भूलते, और किस समय क्या करना है, तुरंत सूझ जाता है। सारा संसार उनसे प्रेम करता है। वे सज्जन हैं, कितने भी कष्ट में उनका मन नहीं टूटता, और अच्छे-बुरे को ठीक से पहचानते हैं।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 15
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+A mind that never breaks, even in hardship! 💎 | Ramayanam 1.1.15
+```
+
+**English description:**
+
+```text
+A mind that never breaks, even in hardship! 💎 | Ramayanam 1.1.15
+
+sarvaśāstrārthatattvajñaḥ smṛtimān pratibhānavān |
+sarvalokapriyaḥ sādhuradīnātmā vicakṣaṇaḥ || 15 ||
+
+Word meanings:
+• sarvaśāstrārthatattvajñaḥ – knower of the meaning and essence of all scriptures
+• smṛtimān – with a sharp memory
+• pratibhānavān – quick-witted, finding the right answer at the right time
+• sarvalokapriyaḥ – beloved of the whole world
+• sādhuḥ – good-hearted
+• adīnātmā – never downcast
+• vicakṣaṇaḥ – discerning between right and wrong
+
+Meaning:
+"He knows the essence of all scriptures. He never forgets what he hears, and the right thing to do comes to him at once. The whole world loves him. He is good-hearted, his spirit never sinks in any hardship, and he clearly tells right from wrong."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 15
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

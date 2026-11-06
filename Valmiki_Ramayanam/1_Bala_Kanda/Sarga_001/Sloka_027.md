@@ -191,3 +191,63 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_027.srt](captions/Sloka_027.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+माता सीता कैसी थीं? 🌸 | Ramayanam 1.1.27
+```
+
+**Hindi description:**
+
+```text
+माता सीता कैसी थीं? 🌸 | Ramayanam 1.1.27
+
+जनकस्य कुले जाता देवमायेव निर्मिता ।
+सर्वलक्षणसम्पन्ना नारीणामुत्तमा वधूः ॥ 27 ॥
+
+शब्दार्थ:
+• जनकस्य कुले जाता – जनक के कुल में जन्मी
+• देवमाया इव निर्मिता – मानो देवताओं की माया से रची गई
+• सर्वलक्षणसम्पन्ना – सब शुभ लक्षणों से युक्त
+• नारीणाम् उत्तमा – स्त्रियों में उत्तम
+• वधूः – (दशरथ की) बहू
+
+भावार्थ:
+"...राजा जनक के कुल में जन्मी, इतनी अद्भुत मानो देवताओं ने अपनी माया से विशेष रूप से रचा हो, सब शुभ लक्षणों वाली, स्त्रियों में उत्तम, महाराज दशरथ की बहू – वे सीता..."
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 27
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Who was Mother Sita? 🌸 | Ramayanam 1.1.27
+```
+
+**English description:**
+
+```text
+Who was Mother Sita? 🌸 | Ramayanam 1.1.27
+
+janakasya kule jātā devamāyeva nirmitā |
+sarvalakṣaṇasampannā nārīṇāmuttamā vadhūḥ || 27 ||
+
+Word meanings:
+• janakasya kule jātā – born in the family of King Janaka
+• devamāyā iva nirmitā – as if fashioned by divine magic
+• sarvalakṣaṇasampannā – endowed with every auspicious mark
+• nārīṇām uttamā – the finest of women
+• vadhūḥ – the (daughter-in-law) of Dasharatha
+
+Meaning:
+"...born in the family of King Janaka, so wondrous it seemed the gods had fashioned her with their magic, bearing every auspicious mark, the finest of women and King Dasharatha's daughter-in-law – Sita..."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 27
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

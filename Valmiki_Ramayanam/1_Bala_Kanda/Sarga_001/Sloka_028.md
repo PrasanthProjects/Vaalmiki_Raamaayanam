@@ -191,3 +191,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_028.srt](captions/Sloka_028.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+जैसे रोहिणी चंद्रमा को नहीं छोड़ती! 🌙 | Ramayanam 1.1.28
+```
+
+**Hindi description:**
+
+```text
+जैसे रोहिणी चंद्रमा को नहीं छोड़ती! 🌙 | Ramayanam 1.1.28
+
+सीताप्यनुगता रामं शशिनं रोहिणी यथा ।
+पौरैरनुगतो दूरं पित्रा दशरथेन च ॥ 28 ॥
+
+शब्दार्थ:
+• रोहिणी शशिनम् यथा – जैसे रोहिणी चंद्रमा के साथ
+• सीता अपि – सीता भी
+• रामम् अनुगता – राम के पीछे गईं
+• पौरैः – नगरवासियों द्वारा
+• पित्रा दशरथेन च – और पिता दशरथ द्वारा
+• दूरम् अनुगतः – दूर तक पीछा किया गया
+
+भावार्थ:
+"...जैसे रोहिणी नक्षत्र चंद्रमा को कभी नहीं छोड़ता, वैसे ही माता सीता भी श्रीराम के साथ वन गईं। वन जाते श्रीराम के पीछे अयोध्या के लोग और पिता दशरथ बहुत दूर तक गए।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 28
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+As the star Rohini never leaves the moon! 🌙 | Ramayanam 1.1.28
+```
+
+**English description:**
+
+```text
+As the star Rohini never leaves the moon! 🌙 | Ramayanam 1.1.28
+
+sītāpyanugatā rāmaṃ śaśinaṃ rohiṇī yathā |
+paurairanugato dūraṃ pitrā daśarathena ca || 28 ||
+
+Word meanings:
+• rohiṇī śaśinam yathā – as Rohini follows the moon
+• sītā api – Sita too
+• rāmam anugatā – followed Rama
+• pauraiḥ – by the citizens
+• pitrā daśarathena ca – and by his father Dasharatha
+• dūram anugataḥ – was followed a long way
+
+Meaning:
+"...Just as the star Rohini never leaves the moon, Sita too went with Rama to the forest. The people of Ayodhya and his father Dasharatha followed Rama a long way as he left."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 28
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

@@ -194,3 +194,69 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_004.srt](captions/Sloka_004.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+किसके क्रोध से देवता भी डरते हैं? 🔥 | Ramayanam 1.1.4
+```
+
+**Hindi description:**
+
+```text
+किसके क्रोध से देवता भी डरते हैं? 🔥 | Ramayanam 1.1.4
+
+आत्मवान्को जितक्रोधो द्युतिमान्कोऽनसूयकः ।
+कस्य बिभ्यति देवाश्च जातरोषस्य संयुगे ॥ 4 ॥
+
+शब्दार्थ:
+• आत्मवान् कः – मन को वश में रखने वाला कौन
+• जितक्रोधः – क्रोध को जीतने वाला
+• द्युतिमान् – तेजस्वी
+• कः अनसूयकः – किसी से ईर्ष्या न करने वाला कौन
+• संयुगे – युद्ध में
+• जातरोषस्य – क्रोध आने पर
+• कस्य – किसके
+• देवाः च बिभ्यति – देवता भी डरते हैं
+
+भावार्थ:
+"मन को वश में रखने वाला, क्रोध को जीत चुका, तेज से चमकता हुआ और किसी से ईर्ष्या न करने वाला कौन है? क्रोध को जीतने वाला होकर भी युद्ध में जब उसे क्रोध आता है, तो देवता भी डर जाते हैं – ऐसा कौन है?"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 4
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Whose anger makes even the gods afraid? 🔥 | Ramayanam 1.1.4
+```
+
+**English description:**
+
+```text
+Whose anger makes even the gods afraid? 🔥 | Ramayanam 1.1.4
+
+ātmavānko jitakrodho dyutimānko'nasūyakaḥ |
+kasya bibhyati devāśca jātaroṣasya saṃyuge || 4 ||
+
+Word meanings:
+• ātmavān kaḥ – who has mastered his mind
+• jitakrodhaḥ – who has conquered anger
+• dyutimān – radiant
+• kaḥ anasūyakaḥ – who is free from envy
+• saṃyuge – in battle
+• jātaroṣasya – when roused to anger
+• kasya – whose
+• devāḥ ca bibhyati – even the gods fear
+
+Meaning:
+"Who has mastered his mind, conquered anger, shines with radiance and envies no one? Though he has conquered anger, when he is roused in battle even the gods tremble – who is such a person?"
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 4
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

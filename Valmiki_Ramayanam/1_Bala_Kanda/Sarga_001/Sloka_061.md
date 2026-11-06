@@ -187,3 +187,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_061.srt](captions/Sloka_061.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+अग्नि को साक्षी मानकर मित्रता! 🔥🤝 | Ramayanam 1.1.61
+```
+
+**Hindi description:**
+
+```text
+अग्नि को साक्षी मानकर मित्रता! 🔥🤝 | Ramayanam 1.1.61
+
+चकार सख्यं रामेण प्रीतश्चैवाग्निसाक्षिकम् ।
+ततो वानरराजेन वैरानुकथनं प्रति ॥ 61 ॥
+
+शब्दार्थ:
+• प्रीतः च एव – प्रसन्न होकर
+• रामेण – राम के साथ
+• अग्निसाक्षिकम् सख्यम् – अग्नि को साक्षी बनाकर मित्रता
+• चकार – की
+• ततः – फिर
+• वानरराजेन – वानरराज (सुग्रीव) द्वारा
+• वैरानुकथनम् प्रति – (वाली से) वैर की कथा के बारे में
+
+भावार्थ:
+"...बहुत प्रसन्न होकर अग्नि को साक्षी मानकर श्रीराम से मित्रता की। फिर वानरराज सुग्रीव ने अपने बड़े भाई वाली से अपने वैर की कथा..."
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 61
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+A friendship with fire as witness! 🔥🤝 | Ramayanam 1.1.61
+```
+
+**English description:**
+
+```text
+A friendship with fire as witness! 🔥🤝 | Ramayanam 1.1.61
+
+cakāra sakhyaṃ rāmeṇa prītaścaivāgnisākṣikam |
+tato vānararājena vairānukathanaṃ prati || 61 ||
+
+Word meanings:
+• prītaḥ ca eva – delighted
+• rāmeṇa – with Rama
+• agnisākṣikam sakhyam – a friendship with fire as witness
+• cakāra – made
+• tataḥ – then
+• vānararājena – by the vanara king (Sugriva)
+• vairānukathanam prati – about the story of his feud (with Vali)
+
+Meaning:
+"...overjoyed, he made friends with Rama with the sacred fire as witness. Then Sugriva, king of the vanaras, told the story of his feud with his elder brother Vali..."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 61
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

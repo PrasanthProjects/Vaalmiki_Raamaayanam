@@ -198,3 +198,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_089.srt](captions/Sloka_089.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+श्रीराम फिर से राजा बने! 👑🙏 | Ramayanam 1.1.89
+```
+
+**Hindi description:**
+
+```text
+श्रीराम फिर से राजा बने! 👑🙏 | Ramayanam 1.1.89
+
+नन्दिग्रामे जटां हित्वा भ्रातृभिः सहितोऽनघः ।
+रामः सीतामनुप्राप्य राज्यं पुनरवाप्तवान् ॥ 89 ॥
+
+शब्दार्थ:
+• अनघः रामः – निष्पाप राम
+• नन्दिग्रामे – नंदिग्राम में
+• भ्रातृभिः सहितः – भाइयों के साथ
+• जटाम् हित्वा – जटाएँ उतारकर
+• सीताम् अनुप्राप्य – सीता को पाकर
+• राज्यम् पुनः अवाप्तवान् – फिर से राज्य पाया
+
+भावार्थ:
+"नंदिग्राम में निष्पाप श्रीराम ने भाइयों के साथ वनवास की जटाएँ उतारीं और माता सीता के साथ फिर से अपना राज्य ग्रहण किया।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 89
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Sri Rama becomes king again! 👑🙏 | Ramayanam 1.1.89
+```
+
+**English description:**
+
+```text
+Sri Rama becomes king again! 👑🙏 | Ramayanam 1.1.89
+
+nandigrāme jaṭāṃ hitvā bhrātṛbhiḥ sahito'naghaḥ |
+rāmaḥ sītāmanuprāpya rājyaṃ punaravāptavān || 89 ||
+
+Word meanings:
+• anaghaḥ rāmaḥ – the sinless Rama
+• nandigrāme – at Nandigrama
+• bhrātṛbhiḥ sahitaḥ – with his brothers
+• jaṭām hitvā – removing his matted locks
+• sītām anuprāpya – having regained Sita
+• rājyam punaḥ avāptavān – won back his kingdom
+
+Meaning:
+"At Nandigrama, the sinless Rama and his brothers cut off the matted locks of exile, and with Sita at his side he took up his kingdom once more."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 89
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

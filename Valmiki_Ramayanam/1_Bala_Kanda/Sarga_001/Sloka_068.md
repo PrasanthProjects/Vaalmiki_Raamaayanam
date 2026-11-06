@@ -192,3 +192,69 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_068.srt](captions/Sloka_068.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+सुग्रीव की सिंह-गर्जना! 🦁 | Ramayanam 1.1.68
+```
+
+**Hindi description:**
+
+```text
+सुग्रीव की सिंह-गर्जना! 🦁 | Ramayanam 1.1.68
+
+ततोऽगर्जद्धरिवरः सुग्रीवो हेमपिङ्गलः ।
+तेन नादेन महता निर्जगाम हरीश्वरः ॥ 68 ॥
+
+शब्दार्थ:
+• ततः – तब
+• हरिवरः – वानरों में श्रेष्ठ
+• हेमपिङ्गलः – सुनहरे भूरे रंग वाले
+• सुग्रीवः – सुग्रीव
+• अगर्जत् – गरजे
+• तेन महता नादेन – उस महान गर्जना से
+• हरीश्वरः – वानरों के राजा (वाली)
+• निर्जगाम – बाहर निकले
+
+भावार्थ:
+"वहाँ सुनहरी आभा वाले वानरश्रेष्ठ सुग्रीव ज़ोर से गरजे। वह गर्जना सुनकर वानरराज वाली (युद्ध के लिए) बाहर निकल आया।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 68
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Sugriva's lion-like roar! 🦁 | Ramayanam 1.1.68
+```
+
+**English description:**
+
+```text
+Sugriva's lion-like roar! 🦁 | Ramayanam 1.1.68
+
+tato'garjaddharivaraḥ sugrīvo hemapiṅgalaḥ |
+tena nādena mahatā nirjagāma harīśvaraḥ || 68 ||
+
+Word meanings:
+• tataḥ – then
+• harivaraḥ – the best of vanaras
+• hemapiṅgalaḥ – golden-tawny in colour
+• sugrīvaḥ – Sugriva
+• agarjat – roared
+• tena mahatā nādena – at that mighty roar
+• harīśvaraḥ – the lord of the vanaras (Vali)
+• nirjagāma – came out
+
+Meaning:
+"There Sugriva, the best of vanaras with his golden-tawny glow, roared loudly. Hearing that roar, Vali, king of the vanaras, came out to fight."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 68
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

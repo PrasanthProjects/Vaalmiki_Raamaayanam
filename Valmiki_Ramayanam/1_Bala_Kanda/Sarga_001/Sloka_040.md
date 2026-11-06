@@ -194,3 +194,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_040.srt](captions/Sloka_040.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+श्रीराम ने चित्रकूट क्यों छोड़ा? 🌲 | Ramayanam 1.1.40
+```
+
+**Hindi description:**
+
+```text
+श्रीराम ने चित्रकूट क्यों छोड़ा? 🌲 | Ramayanam 1.1.40
+
+रामस्तु पुनरालक्ष्य नागरस्य जनस्य च ।
+तत्रागमनमेकाग्रो दण्डकान् प्रविवेश ह ॥ 40 ॥
+
+शब्दार्थ:
+• रामः तु – राम तो
+• पुनः – फिर से
+• तत्र – वहाँ (चित्रकूट में)
+• नागरस्य जनस्य च आगमनम् – नगरवासियों के आने को
+• आलक्ष्य – देखकर
+• एकाग्रः – एकाग्र मन से
+• दण्डकान् प्रविवेश ह – दंडक वन में प्रवेश किया
+
+भावार्थ:
+"...अयोध्या के लोग बार-बार चित्रकूट आते रहेंगे, यह देखकर, अपने वनवास के व्रत में बाधा न आए इसलिए एकाग्र मन से श्रीराम दंडकारण्य में चले गए।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 40
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Why did Sri Rama leave Chitrakuta? 🌲 | Ramayanam 1.1.40
+```
+
+**English description:**
+
+```text
+Why did Sri Rama leave Chitrakuta? 🌲 | Ramayanam 1.1.40
+
+rāmastu punarālakṣya nāgarasya janasya ca |
+tatrāgamanamekāgro daṇḍakān praviveśa ha || 40 ||
+
+Word meanings:
+• rāmaḥ tu – Rama, for his part
+• punaḥ – again
+• tatra – there (to Chitrakuta)
+• nāgarasya janasya ca āgamanam – the coming of the townspeople
+• ālakṣya – noticing
+• ekāgraḥ – with a focused mind
+• daṇḍakān praviveśa ha – entered the Dandaka forest
+
+Meaning:
+"...Seeing that the people of Ayodhya would keep coming to Chitrakuta, and so that his vow of exile would not be disturbed, Rama entered the Dandaka forest with a focused mind."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 40
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

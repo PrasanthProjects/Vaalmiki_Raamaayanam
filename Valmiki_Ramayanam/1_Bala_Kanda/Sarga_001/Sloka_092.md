@@ -189,3 +189,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_092.srt](captions/Sloka_092.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+प्रकृति भी शांत! 🌿 | Ramayanam 1.1.92
+```
+
+**Hindi description:**
+
+```text
+प्रकृति भी शांत! 🌿 | Ramayanam 1.1.92
+
+न चाग्निजं भयं किञ्चिन्नाप्सु मज्जन्ति जन्तवः ।
+न वातजं भयं किञ्चित् नापि ज्वरकृतं तथा ॥ 92 ॥
+
+शब्दार्थ:
+• अग्निजम् भयम् – आग का भय
+• किञ्चित् न च – ज़रा भी नहीं
+• जन्तवः – प्राणी
+• अप्सु न मज्जन्ति – पानी में नहीं डूबेंगे
+• वातजम् भयम् – आँधी-तूफ़ान का भय
+• किञ्चित् न – ज़रा भी नहीं
+• तथा ज्वरकृतम् अपि न – वैसे ही ज्वर (रोग) का भय भी नहीं
+
+भावार्थ:
+"आग लगने का भय ज़रा भी नहीं होगा। कोई प्राणी पानी में डूबकर नहीं मरेगा। आँधी-तूफ़ान का भय नहीं होगा, और ज्वर जैसे रोगों का भय भी नहीं होगा।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 92
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Even nature is at peace! 🌿 | Ramayanam 1.1.92
+```
+
+**English description:**
+
+```text
+Even nature is at peace! 🌿 | Ramayanam 1.1.92
+
+na cāgnijaṃ bhayaṃ kiñcinnāpsu majjanti jantavaḥ |
+na vātajaṃ bhayaṃ kiñcit nāpi jvarakṛtaṃ tathā || 92 ||
+
+Word meanings:
+• agnijam bhayam – fear of fire
+• kiñcit na ca – not in the least
+• jantavaḥ – living beings
+• apsu na majjanti – will not drown in water
+• vātajam bhayam – fear of storms
+• kiñcit na – not in the least
+• tathā jvarakṛtam api na – likewise no fear of fever (disease)
+
+Meaning:
+"There will be no fear of fire at all. No creature will drown. There will be no fear of storms, and no fear of fever or disease."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 92
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

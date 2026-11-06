@@ -184,3 +184,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_018.srt](captions/Sloka_018.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+क्रोध में अग्नि, क्षमा में पृथ्वी! 🔥🌍 | Ramayanam 1.1.18
+```
+
+**Hindi description:**
+
+```text
+क्रोध में अग्नि, क्षमा में पृथ्वी! 🔥🌍 | Ramayanam 1.1.18
+
+विष्णुना सदृशो वीर्ये सोमवत्प्रियदर्शनः ।
+कालाग्निसदृशः क्रोधे क्षमया पृथिवीसमः ॥ 18 ॥
+
+शब्दार्थ:
+• वीर्ये – पराक्रम में
+• विष्णुना सदृशः – विष्णु के समान
+• सोमवत् प्रियदर्शनः – चंद्रमा की तरह देखने में प्रिय
+• क्रोधे – क्रोध में
+• कालाग्निसदृशः – प्रलयकाल की अग्नि के समान
+• क्षमया – क्षमा में
+• पृथिवीसमः – पृथ्वी के समान
+
+भावार्थ:
+"पराक्रम में वे विष्णु के समान हैं। चंद्रमा की तरह देखते ही मन को शीतलता देते हैं। क्रोध आए तो प्रलयकाल की अग्नि जैसे हैं, पर क्षमा में धरती माँ के समान – सब कुछ सह लेते हैं।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 18
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Fire in anger, the earth in forgiveness! 🔥🌍 | Ramayanam 1.1.18
+```
+
+**English description:**
+
+```text
+Fire in anger, the earth in forgiveness! 🔥🌍 | Ramayanam 1.1.18
+
+viṣṇunā sadṛśo vīrye somavatpriyadarśanaḥ |
+kālāgnisadṛśaḥ krodhe kṣamayā pṛthivīsamaḥ || 18 ||
+
+Word meanings:
+• vīrye – in valour
+• viṣṇunā sadṛśaḥ – equal to Vishnu
+• somavat priyadarśanaḥ – pleasing to behold like the moon
+• krodhe – in anger
+• kālāgnisadṛśaḥ – like the fire at the end of an age
+• kṣamayā – in forbearance
+• pṛthivīsamaḥ – equal to the earth
+
+Meaning:
+"In valour he equals Vishnu. Like the moon, the sight of him soothes the heart. In anger he is like the fire that ends an age, yet in forgiveness he is like Mother Earth, bearing everything."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 18
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

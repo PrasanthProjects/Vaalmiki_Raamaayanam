@@ -192,3 +192,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_054.srt](captions/Sloka_054.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+श्रीराम के आँसू 😢 | Ramayanam 1.1.54
+```
+
+**Hindi description:**
+
+```text
+श्रीराम के आँसू 😢 | Ramayanam 1.1.54
+
+राघवः शोकसंतप्तो विललापाकुलेन्द्रियः ।
+ततस्तेनैव शोकेन गृध्रं दग्ध्वा जटायुषम् ॥ 54 ॥
+
+शब्दार्थ:
+• राघवः – रघुवंश में जन्मे राम
+• शोकसंतप्तः – शोक से संतप्त
+• आकुलेन्द्रियः – व्याकुल इंद्रियों वाले
+• विललाप – विलाप किया
+• ततः – तब
+• तेन एव शोकेन – उसी शोक के साथ
+• जटायुषम् गृध्रम् दग्ध्वा – जटायु गिद्ध का दाह करके
+
+भावार्थ:
+"...श्रीराम दुख से जल उठे, उनका मन व्याकुल हो गया और वे बहुत विलाप करने लगे। फिर उसी दुख में उन्होंने (पिता की भाँति) जटायु का दाह-संस्कार किया।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 54
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+The tears of Sri Rama 😢 | Ramayanam 1.1.54
+```
+
+**English description:**
+
+```text
+The tears of Sri Rama 😢 | Ramayanam 1.1.54
+
+rāghavaḥ śokasaṃtapto vilalāpākulendriyaḥ |
+tatastenaiva śokena gṛdhraṃ dagdhvā jaṭāyuṣam || 54 ||
+
+Word meanings:
+• rāghavaḥ – Rama of the Raghu line
+• śokasaṃtaptaḥ – burning with grief
+• ākulendriyaḥ – his senses shaken
+• vilalāpa – lamented
+• tataḥ – then
+• tena eva śokena – in that same grief
+• jaṭāyuṣam gṛdhram dagdhvā – cremating the vulture Jatayu
+
+Meaning:
+"...Rama burned with grief; his mind shaken, he wept and lamented. Then, in that same grief, he performed Jatayu's funeral rites as one would for a father."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 54
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

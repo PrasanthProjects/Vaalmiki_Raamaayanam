@@ -193,3 +193,71 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_006.srt](captions/Sloka_006.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+नारद जी इतने प्रसन्न क्यों हुए? 😊 | Ramayanam 1.1.6
+```
+
+**Hindi description:**
+
+```text
+नारद जी इतने प्रसन्न क्यों हुए? 😊 | Ramayanam 1.1.6
+
+श्रुत्वा चैतत्त्रिलोकज्ञो वाल्मीकेर्नारदो वचः ।
+श्रूयतामिति चामन्त्र्य प्रहृष्टो वाक्यमब्रवीत् ॥ 6 ॥
+
+शब्दार्थ:
+• त्रिलोकज्ञः – तीनों लोकों को जानने वाले
+• नारदः – देवर्षि नारद
+• वाल्मीकेः – वाल्मीकि के
+• एतत् वचः – ये वचन
+• श्रुत्वा च – सुनकर
+• प्रहृष्टः – बहुत प्रसन्न होकर
+• श्रूयताम् इति – "सुनिए" कहकर
+• आमन्त्र्य च – बुलाकर
+• वाक्यम् अब्रवीत् – यह वचन बोले
+
+भावार्थ:
+तीनों लोकों की बातें जानने वाले देवर्षि नारद वाल्मीकि के प्रश्न सुनकर बहुत प्रसन्न हुए। "हे मुनि! ध्यान से सुनिए" – ऐसा कहकर उन्होंने बोलना आरंभ किया।
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 6
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Why was Sage Narada so delighted? 😊 | Ramayanam 1.1.6
+```
+
+**English description:**
+
+```text
+Why was Sage Narada so delighted? 😊 | Ramayanam 1.1.6
+
+śrutvā caitattrilokajño vālmīkernārado vacaḥ |
+śrūyatāmiti cāmantrya prahṛṣṭo vākyamabravīt || 6 ||
+
+Word meanings:
+• trilokajñaḥ – knower of the three worlds
+• nāradaḥ – Sage Narada
+• vālmīkeḥ – of Valmiki
+• etat vacaḥ – these words
+• śrutvā ca – hearing
+• prahṛṣṭaḥ – greatly delighted
+• śrūyatām iti – saying "listen"
+• āmantrya ca – calling him
+• vākyam abravīt – spoke these words
+
+Meaning:
+Sage Narada, who knows all three worlds, was delighted to hear Valmiki's questions. Calling him – "O sage, listen carefully" – he began to speak.
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 6
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

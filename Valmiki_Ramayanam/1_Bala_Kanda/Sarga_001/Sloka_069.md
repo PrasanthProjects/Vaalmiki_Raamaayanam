@@ -188,3 +188,69 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_069.srt](captions/Sloka_069.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+एक ही बाण से वाली-वध! 🎯 | Ramayanam 1.1.69
+```
+
+**Hindi description:**
+
+```text
+एक ही बाण से वाली-वध! 🎯 | Ramayanam 1.1.69
+
+अनुमान्य तदा तारां सुग्रीवेण समागतः ।
+निजघान च तत्रैनं शरेणैकेन राघवः ॥ 69 ॥
+
+शब्दार्थ:
+• तदा – तब
+• ताराम् अनुमान्य – तारा को मनाकर
+• सुग्रीवेण समागतः – सुग्रीव से भिड़ गया
+• तत्र – वहाँ
+• राघवः – राघव ने
+• एनम् – इसे (वाली को)
+• एकेन शरेण – एक ही बाण से
+• निजघान च – मार दिया
+
+भावार्थ:
+"रोकने वाली अपनी पत्नी तारा को समझाकर वाली आया और सुग्रीव से भिड़ गया। वहाँ श्रीराम ने एक ही बाण से वाली का वध कर दिया।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 69
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Vali falls to a single arrow! 🎯 | Ramayanam 1.1.69
+```
+
+**English description:**
+
+```text
+Vali falls to a single arrow! 🎯 | Ramayanam 1.1.69
+
+anumānya tadā tārāṃ sugrīveṇa samāgataḥ |
+nijaghāna ca tatrainaṃ śareṇaikena rāghavaḥ || 69 ||
+
+Word meanings:
+• tadā – then
+• tārām anumānya – persuading Tara
+• sugrīveṇa samāgataḥ – clashed with Sugriva
+• tatra – there
+• rāghavaḥ – Raghava
+• enam – him (Vali)
+• ekena śareṇa – with a single arrow
+• nijaghāna ca – slew
+
+Meaning:
+"Calming his wife Tara, who tried to stop him, Vali came out and clashed with Sugriva. There Rama slew Vali with a single arrow."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 69
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

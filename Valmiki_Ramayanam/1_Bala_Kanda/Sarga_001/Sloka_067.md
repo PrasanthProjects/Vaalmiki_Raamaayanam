@@ -192,3 +192,69 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_067.srt](captions/Sloka_067.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+किष्किंधा की ओर यात्रा! ⛰️ | Ramayanam 1.1.67
+```
+
+**Hindi description:**
+
+```text
+किष्किंधा की ओर यात्रा! ⛰️ | Ramayanam 1.1.67
+
+ततः प्रीतमनास्तेन विश्वस्तस्स महाकपिः ।
+किष्किन्धां रामसहितो जगाम च गुहां तदा ॥ 67 ॥
+
+शब्दार्थ:
+• ततः – तब
+• तेन – उससे
+• प्रीतमनाः – मन में प्रसन्न
+• विश्वस्तः – विश्वास से भरे
+• सः महाकपिः – वे महान वानर (सुग्रीव)
+• रामसहितः – राम के साथ
+• किष्किन्धाम् गुहाम् – किष्किंधा गुफा (नगरी) को
+• तदा जगाम च – तब गए
+
+भावार्थ:
+"यह देखकर सुग्रीव मन में बहुत प्रसन्न हुए और उन्हें श्रीराम पर पूरा विश्वास हो गया। तब वे श्रीराम को साथ लेकर गुफा जैसी किष्किंधा नगरी गए।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 67
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+The journey to Kishkindha! ⛰️ | Ramayanam 1.1.67
+```
+
+**English description:**
+
+```text
+The journey to Kishkindha! ⛰️ | Ramayanam 1.1.67
+
+tataḥ prītamanāstena viśvastassa mahākapiḥ |
+kiṣkindhāṃ rāmasahito jagāma ca guhāṃ tadā || 67 ||
+
+Word meanings:
+• tataḥ – then
+• tena – by that
+• prītamanāḥ – glad at heart
+• viśvastaḥ – full of trust
+• saḥ mahākapiḥ – that great vanara (Sugriva)
+• rāmasahitaḥ – together with Rama
+• kiṣkindhām guhām – to Kishkindha, the cave-city
+• tadā jagāma ca – then went
+
+Meaning:
+"Seeing this, Sugriva was overjoyed and trusted Rama completely. Then he took Rama with him to Kishkindha, the city set in a cave."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 67
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

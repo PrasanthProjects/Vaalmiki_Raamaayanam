@@ -190,3 +190,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_065.srt](captions/Sloka_065.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+पैर के अंगूठे से दस योजन! 🦶💥 | Ramayanam 1.1.65
+```
+
+**Hindi description:**
+
+```text
+पैर के अंगूठे से दस योजन! 🦶💥 | Ramayanam 1.1.65
+
+उत्स्मयित्वा महाबाहुः प्रेक्ष्य चास्थि महाबलः ।
+पादाङ्गुष्ठेन चिक्षेप संपूर्णं दशयोजनम् ॥ 65 ॥
+
+शब्दार्थ:
+• महाबाहुः महाबलः – महाबाहु, महाबली (राम)
+• उत्स्मयित्वा – मुस्कुराकर
+• अस्थि च प्रेक्ष्य – और हड्डियों को देखकर
+• पादाङ्गुष्ठेन – पैर के अंगूठे से
+• संपूर्णम् दशयोजनम् – पूरे दस योजन
+• चिक्षेप – फेंक दिया
+
+भावार्थ:
+"महाबली श्रीराम ने मुस्कुराकर उस कंकाल को देखा और अपने पैर के अंगूठे से उसे पूरे दस योजन दूर उछाल दिया।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 65
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Ten yojanas with just a big toe! 🦶💥 | Ramayanam 1.1.65
+```
+
+**English description:**
+
+```text
+Ten yojanas with just a big toe! 🦶💥 | Ramayanam 1.1.65
+
+utsmayitvā mahābāhuḥ prekṣya cāsthi mahābalaḥ |
+pādāṅguṣṭhena cikṣepa saṃpūrṇaṃ daśayojanam || 65 ||
+
+Word meanings:
+• mahābāhuḥ mahābalaḥ – the mighty-armed, mighty Rama
+• utsmayitvā – smiling
+• asthi ca prekṣya – and looking at the bones
+• pādāṅguṣṭhena – with his big toe
+• saṃpūrṇam daśayojanam – a full ten yojanas
+• cikṣepa – flung it
+
+Meaning:
+"The mighty Rama smiled, looked at the skeleton, and with his big toe flung it a full ten yojanas away."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 65
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

@@ -188,3 +188,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_037.srt](captions/Sloka_037.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+श्रीराम की पादुकाओं का रहस्य! 👣 | Ramayanam 1.1.37
+```
+
+**Hindi description:**
+
+```text
+श्रीराम की पादुकाओं का रहस्य! 👣 | Ramayanam 1.1.37
+
+न चैच्छत् पितुरादेशात् राज्यं रामो महाबलः ।
+पादुके चास्य राज्याय न्यासं दत्त्वा पुनः पुनः ॥ 37 ॥
+
+शब्दार्थ:
+• महाबलः रामः – महाबली राम
+• पितुः आदेशात् – पिता की आज्ञा के कारण
+• राज्यम् न च ऐच्छत् – राज्य नहीं चाहा
+• अस्य – उन (भरत) को
+• राज्याय न्यासम् – राज्य की धरोहर के रूप में
+• पादुके च दत्त्वा – अपनी पादुकाएँ देकर
+• पुनः पुनः – बार-बार (समझाकर)
+
+भावार्थ:
+"...पिता की आज्ञा का पालन करना था, इसलिए श्रीराम ने राज्य लेना स्वीकार नहीं किया। राज्य की धरोहर के रूप में अपनी पादुकाएँ भरत को देकर, बार-बार समझाकर..."
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 37
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+The secret of Sri Rama's sandals! 👣 | Ramayanam 1.1.37
+```
+
+**English description:**
+
+```text
+The secret of Sri Rama's sandals! 👣 | Ramayanam 1.1.37
+
+na caicchat piturādeśāt rājyaṃ rāmo mahābalaḥ |
+pāduke cāsya rājyāya nyāsaṃ dattvā punaḥ punaḥ || 37 ||
+
+Word meanings:
+• mahābalaḥ rāmaḥ – the mighty Rama
+• pituḥ ādeśāt – because of his father's command
+• rājyam na ca aicchat – did not want the kingdom
+• asya – to him (Bharata)
+• rājyāya nyāsam – as a pledge for the kingdom
+• pāduke ca dattvā – giving his sandals
+• punaḥ punaḥ – again and again (persuading him)
+
+Meaning:
+"...Because he had to obey his father's command, Rama would not accept the kingdom. Giving Bharata his sandals as a pledge for the kingdom and persuading him again and again..."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 37
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

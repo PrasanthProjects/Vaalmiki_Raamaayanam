@@ -193,3 +193,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_032.srt](captions/Sloka_032.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+एक ओर आनंद, दूसरी ओर आँसू 😔 | Ramayanam 1.1.32
+```
+
+**Hindi description:**
+
+```text
+एक ओर आनंद, दूसरी ओर आँसू 😔 | Ramayanam 1.1.32
+
+देवगन्धर्वसंकाशाः तत्र ते न्यवसन् सुखम् ।
+चित्रकूटङ्गते रामे पुत्रशोकातुरस्तथा ॥ 32 ॥
+
+शब्दार्थ:
+• देवगन्धर्वसंकाशाः – देवताओं और गंधर्वों जैसे तेजस्वी
+• ते – वे
+• तत्र सुखम् न्यवसन् – वहाँ सुख से रहे
+• रामे चित्रकूटम् गते – राम के चित्रकूट चले जाने पर
+• तथा – तब
+• पुत्रशोकातुरः – पुत्र-शोक से व्याकुल
+
+भावार्थ:
+"देवताओं और गंधर्वों की तरह चमकते हुए वे तीनों वहाँ सुख से रहे। श्रीराम के चित्रकूट चले जाने के बाद, पुत्र के बिछड़ने के दुख से व्याकुल..."
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 32
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Joy on one side, tears on the other 😔 | Ramayanam 1.1.32
+```
+
+**English description:**
+
+```text
+Joy on one side, tears on the other 😔 | Ramayanam 1.1.32
+
+devagandharvasaṃkāśāḥ tatra te nyavasan sukham |
+citrakūṭaṅgate rāme putraśokāturastathā || 32 ||
+
+Word meanings:
+• devagandharvasaṃkāśāḥ – shining like gods and gandharvas
+• te – they
+• tatra sukham nyavasan – lived there happily
+• rāme citrakūṭam gate – after Rama had gone to Chitrakuta
+• tathā – then
+• putraśokāturaḥ – stricken with grief for his son
+
+Meaning:
+"Shining like gods and celestial musicians, the three lived there happily. After Rama had gone to Chitrakuta, stricken with grief at being parted from his son..."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 32
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

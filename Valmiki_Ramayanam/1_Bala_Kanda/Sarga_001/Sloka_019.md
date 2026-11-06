@@ -194,3 +194,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_019.srt](captions/Sloka_019.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+श्रीराम मानो दूसरे धर्मदेव! ⚖️ | Ramayanam 1.1.19
+```
+
+**Hindi description:**
+
+```text
+श्रीराम मानो दूसरे धर्मदेव! ⚖️ | Ramayanam 1.1.19
+
+धनदेन समस्त्यागे सत्ये धर्म इवापरः ।
+तमेवंगुणसम्पन्नं रामं सत्यपराक्रमम् ॥ 19 ॥
+
+शब्दार्थ:
+• त्यागे – दान में
+• धनदेन समः – कुबेर के समान
+• सत्ये – सत्य में
+• अपरः धर्मः इव – मानो दूसरे धर्मदेव
+• एवं गुणसम्पन्नम् – ऐसे गुणों से भरे
+• सत्यपराक्रमम् – कभी व्यर्थ न जाने वाले पराक्रम वाले
+• तम् रामम् – उन राम को (अगले श्लोक से मिलकर अर्थ)
+
+भावार्थ:
+"दान करने में वे कुबेर के समान हैं, सत्य के पालन में मानो साक्षात दूसरे धर्मदेव। इतने गुणों से भरे, कभी व्यर्थ न जाने वाले पराक्रम वाले उन श्रीराम को..." (यह वाक्य अगले श्लोकों में पूरा होता है।)
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 19
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Sri Rama – like dharma itself in human form! ⚖️ | Ramayanam 1.1.19
+```
+
+**English description:**
+
+```text
+Sri Rama – like dharma itself in human form! ⚖️ | Ramayanam 1.1.19
+
+dhanadena samastyāge satye dharma ivāparaḥ |
+tamevaṃguṇasampannaṃ rāmaṃ satyaparākramam || 19 ||
+
+Word meanings:
+• tyāge – in giving
+• dhanadena samaḥ – equal to Kubera
+• satye – in truth
+• aparaḥ dharmaḥ iva – like a second god of dharma
+• evaṃ guṇasampannam – so full of virtues
+• satyaparākramam – whose valour never fails
+• tam rāmam – that Rama (the sense continues in the next shloka)
+
+Meaning:
+"In generosity he equals Kubera; in truthfulness he is like dharma itself in human form. That Rama, so full of virtues, whose valour never fails..." (the sentence continues in the next shlokas).
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 19
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

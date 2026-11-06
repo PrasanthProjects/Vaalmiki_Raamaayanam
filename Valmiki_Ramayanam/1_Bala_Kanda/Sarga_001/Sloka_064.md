@@ -189,3 +189,63 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_064.srt](captions/Sloka_064.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+दुंदुभि का कंकाल – श्रीराम की परीक्षा! 💀 | Ramayanam 1.1.64
+```
+
+**Hindi description:**
+
+```text
+दुंदुभि का कंकाल – श्रीराम की परीक्षा! 💀 | Ramayanam 1.1.64
+
+राघवप्रत्ययार्थं तु दुन्दुभेः कायमुत्तमम् ।
+दर्शयामास सुग्रीवः महापर्वतसन्निभम् ॥ 64 ॥
+
+शब्दार्थ:
+• राघवप्रत्ययार्थम् तु – राघव पर विश्वास के लिए
+• सुग्रीवः – सुग्रीव ने
+• महापर्वतसन्निभम् – बड़े पर्वत जैसे
+• दुन्दुभेः उत्तमम् कायम् – दुंदुभि के विशाल शरीर को
+• दर्शयामास – दिखाया
+
+भावार्थ:
+"श्रीराम के बल को परखकर विश्वास पाने के लिए सुग्रीव ने उन्हें दुंदुभि नामक राक्षस का कंकाल दिखाया, जिसे वाली ने मारकर फेंका था। वह एक विशाल पर्वत जैसा था।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 64
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Dundubhi's skeleton – a test for Sri Rama! 💀 | Ramayanam 1.1.64
+```
+
+**English description:**
+
+```text
+Dundubhi's skeleton – a test for Sri Rama! 💀 | Ramayanam 1.1.64
+
+rāghavapratyayārthaṃ tu dundubheḥ kāyamuttamam |
+darśayāmāsa sugrīvaḥ mahāparvatasannibham || 64 ||
+
+Word meanings:
+• rāghavapratyayārtham tu – to gain faith in Raghava
+• sugrīvaḥ – Sugriva
+• mahāparvatasannibham – like a great mountain
+• dundubheḥ uttamam kāyam – the huge body of Dundubhi
+• darśayāmāsa – showed
+
+Meaning:
+"To test Rama's strength and gain faith in him, Sugriva showed him the skeleton of the demon Dundubhi, whom Vali had killed and flung away. It was as huge as a mountain."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 64
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

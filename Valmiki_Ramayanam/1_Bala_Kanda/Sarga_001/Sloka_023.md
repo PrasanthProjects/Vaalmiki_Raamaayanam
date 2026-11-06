@@ -185,3 +185,63 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_023.srt](captions/Sloka_023.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+वचन के लिए पुत्र को त्यागने वाले पिता 💔 | Ramayanam 1.1.23
+```
+
+**Hindi description:**
+
+```text
+वचन के लिए पुत्र को त्यागने वाले पिता 💔 | Ramayanam 1.1.23
+
+स सत्यवचनाद्राजा धर्मपाशेन संयतः ।
+विवासयामास सुतं रामं दशरथः प्रियम् ॥ 23 ॥
+
+शब्दार्थ:
+• सः राजा दशरथः – वे राजा दशरथ
+• सत्यवचनात् – दिए वचन को सत्य रखने के कारण
+• धर्मपाशेन संयतः – धर्म रूपी रस्सी से बँधे हुए
+• प्रियम् सुतम् रामम् – अपने प्रिय पुत्र राम को
+• विवासयामास – वन भेज दिया
+
+भावार्थ:
+"दिया हुआ वचन नहीं टूटना चाहिए – इस धर्म रूपी रस्सी से बँधे महाराज दशरथ ने अपने प्राणों से भी प्यारे पुत्र श्रीराम को वन भेज दिया।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 23
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+A father who gave up his son to keep his word 💔 | Ramayanam 1.1.23
+```
+
+**English description:**
+
+```text
+A father who gave up his son to keep his word 💔 | Ramayanam 1.1.23
+
+sa satyavacanādrājā dharmapāśena saṃyataḥ |
+vivāsayāmāsa sutaṃ rāmaṃ daśarathaḥ priyam || 23 ||
+
+Word meanings:
+• saḥ rājā daśarathaḥ – that King Dasharatha
+• satyavacanāt – because his promise had to stay true
+• dharmapāśena saṃyataḥ – bound by the rope of dharma
+• priyam sutam rāmam – his beloved son Rama
+• vivāsayāmāsa – sent into exile
+
+Meaning:
+"Bound by the rope of dharma – a promise once given must never be broken – King Dasharatha sent his son Rama, dearer to him than life, into the forest."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 23
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

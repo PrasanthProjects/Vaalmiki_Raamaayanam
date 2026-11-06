@@ -192,3 +192,65 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_077.srt](captions/Sloka_077.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+लंका-दहन! 🔥🏰 | Ramayanam 1.1.77
+```
+
+**Hindi description:**
+
+```text
+लंका-दहन! 🔥🏰 | Ramayanam 1.1.77
+
+ततो दग्ध्वा पुरीं लङ्काम् ऋते सीताञ्च मैथिलीम् ।
+रामाय प्रियमाख्यातुं पुनरायान्महाकपिः ॥ 77 ॥
+
+शब्दार्थ:
+• ततः – तब
+• मैथिलीम् सीताम् ऋते – मैथिली सीता (के स्थान) को छोड़कर
+• लङ्काम् पुरीम् दग्ध्वा – लंका नगरी को जलाकर
+• महाकपिः – महान वानर (हनुमान)
+• रामाय प्रियम् आख्यातुम् – राम को शुभ समाचार सुनाने
+• पुनः आयात् – फिर लौट आए
+
+भावार्थ:
+"फिर जहाँ सीता थीं उस स्थान को छोड़कर पूरी लंका को जलाकर महावानर हनुमान श्रीराम को यह शुभ समाचार सुनाने लौट आए।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 77
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Lanka in flames! 🔥🏰 | Ramayanam 1.1.77
+```
+
+**English description:**
+
+```text
+Lanka in flames! 🔥🏰 | Ramayanam 1.1.77
+
+tato dagdhvā purīṃ laṅkām ṛte sītāñca maithilīm |
+rāmāya priyamākhyātuṃ punarāyānmahākapiḥ || 77 ||
+
+Word meanings:
+• tataḥ – then
+• maithilīm sītām ṛte – sparing (the place of) Maithili Sita
+• laṅkām purīm dagdhvā – burning the city of Lanka
+• mahākapiḥ – the great vanara (Hanuman)
+• rāmāya priyam ākhyātum – to bring Rama the good news
+• punaḥ āyāt – came back
+
+Meaning:
+"Then, sparing only the place where Sita was, the great vanara Hanuman set all of Lanka ablaze and came back to bring Rama the good news."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 77
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

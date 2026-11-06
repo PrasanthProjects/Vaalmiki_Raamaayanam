@@ -192,3 +192,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_045.srt](captions/Sloka_045.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+श्रीराम की महान प्रतिज्ञा! ⚔️ | Ramayanam 1.1.45
+```
+
+**Hindi description:**
+
+```text
+श्रीराम की महान प्रतिज्ञा! ⚔️ | Ramayanam 1.1.45
+
+प्रतिज्ञातश्च रामेण वधः संयति रक्षसाम् ।
+ऋषीणामग्निकल्पानां दण्डकारण्यवासीनाम् ॥ 45 ॥
+
+शब्दार्थ:
+• अग्निकल्पानाम् – अग्नि जैसे तेजस्वी
+• दण्डकारण्यवासिनाम् – दंडकारण्य में रहने वाले
+• ऋषीणाम् – ऋषियों को
+• रामेण – राम द्वारा
+• संयति – युद्ध में
+• रक्षसाम् वधः – राक्षसों का वध
+• प्रतिज्ञातः च – प्रतिज्ञा की गई
+
+भावार्थ:
+"तप के तेज से अग्नि जैसे चमकते, दंडकारण्य में रहने वाले उन ऋषियों से श्रीराम ने प्रतिज्ञा की कि वे युद्ध में राक्षसों का संहार करेंगे।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 45
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Sri Rama's great vow! ⚔️ | Ramayanam 1.1.45
+```
+
+**English description:**
+
+```text
+Sri Rama's great vow! ⚔️ | Ramayanam 1.1.45
+
+pratijñātaśca rāmeṇa vadhaḥ saṃyati rakṣasām |
+ṛṣīṇāmagnikalpānāṃ daṇḍakāraṇyavāsīnām || 45 ||
+
+Word meanings:
+• agnikalpānām – blazing like fire
+• daṇḍakāraṇyavāsinām – living in the Dandaka forest
+• ṛṣīṇām – to the sages
+• rāmeṇa – by Rama
+• saṃyati – in battle
+• rakṣasām vadhaḥ – the slaying of the rakshasas
+• pratijñātaḥ ca – was vowed
+
+Meaning:
+"To those sages of the Dandaka forest, blazing like fire with the power of their penance, Rama vowed that he would slay the rakshasas in battle."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 45
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```

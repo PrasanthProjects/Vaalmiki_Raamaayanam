@@ -194,3 +194,67 @@ Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. V
 **సంబంధిత వీడియో (Related video):** అప్‌లోడ్ చేసేటప్పుడు *Related video* లో **E1.01 – వాల్మీకి మహర్షి కథ** లాంగ్ వీడియోను ఎంచుకోండి. Short చూసినవారికి పూర్తి ఎపిసోడ్‌కు లింక్ కనిపిస్తుంది.
 
 **క్యాప్షన్ ఫైల్:** [captions/Sloka_085.srt](captions/Sloka_085.srt) – YouTube Studio → Subtitles → Upload file లో పెట్టండి, లేదా ఎడిటర్‌లో ఇంపోర్ట్ చేయండి.
+
+**Hindi title:**
+
+```text
+विभीषण का लंका में राज्याभिषेक! 👑 | Ramayanam 1.1.85
+```
+
+**Hindi description:**
+
+```text
+विभीषण का लंका में राज्याभिषेक! 👑 | Ramayanam 1.1.85
+
+अभ्यषिच्य च लङ्कायां राक्षसेन्द्रं विभीषणम् ।
+कृतकृत्यस्तदा रामो विज्वरः प्रमुमोद ह ॥ 85 ॥
+
+शब्दार्थ:
+• राक्षसेन्द्रम् विभीषणम् – विभीषण को राक्षसों का राजा
+• लङ्कायाम् अभ्यषिच्य च – लंका में अभिषेक करके
+• तदा – तब
+• कृतकृत्यः – कार्य पूरा करके
+• रामः – राम
+• विज्वरः – मन का दुख मिटने पर
+• प्रमुमोद ह – बहुत आनंदित हुए
+
+भावार्थ:
+"लंका में विभीषण का राक्षसों के राजा के रूप में अभिषेक करके, अपना कार्य पूरा हुआ जानकर श्रीराम के मन का सारा दुख मिट गया और वे बहुत आनंदित हुए।"
+
+📖 स्रोत: श्रीमद् वाल्मीकि रामायण · बालकाण्ड · सर्ग 1 · श्लोक 85
+🙏 वाल्मीकि रामायण, श्लोक दर श्लोक – अर्थ और जीवन-पाठ के साथ।
+
+#shorts #ramayan #valmikiramayan #shloka #sanskrit #bhakti #hindishorts
+```
+
+**English title:**
+
+```text
+Vibhishana is crowned in Lanka! 👑 | Ramayanam 1.1.85
+```
+
+**English description:**
+
+```text
+Vibhishana is crowned in Lanka! 👑 | Ramayanam 1.1.85
+
+abhyaṣicya ca laṅkāyāṃ rākṣasendraṃ vibhīṣaṇam |
+kṛtakṛtyastadā rāmo vijvaraḥ pramumoda ha || 85 ||
+
+Word meanings:
+• rākṣasendram vibhīṣaṇam – Vibhishana as king of the rakshasas
+• laṅkāyām abhyaṣicya ca – crowning him in Lanka
+• tadā – then
+• kṛtakṛtyaḥ – his task fulfilled
+• rāmaḥ – Rama
+• vijvaraḥ – free of all sorrow
+• pramumoda ha – rejoiced greatly
+
+Meaning:
+"Crowning Vibhishana in Lanka as king of the rakshasas, and seeing his task complete, Rama was freed of all sorrow and rejoiced greatly."
+
+📖 Source: Srimad Valmiki Ramayana · Bala Kanda · Sarga 1 · Shloka 85
+🙏 The Valmiki Ramayana, shloka by shloka, with its meaning and a lesson for life.
+
+#shorts #ramayana #valmikiramayana #shloka #sanskrit #devotional #hinduism
+```
