@@ -349,6 +349,14 @@ h1 mark { background: none; color: var(--saffron); }
     up.append(textBlock('టైటిల్', s.title, 'టైటిల్ కాపీ'), textBlock('వివరణ (Description)', s.desc, 'వివరణ కాపీ'),
       textBlock('పిన్ కామెంట్', s.pinned, 'కామెంట్ కాపీ'));
     p.append(up);
+    if (s.descHi) {
+      p.append(el('h2', 'section-title', 'హిందీ, ఇంగ్లీష్ (YouTube → Languages)'));
+      p.append(el('p', 'note', 'YouTube Studio → ఈ వీడియో → Languages → Add language → Hindi / English → Title and description లో ఇవి పేస్ట్ చేయండి. శ్లోకం దేవనాగరిలో, ఇంగ్లీష్ అక్షరాల్లో; ప్రతి పదానికి అర్థం, పూర్తి భావం.'));
+      const ml = el('div', 'cards');
+      ml.append(textBlock('Hindi – Title', s.titleHi, 'కాపీ'), textBlock('Hindi – Description', s.descHi, 'కాపీ'),
+        textBlock('English – Title', s.titleEn, 'కాపీ'), textBlock('English – Description', s.descEn, 'కాపీ'));
+      p.append(ml);
+    }
     p.append(el('p', 'note', 'క్యాప్షన్ ఫైల్: ' + s.srt + ' (Sarga ఫోల్డర్‌లోని captions/ లో ఉంది).'));
     p.append(el('h2', 'section-title', 'అప్‌లోడ్ చెక్‌లిస్ట్'));
     const pl = 'వాల్మీకి రామాయణం – ' + D.name.split('·')[0].trim() + ' | Valmiki Ramayanam in Telugu';
