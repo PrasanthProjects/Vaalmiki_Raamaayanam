@@ -3583,7 +3583,7 @@
 "Soft light."
 ],
 [
-"RAVANA, MARICHA_ASHRAM",
+"RAVANA, MARICHA_ASHRAM, RAVANA_RATHA",
 "Ravana turning away dismissively on the sea shore, his golden flying chariot waiting behind (outdoors, no throne, no palace).",
 "He turns his back, motion slows.",
 "Slow push-in.",
@@ -3656,7 +3656,7 @@
 "Dark metallic light."
 ],
 [
-"RAVANA, MARICHA",
+"RAVANA, MARICHA, RAVANA_RATHA",
 "Ravana and Maricha flying in a golden flying chariot over the sea.",
 "They speed across the sky, motion slows.",
 "Slow tracking.",
@@ -3758,36 +3758,36 @@
 "53": {
 "rows": [
 [
-"JATAYU, RAVANA",
-"Jatayu attacking Ravana's flying chariot in the sky.",
+"JATAYU, RAVANA, RAVANA_RATHA",
+"Jatayu attacking Ravana's donkey-drawn golden flying chariot high in the sky above the green forests and the Godavari river near Panchavati.",
 "Jatayu dives with wings spread, Ravana raises his sword.",
 "Slow tracking.",
 "Dramatic stormy sky."
 ],
 [
-"JATAYU",
-"Jatayu fighting fiercely in the air.",
+"JATAYU, RAVANA_RATHA",
+"Jatayu fighting fiercely in the air beside Ravana's golden chariot, high in the sky above the green forests and the Godavari river near Panchavati.",
 "He beats his giant wings, feathers flying.",
 "Slow orbit.",
 "Golden-brown glow, clouds."
 ],
 [
-"RAVANA, SITA_ARANYA",
-"Ravana carrying Sita away in his flying chariot (she struggles, no violence shown).",
+"RAVANA, SITA_ARANYA, RAVANA_RATHA",
+"Ravana carrying Sita away in his donkey-drawn golden flying chariot high in the sky above the green forests and the Godavari river near Panchavati (she struggles, no violence shown).",
 "The chariot speeds away.",
 "Slow tracking.",
 "Dark sky."
 ],
 [
 "JATAYU",
-"Jatayu falling wounded to the ground (dignified, no gore).",
+"Jatayu falling wounded to the forest floor beside a great tree near the Godavari, his wings spread on the ground (dignified, no gore).",
 "He crashes down gently, feathers scattering.",
 "Slow tilt down.",
 "Fading light."
 ],
 [
 "RAMA_ARANYA, JATAYU",
-"Rama running toward the wounded Jatayu.",
+"Rama running through the forest near the Godavari toward the wounded Jatayu lying on the ground.",
 "Rama kneels beside him.",
 "Slow push-in.",
 "Warm sorrowful light."
@@ -3817,7 +3817,7 @@
 "image"
 ],
 "thumb": [
-"Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. Very high quality: ultra-detailed, sharp and clean 4K-quality render, rich colour depth, film-quality lighting, no blur, no noise, no artefacts. Use the attached reference images as the exact look of each character (JATAYU.png = Jatayu; RAVANA_TEN.png = Ravana (ten heads)): match the face, skin colour, hair, clothing and ornaments exactly as in the reference (hand-held objects only as this scene describes), keep the same art style, and do not redesign them. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, every character with a clearly individual face (different face shape, eyes, nose, age and build) so that no two characters ever share the same face, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture; forest and ashram settings are lush, green and serene with flowering trees, clear rivers and streams, deer, peacocks and birds (darker only where the scene says so); volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters: Jatayu, the noble divine vulture-king: massive bird with golden-brown plumage, immense wingspan, small golden crown ornament, dignified elder-warrior bearing; Ravana as Dashakantha, king of Lanka: very tall, bulky and immensely strong, ten crowned heads in a fan formation all with the same face, only two arms and two hands like a normal man, never extra arms, dark reddish-bronze skin, tall ornate gold crowns, heavy gold jewellery, red-and-black royal silk dhoti, black armour with gold and red accents, flowing red cape, regal not monstrous, three horizontal ash-white Shiva lines with a red dot on the forehead, distinctive face: broad heavy square face, fierce bulging eyes, thick arched black eyebrows, big thick rounded moustache (meesalu) curled upward at both ends, heavy jaw, no beard on every head. Scene: Jatayu attacking Ravana's flying chariot in the sky. Make it a bold, emotional close-up of the main character or symbol in the lower-middle of the frame, strong expression, high contrast, glowing rim light. Dramatic stormy sky. Keep the top 35% of the frame a clean dark gradient or soft sky with no important detail (space for a headline) and the bottom 12% calm and plain (space for a small line). This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, numbers, logos or watermarks in the image.",
+"Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. Very high quality: ultra-detailed, sharp and clean 4K-quality render, rich colour depth, film-quality lighting, no blur, no noise, no artefacts. Use the attached reference images as the exact look of each character (JATAYU.png = Jatayu; RAVANA_TEN.png = Ravana (ten heads)): match the face, skin colour, hair, clothing and ornaments exactly as in the reference (hand-held objects only as this scene describes), keep the same art style, and do not redesign them. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, every character with a clearly individual face (different face shape, eyes, nose, age and build) so that no two characters ever share the same face, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture; forest and ashram settings are lush, green and serene with flowering trees, clear rivers and streams, deer, peacocks and birds (darker only where the scene says so); volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Characters: Jatayu, the ancient king of vultures: a real giant bird with true bird anatomy, never a bird-man or human figure; a great Indian vulture's body with two vast wings, two strong scaly yellow-grey taloned feet, no arms, no hands and no human face or body; rich golden-brown and bronze feathers with darker wing tips, a soft cream-white feather ruff round the neck, a few silvery-grey feathers showing his great age, a strong hooked golden-yellow beak, wise kind dark-amber eyes; he wears no clothing of any kind (no dhoti, robe, cloth, sash or armour), only a small golden crown on his head and a thin gold chain at the neck; noble, gentle and protective, like a grandfather of the forest; Ravana as Dashakantha, king of Lanka: very tall, bulky and immensely strong, ten crowned heads in a fan formation all with the same face, only two arms and two hands like a normal man, never extra arms, dark reddish-bronze skin, tall ornate gold crowns, heavy gold jewellery, red-and-black royal silk dhoti, black armour with gold and red accents, flowing red cape, regal not monstrous, three horizontal ash-white Shiva lines with a red dot on the forehead, distinctive face: broad heavy square face, fierce bulging eyes, thick arched black eyebrows, big thick rounded moustache (meesalu) curled upward at both ends, heavy jaw, no beard on every head. Scene: Jatayu attacking Ravana's flying chariot in the sky. Make it a bold, emotional close-up of the main character or symbol in the lower-middle of the frame, strong expression, high contrast, glowing rim light. Dramatic stormy sky. Keep the top 35% of the frame a clean dark gradient or soft sky with no important detail (space for a headline) and the bottom 12% calm and plain (space for a small line). This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, numbers, logos or watermarks in the image.",
 [
 "JATAYU",
 "RAVANA_TEN"
@@ -4277,7 +4277,7 @@
 "Golden light."
 ],
 [
-"SITA_LANKA",
+"SITA_LANKA, RAVANA_RATHA",
 "A flashback of Sita being taken away in a flying chariot, in a golden haze.",
 "The chariot disappears into the clouds.",
 "Slow tracking.",

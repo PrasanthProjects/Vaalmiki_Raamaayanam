@@ -21,7 +21,7 @@ TOOLS = os.path.dirname(os.path.abspath(__file__))
 LONG = os.path.dirname(TOOLS)
 ROOT = os.path.dirname(LONG)
 sys.path.insert(0, TOOLS)
-from long_style import STYLE, RESPECT, TAIL, VN, SN, KUM, character, names_in, stage_of, STAGES, ep_key, FROM_EP  # noqa: E402
+from long_style import STYLE, RESPECT, TAIL, VN, SN, KUM, character, names_in, stage_of, STAGES, ep_key, FROM_EP, OBJECTS, RATHA_EPS  # noqa: E402
 
 KAANDAS = {0: ('00_Parichayam', 'పరిచయం'), 1: ('1 - Baala Khaanda', 'బాలకాండ'), 2: ('2 - Ayodhya Khaanda', 'అయోధ్యకాండ'),
            3: ('3 - Aranya Khaanda', 'అరణ్యకాండ'), 4: ('4 - Kishkinda Khaanda', 'కిష్కింధకాండ'),
@@ -151,6 +151,9 @@ def group_looks(visual, loc, ep):
     if ep_key(ep) >= (5, 1) and re.search(r'rakshasi guards|rakshasa women|rakshasa woman guards|generic rakshasi', low):
         looks.append(character('RAKSHASI_GUARDS', ep))   # Sundara: the Ashoka-grove guards have their own image
         refs.append('RAKSHASI_GUARDS')
+    if ep in RATHA_EPS and 'chariot' in low:   # Ravana's donkey-drawn golden chariot, the same in every clip
+        looks.append(character('RAVANA_RATHA', ep))
+        refs.append('RAVANA_RATHA')
     for pat, desc in GROUPS:
         if re.search(pat, low):
             if desc is GROUPS[4][1] and ayodhya_scene(visual, loc, ep):
@@ -709,9 +712,14 @@ def reference_file(refs):
             ep = next(st for st, s in STAGES[key] if s == 'S' + stage)
             ep = ep if ep != 'E0.00' else 'E1.01'
         look = character(key, ep)
-        prompt = ("Character reference image for film continuity: one character only, full body, standing, facing "
-                  "the camera, centred, plain soft warm-grey studio background, even soft lighting, calm expression, "
-                  f"16:9 frame. Style: {STYLE}. Character: {look}. {RESPECT} No text, letters, logos or watermarks.")
+        if key in OBJECTS:
+            prompt = ("Object reference image for film continuity: the object only, no people, the whole of it in view, "
+                      "centred, plain soft warm-grey studio background, even soft lighting, "
+                      f"16:9 frame. Style: {STYLE}. Object: {look}. {RESPECT} No text, letters, logos or watermarks.")
+        else:
+            prompt = ("Character reference image for film continuity: one character only, full body, standing, facing "
+                      "the camera, centred, plain soft warm-grey studio background, even soft lighting, calm expression, "
+                      f"16:9 frame. Style: {STYLE}. Character: {look}. {RESPECT} No text, letters, logos or watermarks.")
         out.append(f'## `{r}.png`\n\n```text\n{prompt}\n```\n')
         items.append({'key': r, 'prompt': prompt})
     return '\n'.join(out), items

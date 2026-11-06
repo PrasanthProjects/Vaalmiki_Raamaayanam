@@ -332,7 +332,7 @@ This is a hard production rule, not a suggestion, because getting it wrong is ex
 
 ### జటాయువు — JATAYU
 **Role:** Noble vulture-king; dies fighting Ravana to save Sita (Aranya Khaanda).
-**Visual Lock:** Massive noble vulture/eagle-like bird, golden-brown plumage, immense wingspan, dignified regal bearing (warrior-elder, not a scavenger). Death scene: visibly wounded, feathers scattered, wings damaged, dignified even while dying.
+**Visual Lock:** A real giant bird with true bird anatomy, never a bird-man or human figure: a great Indian vulture's body, two vast wings, two strong scaly yellow-grey taloned feet, no arms, no hands, no human face or body. Rich golden-brown and bronze feathers with darker wing tips, a soft cream-white feather ruff round the neck, a few silvery-grey feathers showing his great age, a strong hooked golden-yellow beak, wise kind dark-amber eyes. No clothing of any kind (no dhoti, robe, cloth, sash or armour); only a small golden crown and a thin gold neck chain. Noble, gentle and protective, a warrior-elder and grandfather of the forest, never a scavenger. Death scene: visibly wounded, feathers scattered, wings damaged, dignified even while dying.
 **Voice:** Male, elderly, gravelly but noble — warm/protective on first meeting Rama's group, determined and pained during the Ravana fight and dying speech.
 
 ### అయోముఖి — AYOMUKHI
@@ -471,7 +471,7 @@ This is a hard production rule, not a suggestion, because getting it wrong is ex
 
 ### సంపాతి — SAMPATI
 **Role:** Jatayu's older brother; wingless vulture who reveals Sita's location in Lanka (Kishkindha Khaanda), regains his wings.
-**Visual Lock:** Same general design as Jatayu (golden-brown plumage, noble bearing) but initially WITHOUT flight feathers — grounded, weathered, resigned. Final moment: wings dramatically regrow in a burst of feathers/light, triumphant flight.
+**Visual Lock:** Same kind of real giant vulture as Jatayu (true bird anatomy, no arms or hands, no clothing of any kind; duller bronze-brown feathers greyed with age, noble bearing) but initially WITHOUT flight feathers — grounded, weathered, resigned. Final moment: wings dramatically regrow in a burst of feathers/light, triumphant flight.
 **Voice:** Male, elderly, similar register to Jatayu but wearier/more resigned — lifts and brightens at the triumphant final moment.
 
 ### మతలి — MATALI

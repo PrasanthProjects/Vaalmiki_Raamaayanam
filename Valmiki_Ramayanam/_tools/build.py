@@ -428,6 +428,29 @@ def other_languages(m, keys, sloka_lines, kanda_dir, sarga, n):
     return {'titleHi': t_hi, 'descHi': d_hi, 'titleEn': t_en, 'descEn': d_en}
 
 
+def overlay_list(m, keys, pp, sloka_lines, n):
+    """The on-screen śloka cards (overlays.py) of one Short: time, file and what each shows; [] without multilang."""
+    if not m:
+        return []
+    import overlays as OV
+    te = [l.split(': ', 1)[1] for l in pp.split('\n') if l.startswith('- ')]
+    hiw, enw = [x.strip() for x in m['HIW'].split(' | ')], [x.strip() for x in m['ENW'].split(' | ')]
+    items = OV.cards({'n': n, 'lines': sloka_lines, 'words': list(zip(keys, te, hiw, enw))}, '', 0)
+    return [{'t': f'{OV.secs(a)} – {OV.secs(b)}', 'file': name + '.png',
+             'what': 'శ్లోకం (మూడు లిపుల్లో)' if '_sloka' in name else 'పదాలు, అర్థాలు'} for name, a, b, _ in items]
+
+
+def overlay_md(items, n):
+    if not items:
+        return ''
+    rows = '\n'.join(f"| {o['t']} | `{o['file']}` | {o['what']} |" for o in items)
+    return ("### తెరపై శ్లోకం – తెలుగు · हिंदी · English\n\n"
+            f"[overlays/Sloka_{n:03d}/](overlays/Sloka_{n:03d}/) లో ఉన్న PNG లను ఎడిటర్‌లో (CapCut) వీడియో పైన "
+            "ఓవర్‌లే గా ఈ సమయాల్లో పెట్టండి. బ్యాక్‌గ్రౌండ్ పారదర్శకం, 1080×1920 – పూర్తి స్క్రీన్‌కి సరిపోతాయి. "
+            "కొత్తగా చేయాలంటే: `python _tools/overlays.py <kanda> <sarga> [<śloka>]`.\n\n"
+            f"| సమయం | ఫైల్ | ఏమిటి |\n|---|---|---|\n{rows}\n")
+
+
 def upload_md(title, sloka_lines, tt, pinned, kanda_te, sarga, n, srt_name):
     desc = upload_desc(title, sloka_lines, tt, kanda_te, sarga, n)
     return ("## 7. YouTube అప్‌లోడ్\n\n"
@@ -630,6 +653,7 @@ def main(kanda_dir, sarga):
         texts = slot_texts(f, ls)
         title = youtube_title(f, kanda_dir, sarga, n)
         name = f'Sloka_{n:03d}'
+        ovl = overlay_list(multi.get(n), words[n], pp, ls, n)
         read = [reading(l) for l in ls]
         read_md = ("\n\n**చదవడానికి సులువుగా (రికార్డింగ్ కోసం):**\n\n" + '  \n'.join(read)) if read != ls else ''
         md = (f"# {kanda_te} · సర్గ {sarga} · శ్లోకం {n}\n\n"
@@ -640,6 +664,7 @@ def main(kanda_dir, sarga):
               f"## 3. తాత్పర్యం\n\n{tt}\n\n"
               + narration_md(f, ls) + '\n'
               + flow_md(flow[n], texts) + '\n'
+              + (overlay_md(ovl, n) + '\n' if ovl else '')
               + (sloka_refs_md(flow[n], texts) + '\n' if LIVE else '')
               + thumb_md(thumbs[n], flow[n], kanda_te, sarga, n) + '\n'
               + upload_md(title, ls, tt, pinned[n], kanda_te, sarga, n, name + '.srt')
@@ -660,6 +685,7 @@ def main(kanda_dir, sarga):
             'thumbPrompt': tprompt, 'thumbRefs': trefs,
             'desc': upload_desc(title, ls, tt, kanda_te, sarga, n), 'pinned': pinned[n], 'srt': name + '.srt',
             **other_languages(multi.get(n), words[n], ls, kanda_dir, sarga, n),
+            **({'overlays': ovl, 'overlayDir': name} if ovl else {}),
             **({'speaker': [x.strip() for x in f['SPK'].split(' | ', 1)]} if 'SPK' in f else {}),
             **({'speaker': KEPT[row_key(flow[n])]['speaker']} if row_key(flow[n]) in KEPT else {})})
         n_video += kinds.count('video')

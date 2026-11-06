@@ -357,6 +357,13 @@ h1 mark { background: none; color: var(--saffron); }
         textBlock('English – Title', s.titleEn, 'కాపీ'), textBlock('English – Description', s.descEn, 'కాపీ'));
       p.append(ml);
     }
+    if (s.overlays) {
+      p.append(el('h2', 'section-title', 'తెరపై శ్లోకం – తెలుగు · हिंदी · English'));
+      p.append(el('p', 'note', 'Sarga ఫోల్డర్‌లోని overlays/' + s.overlayDir + '/ లో ఉన్న PNG లను ఎడిటర్‌లో (CapCut) వీడియో పైన ఓవర్‌లే గా ఇచ్చిన సమయాల్లో పెట్టండి. బ్యాక్‌గ్రౌండ్ పారదర్శకం, 1080×1920 – పొజిషన్ మార్చకుండా పూర్తి స్క్రీన్‌కి సరిపోతాయి.'));
+      const ov = el('ul', 'checklist');
+      s.overlays.forEach((o) => ov.append(el('li', '', o.t + '  ·  ' + o.what + '  ·  ' + o.file)));
+      p.append(ov);
+    }
     p.append(el('p', 'note', 'క్యాప్షన్ ఫైల్: ' + s.srt + ' (Sarga ఫోల్డర్‌లోని captions/ లో ఉంది).'));
     p.append(el('h2', 'section-title', 'అప్‌లోడ్ చెక్‌లిస్ట్'));
     const pl = 'వాల్మీకి రామాయణం – ' + D.name.split('·')[0].trim() + ' | Valmiki Ramayanam in Telugu';

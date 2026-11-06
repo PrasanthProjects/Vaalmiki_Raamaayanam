@@ -128,6 +128,20 @@ Vertical 9:16 cinematic still image, 1080x1920, main subject in the centre safe 
 Vertical 9:16 cinematic still image, 1080x1920, main subject in the centre safe area. Very high quality: ultra-detailed, sharp and clean 4K-quality render, rich colour depth, film-quality lighting, no blur, no noise, no artefacts. Style: traditional Indian devotional epic art brought to life as premium cinematic 3D animation, inspired by classical Indian temple murals and traditional devotional paintings of Hindu gods, stylized (not photorealistic) characters with divine, graceful, dignified features faithful to traditional Hindu iconography, every character with a clearly individual face (different face shape, eyes, nose, age and build) so that no two characters ever share the same face, rich jewel-tone colours with temple-gold accents, ancient South Indian temple-era architecture; forest and ashram settings are lush, green and serene with flowering trees, clear rivers and streams, deer, peacocks and birds (darker only where the scene says so); volumetric god rays, soft glowing divine light, high detail, smooth fluid motion, reverent devotional mood. Scene: Seven giant sal trees standing in a row. Lighting and atmosphere: Golden light, soft flash. Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described. This is a sacred Hindu devotional scene from the Valmiki Ramayana: depict every deity and character with deep reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in traditional Indian attire (women in properly draped silk or cotton sarees covering the shoulders and body, men in dhoti with angavastram or bark-cloth); no revealing, Western, fantasy-armour or modern clothing; no sexualised or suggestive poses; no blood, wounds, gore or graphic violence; no horror or jump-scare look; no comedy, cartoon exaggeration or caricature; no distorted, mocking or disrespectful depiction of gods; no modern objects, buildings, vehicles or technology. No text, letters, logos or watermarks.
 ```
 
+### తెరపై శ్లోకం – తెలుగు · हिंदी · English
+
+[overlays/Sloka_065/](overlays/Sloka_065/) లో ఉన్న PNG లను ఎడిటర్‌లో (CapCut) వీడియో పైన ఓవర్‌లే గా ఈ సమయాల్లో పెట్టండి. బ్యాక్‌గ్రౌండ్ పారదర్శకం, 1080×1920 – పూర్తి స్క్రీన్‌కి సరిపోతాయి. కొత్తగా చేయాలంటే: `python _tools/overlays.py <kanda> <sarga> [<śloka>]`.
+
+| సమయం | ఫైల్ | ఏమిటి |
+|---|---|---|
+| 0:04.0 – 0:10.0 | `01_sloka1_0m04_0s-0m10_0s.png` | శ్లోకం (మూడు లిపుల్లో) |
+| 0:10.0 – 0:15.0 | `02_sloka2_0m10_0s-0m15_0s.png` | శ్లోకం (మూడు లిపుల్లో) |
+| 0:15.0 – 0:18.2 | `03_words1_0m15_0s-0m18_2s.png` | పదాలు, అర్థాలు |
+| 0:18.2 – 0:21.4 | `04_words2_0m18_2s-0m21_4s.png` | పదాలు, అర్థాలు |
+| 0:21.4 – 0:24.6 | `05_words3_0m21_4s-0m24_6s.png` | పదాలు, అర్థాలు |
+| 0:24.6 – 0:27.8 | `06_words4_0m24_6s-0m27_8s.png` | పదాలు, అర్థాలు |
+| 0:27.8 – 0:31.0 | `07_words5_0m27_8s-0m31_0s.png` | పదాలు, అర్థాలు |
+
 ### ఈ శ్లోకానికి రిఫరెన్స్ ఇమేజ్‌లు
 
 పాత్రలు, గుంపులు, వస్తువులు, ప్రదేశాలు – అన్నీ. ఇమేజ్ ప్రాంప్ట్‌లు: [00_REFERENCES.md](00_REFERENCES.md).

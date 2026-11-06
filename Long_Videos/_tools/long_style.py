@@ -275,12 +275,32 @@ EXTRA.update({   # Aranya Kaanda
     'RAKSHASI_GUARDS': ("the rakshasi guards of the Ashoka grove: a ring of rakshasa women of varied, fearsome but "
                         "not grotesque looks (dark and ruddy complexions, wild hair, tusks on a few), dark coarse "
                         "garments fully draped, iron spears, axes and clubs; menacing in face and voice only"),
+    # Valmiki, Sundara 7-9: the vimana is a flying palace, never an aircraft
+    'PUSHPAKA_VIMANA': ("the Pushpaka vimana, Kubera's divine flying palace made by Vishvakarma, which flies wherever its "
+                 "master wills: a tall, many-storeyed palace-temple of shining gold rising in tiers like a South Indian "
+                 "temple vimana tower, crowned with a golden kalasha finial and small gilded domes, resting on a broad "
+                 "lotus-shaped golden base; golden lattice windows, crystal and gem-set staircases, pillars of gold "
+                 "and coral, jewelled railings; carvings of jewelled birds, golden serpents, elephants and Goddess "
+                 "Lakshmi on a lotus; garlands of fresh flowers hanging from every tier, small silk banners on top; it "
+                 "floats calmly in the sky on a soft golden glow and drifting white clouds, shining like a sunlit "
+                 "mountain peak, and is large enough inside for a great company; no wings, no wheels, no horses, no "
+                 "propellers or engines, never an aeroplane or spaceship"),
 })
+EXTRA['RAVANA_RATHA'] = (   # Valmiki, Aranya 35 and 49: a golden car drawn by donkeys with goblin faces
+    "Ravana's own war chariot (not the Pushpaka): a large golden flying chariot set with gems, with tall gilded "
+    "wheels, a high carved canopy, a red-and-black royal banner and a fierce gilded rakshasa-face emblem on its front, "
+    "drawn through the air by a team of dark grey donkeys with goblin-like rakshasa faces, stylised and regal rather "
+    "than frightening; it flies through the sky without wings")
+RATHA_EPS = {f'E3.{n:02d}' for n in range(16, 26)}   # from Ravana's ride to Maricha to the fall of the chariot
+ALIASES.update({'Pushpaka': 'PUSHPAKA_VIMANA'})
+NO_MARK |= {'PUSHPAKA_VIMANA', 'RAVANA_RATHA'}
+OBJECTS = {'PUSHPAKA_VIMANA', 'RAVANA_RATHA'}   # looks for things, not people: object reference images
 # Looks added for the Aranya scripts are matched by name only from Aranya on, so the earlier kaandas' prompts
 # (where these names are passing mentions) stay exactly as they were planned.
 FROM_EP = {_k: 'E3.01' for _k in ('DHANU', 'ILVALA', 'VATAPI', 'KASHYAPA', 'GARUDA', 'KUBERA', 'TUMBURU', 'DHARMABHRUT',
                                   'MANDAKARNI', 'STHULASHIRA', 'AKAMPANA', 'YAYATI', 'AGASTYA_BROTHER',
-                                  'SHARABHANGA_DIVINE', 'MARICHA_YOUNG', 'RAVANA_DISGUISED', 'DUSHANA', 'TRISHIRA')}
+                                  'SHARABHANGA_DIVINE', 'MARICHA_YOUNG', 'RAVANA_DISGUISED', 'DUSHANA', 'TRISHIRA',
+                                  'PUSHPAKA_VIMANA', 'RAVANA_RATHA')}
 # The Bala story-inset looks are given only by data CAST lines, never matched from a name in passing.
 FROM_EP.update({_k: 'E9.99' for _k in ('BALI', 'VAMANA', 'KUSHA_KING', 'KUSHANABHA', 'KUSHANABHA_DAUGHTERS', 'CHULI',
                                        'SOMADA', 'BRAHMADATTA', 'SATYAVATI', 'RICHIKA')})
