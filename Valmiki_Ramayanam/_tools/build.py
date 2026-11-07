@@ -26,6 +26,7 @@ from shorts_style import STYLE, RESPECT, TAIL, CHARS, GROUPS  # noqa: E402
 import live_style as LS  # noqa: E402
 sys.path.insert(0, os.path.join(os.path.dirname(ROOT), 'Long_Videos', '_tools'))
 import honor  # noqa: E402  (respectful names, shared with the long videos)
+from soften import soft  # noqa: E402  (no blood/wound/death words in prompts, shared with the long videos)
 
 LIVE = False   # set per sarga: True when its flow rows use the published page's reference library (live_style)
 
@@ -230,6 +231,7 @@ def editor_move(cam):
     return 'నెమ్మదిగా జూమ్-ఇన్ (100% → 112%)'
 
 
+@soft
 def still_prompt(chars, frame, light):
     who = '; '.join(CHARS[k] for k in keys_of(chars))
     return ("Vertical 9:16 cinematic still image, 1080x1920, main subject in the centre safe area. "
@@ -240,6 +242,7 @@ def still_prompt(chars, frame, light):
             f"{RESPECT} No text, letters, logos or watermarks.")
 
 
+@soft
 def clip_prompt(chars, frame, motion, cam, light):
     who = '; '.join(CHARS[k] for k in keys_of(chars))
     return ("Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. "
@@ -264,15 +267,19 @@ def flow_md(clips, texts):
         ref_line = ' · '.join(f'`{k}.png`' for k in c['refs']) if c['refs'] else 'అవసరం లేదు'
         head = '🎥 వీడియో' if c['kind'] == 'video' else '🖼️ ఇమేజ్ + కదలిక'
         extra = f"- **ఎడిటర్‌లో కదలిక:** {c['move']}\n" if c['move'] else ''
+        body = (f"```text\n{c['prompt']}\n```\n" if not LIVE else
+                f"**🖼️ ఇమేజ్ ప్రాంప్ట్** (రిఫరెన్స్ ఇమేజ్‌లు జత చేసి):\n\n```text\n{c['imagePrompt']}\n```\n\n"
+                f"**🎥 వీడియో ప్రాంప్ట్** (Frames to Video – పై ఇమేజ్‌ను మొదటి ఫ్రేమ్‌గా పెట్టండి):"
+                f"\n\n```text\n{c['videoPrompt']}\n```\n")
         out.append(f"### క్లిప్ {c['no']} · {c['time']} · {c['label']} · {head}\n\n"
                    f"- **నెరేషన్:** {c['narration']}\n"
-                   f"- **రిఫరెన్స్:** {ref_line}\n{extra}\n"
-                   f"```text\n{c['prompt']}\n```\n")
+                   f"- **రిఫరెన్స్:** {ref_line}\n{extra}\n{body}")
     return '\n'.join(out)
 
 
 CLIPS_NOTE = ('ప్రతి క్లిప్‌కు రెండు ప్రాంప్ట్‌లు: ముందు 🖼️ ఇమేజ్ చేయండి (రిఫరెన్స్ ఇమేజ్‌లు జత చేసి). వీడియో కావాలంటే '
-              'ఆ ఇమేజ్‌ను Flow → Frames to Video లో మొదటి ఫ్రేమ్‌గా పెట్టి 🎥 వీడియో ప్రాంప్ట్ వాడండి. "యాక్షన్" క్లిప్‌లు కథలో '
+              'ఆ ఇమేజ్‌ను Flow → Frames to Video లో మొదటి ఫ్రేమ్‌గా పెట్టి 🎥 వీడియో ప్రాంప్ట్ వాడండి. మీరు చేసిన ఆ ఇమేజ్ '
+              'వీడియోకు అసలు రూపం: వీడియో దాని శైలి, రంగులు, పాత్రలు అలాగే ఉంచి కదలిక మాత్రమే ఇస్తుంది (కార్టూన్‌లా మారదు). "యాక్షన్" క్లిప్‌లు కథలో '
               'కదలిక ఉన్నవి; "మెల్లని కదలిక" క్లిప్‌లకు ఇమేజ్ + ఎడిటర్ కదలిక చాలు, కావాలంటే వీడియో కూడా చేయవచ్చు. '
               'వీడియోలో పాత్రలు అకస్మాత్తుగా కదిలితే: మళ్ళీ Generate చేయండి, లేదా ఇమేజ్ + ఎడిటర్ కదలిక వాడండి.')
 
@@ -287,9 +294,9 @@ def clip_cards(clips, texts):
         if LIVE:
             keys = keys_of(chars)
             refs = LS.ref_keys(keys)
-            prompt = LS.video(keys, frame, motion, cam, light) if video else LS.still(keys, frame, light)
             both = {'imagePrompt': LS.still(keys, frame, light),
                     'videoPrompt': LS.start_video(keys, frame, motion, cam, light, video)}
+            prompt = both['videoPrompt'] if video else both['imagePrompt']   # video: always from the user's image
         else:
             refs = [k for k in keys_of(chars) if k not in GROUPS]
             prompt = clip_prompt(chars, frame, motion, cam, light) if video else still_prompt(chars, frame, light)
@@ -311,6 +318,7 @@ def thumb_md(t, clips, kanda_te, sarga, n):
     return thumb_table(main, hl, sub, kanda_te, sarga, n, refs, prompt)
 
 
+@soft
 def thumb_prompt(clips):
     if row_key(clips) in KEPT:
         return KEPT[row_key(clips)]['thumb']
@@ -503,6 +511,7 @@ def srt(texts):
 
 # ---------- reference sheets ----------
 
+@soft
 def reference_sheets():
     out = ["# పాత్రల రిఫరెన్స్ ఇమేజ్‌లు (Character Reference Sheets)\n",
            "Google Flow లో పాత్రలు ప్రతి క్లిప్‌లో ఒకేలా కనిపించడానికి, ముందుగా ప్రతి పాత్రకు **ఒక్కసారి** ఇమేజ్ తయారు చేయండి.\n",
@@ -516,6 +525,7 @@ def reference_sheets():
     return '\n'.join(out)
 
 
+@soft
 def ref_prompt(desc):
     return ("Character reference image for animation consistency: one character only, full body, standing, "
             "facing the camera, centred, plain soft warm-grey background, even soft lighting, calm expression, "
@@ -546,6 +556,7 @@ def used_refs(slokas):
     return {k for s in slokas for k in s['thumbRefs'] + [r for c in s['clips'] for r in c['refs']]}
 
 
+@soft
 def sarga_references(kanda_te, sarga, slokas):
     """00_REFERENCES.md for one sarga: only the images its Shorts need, with the ślokas that use each."""
     where = {}

@@ -8,8 +8,10 @@ import json
 import os
 import re
 
+from soften import soft, soften
+
 TOOLS = os.path.dirname(os.path.abspath(__file__))
-LIB = json.load(open(os.path.join(TOOLS, 'data', 'shorts_refs.json'), encoding='utf-8'))
+LIB = soften(json.load(open(os.path.join(TOOLS, 'data', 'shorts_refs.json'), encoding='utf-8')))   # soft words only
 
 QUALITY_STILL = ("Very high quality: ultra-detailed, sharp and clean 4K-quality render, rich colour depth, "
                  "film-quality lighting, no blur, no noise, no artefacts.")
@@ -98,6 +100,7 @@ def hands_note(keys, *texts):
                                                                     ' '.join(texts), re.I) else ''
 
 
+@soft
 def still(keys, frame, light):
     keys = order(keys)
     return ("Vertical 9:16 cinematic still image, 1080x1920, main subject in the centre safe area. "
@@ -115,21 +118,40 @@ GENTLE = ("Only small, natural, gentle movement: soft breathing, a slow blink, a
           "the characters stay in their places and keep their poses.")
 
 
+VIDEO_START = "Animate the attached start frame as one continuous 8 second vertical 9:16 shot. "
+# The user's own image for the clip comes first: the video follows it, not a style of its own (2026-11-06).
+FOLLOW_IMAGE = ("The start frame is the image made for this clip and is the exact look of the whole video: keep its "
+                "art style, rendering, colours, lighting and framing, and keep every character, animal, vehicle and "
+                "place exactly as it is there (the same faces, bodies, feathers, clothes, crowns and ornaments; the "
+                "same number of heads, arms, legs and wings); do not restyle, redraw or redesign anything and do not "
+                "add or remove anyone; only bring the image to life with motion. ")
+VIDEO_STYLE = ("exactly the style of the start frame: premium, highly detailed cinematic 3D like a big-budget Indian "
+               "mythological feature film, lifelike skin, hair, fabric, feather, gold and stone textures, real depth "
+               "and film lighting, characters with divine, graceful, dignified features faithful to traditional Hindu "
+               "iconography and each with a clearly individual face; rich jewel-tone colours with temple-gold "
+               "accents, volumetric god rays, high detail, smooth fluid motion, reverent devotional mood; never a "
+               "cartoon, anime, flat 2D, clay, toy-like or plastic look")
+RESPECT_VIDEO = RESPECT.replace('Everyone is fully', 'Every person is fully') \
+    + " Birds and animals stay exactly as in the start frame, with no clothes."
+
+
+@soft
 def start_video(keys, frame, motion, cam, light, action):
-    """Flow Frames to Video: the still made from still() is the first frame. Action clips play their motion over
-    0–2 s settle / 2–6 s action / 6–8 s rest; the other clips only breathe."""
+    """Flow Frames to Video: the image made with still() is the first frame and the look to follow. Action clips
+    play their motion over 0–2 s settle / 2–6 s action / 6–8 s rest; the other clips only breathe."""
     keys = order(keys)
     move = (f"Action, slow and smooth: 0–2 s hold the start frame and settle; 2–6 s {motion}; 6–8 s come to rest "
             "and hold the final pose." if action else GENTLE)
     cam = cam if action else 'a very slow, steady push-in'
-    return ("Animate the attached start frame as one continuous 8 second vertical 9:16 shot. "
-            f"{QUALITY_VIDEO} {use_sentence(keys)}Style: {STYLE}. {cast(keys, True)}"
+    return (f"{VIDEO_START}{FOLLOW_IMAGE}"
+            f"{QUALITY_VIDEO} {use_sentence(keys)}Style: {VIDEO_STYLE}. {cast(keys, True)}"
             f"The frame shows: {frame}{hands_note(keys, frame, motion)} {move} Camera: {cam}; slow, steady and "
             f"smooth, no shake, no sudden zoom. Lighting and effects: {light} {STABLE} {ANATOMY}; physically "
-            f"consistent motion with no morphing or flicker. {RESPECT} No text, letters, subtitles, logos or "
+            f"consistent motion with no morphing or flicker. {RESPECT_VIDEO} No text, letters, subtitles, logos or "
             "watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.")
 
 
+@soft
 def video(keys, frame, motion, cam, light):
     keys = order(keys)
     return ("Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area. "
@@ -140,6 +162,7 @@ def video(keys, frame, motion, cam, light):
             "Audio: soft ambient atmosphere only, no speech, no singing, no music.")
 
 
+@soft
 def thumb(keys, frame, light):
     keys = [k for k in order(keys) if k in GROUP_TEXT or LIB[k]['kind'] != 'place']   # a close-up: no place image
     return ("Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. "
@@ -151,6 +174,7 @@ def thumb(keys, frame, light):
             f"{RESPECT} No text, letters, numbers, logos or watermarks in the image."), ref_keys(keys)
 
 
+@soft
 def library(keys=None):
     """The reference list a helper page shows: only the images its clips use (all of them when keys is None)."""
     return [{'key': k, 'prompt': v['refprompt'], 'face': v.get('face') or '', 'label': v['te'], 'group': v['group'],

@@ -24,3 +24,6 @@ Purana_Quiz/tools/publish/
 
 # On-screen śloka cards: rebuilt by Valmiki_Ramayanam/_tools/overlays.py (about 60 MB a sarga)
 Valmiki_Ramayanam/*/Sarga_*/overlays/Sloka_*/
+
+# Valmiki Cinema phone pages (rebuilt by Valmiki_Cinema/_tools/cinema_build.py)
+Valmiki_Cinema/publish/

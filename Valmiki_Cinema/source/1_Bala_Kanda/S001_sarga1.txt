@@ -1,0 +1,285 @@
+#! Bala Kanda Sarga 1 as a movie: Narada tells Valmiki the whole story of Rama; we see it.
+#! Told as a flowing story. Every śloka's meaning (1–100) is in the narration, in order; shots group ślokas by scene.
+#! Checked line by line against Valmiki_Ramayanam/_tools/data/1_Bala_Kanda/Sarga_001 (meanings_*.txt).
+TITLE: నారద మహర్షి చెప్పిన రామకథ | బాలకాండ సర్గ 1 – సినిమా కథనం
+COVERS: బాలకాండ సర్గ 1, శ్లోకాలు 1–100 (ప్రతి శ్లోకం అర్థం, వరుసగా)
+NEXT: బాలకాండ సర్గ 2 – క్రౌంచ పక్షులు, మొదటి శ్లోకం
+SONGNOTE: 🎶 పాట: శ్లోకాలు 17–18 "స చ సర్వగుణోపేతః... క్షమయా పృథివీసమః" – కోరస్ (మగ, ఆడ గొంతులు), శ్రీరాముడి గుణాల మాంటేజ్ మీద. రాగం: మోహనం భావం, మెల్లని మృదంగం, వీణ, వేణువు; ప్రతి పాదం స్పష్టంగా. Suno లో "Indian devotional choir singing a Sanskrit verse, veena, flute, mridangam, majestic and calm, clear Telugu-style Sanskrit pronunciation" అని పెట్టి, సాహిత్యంగా ఈ రెండు శ్లోకాలు మాత్రమే ఇవ్వండి. సినిమా పాట ట్యూన్‌లు వాడవద్దు. యుద్ధ షాట్‌లు (🎵 సంగీతం మాత్రమే) మాటలు లేకుండా సంగీతం, శబ్దాలతో; ఆ యుద్ధం అర్థం తరువాతి షాట్‌లో నారద మహర్షి చెబుతారు.
+
+## ప్రశ్న | శ్లో. 1–5 | Valmiki's quiet hermitage of leaf huts in a deep green forest near the Tamasa river, bright morning
+SUNO: Instrumental, calm Indian devotional score, tanpura drone, soft bansuri flute melody, gentle veena, morning forest birds, slow 60 bpm, serene and sacred, no vocals
+SHOT — | E1.01 | A wide aerial view of a deep green forest at dawn, a clear river winding through it, a few leaf huts of a hermitage by the water, thin smoke rising from a sacred fire, birds crossing the golden rising sun. | the camera glides forward over the treetops while mist drifts and birds fly across the sun | slow aerial glide forward
+  M: తంబూర శ్రుతి, తరువాత వేణువు మీద శ్రీరామ థీమ్ (నాలుగు స్వరాల చిన్న మెలడీ – సిరీస్ అంతా ఇదే)
+  FX: పక్షుల కిలకిల, నది సవ్వడి
+  CAP: శ్రీమద్వాల్మీకి రామాయణం · బాలకాండ · సర్గ 1
+  SEC: 8
+SHOT 1 | E1.01 | Narada descending gently from a bright sky into the hermitage clearing with his veena, a soft golden glow around him, Valmiki rising from meditation to greet him with joined palms. | Narada descends slowly and lands softly while his robes flutter | slow tilt down
+  VIDEO
+  M: వీణ మీటిన దివ్యమైన స్వరం
+  N: తమసా నది దగ్గర, పచ్చని అడవిలో వాల్మీకి మహర్షి ఆశ్రమం. ఒకరోజు ఆ ఆశ్రమానికి నారద మహర్షి వచ్చారు. ఎప్పుడూ తపస్సులో, వేదాల చదువులో మునిగి ఉండేవారు, మాటల్లో అందరికంటే నేర్పరి. ఆ మహర్షిని వాల్మీకి మహర్షి ఒక ప్రశ్న అడిగారు. రామాయణం మొదలైంది ఈ ప్రశ్నతోనే.
+SHOT 2–3 | E1.01 | Valmiki and Narada sitting face to face on mats under a great banyan tree, Valmiki leaning forward eagerly with joined palms, Narada listening with a gentle smile, his veena on his shoulder. | Valmiki speaks with feeling, Narada nods slowly | slow push-in
+  D VALMIKI: స్వామీ! ఈ కాలంలో, ఈ లోకంలో అన్ని మంచి గుణాలూ ఉన్నవాడు ఎవరు? గొప్ప వీరుడు, ధర్మం తెలిసినవాడు, ఎవరైనా చిన్న మేలు చేసినా మరచిపోనివాడు, ఎప్పుడూ నిజమే చెప్పేవాడు, పట్టిన నియమం వదలనివాడు ఎవరు?
+  D VALMIKI: మంచి నడవడి ఉన్నవాడు, ప్రాణులన్నిటికీ మేలు కోరేవాడు, అన్నీ తెలిసినవాడు, ఏ పనైనా సాధించగలవాడు, ఎప్పుడు చూసినా ఆనందం కలిగించేంత అందమైనవాడు ఎవరు?
+SHOT 4–5 | E1.01 | Close on Valmiki's face, eyes shining with longing and hope, the morning light on his white beard. | his eyes lift toward Narada, a slow breath | very slow push-in
+  D VALMIKI: మనసును అదుపులో ఉంచుకున్నవాడు, కోపాన్ని గెలిచినవాడు, తేజస్సుతో వెలిగేవాడు, ఎవరి మీదా అసూయ లేనివాడు... కానీ యుద్ధంలో అతనికి కోపం వస్తే దేవతలే భయపడతారు. అలాంటివాడు ఎవరు?
+  D VALMIKI: ఇన్ని గుణాలు ఒక్క మనిషిలో ఉండడం సాధ్యమేనా? మూడు లోకాలూ తిరిగే మీకే తెలుస్తుంది. చెప్పండి, వినాలని ఎంతో ఆశగా ఉంది.
+
+## సమాధానం: రాముడు | శ్లో. 6–20 | the same hermitage, then a vision of Rama as a prince in Ayodhya
+SUNO: Instrumental, majestic Indian devotional theme, bansuri and veena lead, warm strings, soft choir humming, mridangam, rising and glorious, 70 bpm, no lyrics
+SONGSTYLE: Indian devotional choir, men and women, singing a Sanskrit verse slowly and clearly, veena, bansuri, mridangam, raga Mohanam feel, majestic and calm, clear Telugu-style Sanskrit pronunciation
+SHOT 6–7 | E1.01 | Narada smiling warmly with one hand raised as he begins to speak, the sun behind him like a halo. | Narada's smile widens and he lifts his hand | slow push-in
+  N: మూడు లోకాల సంగతులూ తెలిసిన నారద మహర్షి, ఆ ప్రశ్నలు విని ఎంతో సంతోషించారు.
+  D NARADA: మునీ, శ్రద్ధగా వినండి. మీరు చెప్పిన గుణాలు చాలా ఎక్కువ. అవన్నీ ఒక్కరిలో ఉండడం చాలా అరుదు. అయినా బాగా ఆలోచించి, అలాంటి మహాపురుషుడి గురించి చెబుతాను.
+SHOT 8 | E1.23 | A golden vision opening in the clouds: Rama, a young prince of Ayodhya, standing calm and radiant on a palace terrace with his great bow, the morning sun behind him. | the clouds part slowly and the vision brightens | slow tilt up
+  VIDEO
+  D NARADA: ఇక్ష్వాకు వంశంలో పుట్టి, "రాముడు" అనే పేరుతో అందరికీ తెలిసినవాడు ఆయన. మనసును గెలిచినవాడు, గొప్ప పరాక్రమవంతుడు, తేజస్సుతో వెలిగేవాడు, ఎంత కష్టంలోనూ ధైర్యం విడవనివాడు, ఇంద్రియాలను జయించినవాడు.
+  M: "రాముడు" అనే మాట దగ్గర శ్రీరామ థీమ్ పూర్తిగా – వీణ, వేణువు, తంత్రి వాద్యాలు, కోరస్ హమ్మింగ్
+SHOT 9–11 | E1.23 | Rama walking with a calm, dignified stride along a sunlit palace corridor of carved stone pillars, his long strong arms, broad chest and graceful bearing. | Rama walks slowly toward the camera | slow tracking
+  VIDEO
+  D NARADA: గొప్ప బుద్ధిమంతుడు, నీతి తెలిసినవాడు, చక్కగా మాట్లాడేవాడు, శత్రువులను అణచేవాడు. విశాలమైన భుజాలు, మోకాళ్ళ వరకు పొడవైన చేతులు, శంఖంలాంటి మెడ, విశాలమైన ఛాతీ, అందమైన నుదురు, హుందా నడక.
+  D NARADA: మరీ పొడుగూ కాదు, మరీ పొట్టీ కాదు. నిగనిగలాడే మేని రంగు, విశాలమైన కన్నులు. ఆయన శరీరమంతా శుభ లక్షణాలే.
+SHOT 12–14 | E1.23 | Rama in the royal court listening respectfully to elders and sages, then guiding young archers at an archery ground. | Rama bows to the elders, then lifts a bow to show the archers | slow pan left to right
+  D NARADA: ధర్మం తెలిసినవాడు, ఇచ్చిన మాట తప్పనివాడు, ఎప్పుడూ ప్రజల మేలే ఆలోచించేవాడు. మనసులోనూ, నడవడిలోనూ పవిత్రుడు. బ్రహ్మదేవుడిలా ప్రజలను కాపాడేవాడు. ధర్మాన్నీ, తనను నమ్ముకున్నవారినీ రక్షించేవాడు. వేదాలు, వేదాంగాలు అన్నీ తెలిసినవాడు, విలువిద్యలో ఆరితేరినవాడు.
+SHOT 15–16 | E1.23 | Rivers flowing into a vast ocean at sunrise, then Rama among a crowd of good people of Ayodhya who gather around him with joy. | rivers pour into the ocean, people gather around Rama smiling | slow aerial glide
+  D NARADA: అన్ని శాస్త్రాల సారం తెలుసు. విన్నది మరచిపోడు, ఏ సమయంలో ఏం చేయాలో వెంటనే తెలుస్తుంది. లోకమంతా ఆయనను ప్రేమిస్తుంది. ఎంత కష్టంలోనూ మనసు కుంగిపోదు.
+  D NARADA: నదులన్నీ సముద్రాన్ని చేరినట్టు, మంచివాళ్ళందరూ ఆయన దగ్గరకే చేరతారు. అందరినీ సమానంగా చూస్తాడు. ఎప్పుడు చూసినా ఆనందమే కలిగిస్తాడు.
+SHOT 17–18 | E1.23 | A majestic montage: the deep ocean, the snowy Himalaya, the full moon, and Rama standing radiant with his bow before them, his mother Kausalya watching him with love. | the ocean swells, snow glitters, the moon rises behind Rama | slow orbit
+  VIDEO
+  SONG CHORUS: స చ సర్వగుణోపేతః కౌసల్యానందవర్ధనః । సముద్ర ఇవ గాంభీర్యే ధైర్యేణ హిమవానివ ॥ విష్ణునా సదృశో వీర్యే సోమవత్ప్రియదర్శనః । కాలాగ్నిసదృశః క్రోధే క్షమయా పృథివీసమః ॥
+  M: కోరస్ పాట – వీణ, వేణువు, మృదంగం
+SHOT 17–18 | E1.23 | Queen Kausalya smiling with tears of joy as she watches Rama bow to her, the palace garden glowing at sunset. | Rama bows, Kausalya blesses him with her hand on his head | very slow push-in
+  D NARADA: తల్లి కౌసల్యకు ఆనందం పెంచేవాడు. సముద్రమంత గంభీరుడు, హిమాలయమంత ధైర్యవంతుడు. పరాక్రమంలో విష్ణువు, చూడగానే చంద్రుడిలా హాయి. కోపం వస్తే ప్రళయకాలపు అగ్ని... ఓర్పులో మాత్రం భూమాతే.
+SHOT 19–20 | E1.23 | King Dasharatha on his throne looking at Rama with deep love and pride, the court full of happy ministers. | Dasharatha smiles and lays his hand on Rama's shoulder | slow push-in
+  D NARADA: దానంలో కుబేరుడు, సత్యంలో మరో ధర్మదేవత. ఇన్ని గుణాలున్న, ప్రాణం కంటే ఇష్టమైన పెద్ద కొడుకు రాముడిని, ప్రజలకు సంతోషం కలిగించాలని, దశరథ మహారాజు యువరాజుగా పట్టాభిషేకం చేయాలనుకున్నాడు.
+
+## వనవాసం | శ్లో. 21–32 | Ayodhya's palace, then the road to the forest, the Ganga at Shringiberapura and Chitrakuta
+SUNO: Instrumental, sad Indian cinematic score, shehnai lead, soft strings, slow tabla, emotional farewell, 60 bpm, no vocals
+SHOT 21–22 | E2.05 | Kaikeyi in her chamber, seeing the coronation decorations through the window, turning with a hard, determined face toward King Dasharatha, who sits stunned. | Kaikeyi turns sharply, Dasharatha lowers his head in shock | slow push-in
+  M: దిగులుగా, ఉద్రిక్తంగా తంత్రులు
+  D NARADA: పట్టాభిషేకానికి ఏర్పాట్లు జరుగుతున్నాయి. అది చూసిన రాణి కైకేయి, ఎప్పుడో రాజు తనకు ఇచ్చిన రెండు వరాలు ఇప్పుడు అడిగింది. ఒకటి – రాముడు అడవికి వెళ్ళాలి. రెండు – భరతుడికి పట్టాభిషేకం జరగాలి.
+SHOT 23–24 | E2.10 | Dasharatha weeping on his couch, bound by his promise, while Rama bows calmly at his feet, ready to go. | Rama bows slowly, Dasharatha reaches out a trembling hand | very slow push-in
+  D NARADA: ఇచ్చిన మాట అనే ధర్మపు తాడుతో కట్టుబడిపోయాడు రాజు. ప్రాణం కంటే ఇష్టమైన కొడుకును అడవికి పంపవలసి వచ్చింది. తండ్రి మాట నిలబెట్టడానికి, ఆయన ఆజ్ఞ పాటించడానికి, పినతల్లి కైకేయికి సంతోషం కలిగించడానికి, వీరుడైన రాముడు అడవికి బయలుదేరాడు.
+SHOT 25–28 | E2.18 | Rama in bark cloth walking out of the great gate of Ayodhya with Sita and Lakshmana, weeping citizens and old King Dasharatha following far behind them on the road. | the three walk on as the crowd and the king follow slowly | slow pull-back
+  VIDEO
+  M: విచారమైన షెహనాయ్, మెల్లని కోరస్
+  D NARADA: అన్న మీద ప్రేమతో, సుమిత్ర కొడుకు లక్ష్మణుడు వెంట నడిచాడు – మంచి తమ్ముడు ఎలా ఉండాలో లోకానికి చూపిస్తూ.
+  D NARADA: జనకుడి వంశంలో పుట్టిన, దేవతలే తమ మాయతో సృష్టించారా అనిపించే, దశరథుడి కోడలు సీత – చంద్రుడిని రోహిణి విడవనట్టు రాముడి వెంట నడిచింది. ప్రజలూ, తండ్రి దశరథుడూ చాలా దూరం వెంబడించారు.
+SHOT 29–30 | E2.18 | On the bank of the Ganga at Shringiberapura, Rama embracing Guha, the chief of the boatmen, while the charioteer Sumantra turns back with the empty chariot. | Rama embraces Guha, Sumantra drives slowly away | slow pan left to right
+  D NARADA: గంగ ఒడ్డున శృంగిబేరపురంలో, బోయల రాజు, ప్రియమిత్రుడు గుహుడిని కలిశాడు. సారథి సుమంత్రుడిని అయోధ్యకు వెనక్కి పంపాడు. గుహుడు, లక్ష్మణుడు, సీతలతో కలిసి అడవులు దాటుతూ, నిండు నదులు దాటుతూ ముందుకు నడిచాడు.
+SHOT 31–32 | E2.18 | A beautiful leaf hut on the green slopes of Chitrakuta mountain, Rama, Sita and Lakshmana sitting happily outside it beside a stream, deer grazing nearby. | the stream sparkles, Sita smiles at a deer | slow push-in
+  M: ప్రశాంతమైన వేణువు, పక్షులు
+  D NARADA: భరద్వాజ మహర్షి చెప్పిన మాట ప్రకారం చిత్రకూటం చేరారు. అందమైన పర్ణశాల కట్టుకుని, ముగ్గురూ దేవతల్లా, గంధర్వుల్లా ఆనందంగా ఉన్నారు.
+
+## దశరథుడు, భరతుడు | శ్లో. 32–39 | the palace of Ayodhya at night, then the forest of Chitrakuta and Nandigrama
+SUNO: Instrumental, deeply emotional Indian score, solo violin and bansuri, soft tanpura, grief and love, very slow, no vocals
+SHOT 32–33 | E2.25 | Old King Dasharatha lying on his couch in a dark palace room lit by one lamp, weeping and calling out with one hand stretched toward the door. | his hand slowly falls, the lamp flame flickers and goes still | very slow push-in
+  M: ఒంటరి వయొలిన్
+  D NARADA: కానీ అయోధ్యలో... కొడుకు దూరమైన దుఃఖం తట్టుకోలేక, "రామా, రామా" అని విలపిస్తూ, దశరథ మహారాజు స్వర్గానికి వెళ్ళిపోయాడు.
+SHOT 33–34 | E2.30 | Sage Vashishtha and the ministers offering the crown to Bharata in the court, Bharata refusing with joined palms, tears in his eyes. | Bharata pushes the crown away gently and turns toward the forest | slow push-in
+  D NARADA: వసిష్ఠుడు మొదలైన పెద్దలు భరతుడిని రాజ్యం స్వీకరించమన్నారు. కానీ మహాబలుడైన భరతుడు రాజ్యం కోరుకోలేదు. అన్నను ప్రసన్నం చేసుకోవాలని అడవికి బయలుదేరాడు.
+SHOT 35–36 | E2.30 | In the forest of Chitrakuta, Bharata kneeling at Rama's feet in bark cloth, pleading with folded hands, Rama lifting him with deep love. | Bharata pleads, Rama lifts him gently | slow push-in
+  D NARADA: చిత్రకూటంలో, సత్యపరాక్రమవంతుడైన అన్న ముందు ఎంతో వినయంతో నిలబడి వేడుకున్నాడు.
+  D BHARATA: అన్నా! నువ్వు ధర్మం తెలిసినవాడివి. ఈ రాజ్యానికి నువ్వే రాజువు.
+SHOT 36–38 | E2.30 | Rama placing his golden sandals into Bharata's hands, Bharata touching Rama's feet and turning away with the sandals held to his heart. | Rama gives the sandals, Bharata bows and slowly walks away | slow pull-back
+  M: విచారంగా, ప్రేమగా వేణువు
+  D NARADA: కానీ ఎప్పుడూ ప్రసన్నంగా ఉండే, గొప్ప కీర్తి గల రాముడు, తండ్రి ఆజ్ఞకే కట్టుబడి రాజ్యం తీసుకోలేదు. రాజ్యానికి గుర్తుగా తన పాదుకలు ఇచ్చి, మళ్ళీ మళ్ళీ నచ్చచెప్పి భరతుడిని వెనక్కి పంపాడు. కోరిక తీరకపోయినా, అన్న పాదాలకు నమస్కరించి వెళ్ళాడు భరతుడు.
+SHOT 39 | E2.30 | Bharata in bark cloth in the small village of Nandigrama, the golden sandals placed on a throne, Bharata seated on the ground beside them, ruling with folded hands. | Bharata bows to the sandals, a lamp glows beside them | very slow push-in
+  D NARADA: అయోధ్యలో అడుగుపెట్టలేదు భరతుడు. నందిగ్రామంలో ఉంటూ, అన్న పాదుకల పేరుతో రాజ్యం చూసుకుంటూ, రాముడు ఎప్పుడు వస్తాడా అని ఎదురుచూశాడు.
+
+## దండకారణ్యం | శ్లో. 39–45 | Chitrakuta, then the great Dandaka forest and the hermitages of the sages
+SUNO: Instrumental, mysterious Indian forest score, low drones, veena, a short burst of thavil and big war drums, then calm devotional flute, no vocals
+SHOT 39–40 | E3.01 | Rama, Sita and Lakshmana walking away from the Chitrakuta hill into a vast, dark-green forest, Rama looking back once at the path where the citizens of Ayodhya used to come. | the three walk deeper into the forest, Rama glances back | slow tracking
+  D NARADA: భరతుడు వెళ్ళిపోయాక, అయోధ్య ప్రజలు మళ్ళీ మళ్ళీ చిత్రకూటానికి వస్తూనే ఉంటారని గమనించాడు రాముడు. తన వనవాస వ్రతానికి భంగం రాకూడదని, దట్టమైన దండకారణ్యంలోకి అడుగుపెట్టాడు.
+SHOT 41 | E3.01 | Rama drawing his bow as the huge rakshasa Viradha rushes out from the trees of the Dandaka forest, Sita and Lakshmana behind him. | Viradha charges and Rama looses a bright arrow | dynamic slow orbit
+  VIDEO
+  M: యుద్ధ సంగీతం – తవిల్, డ్రమ్ములు (మాటలు లేవు)
+  FX: బాణం ఝుంకారం, అడవి కంపించే శబ్దం
+  SEC: 6
+SHOT 41–43 | E3.03 | Rama bowing before the radiant sage Agastya in his hermitage, Agastya handing him a great shining bow, Sita and Lakshmana beside him. | Agastya lifts the bow and Rama receives it with both hands | slow push-in
+  D NARADA: తామరపూలలాంటి కన్నుల రాముడు, ఆ మహారణ్యంలో విరాధుడనే రాక్షసుడిని సంహరించాడు. శరభంగ మహర్షిని, సుతీక్ష్ణ మహర్షిని, అగస్త్య మహర్షిని, ఆయన తమ్ముడిని దర్శించాడు. అగస్త్యుడు ఇచ్చిన ఇంద్రుడి విల్లును, ఒక ఖడ్గాన్ని, ఎన్ని బాణాలు తీసినా తరగని రెండు అమ్ములపొదులను ఎంతో సంతోషంగా అందుకున్నాడు.
+SHOT 43–45 | E3.03 | A gathering of forest sages glowing with the light of their penance, with folded hands before Rama, asking for protection, Rama raising his right hand in a solemn promise. | the sages bow, Rama raises his hand | slow pan left to right
+  D NARADA: అడవిలో ఉంటున్న రాముడి దగ్గరకు, అగ్నిలా తపస్సుతో వెలిగే దండకారణ్య ఋషులంతా వచ్చారు. రాక్షసుల బాధ నుండి కాపాడమని వేడుకున్నారు. యుద్ధంలో రాక్షసులను సంహరిస్తానని రాముడు వారికి మాట ఇచ్చాడు.
+
+## జనస్థానం | శ్లో. 46–49 | Panchavati by the Godavari, then the battlefield of Janasthana, and Lanka
+SUNO: Instrumental, epic Indian battle score, thavil, big war drums, nadaswaram, horns, fast 140 bpm, heroic, ending in a dark menacing nadaswaram theme, no vocals
+SHOT 46 | E3.08 | The rakshasi Shurpanakha fleeing from the hermitage of Panchavati into the forest, covering her face with both hands, crying out in anger. | she runs away through the trees, glancing back in rage | slow tracking
+  D NARADA: పంచవటిలో ఉండగా, జనస్థానంలో ఉండే, కోరిన రూపం ధరించగల శూర్పణఖ అనే రాక్షసి వచ్చింది. రాముడు ఆమె ముక్కు చెవులు కోయించాడు.
+SHOT 47–48 | E3.10 | Rama alone before his hermitage drawing his great bow, golden arrows streaking toward a vast charging rakshasa army led by Khara in a dark chariot, dust rising to the sky. | Rama looses arrow after arrow as the army charges and falls back | dynamic slow orbit
+  VIDEO
+  M: పెద్ద యుద్ధ సంగీతం – తవిల్, పెద్ద డ్రమ్ములు, కొమ్ము బూరలు, వేగంగా
+  FX: బాణాల వర్షం, రథాల చప్పుడు
+  CAP: జనస్థాన యుద్ధం
+  SEC: 8
+SHOT 47–49 | E3.10 | Rama standing alone and calm with his bow on a silent, dusty battlefield at sunset, the broken chariots of the rakshasa army scattered far behind him. | dust settles slowly around Rama | slow pull-back
+  D NARADA: ఆమె మాటలతో రెచ్చిపోయి యుద్ధానికి వచ్చిన ఖరుడిని, త్రిశిరుడిని, దూషణుడిని, వారి వెంట వచ్చినవారిని – జనస్థానంలో ఉండే పద్నాలుగు వేల రాక్షసులను – రాముడు ఒక్కడే యుద్ధంలో సంహరించాడు.
+SHOT 49 | E3.12 | Ravana on his golden throne in Lanka rising in fury as a messenger bows before him, the court trembling. | Ravana rises from his throne, his fists clenched | slow push-in
+  M: రావణుడి థీమ్ – లోతైన నాదస్వరం, తవిల్
+  D NARADA: తన బంధువులంతా నశించారని విని, రావణుడు కోపంతో ఒళ్ళు తెలియనంతగా రగిలిపోయాడు.
+
+## మాయ | శ్లో. 50–54 | Maricha's leaf hut on the lonely sea shore, then Panchavati and the sky over the Godavari
+SUNO: Instrumental, magical then tense Indian score, shimmering veena, tense strings, war drums for an aerial fight, ending in a sorrowful solo violin, no vocals
+SHOT 50–51 | E3.14 | Maricha raising his hands to stop Ravana outside his simple leaf hut on the lonely sea shore, at evening. | Maricha pleads, Ravana turns away proudly | slow push-in
+  D NARADA: రావణుడు మారీచుడు అనే రాక్షసుడి దగ్గరకు వెళ్ళి సహాయం అడిగాడు. "ఈ పని వద్దు" అని మారీచుడు ఎన్నోసార్లు వారించాడు.
+  D MARICHA: రావణా! ఆ మహాబలుడైన రాముడితో శత్రుత్వం నీకు ఏమాత్రం మంచిది కాదు.
+  D NARADA: కానీ కాలం దగ్గర పడిన రావణుడు ఆ మంచి మాట లెక్కచేయలేదు.
+SHOT 52 | E3.16 | A shining golden deer with silver spots leaping through a green forest glade near the Panchavati hermitage, Rama following it with his bow into the trees. | the golden deer leaps away and Rama runs after it | slow tracking
+  VIDEO
+  M: మాయగా, రహస్యంగా వీణ
+  D NARADA: మారీచుడిని వెంటబెట్టుకుని రాముడి ఆశ్రమానికి వెళ్ళాడు. మాయావి మారీచుడు బంగారు లేడిగా మారి, రాజకుమారులు రామలక్ష్మణులను ఆశ్రమానికి దూరంగా తీసుకువెళ్ళాడు.
+SHOT 53 | E3.20 | High above the Godavari forests, the giant bird Jatayu flying fiercely against Ravana's golden chariot drawn by donkeys, Sita in the chariot reaching out. | Jatayu dives at the chariot with wings spread wide | slow side tracking
+  VIDEO
+  M: ఉద్రిక్తమైన తంత్రులు, డ్రమ్ములు
+  FX: రెక్కల చప్పుడు, గాలి హోరు
+  D NARADA: సీతను కాపాడడానికి అడ్డుపడిన పక్షిరాజు జటాయువును కూల్చి, రావణుడు రాముడి భార్య సీతను ఎత్తుకుపోయాడు.
+SHOT 53–54 | E3.22 | Rama kneeling beside the head of the giant bird Jatayu lying on the forest floor with a torn wing, Lakshmana beside him, Rama's eyes full of tears. | Rama lays his hand gently on Jatayu's head | very slow push-in
+  M: ఒంటరి వయొలిన్, సీతమ్మ థీమ్ విచారంగా
+  D NARADA: కొనప్రాణంతో పడి ఉన్న జటాయువును రాముడు చూశాడు. సీతను రావణుడు ఎత్తుకుపోయాడని అతని నోటనే విన్నాడు. దుఃఖంతో తపించిపోయాడు, మనసు కలతచెంది ఎంతో విలపించాడు.
+SHOT 54 | E3.22 | A large funeral pyre glowing in the forest at dusk, Rama standing before it with joined palms, Lakshmana beside him. | the flames rise gently into the evening sky | slow tilt up
+  D NARADA: ఆ దుఃఖంలోనే, తండ్రికి చేసినట్టే జటాయువుకు అంతిమ సంస్కారం చేశాడు.
+
+## వెతుకులాట | శ్లో. 55–61 | the deep forest, Shabari's hermitage and the blue lake of Pampa
+SUNO: Instrumental, dark low drums turning into devotional veena and bansuri, hopeful and warm, no vocals
+SHOT 55–56 | E3.25 | A huge, frightening headless rakshasa Kabandha with long arms reaching through the dark forest toward Rama and Lakshmana, who stand ready with their bows. | the long arms sweep forward, Rama and Lakshmana draw their bows | slow push-in
+  VIDEO
+  M: భయంకరమైన తక్కువ స్వరాలు, డ్రమ్ దెబ్బలు
+  D NARADA: సీత కోసం అడవిలో వెతుకుతుండగా, వికారమైన రూపంతో, చూడడానికే భయంకరంగా ఉన్న కబంధుడు అనే రాక్షసుడు ఎదురుపడ్డాడు. మహాబాహువైన రాముడు అతన్ని సంహరించి, దహనం చేశాడు.
+SHOT 56–57 | E3.25 | A radiant celestial being rising out of a sacred fire into the night sky, pointing toward the west with a smile of gratitude. | the shining figure rises slowly and points the way | slow tilt up
+  VIDEO
+  D NARADA: శాపం తీరి, దివ్యరూపంతో స్వర్గానికి వెళ్తూ, కబంధుడు రాముడికి ఇలా చెప్పాడు.
+  D KABANDHA: రాఘవా! ధర్మం బాగా తెలిసిన, తపస్విని అయిన శబరిని దర్శించు.
+SHOT 57–58 | E3.26 | The aged hermit woman Shabari bowing at Rama's feet in her flower-filled hermitage, offering fruits and roots with deep devotion, Lakshmana beside Rama. | Shabari offers the fruits, Rama accepts with a gentle smile | slow push-in
+  M: భక్తిగా వీణ, మెల్లని వేణువు
+  D NARADA: శత్రువులను సంహరించే రాముడు శబరి ఆశ్రమానికి వెళ్ళాడు. శబరి దశరథ కుమారుడిని ఎంతో భక్తితో చక్కగా పూజించింది.
+SHOT 58–61 | E4.02 | Beside the blue lotus lake of Pampa, Hanuman bowing with joined palms before Rama and Lakshmana, then Rama and Sugriva clasping hands before a blazing sacred fire. | Hanuman bows, then Rama and Sugriva join hands over the fire | slow pan left to right
+  VIDEO
+  D NARADA: తరువాత పంపా సరస్సు ఒడ్డున హనుమంతుడనే వానరుడిని కలిశాడు. హనుమంతుడి మాటతో సుగ్రీవుడిని కలిశాడు. మొదటి నుండీ జరిగిందంతా, ముఖ్యంగా సీత అపహరణ గురించి సుగ్రీవుడికి చెప్పాడు.
+  D NARADA: అంతా విని సుగ్రీవుడు ఎంతో సంతోషించాడు. అగ్ని సాక్షిగా రాముడితో స్నేహం చేసుకున్నాడు.
+
+## వాలి | శ్లో. 61–70 | the rocky hills of Rishyamuka and the cave city of Kishkindha
+SUNO: Instrumental, heroic Indian score, big drums, horns, thavil, building to a climactic duel, then sudden silence, no vocals
+SHOT 61–63 | E4.03 | Sugriva sitting sadly on a rock telling his story, Rama listening and raising his hand in a vow, Sugriva still looking doubtful. | Rama raises his hand firmly, Sugriva looks up | slow push-in
+  D NARADA: దుఃఖంలో ఉన్న సుగ్రీవుడు, స్నేహం ఇచ్చిన చనువుతో, అన్న వాలితో తనకున్న శత్రుత్వం కథంతా చెప్పుకున్నాడు. "వాలిని సంహరిస్తాను" అని రాముడు ప్రతిజ్ఞ చేశాడు.
+  D NARADA: అప్పుడు సుగ్రీవుడు వాలి బలం ఎంత గొప్పదో వివరించాడు. "ఇంతటి బలవంతుడిని రాముడు నిజంగా జయించగలడా?" అని అతని మనసులో సందేహం మిగిలిపోయింది.
+SHOT 64–65 | E4.04 | Rama smiling and flicking the giant mountain-like skeleton of the demon Dundubhi far into the sky with his big toe, Sugriva and the vanaras staring in amazement. | the huge skeleton flies away over the hills | slow tilt up
+  VIDEO
+  M: వీర సంగీతం ఒక్క దెబ్బతో
+  FX: గాలిని చీల్చే శబ్దం
+  D NARADA: నమ్మకం కోసం, వాలి చంపి విసిరేసిన దుందుభి రాక్షసుడి కళేబరాన్ని చూపించాడు సుగ్రీవుడు. అది ఒక పెద్ద పర్వతంలా ఉంది. రాముడు చిరునవ్వుతో, కాలి బొటనవేలితో దాన్ని పది యోజనాల దూరం ఎగిరిపడేలా విసిరేశాడు.
+SHOT 66–67 | E4.04 | A single blazing arrow from Rama's bow piercing through seven great sala trees standing in a row and the mountain behind them, light bursting through. | the arrow streaks through the seven trees and the mountain | slow side tracking
+  VIDEO
+  M: పెద్ద డ్రమ్, కొమ్ము బూర
+  FX: బాణం దూసుకెళ్ళే శబ్దం, చెట్లు చీలిన శబ్దం
+  D NARADA: తరువాత ఒకే బాణంతో వరుసగా ఉన్న ఏడు సాల వృక్షాలను, వెనుక ఉన్న పర్వతాన్ని, భూమిని చీల్చి రసాతలం వరకు దూసుకుపోయేలా వేశాడు. సుగ్రీవుడి మనసు సంతోషంతో నిండింది. రాముడిని వెంటబెట్టుకుని గుహలాంటి కిష్కింధకు వెళ్ళాడు.
+SHOT 68–69 | E4.05 | Before the gates of the cave city of Kishkindha, the golden vanara Sugriva roaring a challenge, and the mighty Vali striding out, his wife Tara trying to hold him back. | Sugriva roars, Vali gently pushes Tara aside and strides forward | slow push-in
+  VIDEO
+  FX: సుగ్రీవుడి గర్జన
+  D NARADA: బంగారు ఛాయ గల సుగ్రీవుడు పెద్దగా గర్జించాడు. ఆ గర్జన విని వానరరాజు వాలి బయటకు వచ్చాడు. వద్దని అడ్డుపడిన భార్య తారను సమాధానపరిచి, సుగ్రీవుడితో యుద్ధానికి తలపడ్డాడు.
+SHOT 69 | E4.06 | Vali and Sugriva wrestling fiercely on a rocky plain, Rama hidden behind a tree drawing his bow and loosing one bright arrow. | the brothers grapple, Rama looses one arrow | dynamic slow orbit
+  VIDEO
+  M: యుద్ధ సంగీతం, తరువాత ఒక్కసారిగా నిశ్శబ్దం
+  SEC: 6
+SHOT 69–70 | E4.06 | Sugriva crowned king in the great cave hall of Kishkindha, the vanaras cheering, Rama and Lakshmana standing beside him. | the crown is placed on Sugriva's head, the vanaras raise their hands | slow push-in
+  D NARADA: రాముడు ఒకే ఒక్క బాణంతో వాలిని సంహరించాడు. సుగ్రీవుడి కోరిక మేరకు, కిష్కింధకు సుగ్రీవుడినే రాజుగా చేశాడు.
+
+## హనుమంతుడు | శ్లో. 71–78 | the seashore of the south, the ocean, and the golden city of Lanka
+SUNO: Instrumental, powerful heroic Indian score, horns, war drums, choir aah, soaring, then a tender violin, then fast fiery drums, no lyrics
+SHOT 71 | E4.15 | Sugriva on a hilltop sending troops of vanaras running in all four directions across the land. | the vanaras race off in every direction | slow aerial glide
+  VIDEO
+  D NARADA: వానరరాజు సుగ్రీవుడు వానరులందరినీ పిలిపించి, సీత జాడ కోసం అన్ని దిక్కులకూ పంపాడు.
+SHOT 72 | E4.17 | The old giant bird Sampati on a seashore cliff, turning his head toward the south and speaking to the vanaras gathered below him. | Sampati lifts his head toward the sea | slow push-in
+  D NARADA: జటాయువు అన్న, సంపాతి అనే గద్ద, "సీత లంకలో ఉంది" అని చెప్పాడు.
+SHOT 72 | E5.01 | Hanuman leaping high over the endless ocean, his body stretched like a flying arrow, clouds parting around him, the sun blazing. | Hanuman soars across the sky over the ocean | slow side tracking
+  VIDEO
+  M: హనుమంతుడి థీమ్ – కొమ్ము బూరలు, డ్రమ్ములు, కోరస్ "ఆ..."
+  FX: గాలి హోరు
+  D NARADA: ఆ మాట విని, బలవంతుడైన హనుమంతుడు వంద యోజనాల ఉప్పు సముద్రాన్ని ఒకే గెంతులో దాటాడు.
+SHOT 73–74 | E5.10 | In the Ashoka garden at night, Sita sitting under a tree deep in thought of Rama, Hanuman kneeling before her holding out Rama's ring on his palm. | Sita looks up and reaches slowly toward the ring | very slow push-in
+  M: సీతమ్మ థీమ్ – మెల్లని వయొలిన్
+  D NARADA: రావణుడు పాలించే లంకా నగరం చేరి, అశోకవనంలో రాముడినే ధ్యానిస్తున్న సీతను చూశాడు. రాముడు ఇచ్చిన గుర్తు ఉంగరాన్ని ఇచ్చి, రాముడి క్షేమం చెప్పి, సీతను ఓదార్చాడు.
+SHOT 74–75 | E5.15 | Hanuman smashing the great arch of the Ashoka garden, rakshasa guards scattering, the young prince Akshakumara charging at him in a golden chariot. | Hanuman swings, the arch crashes down, guards scatter | dynamic slow orbit
+  VIDEO
+  M: వేగమైన యుద్ధ సంగీతం (మాటలు లేవు)
+  FX: రాళ్ళు కూలే శబ్దం
+  SEC: 6
+SHOT 74–76 | E5.17 | Hanuman bound by glowing magical ropes, calmly letting the rakshasas drag him toward Ravana's court, a quiet knowing smile on his face. | the guards pull the ropes, Hanuman walks calmly | slow tracking
+  D NARADA: అశోకవనం ద్వారాన్ని ధ్వంసం చేసి, ఐదుగురు సేనాపతులను, ఏడుగురు మంత్రి కుమారులను సంహరించి, శూరుడైన అక్షకుమారుడిని నలిపివేశాడు. తరువాత కావాలనే బ్రహ్మాస్త్రానికి పట్టుబడ్డాడు.
+  D NARADA: బ్రహ్మదేవుడి వరంతో ఆ బంధం వీడిపోయిందని తెలిసినా, రావణుడిని చూడాలని, తనను లాక్కెళ్తున్న రాక్షసులను ఓర్చుకున్నాడు.
+SHOT 77 | E5.20 | The golden city of Lanka glowing with flames at night, seen from a hilltop, Hanuman a small silhouette leaping from roof to roof, the Ashoka garden untouched and calm. | flames rise and Hanuman leaps across the rooftops | slow pull-back
+  VIDEO
+  M: డ్రమ్ములు వేగం, ఒక్కసారిగా ఆగిపోతాయి
+  FX: మంటల చప్పుడు
+  D NARADA: సీత ఉన్న చోటు తప్ప లంకా నగరమంతా కాల్చివేసి, రాముడికి శుభవార్త చెప్పడానికి తిరిగి వచ్చాడు.
+SHOT 78 | E5.30 | Hanuman walking around Rama in reverence and then bowing before him with shining eyes, Rama leaning forward eagerly, Lakshmana and Sugriva watching. | Hanuman completes the circle and bows, Rama's face fills with joy | slow orbit
+  VIDEO
+  D NARADA: అపారమైన బుద్ధిబలం గల హనుమంతుడు రాముడికి ప్రదక్షిణం చేసి, ఉన్నది ఉన్నట్టుగా ఒక్క మాటలో చెప్పాడు.
+  D HANUMAN: దృష్టా సీతా... చూశాను సీతమ్మను!
+  M: శ్రీరామ థీమ్ ఆనందంగా పెరుగుతుంది
+
+## సేతువు, యుద్ధం | శ్లో. 79–85 | the southern ocean shore, the bridge, Lanka and the battlefield
+SUNO: Instrumental, grand Indian epic score, ocean roar, choir, huge drums, then solemn conch and om choir, then victorious nadaswaram, no lyrics
+SHOT 79 | E6.01 | Rama on the ocean shore with Sugriva and the vanara army, drawing his bow in anger and loosing blazing arrows that make the ocean boil and heave. | the arrows strike the water and huge waves rise | dynamic slow orbit
+  VIDEO
+  M: పెద్ద డ్రమ్ములు, సముద్ర హోరు
+  FX: అలల గర్జన
+  D NARADA: రాముడు సుగ్రీవుడితో కలిసి మహాసముద్రం ఒడ్డుకు చేరాడు. సముద్రుడు దారి ఇవ్వకపోతే, సూర్యుడిలా మండే బాణాలతో సముద్రాన్ని కల్లోలపరిచాడు.
+SHOT 80 | E6.03 | The ocean god rising from the waves with folded hands before Rama, then the vanara Nala and the army building a great bridge of rocks across the blue ocean. | the ocean god rises and bows, the vanaras lay rocks in a long line | slow aerial glide
+  VIDEO
+  M: వీర సంగీతం, కోరస్ "జై శ్రీరామ్"
+  D NARADA: నదులకు అధిపతి అయిన సముద్రుడే స్వయంగా ప్రత్యక్షమయ్యాడు. అతను చెప్పిన ఉపాయంతో, నలుడి చేత సముద్రం మీద వారధి కట్టించాడు.
+SHOT 81 | E6.38 | The great final battle before Lanka: Rama on a shining divine chariot drawing his bow, a blazing divine arrow flying toward Ravana in his dark chariot, both armies watching. | Rama looses the blazing arrow and light fills the sky | dynamic slow orbit
+  VIDEO
+  M: రావణుడి థీమ్, శ్రీరామ థీమ్ కలిసి – పెద్ద వీర సంగీతం, ఒక్కసారిగా నిశ్శబ్దం
+  FX: దివ్యాస్త్రం గర్జన
+  D NARADA: ఆ వారధి మీదుగా లంకకు వెళ్ళి, యుద్ధంలో రావణుడిని సంహరించాడు.
+  SEC: 8
+SHOT 81–82 | E6.39 | Rama standing before a great crowd of vanaras and rakshasas, his face grave and troubled, Sita standing before him with downcast eyes. | Rama speaks gravely, Sita lowers her eyes | very slow push-in
+  M: లోతైన, బరువైన తంత్రులు
+  D NARADA: సీతను తిరిగి పొందాడు. కానీ చాలాకాలం పరాయివాడి ఇంట్లో ఉన్న భార్యను స్వీకరించడం గురించి లోకం ఏమంటుందో అని ఎంతో సంకోచించాడు. అందరి ఎదుటా సీతతో కఠినంగా మాట్లాడాడు.
+SHOT 82–83 | E6.39 | Sita walking calmly into a tall sacred fire with folded hands, then the fire god rising from the flames holding her gently, unharmed and radiant. | Sita enters the fire, the fire god rises with her | slow push-in
+  VIDEO
+  M: శంఖం, కోరస్ "ఓం", దివ్యంగా
+  D NARADA: ఆ మాటలు భరించలేక, పతివ్రత అయిన సీత మండుతున్న అగ్నిలోకి ప్రవేశించింది. అగ్నిదేవుడే స్వయంగా వచ్చి సీత నిర్దోషి అని చెప్పాడు. అప్పుడు రాముడు సీతను ఆనందంగా స్వీకరించాడు.
+SHOT 83–85 | E6.39 | Gods showering flowers from the sky over Rama and Sita, then Rama crowning Vibhishana king of Lanka in a bright hall. | flower petals rain down, Rama places the crown on Vibhishana | slow tilt down
+  VIDEO
+  M: విజయ సంగీతం – నాదస్వరం, డోలు
+  D NARADA: రాముడు చేసిన ఆ గొప్ప కార్యంతో దేవతలు, ఋషులతో సహా మూడు లోకాలూ ఆనందించాయి. దేవతలంతా పూజించగా రాముడు వెలిగిపోయాడు.
+  D NARADA: లంకలో విభీషణుడిని రాక్షసుల రాజుగా పట్టాభిషేకం చేసి, చేయవలసిన పని పూర్తయిందని, మనసులోని బాధంతా తీరి రాముడు ఆనందించాడు.
+
+## తిరిగి అయోధ్యకు | శ్లో. 86–89 | the sky over the forests, Bharadwaja's hermitage and Nandigrama
+SUNO: Instrumental, joyful Indian festive score, nadaswaram, dolu drums, bansuri, celebration, homecoming, no vocals
+SHOT 86 | E6.39 | The golden flying palace Pushpaka gliding through sunrise clouds toward Ayodhya, Rama, Sita and Lakshmana with Sugriva, Hanuman and Vibhishana on its upper terrace. | Pushpaka glides slowly through the clouds | slow tracking
+  VIDEO
+  M: సంబరం – నాదస్వరం, డోలు, శ్రీరామ థీమ్
+  D NARADA: దేవతల నుండి వరం పొంది, యుద్ధంలో పడిన వానరులందరినీ మళ్ళీ బ్రతికించాడు. మిత్రులందరితో కలిసి పుష్పక విమానంలో అయోధ్యకు బయలుదేరాడు.
+SHOT 87 | E6.39 | Rama bowing to the sage Bharadwaja at his hermitage, then Hanuman flying ahead over the forests toward Nandigrama. | Rama bows, then Hanuman leaps into the sky | slow pan left to right
+  D NARADA: సత్యపరాక్రమవంతుడైన రాముడు దారిలో భరద్వాజ మహర్షి ఆశ్రమానికి వెళ్ళాడు. తన రాక చెప్పడానికి హనుమంతుడిని భరతుడి దగ్గరకు ముందుగా పంపాడు.
+SHOT 88–89 | E6.39 | At Nandigrama, Bharata running barefoot toward Rama with the golden sandals held high, the brothers embracing with tears of joy, Sita smiling beside them. | Bharata runs forward and the brothers embrace | slow push-in
+  VIDEO
+  M: శ్రీరామ థీమ్ పూర్తిగా, కోరస్
+  D NARADA: సుగ్రీవుడితో కలిసి జరిగిన సంగతులన్నీ మాట్లాడుకుంటూ, పుష్పకంలో నందిగ్రామం చేరాడు. అక్కడ తమ్ముళ్ళతో కలిసి వనవాసపు జడలు తీసేసి, సీతతో కలిసి మళ్ళీ రాజ్యాన్ని స్వీకరించాడు.
+
+## రామరాజ్యం | శ్లో. 90–97 | Ayodhya in its golden age
+SUNO: Instrumental, peaceful prosperous Indian score, bansuri, mridangam, gentle and happy, golden age, no vocals
+SHOT 90–91 | E6.39 | A prosperous Ayodhya in golden light: smiling families, old fathers walking with their grown sons, healthy children playing in clean streets. | people move about joyfully, flower petals drift down | slow aerial glide
+  M: ఆనందమైన వేణువు, మృదంగం
+  D NARADA: ఇక రాముడి పాలనలో ప్రజలు సంతోషంగా, తృప్తిగా, సమృద్ధిగా, ధర్మంగా ఉంటారు. బాధలు, రోగాలు, కరువు భయం ఉండవు. ఏ తండ్రీ తన కొడుకు మరణం చూడడు. ఏ స్త్రీ భర్తను కోల్పోదు.
+SHOT 92–93 | E6.39 | Green fields full of grain, overflowing granaries and busy, peaceful market streets of Ayodhya, the gates open and unguarded. | farmers carry grain, merchants trade calmly | slow pan left to right
+  D NARADA: అగ్ని ప్రమాదాల భయం ఉండదు. ఏ ప్రాణీ నీళ్ళలో మునిగిపోదు. తుఫానులు, జ్వరాల భయం ఉండదు. ఆకలి ఉండదు, దొంగల భయం ఉండదు. నగరాలు, పల్లెలు ధనధాన్యాలతో నిండుగా ఉంటాయి.
+SHOT 94–96 | E6.39 | Rama and Sita at a grand yajna in Ayodhya, giving cows and gold to learned men, kings from many lands bowing before the throne. | Rama raises his hand in blessing as priests chant | slow pull-back
+  D NARADA: కృతయుగంలోలా అందరూ ఆనందంగా ఉంటారు. రాముడు వందలాది అశ్వమేధ యాగాలు చేస్తాడు. లెక్కలేనన్ని ఆవులు, ఎంతో బంగారం దానం చేస్తాడు. వందలాది రాజవంశాలను నిలుపుతాడు. అందరూ తమ తమ ధర్మం పాటించేలా చూస్తాడు.
+SHOT 97 | E6.39 | Rama on the golden throne of Ayodhya at sunset, the kingdom glowing behind him, a soft divine light rising around him. | the light grows gently around Rama | slow tilt up
+  D NARADA: పదకొండు వేల సంవత్సరాలు రాజ్యం పాలించి, రాముడు తన పరమపదానికి వెళ్తాడు.
+
+## రామాయణ ఫలం | శ్లో. 98–100 | back in Valmiki's hermitage, golden evening light
+SUNO: Instrumental, soft devotional ending, bansuri melody, veena, tanpura, gentle fade out, no vocals
+SHOT 98 | E1.01 | Back in the hermitage: Narada raising his hand in blessing, Valmiki listening with tears of joy and folded hands, the evening sun glowing behind them. | Narada raises his hand slowly, Valmiki bows his head | slow push-in
+  M: శ్రీరామ థీమ్ మెల్లగా
+  D NARADA: ఈ రామచరిత్ర పవిత్రమైనది, పాపాలు పోగొట్టేది, పుణ్యం ఇచ్చేది, వేదాలతో సమానమైనది. దీన్ని చదివినవారు అన్ని పాపాల నుండి విముక్తి పొందుతారు.
+SHOT 99–100 | E1.01 | Close on Narada's kind face as he finishes, then Valmiki bowing at his feet with folded hands. | Narada smiles, Valmiki bows low | slow pull-back
+  D NARADA: ఆయుష్షు పెంచే ఈ రామాయణం చదివినవారు పిల్లలు, మనవలు, బంధువులతో సుఖంగా జీవించి, చివరకు స్వర్గంలో గౌరవం పొందుతారు. చదువుకున్నవారికి మాటల నేర్పు, పాలించేవారికి రాజ్యం, వ్యాపారులకు లాభం, శ్రమించేవారికి గొప్పతనం – ఎవరు చదివినా మేలే జరుగుతుంది.
+SHOT — | E1.01 | Valmiki alone by the clear river at sunset, gazing at a pair of birds flying together over the water, deep in thought. | the two birds glide over the river, Valmiki watches | slow pull-back
+  N: నారద మహర్షి వెళ్ళిపోయారు. కానీ ఆ రోజే తమసా నది ఒడ్డున జరిగిన ఒక సంఘటన... ప్రపంచంలోనే మొదటి శ్లోకానికి పుట్టుక అయింది. అదేంటి? తరువాతి వీడియోలో!
+  M: మెల్లని వేణువు, ఒక్క వీణ స్వరంతో ముగింపు
+  CAP: తరువాత: బాలకాండ సర్గ 2 – క్రౌంచ పక్షులు
+SHOT — | E1.01 | The glowing palm-leaf manuscript of the Ramayana on a carved wooden stand beside a lit brass oil lamp, flower petals around it. | the lamp flame flickers softly | slow push-in
+  N: మీకు నచ్చితే "జై శ్రీరామ్" అని కామెంట్ చేయండి. మీ వాళ్ళకి షేర్ చేయండి.

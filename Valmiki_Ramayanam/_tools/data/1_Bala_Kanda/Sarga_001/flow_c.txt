@@ -20,8 +20,8 @@
 1 | JATAYU, RAVANA | Jatayu attacking Ravana's flying chariot in the sky. | Jatayu dives with wings spread, Ravana raises his sword. | Slow tracking. | Dramatic stormy sky.
 2 | JATAYU | Jatayu fighting fiercely in the air. | He beats his giant wings, feathers flying. | Slow orbit. | Golden-brown glow, clouds.
 3 | RAVANA, SITA_S3 | Ravana carrying Sita away in his flying chariot (she struggles, no violence shown). | The chariot speeds away. | Slow tracking. | Dark sky.
-4 | JATAYU | Jatayu falling wounded to the ground (dignified, no gore). | He crashes down gently, feathers scattering. | Slow tilt down. | Fading light.
-5 | RAMA_S3, JATAYU | Rama running toward the wounded Jatayu. | Rama kneels beside him. | Slow push-in. | Warm sorrowful light.
+4 | JATAYU | Jatayu falling to the ground after his fight with Ravana: his left wing almost cut away by Ravana's sword, hanging torn with many long feathers missing, thin streaks of deep red colour on his feathers in a few places like the marks of Ravana's sword strokes (light, never heavy), ruffled scattered feathers, tired eyes; still noble and dignified; a giant bird far bigger than a man. | He crashes down gently, feathers scattering. | Slow tilt down. | Fading light.
+5 | RAMA_S3, JATAYU | Rama running toward Jatayu lying hurt on the ground after his fight with Ravana: his left wing almost cut away by Ravana's sword, hanging torn with many long feathers missing, thin streaks of deep red colour on his feathers in a few places like the marks of Ravana's sword strokes (light, never heavy), ruffled scattered feathers, tired eyes. Jatayu stays a giant bird here, far bigger than Rama: his body lying on the ground rises above Rama's shoulders, his head alone is as big as Rama's chest and his torn wing stretches out several times Rama's height, so Rama looks small beside him. | Rama kneels beside him. | Slow push-in. | Warm sorrowful light.
 6 | - | Symbolic shot: a single feather falling slowly in the air. | It drifts down to the ground. | Slow tilt down. | Soft golden light.
 7 | RAMA_S3 | Close-up of Rama's tearful face. | A tear falls, motion slows. | Slow push-in. | Soft flash.
 
@@ -29,7 +29,7 @@
 1 | RAMA_S3 | Rama asking trees and birds about Sita. | He looks around desperately. | Slow orbit. | Moody forest light.
 2 | RAMA_S3, LAKSHMANA | Rama in grief, Lakshmana comforting him. | Lakshmana holds his shoulder. | Slow push-in. | Soft sorrowful light.
 3 | RAMA_S3 | Rama crying under a tree. | He covers his face with his hands. | Slow push-in. | Dim blue light.
-4 | RAMA_S3 | Rama performing Jatayu's funeral rites with a small fire. | He places offerings in the fire. | Slow push-in. | Warm fire glow.
+4 | RAMA_S3 | Rama performing Jatayu's funeral rites at a large funeral pyre of logs, big enough for the giant bird, near the Godavari. | He places offerings in the fire. | Slow push-in. | Warm fire glow.
 5 | JATAYU | Jatayu's spirit rising from the fire as light. | A glowing bird of light flies upward. | Slow upward tilt. | Golden spirit glow.
 6 | - | Symbolic shot: a lamp lit in honour beside a feather. | The lamp glows steadily. | Slow push-in. | Warm light.
 7 | KABANDHA | Long monstrous arms appearing from the trees. | They stretch forward, motion slows. | Slow push-in. | Dark green light, soft flash.

@@ -21,6 +21,8 @@ TOOLS = os.path.dirname(os.path.abspath(__file__))
 LONG = os.path.dirname(TOOLS)
 ROOT = os.path.dirname(LONG)
 sys.path.insert(0, TOOLS)
+sys.path.insert(1, os.path.join(ROOT, 'Valmiki_Ramayanam', '_tools'))
+from soften import soft  # noqa: E402  (no blood/wound/death words in prompts, shared with the Shorts)
 from long_style import STYLE, RESPECT, TAIL, VN, SN, KUM, character, names_in, stage_of, STAGES, ep_key, FROM_EP, OBJECTS, RATHA_EPS  # noqa: E402
 
 KAANDAS = {0: ('00_Parichayam', 'పరిచయం'), 1: ('1 - Baala Khaanda', 'బాలకాండ'), 2: ('2 - Ayodhya Khaanda', 'అయోధ్యకాండ'),
@@ -218,6 +220,7 @@ def editor_move(visual, i):
     return MOVES[i % 4]
 
 
+@soft
 def scene_prompt(scene, kind, looks):
     who = ' '.join(f'{x}.' for x in looks)
     loc = f"Setting: {scene['loc']}. " if scene['loc'] else ''
@@ -242,6 +245,7 @@ CAMS = ['a very slow, steady push-in', 'a very slow pan from left to right', 'a 
         'a very slow pan from right to left']
 
 
+@soft
 def video_prompt(scene, kind, looks, i=0):
     """Flow Frames to Video with the still from scene_prompt(..., 'image', ...) as the first frame: action scenes play
     their action (0–2 s settle, 2–6 s action, 6–8 s rest); the others only breathe."""
@@ -264,6 +268,7 @@ def video_prompt(scene, kind, looks, i=0):
             f"{RESPECT} {TAIL}")
 
 
+@soft
 def thumb_prompt(scenes, ep):
     pick = next((s for s in scenes if names_in(s['visual'])), scenes[0])
     looks, refs = scene_cast(pick, ep)
@@ -697,6 +702,7 @@ def plan_file(plans, name):
 
 # ---------- references and helper pages ----------
 
+@soft
 def reference_file(refs):
     out = ['# పాత్రల రిఫరెన్స్ ఇమేజ్‌లు – లాంగ్ వీడియోలు (ఫోటోరియలిస్టిక్)\n',
            'లాంగ్ వీడియోలు ఫోటోరియలిస్టిక్ కాబట్టి Shorts రిఫరెన్స్‌లకు వేరు. ప్రతి పాత్రకు (వయసు దశతో సహా) ఒక్కసారి చేయండి.\n',

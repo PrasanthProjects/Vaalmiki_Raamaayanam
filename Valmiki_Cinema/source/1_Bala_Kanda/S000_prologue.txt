@@ -1,0 +1,173 @@
+#! Prologue: Bala Kanda Sargas 1-4 (Narada's question, the first śloka, Brahma's blessing, Kusha and Lava sing before Rama).
+#! Every line below was checked against the ślokas in Valmiki_Ramayanam/_tools/data/1_Bala_Kanda/Sarga_001..004.
+TITLE: రామాయణం ఎలా పుట్టింది? – ప్రారంభం | బాలకాండ సర్గలు 1–4
+COVERS: బాలకాండ సర్గ 1 (శ్లో. 1–8, 17–18, 21–98 సంక్షిప్తంగా), సర్గ 2 (1–43), సర్గ 3 (1–9), సర్గ 4 (1–36)
+NEXT: బాలకాండ సర్గ 5 – అయోధ్యా నగరం
+SONGNOTE: 🎶 ఈ వీడియోలో రెండు పాటలు, రెండూ వాల్మీకి శ్లోకాలే: (1) "మా నిషాద" – వాల్మీకి మహర్షి గొంతులో, బాధతో, నెమ్మదిగా, తంబూర మీద (రాగం: శివరంజని భావం). (2) "తపః స్వాధ్యాయనిరతం" – కుశలవులు ఇద్దరూ కలిసి, వీణ, మృదంగంతో, తియ్యగా (రాగం: మోహనం భావం). Suno లో "Indian classical devotional, two young boys singing a Sanskrit verse in unison, veena and mridangam, slow, clear Telugu-style Sanskrit pronunciation" అని పెట్టి, సాహిత్యంగా శ్లోకం మాత్రమే ఇవ్వండి. ఏ సినిమా పాట ట్యూన్ కూడా వాడవద్దు.
+
+## ఆరంభం | — | a quiet hermitage of leaf huts in a deep green forest beside the clear Tamasa river, at dawn
+SHOT — | E1.01 | A wide aerial view of a deep green forest at dawn, a clear river winding through it, a few leaf huts of a hermitage by the water, thin smoke rising from a sacred fire, flocks of birds crossing the golden rising sun. | the camera glides forward over the treetops while mist drifts and birds fly across the sun | slow aerial glide forward
+  M: తంబూర శ్రుతి మెల్లగా మొదలు, తరువాత వేణువు – ప్రశాంతమైన "శ్రీరామ థీమ్" (నాలుగు స్వరాల చిన్న మెలడీ, సిరీస్ అంతా ఇదే)
+  FX: పక్షుల కిలకిల, నది నీటి సవ్వడి
+  CAP: శ్రీమద్వాల్మీకి రామాయణం
+  SEC: 8
+SHOT 1.1 | E1.01 | Valmiki sitting in meditation on a deerskin under a great banyan tree outside his leaf hut, eyes closed, morning light on his white beard. | his breath slows, leaves stir, light grows on his face | very slow push-in
+  N: ఒకప్పుడు, తమసా నది దగ్గర అడవిలో ఒక ఆశ్రమం. అక్కడ తపస్సు చేసుకుంటూ ఉండేవారు వాల్మీకి మహర్షి.
+  M: శ్రీరామ థీమ్ వేణువు మీద మెల్లగా
+
+## నారద మహర్షి రాక, ఒక ప్రశ్న | సర్గ 1 · శ్లో. 1–8, 17–18 | the same hermitage under the great banyan tree, bright morning
+SHOT 1.1 | E1.01 | Narada descending gently from a bright sky into the hermitage clearing, his veena in his hands, a soft golden glow around him, Valmiki rising to greet him with joined palms. | Narada descends slowly and lands softly while his robes flutter | slow tilt down
+  M: వీణ తంత్రులు మెల్లగా మీటిన శబ్దం, దివ్యమైన స్వరం
+  N: ఒకరోజు ఆ ఆశ్రమానికి నారద మహర్షి వచ్చారు. ఎప్పుడూ తపస్సులో, వేదాలలో మునిగి ఉండేవారు, మాటల్లో అందరికంటే నేర్పరి. ఆయనను వాల్మీకి మహర్షి ఒక ప్రశ్న అడిగారు.
+SHOT 1.2–1.4 | E1.01 | Valmiki and Narada sitting face to face on mats under the banyan tree, Valmiki leaning forward eagerly with joined palms, Narada listening with a gentle smile, his veena resting on his shoulder. | Valmiki speaks with feeling, Narada nods slowly | slow push-in
+  D VALMIKI: స్వామీ! ఈ కాలంలో, ఈ లోకంలో అన్ని మంచి గుణాలూ ఉన్నవాడు ఎవరు? గొప్ప వీరుడు, ధర్మం తెలిసినవాడు, చేసిన మేలు మరచిపోనివాడు, ఎప్పుడూ నిజమే చెప్పేవాడు ఎవరు?
+  D VALMIKI: కోపాన్ని గెలిచినవాడు, ఎవరి మీదా అసూయ లేనివాడు... కానీ యుద్ధంలో అతనికి కోపం వస్తే దేవతలే భయపడతారు. అలాంటివాడు ఎవరు?
+SHOT 1.5 | E1.01 | Close on Valmiki's face, eyes shining with longing and hope. | his eyes look up to Narada, a slow breath | very slow push-in
+  D VALMIKI: ఇన్ని గుణాలు ఒక్క మనిషిలో ఉండడం సాధ్యమేనా? మూడు లోకాలూ తిరిగే మీకే తెలుస్తుంది. చెప్పండి, వినాలని ఉంది.
+SHOT 1.6–1.8 | E1.01 | Narada smiling warmly, one hand raised as he begins to speak, the morning sun behind him like a halo. | Narada's smile widens, he lifts his hand | slow push-in
+  D NARADA: మునీ! మీరు చెప్పిన గుణాలన్నీ ఒక్కరిలో ఉండడం చాలా అరుదు. అయినా అలాంటి మహాపురుషుడు ఒకరు ఉన్నారు. ఇక్ష్వాకు వంశంలో పుట్టిన ఆయన పేరు... రాముడు.
+  M: "రాముడు" అన్న మాట దగ్గర శ్రీరామ థీమ్ పూర్తిగా – వీణ, వేణువు, తంత్రి వాద్యాలు, మెల్లని కోరస్ హమ్మింగ్
+SHOT 1.17–1.18 | E1.23 | A glowing vision in the clouds above the hermitage: Rama standing calm and radiant with his bow, the vast ocean on one side and the snowy Himalaya on the other. | the vision brightens slowly out of the clouds while light rays spread | slow tilt up
+  D NARADA: సముద్రం అంత లోతైనవాడు, హిమాలయం అంత ధైర్యం ఉన్నవాడు. ఓర్పులో భూమి లాంటివాడు... కానీ కోపం వస్తే ప్రళయాగ్ని లాంటివాడు.
+  M: థీమ్ పెరుగుతుంది, పెద్ద డ్రమ్ ఒక్క దెబ్బ
+
+## నారద మహర్షి చెప్పిన రామకథ | సర్గ 1 · శ్లో. 21–98 (సంక్షిప్తంగా) | the real place of each moment of Rama's story, exactly as the scene describes it
+SHOT 1.21–1.28 | E2.18 | Rama in simple bark cloth walking out through the great gate of Ayodhya with Sita and Lakshmana, crowds of weeping citizens behind them, golden evening light. | they walk slowly away from the gate while the crowd reaches out | slow pull-back
+  D NARADA: తండ్రి ఇచ్చిన మాట నిలబెట్టడం కోసం రాజ్యాన్ని వదిలి అడవికి వెళ్ళాడు. సీత, లక్ష్మణుడు ఆయన వెంటే నడిచారు.
+  M: విచారమైన షెహనాయ్
+SHOT 1.37–1.39 | E2.30 | Bharata walking barefoot in bark cloth, carrying Rama's golden sandals on his head with deep devotion, the forest of Chitrakuta behind him. | Bharata walks slowly forward holding the sandals on his head | slow tracking
+  D NARADA: తమ్ముడు భరతుడు వచ్చి వేడుకున్నా, రాముడు తన పాదుకలు ఇచ్చి పంపాడు.
+SHOT 1.46–1.49 | E3.10 | Rama alone in the Dandaka forest drawing his great bow, golden arrows streaking through the trees toward a charging rakshasa army in the dust. | Rama looses arrow after arrow while the army charges through the dust | dynamic slow orbit
+  VIDEO
+  M: యుద్ధ సంగీతం – తవిల్, పెద్ద డ్రమ్ములు, వేగంగా (మాటలు లేవు)
+  FX: బాణాల ఝుంకారం, గాలి వేగం
+  CAP: జనస్థానంలో 14,000 రాక్షసులతో యుద్ధం
+  SEC: 6
+SHOT 1.52–1.53 | E3.16 | A shining golden deer leaping through a green forest glade near a hermitage, while far away in the sky a giant golden-brown bird flies against a golden chariot. | the golden deer leaps away into the trees | slow tracking
+  VIDEO
+  M: మాయగా, రహస్యంగా వీణ, తరువాత ఉద్రిక్తమైన తంత్రులు
+  CAP: మాయలేడి · సీతాపహరణం · జటాయువు
+  SEC: 6
+SHOT 1.58–1.66 | E4.02 | Hanuman bowing with joined palms before Rama and Lakshmana beside the blue lotus lake of Pampa, Sugriva standing behind on a rocky hill. | Hanuman bows slowly, Rama smiles | slow push-in
+  D NARADA: సీతను వెతుకుతూ వెళ్ళిన రాముడికి హనుమంతుడు, సుగ్రీవుడు స్నేహితులయ్యారు.
+SHOT 1.72 | E5.01 | Hanuman leaping high over the endless ocean, his body stretched like a flying arrow, clouds parting around him, the sun blazing. | Hanuman soars across the sky over the ocean | slow side tracking
+  VIDEO
+  M: పెద్ద వీర సంగీతం – కొమ్ము బూరలు, డ్రమ్ములు, కోరస్ "ఆ..."
+  FX: గాలి హోరు
+  SEC: 5
+SHOT 1.73–1.74 | E5.10 | Hanuman kneeling with joined palms before Sita in the Ashoka garden, holding out Rama's ring on his palm, Sita's tearful eyes filling with hope. | Sita reaches slowly toward the ring | very slow push-in
+  D NARADA: సముద్రం దాటి లంకలో సీతను చూసి, రాముడి ఉంగరం ఇచ్చాడు హనుమంతుడు.
+  M: మెల్లని వయొలిన్, సీతమ్మ థీమ్
+SHOT 1.77 | E5.20 | The golden city of Lanka glowing with flames at night, seen from a hilltop, Hanuman a small silhouette leaping from roof to roof. | flames rise and Hanuman leaps across the rooftops | slow pull-back
+  VIDEO
+  M: డ్రమ్ములు వేగం, ఒక్కసారిగా ఆగిపోతాయి
+  FX: మంటల చప్పుడు
+  SEC: 5
+SHOT 1.80–1.81 | E6.05 | A great bridge of rocks across the blue ocean, an army of vanaras crossing it, Rama standing at its head with his bow. | the army moves forward across the bridge | slow aerial glide
+  VIDEO
+  D NARADA: సముద్రం మీద వారధి కట్టి, లంకలో రావణుడిని యుద్ధంలో సంహరించి, సీతను తిరిగి పొందాడు.
+  M: యుద్ధ సంగీతం పెరిగి, విజయ సంగీతంగా మారుతుంది
+SHOT 1.86–1.89 | E6.39 | The golden flying palace Pushpaka gliding through sunrise clouds toward Ayodhya, Rama, Sita and Lakshmana visible on its upper terrace. | Pushpaka glides slowly through the clouds | slow tracking
+  VIDEO
+  D NARADA: పుష్పకంలో అయోధ్యకు తిరిగి వచ్చి, తమ్ముళ్ళతో కలిసి మళ్ళీ రాజ్యాన్ని స్వీకరించాడు.
+  M: సంబరం – నాదస్వరం, డోలు
+SHOT 1.90–1.97 | E6.39 | A prosperous Ayodhya in golden light: full granaries, smiling families, children playing, cows grazing, Rama on his throne with Sita beside him blessing the people. | people move about joyfully, flower petals drift down | slow pan left to right
+  D NARADA: ఆయన రాజ్యంలో ఆకలి ఉండదు, దొంగల భయం ఉండదు, రోగాలు ఉండవు. అందరూ ఆనందంగా, ధర్మంగా ఉంటారు.
+SHOT 1.98 | E1.01 | Back in the hermitage: Narada finishing his words with a blessing hand raised, Valmiki listening with tears of joy. | Narada lowers his hand, Valmiki bows his head | slow push-in
+  D NARADA: ఈ పవిత్రమైన రామకథను చదివినవారి పాపాలు పోతాయి, వారికి మేలే జరుగుతుంది.
+  M: శ్రీరామ థీమ్ మెల్లగా ముగుస్తుంది
+
+## తమసా నది ఒడ్డున | సర్గ 2 · శ్లో. 1–13 | the clear Tamasa river with a clean sandy bathing place, near the Ganga, deep forest all around
+SHOT 2.1–2.2 | E1.01 | Valmiki and his disciples bowing with joined palms as Narada rises into the sky, the veena glowing. | Narada rises slowly into the clouds | slow tilt up
+  N: వాల్మీకి మహర్షి, శిష్యులతో కలిసి నారద మహర్షిని భక్తితో పూజించారు. ఆయన అనుమతి తీసుకుని నారద మహర్షి ఆకాశ మార్గంలో వెళ్ళిపోయారు.
+SHOT 2.3–2.6 | E1.01 | Valmiki standing at a clean sandy bathing place on the clear Tamasa river, a young disciple in simple ochre cloth beside him holding a water pot and folded bark cloth. | Valmiki points to the clear water and smiles | slow pan left to right
+  D VALMIKI: భరద్వాజా! చూడు, ఈ నీళ్ళు మంచి మనిషి మనసులా ఎంత తేటగా ఉన్నాయో! కలశం ఇక్కడ పెట్టు, నా నారబట్ట ఇవ్వు. ఇక్కడే స్నానం చేస్తాను.
+  FX: నది సవ్వడి, పక్షులు
+SHOT 2.8–2.9 | E1.01 | A pair of graceful krauncha birds (sarus cranes with red heads) dancing together on a branch by the river, calling sweetly to each other, Valmiki watching from the bank with a gentle smile. | the two birds dance and call to each other, wings fluttering | slow push-in
+  VIDEO
+  M: మెల్లని, ప్రేమగా వేణువు
+  FX: క్రౌంచ పక్షుల మధురమైన కూత
+  SEC: 7
+SHOT 2.10 | E1.01 | A hunter half-hidden behind bushes drawing his bow, aiming toward the two birds on the branch. | the bowstring tightens, his eye narrows | very slow push-in
+  M: సంగీతం ఒక్కసారిగా ఆగిపోతుంది – నిశ్శబ్దం
+  FX: విల్లు తాడు లాగిన శబ్దం... బాణం దూసుకెళ్ళిన శబ్దం
+  SEC: 4
+SHOT 2.11–2.12 | E1.01 | The male krauncha bird fallen on the riverbank among scattered feathers, the female bird circling above it, crying with spread wings. | the female bird circles and cries over her fallen mate | slow tilt down
+  VIDEO
+  M: ఒంటరి వయొలిన్, చాలా విచారంగా
+  FX: ఆడ పక్షి దీనమైన ఏడుపు
+  N: జంటలో మగ పక్షి నేలకొరిగింది. తన తోడును చూసి ఆడ పక్షి దీనంగా ఏడుస్తోంది.
+SHOT 2.13–2.14 | E1.01 | Close on Valmiki's face, tears in his eyes, deep pity and pain, the river glinting behind him. | a tear rolls down, his lips begin to move | very slow push-in
+  N: అది చూసిన వాల్మీకి మహర్షి హృదయం జాలితో కరిగిపోయింది. "ఇది అధర్మం" అనిపించింది. ఆ బాధలోనే ఆయన నోటి నుండి ఒక మాట వచ్చింది...
+
+## మొదటి శ్లోకం | సర్గ 2 · శ్లో. 15–19 | the same riverbank, the light turning soft and golden
+SHOT 2.15 | E1.01 | Valmiki standing by the river with one hand raised, speaking in sorrow, a soft divine light gathering around him, the female bird on the branch behind. | divine light glows around him as he speaks | very slow push-in
+  SONG VALMIKI: మా నిషాద ప్రతిష్ఠాం త్వమగమః శాశ్వతీః సమాః । యత్ క్రౌంచమిథునాదేకమవధీః కామమోహితమ్ ॥
+  M: తంబూర మాత్రమే, తరువాత మెల్లని వీణ
+  CAP: ప్రపంచంలో మొదటి శ్లోకం
+SHOT 2.15 | E1.01 | The female bird on the empty branch at golden hour, the river flowing quietly below. | her feathers stir in the breeze, the water glints | slow push-in
+  N: "ఓ బోయవాడా! ప్రేమగా ఉన్న ఈ జంటలో ఒకదాన్ని నువ్వు కొట్టావు. అందుకే నువ్వు ఎక్కువ కాలం సుఖంగా ఉండలేవు." – ఇదే ఆ మాటకు అర్థం.
+SHOT 2.16–2.18 | E1.01 | Valmiki looking at his own hands in wonder, the young disciple beside him listening closely. | Valmiki turns to his disciple slowly | slow pan right to left
+  D VALMIKI: బాధలో నా నోటి నుండి వచ్చిన ఈ మాట చూడు... నాలుగు పాదాలు, ప్రతి పాదంలో సమానమైన అక్షరాలు, వీణ మీద పాడుకునేలా ఉంది. శోకం నుండి పుట్టింది కాబట్టి దీని పేరు "శ్లోకం".
+SHOT 2.19–2.21 | E1.01 | Valmiki walking back along the forest path after his bath, the young disciple following with a full water pot, softly repeating the verse with joy. | they walk slowly along the path, the disciple smiling | slow tracking
+  N: శిష్యుడు ఆ శ్లోకాన్ని సంతోషంగా నేర్చుకున్నాడు. స్నానం చేసి, అదే ఆలోచిస్తూ వాల్మీకి మహర్షి ఆశ్రమానికి తిరిగి వచ్చారు.
+
+## బ్రహ్మదేవుడి వరం | సర్గ 2 · శ్లో. 22–43 | inside the hermitage clearing, late afternoon
+SHOT 2.23–2.24 | E1.01 | Brahma appearing in the hermitage on a glowing lotus in a burst of golden light, Valmiki rising in astonishment with joined palms, unable to speak. | golden light blooms and Brahma appears on the lotus, Valmiki rises | slow push-in
+  VIDEO
+  M: దివ్యమైన కోరస్ "ఓం", శంఖనాదం
+  N: అప్పుడు లోకాలన్నీ సృష్టించిన బ్రహ్మదేవుడే స్వయంగా ఆశ్రమానికి వచ్చారు. వాల్మీకి మహర్షికి మాట రాలేదు. చేతులు జోడించి అలాగే నిలబడిపోయారు.
+SHOT 2.25–2.29 | E1.01 | Brahma seated on a seat of honour, Valmiki seated before him, still lost in thought about the birds, softly singing the verse again. | Valmiki sings softly with his eyes half closed | very slow push-in
+  N: పూజలు చేసి ఎదురుగా కూర్చున్నా, వాల్మీకి మహర్షి మనసు ఆ పక్షుల దగ్గరే ఉంది. బ్రహ్మదేవుడి ఎదుటే ఆ శ్లోకాన్ని మళ్ళీ పాడారు.
+SHOT 2.30–2.35 | E1.01 | Brahma smiling gently, one of his four hands raised in blessing over Valmiki. | Brahma raises his hand in blessing, soft light spreads | slow push-in
+  D BRAHMA: నువ్వు పలికింది శ్లోకమే, సందేహం వద్దు. నా సంకల్పం వల్లే ఈ మాట నీ నోటి నుండి వచ్చింది. నారదుడి నుండి విన్నట్టే రాముడి కథ పూర్తిగా రచించు.
+  D BRAHMA: అందరికీ తెలిసినదీ, ఎవరికీ తెలియనిదీ – అంతా నీకు కనిపిస్తుంది. నువ్వు రాసే ఒక్క మాట కూడా అబద్ధం కాదు.
+SHOT 2.36–2.38 | E1.01 | Brahma fading into golden light, the mountains and rivers of the world glowing faintly behind him, Valmiki and his disciples staring in wonder. | Brahma slowly fades into light | slow pull-back
+  VIDEO
+  D BRAHMA: భూమి మీద పర్వతాలు, నదులు ఉన్నంత కాలం రామాయణం లోకంలో నిలిచి ఉంటుంది.
+  M: శంఖం, కోరస్ మెల్లగా ముగుస్తుంది
+SHOT 2.39–2.42 | E1.01 | Valmiki's disciples sitting in a circle joyfully chanting the verse together, Valmiki in the centre with a palm-leaf bundle and a stylus. | the disciples chant, Valmiki lifts his stylus | slow orbit
+  N: శిష్యులంతా ఆ శ్లోకాన్ని మళ్ళీ మళ్ళీ పాడుకున్నారు. ఇలాంటి శ్లోకాలతోనే పూర్తి రామాయణం రచిస్తాను అని వాల్మీకి మహర్షి సంకల్పించారు.
+
+## దివ్యదృష్టి | సర్గ 3 · శ్లో. 1–9; సర్గ 4 · శ్లో. 1–2 | the hermitage at night, a single oil lamp, darbha grass spread facing east
+SHOT 3.2 | E1.01 | Valmiki seated on darbha grass laid with the tips pointing east, palms joined, eyes closed, a single oil lamp glowing beside him at night. | the lamp flame flickers, his breath slows into deep meditation | very slow push-in
+  N: వాల్మీకి మహర్షి దర్భల మీద తూర్పు వైపు కూర్చుని, చేతులు జోడించి, తపశ్శక్తితో రామకథను వెతికారు.
+  M: లోతైన తంబూర, మెల్లని గంటల శబ్దం
+SHOT 3.3–3.6 | E2.05 | Glowing visions floating in the dark around the meditating Valmiki like light on water: Rama, Sita and Lakshmana laughing and walking together in a sunlit forest. | the visions shimmer and move gently like reflections | slow orbit
+  VIDEO
+  N: శ్రీరాములవారు, సీతమ్మవారు, లక్ష్మణుడు నవ్విన నవ్వులు, మాట్లాడిన మాటలు, నడిచిన నడకలు – జరిగినదంతా అరచేతిలో ఉసిరికాయ చూసినంత స్పష్టంగా ఆయనకు కనిపించింది.
+SHOT 3.7–4.2 | E1.01 | Valmiki writing on palm leaves with a stylus by lamplight, stacks of finished palm-leaf bundles tied with thread piled around him. | his stylus moves steadily, a leaf is set onto the pile | slow pan left to right
+  N: ఇరవై నాలుగు వేల శ్లోకాలు, ఐదు వందల సర్గలు, ఆరు కాండలు, ఆ తరువాత ఉత్తరకాండ – అలా రామాయణ కావ్యం పుట్టింది.
+  M: శ్రీరామ థీమ్ వీణ మీద
+
+## కుశలవులు | సర్గ 4 · శ్లో. 3–28 | the hermitage at morning, then a gathering of sages in a forest clearing
+SHOT 4.3–4.5 | E1.01 | Valmiki seated in thought, as two young ascetic princes in their early teens, twins with dark wavy hair tied in small knots, in simple ochre cloth, bow down at his feet together. | the two boys bow, Valmiki looks up and smiles | slow push-in
+  N: "ఈ కావ్యాన్ని లోకానికి ఎవరు వినిపిస్తారు?" అని ఆలోచిస్తుండగా, ఆశ్రమంలో ఉండే కుశుడు, లవుడు వచ్చి ఆయన పాదాలకు నమస్కరించారు.
+SHOT 4.6–4.12 | E1.01 | The two young princes sitting before Valmiki with a veena, learning the verses, Valmiki guiding them with a raised hand. | the boys sing and pluck the veena, Valmiki keeps time | slow orbit
+  N: తియ్యని గొంతు ఉన్న ఆ అన్నదమ్ములకు వాల్మీకి మహర్షి రామాయణాన్ని నేర్పించారు. వాళ్ళు అంతా నోటికి వచ్చేలా నేర్చుకున్నారు.
+  M: వీణ సాధన స్వరాలు
+SHOT 4.14–4.16 | E1.01 | A gathering of old sages seated in a forest clearing, the two young princes singing in the centre with a veena, the sages wiping tears of joy. | the sages listen, wipe tears and nod | slow pan left to right
+  N: మునుల సభలో వాళ్ళు పాడితే, విన్న మునులందరి కళ్ళూ కన్నీళ్ళతో నిండిపోయాయి.
+  D SAGES: సాధు! సాధు! ఎప్పుడో జరిగిన కథ అయినా, కళ్ళ ముందే జరుగుతున్నట్టు ఉంది!
+SHOT 4.20–4.25 | E1.01 | The joyful sages giving simple gifts to the two young princes: a water pot, bark cloth, a deerskin, a sacred thread, blessing them with raised hands. | the sages hand over gifts and raise their hands in blessing | slow push-in
+  N: సంతోషంతో మునులు కలశం, నారబట్ట, జింక చర్మం లాంటి కానుకలు ఇచ్చి, "దీర్ఘాయుష్మాన్ భవ" అని దీవించారు.
+  M: ఆనందమైన మృదంగం, వీణ
+
+## శ్రీరాములవారి సభలో | సర్గ 4 · శ్లో. 29–36 | the royal street of Ayodhya, then Rama's golden court
+SHOT 4.29 | E6.39 | The two young princes singing with a veena on a royal street of Ayodhya, people gathered around them, Rama passing along the street with his attendants and pausing to listen. | the crowd gathers, Rama turns his head to listen | slow push-in
+  N: ఒకరోజు అయోధ్య వీధుల్లో పాడుతున్న ఆ ఇద్దరినీ శ్రీరాములవారు చూశారు. ఎంతో గౌరవంగా తన భవనానికి పిలిపించారు.
+SHOT 4.30–4.32 | E6.39 | Rama seated on a golden throne in a grand court, Lakshmana, Bharata and Shatrughna and the ministers seated near him, the two young princes standing humbly before the throne with their veena. | Rama raises his hand gently toward the boys | slow pull-back
+  D RAMA: దేవతల తేజస్సు ఉన్న ఈ ఇద్దరూ చెప్పే కథ వినండి. ఈ చరిత్ర నాకు కూడా మేలు చేస్తుందని అంటారు.
+  M: రాజసభ సంగీతం – మెల్లని నాదస్వరం
+SHOT 4.33–4.36 | E6.39 | The two young princes singing with eyes closed and a veena, sunlight falling on them, Rama on his throne slowly lost in the story, his eyes moist. | the boys sing, Rama closes his eyes and listens | very slow push-in
+  VIDEO
+  SONG KUSHALAVA: తపః స్వాధ్యాయనిరతం తపస్వీ వాగ్విదాం వరమ్ । నారదం పరిపప్రచ్ఛ వాల్మీకిర్మునిపుంగవమ్ ॥
+  M: వీణ, మృదంగం, మెల్లని తంబూర
+  CAP: శ్రీమద్రామాయణం – మొదటి శ్లోకం
+SHOT — | E6.39 | The palace court fading into golden light, the two boys' song rising up into the sky over Ayodhya at sunset. | the light rises and the city glows | slow tilt up
+  N: అలా కుశలవుల గొంతులో రామాయణం మొదలైంది... ఇక ఆ కథ వినండి.
+  M: శ్రీరామ థీమ్ పూర్తిగా – ముగింపు
+  CAP: తరువాత: బాలకాండ సర్గ 5 – అయోధ్యా నగరం
+  SEC: 7
+SHOT — | E6.39 | The glowing palm-leaf manuscript of the Ramayana on a carved wooden stand beside a lit brass oil lamp, flower petals around it. | the lamp flame flickers softly | slow push-in
+  N: మీకు నచ్చితే "జై శ్రీరామ్" అని కామెంట్ చేయండి. ఛానల్‌ను సబ్‌స్క్రైబ్ చేయండి.

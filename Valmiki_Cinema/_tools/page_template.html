@@ -1,0 +1,360 @@
+<title>__TITLE__</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ramabhadra&family=Noto+Sans+Telugu:wght@400;600;700&family=IBM+Plex+Mono:wght@400;600&display=swap">
+<style>
+/* Same workbench layout as the Shorts clips pages: scene rail on the left (desktop), one scene's work on the right; phones get a picker bar. */
+:root {
+  --bg: #F3F2F8; --surface: #FFFFFF; --sunk: #EAE8F3; --ink: #1D1A33; --muted: #5C5878; --line: #D9D6E7;
+  --saffron: #C2520F; --saffron-soft: #FBE7D8; --neela: #2D3C92; --neela-soft: #E3E7FA; --done: #2F7D4F; --done-soft: #DDF1E4;
+  --music: #6A3D9A; --music-soft: #F0E8FA; --voice: #1F6B5C; --voice-soft: #E0F2EE;
+  --display: "Ramabhadra", "Noto Sans Telugu", "Nirmala UI", sans-serif;
+  --body: "Noto Sans Telugu", "Nirmala UI", "Gautami", system-ui, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "Cascadia Mono", Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #121120; --surface: #1B1A2C; --sunk: #232238; --ink: #ECEAF7; --muted: #A6A2C4; --line: #2F2D48;
+  --saffron: #F28B44; --saffron-soft: #3A2416; --neela: #9AA9F5; --neela-soft: #222A52; --done: #6CC891; --done-soft: #17331F;
+  --music: #C9A6F0; --music-soft: #2B2140; --voice: #7FD1BE; --voice-soft: #15302A; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #121120; --surface: #1B1A2C; --sunk: #232238; --ink: #ECEAF7; --muted: #A6A2C4; --line: #2F2D48;
+  --saffron: #F28B44; --saffron-soft: #3A2416; --neela: #9AA9F5; --neela-soft: #222A52; --done: #6CC891; --done-soft: #17331F;
+  --music: #C9A6F0; --music-soft: #2B2140; --voice: #7FD1BE; --voice-soft: #15302A; color-scheme: dark }
+*, *::before, *::after { box-sizing: border-box; }
+html, body { overflow-x: hidden; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.6 var(--body); }
+button, select, input { font: inherit; color: inherit; }
+button { cursor: pointer; }
+:focus-visible { outline: 2px solid var(--saffron); outline-offset: 2px; }
+.mono { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+.app { display: grid; grid-template-columns: 300px minmax(0, 1fr); min-height: 100vh; }
+.rail { border-right: 1px solid var(--line); background: var(--surface); position: sticky; top: 0; height: 100vh; overflow-y: auto; padding: 20px 16px; }
+.brand { font-family: var(--display); font-size: 21px; line-height: 1.3; margin: 0; text-wrap: balance; }
+.brand small { display: block; font-family: var(--body); font-size: 13px; color: var(--muted); margin-top: 4px; }
+.total { margin: 14px 0; display: grid; gap: 6px; font-size: 13px; color: var(--muted); }
+.bar { height: 6px; border-radius: 3px; background: var(--sunk); overflow: hidden; }
+.bar > i { display: block; height: 100%; background: var(--done); width: 0; transition: width .3s; }
+.list { list-style: none; margin: 10px 0 0; padding: 0; display: grid; gap: 2px; }
+.list button { width: 100%; text-align: left; display: grid; grid-template-columns: 30px minmax(0, 1fr) auto; gap: 8px; align-items: center; padding: 7px 8px; border: 0; border-radius: 8px; background: none; }
+.list button:hover { background: var(--sunk); }
+.list button[aria-current="true"] { background: var(--neela-soft); }
+.list .num { font-family: var(--mono); font-size: 12px; color: var(--muted); }
+.list .hl { font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.list .sep { font-size: 11px; letter-spacing: .06em; color: var(--muted); padding: 10px 8px 2px; }
+.dots { display: flex; gap: 2px; }
+.dots i { width: 5px; height: 12px; border-radius: 2px; background: var(--line); }
+.dots i.on { background: var(--done); }
+.vmode { margin-top: 16px; border-top: 1px solid var(--line); padding-top: 12px; }
+.vmode .eyebrow { margin-bottom: 6px; }
+.vmode label { display: flex; gap: 8px; align-items: flex-start; padding: 6px 8px; border-radius: 8px; font-size: 14px; cursor: pointer; }
+.vmode label.on { background: var(--voice-soft); }
+.vmode input { margin-top: 5px; }
+main { min-width: 0; padding: 0 max(16px, env(safe-area-inset-right, 0px)) 60px max(16px, env(safe-area-inset-left, 0px)); }
+.wrap { max-width: 860px; margin: 0 auto; }
+.top { position: sticky; top: 0; z-index: 5; background: var(--bg); padding: 14px 0 10px; border-bottom: 1px solid var(--line); }
+.picker { display: none; gap: 8px; align-items: center; margin-bottom: 10px; }
+.picker select { flex: 1; min-width: 0; padding: 8px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); }
+.navbtn { border: 1px solid var(--line); background: var(--surface); border-radius: 8px; padding: 7px 12px; }
+.eyebrow { font-size: 12px; letter-spacing: .06em; color: var(--muted); }
+h1 { font-family: var(--display); font-weight: 400; font-size: clamp(22px, 4vw, 30px); line-height: 1.3; margin: 2px 0 8px; text-wrap: balance; }
+.tabs { display: flex; gap: 6px; flex-wrap: wrap; }
+.tab { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 5px 14px; font-size: 14px; }
+.tab[aria-selected="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+#panel { padding-top: 16px; display: grid; gap: 12px; }
+#panel > * { min-width: 0; }
+.note { color: var(--muted); font-size: 14px; margin: 0; }
+.cards { display: grid; gap: 12px; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px; min-width: 0; }
+.card.done { background: var(--done-soft); border-color: var(--done); }
+.card.music { background: var(--music-soft); border-color: transparent; }
+.card.voice { background: var(--voice-soft); border-color: transparent; }
+.head { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 8px; }
+.head .no { font-weight: 700; }
+.head .time { font-family: var(--mono); font-size: 13px; color: var(--muted); }
+.head .label { font-size: 13px; color: var(--muted); }
+.kind { font-size: 12px; border-radius: 999px; padding: 1px 10px; background: var(--sunk); color: var(--muted); }
+.kind.video { background: var(--neela-soft); color: var(--neela); }
+.check { margin-left: auto; display: flex; gap: 6px; align-items: center; font-size: 13px; }
+.say { margin: 6px 0; padding-left: 10px; border-left: 3px solid var(--voice); }
+.say .who { font-size: 13px; font-weight: 700; color: var(--voice); }
+.say.song { border-color: var(--music); }
+.say.song .who { color: var(--music); }
+dl.row { display: grid; grid-template-columns: 90px minmax(0, 1fr); gap: 4px 10px; margin: 8px 0 0; font-size: 14px; }
+dl.row dt { color: var(--muted); font-size: 13px; }
+dl.row dd { margin: 0; overflow-wrap: anywhere; }
+.ref { display: inline-block; font-family: var(--mono); font-size: 12px; background: var(--sunk); border-radius: 6px; padding: 1px 6px; margin: 0 4px 4px 0; }
+.label2 { font-size: 13px; font-weight: 700; margin: 10px 0 4px; }
+.prompt { background: var(--sunk); border-radius: 10px; padding: 10px; }
+.prompt pre { margin: 0; white-space: pre-wrap; word-break: break-word; font-family: var(--mono); font-size: 12px; line-height: 1.5; max-height: 4.6em; overflow: hidden; }
+.prompt.open pre { max-height: none; }
+.actions { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; }
+.copy { border: 1px solid var(--saffron); background: var(--saffron-soft); color: var(--saffron); border-radius: 8px; padding: 6px 14px; font-weight: 600; font-size: 14px; }
+.copy.ok { border-color: var(--done); background: var(--done-soft); color: var(--done); }
+.more { border: 1px solid var(--line); background: var(--surface); border-radius: 8px; padding: 6px 12px; font-size: 13px; }
+.btnrow { display: flex; flex-wrap: wrap; gap: 6px; }
+.prompter { font-size: 21px; line-height: 1.85; }
+.prompter .sn { display: block; font-size: 12px; color: var(--muted); margin-top: 14px; font-family: var(--mono); }
+.prompter .hint2 { display: block; font-size: 13px; font-weight: 700; color: var(--voice); }
+.prompter .song { color: var(--music); }
+.prompter h2 { font-family: var(--display); font-weight: 400; font-size: 22px; color: var(--saffron); margin: 24px 0 4px; }
+ol.steps { margin: 0; padding-left: 22px; display: grid; gap: 8px; }
+ol.steps b { display: block; }
+.toast { position: fixed; left: 50%; bottom: 20px; transform: translateX(-50%); background: var(--ink); color: var(--bg); padding: 8px 16px; border-radius: 999px; font-size: 14px; opacity: 0; transition: opacity .2s; pointer-events: none; z-index: 20; }
+.toast.show { opacity: 1; }
+@media (max-width: 860px) {
+  .app { grid-template-columns: minmax(0, 1fr); }
+  .rail { display: none; }
+  .picker { display: flex; }
+  dl.row { grid-template-columns: minmax(0, 1fr); }
+  dl.row dt { margin-top: 4px; }
+}
+</style>
+<div class="app">
+  <aside class="rail">
+    <h2 class="brand" id="brand"></h2>
+    <div class="total"><span id="totalText"></span><div class="bar"><i id="totalBar"></i></div></div>
+    <ul class="list" id="list"></ul>
+    <div class="vmode" id="vmode"></div>
+  </aside>
+  <main>
+    <div class="wrap">
+      <div class="top">
+        <div class="picker">
+          <button class="navbtn" id="prev" aria-label="ముందు">‹</button>
+          <select id="pick"></select>
+          <button class="navbtn" id="next" aria-label="తరువాత">›</button>
+        </div>
+        <div class="eyebrow" id="eyebrow"></div>
+        <h1 id="headline"></h1>
+        <div class="tabs" role="tablist" id="tabs"></div>
+      </div>
+      <section id="panel"></section>
+    </div>
+  </main>
+</div>
+<div class="toast" id="toast"></div>
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(() => {
+  const D = JSON.parse(document.getElementById('data').textContent);
+  const $ = (id) => document.getElementById(id);
+  const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+  const KEY = 'vc4_' + D.title;
+  let st = {}; try { st = JSON.parse(localStorage.getItem(KEY) || '{}'); } catch (e) { st = {}; }
+  st.done = st.done || {}; st.mode = st.mode || 'own'; st.cur = st.cur || 'how'; st.tab = st.tab || 'shots';
+  const save = () => { try { localStorage.setItem(KEY, JSON.stringify(st)); } catch (e) {} };
+  function toast(t) { const x = $('toast'); x.textContent = t; x.classList.add('show'); clearTimeout(toast.t); toast.t = setTimeout(() => x.classList.remove('show'), 1600); }
+  function copyText(text, b) {
+    const label = b.textContent;
+    const ok = () => { b.classList.add('ok'); b.textContent = 'కాపీ అయింది ✓'; toast('కాపీ అయింది – ఇప్పుడు పేస్ట్ చేయండి'); setTimeout(() => { b.classList.remove('ok'); b.textContent = label; }, 1500); };
+    const fb = () => { const ta = document.createElement('textarea'); ta.value = text; ta.style.position = 'fixed'; ta.style.opacity = '0'; document.body.appendChild(ta); ta.select(); try { document.execCommand('copy'); ok(); } catch (e) {} ta.remove(); };
+    if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(text).then(ok, fb); else fb();
+  }
+  const copyBtn = (text, label) => { const b = el('button', 'copy', label); b.addEventListener('click', () => copyText(text, b)); return b; };
+  function promptBox(text, label) {
+    const box = el('div', 'prompt'); box.append(el('pre', '', text));
+    const act = el('div', 'actions'); const more = el('button', 'more', 'పూర్తిగా చూపించు');
+    more.addEventListener('click', () => { box.classList.toggle('open'); more.textContent = box.classList.contains('open') ? 'తక్కువ చూపించు' : 'పూర్తిగా చూపించు'; });
+    act.append(copyBtn(text, label || 'కాపీ'), more); box.append(act); return box;
+  }
+  const allShots = D.scenes.flatMap((s) => s.shots);
+  const spoken = (s) => s.lines.filter((l) => !l.song);
+  const sceneText = (sc) => sc.shots.flatMap((s) => spoken(s).map((l) => l.text)).join('\n\n');
+  const songOf = (sc) => sc.shots.flatMap((s) => s.lines.filter((l) => l.song).map((l) => l.text.replace(/([।॥]) /g, '$1\n'))).join('\n');
+  const narrator = D.voices[0][0];
+  const SPECIAL = [['how', '📋', 'ఎలా చేయాలి'], ['script', '📜', 'పూర్తి స్క్రిప్ట్ (చదవడానికి)'], ['music', '🎵', 'అన్ని సంగీతాలు & పాట'], ['cast', '🎭', 'గొంతులు – పాత్రలు']];
+  const isScene = () => /^\d+$/.test(String(st.cur));
+  const curScene = () => D.scenes[Number(st.cur)];
+
+  // ---------- rail ----------
+  $('brand').append(D.title.split(' | ')[0], el('small', '', D.covers + ' · సుమారు ' + D.length));
+  function count(sc) { return sc.shots.filter((s) => st.done[s.no]).length; }
+  function renderList() {
+    const ul = $('list'); ul.textContent = '';
+    SPECIAL.forEach(([id, ic, t]) => {
+      const li = el('li'); const b = el('button'); b.setAttribute('aria-current', st.cur === id ? 'true' : 'false');
+      b.append(el('span', 'num', ic), el('span', 'hl', t), el('span')); b.addEventListener('click', () => go(id)); li.append(b); ul.append(li);
+    });
+    ul.append(el('li', 'sep', 'దృశ్యాలు'));
+    D.scenes.forEach((sc, i) => {
+      const li = el('li'); const b = el('button'); b.setAttribute('aria-current', String(st.cur) === String(i) ? 'true' : 'false');
+      b.append(el('span', 'num', String(i + 1)), el('span', 'hl', sc.title.replace(/^\d+\.\s*/, '') + (sc.songstyle ? ' 🎶' : '')));
+      const dots = el('span', 'dots'); sc.shots.forEach((s) => { const d = el('i'); if (st.done[s.no]) d.className = 'on'; dots.append(d); });
+      b.append(dots); b.addEventListener('click', () => go(String(i))); li.append(b); ul.append(li);
+    });
+    const n = allShots.filter((s) => st.done[s.no]).length;
+    $('totalText').textContent = n + ' / ' + allShots.length + ' షాట్‌లు పూర్తి · ' + D.scenes.length + ' దృశ్యాలు';
+    $('totalBar').style.width = (100 * n / allShots.length) + '%';
+    const sel = $('pick'); sel.textContent = '';
+    SPECIAL.forEach(([id, ic, t]) => { const o = el('option', '', ic + ' ' + t); o.value = id; sel.append(o); });
+    D.scenes.forEach((sc, i) => { const o = el('option', '', 'దృశ్యం ' + sc.title + ' (' + count(sc) + '/' + sc.shots.length + ')'); o.value = String(i); sel.append(o); });
+    sel.value = String(st.cur);
+  }
+  const MODES = [['own', '🙋 నా సొంత గొంతు'], ['one', '🎙 ఒకే వాయిస్ (ElevenLabs)'], ['many', '🎭 పాత్రకో వాయిస్ (ElevenLabs)']];
+  function renderModes() {
+    const v = $('vmode'); v.textContent = ''; v.append(el('div', 'eyebrow', 'గొంతు ఎలా?'));
+    MODES.forEach(([id, t]) => {
+      const lab = el('label', st.mode === id ? 'on' : ''); const r = el('input'); r.type = 'radio'; r.name = 'vm'; r.checked = st.mode === id;
+      r.addEventListener('change', () => { st.mode = id; save(); renderModes(); render(); }); lab.append(r, document.createTextNode(t)); v.append(lab);
+    });
+  }
+  $('pick').addEventListener('change', (e) => go(e.target.value));
+  const order = () => [...SPECIAL.map((x) => x[0]), ...D.scenes.map((_, i) => String(i))];
+  $('prev').addEventListener('click', () => { const o = order(); const i = o.indexOf(String(st.cur)); if (i > 0) go(o[i - 1]); });
+  $('next').addEventListener('click', () => { const o = order(); const i = o.indexOf(String(st.cur)); if (i < o.length - 1) go(o[i + 1]); });
+  function go(id) { st.cur = String(id); save(); renderList(); render(); window.scrollTo(0, 0); }
+
+  // ---------- scene tabs ----------
+  const STABS = [['shots', '🎬 షాట్‌లు'], ['voice', '🎙 గొంతు'], ['music', '🎵 సంగీతం & పాట']];
+  function renderTabs() {
+    const t = $('tabs'); t.textContent = '';
+    if (!isScene()) return;
+    STABS.forEach(([id, label]) => { const b = el('button', 'tab', label); b.setAttribute('role', 'tab'); b.setAttribute('aria-selected', st.tab === id ? 'true' : 'false');
+      b.addEventListener('click', () => { st.tab = id; save(); render(); }); t.append(b); });
+  }
+  function render() {
+    renderTabs();
+    const p = $('panel'); p.textContent = '';
+    if (!isScene()) {
+      const sp = SPECIAL.find((x) => x[0] === st.cur) || SPECIAL[0];
+      $('eyebrow').textContent = D.title.split(' | ')[0];
+      $('headline').textContent = sp[1] + ' ' + sp[2];
+      ({ how: renderHow, script: renderScript, music: renderAllMusic, cast: renderCast })[sp[0]](p);
+      return;
+    }
+    const sc = curScene();
+    $('eyebrow').textContent = 'దృశ్యం ' + (Number(st.cur) + 1) + ' / ' + D.scenes.length + ' · ' + sc.sr + ' · ' + sc.start + ' నుండి';
+    $('headline').textContent = sc.title.replace(/^\d+\.\s*/, '');
+    if (st.tab === 'voice') renderVoice(p, sc); else if (st.tab === 'music') renderMusic(p, sc); else renderShots(p, sc);
+  }
+
+  function renderShots(p, sc) {
+    const nV = sc.shots.filter((s) => s.kind === 'video').length;
+    p.append(el('p', 'note', sc.shots.length + ' షాట్‌లు · ' + nV + ' 🎥 వీడియో, మిగిలినవి ఇమేజ్ + నెమ్మది జూమ్. ముందు 🖼️ ఇమేజ్ (📎 రిఫరెన్స్ జత చేసి), 🎥 షాట్‌లకు ఆ ఇమేజ్ మొదటి ఫ్రేమ్‌గా వీడియో.'));
+    const cards = el('div', 'cards');
+    sc.shots.forEach((s) => {
+      const c = el('article', 'card' + (st.done[s.no] ? ' done' : ''));
+      const h = el('div', 'head');
+      h.append(el('span', 'no', 'షాట్ ' + s.no), el('span', 'time', s.time), el('span', 'label', 'శ్లో. ' + s.refs), el('span', 'kind' + (s.kind === 'video' ? ' video' : ''), s.kind === 'video' ? '🎥 వీడియో' : '🖼️ ఇమేజ్ + కదలిక'));
+      const lab = el('label', 'check'); const cb = el('input'); cb.type = 'checkbox'; cb.checked = !!st.done[s.no];
+      cb.addEventListener('change', () => { st.done[s.no] = cb.checked; save(); renderList(); render(); });
+      lab.append(cb, document.createTextNode('పూర్తైంది')); h.append(lab); c.append(h);
+      if (!s.lines.length) c.append(el('div', 'say'), el('div', 'note', '🎵 సంగీతం మాత్రమే – మాటలు లేవు'));
+      s.lines.forEach((l) => { const d = el('div', 'say' + (l.song ? ' song' : '')); d.append(el('div', 'who', (l.song ? '🎶 ' : '🗣 ') + l.who), el('div', '', l.text)); c.append(d); });
+      const dl = el('dl', 'row');
+      if (s.music.length) dl.append(el('dt', '', '🎵 సంగీతం'), el('dd', '', s.music.join(' · ')));
+      if (s.fx.length) dl.append(el('dt', '', '🔊 శబ్దాలు'), el('dd', '', s.fx.join(' · ')));
+      if (s.cap.length) dl.append(el('dt', '', '🔤 తెరపై'), el('dd', '', s.cap.join(' · ')));
+      dl.append(el('dt', '', '🎬 దృశ్యం'), el('dd', '', s.pic));
+      const refs = el('dd'); (s.ref.length ? s.ref : ['అవసరం లేదు']).forEach((r) => refs.append(el('span', 'ref', s.ref.length ? r + '.png' : r)));
+      dl.append(el('dt', '', '📎 రిఫరెన్స్'), refs); c.append(dl);
+      c.append(el('div', 'label2', '🖼️ ఇమేజ్ ప్రాంప్ట్ (Flow / Imagen)'), promptBox(s.img, '🖼️ ఇమేజ్ ప్రాంప్ట్ కాపీ'));
+      c.append(el('div', 'label2', '🎥 వీడియో ప్రాంప్ట్ (Frames to Video – పై ఇమేజ్ మొదటి ఫ్రేమ్)' + (s.kind === 'video' ? '' : ' · ఐచ్ఛికం')), promptBox(s.vid, '🎥 వీడియో ప్రాంప్ట్ కాపీ'));
+      cards.append(c);
+    });
+    p.append(cards);
+  }
+
+  function renderVoice(p, sc) {
+    const t = sceneText(sc);
+    if (!t) { p.append(el('p', 'note', 'ఈ దృశ్యంలో మాటలు లేవు.')); return; }
+    const c = el('div', 'card voice');
+    if (st.mode === 'many') {
+      c.append(el('p', 'note', '🎭 పాత్రకో వాయిస్: ElevenLabs లో ఆ పాత్ర వాయిస్ ఎంచుకుని పేస్ట్ చేయండి. (మార్చాలంటే ఎడమవైపు / కింద "గొంతు ఎలా?")'));
+      const by = {}; sc.shots.forEach((s) => spoken(s).forEach((l) => (by[l.who] = by[l.who] || []).push(l.text)));
+      const r = el('div', 'btnrow'); Object.entries(by).forEach(([w, ls]) => r.append(copyBtn(ls.join('\n\n'), '🎙 ' + w + ' (' + ls.length + ')'))); c.append(r);
+    } else {
+      c.append(el('p', 'note', st.mode === 'own' ? '🙋 మీ సొంత గొంతు: కింద చదవండి; పాత్ర మాటల దగ్గర గొంతు కొంచెం మార్చండి. ఈ దృశ్యానికి ఒక రికార్డింగ్.' : '🎙 ఒకే వాయిస్: మొత్తం కాపీ చేసి ElevenLabs Text to Speech లో పేస్ట్ చేయండి.'));
+      c.append(el('div', 'btnrow')); c.lastChild.append(copyBtn(t, '🎙 ఈ దృశ్యం మాటలు కాపీ'));
+    }
+    p.append(c);
+    const pr = el('div', 'card prompter');
+    sc.shots.forEach((s) => {
+      pr.append(el('span', 'sn', 'షాట్ ' + s.no + ' · ' + s.time + (s.lines.length ? '' : ' · 🎵 సంగీతం మాత్రమే')));
+      s.lines.forEach((l) => {
+        if (l.song) { pr.append(el('div', 'song', '🎶 (పాట – Suno) ' + l.text)); return; }
+        if (st.mode !== 'one' && l.who !== narrator) pr.append(el('span', 'hint2', '🗣 ' + l.who));
+        pr.append(el('div', '', l.text));
+      });
+    });
+    p.append(pr);
+  }
+
+  function musicCard(sc) {
+    const c = el('div', 'card music');
+    const len = Math.round(sc.shots.reduce((a, s) => a + s.sec, 0));
+    c.append(el('div', 'label2', '🎵 దృశ్యం ' + sc.title + ' · ' + sc.start + ' నుండి · సుమారు ' + len + ' సెకన్లు'));
+    c.append(el('p', 'note', 'Suno → Create → Custom → Instrumental ఆన్ → Style లో పేస్ట్. నిడివికి సరిపడా Extend.'), promptBox(sc.suno, '🎵 Style కాపీ'));
+    return c;
+  }
+  function songCard(sc) {
+    const c = el('div', 'card music'); const ly = songOf(sc);
+    c.append(el('div', 'label2', '🎶 పాట · దృశ్యం ' + sc.title), el('p', 'note', 'Suno → Create → Custom → Instrumental ఆఫ్ → Style, Lyrics పెట్టండి.'));
+    c.append(el('div', 'label2', 'Style'), promptBox(sc.songstyle, '🎶 Style కాపీ'), el('div', 'label2', 'సాహిత్యం (Lyrics)'), promptBox(ly, '📝 సాహిత్యం కాపీ'));
+    return c;
+  }
+  function renderMusic(p, sc) {
+    if (sc.songstyle) p.append(songCard(sc));
+    if (sc.suno) p.append(musicCard(sc));
+    const cues = sc.shots.filter((s) => s.music.length || s.fx.length);
+    if (cues.length) {
+      const c = el('div', 'card'); c.append(el('div', 'label2', 'ఎడిటింగ్‌లో సంగీతం ఎక్కడ ఎలా'));
+      const dl = el('dl', 'row'); cues.forEach((s) => dl.append(el('dt', 'mono', s.time.split('–')[0]), el('dd', '', [...s.music.map((x) => '🎵 ' + x), ...s.fx.map((x) => '🔊 ' + x)].join(' · '))));
+      c.append(dl); p.append(c);
+    }
+  }
+
+  // ---------- specials ----------
+  function renderHow(p) {
+    const c = el('div', 'card'); const ol = el('ol', 'steps');
+    [['1. గొంతు', 'ఎడమవైపు (ఫోన్‌లో కింద) "గొంతు ఎలా?" లో ఎంచుకోండి: మీ సొంత గొంతు, ఒకే ElevenLabs వాయిస్, లేదా పాత్రకో వాయిస్. ప్రతి దృశ్యంలో "🎙 గొంతు" ట్యాబ్‌లో కాపీ / చదవడానికి. మొత్తం ఒకేసారి: "📜 పూర్తి స్క్రిప్ట్".'],
+     ['2. సంగీతం – Suno', 'ప్రతి దృశ్యంలో "🎵 సంగీతం & పాట" ట్యాబ్, లేదా అన్నీ ఒకే చోట: "🎵 అన్ని సంగీతాలు & పాట".'],
+     ['3. పాట – Suno', '🎶 గుర్తున్న దృశ్యం (దృశ్యం 2): Style, సాహిత్యం కాపీ, Instrumental ఆఫ్.'],
+     ['4. ఇమేజ్‌లు – Flow', 'ప్రతి దృశ్యం "🎬 షాట్‌లు": షాట్ వరుసలో 🖼️ ఇమేజ్ ప్రాంప్ట్ కాపీ, 📎 రిఫరెన్స్ జత చేసి 16:9.'],
+     ['5. వీడియోలు – Flow', '🎥 షాట్‌లకు ఆ ఇమేజ్ Frames to Video లో మొదటి ఫ్రేమ్, 🎥 వీడియో ప్రాంప్ట్. మిగిలినవి ఇమేజ్ + నెమ్మది జూమ్.'],
+     ['6. కలపండి – CapCut', 'షాట్ నంబర్, సమయం ప్రకారం. పైన గొంతు, కింద ఆ దృశ్యం సంగీతం (మాటలప్పుడు తగ్గించి). "సంగీతం మాత్రమే" షాట్‌లలో పూర్తిగా. 🔤 తెరపై టెక్స్ట్. పూర్తైన షాట్‌కు ✓ – ఎడమవైపు చుక్కలు ఆకుపచ్చ అవుతాయి.']
+    ].forEach(([b, t]) => { const li = el('li'); li.append(el('b', '', b), document.createTextNode(t)); ol.append(li); });
+    c.append(ol); p.append(c);
+    if (D.songnote) p.append(el('p', 'note', D.songnote));
+  }
+  function renderScript(p) {
+    const all = D.scenes.map(sceneText).filter(Boolean).join('\n\n');
+    const c = el('div', 'card voice');
+    c.append(el('p', 'note', st.mode === 'own' ? '🙋 పెద్ద అక్షరాల్లో చదవండి; ఆకుపచ్చ గుర్తు = ఎవరి మాట.' : st.mode === 'one' ? '🎙 ఒకే వాయిస్: మొత్తం లేదా దృశ్యం వారీగా కాపీ చేసి ElevenLabs లో పేస్ట్.' : '🎭 పాత్రకో వాయిస్: "🎭 గొంతులు – పాత్రలు" లో ఒక్కో పాత్ర మాటలన్నీ ఒకేసారి.'));
+    const r = el('div', 'btnrow'); r.append(copyBtn(all, '📜 మొత్తం స్క్రిప్ట్ కాపీ'));
+    D.scenes.forEach((sc, i) => { const t = sceneText(sc); if (t) r.append(copyBtn(t, 'దృశ్యం ' + (i + 1))); });
+    c.append(r); p.append(c);
+    const pr = el('div', 'card prompter');
+    D.scenes.forEach((sc) => {
+      pr.append(el('h2', '', 'దృశ్యం ' + sc.title));
+      sc.shots.forEach((s) => {
+        pr.append(el('span', 'sn', 'షాట్ ' + s.no + ' · ' + s.time + (s.lines.length ? '' : ' · 🎵 సంగీతం మాత్రమే')));
+        s.lines.forEach((l) => {
+          if (l.song) { pr.append(el('div', 'song', '🎶 (పాట – Suno) ' + l.text)); return; }
+          if (st.mode !== 'one' && l.who !== narrator) pr.append(el('span', 'hint2', '🗣 ' + l.who));
+          pr.append(el('div', '', l.text));
+        });
+      });
+    });
+    p.append(pr);
+  }
+  function renderAllMusic(p) {
+    D.scenes.filter((sc) => sc.songstyle).forEach((sc) => p.append(songCard(sc)));
+    D.scenes.forEach((sc) => { if (sc.suno) p.append(musicCard(sc)); });
+  }
+  function renderCast(p) {
+    p.append(el('p', 'note', 'ElevenLabs → Voices → Voice Design లో వివరణ పెట్టి ఒక్కో పాత్రకు వాయిస్ సేవ్ చేయండి (సిరీస్ అంతా అదే). సెట్టింగ్‌లు: Stability 50%, Similarity 75%, Style 15–25%. Telugu సపోర్ట్ ఉన్న మోడల్ ఎంచుకోండి. ఒకే వాయిస్ వాడితే మొదటిది (కథకుడు) చాలు.'));
+    D.voices.forEach(([name, desc]) => {
+      const lines = allShots.flatMap((s) => spoken(s).filter((l) => l.who === name).map((l) => l.text));
+      const c = el('div', 'card voice'); c.append(el('div', 'label2', '🎙 ' + name + (lines.length ? ' · ' + lines.length + ' మాటలు' : ' · పాట')));
+      c.append(el('div', 'label2', 'వాయిస్ వివరణ'), promptBox(desc, 'వివరణ కాపీ'));
+      if (lines.length) { c.append(el('div', 'btnrow')); c.lastChild.append(copyBtn(lines.join('\n\n'), '🎙 అన్ని మాటలు కాపీ')); }
+      p.append(c);
+    });
+  }
+
+  // phones: the voice-mode switch lives under the panel's top bar too
+  if (window.matchMedia('(max-width: 860px)').matches) { const v = $('vmode'); v.style.borderTop = '0'; v.style.padding = '0'; v.style.margin = '8px 0 0'; document.querySelector('.top').append(v); }
+  renderModes(); renderList(); render();
+})();
+</script>
