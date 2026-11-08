@@ -64,7 +64,7 @@ h1 mark { background: none; color: var(--saffron); }
 .sloka .read { margin-top: 8px; color: var(--muted); font-size: 14px; }
 .filters { display: flex; gap: 6px; flex-wrap: wrap; margin: 16px 0 10px; align-items: center; }
 .filters span { font-size: 13px; color: var(--muted); margin-right: 4px; }
-.chip { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 3px 12px; font-size: 13px; }
+.chip { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 3px 12px; font-size: 13px; color: inherit; text-decoration: none; }
 .chip[aria-pressed="true"] { border-color: var(--saffron); color: var(--saffron); background: var(--saffron-soft); }
 
 .cards { display: grid; gap: 12px; }
@@ -280,6 +280,19 @@ h1 mark { background: none; color: var(--saffron); }
     });
     box.append(list); return box;
   }
+  // Link to the Video Maker running on the user's own computer (Video_Maker/START_VIDEO_MAKER.bat).
+  function makerBox(s) {
+    const b = el('div', 'card'); const m = /^(.*)_s(\d+)$/.exec(D.key || '');
+    if (!m) return b;
+    const url = 'http://localhost:3333/?k=' + m[1] + '&s=' + (+m[2]) + '&n=' + s.n;
+    const row = el('div', 'filters');
+    const a = el('a', 'chip', '🎬 Video Maker లో ఈ శ్లోకం తెరవండి'); a.href = url; a.target = '_blank'; a.rel = 'noopener';
+    const c = el('button', 'chip', 'లింక్ కాపీ'); c.dataset.label = 'లింక్ కాపీ'; c.addEventListener('click', () => copyText(url, c));
+    row.append(a, c);
+    b.append(el('div', 'label', '🎬 వీడియో తయారీ (మీ కంప్యూటర్‌లో)'),
+      el('p', 'note', 'క్లిప్‌లు, వాయిస్ సిద్ధమయ్యాక: ముందు Video_Maker ఫోల్డర్‌లోని START_VIDEO_MAKER.bat డబుల్-క్లిక్ చేయండి. తరువాత ఈ బటన్ నొక్కితే ఈ శ్లోకం పేజీ తెరుచుకుంటుంది – ఫైల్‌లు లాగి వదిలి, "వీడియో తయారు చేయండి" నొక్కండి. బటన్ తెరుచుకోకపోతే లింక్ కాపీ చేసి బ్రౌజర్‌లో పేస్ట్ చేయండి.'), row);
+    return b;
+  }
   function renderClips(s) {
     const p = $('panel');
     const sl = el('div', 'sloka'); s.sloka.forEach((l) => sl.append(el('p', '', l)));
@@ -288,6 +301,7 @@ h1 mark { background: none; color: var(--saffron); }
     p.append(speakerBox(s));
     const dt = el('details', 'dlg'); const sm = el('summary', '', '🎙 ఈ షార్ట్ పూర్తి డైలాగ్ (నెరేషన్) – చూడండి / కాపీ చేయండి');
     dt.append(sm, dialogBox(s, false)); p.append(dt);
+    p.append(makerBox(s));
     p.append(slokaRefs(s));
     const both = s.clips.some((c) => c.videoPrompt);
     if (both && D.clipsNote) p.append(el('p', 'note', D.clipsNote));

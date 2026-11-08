@@ -1,0 +1,18 @@
+{
+  "name": "raamaayanam-video-maker",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio src/index.ts --port 3000",
+    "maker": "node maker/server.mjs",
+    "data": "python tools/make_data.py"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.541",
+    "@remotion/google-fonts": "4.0.541",
+    "@remotion/media": "4.0.541",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.541"
+  }
+}

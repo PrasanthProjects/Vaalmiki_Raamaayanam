@@ -1,0 +1,289 @@
+<!doctype html>
+<html lang="te">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Video Maker</title>
+<style>
+:root{--bg:#1a0f08;--panel:#26160c;--panel2:#311d10;--line:#5a3a1e;--gold:#f6cf6a;--text:#fbeed2;--dim:#c9b18a;--ok:#5fcf80;--bad:#ff7b6b}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.5 'Nirmala UI','Segoe UI',sans-serif}
+header{position:sticky;top:0;z-index:5;display:flex;gap:14px;align-items:center;flex-wrap:wrap;padding:12px 20px;background:#120a05;border-bottom:1px solid var(--line)}
+header h1{font-size:20px;margin:0;color:var(--gold)}
+select,button{font:inherit}
+select{background:var(--panel2);color:var(--text);border:1px solid var(--line);border-radius:8px;padding:6px 10px}
+.btn{background:var(--panel2);color:var(--text);border:1px solid var(--line);border-radius:10px;padding:8px 16px;cursor:pointer}
+.btn:hover{border-color:var(--gold)}
+.btn.main{background:var(--gold);color:#2a1500;border-color:var(--gold);font-weight:700;font-size:18px;padding:12px 24px}
+.btn:disabled{opacity:.5;cursor:default}
+main{max-width:1280px;margin:0 auto;padding:16px 20px 60px}
+.grid{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0 18px}
+.grid button{width:46px;height:34px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--dim);cursor:pointer;font-size:14px}
+.grid button.some{background:#4a3215;color:var(--text)}
+.grid button.ready{background:#6b5315;color:#fff}
+.grid button.made{background:#1f5a32;color:#fff}
+.grid button.on{outline:3px solid var(--gold);outline-offset:1px}
+.legend{font-size:13px;color:var(--dim);display:flex;gap:14px;flex-wrap:wrap}
+.legend i{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:4px;vertical-align:-1px}
+h2{color:var(--gold);margin:22px 0 8px;font-size:22px}
+h3{margin:0 0 4px;font-size:17px}
+.hint{color:var(--dim);font-size:14px;margin:0 0 10px}
+.clips{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:12px}
+.slot{background:var(--panel);border:2px dashed var(--line);border-radius:14px;padding:8px;display:flex;flex-direction:column;gap:6px;position:relative}
+.slot.drag{border-color:var(--gold);background:var(--panel2)}
+.slot.has{border-style:solid;border-color:#3d7a4f}
+.slot .top{font-size:13px;font-weight:700}
+.slot .sub{font-size:12px;color:var(--dim);min-height:34px}
+.thumb{aspect-ratio:9/16;background:#0d0704;border-radius:10px;display:flex;align-items:center;justify-content:center;text-align:center;color:var(--dim);font-size:13px;overflow:hidden;cursor:pointer;padding:6px}
+.thumb img,.thumb video{width:100%;height:100%;object-fit:cover;border-radius:8px}
+.x{position:absolute;top:6px;right:6px;width:26px;height:26px;border-radius:50%;border:0;background:#0009;color:#fff;cursor:pointer;display:none}
+.slot.has .x{display:block}
+.bar{height:4px;background:var(--gold);width:0;border-radius:4px;transition:width .2s}
+.voices{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px}
+.aslot{background:var(--panel);border:2px dashed var(--line);border-radius:14px;padding:12px;position:relative}
+.aslot.drag{border-color:var(--gold)}
+.aslot.has{border-style:solid;border-color:#3d7a4f}
+.aslot .say{font-size:14px;color:var(--text);background:#0003;border-radius:8px;padding:8px;margin:6px 0;max-height:130px;overflow:auto}
+.aslot audio{width:100%;margin-top:6px}
+.aslot .pick{font-size:13px;color:var(--dim);cursor:pointer;text-decoration:underline}
+.tabs{display:flex;gap:8px;margin-bottom:10px}
+.tabs .btn.on{border-color:var(--gold);color:var(--gold)}
+.make{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:16px;display:flex;flex-direction:column;gap:12px}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.progress{height:14px;background:#0d0704;border-radius:10px;overflow:hidden}
+.progress div{height:100%;background:linear-gradient(90deg,#d99a2b,var(--gold));width:0;transition:width .4s}
+.result video{max-height:70vh;border-radius:12px;background:#000}
+.warn{color:var(--bad)}
+.good{color:var(--ok)}
+pre{white-space:pre-wrap;font-size:12px;color:var(--dim);max-height:160px;overflow:auto;background:#0d0704;padding:8px;border-radius:8px}
+.hook{font-size:20px;color:var(--gold);font-weight:700}
+</style>
+</head>
+<body>
+<header>
+  <h1>🎬 వీడియో మేకర్ · వాల్మీకి రామాయణం Shorts</h1>
+  <select id="sarga"></select>
+  <span style="flex:1"></span>
+  <button class="btn" onclick="openFolder('out')">📂 తయారైన వీడియోలు</button>
+</header>
+<main>
+  <div class="legend">
+    <span><i style="background:var(--panel)"></i>ఇంకా ఏమీ లేదు</span>
+    <span><i style="background:#4a3215"></i>కొన్ని ఫైల్‌లు ఉన్నాయి</span>
+    <span><i style="background:#6b5315"></i>క్లిప్‌లు + వాయిస్ సిద్ధం</span>
+    <span><i style="background:#1f5a32"></i>వీడియో తయారైంది</span>
+  </div>
+  <div class="grid" id="grid"></div>
+  <div id="detail"></div>
+</main>
+<input type="file" id="picker" hidden>
+<script>
+const $ = (s, r = document) => r.querySelector(s);
+const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]));
+const P = new URLSearchParams(location.search);
+let sargas = [], cur = null, data = null, media = {}, voiceTab = null;
+const pad = (n) => String(n).padStart(3, '0');
+// what each box is for in the video (clip 2 carries the śloka and then the word meanings; clip 3 is optional)
+const ROLE = ['మొదటి 4 సెకన్లు – హుక్', 'శ్లోకం + పదార్థం (2 సె.) – ఒకే చిత్రం', 'ఐచ్ఛికం – పెడితే తాత్పర్యం మొదట్లో వస్తుంది',
+  'తాత్పర్యం', 'తాత్పర్యం', 'జీవిత పాఠం', 'ముగింపు'];
+const NEEDED = [1, 2, 4, 5, 6, 7];
+const VOICES = [['voice1', '1 · హుక్', (s) => s.hook.voice], ['voice2', '2 · శ్లోకం (తరువాత 2 సె. పదార్థం – వాయిస్ లేదు)', (s) => s.lines.map((l) => l.orig).join('\n')],
+  ['voice3', '3 · తాత్పర్యం & జీవిత పాఠం', (s) => s.meaning.voice], ['voice4', '4 · ముగింపు', (s) => s.end.voice]];
+const q = () => `k=${cur.kanda}&s=${cur.sarga}&n=${cur.n}`;
+const compId = () => `${data.kandaEn}-S${pad(data.sarga)}-Sloka-${pad(cur.n)}`;
+const secs = (d) => d ? `${d.toFixed(1)} సె.` : '';
+
+async function init() {
+  sargas = await (await fetch('/api/sargas')).json();
+  $('#sarga').innerHTML = sargas.map((x, i) => `<option value="${i}">${esc(x.kandaTe)} · సర్గ ${x.sarga}</option>`).join('');
+  let i = sargas.findIndex((x) => x.kanda === P.get('k') && x.sarga === +P.get('s'));
+  if (i < 0) i = 0;
+  $('#sarga').value = i;
+  $('#sarga').onchange = () => loadSarga(+$('#sarga').value, null);
+  await loadSarga(i, +P.get('n') || null);
+}
+
+async function loadSarga(i, n) {
+  const x = sargas[i];
+  data = await (await fetch(`/api/sarga?k=${x.kanda}&s=${x.sarga}`)).json();
+  drawGrid();
+  selectSloka(n || data.slokas[0].n);
+}
+
+function status(n) {
+  const h = data.have[n] || [];
+  if (h.includes('_rendered')) return 'made';
+  const clips = NEEDED.every((c) => h.includes('clip' + c));
+  const voice = h.includes('voice') || ['voice1', 'voice2', 'voice3', 'voice4'].every((v) => h.includes(v));
+  if (clips && voice) return 'ready';
+  return h.length ? 'some' : '';
+}
+
+function drawGrid() {
+  $('#grid').innerHTML = data.slokas.map((s) =>
+    `<button class="${status(s.n)} ${cur && cur.n === s.n ? 'on' : ''}" onclick="selectSloka(${s.n})">${s.n}</button>`).join('');
+}
+
+async function selectSloka(n) {
+  cur = {kanda: data.kanda, sarga: data.sarga, n, s: data.slokas.find((x) => x.n === n)};
+  history.replaceState(null, '', `?k=${cur.kanda}&s=${cur.sarga}&n=${n}`);
+  drawGrid();
+  media = (await (await fetch('/api/media?' + q())).json()).media;
+  voiceTab = media.voice ? 'full' : 'parts';
+  drawDetail();
+  refreshJob();
+}
+
+function thumb(m) {
+  if (!m) return '';
+  return m.video ? `<video src="${m.url}" muted loop playsinline onmouseenter="this.play()" onmouseleave="this.pause()"></video>` : `<img src="${m.url}">`;
+}
+
+function drawDetail() {
+  const s = cur.s;
+  const missing = NEEDED.filter((c) => !media['clip' + c]);
+  const hasVoice = media.voice || VOICES.some(([k]) => media[k]);
+  $('#detail').innerHTML = `
+  <h2>శ్లోకం ${s.n} <span class="hook">· ${esc(s.hook.screen)}</span></h2>
+  <p class="hint">ఫైల్‌ను Downloads ఫోల్డర్ నుండి (లేదా బ్రౌజర్ డౌన్‌లోడ్ బార్ నుండి) సరైన బాక్స్‌లోకి లాగి వదలండి, లేదా బాక్స్ మీద క్లిక్ చేసి ఎంచుకోండి. పేరు మార్చనక్కర్లేదు. మళ్ళీ వదిలితే పాతది మారిపోతుంది.</p>
+
+  <h2>1 · క్లిప్‌లు (ఇమేజ్ లేదా వీడియో)</h2>
+  <p class="hint">🎥 అని ఉన్నవి వీడియో, 🖼️ అని ఉన్నవి ఇమేజ్ – కానీ ఏ బాక్స్‌లోనైనా ఏదైనా పెట్టవచ్చు. ఇమేజ్‌కి నెమ్మదిగా జూమ్ ఆటోమేటిక్‌గా వస్తుంది.</p>
+  <div class="clips">${s.clips.map((c, i) => {
+    const m = media['clip' + (i + 1)];
+    return `<div class="slot ${m ? 'has' : ''}" data-slot="clip${i + 1}">
+      <button class="x" title="తీసివేయండి" onclick="removeSlot('clip${i + 1}')">✕</button>
+      <div class="top">${i + 1} · ${esc(c.label)} ${c.video ? '🎥' : '🖼️'}</div>
+      <div class="sub"><b>${ROLE[i]}</b> · ${esc(c.shows)}</div>
+      <div class="thumb" onclick="pick('clip${i + 1}')">${m ? thumb(m) : 'ఇక్కడ వదలండి<br>లేదా క్లిక్ చేయండి'}</div>
+      <div class="sub" style="min-height:0">${m ? esc(m.name) + ' ' + secs(m.dur) : ''}</div>
+      <div class="bar"></div>
+    </div>`;
+  }).join('')}</div>
+
+  <h2>2 · వాయిస్</h2>
+  <div class="tabs">
+    <button class="btn ${voiceTab === 'parts' ? 'on' : ''}" onclick="voiceTab='parts';drawDetail()">4 భాగాలుగా (సిఫార్సు)</button>
+    <button class="btn ${voiceTab === 'full' ? 'on' : ''}" onclick="voiceTab='full';drawDetail()">ఒకే ఫైల్ – మొత్తం</button>
+  </div>
+  ${voiceTab === 'parts' ? `<p class="hint">ప్రతి భాగాన్ని వేరుగా రికార్డ్ చేస్తే, క్లిప్‌లు, టెక్స్ట్ మీ వాయిస్‌కు సరిగ్గా సరిపోతాయి. వీడియో పొడవు మీ వాయిస్ పొడవుకు మారుతుంది.</p>
+  <div class="voices">${VOICES.map(([k, label, text]) => aslot(k, label, text(s))).join('')}</div>`
+  : `<p class="hint">మొత్తం నెరేషన్ ఒకే ఫైల్‌లో ఉంటే ఇక్కడ పెట్టండి. భాగాలు 45 సెకన్ల ప్లాన్ నిష్పత్తిలో సర్దుకుంటాయి (4 భాగాలుగా పెడితే టైమింగ్ ఇంకా బాగుంటుంది).</p>
+  <div class="voices">${aslot('voice', 'మొత్తం వాయిస్', [s.hook.voice, s.lines.map((l) => l.orig).join(' '), s.meaning.voice, s.end.voice].join('\n\n'))}</div>`}
+  ${voiceTab === 'parts' && media.voice ? `<p class="warn">గమనిక: "ఒకే ఫైల్" లో కూడా వాయిస్ ఉంది. 4 భాగాల్లో ఏదైనా ఉంటే అవే వాడతాం.</p>` : ''}
+
+  <h2>3 · బ్యాక్‌గ్రౌండ్ సంగీతం (ఐచ్ఛికం)</h2>
+  <p class="hint">Suno పాట వంటిది. వాయిస్ కింద మెల్లగా వస్తుంది, శ్లోకం సమయంలో ఇంకా తగ్గుతుంది. "అన్ని Shorts కి" లో పెడితే, ఈ Short కి వేరేది లేనప్పుడు అదే వాడతాం.</p>
+  <div class="voices">${aslot('music', 'ఈ Short కి', '')}${aslot('music_default', 'అన్ని Shorts కి', '')}</div>
+
+  <h2>4 · చూడండి & తయారు చేయండి</h2>
+  <div class="make">
+    ${missing.length ? `<div class="warn">ఇంకా లేని క్లిప్‌లు: ${missing.join(', ')} – అవి వీడియోలో ఖాళీ బాక్స్‌లుగా వస్తాయి.</div>` : '<div class="good">కావలసిన క్లిప్‌లన్నీ ఉన్నాయి ✓</div>'}
+    ${hasVoice ? '<div class="good">వాయిస్ ఉంది ✓</div>' : '<div class="warn">వాయిస్ ఇంకా లేదు – టెక్స్ట్ 45 సెకన్ల ప్లాన్ ప్రకారం వస్తుంది.</div>'}
+    <div class="row">
+      <a class="btn" href="http://localhost:3000/${compId()}" target="_blank">👁️ Studio లో ప్లే చేసి చూడండి</a>
+      <button class="btn main" id="go" onclick="make()">🎬 వీడియో తయారు చేయండి</button>
+      <button class="btn" onclick="openFolder('media')">📂 ఈ శ్లోకం ఫైల్‌లు</button>
+    </div>
+    <p class="hint">వీడియో మీద సబ్‌టైటిల్స్ ఉండవు. వీడియో తయారవగానే దానికి సరిగ్గా సరిపోయే క్యాప్షన్ ఫైల్ (SRT) కూడా తయారవుతుంది – YouTube Studio → Subtitles → Telugu → Upload file → <b>With timing</b> లో పెట్టండి. చూసేవాళ్ళు కావాలంటే CC నొక్కి చూస్తారు.</p>
+    <div id="job"></div>
+  </div>`;
+  for (const el of document.querySelectorAll('[data-slot]')) dropTarget(el, el.dataset.slot);
+}
+
+function aslot(k, label, say) {
+  const m = media[k];
+  return `<div class="aslot ${m ? 'has' : ''}" data-slot="${k}">
+    <button class="x" title="తీసివేయండి" onclick="removeSlot('${k}')" style="${m ? 'display:block' : ''}">✕</button>
+    <h3>🎤 ${esc(label)}</h3>
+    ${say ? `<div class="say">${esc(say).replace(/\n/g, '<br>')}</div>` : ''}
+    ${m ? `<div class="good">${esc(m.name)} · ${secs(m.dur)}</div><audio controls src="${m.url}"></audio>`
+        : `<div class="pick" onclick="pick('${k}')">ఆడియో ఫైల్ ఇక్కడ వదలండి లేదా క్లిక్ చేయండి</div>`}
+    <div class="bar"></div>
+  </div>`;
+}
+
+function dropTarget(el, slot) {
+  el.addEventListener('dragover', (e) => { e.preventDefault(); el.classList.add('drag'); });
+  el.addEventListener('dragleave', () => el.classList.remove('drag'));
+  el.addEventListener('drop', (e) => {
+    e.preventDefault(); el.classList.remove('drag');
+    const f = e.dataTransfer.files[0];
+    if (f) upload(slot, f, el);
+  });
+}
+
+function pick(slot) {
+  const p = $('#picker');
+  p.accept = slot.startsWith('clip') ? 'video/*,image/*' : 'audio/*';
+  p.onchange = () => { if (p.files[0]) upload(slot, p.files[0], $(`[data-slot="${slot}"]`)); p.value = ''; };
+  p.click();
+}
+
+function upload(slot, file, el) {
+  const xhr = new XMLHttpRequest();
+  xhr.open('POST', `/api/upload?${q()}&slot=${slot}&name=${encodeURIComponent(file.name)}`);
+  const bar = el && $('.bar', el);
+  xhr.upload.onprogress = (e) => { if (bar && e.lengthComputable) bar.style.width = (100 * e.loaded / e.total) + '%'; };
+  xhr.onload = () => {
+    const r = JSON.parse(xhr.responseText);
+    if (xhr.status !== 200) return alert(r.error || 'అప్‌లోడ్ కాలేదు');
+    media = r.media;
+    if (slot === 'voice') voiceTab = 'full';
+    const h = data.have[cur.n] = data.have[cur.n] || [];
+    if (!h.includes(slot)) h.push(slot);
+    drawGrid(); drawDetail();
+  };
+  xhr.send(file);
+}
+
+async function removeSlot(slot) {
+  if (!confirm('ఈ ఫైల్ తీసివేయాలా?')) return;
+  media = (await (await fetch(`/api/remove?${q()}&slot=${slot}`, {method: 'POST'})).json()).media;
+  data.have[cur.n] = (data.have[cur.n] || []).filter((x) => x !== slot);
+  drawGrid(); drawDetail();
+}
+
+async function openFolder(what) {
+  await fetch(`/api/open?what=${what}` + (cur && what === 'media' ? '&' + q() : ''), {method: 'POST'});
+}
+
+const srtLink = (mp4) => { const f = mp4.replace(/\.mp4$/, '.srt');
+  return `<div class="row"><a class="btn" href="/out/${encodeURIComponent(f)}" download="${esc(f)}">📄 YouTube క్యాప్షన్ (SRT) డౌన్‌లోడ్</a></div>`; };
+let poll = null;
+async function make() {
+  const r = await fetch(`/api/render?${q()}&ke=${data.kandaEn}`, {method: 'POST'});
+  const j = await r.json();
+  if (r.status !== 200) return alert(j.error);
+  refreshJob();
+}
+
+async function refreshJob() {
+  clearTimeout(poll);
+  const j = await (await fetch('/api/status')).json();
+  const box = $('#job');
+  if (!box) return;
+  const mine = j.id === compId();
+  $('#go').disabled = j.state === 'running';
+  if (j.state === 'running') {
+    box.innerHTML = `<div>${mine ? 'వీడియో తయారవుతోంది…' : `ఇంకో వీడియో (${esc(j.id)}) తయారవుతోంది…`} ${j.progress}%</div>
+      <div class="progress"><div style="width:${j.progress}%"></div></div><p class="hint">మొదటిసారి కొంచెం ఎక్కువ సమయం పడుతుంది (Chrome డౌన్‌లోడ్ అవుతుంది, 2–5 నిమిషాలు).<br>${esc((j.log.trim().split(/[\r\n]+/).pop() || '').slice(0, 120))}</p>`;
+    poll = setTimeout(refreshJob, 1500);
+  } else if (mine && j.state === 'done') {
+    box.innerHTML = `<div class="good">✓ తయారైంది (${j.seconds} సె.లో) · out/${esc(j.file)}</div>${srtLink(j.file)}
+      <div class="result"><video controls src="/out/${encodeURIComponent(j.file)}?t=${Date.now()}"></video></div>`;
+    const h = data.have[cur.n] = data.have[cur.n] || [];
+    if (!h.includes('_rendered')) { h.push('_rendered'); drawGrid(); }
+  } else if (mine && j.state === 'error') {
+    box.innerHTML = `<div class="warn">తయారు కాలేదు. ఈ లోపం Claude కి చూపించండి:</div><pre>${esc(j.log)}</pre>`;
+  } else if ((data.have[cur.n] || []).includes('_rendered')) {
+    const f = compId() + '.mp4';
+    box.innerHTML = `<div class="good">ఇంతకు ముందు తయారైన వీడియో: out/${esc(f)}</div>${srtLink(f)}
+      <div class="result"><video controls src="/out/${encodeURIComponent(f)}?t=${Date.now()}"></video></div>`;
+  } else box.innerHTML = '';
+}
+
+init();
+</script>
+</body>
+</html>
