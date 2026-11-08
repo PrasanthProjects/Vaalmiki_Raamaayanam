@@ -206,11 +206,10 @@ def row_key(rows):
 def clip_kinds(clips):
     """Pick 2–3 clips per Short that really need video; the rest are stills animated in the editor."""
     if row_key(clips) in KEPT:
-        return KEPT[row_key(clips)]['kinds']
+        return ['video'] + list(KEPT[row_key(clips)]['kinds'][1:])   # the hook is always a video (user, 2026-11-08)
     kinds = ['image'] * len(clips)
     ok = [not (set(keys_of(c[0])) & STILL_ONLY) for c in clips]
-    if ok[0]:
-        kinds[0] = 'video'  # the hook always moves
+    kinds[0] = 'video'  # the hook always moves, with big visual movement, to stop the scroll
     ranked = sorted((i for i in range(1, len(clips)) if ok[i] and motion_score(clips[i]) > 0),
                     key=lambda i: -motion_score(clips[i]))
     for i in ranked[:3 - kinds.count('video')]:
@@ -294,8 +293,8 @@ def clip_cards(clips, texts):
         if LIVE:
             keys = keys_of(chars)
             refs = LS.ref_keys(keys)
-            both = {'imagePrompt': LS.still(keys, frame, light),
-                    'videoPrompt': LS.start_video(keys, frame, motion, cam, light, video)}
+            both = {'imagePrompt': LS.still(keys, frame, light, label),
+                    'videoPrompt': LS.start_video(keys, frame, motion, cam, light, video, hook=i == 0)}
             prompt = both['videoPrompt'] if video else both['imagePrompt']   # video: always from the user's image
         else:
             refs = [k for k in keys_of(chars) if k not in GROUPS]

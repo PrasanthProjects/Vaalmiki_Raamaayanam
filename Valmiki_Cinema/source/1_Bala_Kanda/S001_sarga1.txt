@@ -112,7 +112,7 @@ SHOT 47–48 | E3.10 | Rama alone before his hermitage drawing his great bow, go
   SEC: 8
 SHOT 47–49 | E3.10 | Rama standing alone and calm with his bow on a silent, dusty battlefield at sunset, the broken chariots of the rakshasa army scattered far behind him. | dust settles slowly around Rama | slow pull-back
   D NARADA: ఆమె మాటలతో రెచ్చిపోయి యుద్ధానికి వచ్చిన ఖరుడిని, త్రిశిరుడిని, దూషణుడిని, వారి వెంట వచ్చినవారిని – జనస్థానంలో ఉండే పద్నాలుగు వేల రాక్షసులను – రాముడు ఒక్కడే యుద్ధంలో సంహరించాడు.
-SHOT 49 | E3.12 | Ravana on his golden throne in Lanka rising in fury as a messenger bows before him, the court trembling. | Ravana rises from his throne, his fists clenched | slow push-in
+SHOT 49 | E3.12 | In fury, Dashakantha (Ravana in his ten-headed form) on his golden throne in Lanka rising as a messenger bows before him, the court trembling. | the ten-headed king rises from his throne, his fists clenched | slow push-in
   M: రావణుడి థీమ్ – లోతైన నాదస్వరం, తవిల్
   D NARADA: తన బంధువులంతా నశించారని విని, రావణుడు కోపంతో ఒళ్ళు తెలియనంతగా రగిలిపోయాడు.
 
@@ -126,12 +126,12 @@ SHOT 52 | E3.16 | A shining golden deer with silver spots leaping through a gree
   VIDEO
   M: మాయగా, రహస్యంగా వీణ
   D NARADA: మారీచుడిని వెంటబెట్టుకుని రాముడి ఆశ్రమానికి వెళ్ళాడు. మాయావి మారీచుడు బంగారు లేడిగా మారి, రాజకుమారులు రామలక్ష్మణులను ఆశ్రమానికి దూరంగా తీసుకువెళ్ళాడు.
-SHOT 53 | E3.20 | High above the Godavari forests, the giant bird Jatayu flying fiercely against Ravana's golden chariot drawn by donkeys, Sita in the chariot reaching out. | Jatayu dives at the chariot with wings spread wide | slow side tracking
+SHOT 53 | E3.20 | High above the Godavari forests, the giant bird Jatayu, far bigger than a man, flying fiercely against the golden chariot drawn by donkeys, Dashakantha (Ravana in his ten-headed form) fighting him off with his sword, Sita in the chariot reaching out. | Jatayu dives at the chariot with wings spread wide | slow side tracking
   VIDEO
   M: ఉద్రిక్తమైన తంత్రులు, డ్రమ్ములు
   FX: రెక్కల చప్పుడు, గాలి హోరు
   D NARADA: సీతను కాపాడడానికి అడ్డుపడిన పక్షిరాజు జటాయువును కూల్చి, రావణుడు రాముడి భార్య సీతను ఎత్తుకుపోయాడు.
-SHOT 53–54 | E3.22 | Rama kneeling beside the head of the giant bird Jatayu lying on the forest floor with a torn wing, Lakshmana beside him, Rama's eyes full of tears. | Rama lays his hand gently on Jatayu's head | very slow push-in
+SHOT 53–54 | E3.22 | Rama kneeling beside the head of the giant bird Jatayu, far bigger than a man, lying on the forest floor with a torn wing, Lakshmana beside him, Rama's eyes full of tears. | Rama lays his hand gently on Jatayu's head | very slow push-in
   M: ఒంటరి వయొలిన్, సీతమ్మ థీమ్ విచారంగా
   D NARADA: కొనప్రాణంతో పడి ఉన్న జటాయువును రాముడు చూశాడు. సీతను రావణుడు ఎత్తుకుపోయాడని అతని నోటనే విన్నాడు. దుఃఖంతో తపించిపోయాడు, మనసు కలతచెంది ఎంతో విలపించాడు.
 SHOT 54 | E3.22 | A large funeral pyre glowing in the forest at dusk, Rama standing before it with joined palms, Lakshmana beside him. | the flames rise gently into the evening sky | slow tilt up
@@ -186,7 +186,7 @@ SUNO: Instrumental, powerful heroic Indian score, horns, war drums, choir aah, s
 SHOT 71 | E4.15 | Sugriva on a hilltop sending troops of vanaras running in all four directions across the land. | the vanaras race off in every direction | slow aerial glide
   VIDEO
   D NARADA: వానరరాజు సుగ్రీవుడు వానరులందరినీ పిలిపించి, సీత జాడ కోసం అన్ని దిక్కులకూ పంపాడు.
-SHOT 72 | E4.17 | The old giant bird Sampati on a seashore cliff, turning his head toward the south and speaking to the vanaras gathered below him. | Sampati lifts his head toward the sea | slow push-in
+SHOT 72 | E4.17 | The old giant bird Sampati, far bigger than a man, on a seashore cliff, turning his head toward the south and speaking to the vanaras gathered below him. | Sampati lifts his head toward the sea | slow push-in
   D NARADA: జటాయువు అన్న, సంపాతి అనే గద్ద, "సీత లంకలో ఉంది" అని చెప్పాడు.
 SHOT 72 | E5.01 | Hanuman leaping high over the endless ocean, his body stretched like a flying arrow, clouds parting around him, the sun blazing. | Hanuman soars across the sky over the ocean | slow side tracking
   VIDEO
@@ -201,7 +201,7 @@ SHOT 74–75 | E5.15 | Hanuman smashing the great arch of the Ashoka garden, rak
   M: వేగమైన యుద్ధ సంగీతం (మాటలు లేవు)
   FX: రాళ్ళు కూలే శబ్దం
   SEC: 6
-SHOT 74–76 | E5.17 | Hanuman bound by glowing magical ropes, calmly letting the rakshasas drag him toward Ravana's court, a quiet knowing smile on his face. | the guards pull the ropes, Hanuman walks calmly | slow tracking
+SHOT 74–76 | E5.17 | Hanuman bound by glowing magical ropes, calmly letting the rakshasas drag him toward the rakshasa king's court, a quiet knowing smile on his face. | the guards pull the ropes, Hanuman walks calmly | slow tracking
   D NARADA: అశోకవనం ద్వారాన్ని ధ్వంసం చేసి, ఐదుగురు సేనాపతులను, ఏడుగురు మంత్రి కుమారులను సంహరించి, శూరుడైన అక్షకుమారుడిని నలిపివేశాడు. తరువాత కావాలనే బ్రహ్మాస్త్రానికి పట్టుబడ్డాడు.
   D NARADA: బ్రహ్మదేవుడి వరంతో ఆ బంధం వీడిపోయిందని తెలిసినా, రావణుడిని చూడాలని, తనను లాక్కెళ్తున్న రాక్షసులను ఓర్చుకున్నాడు.
 SHOT 77 | E5.20 | The golden city of Lanka glowing with flames at night, seen from a hilltop, Hanuman a small silhouette leaping from roof to roof, the Ashoka garden untouched and calm. | flames rise and Hanuman leaps across the rooftops | slow pull-back
@@ -226,7 +226,7 @@ SHOT 80 | E6.03 | The ocean god rising from the waves with folded hands before R
   VIDEO
   M: వీర సంగీతం, కోరస్ "జై శ్రీరామ్"
   D NARADA: నదులకు అధిపతి అయిన సముద్రుడే స్వయంగా ప్రత్యక్షమయ్యాడు. అతను చెప్పిన ఉపాయంతో, నలుడి చేత సముద్రం మీద వారధి కట్టించాడు.
-SHOT 81 | E6.38 | The great final battle before Lanka: Rama on a shining divine chariot drawing his bow, a blazing divine arrow flying toward Ravana in his dark chariot, both armies watching. | Rama looses the blazing arrow and light fills the sky | dynamic slow orbit
+SHOT 81 | E6.38 | The great final battle before Lanka: Rama on a shining divine chariot drawing his bow, a blazing divine arrow flying toward Dashakantha (Ravana in his ten-headed form) in his dark chariot, both armies watching. | Rama looses the blazing arrow and light fills the sky | dynamic slow orbit
   VIDEO
   M: రావణుడి థీమ్, శ్రీరామ థీమ్ కలిసి – పెద్ద వీర సంగీతం, ఒక్కసారిగా నిశ్శబ్దం
   FX: దివ్యాస్త్రం గర్జన
@@ -267,8 +267,8 @@ SHOT 92–93 | E6.39 | Green fields full of grain, overflowing granaries and bus
   D NARADA: అగ్ని ప్రమాదాల భయం ఉండదు. ఏ ప్రాణీ నీళ్ళలో మునిగిపోదు. తుఫానులు, జ్వరాల భయం ఉండదు. ఆకలి ఉండదు, దొంగల భయం ఉండదు. నగరాలు, పల్లెలు ధనధాన్యాలతో నిండుగా ఉంటాయి.
 SHOT 94–96 | E6.39 | Rama and Sita at a grand yajna in Ayodhya, giving cows and gold to learned men, kings from many lands bowing before the throne. | Rama raises his hand in blessing as priests chant | slow pull-back
   D NARADA: కృతయుగంలోలా అందరూ ఆనందంగా ఉంటారు. రాముడు వందలాది అశ్వమేధ యాగాలు చేస్తాడు. లెక్కలేనన్ని ఆవులు, ఎంతో బంగారం దానం చేస్తాడు. వందలాది రాజవంశాలను నిలుపుతాడు. అందరూ తమ తమ ధర్మం పాటించేలా చూస్తాడు.
-SHOT 97 | E6.39 | Rama on the golden throne of Ayodhya at sunset, the kingdom glowing behind him, a soft divine light rising around him. | the light grows gently around Rama | slow tilt up
-  D NARADA: పదకొండు వేల సంవత్సరాలు రాజ్యం పాలించి, రాముడు తన పరమపదానికి వెళ్తాడు.
+SHOT 97 | E6.39 | An aged, serene Rama on the golden throne of Ayodhya at sunset, the peaceful kingdom glowing behind him, soft golden evening light. | the sunset light deepens slowly over Rama and the city | slow tilt up
+  D NARADA: పదకొండు వేల సంవత్సరాలు రాజ్యం పాలించి, రాముడు బ్రహ్మలోకానికి వెళ్తాడు.
 
 ## రామాయణ ఫలం | శ్లో. 98–100 | back in Valmiki's hermitage, golden evening light
 SUNO: Instrumental, soft devotional ending, bansuri melody, veena, tanpura, gentle fade out, no vocals

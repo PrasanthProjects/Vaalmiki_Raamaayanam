@@ -118,7 +118,7 @@ EXTRA = {
                  "white beard and moustache, grey hair under a white-and-gold minister's turban, cream silk "
                  "angavastram over a white dhoti, gold earrings, tulasi beads; loyal, gentle, grave face"),
     'JABALI': ("Jabali, the learned brahmin of Dasharatha's council: lean scholar of about seventy, sharp clever face, "
-               "long white beard, shaven head with a shikha tuft, white dhoti and a saffron upper cloth, sacred thread, "
+               "clean-shaven with a grey moustache, shaven head with a shikha tuft, white dhoti and a saffron upper cloth, sacred thread, "
                "a palm-leaf manuscript in hand"),
     'SIDDHARTHA': ("Siddhartha, a senior minister of Ayodhya: upright, outspoken man of about sixty, grey beard, white "
                    "turban, white silk with a blue-bordered angavastram, gold armlets"),
@@ -291,6 +291,11 @@ EXTRA['RAVANA_RATHA'] = (   # Valmiki, Aranya 35 and 49: a golden car drawn by d
     "wheels, a high carved canopy, a red-and-black royal banner and a fierce gilded rakshasa-face emblem on its front, "
     "drawn through the air by a team of dark grey donkeys with goblin-like rakshasa faces, stylised and regal rather "
     "than frightening; it flies through the sky without wings")
+# Ravana has two looks (user rule, 2026-11-08): one head in ordinary scenes; ten heads only when he is in fury,
+# fighting, or at the grand moments (his throne in rage, the final battle). A script asks for the ten-headed form
+# by naming "Dashakantha"; that replaces the one-headed look in the shot.
+EXTRA['RAVANA_TEN'] = None   # filled in below from the Shorts' Ravana, once BIBLE is complete
+ALIASES.update({'Dashakantha': 'RAVANA_TEN', 'Dashagriva': 'RAVANA_TEN'})
 RATHA_EPS = {f'E3.{n:02d}' for n in range(16, 26)}   # from Ravana's ride to Maricha to the fall of the chariot
 ALIASES.update({'Pushpaka': 'PUSHPAKA_VIMANA'})
 NO_MARK |= {'PUSHPAKA_VIMANA', 'RAVANA_RATHA'}
@@ -311,8 +316,15 @@ FROM_EP.update({_k: 'E5.01' for _k in ('SAGARA', 'MAINAKA', 'LANKINI', 'DHANYAMA
 BIBLE['TARA'] = {'lock': EXTRA['TARA'], 'stages': {}}   # the bible's entry starts mid-sentence
 ALIASES.update({'Svayamprabha': 'SWAYAMPRABHA', 'Suparshva': 'SUPARSHVA', 'Himavan': 'HIMAVAN', 'Nishakara': 'NISHAKARA',
                 'Riksharajas': 'RIKSHARAJAS', 'Kandu': 'KANDU', 'Hema': 'HEMA', 'Anjana': 'ANJANA', 'Ruma': 'RUMA'})
+# Ravana looks the same in every series (user, 2026-11-08): the Shorts' Telugu-film emperor, one head or ten.
+import json as _json
+_SHORTS = _json.load(open(os.path.join(ROOT, 'Valmiki_Ramayanam', '_tools', 'data', 'shorts_refs.json'),
+                          encoding='utf-8'))
+EXTRA['RAVANA_TEN'] = _SHORTS['RAVANA_TEN']['look']
+BIBLE['RAVANA']['lock'] = _SHORTS['RAVANA']['look']
 for _k, _v in EXTRA.items():
     BIBLE.setdefault(_k, {'lock': _v, 'stages': {}})
+RAVANA_SIDE |= {'RAVANA_TEN'}
 for _k in ('KHARA', 'DUSHANA', 'TRISHIRA'):   # the bible keeps the three brothers in one entry; give each his own look
     BIBLE[_k] = {'lock': EXTRA[_k], 'stages': {}}
 ALIASES.update({'Manmadha': 'MANMATHA', 'Manmatha': 'MANMATHA', 'Kama': 'MANMATHA', 'Subahu': 'SUBAHU',
@@ -561,6 +573,90 @@ OWN_FACE = {'KUMBHAKARNA', 'INDRAJIT', 'KHARA', 'DUSHANA', 'TRISHIRA', 'MARICHA'
             'LANKINI', 'DHANYAMALINI'}
 
 
+# Named sages each get a face, age, height and build of their own (user, 2026-11-08: Narada, Valmiki and the
+# other munis were coming out with one face in different robes). Kept in step with the Shorts' faces.
+SAGE_FACES = {
+    'NARADA': "a grown man of about twenty-five (a full adult man, never a boy or teenager), medium height with a "
+              "lean, well-formed adult build and broad shoulders, a mature oval face with a firm defined jawline and "
+              "clear cheekbones, clean-shaven chin and upper lip (no beard, no moustache), bright almond eyes with a "
+              "playful twinkle, a gentle cheerful smile, fair glowing skin",
+    'VALMIKI': "about seventy, tall and lean with a wiry frame, a long narrow face with high cheekbones, deep-set dark "
+               "eyes under thick bushy white eyebrows, deep forehead lines, hollow cheeks, a prominent hooked nose, a "
+               "very long untrimmed flowing white beard reaching the chest, matted grey-white hair piled high in a tall "
+               "jata, sun-darkened brown skin",
+    'VISHWAMITRA': "about seventy, very tall and broad with a former warrior-king's build, a strong angular face with a "
+                   "hawk-like nose, fiery piercing eyes under heavy white brows, a short square-cut white beard and "
+                   "moustache, deep tan skin",
+    'VASHISHTHA': "about seventy-five, tall, broad-shouldered and stately, a broad square face with a strong jaw, calm "
+                  "heavy-lidded eyes, a broad straight nose, a thick neatly combed white beard trimmed at the "
+                  "collarbone, snow-white hair in a neat round topknot, wheatish skin",
+    'AGASTYA': "about sixty, short, stocky and barrel-chested (shorter than every other sage), a wide round face with a "
+               "broad flat nose, intense bright eyes, a thick bushy white beard, deep bronze skin",
+    'BHARADWAJA': "about sixty-five, medium height and slightly plump, a soft round face with plump cheeks, kind smiling "
+                  "eyes with crow's feet, a short rounded white beard, white hair in a low knot at the back, "
+                  "medium-brown skin",
+    'ATRI': "about ninety, small and slight, a small delicate oval face, calm half-closed eyes, a small nose, a very long "
+            "two-pointed snow-white beard, fair skin",
+    'GAUTAMA': "about sixty-five, broad and strongly built, a rectangular stern face, deep-set intense eyes under heavy "
+               "brows, a thick nose, a long full white beard, white hair in a high bun, wheat-brown skin",
+    'SHARABHANGA': "over ninety, bent and frail, an extremely thin skeletal face with sunken cheeks and eyes, a sparse "
+                   "wispy white beard down to the waist, a bald crown with a thin white topknot, pale brown skin",
+    'SUTIKSHNA': "about sixty, tall and very thin, a gaunt elongated face, eyes often gently closed, a medium-length pure "
+                 "white beard, long white hair falling loose over the shoulders, dark brown skin",
+    'RISHYASHRINGA': "about twenty-eight, slim and graceful, a soft innocent face with wide wondering eyes, a thin young "
+                     "dark beard just beginning, long black matted hair, light wheatish skin",
+    'VIBHANDAKA': "about seventy, tall and gaunt, a fierce narrow face with narrow piercing eyes, a wild unkempt grey "
+                  "beard and long tangled grey hair, very dark weathered skin",
+    'MATANGA': "about eighty-five, medium height and sturdy, a kindly deeply lined face, a long grey-white beard tied in "
+               "a knot at the end, dark forest-tanned skin",
+    'JABALI': "about seventy, lean scholar's build, a sharp intellectual narrow face, clean-shaven with a grey "
+              "moustache, quick clever eyes, light brown skin",
+}
+
+# Everyone else the Shorts also draw gets the Shorts' face, age and build, so a character looks the same in both
+# series and no two characters share one face or size (user, 2026-11-08: "make sure about other characters").
+# Ravana keeps the bible's look; gods, birds and the giant forms keep theirs.
+SHORTS_KEY = {'RAMA': 'RAMA_PRINCE', 'LAKSHMANA': 'LAKSHMANA_PRINCE', 'SITA': 'SITA_PRINCESS',
+              'JAMBAVANTHA': 'JAMBAVAN', 'AKSHAKUMARA': 'AKSHA'}
+NO_SHORTS_FACE = {'RAVANA', 'RAVANA_TEN', 'KHARA', 'DUSHANA', 'TRISHIRA', 'KABANDHA', 'DUNDUBHI', 'JATAYU', 'SAMPATI'}
+# Ages the Shorts keep in the look rather than the face
+AGE_EXTRA = {'DASHARATHA': 'in his sixties', 'KAUSALYA': 'in her fifties', 'SUMITRA': 'in her fifties',
+             'KAIKEYI': 'about forty', 'MANTHARA': 'about seventy, short', 'JANAKA': 'about fifty-five',
+             'SUMANTRA': 'about fifty-five', 'URMILA': 'about seventeen at her wedding',
+             'MANDAVI': 'about eighteen at her wedding', 'SHRUTAKIRTI': 'about seventeen at her wedding',
+             'AHALYA': 'about thirty-five', 'TRIJATA': 'elderly, tall and sturdy', 'MARICHA': 'aged, about sixty',
+             'SHRAVANA': 'about eighteen', 'YUDHAJIT': 'about forty', 'SAGARA': 'about seventy',
+             'SWAYAMPRABHA': 'about thirty', 'ANGADA': 'about twenty', 'INDRAJIT': 'about thirty',
+             'AKSHAKUMARA': 'about sixteen', 'SUBAHU': 'young and burly', 'PRAHASTA': 'middle-aged and heavy-set',
+             'MATALI': 'about fifty', 'MANDODARI': 'about forty-five'}
+# Rama, Lakshmana and Sita age with the story (Valmiki: Rama is not yet sixteen at Vishwamitra's yagna, twenty-five
+# at the exile, and about thirty-eight when the fourteen years end; Sita is eighteen at the exile, 3.47.10)
+STAGE_AGE = {
+    'RAMA': {'S1': 'a boy of about twelve', 'S2': 'a grown young man of about twenty-four',
+             'S3': 'a grown man of about twenty-six', 'S4': 'a grown man in his early thirties, mature and strong',
+             'S5': 'a mature man of about forty, calm and kingly'},
+    'LAKSHMANA': {'S1': 'a boy of about twelve', 'S2': 'a grown young man of about twenty-three',
+                  'S3': 'a grown man of about twenty-five', 'S4': 'a grown man of about thirty, lean and '
+                  'battle-hardened', 'S5': 'a mature man of about forty'},
+    'SITA': {'S1': 'about eighteen', 'S2': 'about twenty', 'S3': 'about twenty-two in appearance',
+             'S4': 'about twenty-eight in appearance, worn and thin from grief', 'S5': 'about thirty in appearance'},
+}
+
+
+def shorts_face(key):
+    """The Shorts' face, age and build for this character, or '' when it has none to share."""
+    if key in NO_SHORTS_FACE or key in SAGE_FACES:
+        return ''
+    ref = _SHORTS.get(SHORTS_KEY.get(key, key)) or {}
+    if ref.get('kind') != 'char' or ref.get('group') == 'god':
+        return ''
+    face = re.sub(r',\s*about twenty-two in appearance', '', ref.get('face') or '')
+    age = AGE_EXTRA.get(key, '')
+    if age and age not in face:
+        face = f'{face}, {age}' if face else age
+    return face
+
+
 def mark_for(key):
     if key in NO_MARK:
         return ''
@@ -589,6 +685,8 @@ def character(key, ep):
         look = BIBLE.get(key, {}).get('stages', {}).get(stage)
         if look:
             lock = lock.rstrip(' .;') + f'. In this episode: {look.strip().rstrip(".")}.'
+    if key in SAGE_FACES:
+        lock = (lock.rstrip(' .;') + f'; his own face and build, never the same as any other sage: {SAGE_FACES[key]}')
     if key in ('HANUMAN', 'SUGRIVA', 'VALI', 'TARA', 'ANGADA', 'NALA', 'NILA') and 'human-proportioned' not in lock:
         lock = f'{VANARA}; {lock}'
     if key in OWN_FACE and 'own face' not in lock:
@@ -596,8 +694,13 @@ def character(key, ep):
                                      if key in WOMEN else
                                      '; his own face, build and skin tone, never resembling Ravana (no Ravana-style crown, '
                                      'no upturned curled moustache) and clearly different from every other rakshasa')
-    mark = mark_for(key)
-    name = key.replace('_', ' ').title()
+    face = shorts_face(key)
+    if stage and key in STAGE_AGE:
+        face = f'{STAGE_AGE[key][stage]}, {face}' if face else STAGE_AGE[key][stage]
+    if face:
+        lock = lock.rstrip(' .;') + f'; own face and build: {face}'
+    mark = mark_for(key) if 'on the forehead' not in lock else ''   # the Shorts' looks already carry the mark
+    name = 'Ravana (ten-headed form)' if key == 'RAVANA_TEN' else key.replace('_', ' ').title()
     return f"{name}: {lock.rstrip(' .;')}" + (f"; {mark}" if mark else '')
 
 
@@ -615,4 +718,6 @@ def names_in(text):
         k = NAMES.get(m.group(1))
         if k and k not in found:
             found.append(k)
+    if 'RAVANA_TEN' in found and 'RAVANA' in found:   # the ten-headed form stands in for the one-headed look
+        found.remove('RAVANA')
     return found

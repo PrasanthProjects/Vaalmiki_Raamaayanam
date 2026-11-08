@@ -32,7 +32,7 @@ from soften import soft    # noqa: E402
 VOICES = {   # who speaks: Telugu name and the voice to cast (same voice in every video)
     'N': ('కథకుడు', 'warm, steady middle-aged male storyteller; clear everyday Telugu, never rushed'),
     'VALMIKI': ('వాల్మీకి మహర్షి', 'old sage, soft and deep, full of feeling'),
-    'NARADA': ('నారద మహర్షి', 'bright, joyful elderly sage, musical lilt'),
+    'NARADA': ('నారద మహర్షి', 'bright, joyful voice of a grown man of about twenty-five, musical lilt'),
     'BRAHMA': ('బ్రహ్మదేవుడు', 'very deep, calm, slow, with a light echo'),
     'DISCIPLE': ('భరద్వాజుడు (శిష్యుడు)', 'young man, gentle and respectful'),
     'RAMA': ('శ్రీరాములవారు', 'calm, warm, kingly baritone; never loud'),
@@ -44,6 +44,82 @@ VOICES = {   # who speaks: Telugu name and the voice to cast (same voice in ever
     'KUSHALAVA':('కుశలవులు', 'two young boys singing together, sweet, clear, in tune'),
     'SAGES': ('మునులు', 'a few old sages together, joyful'),
 }
+TE = {   # Telugu names for the cast list (respectful forms in narration style)
+    'NARADA': 'నారద మహర్షి', 'VALMIKI': 'వాల్మీకి మహర్షి', 'RAMA': 'శ్రీరాములవారు', 'SITA': 'సీతమ్మవారు',
+    'LAKSHMANA': 'లక్ష్మణుడు', 'BHARATA': 'భరతుడు', 'DASHARATHA': 'దశరథ మహారాజు', 'KAUSALYA': 'కౌసల్యాదేవి',
+    'KAIKEYI': 'కైకేయి', 'GUHA': 'గుహుడు', 'SUMANTRA': 'సుమంత్రుడు', 'VASHISHTHA': 'వసిష్ఠ మహర్షి',
+    'VIRADHA': 'విరాధుడు', 'AGASTYA': 'అగస్త్య మహర్షి', 'SHURPANAKHA': 'శూర్పణఖ', 'KHARA': 'ఖరుడు',
+    'RAVANA': 'రావణుడు – ఒకే తల (మామూలు సన్నివేశాలు)', 'RAVANA_TEN': 'రావణుడు – పది తలలు (కోపం, యుద్ధం, ముఖ్య ఘట్టాలు)', 'MARICHA': 'మారీచుడు', 'JATAYU': 'జటాయువు', 'KABANDHA': 'కబంధుడు', 'SHABARI': 'శబరి',
+    'HANUMAN': 'హనుమంతుడు', 'SUGRIVA': 'సుగ్రీవుడు', 'DUNDUBHI': 'దుందుభి (కళేబరం)', 'VALI': 'వాలి', 'TARA': 'తార',
+    'SAMPATI': 'సంపాతి', 'AKSHAKUMARA': 'అక్షకుమారుడు', 'NALA': 'నలుడు', 'VIBHISHANA': 'విభీషణుడు',
+    'PUSHPAKA_VIMANA': 'పుష్పక విమానం', 'BHARADWAJA': 'భరద్వాజ మహర్షి', 'BRAHMA': 'బ్రహ్మదేవుడు',
+}
+STAGE_TE = {'S1': 'బాల్యం', 'S2': 'అయోధ్యలో యువరాజు', 'S3': 'వనవాసం మొదలు (నారచీరలు)',
+            'S4': 'దండకారణ్యం నుండి లంక వరకు', 'S5': 'లంక తర్వాత, పట్టాభిషేకం'}
+SPEAKS = {'NARADA': 'NARADA', 'VALMIKI': 'VALMIKI', 'BHARATA': 'BHARATA', 'MARICHA': 'MARICHA',
+          'KABANDHA': 'KABANDHA', 'HANUMAN': 'HANUMAN', 'RAMA': 'RAMA', 'BRAHMA': 'BRAHMA'}
+
+
+@soft
+def ref_image_prompt(key, ep):
+    look = LS.character(key, ep)
+    if key in LS.OBJECTS:
+        return ("Object reference image for film continuity: the object only, no people, the whole of it in view, "
+                "centred, plain soft warm-grey studio background, even soft lighting, 16:9 frame. "
+                f"Style: {LS.STYLE}. Object: {look}. {LS.RESPECT} No text, letters, logos or watermarks.")
+    return ("Character reference image for film continuity: one character only, full body, standing, facing the "
+            "camera, centred, plain soft warm-grey studio background, even soft lighting, calm expression, 16:9 frame. "
+            f"Style: {LS.STYLE}. Character: {look}. {LS.RESPECT} No text, letters, logos or watermarks.")
+
+
+def cast_sheet(v):
+    """Every reference image the video needs, in order of first appearance, with scenes, shots and voice."""
+    seen, n = {}, 0
+    for si, sc in enumerate(v['scenes'], 1):
+        for shot in sc['shots']:
+            n += 1
+            for k in cast(shot)[0]:
+                r = ref_name(k, shot['ep'])
+                c = seen.setdefault(r, {'ref': r, 'key': k, 'ep': shot['ep'], 'scenes': [], 'shots': []})
+                if si not in c['scenes']:
+                    c['scenes'].append(si)
+                c['shots'].append(n)
+    out = []
+    for r, c in seen.items():
+        stage = r[len(c['key']) + 1:] if r != c['key'] else ''
+        sp = SPEAKS.get(c['key'])
+        out.append({'ref': r, 'te': TE.get(c['key'], c['key'].title()) + (f" · {STAGE_TE.get(stage, stage)}" if stage else ''),
+                    'scenes': c['scenes'], 'shots': c['shots'], 'prev': '',
+                    'voice': f"{VOICES[sp][0]} – {VOICES[sp][1]}" if sp else '',
+                    'prompt': ref_image_prompt(c['key'], c['ep'])})
+    for c in out:   # a later look of the same person is made from the earlier one
+        base = c['ref'].rsplit('_S', 1)[0]
+        earlier = [x['ref'] for x in out if x['ref'] != c['ref'] and x['ref'].rsplit('_S', 1)[0] == base
+                   and x['ref'] < c['ref'] and '_S' in c['ref']]
+        if earlier:
+            c['prev'] = earlier[-1]
+        if c['ref'] == 'RAVANA_TEN':   # the ten heads carry the one-headed Ravana's face
+            c['prev'] = 'RAVANA'
+    order = {c['ref']: i for i, c in enumerate(out)}
+    if 'RAVANA_TEN' in order and 'RAVANA' in order:   # make the one-headed look first
+        out.insert(order['RAVANA_TEN'], out.pop(order['RAVANA']))
+    return out
+
+
+def cast_md(cs):
+    rows = []
+    for i, c in enumerate(cs, 1):
+        rows.append(f"### {i}. {c['te']} · `{c['ref']}.png`\n\n"
+                    f"- 🎬 దృశ్యాలు: {', '.join(map(str, c['scenes']))} · షాట్‌లు: {', '.join(map(str, c['shots']))}\n"
+                    + (f"- 🗣 గొంతు: {c['voice']}\n" if c['voice'] else "- 🗣 మాటలు లేవు (కనిపిస్తారు మాత్రమే)\n")
+                    + (f"- 📎 ముందు `{c['prev']}.png` జత చేసి \"same person, same face\" అని చెప్పండి; దుస్తులు, రూపం మార్పు మాత్రమే.\n"
+                       if c['prev'] else '')
+                    + f"\n```text\n{c['prompt']}\n```\n")
+    return ("ముందు పాత్రలు, తర్వాత గొంతులు, ఆ తర్వాత కథ. ప్రతి పాత్రకు ఒక్కసారి రిఫరెన్స్ ఇమేజ్ చేసి "
+            "`Long_Videos/_reference_images/` లో ఇచ్చిన పేరుతో సేవ్ చేయండి; ప్రతి షాట్‌లో 📎 ఉన్న ఇమేజ్‌లు జత చేయండి. "
+            "ఆమోదించిన ఇమేజ్‌ను మార్చవద్దు.\n\n" + '\n'.join(rows))
+
+
 MOTION = ('fly', 'flies', 'flying', 'descend', 'leap', 'arrow', 'run', 'fall', 'burn', 'fight', 'battle', 'rise',
           'rising', 'vanish', 'walk', 'charg', 'swoop', 'storm', 'flame', 'build', 'carry', 'glide', 'sing', 'weep')
 def ref_name(key, ep):
@@ -193,17 +269,19 @@ def build(src):
     name = os.path.splitext(os.path.basename(src))[0]
     kanda = os.path.basename(os.path.dirname(src))
     cast_lines = sorted({line.split(': ', 1)[0].split('] ', 1)[1].replace(' (పాట)', '') for line in voice})
+    cs = cast_sheet(v)
     md = (f"# {v['title']}\n\n"
           f"**కథ:** {v['covers']} · **నిడివి:** సుమారు {mmss(t)} · **షాట్‌లు:** {n} · **తరువాత:** {v['next']}\n\n"
-          "**ఈ ఫైల్‌లో:** 1. స్క్రీన్‌ప్లే (షాట్ వారీగా) · 2. వాయిస్ స్క్రిప్ట్ · 3. సంగీతం & శబ్దాల క్యూ షీట్ · "
-          "4. ఇమేజ్ & వీడియో ప్రాంప్ట్‌లు\n\n"
-          "## 1. స్క్రీన్‌ప్లే\n" + '\n'.join(out) + "\n\n"
-          "## 2. వాయిస్ స్క్రిప్ట్ (రికార్డింగ్ కోసం)\n\n"
+          "**ఈ ఫైల్‌లో:** 1. పాత్రలు (రిఫరెన్స్ ఇమేజ్‌లు) · 2. గొంతులు & వాయిస్ స్క్రిప్ట్ · 3. స్క్రీన్‌ప్లే (కథ, షాట్ వారీగా) · "
+          "4. సంగీతం & శబ్దాల క్యూ షీట్ · 5. ఇమేజ్ & వీడియో ప్రాంప్ట్‌లు\n\n"
+          f"## 1. పాత్రలు ({len(cs)} రిఫరెన్స్ ఇమేజ్‌లు)\n\n" + cast_md(cs) + "\n\n"
+          "## 2. గొంతులు & వాయిస్ స్క్రిప్ట్ (రికార్డింగ్ కోసం)\n\n"
           "**గొంతులు:**\n\n" + '\n'.join(f"- **{VOICES[k][0]}:** {VOICES[k][1]}" for k in VOICES if VOICES[k][0] in cast_lines)
           + "\n\n```text\n" + '\n\n'.join(voice) + "\n```\n\n"
-          "## 3. సంగీతం & శబ్దాల క్యూ షీట్\n\n" + (f"{v['songnote']}\n\n" if v.get('songnote') else '')
+          "## 3. స్క్రీన్‌ప్లే (కథ)\n" + '\n'.join(out) + "\n\n"
+          "## 4. సంగీతం & శబ్దాల క్యూ షీట్\n\n" + (f"{v['songnote']}\n\n" if v.get('songnote') else '')
           + "| సమయం | రకం | క్యూ |\n|---|---|---|\n" + '\n'.join(music) + "\n\n"
-          "## 4. ఇమేజ్ & వీడియో ప్రాంప్ట్‌లు (16:9)\n\n"
+          "## 5. ఇమేజ్ & వీడియో ప్రాంప్ట్‌లు (16:9)\n\n"
           "ముందు 🖼️ ఇమేజ్ చేయండి (రిఫరెన్స్ ఇమేజ్‌లు జత చేసి). 🎥 షాట్‌లకు ఆ ఇమేజ్‌ను Flow → Frames to Video లో "
           "మొదటి ఫ్రేమ్‌గా పెట్టి వీడియో ప్రాంప్ట్ వాడండి; 🖼️ షాట్‌లకు ఇమేజ్ + ఎడిటర్‌లో నెమ్మది జూమ్/ప్యాన్ చాలు "
           "(కావాలంటే వీడియో కూడా చేయవచ్చు).\n\n" + '\n'.join(prompts))
@@ -212,7 +290,7 @@ def build(src):
     open(dst, 'w', encoding='utf-8', newline='\n').write(md)
     data = {'title': v['title'], 'covers': v['covers'], 'next': v['next'], 'length': mmss(t), 'songnote': v.get('songnote', ''),
             'voices': [[VOICES[k][0], VOICES[k][1]] for k in VOICES if VOICES[k][0] in cast_lines],
-            'voice': '\n\n'.join(voice), 'scenes': page}
+            'voice': '\n\n'.join(voice), 'cast': cs, 'scenes': page}
     tpl = open(os.path.join(HERE, 'page_template.html'), encoding='utf-8').read()
     html = tpl.replace('__TITLE__', v['title'].split(' | ')[0]).replace(
         '__DATA__', json.dumps(data, ensure_ascii=False).replace('</', '<\\/'))

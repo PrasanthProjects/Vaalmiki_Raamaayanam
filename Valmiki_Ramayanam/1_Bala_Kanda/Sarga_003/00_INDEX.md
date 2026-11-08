@@ -1,6 +1,6 @@
 # బాలకాండ · సర్గ 3 – సూచిక
 
-39 శ్లోకాలు · మొత్తం 68 🎥 వీడియో క్లిప్‌లు + 205 🖼️ ఇమేజ్‌లు. హెడ్‌లైన్ మీద క్లిక్ చేస్తే ఆ శ్లోకం ఫైల్ తెరుచుకుంటుంది. థంబ్‌నెయిల్‌లు అన్నీ ఒకేసారి: [thumbnails_canva.csv](thumbnails_canva.csv) (Canva → Bulk create).
+39 శ్లోకాలు · మొత్తం 71 🎥 వీడియో క్లిప్‌లు + 202 🖼️ ఇమేజ్‌లు. హెడ్‌లైన్ మీద క్లిక్ చేస్తే ఆ శ్లోకం ఫైల్ తెరుచుకుంటుంది. థంబ్‌నెయిల్‌లు అన్నీ ఒకేసారి: [thumbnails_canva.csv](thumbnails_canva.csv) (Canva → Bulk create).
 
 | శ్లోకం | థంబ్‌నెయిల్ హెడ్‌లైన్ | YouTube టైటిల్ | క్లిప్‌లు | క్యాప్షన్ |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@
 | 11 | [ధనుర్భంగం – కల్యాణం](Sloka_011.md) | శివధనుస్సు విరిగింది... కల్యాణం! 💍 · Ramayanam 1.3.11 | 2 🎥 + 5 🖼️ | [srt](captions/Sloka_011.srt) |
 | 12 | [ఇద్దరు రాములు!](Sloka_012.md) | పట్టాభిషేకం ముందే మారిన మనసు! ⚠️ · Ramayanam 1.3.12 | 1 🎥 + 6 🖼️ | [srt](captions/Sloka_012.srt) |
 | 13 | [ఆగిన పట్టాభిషేకం](Sloka_013.md) | ఆగిపోయిన పట్టాభిషేకం! 💔 · Ramayanam 1.3.13 | 2 🎥 + 5 🖼️ | [srt](captions/Sloka_013.srt) |
-| 14 | [ఊరంతా వెంట!](Sloka_014.md) | వెంట వచ్చిన ఊరంతా! 😢 · Ramayanam 1.3.14 | 1 🎥 + 6 🖼️ | [srt](captions/Sloka_014.srt) |
+| 14 | [ఊరంతా వెంట!](Sloka_014.md) | వెంట వచ్చిన ఊరంతా! 😢 · Ramayanam 1.3.14 | 2 🎥 + 5 🖼️ | [srt](captions/Sloka_014.srt) |
 | 15 | [గంగ దాటి చిత్రకూటం](Sloka_015.md) | గంగ దాటి చిత్రకూటానికి! ⛰️ · Ramayanam 1.3.15 | 2 🎥 + 5 🖼️ | [srt](captions/Sloka_015.srt) |
 | 16 | [అన్నా, తిరిగి రా!](Sloka_016.md) | అన్నా... తిరిగి రా! 🙏 · Ramayanam 1.3.16 | 3 🎥 + 4 🖼️ | [srt](captions/Sloka_016.srt) |
 | 17 | [పాదుకల పాలన](Sloka_017.md) | పాదుకలకు పట్టాభిషేకం! 👣 · Ramayanam 1.3.17 | 1 🎥 + 6 🖼️ | [srt](captions/Sloka_017.srt) |
@@ -37,9 +37,9 @@
 | 31 | [శ్రీరాములవారి గుర్తు](Sloka_031.md) | శ్రీరాములవారి గుర్తు, త్రిజట కల! 💭 · Ramayanam 1.3.31 | 1 🎥 + 6 🖼️ | [srt](captions/Sloka_031.srt) |
 | 32 | [చూడామణి!](Sloka_032.md) | చూడామణి, అశోకవన ధ్వంసం! 💥 · Ramayanam 1.3.32 | 3 🎥 + 4 🖼️ | [srt](captions/Sloka_032.srt) |
 | 33 | [లంకా దహనం](Sloka_033.md) | లంకా దహనం! 🔥 · Ramayanam 1.3.33 | 3 🎥 + 4 🖼️ | [srt](captions/Sloka_033.srt) |
-| 34 | [సముద్రం మీద దారి](Sloka_034.md) | సముద్రం మీద సేతువు! 🌉 · Ramayanam 1.3.34 | 1 🎥 + 6 🖼️ | [srt](captions/Sloka_034.srt) |
+| 34 | [సముద్రం మీద దారి](Sloka_034.md) | సముద్రం మీద సేతువు! 🌉 · Ramayanam 1.3.34 | 2 🎥 + 5 🖼️ | [srt](captions/Sloka_034.srt) |
 | 35 | [శత్రువు తమ్ముడే మిత్రుడు](Sloka_035.md) | విభీషణుడి స్నేహం! 🤝 · Ramayanam 1.3.35 | 2 🎥 + 5 🖼️ | [srt](captions/Sloka_035.srt) |
-| 36 | [రావణ వధ](Sloka_036.md) | రావణ వధ! ⚔️ · Ramayanam 1.3.36 | 2 🎥 + 5 🖼️ | [srt](captions/Sloka_036.srt) |
+| 36 | [రావణ వధ](Sloka_036.md) | రావణ వధ! ⚔️ · Ramayanam 1.3.36 | 3 🎥 + 4 🖼️ | [srt](captions/Sloka_036.srt) |
 | 37 | [ఇంటి వైపు!](Sloka_037.md) | పుష్పకంలో అయోధ్యకు! 🕊️ · Ramayanam 1.3.37 | 3 🎥 + 4 🖼️ | [srt](captions/Sloka_037.srt) |
 | 38 | [శ్రీరామ పట్టాభిషేకం](Sloka_038.md) | శ్రీరామ పట్టాభిషేకం! 👑 · Ramayanam 1.3.38 | 1 🎥 + 6 🖼️ | [srt](captions/Sloka_038.srt) |
 | 39 | [జరగబోయేది కూడా!](Sloka_039.md) | జరగబోయేది కూడా రాశారు! 📖 · Ramayanam 1.3.39 | 1 🎥 + 6 🖼️ | [srt](captions/Sloka_039.srt) |

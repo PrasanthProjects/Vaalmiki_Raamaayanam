@@ -100,12 +100,47 @@ def hands_note(keys, *texts):
                                                                     ' '.join(texts), re.I) else ''
 
 
+# Framing per clip role, and the scroll-stopping first frame of the hook (first made on the live pages, brought
+# into the builder on 2026-11-08 so a rebuild keeps them).
+HOOK_FRAME = ("This is the very first frame of a YouTube Short and must stop the scroll: show the most emotional moment "
+              "of this scene as a bold close-up or medium close-up, faces and expressions large and clearly readable, "
+              "strong dramatic devotional lighting with rich contrast, one clear focal point and an uncluttered "
+              "background; reverent and dignified, never frightening. ")
+CINE = {
+    'హుక్': "a striking, cinematic opening composition like the key art of a high-end Indian mythological film, the "
+            "emotion of the moment (wonder, devotion, sorrow, courage or resolve) instantly clear in the eyes and "
+            "posture, warm rim light separating the characters from the background, shallow depth of field.",
+    'తాత్పర్యం – 1': "a cinematic storytelling shot like a high-end Indian mythological film: medium or medium-close "
+                     "framing at eye level, the characters' emotion (devotion, sorrow, resolve or joy) clearly readable "
+                     "in their eyes, faces and posture, motivated lighting with a soft rim light separating them from "
+                     "the background, shallow depth of field, rich foreground and background depth.",
+    'తాత్పర్యం – 2': "a cinematic storytelling shot like a high-end Indian mythological film: a different angle from "
+                     "the previous shot (over-the-shoulder, profile or reaction close-up), the characters' emotion "
+                     "clearly readable in their eyes, faces and posture, motivated lighting with a soft rim light, "
+                     "shallow depth of field, rich foreground and background depth.",
+    'శ్లోక పఠనం – 1': "a sacred, majestic shot for the sloka recital: the scene's central image framed with "
+                      "near-symmetry from a gentle low angle that gives dignity, golden god rays and soft floating "
+                      "light particles, the main subject in the middle third with calm, uncluttered space in the upper "
+                      "and lower thirds for the on-screen sloka text.",
+    'శ్లోక పఠనం – 2': "a sacred, majestic shot for the sloka recital, slightly closer than the previous one: "
+                      "near-symmetrical framing, soft golden divine light and floating light particles, the main "
+                      "subject in the middle third with calm, uncluttered space in the upper and lower thirds for the "
+                      "on-screen sloka text.",
+    'జీవిత పాఠం': "a calm, reflective, symbolic shot: medium-wide framing in a peaceful natural setting, soft warm "
+                  "light, a sense of stillness that lets the lesson sink in.",
+    'ముగింపు & CTA': "a warm, hopeful closing shot in soft golden light, composed so that it flows naturally back "
+                     "into the opening shot when the Short loops.",
+}
+
+
 @soft
-def still(keys, frame, light):
+def still(keys, frame, light, role=None):
     keys = order(keys)
+    cine = f"Cinematography: {CINE[role]} " if role in CINE else ''
     return ("Vertical 9:16 cinematic still image, 1080x1920, main subject in the centre safe area. "
+            f"{HOOK_FRAME if role == 'హుక్' else ''}"
             f"{QUALITY_STILL} {use_sentence(keys)}Style: {STYLE}. {cast(keys, False)}"
-            f"Scene: {frame}{hands_note(keys, frame)} Lighting and atmosphere: {light} "
+            f"Scene: {frame}{hands_note(keys, frame)} Lighting and atmosphere: {light} {cine}"
             f"{ANATOMY}. {RESPECT} No text, letters, logos or watermarks.")
 
 
@@ -113,6 +148,9 @@ STABLE = ("Keep it stable: every character keeps exactly the same face, hair, cl
           "as in the start frame for the whole shot; nobody new appears and nobody disappears; no sudden or jerky "
           "movements, no running, jumping or turning unless the action says so; hands and weapons stay natural; "
           "the background and props stay fixed; one continuous shot with no cuts and no scene change.")
+STABLE_HOOK = ("Keep every character exactly the same face, hair, clothes, ornaments, colours and size as in the start "
+               "frame for the whole shot; nobody new appears and nobody disappears; hands and weapons stay natural; "
+               "one continuous shot with no cuts and no scene change.")
 GENTLE = ("Only small, natural, gentle movement: soft breathing, a slow blink, a slight turn of the head or eyes, "
           "clothes, hair and leaves stirring in a light breeze, lamp flames and water shimmering softly; "
           "the characters stay in their places and keep their poses.")
@@ -136,17 +174,29 @@ RESPECT_VIDEO = RESPECT.replace('Everyone is fully', 'Every person is fully') \
 
 
 @soft
-def start_video(keys, frame, motion, cam, light, action):
+def start_video(keys, frame, motion, cam, light, action, hook=False):
     """Flow Frames to Video: the image made with still() is the first frame and the look to follow. Action clips
-    play their motion over 0–2 s settle / 2–6 s action / 6–8 s rest; the other clips only breathe."""
+    play their motion over 0–2 s settle / 2–6 s action / 6–8 s rest; the other clips only breathe. The hook
+    (first clip) moves boldly from the first second, to stop the scroll (user, 2026-11-08)."""
     keys = order(keys)
-    move = (f"Action, slow and smooth: 0–2 s hold the start frame and settle; 2–6 s {motion}; 6–8 s come to rest "
-            "and hold the final pose." if action else GENTLE)
-    cam = cam if action else 'a very slow, steady push-in'
+    if hook:
+        motion, cam = motion.rstrip(' .'), re.sub(r'(?i)(very )?slow(ly)?\s*', '', cam.rstrip(' .'), count=1).strip() or 'push-in'
+        move = (f"Action, bold and dramatic from the very first second (this is the opening hook of a YouTube Short "
+                f"and must stop the scroll): 0–1 s the motion starts at once, no still hold; 1–6 s {motion}, with "
+                "strong, clearly visible movement all through the frame: wind in the hair and cloth, swirling dust, "
+                "leaves, petals or sparks, light flaring and shifting; 6–8 s end on a striking, emotional close-up "
+                "and hold.")
+        cam = (f"{cam}; a bold, sweeping cinematic move (a fast push-in, a rising crane or an orbit around the "
+               "subject), smooth and stable, no shake")
+    else:
+        cam = cam.rstrip(' .')
+        move = (f"Action, slow and smooth: 0–2 s hold the start frame and settle; 2–6 s {motion}; 6–8 s come to "
+                "rest and hold the final pose." if action else GENTLE)
+        cam = (cam if action else 'a very slow, steady push-in') + '; slow, steady and smooth, no shake, no sudden zoom'
     return (f"{VIDEO_START}{FOLLOW_IMAGE}"
             f"{QUALITY_VIDEO} {use_sentence(keys)}Style: {VIDEO_STYLE}. {cast(keys, True)}"
-            f"The frame shows: {frame}{hands_note(keys, frame, motion)} {move} Camera: {cam}; slow, steady and "
-            f"smooth, no shake, no sudden zoom. Lighting and effects: {light} {STABLE} {ANATOMY}; physically "
+            f"The frame shows: {frame}{hands_note(keys, frame, motion)} {move} Camera: {cam}. "
+            f"Lighting and effects: {light} {STABLE_HOOK if hook else STABLE} {ANATOMY}; physically "
             f"consistent motion with no morphing or flicker. {RESPECT_VIDEO} No text, letters, subtitles, logos or "
             "watermarks anywhere in the frame. Audio: soft ambient atmosphere only, no speech, no singing, no music.")
 

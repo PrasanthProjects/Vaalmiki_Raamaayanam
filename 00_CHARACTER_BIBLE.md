@@ -122,9 +122,9 @@ This is a hard production rule, not a suggestion, because getting it wrong is ex
 |---|---|---|---|
 | S1 — boy | RAMA-S1 | Baala Khaanda, birth → Vishwamitra's yagna → swayamvara | Slim boyish build, no facial hair, cream/kaavi silk dhoti, simple topknot |
 | S2 — bridegroom | RAMA-S2 | End of Baala Khaanda → start of Ayodhya Khaanda | Same face, broader shoulders, gold-zari silk, princely jewelry |
-| S3 — exile begins | RAMA-S3 | Ayodhya Khaanda exile onward → Aranya Khaanda | Jewelry removed, valkala (bark-cloth), coiled jataa begins, light beard |
-| S4 — deep exile | RAMA-S4 | Rest of Aranya → Kishkindha → Sundara → Yuddha | Full jataa, visible beard, sun-weathered skin, valkala throughout — no jewelry/princely dress until coronation |
-| S5 — coronation | RAMA-S5 | Final Yuddha Khaanda scene | Beard trimmed, royal hair + crown, full king's silk and jewelry return |
+| S3 — exile begins | RAMA-S3 | Ayodhya Khaanda exile onward → Aranya Khaanda | Jewelry removed, valkala (bark-cloth), coiled jataa begins, always clean-shaven |
+| S4 — deep exile | RAMA-S4 | Rest of Aranya → Kishkindha → Sundara → Yuddha | Full jataa, still clean-shaven (no beard or moustache), sun-weathered skin, valkala throughout — no jewelry/princely dress until coronation |
+| S5 — coronation | RAMA-S5 | Final Yuddha Khaanda scene | Clean-shaven, royal hair + crown, full king's silk and jewelry return |
 
 **Voice:** Male, young adult (~25-28 vocal quality), calm and steady, never raises pitch under stress, measured/deliberate pace — strength through steadiness, not volume. (Reference spec only, since characters do not speak aloud in this production — used if a future phase adds voice acting.)
 
@@ -145,7 +145,7 @@ This is a hard production rule, not a suggestion, because getting it wrong is ex
 
 ### లక్ష్మణుడు — LAKSHMANA
 **Role:** Rama's younger brother, son of Sumitra, devoted, quick-tempered.
-**Visual Lock:** Golden-fair skin, sharp alert eyes, lean strong build, shorter hair than Rama, one year younger, always at Rama's side. Stays clean-shaven even through the exile stages (deliberate distinguishing choice from Rama's beard, for at-a-glance recognition).
+**Visual Lock:** Golden-fair skin, sharp alert eyes, lean strong build, shorter hair than Rama, one year younger, always at Rama's side. Stays clean-shaven through the exile, like Rama (both always clean-shaven, as in the Shorts); told apart from Rama by his golden-fair skin, sharper face and shorter jata.
 
 **Age/Appearance Stages (his own — the exile stages follow Valmiki: bark garments when leaving Ayodhya, 2.37; hair matted with banyan sap at Shringaverapura, 2.52):**
 | Stage | Tag | Coverage | Look |
@@ -210,7 +210,7 @@ This is a hard production rule, not a suggestion, because getting it wrong is ex
 
 ### నారద మహర్షి — SAGE NARADA
 **Role:** Wandering divine sage/messenger; narrates the condensed Ramayana to Valmiki (Ep 0.1); may recur briefly elsewhere as a messenger figure.
-**Visual Lock:** Elderly-but-ageless, white beard, tall hair-knot, simple white/saffron robes, ALWAYS carries a veena — his single identifying prop, present in every scene. Usually shown mid-stride/mid-flight rather than seated — energetic and mobile, distinct from the stiller generic-sage look.
+**Visual Lock:** A grown man of about twenty-five — a full adult, never a boy or teenager (mature face, firm jawline, broad shoulders) — clean-shaven with no beard and no moustache, black hair in a tall hair-knot wound with small white flowers, simple white/saffron robes, ALWAYS carries a veena — his single identifying prop, present in every scene. Usually shown mid-stride/mid-flight rather than seated — energetic and mobile, distinct from the stiller generic-sage look.
 **Voice:** Male, ageless, light and quick, warm and lively — noticeably more animated/conversational than other elderly sages, brisker pace.
 
 ### విశ్వామిత్ర మహర్షి — SAGE VISHWAMITRA
@@ -332,7 +332,7 @@ This is a hard production rule, not a suggestion, because getting it wrong is ex
 
 ### జటాయువు — JATAYU
 **Role:** Noble vulture-king; dies fighting Ravana to save Sita (Aranya Khaanda).
-**Visual Lock:** A real giant bird with true bird anatomy, never a bird-man or human figure: a great Indian vulture's body, two vast wings, two strong scaly yellow-grey taloned feet, no arms, no hands, no human face or body. Rich golden-brown and bronze feathers with darker wing tips, a soft cream-white feather ruff round the neck, a few silvery-grey feathers showing his great age, a strong hooked golden-yellow beak, wise kind dark-amber eyes. No clothing of any kind (no dhoti, robe, cloth, sash or armour); only a small golden crown and a thin gold neck chain. Noble, gentle and protective, a warrior-elder and grandfather of the forest, never a scavenger. He is a giant bird, far bigger than any man: standing, his head rises well above a tall man's head, his body is bigger than a horse and his spread wings are wider than a house; beside Rama, Sita or Lakshmana he always looks huge, also when he lies on the ground. Only in his scenes after the fight with Ravana: his left wing almost cut away by Ravana's sword, hanging torn with many long feathers missing, thin streaks of deep red colour on his feathers in a few places like the marks of Ravana's sword strokes (light, never heavy), ruffled scattered feathers, tired eyes; noble and dignified to the end.
+**Visual Lock:** A real giant bird with true bird anatomy, never a bird-man or human figure: a great Indian vulture's body, two vast wings, two strong scaly yellow-grey taloned feet, no arms, no hands, no human face or body. Rich golden-brown and bronze feathers with darker wing tips, a soft cream-white feather ruff round the neck, a few silvery-grey feathers showing his great age, a strong hooked golden-yellow beak, wise kind dark-amber eyes. No clothing of any kind (no dhoti, robe, cloth, sash or armour); no ornaments of any kind (no crown, no chain, no gold anywhere), only his own natural feathers. Noble, gentle and protective, a warrior-elder and grandfather of the forest, never a scavenger. He is a giant bird, far bigger than any man: standing, his head rises well above a tall man's head, his body is bigger than a horse and his spread wings are wider than a house; beside Rama, Sita or Lakshmana he always looks huge, also when he lies on the ground. Only in his scenes after the fight with Ravana: his left wing almost cut away by Ravana's sword, hanging torn with many long feathers missing, thin streaks of deep red colour on his feathers in a few places like the marks of Ravana's sword strokes (light, never heavy), ruffled scattered feathers, tired eyes; noble and dignified to the end.
 **Voice:** Male, elderly, gravelly but noble — warm/protective on first meeting Rama's group, determined and pained during the Ravana fight and dying speech.
 
 ### అయోముఖి — AYOMUKHI
@@ -347,7 +347,7 @@ This is a hard production rule, not a suggestion, because getting it wrong is ex
 
 ### రావణాసురుడు — RAVANA
 **Role:** Ten-headed demon king of Lanka, primary antagonist (Aranya through Yuddha Khaanda).
-**Visual Lock:** Powerfully built, ten heads in a fan/crown formation OR a single head with a ten-headed crown/halo motif — pick ONE convention at first appearance and never mix it mid-series. Twenty arms in full-power depictions (can simplify in normal conversation scenes, but stay consistent within an episode). Dark reddish-bronze skin, elaborate crown, heavy gold jewelry, dark-red-black-gold royal demon attire, fierce fanged expression capable of shifting to falsely courteous/seductive when addressing Sita. No aging across his 4-Khaanda span — identical lock throughout. **Convention locked at first appearance (E3.14):** ten heads in a fan formation, twenty arms in full-power depictions — following the source's own description ("వింశత్ భుజం దశ గ్రీవం", p. 267). Source details to keep: old scars on his chest from Indra's vajra, Airavata's tusks and Vishnu's chakra; burnished gold earrings; white teeth; a vast mouth.
+**Visual Lock:** Ravana, king of Lanka, as in classic Telugu mythological films: a magnificent, handsome emperor, never a monster — no fangs, tusks, horns or red eyes. A mature man in the prime of life, about fifty; very tall, bulky and immensely strong, broad chest and thick muscular arms; fair, glowing golden-wheatish skin; a very tall tiered golden kirita crown set with rubies and pearls that no other character wears; heavy gold jewellery and large burnished gold earrings; red-and-black royal silk dhoti, black armour with gold and red accents, flowing red cape; huge sword (Chandrahasa); proud regal bearing. Face: handsome noble face with a strong chin, large bright commanding eyes, thick arched black eyebrows, straight proud nose, big thick rounded moustache curled upward at both ends, no beard. Old scars on his chest from Indra's vajra, Airavata's tusks and Vishnu's chakra (Valmiki). One head and two arms in ordinary scenes; ten heads in one row (Dashakantha, still two arms) only in fury, fights and the final battle. No aging across his 4-Khaanda span. The prompt text comes from the Shorts library (shorts_refs.json RAVANA / RAVANA_TEN), so all series show the same Ravana.
 **Voice:** Male, mature/powerful/deep, booming and arrogant, capable of falsely courteous tones with Sita but always with an undertone of menace and ego — the most theatrical villain voice in the series. Deliberate, grandiose pace.
 
 ### కుంభకర్ణుడు — KUMBHAKARNA
@@ -362,12 +362,12 @@ This is a hard production rule, not a suggestion, because getting it wrong is ex
 
 ### విభీషణుడు — VIBHISHANA
 **Role:** Ravana's righteous younger brother; defects to Rama's side (Yuddha Khaanda).
-**Visual Lock:** A rakshasa but visually gentler than Ravana — less fanged/fierce, calmer posture, a long gentle face with soft kind eyes and a neat short black beard, slim build, light-brown skin, simpler/less ostentatious royal dress, worried/earnest expression reflecting his internal conflict.
+**Visual Lock:** A rakshasa but visually gentler than Ravana — calm, never fierce, a quiet posture, a long gentle face with soft kind eyes and a neat short black beard, slim build, light-brown skin, simpler/less ostentatious royal dress, worried/earnest expression reflecting his internal conflict.
 **Voice:** Male, earnest, troubled, morally serious — noticeably more restrained/thoughtful than Ravana's bombast.
 
 ### మండోదరి — MANDODARI
 **Role:** Ravana's queen; pleads with him to avoid war, especially late in Yuddha Khaanda.
-**Visual Lock:** Dignified demon queen of about thirty-five, a soft oval face with sad wise almond eyes and a fair complexion, sorrowful/pleading demeanor increasing as the war progresses.
+**Visual Lock:** Dignified demon queen of about forty-five (Indrajit is her grown son), tall and stately, sorrowful/pleading demeanor increasing as the war progresses.
 **Voice:** Female, elegant, increasingly desperate as the war progresses.
 
 ### అక్షకుమారుడు — AKSHAKUMARA
@@ -426,7 +426,7 @@ This is a hard production rule, not a suggestion, because getting it wrong is ex
 
 ### హనుమంతుడు — HANUMAN
 **Role:** Vanara devotee of Rama; central figure of Sundara Khaanda, present through Yuddha Khaanda.
-**Visual Lock:** Per the VANARA DESIGN BASELINE above — a powerfully muscular, human-proportioned warrior body (broad chest, defined arms/legs, bare golden-tan-to-reddish skin on torso and limbs) topped with an expressive, intelligent simian face and fur-covered head/face/lower limbs, long visible tail. Distinctive orange/reddish fur tone. Devotional ornamentation: simple gold armlets and a sash by default, hands folded in devotion when facing Rama/Sita; can carry his gada (mace) in action poses. Dynamic, powerful heroic poses in action; calm, humble, folded-hand posture in devotional moments. No age/appearance change point — but shown at dramatically different SCALES (normal vs. giant); note which scale each prompt needs while keeping the face/fur/features identical.
+**Visual Lock:** Per the VANARA DESIGN BASELINE above — a powerfully muscular, human-proportioned warrior body (broad chest, defined arms/legs, bare golden-tan-to-reddish skin on torso and limbs) topped with an expressive, intelligent simian face and fur-covered head/face/lower limbs, long visible tail. Distinctive orange/reddish fur tone. Devotional ornamentation: simple gold armlets and a sash by default, hands folded in devotion when facing Rama/Sita; can carry his gada (mace) in action poses. Dynamic, powerful heroic poses in action; calm, humble, folded-hand posture in devotional moments. Shown at two sizes, normal and giant, always with the same face, fur and features.
 **Voice:** Male, ageless-but-mature, devoted/warm/humble with Rama and Sita, powerful/commanding addressing Ravana's court or in battle, capable of clever wit, energetic/quick pace generally but tender and careful when first speaking to Sita in captivity.
 
 ### సుగ్రీవుడు — SUGRIVA
@@ -471,7 +471,7 @@ This is a hard production rule, not a suggestion, because getting it wrong is ex
 
 ### సంపాతి — SAMPATI
 **Role:** Jatayu's older brother; wingless vulture who reveals Sita's location in Lanka (Kishkindha Khaanda), regains his wings.
-**Visual Lock:** Same kind of real giant vulture as Jatayu (true bird anatomy, no arms or hands, no clothing of any kind; duller bronze-brown feathers greyed with age, noble bearing) but initially WITHOUT flight feathers — grounded, weathered, resigned. Final moment: wings dramatically regrow in a burst of feathers/light, triumphant flight.
+**Visual Lock:** Same kind of real giant vulture as Jatayu (true bird anatomy, no arms or hands, no clothing of any kind and no ornaments of any kind (no crown, no chain, no gold anywhere); duller bronze-brown feathers greyed with age, noble bearing; a giant bird far bigger than any man, his body bigger than a horse, so beside the vanaras he always looks huge) but initially WITHOUT flight feathers — grounded, weathered, resigned. Final moment: wings dramatically regrow in a burst of feathers/light, triumphant flight.
 **Voice:** Male, elderly, similar register to Jatayu but wearier/more resigned — lifts and brightens at the triumphant final moment.
 
 ### మతలి — MATALI
