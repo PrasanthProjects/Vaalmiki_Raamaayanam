@@ -1,3 +1,24 @@
-// Written by tools/make_data.py
+// Written by tools/make_data.py, make_movie_data.py and make_long_data.py
 import d0 from './1_Bala_Kanda_S001.json';
+import m0 from './movie_1_Bala_Kanda_S001_sarga1.json';
+import m1 from './slim/long_1_Baala_Khaanda_V01.json';
+import m2 from './slim/long_1_Baala_Khaanda_V02.json';
+import m3 from './slim/long_1_Baala_Khaanda_V03.json';
+import m4 from './slim/long_1_Baala_Khaanda_V04.json';
+import m5 from './slim/long_1_Baala_Khaanda_V05.json';
+import m6 from './slim/long_1_Baala_Khaanda_V06.json';
+import m7 from './slim/long_1_Baala_Khaanda_V07.json';
+import m8 from './slim/long_1_Baala_Khaanda_V08.json';
+import m9 from './slim/long_1_Baala_Khaanda_V09.json';
+import m10 from './slim/long_1_Baala_Khaanda_V10.json';
+import m11 from './slim/long_1_Baala_Khaanda_V11.json';
+import m12 from './slim/long_1_Baala_Khaanda_V12.json';
+import m13 from './slim/long_1_Baala_Khaanda_V13.json';
+import m14 from './slim/long_1_Baala_Khaanda_V14.json';
+import m15 from './slim/long_1_Baala_Khaanda_V15.json';
+import m16 from './slim/long_1_Baala_Khaanda_V16.json';
 export const SARGAS = [d0];
+export const MOVIES = [m0, m1, m2, m3, m4, m5, m6, m7, m8, m9, m10, m11, m12, m13, m14, m15, m16];
+import p0 from './presenter_cinema_vs_valmiki_P1.json';
+import p1 from './presenter_cinema_vs_valmiki_P2.json';
+export const PRESENTERS = [p0, p1];

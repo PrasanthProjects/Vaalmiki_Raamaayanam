@@ -289,10 +289,33 @@ h1 mark { background: none; color: var(--saffron); }
     const a = el('a', 'chip', '🎬 Video Maker లో ఈ శ్లోకం తెరవండి'); a.href = url; a.target = '_blank'; a.rel = 'noopener';
     const c = el('button', 'chip', 'లింక్ కాపీ'); c.dataset.label = 'లింక్ కాపీ'; c.addEventListener('click', () => copyText(url, c));
     row.append(a, c);
+    const mu = D.music, mood = mu && mu.of && mu.of[String(s.n)];
+    if (mood && mu.moods[mood]) {
+      // the Short's background music: its mood and the Suno prompt (the same five tracks serve every Short)
+      const box = el('div', 'tip');
+      box.append(el('div', '', '🎵 బ్యాక్‌గ్రౌండ్ సంగీతం: ' + mu.moods[mood].label +
+        ' – Video Maker లో "ఐదు భావాల సంగీతం" లోని ఈ భావం బాక్స్‌లో ఒక్కసారి పెడితే, ఈ భావం ఉన్న అన్ని Shorts కి అదే వస్తుంది. ' +
+        'Suno లో Custom + Instrumental ఆన్ చేసి, ఇది Style of Music లో పేస్ట్ చేయండి. Exclude styles: ' + mu.exclude));
+      const pr = promptBox(mu.moods[mood].prompt, 'Suno ప్రాంప్ట్ కాపీ');
+      b.append(box, pr);
+    }
+    const ev = D.eleven && D.eleven[String(s.n)];
+    if (ev) {
+      // the four voice parts, ready for ElevenLabs (one file each, dropped into the same-numbered voice box)
+      const dt = el('details', 'sheet'); dt.append(el('summary', '', '🎙 ElevenLabs డైలాగ్‌లు – 4 భాగాలు (కాపీ చేసి Generate చేయండి)'));
+      dt.append(el('p', 'note', 'Eleven v3, అన్ని Shorts కి ఒకే గొంతు. [ ] లోని ఇంగ్లీష్ సూచనలు ఎలా చెప్పాలో చెబుతాయి – అవి చదవబడవు. ' +
+        'ప్రతి భాగాన్ని వేరుగా Generate చేసి, MP3 ని Video Maker లో అదే నంబర్ వాయిస్ బాక్స్‌లో వదలండి. శ్లోకానికి Stability: Robust.'));
+      [['voice1', '1 · హుక్'], ['voice2', '2 · శ్లోకం'], ['voice3', '3 · తాత్పర్యం & జీవిత పాఠం'], ['voice4', '4 · ముగింపు']].forEach(([k, t]) => {
+        if (ev[k]) { dt.append(el('div', 'label', t)); dt.append(promptBox(ev[k], 'ElevenLabs కాపీ')); } });
+      b.append(dt);
+    }
     b.append(el('div', 'label', '🎬 వీడియో తయారీ (మీ కంప్యూటర్‌లో)'),
       el('p', 'note', 'క్లిప్‌లు, వాయిస్ సిద్ధమయ్యాక: ముందు Video_Maker ఫోల్డర్‌లోని START_VIDEO_MAKER.bat డబుల్-క్లిక్ చేయండి. తరువాత ఈ బటన్ నొక్కితే ఈ శ్లోకం పేజీ తెరుచుకుంటుంది – ఫైల్‌లు లాగి వదిలి, "వీడియో తయారు చేయండి" నొక్కండి. బటన్ తెరుచుకోకపోతే లింక్ కాపీ చేసి బ్రౌజర్‌లో పేస్ట్ చేయండి.'), row);
     return b;
   }
+  const ALT_ANGLE = 'SECOND SHOT of this same moment, for a cut: show the exact same scene from a clearly different camera angle. ' +
+    'If the shot above is wide or medium, make this a close-up of the main character\'s face, eyes and hands; if it is already close, make this a wide shot that shows the whole place. ' +
+    'Keep the same characters, faces, clothes, ornaments, light, time of day and place; same art style.';
   function renderClips(s) {
     const p = $('panel');
     const sl = el('div', 'sloka'); s.sloka.forEach((l) => sl.append(el('p', '', l)));
@@ -335,10 +358,18 @@ h1 mark { background: none; color: var(--saffron); }
       if (c.kind === 'video' && prev && prev.kind === 'video' && c.refs.some((r) => prev.refs.includes(r)))
         card.append(el('p', 'tip', '🔗 ముందు క్లిప్ కూడా వీడియో, అదే పాత్రలు ఉన్నాయి: Flow లో "Frames to video" వాడి, క్లిప్ ' + prev.no + ' చివరి ఫ్రేమ్‌ను ఈ క్లిప్ మొదటి ఫ్రేమ్‌గా ఇవ్వండి – రెండు క్లిప్‌లు సాఫీగా కలుస్తాయి.'));
       if (c.imagePrompt && c.videoPrompt) {   // image first, then Frames to Video
-        card.append(el('div', 'eyebrow', '🖼️ ఇమేజ్ ప్రాంప్ట్ (Flow / Imagen)'), promptBox(c.imagePrompt, 'ఇమేజ్ ప్రాంప్ట్ కాపీ'),
-          el('div', 'eyebrow', '🎥 వీడియో ప్రాంప్ట్ (Flow – Frames to Video: పై ఇమేజ్‌ను మొదటి ఫ్రేమ్‌గా పెట్టండి)'
+        card.append(el('div', 'eyebrow', c.endImagePrompt ? '🖼️ 1. మొదటి ఇమేజ్ ప్రాంప్ట్ (Flow / Imagen)' : '🖼️ ఇమేజ్ ప్రాంప్ట్ (Flow / Imagen)'), promptBox(c.imagePrompt, 'ఇమేజ్ ప్రాంప్ట్ కాపీ'));
+        if (c.endImagePrompt) card.append(el('div', 'eyebrow', '🖼️ 2. చివరి ఇమేజ్ ప్రాంప్ట్ (రిఫరెన్స్‌లు + మొదటి ఇమేజ్ జత చేసి)'), promptBox(c.endImagePrompt, 'చివరి ఇమేజ్ కాపీ'));
+        card.append(
+          el('div', 'eyebrow', (c.endImagePrompt ? '🎥 3. వీడియో ప్రాంప్ట్ (Flow – Frames to Video: మొదటి ఇమేజ్ = మొదటి ఫ్రేమ్, చివరి ఇమేజ్ = చివరి ఫ్రేమ్)' : '🎥 వీడియో ప్రాంప్ట్ (Flow – Frames to Video: పై ఇమేజ్‌ను మొదటి ఫ్రేమ్‌గా పెట్టండి)')
             + (c.kind === 'video' ? ' · యాక్షన్' : ' · మెల్లని కదలిక')), promptBox(c.videoPrompt, 'వీడియో ప్రాంప్ట్ కాపీ'));
       } else card.append(promptBox(c.prompt));
+      // a second camera angle of the same moment, for the Video Maker's "+ 2వ" spot (the box then cuts between them)
+      const base = c.imagePrompt || (c.kind === 'image' ? c.prompt : '');
+      if (base) {
+        const alt = el('details', 'sheet'); alt.append(el('summary', '', '📷 ఇంకో కోణం (ఐచ్ఛికం) – Video Maker లో ఈ బాక్స్ "+ 2వ" లో పెట్టండి'));
+        alt.append(promptBox(base + ' ' + ALT_ANGLE, 'కోణం ప్రాంప్ట్ కాపీ')); card.append(alt);
+      }
       cards.append(card);
     });
     if (!cards.children.length) cards.append(el('p', 'note', 'ఈ ఫిల్టర్‌లో క్లిప్‌లు లేవు.'));
@@ -393,7 +424,7 @@ h1 mark { background: none; color: var(--saffron); }
      'అదే నెరేటర్ గొంతు, అదే బ్యాక్‌గ్రౌండ్ మ్యూజిక్ – ఛానల్‌కు గుర్తింపు'].forEach((x) => ul.append(el('li', '', x)));
     p.append(ul);
   }
-  const TONE = { 'హుక్': 'ఉత్సాహంగా, ఆసక్తి రేకెత్తించేలా – కొంచెం వేగంగా', 'శ్లోక పఠనం – 1': 'నెమ్మదిగా, స్పష్టమైన ఉచ్చారణతో శ్లోక పఠనం (chanting)', 'శ్లోక పఠనం – 2': 'నెమ్మదిగా, స్పష్టమైన ఉచ్చారణతో శ్లోక పఠనం (chanting)',
+  const TONE = { 'హుక్': 'ఉత్సాహంగా, ఆసక్తి రేకెత్తించేలా – కొంచెం వేగంగా', 'శ్లోక పఠనం – 1': 'నెమ్మదిగా, స్పష్టమైన ఉచ్చారణతో శ్లోక పఠనం (chanting)', 'శ్లోకం & పదార్థం': 'నెమ్మదిగా, స్పష్టమైన ఉచ్చారణతో శ్లోక పఠనం (chanting)', 'తాత్పర్యం – 3': 'సంభాషణ శైలిలో, కథ చెబుతున్నట్టు', 'శ్లోక పఠనం – 2': 'నెమ్మదిగా, స్పష్టమైన ఉచ్చారణతో శ్లోక పఠనం (chanting)',
     'తాత్పర్యం – 1': 'కథ చెబుతున్నట్టు, ప్రశాంతంగా, ఆప్యాయంగా', 'తాత్పర్యం – 2': 'కథ చెబుతున్నట్టు, ప్రశాంతంగా, ఆప్యాయంగా', 'జీవిత పాఠం': 'మృదువుగా, ఆలోచింపజేసేలా – చిన్న విరామంతో', 'ముగింపు & CTA': 'ఉత్సాహంగా, ఆహ్వానిస్తున్నట్టు' };
   function speakerBox(s) {
     const b = el('div', 'speaker'); if (!s.speaker) return b;

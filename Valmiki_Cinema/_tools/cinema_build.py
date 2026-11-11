@@ -12,6 +12,8 @@ Script format (one file per video, see source/1_Bala_Kanda/S000_prologue.txt):
       M: ...              music cue
       FX: ...             sound effects
       CAP: ...            small on-screen caption
+      ALT: <picture> | <what moves> | <camera>   one more picture for the same shot (song montages, fight cuts)
+      BGM: ...            this shot's own background music, a Suno prompt (action and fight beats)
       SEC: n              length in seconds (otherwise from the spoken words)
       VIDEO / STILL       force a real video clip or a still image
 Pictures follow the long videos' character bible and reference images, photoreal 16:9.
@@ -28,6 +30,7 @@ sys.path.insert(0, os.path.join(ROOT, 'Long_Videos', '_tools'))
 sys.path.insert(1, os.path.join(ROOT, 'Valmiki_Ramayanam', '_tools'))
 import long_style as LS   # noqa: E402
 from soften import soft    # noqa: E402
+from cast_guard import sita_guard  # noqa: E402
 
 VOICES = {   # who speaks: Telugu name and the voice to cast (same voice in every video)
     'N': ('కథకుడు', 'warm, steady middle-aged male storyteller; clear everyday Telugu, never rushed'),
@@ -161,6 +164,13 @@ def parse(path):
             vid[k.lower()] = v
         else:
             key, text = line.split(': ', 1)
+            if key == 'ALT':   # an extra picture of the same shot, with its own prompts
+                pic, move, cam = [x.strip() for x in text.split(' | ')]
+                shot.setdefault('alts', []).append({'pic': pic, 'move': move, 'cam': cam})
+                continue
+            if key == 'BGM':
+                shot['bgm'] = text
+                continue
             if key == 'SEC':
                 shot['sec'] = int(text)
             else:
@@ -177,29 +187,71 @@ def kind_of(shot):
 
 def cast(shot):
     keys = [k for k in LS.names_in(shot['pic']) if LS.character(k, shot['ep'])]
-    return keys, [LS.character(k, shot['ep']) for k in keys]
+    looks = [LS.character(k, shot['ep']) for k in keys]
+    guard = sita_guard(keys, ' '.join(looks), shot['pic'])   # no Sita where she is not cast
+    return keys, looks + ([guard.rstrip('.')] if guard else [])
 
 
 @soft
+def alt_shot(shot, a):
+    """The same shot with another picture (an ALT line): same ślokas, episode stage and characters' looks."""
+    return {**shot, 'pic': a['pic'], 'move': a['move'], 'cam': a['cam']}
+
+
 def image_prompt(shot, loc):
     keys, looks = cast(shot)
     return ("Cinematic 16:9 film still, 1920x1080, main subject well framed with room around it. "
             f"Style: {LS.STYLE}. Setting: {loc}. "
             + (f"Characters (keep exactly this look; attach their reference images): {' '.join(x + '.' for x in looks)} " if looks else '')
             + f"Scene: {shot['pic']} Rich cinematic colour, real light and atmosphere, high detail. "
-            "Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described. "
+            "Body check (very important): every person and vanara has exactly two arms, two hands with five separate, natural fingers each, two legs and two feet with five toes each; no extra, missing, merged or twisted fingers, toes, hands, arms or legs; each hand clearly belongs to one body and holds things naturally; gods have only the arms and heads their own description gives (such as four-armed Vishnu or Brahma), and birds have two wings and two taloned feet, never arms; faces natural and symmetrical, eyes aligned; correct anatomy and natural hands; no extra characters, limbs or faces beyond those described. "
+            f"{LS.RESPECT} No text, letters, subtitles, logos or watermarks.")
+
+
+def end_framing(cam):
+    """Where the camera has got to by the last frame, from the shot's camera move."""
+    c = (cam or '').lower()
+    for words, out in ((('pull-back', 'pull back', 'pull out', 'zoom out', 'wider'), 'a slightly wider framing than the first frame'),
+                       (('push', 'zoom in', 'close'), 'a slightly closer framing than the first frame'),
+                       (('left to right',), 'the framing moved a little to the right'),
+                       (('right to left',), 'the framing moved a little to the left'),
+                       (('tilt up', 'rising', 'crane up'), 'the framing tilted a little upward'),
+                       (('tilt down', 'crane down', 'top-down'), 'the framing a little lower'),
+                       (('orbit', 'arc'), 'seen from a slightly different angle around the subject'),
+                       (('track', 'dolly', 'follow', 'glide'), 'the camera having moved along with the subject')):
+        if any(w in c for w in words):
+            return out
+    return 'the same framing as the first frame'
+
+
+@soft
+def end_prompt(shot, loc, kind):
+    """The last frame for Flow's Frames to Video (user, 2026-11-10): the shot once its movement has finished."""
+    keys, looks = cast(shot)
+    move = shot['move'].rstrip(' .')
+    later = (f"the same moment a few seconds later, just after this has happened: {move}" if kind == 'video' else
+             f"the same moment a few seconds later, after this small, gentle change: {move}; everyone still in the same place")
+    return ("Cinematic 16:9 film still, 1920x1080. This is the LAST frame of an 8-second shot whose first frame is the "
+            "start image made for this shot: keep every character, face, costume, ornament, colour, place and light "
+            "exactly as in that start image (attach it too). "
+            f"Style: {LS.STYLE}. Setting: {loc}. "
+            + (f"Characters (keep exactly this look; attach their reference images): {' '.join(x + '.' for x in looks)} " if looks else '')
+            + f"Scene: {shot['pic'].rstrip(' .')}; {later}. Framing: {end_framing(shot['cam'])}. "
+            "Body check (very important): every person and vanara has exactly two arms, two hands with five separate, natural fingers each, two legs and two feet with five toes each; no extra, missing, merged or twisted fingers, toes, hands, arms or legs; each hand clearly belongs to one body and holds things naturally; gods have only the arms and heads their own description gives (such as four-armed Vishnu or Brahma), and birds have two wings and two taloned feet, never arms; faces natural and symmetrical, eyes aligned; correct anatomy and natural hands; no extra characters, limbs or faces beyond those described. "
             f"{LS.RESPECT} No text, letters, subtitles, logos or watermarks.")
 
 
 @soft
 def video_prompt(shot, loc, kind):
     keys, looks = cast(shot)
-    act = (f"Action, slow and cinematic: 0–2 s hold the start frame; 2–6 s {shot['move']}; 6–8 s settle and hold."
-           if kind == 'video' else
-           f"Only gentle life: {shot['move']}; breathing, a slow blink, cloth and leaves stirring in the breeze.")
-    return ("Animate the attached start frame as one continuous 8 second cinematic 16:9 shot. The start frame is the "
-            "exact look of the whole video: keep its style, colours, light, faces, clothes and framing; do not "
-            "redesign anything and do not add or remove anyone; only bring it to life with motion. "
+    act = (f"Action, slow and cinematic: 0–2 s hold the first frame; 2–6 s {shot['move']}; 6–8 s arrive exactly on "
+           "the last frame and hold it." if kind == 'video' else
+           f"Only gentle life, slowly over the whole shot: {shot['move']}; breathing, a slow blink, cloth and leaves "
+           "stirring in the breeze, ending exactly on the last frame.")
+    return ("Animate from the attached first frame to the attached last frame as one continuous 8 second cinematic "
+            "16:9 shot: begin exactly on the first frame and end exactly on the last frame. The two frames are the "
+            "exact look of the whole video: keep their style, colours, light, faces and clothes; do not redesign "
+            "anything and do not add or remove anyone; only move smoothly from the first frame to the last. "
             f"Style: {LS.STYLE}. Setting: {loc}. "
             + (f"Characters (keep exactly this look): {' '.join(x + '.' for x in looks)} " if looks else '')
             + f"The frame shows: {shot['pic']} {act} Camera: {shot['cam']}; smooth, no shake, no sudden zoom. "
@@ -238,7 +290,9 @@ def build(src):
                     '🎙 కథనం' if any(k == 'N' for k, _ in shot['audio']) else '🎵 సంగీతం మాత్రమే')
             head = f"**షాట్ {n}** · {mmss(t)}–{mmss(t + sec)} · {mode} · {'🎥 వీడియో' if kind == 'video' else '🖼️ ఇమేజ్ + కదలిక'} · శ్లో. {shot['refs']}"
             out.append(head + '\n\n' + '\n'.join(f"- {audio_md(k, x)}" for k, x in shot['audio'])
-                       + f"\n- 🎬 **దృశ్యం:** {shot['pic']}\n")
+                       + f"\n- 🎬 **దృశ్యం:** {shot['pic']}\n"
+                       + ''.join(f"- 🎬 **ఇంకో చిత్రం {j}:** {a['pic']}\n" for j, a in enumerate(shot.get('alts', []), 2))
+                       + (f"- 🎵 **ఈ షాట్ సంగీతం (Suno):** {shot['bgm']}\n" if shot.get('bgm') else ''))
             for k, x in shot['audio']:
                 if k == 'N' or k.startswith(('D ', 'SONG ')):
                     who = 'N' if k == 'N' else k.split(' ', 1)[1]
@@ -248,9 +302,13 @@ def build(src):
             refs = ' · '.join(f'`{ref_name(k, shot["ep"])}.png`' for k in keys) or 'అవసరం లేదు'
             prompts.append(f"#### షాట్ {n} · {mmss(t)} · {'🎥 వీడియో' if kind == 'video' else '🖼️ ఇమేజ్'}\n\n"
                            f"- **రిఫరెన్స్ (Long_Videos/_reference_images):** {refs}\n\n"
-                           f"**🖼️ ఇమేజ్ ప్రాంప్ట్:**\n\n```text\n{image_prompt(shot, sc['loc'])}\n```\n\n"
-                           f"**🎥 వీడియో ప్రాంప్ట్** (Frames to Video – పై ఇమేజ్ మొదటి ఫ్రేమ్):\n\n"
-                           f"```text\n{video_prompt(shot, sc['loc'], kind)}\n```\n")
+                           f"**🖼️ మొదటి ఇమేజ్ ప్రాంప్ట్:**\n\n```text\n{image_prompt(shot, sc['loc'])}\n```\n\n"
+                           f"**🖼️ చివరి ఇమేజ్ ప్రాంప్ట్** (మొదటి ఇమేజ్ కూడా జత చేసి):\n\n```text\n{end_prompt(shot, sc['loc'], kind)}\n```\n\n"
+                           f"**🎥 వీడియో ప్రాంప్ట్** (Frames to Video – మొదటి ఇమేజ్ = మొదటి ఫ్రేమ్, చివరి ఇమేజ్ = చివరి ఫ్రేమ్):\n\n"
+                           f"```text\n{video_prompt(shot, sc['loc'], kind)}\n```\n"
+                           + ''.join(f"\n**🖼️ ఇంకో చిత్రం {j}:**\n\n```text\n{image_prompt(alt_shot(shot, a), sc['loc'])}\n```\n\n"
+                                     f"**🎥 ఇంకో చిత్రం {j} – వీడియో:**\n\n```text\n{video_prompt(alt_shot(shot, a), sc['loc'], 'video')}\n```\n"
+                                     for j, a in enumerate(shot.get('alts', []), 2)))
             if not page or page[-1]['si'] != si:
                 page.append({'si': si, 'title': f"{si}. {sc['title']}", 'sr': sc['refs'], 'start': mmss(t),
                              'suno': sc.get('suno', ''), 'songstyle': sc.get('songstyle', ''), 'shots': []})
@@ -263,7 +321,8 @@ def build(src):
                          'music': [x for k, x in shot['audio'] if k == 'M'],
                          'fx': [x for k, x in shot['audio'] if k == 'FX'],
                          'cap': [x for k, x in shot['audio'] if k == 'CAP'],
-                         'img': image_prompt(shot, sc['loc']), 'vid': video_prompt(shot, sc['loc'], kind),
+                         'img': image_prompt(shot, sc['loc']), 'end': end_prompt(shot, sc['loc'], kind),
+                         'vid': video_prompt(shot, sc['loc'], kind),
                          'ref': [ref_name(k, shot['ep']) for k in keys]})
             t += sec
     name = os.path.splitext(os.path.basename(src))[0]

@@ -39,6 +39,8 @@ L.CUES['T'] = '[తరువాతి వీడియో టీజర్ · న�
 TARGET, LOW, HIGH = 11 * 60, 10 * 60, 12 * 60
 MINUTES = '10–12'   # the length range in page titles (data LENGTH line)
 SIMPLE = []   # [exact words, plain Telugu, times used] (data/*_videos.txt SIMPLE lines)
+BRIDGES = True   # 'BRIDGES | off' in data/*_videos.txt: no spoken bridge lines or mid-video re-hooks
+POST = []    # [exact words, new words, times used]: fixed after the honorific pass (data/*_videos.txt POST lines)
 PLACES_USED = set()
 CLIPS_NOTE = ('ప్రతి క్లిప్‌కు రెండు ప్రాంప్ట్‌లు: ముందు 🖼️ ఇమేజ్ చేయండి (రిఫరెన్స్ ఇమేజ్‌లు జత చేసి). వీడియో కావాలంటే '
               'ఆ ఇమేజ్‌ను Flow → Frames to Video లో మొదటి ఫ్రేమ్‌గా పెట్టి 🎥 వీడియో ప్రాంప్ట్ వాడండి. "యాక్షన్" క్లిప్‌లు కథలో '
@@ -66,10 +68,10 @@ def cast(keys, visual, ep, loc=''):
         at = next((e for e, st in line if st == stage), None) if stage else ep
         assert at, f'{ep}: {k} has no stage {stage}'
         looks.append(S.character(k, at))
-        st = S.stage_of(k, at) if line else None
-        refs.append(f'{k}_{st}' if st else k)
+        refs.append(S.ref_name(k, at))
     g_looks, g_refs = L.group_looks(visual, loc, ep)
-    return looks + g_looks, refs + g_refs
+    guard = L.sita_guard(refs, ' '.join(looks), visual)
+    return looks + g_looks + ([guard.rstrip('.')] if guard else []), refs + g_refs
 
 
 def read_fixes(path):
@@ -104,6 +106,14 @@ def read_fixes(path):
                 global TARGET, LOW, HIGH, MINUTES
                 lo, hi = map(int, rest.split())
                 LOW, HIGH, TARGET, MINUTES = lo * 60, hi * 60, lo * 60 + 20, f'{lo}–{hi}'
+                continue
+            if head == 'BRIDGES':
+                global BRIDGES
+                BRIDGES = rest.strip() != 'off'
+                continue
+            if head == 'POST':   # a slip the honorific pass leaves (a verb whose subject is not in its own line)
+                old, new = rest.split(' => ', 1)
+                POST.append([old, new, 0])
                 continue
             if head == 'SIMPLE':
                 old, new = rest.split(' => ', 1)
@@ -314,12 +324,16 @@ def assemble(parts, extras, splits, vid_index):
                 sp = {'HOOK': bridges.get(st[c0][2], x['hook'])}
             hook_text, hook_from = sp['HOOK'], int(sp.get('FROM', sc[0]['no']))
         src = next((s for s in e['scenes'] if s['no'] == hook_from), sc[0])
+        pending = None   # a chapter whose bridge/re-hook is left out starts at its first story line
         hook = {'id': 'H', 'ep': e['ep'], 'label': 'హుక్' if first else f'రీ-హుక్ → {st[c0][1]}', 'kind': 'video',
                 'secs': L.speak_secs(hook_text), 'narration': hook_text, 'new': True, 'loc': src['loc'],
                 'onscreen': '' if first else st[c0][1], 'tone': tone, 'from_no': src['no'],
                 'visual': f"Fast, dramatic flash-forward teaser of this story's biggest moment: {src['visual']}"}
-        seq.append(hook)
-        chapters.append((hook, st[c0][1]))
+        if first or BRIDGES:
+            seq.append(hook)
+            chapters.append((hook, st[c0][1]))
+        else:
+            pending = st[c0][1]
         # hook first (it holds the viewer), then the channel intro and a welcome that sets the scene;
         # E0.01 opens with its own "నమస్తే. ఇది పురాణ కథా శ్రవణం ఛానల్", so the intro clip would only repeat it
         if first and e['ep'] != 'E0.01':
@@ -348,17 +362,23 @@ def assemble(parts, extras, splits, vid_index):
                 title, line = bridge_at[s['no']]
                 if len(repeats(line, s['narration'])) >= 2:
                     warn.append(f"{e['ep']}: bridge before scene {s['no']} repeats it ({', '.join(sorted(repeats(line, s['narration'])))})")
-                b = {'id': f"B{s['no']}", 'ep': e['ep'], 'label': f'బ్రిడ్జ్ → {title}', 'kind': 'image',
+                if not BRIDGES:
+                    pending = title
+                b = None if not BRIDGES else {'id': f"B{s['no']}", 'ep': e['ep'], 'label': f'బ్రిడ్జ్ → {title}', 'kind': 'image',
                      'secs': L.speak_secs(line), 'narration': line, 'new': True, 'loc': s['loc'], 'onscreen': title,
                      'from_no': s['no'],
                      'visual': f"{s['visual']}. Composed with calm open space on one side for an on-screen chapter title"}
-                seq.append(b)
-                chapters.append((b, title))
+                if b:
+                    seq.append(b)
+                    chapters.append((b, title))
             if teaser_last and s is sc[-1]:
                 seq.append(lesson(extras, lesson_ep, e['ep']))
             seq.append({'id': str(s['no']), 'ep': e['ep'], 'label': f"{e['ep']} · సీన్ {s['no']}", 'kind': s['kind'],
                         'secs': s['secs'], 'narration': s['narration'], 'new': False, 'visual': s['visual'],
                         'loc': s['loc'], 'onscreen': verse_card(s, sc), 'scene': s})
+            if pending:
+                chapters.append((seq[-1], pending))
+                pending = None
         if not last and lesson_ep is e:   # an episode that ends mid-video: its lesson right where its story ends,
             seq.append(lesson(extras, lesson_ep, e['ep']))   # not after the next episode's teaser
         if last and ep_end and not teaser_last and lesson_ep:
@@ -660,6 +680,11 @@ def recording(seq):
 def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
     group = [p[0] for p in parts]
     seq, chap_items, total, warn = assemble(parts, extras, splits, i - 1)
+    for item in seq:   # POST fixes: slips the honorific pass leaves, in the words as finally spoken
+        for rule in POST:
+            if item.get('narration') and rule[0] in item['narration']:
+                item['narration'] = item['narration'].replace(rule[0], rule[1])
+                rule[2] += 1
     spoken = list(seq)
     seq = expand(seq)
     t = 0
@@ -671,6 +696,14 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
     chap = [(0 if j == 0 else start_of[id(next(s for s in seq if s['id'] in (it['id'], it['id'] + 'a')
                                                 and s['ep'] == it['ep']))], title)
             for j, (it, title) in enumerate(chap_items)]
+    if not BRIDGES:   # without a bridge a chapter can be one short line: it joins the chapter before it
+        k = 1
+        while k < len(chap):
+            nxt = chap[k + 1][0] if k + 1 < len(chap) else total
+            if nxt - chap[k][0] < 10:
+                del chap[k]
+            else:
+                k += 1
     ends = [c[0] for c in chap[1:]] + [total]
     for (a, title), b in zip(chap, ends):
         assert b - a >= 10, f'V{i}: chapter "{title}" is {b - a}s (YouTube minimum is 10s)'
@@ -700,11 +733,15 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
             note = (note + ' ' if note else '') + item['tip']
         move = '' if kind == 'video' else L.editor_move(item['visual'], n) + ' (వీడియో చేయకపోతే)'
         advice = L.advice(item['visual'], kind, item['id'])
+        vk = 'video' if L.wants_video(item['visual'], kind, item['id']) else 'image'   # one verdict for all prompts
         a = item['start']
         card = {'no': str(n), 'time': f"{mmss(a)} – {mmss(a + secs)}", 'label': f"{item['label']} · {secs} సె",
-                'kind': kind, 'narration': item['narration'], 'refs': refs, 'move': move, 'note': note,
-                'prompt': L.scene_prompt(s, kind, looks), 'imagePrompt': L.scene_prompt(s, 'image', looks),
-                'videoPrompt': L.video_prompt(s, kind, looks, n), 'advice': advice}
+                'kind': vk,   # the clip's verdict: action (make the video) or image (user, 2026-11-11)
+                'narration': item['narration'], 'refs': refs, 'move': move, 'note': note,
+                'prompt': L.scene_prompt(s, kind, looks),
+                'imagePrompt': L.scene_prompt(s, 'image', looks, opening=(vk == 'video')),
+                'endImagePrompt': L.end_prompt(s, vk, looks, n),
+                'videoPrompt': L.video_prompt(s, vk, looks, n), 'advice': advice}
         cards.append(card)
         head = '🎥 వీడియో' if kind == 'video' else '🖼️ ఇమేజ్ + కదలిక'
         star = ' · ✨ కొత్తది' if item['new'] else (' · 🔁 అదే నెరేషన్, కొత్త చిత్రం' if item.get('cont') else '')
@@ -882,6 +919,8 @@ def main(data_path):
                 'content="width=device-width,initial-scale=1,viewport-fit=cover"></head><body>' + frag + '</body></html>')
         open(os.path.join(VIDEOS, f'{name}_VIDEOS_HELPER.html'), 'w', encoding='utf-8', newline='\n').write(full)
         open(os.path.join(out_dir, '00_REFERENCES.md'), 'w', encoding='utf-8', newline='\n').write(reference_md(refs_used))
+    unused = [r[0] for r in POST if not r[2]]
+    assert not unused, f'POST words not found anywhere: {unused}'
     for w in warns:
         print('WARN', w)
 

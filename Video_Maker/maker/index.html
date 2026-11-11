@@ -57,6 +57,17 @@ h3{margin:0 0 4px;font-size:17px}
 .good{color:var(--ok)}
 pre{white-space:pre-wrap;font-size:12px;color:var(--dim);max-height:160px;overflow:auto;background:#0d0704;padding:8px;border-radius:8px}
 .hook{font-size:20px;color:var(--gold);font-weight:700}
+.extras{display:grid;grid-template-columns:1fr 1fr;gap:6px}
+.mini{position:relative;aspect-ratio:9/16;max-height:110px;border:2px dashed var(--line);border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:12px;color:var(--dim);cursor:pointer;overflow:hidden;background:#0d0704}
+.mini.has{border-style:solid;border-color:#3d7a4f}
+.mini.drag{border-color:var(--gold)}
+.mini img,.mini video{width:100%;height:100%;object-fit:cover}
+.mini .x{width:20px;height:20px;font-size:11px;top:2px;right:2px}
+.sfxgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:10px}
+.sfxgrid .aslot h3{font-size:15px}
+.sfxgrid .say{font-family:Segoe UI,sans-serif;font-size:12px;max-height:90px}
+.moods summary{cursor:pointer;color:var(--gold);font-weight:700;padding:10px 0}
+code{background:#0006;padding:1px 6px;border-radius:6px}
 </style>
 </head>
 <body>
@@ -64,6 +75,9 @@ pre{white-space:pre-wrap;font-size:12px;color:var(--dim);max-height:160px;overfl
   <h1>🎬 వీడియో మేకర్ · వాల్మీకి రామాయణం Shorts</h1>
   <select id="sarga"></select>
   <span style="flex:1"></span>
+  <a class="btn" href="/movie">🎬 సినిమా (Valmiki Cinema)</a>
+  <a class="btn" href="/presenter">🎙️ ప్రెజెంటర్ (మీ వీడియోతో)</a>
+  <a class="btn" href="/movie?id=Long-Bala-V01">📺 లాంగ్ వీడియోలు</a>
   <button class="btn" onclick="openFolder('out')">📂 తయారైన వీడియోలు</button>
 </header>
 <main>
@@ -84,8 +98,9 @@ const P = new URLSearchParams(location.search);
 let sargas = [], cur = null, data = null, media = {}, voiceTab = null;
 const pad = (n) => String(n).padStart(3, '0');
 // what each box is for in the video (clip 2 carries the śloka and then the word meanings; clip 3 is optional)
-const ROLE = ['మొదటి 4 సెకన్లు – హుక్', 'శ్లోకం + పదార్థం (2 సె.) – ఒకే చిత్రం', 'ఐచ్ఛికం – పెడితే తాత్పర్యం మొదట్లో వస్తుంది',
-  'తాత్పర్యం', 'తాత్పర్యం', 'జీవిత పాఠం', 'ముగింపు'];
+const ROLE = ['మొదటి 4 సెకన్లు – హుక్', 'శ్లోకం + పదార్థం – మొత్తం శ్లోకానికి ఒకే చిత్రం',
+  'తాత్పర్యం – 1 (మొదటి వాక్యాలు; లేకపోతే 4వ బాక్స్ నుండి మొదలు)', 'తాత్పర్యం – 2', 'తాత్పర్యం – 3', 'జీవిత పాఠం', 'ముగింపు'];
+// one box can hold up to 3 pictures or videos (+ చిత్రం): they share that part's time, changing where a sentence ends
 const NEEDED = [1, 2, 4, 5, 6, 7];
 const VOICES = [['voice1', '1 · హుక్', (s) => s.hook.voice], ['voice2', '2 · శ్లోకం (తరువాత 2 సె. పదార్థం – వాయిస్ లేదు)', (s) => s.lines.map((l) => l.orig).join('\n')],
   ['voice3', '3 · తాత్పర్యం & జీవిత పాఠం', (s) => s.meaning.voice], ['voice4', '4 · ముగింపు', (s) => s.end.voice]];
@@ -93,7 +108,25 @@ const q = () => `k=${cur.kanda}&s=${cur.sarga}&n=${cur.n}`;
 const compId = () => `${data.kandaEn}-S${pad(data.sarga)}-Sloka-${pad(cur.n)}`;
 const secs = (d) => d ? `${d.toFixed(1)} సె.` : '';
 
+// The page is open but the Video Maker (the black window) is closed: nothing can be saved or made.
+const OFFLINE_MSG = 'Video Maker నడవడం లేదు – నల్ల విండో మూసేశారు. Video_Maker ఫోల్డర్‌లో START_VIDEO_MAKER.bat మళ్ళీ డబుల్-క్లిక్ చేసి, ఆ నల్ల విండోను తెరిచే ఉంచండి. తరువాత ఫైల్‌లు మళ్ళీ వదలండి.';
+function offline() {
+  let b = document.getElementById('offline');
+  if (!b) {
+    b = document.createElement('div'); b.id = 'offline';
+    b.style.cssText = 'position:fixed;left:0;right:0;top:0;z-index:99;background:#b3261e;color:#fff;padding:14px 20px;font-size:17px;font-weight:700;text-align:center';
+    document.body.prepend(b);
+  }
+  b.textContent = '⚠️ ' + OFFLINE_MSG;
+}
+setInterval(() => fetch('/api/status').then(() => { const b = document.getElementById('offline'); if (b) b.remove(); }).catch(offline), 4000);
+
 async function init() {
+  const mp = await (await fetch('/api/music-prompts')).json();
+  EXCLUDE = mp.exclude;
+  SFX = (await (await fetch('/api/sfx-prompts')).json()).sounds;
+  DEFAULT_PROMPT = mp.default ? mp.default.prompt : '';
+  MOODS = Object.fromEntries(Object.entries(mp.moods).map(([k, v]) => [k, [v.label, v.prompt]]));
   sargas = await (await fetch('/api/sargas')).json();
   $('#sarga').innerHTML = sargas.map((x, i) => `<option value="${i}">${esc(x.kandaTe)} · సర్గ ${x.sarga}</option>`).join('');
   let i = sargas.findIndex((x) => x.kanda === P.get('k') && x.sarga === +P.get('s'));
@@ -148,7 +181,9 @@ function drawDetail() {
   <p class="hint">ఫైల్‌ను Downloads ఫోల్డర్ నుండి (లేదా బ్రౌజర్ డౌన్‌లోడ్ బార్ నుండి) సరైన బాక్స్‌లోకి లాగి వదలండి, లేదా బాక్స్ మీద క్లిక్ చేసి ఎంచుకోండి. పేరు మార్చనక్కర్లేదు. మళ్ళీ వదిలితే పాతది మారిపోతుంది.</p>
 
   <h2>1 · క్లిప్‌లు (ఇమేజ్ లేదా వీడియో)</h2>
-  <p class="hint">🎥 అని ఉన్నవి వీడియో, 🖼️ అని ఉన్నవి ఇమేజ్ – కానీ ఏ బాక్స్‌లోనైనా ఏదైనా పెట్టవచ్చు. ఇమేజ్‌కి నెమ్మదిగా జూమ్ ఆటోమేటిక్‌గా వస్తుంది.</p>
+  <p class="hint">🎥 అని ఉన్నవి వీడియో, 🖼️ అని ఉన్నవి ఇమేజ్ – కానీ ఏ బాక్స్‌లోనైనా ఏదైనా పెట్టవచ్చు. ఇమేజ్‌కి నెమ్మదిగా జూమ్ ఆటోమేటిక్‌గా వస్తుంది.
+    <b>+ 2వ / + 3వ</b>: ఒకే బాక్స్‌లో ఇంకో 1–2 చిత్రాలు (వేరే కోణం) పెడితే, ఆ బాక్స్ సమయం వాటి మధ్య పంచుకుంటుంది – తెర తరచూ మారుతుంది, చూసేవారు ఆగుతారు. క్లిప్‌ల పేజీలో ప్రతి క్లిప్‌కు "📷 ఇంకో కోణం" ప్రాంప్ట్ ఉంది.
+    బాక్స్ 4 (కథ మొదటి చిత్రం) వీడియో అయితే, వాయిస్ ముందు 2 సెకన్లు ఆ యాక్షన్ సంగీతంతో వస్తుంది.</p>
   <div class="clips">${s.clips.map((c, i) => {
     const m = media['clip' + (i + 1)];
     return `<div class="slot ${m ? 'has' : ''}" data-slot="clip${i + 1}">
@@ -157,26 +192,72 @@ function drawDetail() {
       <div class="sub"><b>${ROLE[i]}</b> · ${esc(c.shows)}</div>
       <div class="thumb" onclick="pick('clip${i + 1}')">${m ? thumb(m) : 'ఇక్కడ వదలండి<br>లేదా క్లిక్ చేయండి'}</div>
       <div class="sub" style="min-height:0">${m ? esc(m.name) + ' ' + secs(m.dur) : ''}</div>
+      <div class="extras">${['_2', '_3'].map((x, j) => { const e = media['clip' + (i + 1) + x]; const k = 'clip' + (i + 1) + x;
+        return `<div class="mini ${e ? 'has' : ''}" data-slot="${k}" onclick="pick('${k}')" title="ఇదే బాక్స్‌లో ${j + 2}వ చిత్రం / వీడియో">${e ? thumb(e) + `<button class="x" style="display:block" onclick="event.stopPropagation();removeSlot('${k}')">✕</button>` : '+ ' + (j + 2) + 'వ'}</div>`; }).join('')}</div>
       <div class="bar"></div>
     </div>`;
   }).join('')}</div>
 
   <h2>2 · వాయిస్</h2>
+  <details class="moods"><summary>🎙 ElevenLabs లో ఎలా చేయాలి</summary>
+    <p class="hint">1. మోడల్: తెలుగు ఉన్న <b>Eleven v3</b> ఎంచుకోండి ([ ] సూచనలు v3 లోనే పనిచేస్తాయి). అన్ని Shorts కి <b>ఒకే గొంతు</b>.<br>
+    2. ప్రతి బాక్స్‌లో <b>🎙 ElevenLabs కాపీ</b> నొక్కి, ElevenLabs లో పేస్ట్ చేసి Generate చేయండి. [ ] లోని ఇంగ్లీష్ పదాలు ఎలా చెప్పాలో చెప్పే సూచనలు మాత్రమే – అవి చదవబడవు. "..." దగ్గర చిన్న విరామం వస్తుంది.<br>
+    3. Stability: మాటలకు <b>Natural</b>, శ్లోకానికి <b>Robust</b> (నెమ్మదిగా, స్థిరంగా). శ్లోకం ఉచ్చారణ ఒకసారి విని, తప్పుగా ఉంటే మళ్ళీ Generate చేయండి.<br>
+    4. MP3 డౌన్‌లోడ్ చేసి అదే బాక్స్‌లో వదలండి. 4 భాగాలు వేర్వేరుగా చేస్తే, శ్లోకం తరువాత 2 సెకన్ల విరామం, టైమింగ్ అన్నీ సరిగ్గా వస్తాయి.</p>
+  </details>
   <div class="tabs">
     <button class="btn ${voiceTab === 'parts' ? 'on' : ''}" onclick="voiceTab='parts';drawDetail()">4 భాగాలుగా (సిఫార్సు)</button>
     <button class="btn ${voiceTab === 'full' ? 'on' : ''}" onclick="voiceTab='full';drawDetail()">ఒకే ఫైల్ – మొత్తం</button>
   </div>
   ${voiceTab === 'parts' ? `<p class="hint">ప్రతి భాగాన్ని వేరుగా రికార్డ్ చేస్తే, క్లిప్‌లు, టెక్స్ట్ మీ వాయిస్‌కు సరిగ్గా సరిపోతాయి. వీడియో పొడవు మీ వాయిస్ పొడవుకు మారుతుంది.</p>
-  <div class="voices">${VOICES.map(([k, label, text]) => aslot(k, label, text(s))).join('')}</div>`
+  <div class="voices">${VOICES.map(([k, label, text]) => aslot(k, label, text(s)).replace('<div class="bar">',
+    `<button class="btn" onclick="copy(this, cur.s.eleven['${k}'])">🎙 ElevenLabs కాపీ</button><div class="bar">`)).join('')}</div>`
   : `<p class="hint">మొత్తం నెరేషన్ ఒకే ఫైల్‌లో ఉంటే ఇక్కడ పెట్టండి. భాగాలు 45 సెకన్ల ప్లాన్ నిష్పత్తిలో సర్దుకుంటాయి (4 భాగాలుగా పెడితే టైమింగ్ ఇంకా బాగుంటుంది).</p>
   <div class="voices">${aslot('voice', 'మొత్తం వాయిస్', [s.hook.voice, s.lines.map((l) => l.orig).join(' '), s.meaning.voice, s.end.voice].join('\n\n'))}</div>`}
   ${voiceTab === 'parts' && media.voice ? `<p class="warn">గమనిక: "ఒకే ఫైల్" లో కూడా వాయిస్ ఉంది. 4 భాగాల్లో ఏదైనా ఉంటే అవే వాడతాం.</p>` : ''}
 
-  <h2>3 · బ్యాక్‌గ్రౌండ్ సంగీతం (ఐచ్ఛికం)</h2>
-  <p class="hint">Suno పాట వంటిది. వాయిస్ కింద మెల్లగా వస్తుంది, శ్లోకం సమయంలో ఇంకా తగ్గుతుంది. "అన్ని Shorts కి" లో పెడితే, ఈ Short కి వేరేది లేనప్పుడు అదే వాడతాం.</p>
-  <div class="voices">${aslot('music', 'ఈ Short కి', '')}${aslot('music_default', 'అన్ని Shorts కి', '')}</div>
+  <h2>🎙️ మీ గొంతుతో ముగింపు మాట (అన్ని Shorts కి – ఒక్కసారి రికార్డ్ చేస్తే చాలు)</h2>
+  <p class="hint">ప్రతి Short చివరలో ElevenLabs "తరువాతి భాగంలో!" వరకు చెబుతుంది; ఆ వెంటనే మీ గొంతులో ఈ నాలుగు మాటల్లో ఒకటి వస్తుంది.
+    నాలుగూ ఒక్కసారి రికార్డ్ చేసి (నిశ్శబ్ద గదిలో, ఫోన్ నోటికి ఒక అడుగు దూరంలో) సరైన బాక్స్‌లో వదలండి.
+    ${media.ctaNo ? `ఈ Short కి: <b>${media.ctaNo}వ మాట</b>${media.cta ? '' : ' – <span class="warn">ఇంకా రికార్డ్ చేయలేదు</span>'}` : ''}</p>
+  <div class="voices">${CTA_LINES.map((line, i) => aslot('cta_' + (i + 1), (i + 1) + (media.ctaNo === i + 1 ? ' ← ఈ Short' : ''), line)).join('')}</div>
 
-  <h2>4 · చూడండి & తయారు చేయండి</h2>
+  <h2>3 · బ్యాక్‌గ్రౌండ్ సంగీతం</h2>
+  <p class="hint">ఈ శ్లోకం భావం: <b>${MOODS[media.mood || 'calm'][0]}</b> – ఆ భావం సంగీతం ఆటోమేటిక్‌గా వస్తుంది${media.bgm ? ` (<span class="good">${esc(media.bgm.name)}</span>)` : ' (ఇంకా పెట్టలేదు)'}.
+    ఐదు భావాల సంగీతం ఒక్కసారి పెడితే చాలు – అన్ని Shorts కి సరిపోతుంది. ఈ ఒక్క Short కి వేరేది కావాలంటే "ఈ Short కి" లో పెట్టండి.
+    వాయిస్ కింద మెల్లగా, శ్లోకం సమయంలో ఇంకా మెల్లగా వస్తుంది.</p>
+  <div class="voices">${aslot('music', 'ఈ Short కి మాత్రమే (ఐచ్ఛికం)', '')}</div>
+  <details class="moods" ${media.bgm ? '' : 'open'}><summary>🎵 ఐదు భావాల సంగీతం – అన్ని Shorts కి (Suno ప్రాంప్ట్‌లతో)</summary>
+    <p class="hint">Suno లో: <b>Custom</b> ఆన్ చేసి, <b>Instrumental</b> ఆన్ చేసి, ఈ ప్రాంప్ట్‌ను <b>Style of Music</b> లో పేస్ట్ చేయండి. <b>Exclude styles</b> ఉంటే అందులో: <code>${EXCLUDE}</code>. రెండు వెర్షన్లలో బాగున్నదాన్ని డౌన్‌లోడ్ చేసి సరైన బాక్స్‌లో వదలండి. పొడవు ఏదైనా సరే – ఒక్కో Short కి మొదటి ~50 సెకన్లు మాత్రమే వాడతాం.</p>
+    <div class="voices">${Object.entries(MOODS).map(([k, [label, prompt]]) =>
+      aslot('music_' + k, label + (media.mood === k ? ' ← ఈ శ్లోకం' : ''), '') .replace('<div class="bar">',
+        `<div class="say" style="font-family:Segoe UI,sans-serif;font-size:13px">${esc(prompt)}</div><button class="btn" onclick="copy(this, MOODS['${k}'][1])">📋 ప్రాంప్ట్ కాపీ</button><div class="bar">`)).join('')}</div>
+    <div class="voices" style="margin-top:12px">${aslot('music_default', 'ఏ భావం సంగీతం లేనప్పుడు (డిఫాల్ట్)', '').replace('<div class="bar">',
+      `<div class="say" style="font-family:Segoe UI,sans-serif;font-size:13px">${esc(DEFAULT_PROMPT)}</div><button class="btn" onclick="copy(this, DEFAULT_PROMPT)">📋 ప్రాంప్ట్ కాపీ</button><div class="bar">`)}</div>
+  </details>
+
+  <h2>4 · చివరి బ్యానర్ (అన్ని Shorts కి)</h2>
+  <p class="hint">మీ ఛానల్ బ్యానర్ – ప్రతి Short చివరలో "లైక్ / షేర్ / సబ్‌స్క్రైబ్ / కామెంట్" అని చెప్పే మాటల దగ్గర నుండి వస్తుంది, కనీసం చివరి 2.5 సెకన్లు. ఒక్కసారి పెడితే చాలు. 9:16 (1080×1920) ఇమేజ్ బాగుంటుంది.</p>
+  <div class="clips" style="grid-template-columns:repeat(auto-fill,minmax(160px,200px))">
+    <div class="slot ${media.banner ? 'has' : ''}" data-slot="end_banner">
+      <button class="x" title="తీసివేయండి" onclick="removeSlot('end_banner')">✕</button>
+      <div class="top">🏷️ ఛానల్ బ్యానర్</div>
+      <div class="thumb" onclick="pick('end_banner')">${media.banner ? `<img src="${media.banner.url}">` : 'ఇక్కడ వదలండి<br>లేదా క్లిక్ చేయండి'}</div>
+      <div class="bar"></div>
+    </div>
+  </div>
+
+  <h2>5 · సౌండ్ ఎఫెక్ట్స్ (అన్ని Shorts కి – ఒక్కసారి చేస్తే చాలు)</h2>
+  ${(() => { const use = Object.keys(SFX).filter((k) => SFX[k].kind !== 'transition'); return `<details class="moods" ${use.every((k) => media['sfx_' + k]) ? '' : 'open'}><summary>🔊 ${use.filter((k) => media['sfx_' + k]).length} / ${use.length} సౌండ్‌లు ఉన్నాయి – ElevenLabs ప్రాంప్ట్‌లతో</summary>`; })()}
+    <p class="hint">ElevenLabs → <b>Sound Effects</b> లో ప్రాంప్ట్ పేస్ట్ చేసి, ఇచ్చిన <b>సెకన్లు</b> పెట్టి Generate చేయండి (నేపథ్య శబ్దాలకు Loop ఉంటే ఆన్ చేయండి). MP3 ని దాని బాక్స్‌లో వదలండి.
+    Video Maker ఆటోమేటిక్‌గా వాడుతుంది: <b>నేపథ్యం</b> ఆ Short చిత్రాల్లో ఉన్న ప్రదేశం బట్టి (అడవి, నది, అగ్ని…) మెల్లగా, <b>క్షణాలు</b> ఆ చిత్రంలో జరిగేదాన్ని బట్టి (బాణం, రాక్షస గర్జన, శంఖం…). లేనివి వదిలేస్తుంది.</p>
+    ${[['ambience', 'నేపథ్య శబ్దాలు (ప్రదేశం)'], ['moment', 'క్షణాల శబ్దాలు']].map(([kind, title]) =>
+      `<h3 style="margin:14px 0 6px">${title}</h3><div class="sfxgrid">${Object.entries(SFX).filter(([, v]) => v.kind === kind).map(([k, v]) =>
+        aslot('sfx_' + k, v.label + ' · ' + v.seconds + ' సె.', '').replace('<div class="bar">',
+          `<div class="say">${esc(v.prompt)}</div><button class="btn" onclick="copy(this, SFX['${k}'].prompt)">📋 ప్రాంప్ట్ కాపీ</button><div class="bar">`)).join('')}</div>`).join('')}
+  </details>
+
+  <h2>6 · చూడండి & తయారు చేయండి</h2>
   <div class="make">
     ${missing.length ? `<div class="warn">ఇంకా లేని క్లిప్‌లు: ${missing.join(', ')} – అవి వీడియోలో ఖాళీ బాక్స్‌లుగా వస్తాయి.</div>` : '<div class="good">కావలసిన క్లిప్‌లన్నీ ఉన్నాయి ✓</div>'}
     ${hasVoice ? '<div class="good">వాయిస్ ఉంది ✓</div>' : '<div class="warn">వాయిస్ ఇంకా లేదు – టెక్స్ట్ 45 సెకన్ల ప్లాన్ ప్రకారం వస్తుంది.</div>'}
@@ -191,6 +272,8 @@ function drawDetail() {
   for (const el of document.querySelectorAll('[data-slot]')) dropTarget(el, el.dataset.slot);
 }
 
+const CTA_LINES = ['మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!', 'కామెంట్‌లో "జై శ్రీరామ్" అని రాసి, లైక్ చేయండి!',
+  'లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!', '"జై శ్రీరామ్" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!'];
 function aslot(k, label, say) {
   const m = media[k];
   return `<div class="aslot ${m ? 'has' : ''}" data-slot="${k}">
@@ -204,10 +287,11 @@ function aslot(k, label, say) {
 }
 
 function dropTarget(el, slot) {
-  el.addEventListener('dragover', (e) => { e.preventDefault(); el.classList.add('drag'); });
+  // stopPropagation: the "+ 2వ / + 3వ" spots sit inside a clip box; a drop on them must not also fill the box
+  el.addEventListener('dragover', (e) => { e.preventDefault(); e.stopPropagation(); el.classList.add('drag'); });
   el.addEventListener('dragleave', () => el.classList.remove('drag'));
   el.addEventListener('drop', (e) => {
-    e.preventDefault(); el.classList.remove('drag');
+    e.preventDefault(); e.stopPropagation(); el.classList.remove('drag');
     const f = e.dataTransfer.files[0];
     if (f) upload(slot, f, el);
   });
@@ -215,7 +299,7 @@ function dropTarget(el, slot) {
 
 function pick(slot) {
   const p = $('#picker');
-  p.accept = slot.startsWith('clip') ? 'video/*,image/*' : 'audio/*';
+  p.accept = slot.startsWith('clip') ? 'video/*,image/*' : slot === 'end_banner' ? 'image/*' : 'audio/*';
   p.onchange = () => { if (p.files[0]) upload(slot, p.files[0], $(`[data-slot="${slot}"]`)); p.value = ''; };
   p.click();
 }
@@ -234,6 +318,7 @@ function upload(slot, file, el) {
     if (!h.includes(slot)) h.push(slot);
     drawGrid(); drawDetail();
   };
+  xhr.onerror = () => { if (bar) bar.style.width = '0'; offline(); };
   xhr.send(file);
 }
 
@@ -250,9 +335,15 @@ async function openFolder(what) {
 
 const srtLink = (mp4) => { const f = mp4.replace(/\.mp4$/, '.srt');
   return `<div class="row"><a class="btn" href="/out/${encodeURIComponent(f)}" download="${esc(f)}">📄 YouTube క్యాప్షన్ (SRT) డౌన్‌లోడ్</a></div>`; };
+// Suno prompts per mood: src/data/music_prompts.json (the claude.ai clips page shows the same ones)
+let EXCLUDE = '', MOODS = {}, DEFAULT_PROMPT = '', SFX = {};
+function copy(btn, text) {
+  navigator.clipboard.writeText(text).then(() => { const t = btn.textContent; btn.textContent = 'కాపీ అయింది ✓'; setTimeout(() => (btn.textContent = t), 1500); });
+}
 let poll = null;
 async function make() {
-  const r = await fetch(`/api/render?${q()}&ke=${data.kandaEn}`, {method: 'POST'});
+  let r;
+  try { r = await fetch(`/api/render?${q()}&ke=${data.kandaEn}`, {method: 'POST'}); } catch (e) { return offline(); }
   const j = await r.json();
   if (r.status !== 200) return alert(j.error);
   refreshJob();
@@ -270,7 +361,7 @@ async function refreshJob() {
       <div class="progress"><div style="width:${j.progress}%"></div></div><p class="hint">మొదటిసారి కొంచెం ఎక్కువ సమయం పడుతుంది (Chrome డౌన్‌లోడ్ అవుతుంది, 2–5 నిమిషాలు).<br>${esc((j.log.trim().split(/[\r\n]+/).pop() || '').slice(0, 120))}</p>`;
     poll = setTimeout(refreshJob, 1500);
   } else if (mine && j.state === 'done') {
-    box.innerHTML = `<div class="good">✓ తయారైంది (${j.seconds} సె.లో) · out/${esc(j.file)}</div>${srtLink(j.file)}
+    box.innerHTML = `<div class="good">✓ తయారైంది (${j.seconds} సె.లో) · out/${esc(j.file)}</div>${j.note ? `<div class="hint">${esc(j.note)}</div>` : ''}${checkHtml(j)}${srtLink(j.file)}
       <div class="result"><video controls src="/out/${encodeURIComponent(j.file)}?t=${Date.now()}"></video></div>`;
     const h = data.have[cur.n] = data.have[cur.n] || [];
     if (!h.includes('_rendered')) { h.push('_rendered'); drawGrid(); }
@@ -284,6 +375,13 @@ async function refreshJob() {
 }
 
 init();
+// the upload check after every render (tools/master_check.py): green when ready, otherwise what to look at
+function checkHtml(j) {
+  if (!j.check) return '';
+  return `<div style="margin:8px 0;padding:10px 14px;border-radius:10px;background:${j.check.ok ? 'rgba(95,207,128,.12)' : 'rgba(255,123,107,.12)'}">
+    <b>${j.check.ok ? '✓ అప్‌లోడ్‌కి సిద్ధం' : '⚠ అప్‌లోడ్ ముందు ఇవి చూడండి'}</b>
+    <ul style="margin:6px 0 0;padding-left:20px">${j.check.lines.map((l) => '<li>' + esc(l) + '</li>').join('')}</ul></div>`;
+}
 </script>
 </body>
 </html>

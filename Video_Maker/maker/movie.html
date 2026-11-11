@@ -1,0 +1,353 @@
+<!doctype html>
+<html lang="te">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Video Maker · సినిమా</title>
+<style>
+:root{--bg:#1a0f08;--panel:#26160c;--panel2:#311d10;--line:#5a3a1e;--gold:#f6cf6a;--text:#fbeed2;--dim:#c9b18a;--ok:#5fcf80;--bad:#ff7b6b}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.5 'Nirmala UI','Segoe UI',sans-serif}
+header{position:sticky;top:0;z-index:5;display:flex;gap:14px;align-items:center;flex-wrap:wrap;padding:12px 20px;background:#120a05;border-bottom:1px solid var(--line)}
+header h1{font-size:20px;margin:0;color:var(--gold)}
+a{color:var(--gold)}
+select,button{font:inherit}
+select{background:var(--panel2);color:var(--text);border:1px solid var(--line);border-radius:8px;padding:6px 10px}
+.btn{background:var(--panel2);color:var(--text);border:1px solid var(--line);border-radius:10px;padding:7px 14px;cursor:pointer;text-decoration:none;display:inline-block}
+.btn:hover{border-color:var(--gold)}
+.btn.main{background:var(--gold);color:#2a1500;border-color:var(--gold);font-weight:700;font-size:17px;padding:11px 22px}
+.btn:disabled{opacity:.5;cursor:default}
+.wrap{display:grid;grid-template-columns:270px minmax(0,1fr);min-height:calc(100vh - 60px)}
+nav{border-right:1px solid var(--line);padding:12px;position:sticky;top:60px;height:calc(100vh - 60px);overflow:auto}
+nav button{display:block;width:100%;text-align:left;background:none;border:0;color:var(--text);padding:8px 10px;border-radius:8px;cursor:pointer;margin-bottom:2px}
+nav button:hover{background:var(--panel)}
+nav button.on{background:var(--panel2);outline:2px solid var(--gold)}
+nav small{color:var(--dim);display:block}
+main{padding:16px 22px 80px;max-width:1250px}
+h2{color:var(--gold);margin:6px 0 4px;font-size:24px}
+h3{margin:0;font-size:17px}
+.hint{color:var(--dim);font-size:14px;margin:4px 0 10px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px;margin:12px 0}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.cols{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap:14px}
+@media (max-width:1000px){.wrap{grid-template-columns:1fr}nav{position:static;height:auto}.cols{grid-template-columns:1fr}}
+.slots{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.slot{position:relative;border:2px dashed var(--line);border-radius:10px;aspect-ratio:16/9;display:flex;align-items:center;justify-content:center;text-align:center;font-size:13px;color:var(--dim);cursor:pointer;overflow:hidden;background:#0d0704}
+.slot.has{border-style:solid;border-color:#3d7a4f}
+.slot.drag,.aslot.drag{border-color:var(--gold)}
+.slot img,.slot video{width:100%;height:100%;object-fit:cover}
+.x{position:absolute;top:4px;right:4px;width:24px;height:24px;border-radius:50%;border:0;background:#000a;color:#fff;cursor:pointer;z-index:2}
+.aslot{position:relative;border:2px dashed var(--line);border-radius:10px;padding:10px;margin-top:8px;background:#0d0704}
+.aslot.has{border-style:solid;border-color:#3d7a4f}
+.aslot audio{width:100%;margin-top:6px}
+.who{font-weight:700;color:var(--gold)}
+.voice{font-size:12px;color:var(--dim)}
+.say{background:#0004;border-radius:8px;padding:8px;margin:6px 0;font-size:15px}
+.pick{font-size:13px;color:var(--dim);text-decoration:underline;cursor:pointer}
+.chip{display:inline-block;background:var(--panel2);border:1px solid var(--gold);color:var(--gold);border-radius:20px;padding:2px 12px;font-size:13px;margin:2px 4px 2px 0}
+.tag{font-size:12px;padding:2px 8px;border-radius:10px;background:#0006;color:var(--dim)}
+details summary{cursor:pointer;color:var(--gold);padding:4px 0}
+pre{white-space:pre-wrap;font-size:12px;color:var(--dim);max-height:140px;overflow:auto;background:#0d0704;padding:8px;border-radius:8px;margin:6px 0}
+.good{color:var(--ok)} .warn{color:var(--bad)}
+.progress{height:14px;background:#0d0704;border-radius:10px;overflow:hidden}
+.progress div{height:100%;background:linear-gradient(90deg,#d99a2b,var(--gold));width:0;transition:width .4s}
+video.result{width:100%;max-height:60vh;border-radius:12px;background:#000;margin-top:8px}
+.bar{height:4px;background:var(--gold);width:0;border-radius:4px}
+#offline{position:fixed;left:0;right:0;top:0;z-index:99;background:#b3261e;color:#fff;padding:14px 20px;font-size:17px;font-weight:700;text-align:center}
+</style>
+</head>
+<body>
+<header>
+  <h1>🎬 వీడియో మేకర్ · సినిమా</h1>
+  <select id="movie"></select>
+  <span style="flex:1"></span>
+  <a class="btn" href="/">📱 Shorts</a>
+  <a class="btn" href="/presenter">🎙️ ప్రెజెంటర్</a>
+  <button class="btn" onclick="openFolder()">📂 ఈ సినిమా ఫైల్‌లు</button>
+  <button class="btn" onclick="fetch('/api/open?what=out',{method:'POST'})">📂 తయారైన వీడియోలు</button>
+</header>
+<div class="wrap">
+  <nav id="scenes"></nav>
+  <main id="main"></main>
+</div>
+<input type="file" id="picker" hidden>
+<script>
+const $ = (s, r = document) => r.querySelector(s);
+const esc = (x) => String(x ?? '').replace(/[&<>"]/g, (c) => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]));
+const P = new URLSearchParams(location.search);
+let movies = [], D = null, M = {shots: {}, scenes: {}, shared: {}}, cur = 1, prompts = {};
+const mmss = (x) => `${Math.floor(x / 60)}:${String(Math.round(x % 60)).padStart(2, '0')}`;
+const secs = (d) => (d ? `${d.toFixed(1)} సె.` : '');
+const compId = () => `Cinema-${D.kandaEn}-${D.file.replace(/_/g, '-')}`;
+const q = () => `movie=${encodeURIComponent(D.id)}`;
+
+function offline() {
+  let b = $('#offline');
+  if (!b) { b = document.createElement('div'); b.id = 'offline'; document.body.prepend(b); }
+  b.textContent = '⚠️ Video Maker నడవడం లేదు – నల్ల విండో మూసేశారు. Video_Maker లో START_VIDEO_MAKER.bat మళ్ళీ డబుల్-క్లిక్ చేసి, ఆ విండో తెరిచే ఉంచండి.';
+}
+setInterval(() => fetch('/api/status').then(() => { const b = $('#offline'); if (b) b.remove(); }).catch(offline), 4000);
+
+async function init() {
+  movies = await (await fetch('/api/movies')).json();
+  $('#movie').innerHTML = movies.map((m, i) => `<option value="${i}">${m.mode === 'long' ? `📺 లాంగ్ వీడియో ${esc(m.kandaEn)} ${esc(m.file)} · ` : '🎬 సినిమా · '}${esc(m.title.split(' | ')[0])}</option>`).join('');
+  let i = Math.max(0, movies.findIndex((m) => m.id === P.get('id')));
+  $('#movie').value = i;
+  $('#movie').onchange = () => load(movies[+$('#movie').value].id, 1);
+  await load(movies[i].id, +P.get('scene') || 1);
+  refreshJob();
+}
+
+async function load(id, scene) {
+  D = await (await fetch(`/api/movie?movie=${encodeURIComponent(id)}`)).json();
+  M = (await (await fetch(`/api/movie-media?movie=${encodeURIComponent(id)}`)).json()).media;
+  cur = Math.min(scene, D.scenes.length);
+  draw();
+}
+
+// how far a scene is: music + every shot's first picture + every voice line
+function done(sc) {
+  if (D.mode === 'long') {
+    const bump = sc.shots.every((x) => x.bumper) && M.shared.intro;
+    let need = 1, have = M.scenes[sc.si]?.voice || bump ? 1 : 0;
+    for (const sh of sc.shots) { need += 1; have += (M.shots[sh.no] || {}).clip || (sh.bumper && M.shared.intro) ? 1 : 0; }
+    return [have, need];
+  }
+  let need = 1, have = M.scenes[sc.si]?.music ? 1 : 0;
+  for (const sh of sc.shots) {
+    const m = M.shots[sh.no] || {};
+    need += 1 + sh.lines.length;
+    have += (m.clip ? 1 : 0) + sh.lines.filter((_, i) => m['line' + (i + 1)]).length;
+  }
+  return [have, need];
+}
+
+function draw() {
+  history.replaceState(null, '', `/movie?id=${encodeURIComponent(D.id)}&scene=${cur}`);
+  $('#scenes').innerHTML = `<div class="hint" style="margin:0 6px 8px">${esc(D.title)}<br>${D.scenes.length} దృశ్యాలు · ~${mmss(D.planLength)}</div>` +
+    D.scenes.map((sc) => { const [h, n] = done(sc);
+      return `<button class="${sc.si === cur ? 'on' : ''}" onclick="cur=${sc.si};draw();scrollTo(0,0)">${D.mode === 'long' ? '' : sc.si + '. '}${esc(sc.title)}
+        <small>${sc.shots.length} షాట్‌లు · <span class="${h === n ? 'good' : ''}">${h}/${n} సిద్ధం</span></small></button>`; }).join('') +
+    `<button class="${cur === 0 ? 'on' : ''}" onclick="cur=0;draw()">⚙️ అన్ని సినిమాలకు<small>చివరి బ్యానర్ · సౌండ్‌లు</small></button>`;
+  if (cur === 0) return drawShared();
+  const sc = D.scenes[cur - 1];
+  const music = M.scenes[sc.si]?.music;
+  $('#main').innerHTML = `
+  <h2>${D.mode === 'long' ? esc(D.title) + ' · ' + esc(sc.title) : `దృశ్యం ${sc.si} · ${esc(sc.title)}`}</h2>
+  <p class="hint">${D.mode === 'long' ? esc(D.covers) : esc(sc.refs) + ' · ' + esc(sc.loc)}</p>
+  ${D.mode === 'long' && cur === 1 ? youtubeCard() : ''}
+  ${D.mode === 'long' ? partCard(sc) : `<div class="card">
+    <h3>🎵 ఈ దృశ్యం సంగీతం (Suno – Instrumental ఆన్)</h3>
+    <p class="hint">Suno లో Custom + Instrumental ఆన్ చేసి, ఇది Style of Music లో పేస్ట్ చేయండి. దృశ్యం అంతా మెల్లగా వస్తుంది; మాటలు లేనప్పుడు పెరుగుతుంది, దృశ్యాల మధ్య మెల్లగా మారుతుంది.</p>
+    <pre>${esc(sc.suno)}</pre>
+    <button class="btn" onclick="copy(this, D.scenes[${sc.si - 1}].suno)">📋 Suno ప్రాంప్ట్ కాపీ</button>
+    ${sc.songstyle ? `<p class="hint">🎶 పాట (Suno – Instrumental ఆఫ్): ${esc(sc.songstyle)}</p><button class="btn" onclick="copy(this, D.scenes[${sc.si - 1}].songstyle)">📋 పాట శైలి కాపీ</button>` : ''}
+    ${aslot({scene: sc.si, slot: 'music'}, music, 'దృశ్యం సంగీతం ఇక్కడ వదలండి')}
+  </div>`}
+  ${sc.shots.map(shotCard).join('')}
+  <div class="card">
+    <h3>🎬 తయారు చేయండి</h3>
+    <p class="hint">"ఈ దృశ్యం మాత్రమే" త్వరగా వస్తుంది – చూసి సరిచూసుకోవడానికి. "మొత్తం సినిమా" ~13 నిమిషాల సినిమా; మీ ల్యాప్‌టాప్‌లో 30–60 నిమిషాలు పట్టవచ్చు. వాయిస్ లేని షాట్‌లు స్క్రిప్ట్ అంచనా సమయంతో, చిత్రం లేనివి ఖాళీ బాక్స్‌తో వస్తాయి. SRT క్యాప్షన్ ఫైల్ సినిమాతో పాటు వస్తుంది.</p>
+    <div class="row">
+      <a class="btn" href="http://localhost:3000/${compId()}" target="_blank">👁️ Studio లో ప్లే చేసి చూడండి</a>
+      <button class="btn" id="goScene" onclick="make(${sc.si})">🎬 ఈ దృశ్యం మాత్రమే</button>
+      <button class="btn main" id="goAll" onclick="make(0)">🎬 మొత్తం సినిమా తయారు చేయండి</button>
+    </div>
+    <div id="job"></div>
+  </div>`;
+  for (const el of document.querySelectorAll('[data-q]')) dropTarget(el);
+  refreshJob();
+}
+
+function shotCard(sh) {
+  const m = M.shots[sh.no] || {};
+  // boxes: the main picture, one per extra picture the script asks for (montage / fight cuts), at least 3
+  const alts = sh.alts || [];
+  const keys = ['clip', 'clip_2', 'clip_3', 'clip_4', 'clip_5', 'clip_6', 'clip_7', 'clip_8'].slice(0, Math.max(3, 1 + alts.length));
+  const vis = keys.map((k, j) => {
+    const x = m[k];
+    const alt = j ? alts[j - 1] : null;
+    return `<div class="slot ${x ? 'has' : ''}" data-q="shot=${sh.no}&slot=${k}" onclick="pick('shot=${sh.no}&slot=${k}','video/*,image/*')">
+      ${x ? `<button class="x" onclick="event.stopPropagation();removeSlot('shot=${sh.no}&slot=${k}')">✕</button>` + (x.video ? `<video src="${x.url}" muted loop onmouseenter="this.play()" onmouseleave="this.pause()"></video>` : `<img src="${x.url}">`)
+        : (alt ? `${j + 1}వ చిత్రం<br><small style="font-family:Segoe UI">${esc(alt.pic.slice(0, 70))}…</small>` : j ? `+ ${j + 1}వ (ఐచ్ఛికం)` : `${sh.kind === 'video' ? '🎥 వీడియో' : '🖼️ ఇమేజ్'}<br>ఇక్కడ వదలండి`)}</div>`;
+  }).join('');
+  const altPrompts = alts.map((a, j) => `<details><summary>🖼️ ${j + 2}వ చిత్రం ప్రాంప్ట్‌లు</summary><p class="hint" style="font-family:Segoe UI">${esc(a.pic)}</p>
+      <pre>${esc(a.img)}</pre><button class="btn" onclick="copy(this, D.scenes[${cur - 1}].shots.find(s=>s.no===${sh.no}).alts[${j}].img)">📋 ఇమేజ్ ప్రాంప్ట్</button>
+      ${a.end ? `<pre>${esc(a.end)}</pre><button class="btn" onclick="copy(this, D.scenes[${cur - 1}].shots.find(s=>s.no===${sh.no}).alts[${j}].end)">📋 చివరి ఇమేజ్ ప్రాంప్ట్</button>` : ''}
+      <pre>${esc(a.vid)}</pre><button class="btn" onclick="copy(this, D.scenes[${cur - 1}].shots.find(s=>s.no===${sh.no}).alts[${j}].vid)">📋 వీడియో ప్రాంప్ట్</button></details>`).join('');
+  const bgm = sh.bgm ? `<div class="aslot ${m.bgm ? 'has' : ''}" data-q="shot=${sh.no}&slot=bgm">
+      ${m.bgm ? `<button class="x" onclick="removeSlot('shot=${sh.no}&slot=bgm')">✕</button>` : ''}
+      <div class="who">🎵 ఈ షాట్ సంగీతం (Suno – Instrumental ఆన్) – ఈ షాట్‌లో దృశ్యం సంగీతం బదులు ఇది వస్తుంది</div>
+      <div class="say" style="font-family:Segoe UI;font-size:13px">${esc(sh.bgm)}</div>
+      <button class="btn" onclick="copy(this, D.scenes[${cur - 1}].shots.find(s=>s.no===${sh.no}).bgm)">📋 Suno ప్రాంప్ట్ కాపీ</button>
+      ${m.bgm ? `<span class="good">${esc(m.bgm.name)}</span><audio controls src="${m.bgm.url}"></audio>` : `<span class="pick" onclick="pick('shot=${sh.no}&slot=bgm','audio/*')">సంగీతం ఇక్కడ వదలండి</span>`}<div class="bar"></div></div>` : '';
+  const lines = D.mode === 'long' ? (sh.lines.length ? `<div class="aslot" style="border-style:solid"><div class="who">🎙 కథకుడు</div>
+      <div class="say">${esc(sh.lines[0].text)}</div><p class="hint" style="margin:0">ఈ మాటలు పైన ఉన్న "వాయిస్" భాగంలో ఉన్నాయి.</p></div>` : '') : sh.lines.map((l, i) => {
+    const k = 'line' + (i + 1), x = m[k];
+    return `<div class="aslot ${x ? 'has' : ''}" data-q="shot=${sh.no}&slot=${k}">
+      ${x ? `<button class="x" onclick="removeSlot('shot=${sh.no}&slot=${k}')">✕</button>` : ''}
+      <div><span class="who">🎙 ${esc(l.label)}${l.song ? ' (పాట)' : ''}</span> <span class="voice">· ${esc(l.voice)}</span></div>
+      <div class="say">${esc(l.text)}</div>
+      <div class="row"><button class="btn" onclick="copy(this, D.scenes[${cur - 1}].shots.find(s=>s.no===${sh.no}).lines[${i}].text)">📋 ${l.song ? 'పాట సాహిత్యం' : 'ElevenLabs'} కాపీ</button>
+      ${x ? `<span class="good">${esc(x.name)} · ${secs(x.dur)}</span>` : `<span class="pick" onclick="pick('shot=${sh.no}&slot=${k}','audio/*')">ఆడియో ఇక్కడ వదలండి / క్లిక్ చేయండి</span>`}</div>
+      ${l.song ? `<p class="hint">పాట: Suno లో (Instrumental ఆఫ్) ఈ శ్లోకాన్ని సాహిత్యంగా ఇచ్చి, పై "పాట శైలి" తో చేయండి.</p>` : ''}
+      ${x ? `<audio controls src="${x.url}"></audio>` : ''}<div class="bar"></div></div>`;
+  }).join('');
+  const fx = (sh.fx || []).map((f) => `<div class="aslot ${m.fx ? 'has' : ''}" data-q="shot=${sh.no}&slot=fx">
+      ${m.fx ? `<button class="x" onclick="removeSlot('shot=${sh.no}&slot=fx')">✕</button>` : ''}
+      <div class="who">🔊 శబ్దం: ${esc(f.te)}</div>
+      ${f.prompt ? `<div class="say" style="font-family:Segoe UI;font-size:13px">${esc(f.prompt)}</div><button class="btn" onclick="copy(this, ${JSON.stringify(f.prompt).replace(/"/g, '&quot;')})">📋 ElevenLabs Sound Effects కాపీ</button>` : ''}
+      ${m.fx ? `<span class="good">${esc(m.fx.name)}</span><audio controls src="${m.fx.url}"></audio>` : `<span class="pick" onclick="pick('shot=${sh.no}&slot=fx','audio/*')">శబ్దం ఇక్కడ వదలండి (ఐచ్ఛికం)</span>`}<div class="bar"></div></div>`).join('');
+  return `<div class="card">
+    <div class="row"><h3>${D.mode === 'long' ? 'క్లిప్' : 'షాట్'} ${sh.no}</h3>${sh.label ? `<span class="tag">${esc(sh.label)}</span>` : ''}<span class="tag">~${Math.round(sh.sec)} సె.</span><span class="tag">${sh.kind === 'video' ? '🎥 వీడియో (యాక్షన్)' : '🖼️ ఇమేజ్ + కదలిక'}</span><span class="tag">శ్లో. ${esc(sh.refs)}</span>
+      ${sh.cap.map((c) => `<span class="chip">🔤 ${esc(c)}</span>`).join('')}</div>
+    <p class="hint" style="font-family:Segoe UI">${esc(sh.pic)}</p>
+    <div class="cols">
+      <div>
+        <div class="slots" style="grid-template-columns:repeat(${Math.min(4, keys.length)},1fr)">${vis}</div>
+        <details${D.mode === 'long' ? ' open' : ''}><summary>🖼️ ఇమేజ్ / 🎥 వీడియో ప్రాంప్ట్‌లు${sh.ref.length ? ' · రిఫరెన్స్: ' + sh.ref.map((r) => r + '.png').join(', ') : ''}</summary>
+          <pre>${esc(sh.img)}</pre><button class="btn" onclick="copy(this, D.scenes[${cur - 1}].shots.find(s=>s.no===${sh.no}).img)">📋 ఇమేజ్ ప్రాంప్ట్</button>
+          ${sh.end ? `<p class="hint" style="margin:6px 0 0">చివరి ఇమేజ్ (మొదటి ఇమేజ్ కూడా జత చేసి) – వీడియోలో చివరి ఫ్రేమ్:</p><pre>${esc(sh.end)}</pre><button class="btn" onclick="copy(this, D.scenes[${cur - 1}].shots.find(s=>s.no===${sh.no}).end)">📋 చివరి ఇమేజ్ ప్రాంప్ట్</button>` : ''}
+          <pre>${esc(sh.vid)}</pre><button class="btn" onclick="copy(this, D.scenes[${cur - 1}].shots.find(s=>s.no===${sh.no}).vid)">📋 వీడియో ప్రాంప్ట్</button>
+        </details>
+        ${altPrompts}
+        ${sh.music.length ? `<p class="hint">🎵 ${esc(sh.music.join(' · '))}</p>` : ''}
+      </div>
+      <div>${lines || '<p class="hint">⚔️ యాక్షన్ – మాటలు లేవు, సంగీతం, శబ్దాలతో మాత్రమే</p>'}${bgm}${fx}</div>
+    </div>
+  </div>`;
+}
+
+// a long video's upload kit: thumbnail prompt, YouTube title and description (with chapters)
+function youtubeCard() {
+  const box = (title, key, rows) => `<p class="hint" style="margin:8px 0 2px"><b>${title}</b></p>
+    <pre style="max-height:${rows}px;overflow:auto;white-space:pre-wrap">${esc(D[key] || '')}</pre>
+    <button class="btn" onclick="copy(this, D.${key})">📋 కాపీ</button>`;
+  return `<div class="card"><h3>📤 YouTube – థంబ్‌నెయిల్, టైటిల్, వివరణ</h3>
+    <p class="hint">థంబ్‌నెయిల్ ప్రాంప్ట్‌ని ఇమేజ్ టూల్‌లో వాడండి; టైటిల్, వివరణ (చాప్టర్‌లతో) అప్‌లోడ్ చేసేటప్పుడు పేస్ట్ చేయండి. SRT క్యాప్షన్ వీడియోతో పాటు వస్తుంది.</p>
+    ${box('🖼️ థంబ్‌నెయిల్ ప్రాంప్ట్ (16:9)', 'thumbPrompt', 140)}
+    ${box('🏷️ టైటిల్', 'ytTitle', 60)}
+    ${box('📝 వివరణ', 'desc', 220)}</div>`;
+}
+
+// a long video's part: one ElevenLabs recording for all its clips (or the channel intro clip for the bumper part)
+function partCard(sc) {
+  const v = M.scenes[sc.si]?.voice;
+  if (sc.shots.every((x) => x.bumper))
+    return `<div class="card"><h3>🎬 ${esc(sc.voiceLabel)}</h3>
+      <p class="hint">${M.shared.intro ? '✓ ఛానల్ ఇంట్రో క్లిప్ (⚙️ అన్నిటికీ లో పెట్టినది) దాని సొంత శబ్దంతో ఇక్కడ ఆటోమేటిక్‌గా వస్తుంది.'
+        : 'ఛానల్ ఇంట్రో క్లిప్ ఇంకా లేదు – ⚙️ అన్నిటికీ లో పెట్టండి. లేకపోతే ఈ మాటలు రికార్డ్ చేసి కింద వదలండి, చిత్రం మీద వస్తాయి.'}</p>
+      <div class="say">${esc(sc.voiceText)}</div>${M.shared.intro ? '' : aslot({scene: sc.si, slot: 'voice'}, v, 'ఈ భాగం వాయిస్ ఇక్కడ వదలండి')}</div>`;
+  const m = M.scenes[sc.si]?.music;
+  return `<div class="card">
+    <h3>🎙 ${esc(sc.voiceLabel)} – వాయిస్ (ఒకే ఫైల్)</h3>
+    <p class="hint">ElevenLabs లో ఈ భాగం మొత్తం ఒకేసారి Generate చేసి (అదే గొంతు, Natural), MP3 ని కింద వదలండి. ఈ భాగంలోని చిత్రాలు మీ వాయిస్ పొడవుకు, ఒక్కో క్లిప్ ఎంత చెబుతుందో దాని బట్టి సర్దుకుంటాయి. వాయిస్ ఆటోమేటిక్‌గా స్పష్టంగా, సమాన స్థాయికి సరిచేయబడుతుంది.</p>
+    <div class="say" style="max-height:200px;overflow:auto">${esc(sc.voiceText)}</div>
+    <button class="btn" onclick="copy(this, D.scenes[${sc.si - 1}].voiceText)">📋 ElevenLabs కాపీ</button>
+    ${aslot({scene: sc.si, slot: 'voice'}, v, 'ఈ భాగం వాయిస్ ఇక్కడ వదలండి')}
+  </div>
+  <div class="card">
+    <h3>🎵 ఈ భాగం నేపథ్య సంగీతం · ${esc(sc.moodLabel || '')}</h3>
+    <p class="hint">${m && m.auto ? `✓ ఆటోమేటిక్‌గా <b>Music\\${esc(m.name)}</b> వస్తుంది (మాటల కింద మెల్లగా). వేరేది కావాలంటే కింద వదలండి.`
+      : m ? '✓ మీరు పెట్టిన సంగీతం వస్తుంది.' : `Video_Maker\\Music లో music_${esc(sc.mood || 'calm')}.mp3 లేదు – కింది ప్రాంప్ట్‌తో Suno లో చేసి కింద వదలండి.`}</p>
+    <details><summary>Suno ప్రాంప్ట్ (Custom + Instrumental ఆన్)</summary><pre>${esc(sc.suno || '')}</pre>
+      <button class="btn" onclick="copy(this, D.scenes[${sc.si - 1}].suno)">📋 Suno ప్రాంప్ట్ కాపీ</button></details>
+    ${aslot({scene: sc.si, slot: 'music'}, m && !m.auto ? m : null, 'ఈ భాగానికి సొంత సంగీతం ఇక్కడ వదలండి (ఐచ్ఛికం)')}
+  </div>`;
+}
+
+function drawShared() {
+  const b = M.shared.banner;
+  $('#main').innerHTML = `
+  <h2>⚙️ అన్ని సినిమాలకు</h2>
+  <div class="card"><h3>🏷️ సినిమా చివరి బ్యానర్ (16:9)</h3>
+    <p class="hint">లాంగ్ వీడియోల ఛానల్ బ్యానర్ ఇక్కడ వదలండి – ప్రతి సినిమా చివర 4 సెకన్లు వస్తుంది. లేకపోతే Shorts బ్యానర్ వాడతాం.</p>
+    <div class="slots" style="grid-template-columns:minmax(0,420px)"><div class="slot ${b && b.wide ? 'has' : ''}" data-q="slot=end_banner_wide" onclick="pick('slot=end_banner_wide','image/*')">
+      ${b && b.wide ? `<img src="${b.url}">` : 'వెడల్పాటి బ్యానర్ ఇక్కడ వదలండి'}</div></div></div>
+  <div class="card"><h3>🎬 ఛానల్ ఇంట్రో క్లిప్ (లాంగ్ వీడియోలు)</h3>
+    <p class="hint">ప్రతి లాంగ్ వీడియోలో "ఇంట్రో (ఛానల్ బంపర్)" దగ్గర ఇది దాని సొంత శబ్దంతో వస్తుంది. 16:9 MP4. (పాత Channel_Into.mp4 లో "పురాణామృతం" అని ఉంది – కొత్త పేరుతో చేసినది పెట్టండి.)</p>
+    <div class="slots" style="grid-template-columns:minmax(0,420px)"><div class="slot ${M.shared.intro ? 'has' : ''}" data-q="slot=channel_intro" onclick="pick('slot=channel_intro','video/*')">
+      ${M.shared.intro ? `<video src="${M.shared.intro.url}" controls></video>` : 'ఛానల్ ఇంట్రో వీడియో ఇక్కడ వదలండి'}</div></div></div>
+  <div class="card"><h3>🔊 సౌండ్ ఎఫెక్ట్స్</h3>
+    <p class="hint">Shorts లో చేసిన సౌండ్‌లే (అడవి, నది, అగ్ని, బాణం, గర్జన…) సినిమాకూ వాడతాం – <a href="/">Shorts పేజీ</a> 5వ విభాగంలో ఉన్నాయి. ప్రతి షాట్‌కు స్క్రిప్ట్‌లో ఉన్న ప్రత్యేక శబ్దాలు ఆ షాట్ దగ్గరే ఉన్నాయి.
+    ఇప్పుడు ఉన్నవి: ${Object.keys(M.shared).filter((k) => k.startsWith('sfx_')).length}</p></div>`;
+  for (const el of document.querySelectorAll('[data-q]')) dropTarget(el);
+}
+
+function aslot(o, x, label) {
+  const qs = o.scene ? `scene=${o.scene}&slot=${o.slot}` : `shot=${o.shot}&slot=${o.slot}`;
+  return `<div class="aslot ${x ? 'has' : ''}" data-q="${qs}">
+    ${x ? `<button class="x" onclick="removeSlot('${qs}')">✕</button><span class="good">${esc(x.name)} · ${secs(x.dur)}</span><audio controls src="${x.url}"></audio>`
+        : `<span class="pick" onclick="pick('${qs}','audio/*')">${label} / క్లిక్ చేయండి</span>`}<div class="bar"></div></div>`;
+}
+
+function dropTarget(el) {
+  el.addEventListener('dragover', (e) => { e.preventDefault(); e.stopPropagation(); el.classList.add('drag'); });
+  el.addEventListener('dragleave', () => el.classList.remove('drag'));
+  el.addEventListener('drop', (e) => {
+    e.preventDefault(); e.stopPropagation(); el.classList.remove('drag');
+    const f = e.dataTransfer.files[0];
+    if (f) upload(el.dataset.q, f, el);
+  });
+}
+function pick(qs, accept) {
+  const p = $('#picker'); p.accept = accept;
+  p.onchange = () => { if (p.files[0]) upload(qs, p.files[0], document.querySelector(`[data-q="${qs}"]`)); p.value = ''; };
+  p.click();
+}
+function upload(qs, file, el) {
+  const xhr = new XMLHttpRequest();
+  xhr.open('POST', `/api/upload?${q()}&${qs}&name=${encodeURIComponent(file.name)}`);
+  const bar = el && el.querySelector('.bar');
+  xhr.upload.onprogress = (e) => { if (bar && e.lengthComputable) bar.style.width = (100 * e.loaded / e.total) + '%'; };
+  xhr.onerror = offline;
+  xhr.onload = () => { const r = JSON.parse(xhr.responseText); if (xhr.status !== 200) return alert(r.error || 'అప్‌లోడ్ కాలేదు'); M = r.media; draw(); };
+  xhr.send(file);
+}
+async function removeSlot(qs) {
+  if (!confirm('ఈ ఫైల్ తీసివేయాలా?')) return;
+  M = (await (await fetch(`/api/remove?${q()}&${qs}`, {method: 'POST'})).json()).media; draw();
+}
+function copy(btn, text) {
+  navigator.clipboard.writeText(text).then(() => { const t = btn.textContent; btn.textContent = 'కాపీ అయింది ✓'; setTimeout(() => (btn.textContent = t), 1500); });
+}
+async function openFolder() { await fetch(`/api/open?${q()}${cur ? '' : ''}`, {method: 'POST'}); }
+
+let poll = null;
+async function make(scene) {
+  let r;
+  try { r = await fetch(`/api/render?${q()}${scene ? '&scene=' + scene : ''}`, {method: 'POST'}); } catch (e) { return offline(); }
+  const j = await r.json(); if (r.status !== 200) return alert(j.error);
+  refreshJob();
+}
+async function refreshJob() {
+  clearTimeout(poll);
+  let j; try { j = await (await fetch('/api/status')).json(); } catch (e) { return; }
+  const box = $('#job'); if (!box) return;
+  const mine = j.id && j.id.startsWith(compId());
+  for (const b of ['#goScene', '#goAll']) if ($(b)) $(b).disabled = j.state === 'running';
+  if (j.state === 'running') {
+    box.innerHTML = `<p>${mine ? 'తయారవుతోంది…' : 'ఇంకో వీడియో తయారవుతోంది…'} ${j.progress}% · ${esc(j.id)}</p><div class="progress"><div style="width:${j.progress}%"></div></div>
+      <p class="hint">${esc((j.log.trim().split(/[\r\n]+/).pop() || '').slice(0, 120))}</p>`;
+    poll = setTimeout(refreshJob, 2000);
+  } else if (mine && j.state === 'done') {
+    box.innerHTML = `<p class="good">✓ తయారైంది (${Math.round(j.seconds / 60)} ని.) · out/${esc(j.file)}</p>${j.note ? `<p class="hint">${esc(j.note)}</p>` : ''}${checkHtml(j)}
+      <video class="result" controls src="/out/${encodeURIComponent(j.file)}?t=${Date.now()}"></video>
+      ${j.file.includes('-scene-') ? '' : `<p><a class="btn" href="/out/${encodeURIComponent(j.file.replace(/\.mp4$/, '.srt'))}" download>📄 YouTube క్యాప్షన్ (SRT)</a></p>`}`;
+  } else if (mine && j.state === 'error') {
+    box.innerHTML = `<p class="warn">తయారు కాలేదు. ఈ లోపం Claude కి చూపించండి:</p><pre>${esc(j.log)}</pre>`;
+  } else if (D.outputs && D.outputs.length) {
+    box.innerHTML = `<p class="hint">ఇంతకు ముందు తయారైనవి: ${D.outputs.map((f) => `<a href="/out/${encodeURIComponent(f)}" target="_blank">${esc(f)}</a>`).join(' · ')}</p>`;
+  } else box.innerHTML = '';
+}
+init();
+// the upload check after every render (tools/master_check.py): green when ready, otherwise what to look at
+function checkHtml(j) {
+  if (!j.check) return '';
+  return `<div style="margin:8px 0;padding:10px 14px;border-radius:10px;background:${j.check.ok ? 'rgba(95,207,128,.12)' : 'rgba(255,123,107,.12)'}">
+    <b>${j.check.ok ? '✓ అప్‌లోడ్‌కి సిద్ధం' : '⚠ అప్‌లోడ్ ముందు ఇవి చూడండి'}</b>
+    <ul style="margin:6px 0 0;padding-left:20px">${j.check.lines.map((l) => '<li>' + esc(l) + '</li>').join('')}</ul></div>`;
+}
+</script>
+</body>
+</html>

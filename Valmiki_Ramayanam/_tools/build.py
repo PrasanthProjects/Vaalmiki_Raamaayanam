@@ -67,8 +67,10 @@ RELATED = {('బాలకాండ', 1): ('E1.01', 'వాల్మీకి మ
 HASHTAGS = '#shorts #ramayanam #telugushorts #devotional #shloka #ramayanintelugu #valmikiramayanam'
 
 # 7 clips covering the ~45 s short: (start s, end s, Telugu label)
-SLOTS = [(0, 4, 'హుక్'), (4, 10, 'శ్లోక పఠనం – 1'), (10, 15, 'శ్లోక పఠనం – 2'),
-         (15, 23, 'తాత్పర్యం – 1'), (23, 31, 'తాత్పర్యం – 2'), (31, 38, 'జీవిత పాఠం'),
+# (user, 2026-11-11) one picture for the whole śloka chant and its word meanings, as the Video Maker plays it;
+# the meaning then flows over three pictures (each with the sentences heard under it), then the lesson
+SLOTS = [(0, 4, 'హుక్'), (4, 15, 'శ్లోకం & పదార్థం'), (15, 19, 'తాత్పర్యం – 1'),
+         (19, 26, 'తాత్పర్యం – 2'), (26, 32, 'తాత్పర్యం – 3'), (32, 38, 'జీవిత పాఠం'),
          (38, 45, 'ముగింపు & CTA')]
 
 
@@ -125,10 +127,34 @@ def split3(text):
 
 
 def slot_texts(f, sloka_lines):
-    half = (len(sloka_lines) + 1) // 2
-    lesson = split3(f['L_VO'])
-    return [f['H_VO'], ' / '.join(sloka_lines[:half]), ' / '.join(sloka_lines[half:]),
-            lesson[0], lesson[1], lesson[2], f['E_VO']]
+    """Clip 2 carries the whole śloka (chant + word meanings on one picture); the meaning and lesson run over
+    clips 3–6 in the Video Maker's proportions (5 : 8 : 8 : 7), each clip showing the sentences heard under it."""
+    parts = split_n(f['L_VO'], 4, (5, 8, 8, 7))
+    return [f['H_VO'], ' / '.join(sloka_lines)] + parts + [f['E_VO']]
+
+
+def split_n(text, n, weights):
+    """Whole sentences in n runs, each about its weight's share of the text (a long sentence is cut at a comma)."""
+    sents = sentences(text)
+    while len(sents) < n:
+        i = max(range(len(sents)), key=lambda k: len(sents[k]))
+        cuts = [m.end() for m in re.finditer(r',\s', sents[i])]
+        if not cuts:
+            break
+        at = min(cuts, key=lambda c: abs(c - len(sents[i]) / 2))
+        sents[i:i + 1] = [sents[i][:at].strip(), sents[i][at:].strip()]
+    total, wsum = sum(len(x) for x in sents) or 1, sum(weights)
+    parts, cur, acc = [], [], 0
+    for i, x in enumerate(sents):
+        cur.append(x)
+        acc += len(x)
+        left = len(sents) - i - 1
+        need = n - 1 - len(parts)
+        if need and (acc >= total * sum(weights[:len(parts) + 1]) / wsum or left == need):
+            parts.append(' '.join(cur))
+            cur = []
+    parts.append(' '.join(cur))
+    return (parts + [''] * n)[:n]
 
 
 # Sanskrit nasal + consonant clusters as they are usually read and printed in Telugu (మునిపుఙ్గవమ్ → మునిపుంగవమ్).
@@ -237,7 +263,7 @@ def still_prompt(chars, frame, light):
             f"Style: {STYLE}. "
             + (f"Characters: {who}. " if who else '')
             + f"Scene: {frame} Lighting and atmosphere: {light} "
-            "Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described. "
+            "Body check (very important): every person and vanara has exactly two arms, two hands with five separate, natural fingers each, two legs and two feet with five toes each; no extra, missing, merged or twisted fingers, toes, hands, arms or legs; each hand clearly belongs to one body and holds things naturally; gods have only the arms and heads their own description gives (such as four-armed Vishnu or Brahma), and birds have two wings and two taloned feet, never arms; faces natural and symmetrical, eyes aligned; correct anatomy and natural hands; no extra characters, limbs or faces beyond those described. "
             f"{RESPECT} No text, letters, logos or watermarks.")
 
 
@@ -248,7 +274,7 @@ def clip_prompt(chars, frame, motion, cam, light):
             f"Style: {STYLE}. "
             + (f"Characters (keep exactly this look for the whole shot): {who}. " if who else '')
             + f"Opening frame: {frame} Then: {motion} Camera: {cam} Lighting and effects: {light} "
-            "Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; "
+            "Body check (very important): every person and vanara has exactly two arms, two hands with five separate, natural fingers each, two legs and two feet with five toes each; no extra, missing, merged or twisted fingers, toes, hands, arms or legs; each hand clearly belongs to one body and holds things naturally; gods have only the arms and heads their own description gives (such as four-armed Vishnu or Brahma), and birds have two wings and two taloned feet, never arms; faces natural and symmetrical, eyes aligned; correct anatomy and natural hands; no extra characters, limbs or faces beyond those described; "
             "smooth, physically consistent motion with no morphing or flicker. "
             f"{RESPECT} {TAIL}")
 
@@ -268,7 +294,8 @@ def flow_md(clips, texts):
         extra = f"- **ఎడిటర్‌లో కదలిక:** {c['move']}\n" if c['move'] else ''
         body = (f"```text\n{c['prompt']}\n```\n" if not LIVE else
                 f"**🖼️ ఇమేజ్ ప్రాంప్ట్** (రిఫరెన్స్ ఇమేజ్‌లు జత చేసి):\n\n```text\n{c['imagePrompt']}\n```\n\n"
-                f"**🎥 వీడియో ప్రాంప్ట్** (Frames to Video – పై ఇమేజ్‌ను మొదటి ఫ్రేమ్‌గా పెట్టండి):"
+                f"**🖼️ చివరి ఇమేజ్ ప్రాంప్ట్** (రిఫరెన్స్ ఇమేజ్‌లు + పై మొదటి ఇమేజ్ జత చేసి):\n\n```text\n{c['endImagePrompt']}\n```\n\n"
+                f"**🎥 వీడియో ప్రాంప్ట్** (Frames to Video – మొదటి ఇమేజ్‌ను మొదటి ఫ్రేమ్‌గా, చివరి ఇమేజ్‌ను చివరి ఫ్రేమ్‌గా పెట్టండి):"
                 f"\n\n```text\n{c['videoPrompt']}\n```\n")
         out.append(f"### క్లిప్ {c['no']} · {c['time']} · {c['label']} · {head}\n\n"
                    f"- **నెరేషన్:** {c['narration']}\n"
@@ -293,8 +320,10 @@ def clip_cards(clips, texts):
         if LIVE:
             keys = keys_of(chars)
             refs = LS.ref_keys(keys)
-            both = {'imagePrompt': LS.still(keys, frame, light, label),
-                    'videoPrompt': LS.start_video(keys, frame, motion, cam, light, video, hook=i == 0)}
+            # start image, end image (2026-11-10) and a video that moves from the first to the last
+            both = {'imagePrompt': LS.still(keys, frame, light, label, motion=motion, cam=cam),
+                    'endImagePrompt': LS.end_still(keys, frame, motion, cam, light, video, label, hook=i == 0),
+                    'videoPrompt': LS.two_frame_video(keys, frame, motion, cam, light, video, hook=i == 0)}
             prompt = both['videoPrompt'] if video else both['imagePrompt']   # video: always from the user's image
         else:
             refs = [k for k in keys_of(chars) if k not in GROUPS]
@@ -498,7 +527,7 @@ def srt(texts):
     cues = []
     for i, ((a, b, _), text) in enumerate(zip(SLOTS, texts)):
         # Śloka lines stay whole (clips 2–3); narration is broken into short caption lines.
-        lines = [p.strip() for p in text.split(' / ')] if i in (1, 2) else chunks(text)
+        lines = [p.strip() for p in text.split(' / ')] if i == 1 else chunks(text)
         total = sum(len(l) for l in lines) or 1
         t = a
         for l in lines:
@@ -574,11 +603,31 @@ def sarga_references(kanda_te, sarga, slokas):
     return '\n'.join(out)
 
 
+def music_for(kanda_dir, sarga):
+    """Background music for the Shorts: each śloka's mood and the Suno prompt per mood (kept in Video_Maker/src/data)."""
+    d = os.path.join(os.path.dirname(ROOT), 'Video_Maker', 'src', 'data')
+    try:
+        prompts = json.load(open(os.path.join(d, 'music_prompts.json'), encoding='utf-8'))
+        moods = json.load(open(os.path.join(d, 'music_moods.json'), encoding='utf-8')).get(f'{kanda_dir}_S{sarga:03d}')
+    except FileNotFoundError:
+        return None
+    return {'exclude': prompts['exclude'], 'moods': prompts['moods'], 'of': moods} if moods else None
+
+
+def eleven_for(kanda_dir, sarga):
+    """ElevenLabs-ready voice text, four parts per śloka (made by Video_Maker/tools/make_data.py)."""
+    f = os.path.join(os.path.dirname(ROOT), 'Video_Maker', 'src', 'data', f'{kanda_dir}_S{sarga:03d}.json')
+    if not os.path.exists(f):
+        return None
+    return {str(x['n']): x['eleven'] for x in json.load(open(f, encoding='utf-8'))['slokas'] if x.get('eleven')}
+
+
 def helper_page(kanda_dir, kanda_te, sarga, slokas):
     """The clip-by-clip copy page: returns (fragment to publish on claude.ai, full local HTML)."""
     if LIVE:   # the published page's own layout (dialogue, objects and places tabs) and library
         data = {'key': f'{kanda_dir}_s{sarga:03d}', 'name': f'{kanda_te} · సర్గ {sarga}', 'slokas': slokas,
-                'clipsNote': CLIPS_NOTE, 'refs': LS.library(used_refs(slokas))}
+                'clipsNote': CLIPS_NOTE, 'refs': LS.library(used_refs(slokas)), 'music': music_for(kanda_dir, sarga),
+                'eleven': eleven_for(kanda_dir, sarga)}
         blob = json.dumps(data, ensure_ascii=False).replace('</', '<\\/')
         tpl = open(os.path.join(TOOLS, 'flow_helper_live_template.html'), encoding='utf-8').read()
         fragment = tpl.replace('__TITLE__', f'{kanda_te} సర్గ {sarga} క్లిప్‌లు').replace('__DATA__', blob)

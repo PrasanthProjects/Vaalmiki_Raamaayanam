@@ -7,6 +7,7 @@ export type Timeline = {
   mode: 'parts' | 'full' | 'none';
   parts: Span[]; // HOOK, SLOKA, WORDS, MEANING, END
   speech: Span[]; // where the words of each part are spoken (subtitle timing)
+  lead: number[]; // seconds of music and picture only before a part's voice starts (the action beat)
   clips: (Span | null)[]; // clip1 … clip7 (clip3 only when given)
   total: number;
 };
@@ -17,6 +18,8 @@ export const WORDS_HOLD = 2; // the word meanings stay this long after the chant
 const PLAN = [4, 11, WORDS_HOLD, 23, 7]; // seconds; the voice parts follow the kit's 45 s plan
 const AFTER_VOICE = [0.35, 0.3, 0, 0.35, 0.3]; // a breath after each voice part
 export const END_HOLD = 1.2; // the closing card stays a little after the last word
+export const CTA_GAP = 0.25; // a short breath between the ElevenLabs teaser and the user's own closing line
+export const BEAT = 2; // when the story opens on an action video, it plays this long with the music up before the voice
 // voice files for HOOK, SLOKA, MEANING, END (no voice during WORDS)
 export const VOICE_OF: Record<number, string> = {[HOOK]: 'voice1', [SLOKA]: 'voice2', [MEANING]: 'voice3', [END]: 'voice4'};
 
@@ -28,6 +31,7 @@ export function makeTimeline(media: MediaMap): Timeline {
   if (voiced.some((p) => media[VOICE_OF[p]]?.dur)) {
     mode = 'parts';
     speechLen = PLAN.map((p, i) => (i === WORDS ? 0 : media[VOICE_OF[i]]?.dur ?? p - AFTER_VOICE[i]));
+    if (media.cta?.dur && media[VOICE_OF[END]]?.dur) speechLen[END] += CTA_GAP + media.cta.dur;   // the user's own closing line
     durs = speechLen.map((d, i) => (i === WORDS ? WORDS_HOLD : d + AFTER_VOICE[i]));
   } else if (media.voice?.dur) {
     // One recording for everything: it cannot pause, so the word list shows over the start of the meaning.
@@ -41,12 +45,17 @@ export function makeTimeline(media: MediaMap): Timeline {
     speechLen = durs.map((d, i) => (i === WORDS ? 0 : d - 0.3));
   }
   durs[END] += END_HOLD;
+  // action beat: the first picture of the story is a video → let it play with the music before the meaning voice
+  const lead = durs.map(() => 0);
+  const firstStory = media.clip3 ? media.clip3 : media.clip4;
+  if (mode === 'parts' && firstStory?.video) lead[MEANING] = BEAT;
+  durs[MEANING] += lead[MEANING];
   const parts: Span[] = [];
   const speech: Span[] = [];
   let t = 0;
   durs.forEach((d, i) => {
     parts.push({start: t, end: t + d});
-    speech.push({start: t + 0.05, end: t + speechLen[i]});
+    speech.push({start: t + lead[i] + 0.05, end: t + lead[i] + speechLen[i]});
     t += d;
   });
   if (mode === 'full') parts[WORDS] = {start: parts[MEANING].start, end: parts[MEANING].start + WORDS_HOLD};
@@ -59,14 +68,15 @@ export function makeTimeline(media: MediaMap): Timeline {
   const order = media.clip3 ? [2, 3, 4, 5] : [3, 4, 5];
   const w = media.clip3 ? [5, 8, 8, 7] : [8, 8, 7];
   const sum = w.reduce((a, b) => a + b, 0);
+  const share = m.end - m.start - lead[MEANING]; // the beat belongs to the first story picture
   let c = m.start;
   order.forEach((ci, k) => {
-    const d = ((m.end - m.start) * w[k]) / sum;
+    const d = (share * w[k]) / sum + (k === 0 ? lead[MEANING] : 0);
     clips[ci] = {start: c, end: c + d};
     c += d;
   });
   clips[6] = parts[END];
-  return {mode, parts, speech, clips, total: t};
+  return {mode, parts, speech, lead, clips, total: t};
 }
 
 // Cut words into k pieces of even length, liking breaks after a comma (small search: a sentence has few words).

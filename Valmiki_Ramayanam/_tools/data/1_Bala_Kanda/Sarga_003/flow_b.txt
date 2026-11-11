@@ -22,7 +22,7 @@
 3 | RAMA_ARANYA, SUGRIVA, RISHYAMUKA | Rama releasing an arrow that pierces a row of seven sala trees. | The arrow flies through all seven trunks. | Slow tracking shot. | Bright golden light.
 4 | SUGRIVA, RISHYAMUKA | Sugriva bowing in wonder after seeing Rama's strength. | He joins his palms in joy. | Slow push-in. | Warm golden light.
 5 | VALI, SUGRIVA, KISHKINDHA | Vali and Sugriva wrestling fiercely outside Kishkindha. | They grapple and push each other. | Slow low-angle orbit. | Dusty dramatic light.
-6 | - | Symbolic shot: two hands clasping firmly over a flame. | The flame rises steadily between them. | Slow push-in. | Warm firelight.
+6 | RAMA_ARANYA, SUGRIVA | Rama's single arrow piercing seven great sala trees in a row while Sugriva watches in amazement. | The arrow flashes through the trees one after another; Sugriva gasps. | Slow push-in. | Warm firelight.
 7 | SUGRIVA, KISHKINDHA | Sugriva seated on the throne of Kishkindha. | He raises his head proudly, motion slows. | Slow push-in. | Golden royal light, soft flash.
 
 ### 24
@@ -66,7 +66,7 @@
 2 | SURASA, HANUMAN_GIANT | Surasa in a huge form blocking Hanuman's way over the sea. | She spreads her arms wide. | Slow push-in. | Stormy light.
 3 | HANUMAN, SURASA | Hanuman becoming tiny and bowing to Surasa. | Surasa smiles and blesses him. | Slow orbit. | Soft golden light.
 4 | HANUMAN_GIANT, SIMHIKA | Hanuman defeating Simhika over the ocean. | He bursts free into the sky. | Slow tilt up. | Bright triumphant light.
-5 | LANKA_CITY | The golden city of Lanka on a mountain across the sea. | Sunlight glints off golden towers. | Slow aerial push forward. | Golden evening light.
+5 | HANUMAN, LANKA_CITY | Hanuman standing confidently on the walls of the golden city of Lanka at night, calm and alert. | He looks over the city, thinking. | Slow aerial push forward. | Golden evening light.
 6 | - | Symbolic shot: a key changing shape to fit two different locks. | The key turns in both locks. | Slow push-in. | Soft golden light.
 7 | HANUMAN, LANKA_CITY | A tiny Hanuman on Lanka's wall at night. | He peeks over the wall, motion slows. | Slow push-in. | Moonlight, soft flash.
 
@@ -76,7 +76,7 @@
 3 | HANUMAN, LANKA_CITY | Hanuman sitting on a rooftop, thinking deeply alone. | He rests his chin on his hand. | Slow push-in. | Moonlight.
 4 | HANUMAN, LANKA_CITY | Hanuman searching through grand palace halls at night. | He moves silently past pillars. | Slow side dolly. | Warm lamp light in halls.
 5 | HANUMAN, LANKA_CITY | Hanuman peering through a palace window into a quiet hall. | He shakes his head and moves on. | Slow push-in. | Dim lamp glow.
-6 | - | Symbolic shot: a lamp kept burning in a dark corridor. | The flame stays steady. | Slow push-in. | Warm glow in darkness.
+6 | HANUMAN, LANKA_CITY | Hanuman searching the long palace corridors of Lanka at night with steady determination. | He looks around a pillar, then moves on to search again. | Slow push-in. | Warm glow in darkness.
 7 | SITA_LANKA, ASHOKA_VANA | Sita seated under a tree in the Ashoka grove. | She looks down sadly, motion slows. | Slow push-in. | Pale moonlight, soft flash.
 
 ### 30
@@ -103,7 +103,7 @@
 3 | HANUMAN, ASHOKA_VANA | Hanuman bowing to Sita before leaving. | He touches his forehead to the ground. | Slow push-in. | Warm light.
 4 | HANUMAN_GIANT, ASHOKA_VANA | Hanuman uprooting trees in the Ashoka grove. | Trees crash down. | Slow low-angle orbit. | Dramatic dusty light.
 5 | RAKSHASA_ARMY, HANUMAN_GIANT, ASHOKA_VANA | Rakshasa servants charging at Hanuman with weapons. | Hanuman swings a tree trunk at them. | Slow tracking shot. | Red dramatic light, no blood.
-6 | - | Symbolic shot: a calm lion rising to its full height. | It stands and looks straight ahead. | Slow low-angle push-in. | Golden light.
+6 | HANUMAN, ASHOKA_VANA | Hanuman rising calmly to his full height in the Ashoka grove, strong and fearless, ready to test the enemy's strength. | He stands tall and looks toward the palace. | Slow low-angle push-in. | Golden light.
 7 | HANUMAN, RAVANA_COURT | Hanuman bound with ropes, standing calmly in a hall. | He looks up without fear, motion slows. | Slow push-in. | Dim light, soft flash.
 
 ### 33
@@ -147,7 +147,7 @@
 2 | VIBHISHANA, RAMA_ARANYA, LANKA_CITY | Vibhishana being crowned king of Lanka as Rama blesses him. | Lakshmana pours holy water on his head. | Slow crane down. | Festive golden light.
 3 | RAMA_ARANYA, SITA_ARANYA, LAKSHMANA_ARANYA, PUSHPAKA | Rama, Sita and Lakshmana inside the Pushpaka, looking down. | Rama points at the land below. | Slow orbit. | Warm golden light.
 4 | RAMA_ARANYA, SITA_ARANYA, BHARADWAJA, PRAYAGA | Rama and Sita bowing before Sage Bharadwaja at his ashram. | The sage blesses them warmly. | Slow push-in. | Soft golden light.
-5 | AYODHYA_CITY | Ayodhya appearing on the horizon. | The city comes closer as the vimana descends. | Slow aerial push forward. | Golden sunrise light.
+5 | RAMA_ARANYA, BHARADWAJA | Rama bowing to Sage Bharadwaja at his ashram on the way back, the same sage who once showed him the way to the forest. | The sage blesses him with a raised hand. | Slow aerial push forward. | Golden sunrise light.
 6 | - | Symbolic shot: a small lamp lit at a doorway, waiting. | The flame glows warmly. | Slow push-in. | Warm golden light.
 7 | HANUMAN, NANDIGRAMA | Hanuman flying toward Nandigrama. | He lands near the village, motion slows. | Slow tracking shot. | Golden light, soft flash.
 
@@ -157,7 +157,7 @@
 3 | HANUMAN, BHARATA, NANDIGRAMA | Hanuman bowing before Bharata with the good news. | Bharata's face lights up with joy. | Slow push-in. | Warm golden light.
 4 | AYODHYA_PEOPLE, AYODHYA_CITY | The people of Ayodhya celebrating with lamps and flowers. | They dance and throw petals. | Slow aerial crane up. | Festive golden light.
 5 | VANARA_ARMY, RAMA_KING, AYODHYA_CITY | Rama honouring the vanara army with gifts as they take leave. | Vanaras bow and depart happily. | Slow side dolly. | Warm golden light.
-6 | SITA_ASHRAM, TAMASA_ASHRAM | Sita living peacefully in Valmiki's ashram. | She looks at the river calmly. | Slow push-in. | Soft serene light.
+6 | RAMA_KING, AYODHYA_PALACE | King Rama sitting alone on his throne late at night, a lamp beside him, carrying the weight of a king's hard decisions. | He lowers his eyes, thinking deeply. | Slow push-in. | Soft serene light.
 7 | VALMIKI, TAMASA_ASHRAM | Valmiki writing on palm-leaf manuscripts by lamplight. | He writes steadily, motion slows. | Slow push-in. | Warm lamp glow, soft flash.
 
 ### 39

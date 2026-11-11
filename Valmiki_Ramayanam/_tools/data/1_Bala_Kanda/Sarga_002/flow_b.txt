@@ -44,7 +44,7 @@
 7 | KRAUNCHA, TAMASA_ASHRAM | Memory: the lonely female crane sitting on a branch. | She lowers her head, motion slows. | Slow push-in. | Muted light, soft flash.
 
 ### 28
-1 | VALMIKI, KRAUNCHA, TAMASA_ASHRAM | Valmiki in meditation with a faint memory of the crane behind him. | The memory glows and fades. | Slow push-in. | Dreamy golden haze.
+1 | BRAHMA, VALMIKI, TAMASA_ASHRAM | Lord Brahma appearing in radiant light before Valmiki at his ashram, while Valmiki, bowing, still has the sorrow of the wounded bird in his eyes. | Brahma's light flares and the wind swirls petals; Valmiki bows, his face still thoughtful. | Bold rising crane from Valmiki up to Brahma. | Brilliant divine light with soft flares.
 2 | VALMIKI, TAMASA_ASHRAM | Valmiki seated in deep meditation. | He breathes slowly, eyes closed. | Slow side dolly. | Soft light.
 3 | VALMIKI, TAMASA_ASHRAM | Close-up of Valmiki's troubled, thoughtful face. | His brows knit. | Slow push-in. | Soft rim light.
 4 | NISHADA_HUNTER, TAMASA_ASHRAM | Memory: the hunter's arrow flying, faded and blurred. | The arrow streaks past. | Slow tracking. | Faded grey memory light.
@@ -119,7 +119,7 @@
 1 | TAMASA_ASHRAM | Tall snowy mountains with rivers flowing down into green valleys. | Rivers flow steadily. | Slow aerial glide. | Bright golden sunlight.
 2 | BRAHMA, VALMIKI, TAMASA_ASHRAM | Brahma speaking to Valmiki. | Brahma gestures toward the horizon. | Slow side dolly. | Golden glow.
 3 | BRAHMA, TAMASA_ASHRAM | Brahma with a serene smile. | He nods. | Slow push-in. | Divine light.
-4 | TAMASA_ASHRAM | Wide view of the earth with mountains, rivers and valleys. | Clouds drift over them. | Slow aerial pull-back. | Golden light.
+4 | BRAHMA, VALMIKI, TAMASA_ASHRAM | Lord Brahma blessing Valmiki with a raised hand, asking him to compose the holy story of Rama in ślokas. | Brahma raises his hand in blessing; Valmiki joins his palms. | Slow aerial pull-back. | Golden light.
 5 | VALMIKI, TAMASA_ASHRAM | Valmiki listening, eyes shining. | He breathes deeply. | Slow orbit. | Warm light.
 6 | TAMASA_ASHRAM | Symbolic shot: an ancient tree with deep roots beside a river. | Leaves rustle. | Slow crane down. | Soft golden glow.
 7 | PEOPLE | People from different eras reading the Ramayana by lamplight. | They turn pages, motion slows. | Slow push-in. | Warm lamp glow, soft flash.
@@ -173,7 +173,7 @@
 1 | VALMIKI, TAMASA_ASHRAM | Stacks of palm-leaf manuscripts glowing in golden light around Valmiki. | The light spreads across the stacks. | Slow aerial pull-back. | Divine golden glow.
 2 | VALMIKI, TAMASA_ASHRAM | Valmiki writing verses on palm leaves by lamplight. | His stylus moves steadily. | Slow side dolly. | Warm lamp glow.
 3 | VALMIKI, TAMASA_ASHRAM | Close-up of Valmiki's peaceful, inspired face. | He smiles as he writes. | Slow push-in. | Golden rim light.
-4 | RAMA_KING | A radiant vision of King Rama on his throne. | Light pulses around him. | Slow tilt up. | Divine blue-gold glow.
+4 | VALMIKI, TAMASA_ASHRAM | Valmiki seated in deep composition with his eyes half closed, lines of verse flowing around him as soft golden light. | The golden lines of verse rise and circle slowly around him. | Slow tilt up. | Divine blue-gold glow.
 5 | VALMIKI, TAMASA_ASHRAM | Valmiki holding up a completed bundle of palm leaves. | He lifts it reverently. | Slow orbit. | Golden light.
 6 | VALMIKI, RAMA_KING | Symbolic shot: Valmiki before a divine vision of King Rama in the sky. | The vision glows brighter. | Slow crane up. | Divine golden glow.
 7 | VALMIKI, TAMASA_ASHRAM | Valmiki spreading his arms wide in invitation. | He opens his arms, motion slows. | Slow push-in. | Warm light, soft flash.

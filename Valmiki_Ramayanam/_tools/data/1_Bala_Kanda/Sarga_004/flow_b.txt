@@ -110,7 +110,7 @@
 1 | RAMA_KING, BHARATA, LAKSHMANA_PRINCE, SHATRUGHNA, AYODHYA_COURT | The royal court of Ayodhya full of ministers, Rama on the throne. | Small natural movement, a gentle turn of the head. | Slow push-in. | Warm golden court light.
 2 | RAMA_KING, BHARATA, LAKSHMANA_PRINCE, SHATRUGHNA, AYODHYA_COURT | Rama looking towards the two boys with gentle interest. | Subtle movement; everyone keeps their place. | Slow side dolly. | Warm golden court light.
 3 | RAMA_KING, BHARATA, LAKSHMANA_PRINCE, SHATRUGHNA, AYODHYA_COURT | Closer view: Rama looking towards the two boys with gentle interest. | A small gesture, calm and steady. | Slow push-in. | Warm golden court light.
-4 | BHARATA, LAKSHMANA_PRINCE, SHATRUGHNA, AYODHYA_COURT | Bharata, Lakshmana and Shatrughna seated near the throne. | Gentle, slow movement. | Slow pan left to right. | Warm golden court light.
+4 | RAMA_KING, BHARATA, LAKSHMANA_PRINCE, SHATRUGHNA, AYODHYA_COURT | King Rama seated on his throne with his brothers and ministers sitting close around him. | Rama looks toward the court doors. | Slow pan left to right. | Warm golden court light.
 5 | LAVA, KUSHA, AYODHYA_COURT | Lava and Kusha standing humbly with joined palms in the court. | Soft natural movement. | Slow push-in. | Warm golden court light.
 6 | - | Symbolic shot: a circle of lamps around one bright central lamp. | The light grows slowly brighter. | Slow push-in. | Soft golden morning light.
 7 | RAMA_KING, BHARATA, LAKSHMANA_PRINCE, SHATRUGHNA, AYODHYA_COURT | Rama turning to speak to his brothers. | A last small movement, motion slows. | Slow push-in. | Warm golden court light. Soft flash.
@@ -128,7 +128,7 @@
 1 | RAMA_KING, AYODHYA_COURT | Rama on the throne gesturing kindly for the boys to begin. | Small natural movement, a gentle turn of the head. | Slow push-in. | Warm golden court light.
 2 | LAVA, KUSHA, AYODHYA_COURT | Lava and Kusha beginning to sing in the royal court. | Subtle movement; everyone keeps their place. | Slow side dolly. | Warm golden court light.
 3 | LAVA, KUSHA, AYODHYA_COURT | Closer view: Lava and Kusha beginning to sing in the royal court. | A small gesture, calm and steady. | Slow push-in. | Warm golden court light.
-4 | LAVA, KUSHA, AYODHYA_COURT | Close view of the two boys singing with eyes full of feeling. | Gentle, slow movement. | Slow pan left to right. | Warm golden court light.
+4 | RAMA_KING, LAVA, KUSHA, AYODHYA_COURT | King Rama gesturing kindly to the two young singers to begin their song. | The boys bow and lift their veena. | Slow pan left to right. | Warm golden court light.
 5 | RAMA_KING, BHARATA, LAKSHMANA_PRINCE, SHATRUGHNA, AYODHYA_COURT | The whole court falling silent to listen. | Soft natural movement. | Slow push-in. | Warm golden court light.
 6 | - | Symbolic shot: a voice turning into rays of light that fill a hall. | The light grows slowly brighter. | Slow push-in. | Soft golden morning light.
 7 | LAVA, KUSHA, AYODHYA_COURT | The boys singing on, the court lamps glowing softly. | A last small movement, motion slows. | Slow push-in. | Warm golden court light. Soft flash.
@@ -152,10 +152,10 @@
 7 | LAVA, KUSHA, AYODHYA_COURT | The boys preparing to sing again. | A last small movement, motion slows. | Slow push-in. | Warm golden court light. Soft flash.
 
 ### 36
-1 | LAVA, KUSHA, AYODHYA_COURT | Lava and Kusha singing in the court with full voices. | Small natural movement, a gentle turn of the head. | Slow push-in. | Warm golden court light.
+1 | RAMA_KING, LAVA, KUSHA, AYODHYA_COURT | King Rama on his throne with his eyes closed, deeply moved, lost in his own story as the two boys sing before him. | A tear rolls down Rama's cheek as the song swells and the lamp flames sway. | Bold slow push-in on Rama's face. | Warm golden court light with soft flares.
 2 | LAVA, KUSHA, AYODHYA_COURT | The boys singing in the classical style, hands keeping time. | Subtle movement; everyone keeps their place. | Slow side dolly. | Warm golden court light.
 3 | LAVA, KUSHA, AYODHYA_COURT | Closer view: The boys singing in the classical style, hands keeping time. | A small gesture, calm and steady. | Slow push-in. | Warm golden court light.
-4 | RAMA_KING, AYODHYA_COURT | Rama listening with closed eyes, deeply moved. | Gentle, slow movement. | Slow pan left to right. | Warm golden court light.
+4 | LAVA, KUSHA, AYODHYA_COURT | Lava and Kusha singing in the royal court with full voices, encouraged by the king. | They sing with joy and feeling. | Slow pan left to right. | Warm golden court light.
 5 | RAMA_KING, BHARATA, LAKSHMANA_PRINCE, SHATRUGHNA, AYODHYA_COURT | The whole court absorbed in the song. | Soft natural movement. | Slow push-in. | Warm golden court light.
 6 | - | Symbolic shot: a river of golden light flowing through a royal hall. | The light grows slowly brighter. | Slow push-in. | Soft golden morning light.
 7 | AYODHYA_CITY | A wide golden view of the city of Ayodhya on the Sarayu river. | A last small movement, motion slows. | Slow push-in. | Bright golden daylight. Soft flash.

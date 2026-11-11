@@ -38,7 +38,7 @@
 1 | TAMASA_ASHRAM | Sunbeams shining down into clear river water. | Light rays dance through the water. | Slow tilt down into the water. | Sparkling golden light.
 2 | VALMIKI, VALMIKI_SHISHYA, TAMASA_ASHRAM | Valmiki showing the water to his disciple with an open palm. | He gestures gently, the disciple nods. | Slow side dolly. | Warm morning light.
 3 | VALMIKI, TAMASA_ASHRAM | Valmiki speaking with a calm smile beside the river. | His hand moves as he speaks. | Slow push-in. | Soft rim light.
-4 | TAMASA_ASHRAM | Close-up of transparent water, pebbles clearly visible beneath. | The water flows clear and calm. | Slow tracking along the water. | Bright clear light.
+4 | VALMIKI, VALMIKI_SHISHYA, TAMASA_ASHRAM | Valmiki pointing at the clear bathing place in the river as he speaks to his disciple Bharadwaja, the pebbles visible beneath the water. | Valmiki gestures toward the water; the disciple looks and smiles. | Slow tracking along the water. | Bright clear light.
 5 | VALMIKI, VALMIKI_SHISHYA, TAMASA_ASHRAM | Disciple looking at the water and then at his teacher with understanding. | He smiles as he understands. | Slow orbit. | Golden light.
 6 | VALMIKI, TAMASA_ASHRAM | Symbolic shot: Valmiki's peaceful face reflected in the clear water. | The reflection stays steady and clear. | Slow push-in. | Soft golden glow.
 7 | VALMIKI_SHISHYA, TAMASA_ASHRAM | The disciple holding a clay water pot and a folded bark-cloth garment. | He looks toward his teacher, motion slows. | Slow push-in. | Warm light, soft flash.
@@ -74,7 +74,7 @@
 1 | KRAUNCHA, TAMASA_ASHRAM | A pair of krauncha birds walking together by the river, side by side. | They move in step, calling sweetly. | Slow tracking shot. | Warm golden light.
 2 | VALMIKI, KRAUNCHA, TAMASA_ASHRAM | Valmiki watching the krauncha pair with a gentle smile. | The birds dance lightly, Valmiki watches. | Slow side dolly. | Soft morning light.
 3 | KRAUNCHA, TAMASA_ASHRAM | The krauncha pair touching beaks tenderly. | They bow their long necks toward each other. | Slow push-in. | Soft golden glow.
-4 | KRAUNCHA, TAMASA_ASHRAM | The krauncha pair dancing gracefully with wings half open. | They hop and turn together. | Slow orbit. | Warm sunlight, sparkles on the water.
+4 | VALMIKI, KRAUNCHA, TAMASA_ASHRAM | Valmiki on the riverbank watching, with a gentle smile, a pair of krauncha birds moving together close by, never apart. | The birds call sweetly to each other; Valmiki watches them fondly. | Slow orbit. | Warm sunlight, sparkles on the water.
 5 | VALMIKI, KRAUNCHA, TAMASA_ASHRAM | Valmiki standing near the trees, the birds close by. | He watches silently, the birds call softly. | Slow push-in. | Golden light.
 6 | KRAUNCHA, TAMASA_ASHRAM | Symbolic shot: two cranes standing close together, their shadows joined as one on the water. | Water ripples gently around them. | Slow crane down. | Soft sunset glow.
 7 | NISHADA_HUNTER, TAMASA_ASHRAM | A shadowy hunter hiding behind trees, drawing his bow. | He pulls the string back slowly, motion slows. | Slow push-in. | Dark green shadows, soft flash.
@@ -130,7 +130,7 @@
 3 | VALMIKI, NISHADA_HUNTER, TAMASA_ASHRAM | Valmiki facing the hunter, speaking the words of the verse. | The hunter steps back. | Slow orbit. | Dramatic rim light.
 4 | VALMIKI, KRAUNCHA, TAMASA_ASHRAM | Valmiki beside the grieving crane, the verse glowing above. | Light settles over the bird. | Slow push-in. | Soft golden glow.
 5 | RAMA_ARANYA | Symbolic shot: a faint, majestic outline of Rama with his bow in the sky. | The outline glows softly. | Slow tilt up. | Divine blue-gold light.
-6 | VALMIKI, TAMASA_ASHRAM | Symbolic shot: golden letters rising from Valmiki into the sky. | The letters float upward. | Slow crane up. | Golden sparkles.
+6 | RAMA_ARANYA | Rama standing victorious with his bow in a soft golden light, his calm face full of dharma, as a memory of the story to come. | He lowers his bow and looks ahead calmly. | Slow crane up. | Golden sparkles.
 7 | VALMIKI, TAMASA_ASHRAM | Valmiki's thoughtful face as the glow fades. | He touches his lips, motion slows. | Slow push-in. | Soft rim light, soft flash.
 
 ### 16
@@ -155,7 +155,7 @@
 1 | TAMASA_ASHRAM | A veena's strings glowing with light by the river. | The strings vibrate softly. | Slow push-in. | Golden shimmering light.
 2 | VALMIKI, VALMIKI_SHISHYA, TAMASA_ASHRAM | Valmiki explaining to his disciple. | He counts on his fingers. | Slow side dolly. | Warm light.
 3 | VALMIKI, TAMASA_ASHRAM | Valmiki speaking with joy. | His hand moves in rhythm. | Slow push-in. | Golden rim light.
-4 | TAMASA_ASHRAM | Four equal lines of golden light forming in the air. | Each line appears one by one. | Slow tilt down. | Golden sparkles.
+4 | VALMIKI, VALMIKI_SHISHYA, TAMASA_ASHRAM | Valmiki speaking to his disciple in wonder as four equal lines of golden light form in the air between them. | Valmiki lifts his hand; the four lines of light glow brighter. | Slow tilt down. | Golden sparkles.
 5 | VALMIKI, TAMASA_ASHRAM | Valmiki smiling with satisfaction. | He closes his eyes in peace. | Slow orbit. | Soft golden glow.
 6 | TAMASA_ASHRAM | Symbolic shot: a tear drop transforming into a glowing golden flower. | The tear glows and blooms. | Slow push-in. | Divine golden glow.
 7 | VALMIKI_SHISHYA, TAMASA_ASHRAM | The disciple listening intently with joined palms. | He nods eagerly, motion slows. | Slow push-in. | Warm light, soft flash.

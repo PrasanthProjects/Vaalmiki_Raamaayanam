@@ -33,12 +33,12 @@ E1.02 15 | "యత్ క్రౌంచమిథునాదేకమ్ అవ
 # Slokas kept in the videos (recited, with an on-screen sloka card; the next line already gives the meaning).
 KEEP E1.02 7
 KEEP E1.05 1
-KEEP E1.05 2
+# KEEP E1.05 2   (user 2026-11-11: only famous ślokas recited)
 KEEP E1.06 30
-KEEP E1.10 19
-KEEP E1.17 10
-KEEP E1.21 10
-KEEP E1.22 14
+# KEEP E1.10 19   (user 2026-11-11: only famous ślokas recited)
+# KEEP E1.17 10   (user 2026-11-11: only famous ślokas recited)
+# KEEP E1.21 10   (user 2026-11-11: only famous ślokas recited)
+# KEEP E1.22 14   (user 2026-11-11: only famous ślokas recited)
 KEEP E1.24 6
 
 # Video-level hook rewrites. HOOK = this episode's hook in the videos (first or inside a video); REHOOK = only inside.
@@ -133,13 +133,13 @@ E1.06 12 | మాట తప్పిన ధర్మం తెలియని �
 
 # More slokas where the moment calls for one (the line after each already gives its meaning).
 KEEP E1.01 16
-KEEP E1.01 18
-KEEP E1.04 13
-KEEP E1.04 42
-KEEP E1.07 26
-KEEP E1.07 27
-KEEP E1.16 4
-KEEP E1.26 3
+# KEEP E1.01 18   (user 2026-11-11: only famous ślokas recited)
+# KEEP E1.04 13   (user 2026-11-11: only famous ślokas recited)
+# KEEP E1.04 42   (user 2026-11-11: only famous ślokas recited)
+# KEEP E1.07 26   (user 2026-11-11: only famous ślokas recited)
+# KEEP E1.07 27   (user 2026-11-11: only famous ślokas recited)
+# KEEP E1.16 4   (user 2026-11-11: only famous ślokas recited)
+# KEEP E1.26 3   (user 2026-11-11: only famous ślokas recited)
 E1.16 4 | "అప్పుడు వశిష్ఠుడు — ' => 
 E1.01 17 | దీని అర్థం ఏమిటంటే, తపస్వి, ముని, గొప్ప వాగ్విదాంవరుడైన నారద మహర్షిని పరిప్రశ్న చేయడానికి తపస్వియైన వాల్మీకి మహర్షి సిద్ధపడుతున్నారు అని. => దీని అర్థం — తపస్వి, ముని, మాటల్లో అందరికంటే గొప్పవాడైన నారద మహర్షిని ప్రశ్నించడానికి తపస్వియైన వాల్మీకి మహర్షి సిద్ధపడుతున్నారు.
 
@@ -368,7 +368,7 @@ CAST E1.10 13 | KUSHANABHA_DAUGHTERS, VAYU
 CAST E1.10 14-15 | KUSHANABHA_DAUGHTERS
 CAST E1.10 16 | VAYU, KUSHANABHA_DAUGHTERS
 CAST E1.10 17-18 | KUSHANABHA, KUSHANABHA_DAUGHTERS
-VIS E1.10 19 | Kushanabha seated in his palace, speaking tenderly to his hundred daughters gathered before him, warm lamplight
+# VIS E1.10 19 | Kushanabha seated in his palace, speaking tenderly to his hundred daughters gathered before him, warm lamplight
 CAST E1.10 19-20 | KUSHANABHA, KUSHANABHA_DAUGHTERS
 CAST E1.10 21 | KUSHANABHA
 CAST E1.10 22-24 | CHULI, SOMADA
@@ -520,3 +520,15 @@ SHOTS E1.23 35 | The Videha line arriving at King Janaka and his brother Kushadh
 SHOTS E1.23 40 | King Janaka asking King Dasharatha and his sons to perform the godana and ancestral rites in Mithila || The sages fixing the wedding day under the star Uttara Phalguni, a starry night sky above
 # V16 (E1.24-E1.26)
 SHOTS E1.24 5 | King Janaka and Rama standing beside the sacred wedding fire || Sita being led forward to the wedding fire in bridal attire, fully and modestly dressed
+
+# Narrator slips the honorific pass leaves (the verb's subject is in an earlier line); applied after it (2026-11-09)
+POST | అయినా ఆయన మనిషిగా పుట్టాడు, మనిషిలాగే కష్టాలు పడ్డాడు. => అయినా ఆయన మనిషిగా పుట్టారు, మనిషిలాగే కష్టాలు పడ్డారు.
+POST | మనం ఎలా బతకాలో చూపించాడు. => మనం ఎలా బతకాలో చూపించారు.
+POST | అది ఎవరిదని రాముడు అడిగాడు. => అది ఎవరిదని శ్రీరాములవారు అడిగారు.
+POST | జీవితం గురించి చెప్పడం ప్రారంభించాడు. => జీవితం గురించి చెప్పడం ప్రారంభించారు.
+POST | లక్ష గోవుల్ని దానము చేయించాడు => లక్ష గోవుల్ని దానము చేయించారు
+POST | కూతురి చేతిని రాముడి చేతిలో => కూతురి చేతిని శ్రీరాములవారి చేతిలో
+POST | తపస్సు చెయ్యడం ప్రారంభించాడు. => తపస్సు చెయ్యడం ప్రారంభించారు.
+
+# 2026-11-09: the user found bridges and mid-video re-hooks interrupting the story; removed completely
+BRIDGES | off

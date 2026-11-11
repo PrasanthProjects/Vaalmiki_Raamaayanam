@@ -47,7 +47,7 @@ def parse_md(path):
         body = m.group(4)
         shows = re.search(r'The frame shows: (.*?)(?<!\b[A-Z])\.\s', body)
         clips.append({'label': m.group(2).strip(), 'video': m.group(3) == '🎥',
-                      'shows': shows.group(1).strip() if shows else ''})
+                      'shows': shows.group(1).strip() if shows else '', 'says': field(body, 'నెరేషన్') or ''})
     assert len(clips) == 7, f'{path}: expected 7 clips, found {len(clips)}'
     return {
         'hook': {'voice': field(hook, 'వాయిస్'), 'screen': field(hook, 'తెరపై టెక్స్ట్')},
@@ -57,9 +57,80 @@ def parse_md(path):
     }
 
 
+# ElevenLabs (Eleven v3) reads the square-bracket tags as how to say the line; the words stay exactly as in the kit.
+HOOK_TAG = {'calm': '[intrigued, warm]', 'sad': '[softly, emotional]', 'heroic': '[dramatic, powerful]',
+            'mystery': '[mysterious, hushed]', 'joyful': '[excited, bright]'}
+
+
+# Each picture gets its own music mood (user, 2026-11-11): the hook, the chanting, the story, the lesson and the
+# ending feel different, so the music follows each part instead of one track for the whole Short.
+CLIP_MOODS = {
+    'sad': r'longing|alone|lonely|tear|weep|grie|sorrow|mourn|lament|crying|funeral|pyre|dying|parting|anguish|heartbroken|wail|దుఃఖ|ఏడ్|బాధ|కన్నీ|విలప|వేదన|శోక',
+    'heroic': r'heroes?|first time|battle|fight|arrow|bow drawn|draws? (his )?bow|army|charge|strike|duel|war|victor|leap|attack|roar|valou?r|వీరు|యుద్ధ|బాణ|సంహర|పరాక్రమ|వధ',
+    'mystery': r'shadow|eerie|curse|disguis|secret|maya|illusion|mysterious|abduct|carrying sita away|demon|శాప|మాయ|రహస్య|ఎత్తుకు',
+    'joyful': r'happ|laugh|glowing like devas|సుఖంగా|wedding|celebrat|festival|joy|smil|garland|coronation|birth|embrac|reunion|rejoic|blessing|సంతోష|ఆనంద|పెళ్ళి|కల్యాణ|ఉత్సవ',
+}
+
+
+def clip_mood(text, fallback):
+    score = {m: len(re.findall(rx, text, re.I)) for m, rx in CLIP_MOODS.items()}
+    best = max(score, key=score.get)
+    return best if score[best] else fallback
+
+
+def set_moods(s, mood):
+    """mood: the śloka's own mood (music_moods.json). Box 0 hook, 1–2 chanting (always calm, devotional), 3–4 story,
+    5 lesson, 6 ending."""
+    for i, c in enumerate(s['clips']):
+        text = f"{c['shows']} {c.get('says', '')}"
+        if i in (1, 2):
+            c['mood'] = 'calm'
+        elif i == 0:
+            c['mood'] = clip_mood(text, mood if mood != 'calm' else 'mystery')
+        elif i == 5:
+            c['mood'] = clip_mood(text, 'calm')
+        elif i == 6:
+            c['mood'] = clip_mood(text, 'joyful')
+        else:
+            c['mood'] = clip_mood(text, mood)
+
+
+# The closing call to action is one of four fixed lines, recorded once in the user's own voice (user, 2026-11-11:
+# a human voice in every Short). ElevenLabs reads only the teaser before it; the Video Maker plays the recording.
+CTA_LINES = ['మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!',
+             'కామెంట్‌లో "జై శ్రీరామ్" అని రాసి, లైక్ చేయండి!',
+             'లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!',
+             '"జై శ్రీరామ్" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!']
+
+
+def split_cta(end):
+    v = end['voice'].strip()
+    for i, line in enumerate(CTA_LINES, 1):
+        if v.endswith(line):
+            end['teaser'], end['cta'] = v[:-len(line)].strip(), i
+            return
+    end['teaser'], end['cta'] = v, 0
+
+
+def eleven(s, mood):
+    """The four voice parts as text to paste into ElevenLabs, one file each (voice1 … voice4)."""
+    # easy-reading form, the danda and verse number dropped (a voice would read them out), a pause at each half
+    sloka = ' ... '.join(re.sub(r'\s*[।॥].*$', '', l['te']).strip() for l in s['lines']) if s['lines'] else ''
+    return {
+        'voice1': f"{HOOK_TAG.get(mood, HOOK_TAG['calm'])} {s['hook']['voice']}",
+        'voice2': f"[slowly, reverently, like a temple chant] {sloka} ..." if sloka else '',
+        'voice3': f"[warm, storytelling] {s['meaning']['voice']}",
+        'voice4': f"[curious, upbeat] {s['end'].get('teaser') or s['end']['voice']}",
+    }
+
+
 def main(kanda_dir, sarga):
     folder = os.path.join(B.ROOT, kanda_dir, f'Sarga_{sarga:03d}')
     cards = {s['n']: s for s in O.data_for(kanda_dir, sarga)}
+    try:
+        moods = json.load(open(os.path.join(MAKER, 'src', 'data', 'music_moods.json'), encoding='utf-8')).get(f'{kanda_dir}_S{sarga:03d}', {})
+    except FileNotFoundError:
+        moods = {}
     slokas = []
     for path in sorted(glob.glob(os.path.join(folder, 'Sloka_*.md'))):
         n = int(re.search(r'Sloka_(\d+)', path).group(1))
@@ -74,6 +145,9 @@ def main(kanda_dir, sarga):
         else:
             s['lines'], s['words'] = [], []
         s['n'] = n
+        split_cta(s['end'])
+        s['eleven'] = eleven(s, moods.get(str(n), 'calm'))
+        set_moods(s, moods.get(str(n), 'calm'))
         slokas.append(s)
     out_dir = os.path.join(MAKER, 'src', 'data')
     os.makedirs(out_dir, exist_ok=True)
@@ -81,12 +155,9 @@ def main(kanda_dir, sarga):
     data = {'kanda': kanda_dir, 'kandaEn': KANDA_EN[kanda_dir], 'kandaTe': B.KANDAS[kanda_dir],
             'sarga': sarga, 'slokas': slokas}
     json.dump(data, open(os.path.join(out_dir, name + '.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-    names = sorted(os.path.splitext(os.path.basename(p))[0] for p in glob.glob(os.path.join(out_dir, '*_S*.json')))
-    with open(os.path.join(out_dir, 'index.ts'), 'w', encoding='utf-8') as f:
-        f.write('// Written by tools/make_data.py\n')
-        for i, nm in enumerate(names):
-            f.write(f"import d{i} from './{nm}.json';\n")
-        f.write('export const SARGAS = [' + ', '.join(f'd{i}' for i in range(len(names))) + '];\n')
+    sys.path.insert(0, HERE)
+    from make_movie_data import write_index   # one list of Shorts sargas and movies for the studio
+    write_index(out_dir)
     missing = [s['n'] for s in slokas if not s['lines']]
     print(f'{name}: {len(slokas)} ślokas' + (f' (no on-screen śloka data yet: {missing})' if missing else ''))
 

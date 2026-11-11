@@ -245,11 +245,16 @@ h1 mark { background: none; color: var(--saffron); }
     }
     const f = el('div', 'filters'); f.append(el('span', '', 'చూపించు:'));
     const both = s.clips.some((c) => c.videoPrompt);   // every clip has an image and a video prompt (kids series)
-    (both ? [['all', 'అన్నీ'], ['video', 'యాక్షన్ క్లిప్‌లు'], ['image', 'మెల్లని కదలిక క్లిప్‌లు'], ['todo', 'మిగిలినవి']]
+    (both ? [['all', 'అన్నీ (' + s.clips.length + ')'], ['video', '🎥 యాక్షన్ క్లిప్‌లు (' + s.clips.filter((c) => c.kind === 'video').length + ')'], ['image', '🖼️ ఇమేజ్ క్లిప్‌లు (' + s.clips.filter((c) => c.kind === 'image').length + ')'], ['todo', 'మిగిలినవి']]
       : [['all', 'అన్నీ'], ['video', 'వీడియో'], ['image', 'ఇమేజ్'], ['todo', 'మిగిలినవి']]).forEach(([k, t]) => {
       const c = el('button', 'chip', t); c.setAttribute('aria-pressed', filter === k ? 'true' : 'false');
       c.addEventListener('click', () => { filter = k; render(); }); f.append(c); });
     p.append(f);
+    if (both) {   // the action clips of this video at a glance
+      const act = s.clips.filter((c) => c.kind === 'video');
+      if (act.length) { const box = el('div', 'tip'); box.style.margin = '0 0 12px';
+        box.textContent = '🎥 యాక్షన్ క్లిప్‌లు (' + act.length + '): ' + act.map((c) => c.no).join(' · ') + ' – వీటికి మొదటి ఇమేజ్ + చివరి ఇమేజ్ + వీడియో చేయండి. మిగిలిన ' + (s.clips.length - act.length) + ' క్లిప్‌లకు ఇమేజ్ + ఎడిటర్ కదలిక చాలు. పైన "🎥 యాక్షన్ క్లిప్‌లు" నొక్కితే అవే కనిపిస్తాయి.';
+        p.append(box); } }
     const e = entry(sid(s.n)); const cards = el('div', 'cards');
     s.clips.forEach((c, i) => {
       if (filter === 'video' && c.kind !== 'video') return;
@@ -258,7 +263,7 @@ h1 mark { background: none; color: var(--saffron); }
       const card = el('article', 'card' + (e.c[i] ? ' done' : ''));
       const head = el('div', 'head');
       head.append(el('span', 'no', D.clipWord + ' ' + c.no), el('span', 'time', c.time), el('span', 'label', c.label),
-        el('span', 'kind ' + c.kind, c.videoPrompt ? '🖼️ ఇమేజ్ + 🎥 వీడియో' : c.kind === 'video' ? 'వీడియో · Flow' : 'ఇమేజ్ + కదలిక'));
+        el('span', 'kind ' + c.kind, c.videoPrompt ? (c.kind === 'video' ? '🎥 యాక్షన్ – వీడియో చేయండి' : '🖼️ ఇమేజ్ చాలు') : c.kind === 'video' ? 'వీడియో · Flow' : 'ఇమేజ్ + కదలిక'));
       const lab = el('label', 'check'); const cb = el('input'); cb.type = 'checkbox'; cb.id = 'c-' + s.n + '-' + c.no; cb.checked = !!e.c[i];
       cb.addEventListener('change', () => { e.c[i] = cb.checked; persist(sid(s.n)); render(); renderList(); });
       lab.append(cb, document.createTextNode('పూర్తైంది')); head.append(lab); card.append(head);
@@ -274,8 +279,9 @@ h1 mark { background: none; color: var(--saffron); }
         b.addEventListener('click', () => copyText(c.narration, b)); dd.append(b); dl.append(el('dt', '', 'డైలాగ్'), dd);
       }
       if (c.imagePrompt) {   // image first, then Frames to Video
-        card.append(dl, el('div', 'eyebrow', '🖼️ ఇమేజ్ ప్రాంప్ట్ (Flow / Imagen)'), promptBox(c.imagePrompt, 'ఇమేజ్ ప్రాంప్ట్ కాపీ'));
-        if (c.videoPrompt) card.append(el('div', 'eyebrow', '🎥 వీడియో ప్రాంప్ట్ (Flow – Frames to Video: పై ఇమేజ్‌ను మొదటి ఫ్రేమ్‌గా పెట్టండి)'
+        card.append(dl, el('div', 'eyebrow', c.endImagePrompt ? '🖼️ 1. మొదటి ఇమేజ్ ప్రాంప్ట్ (Flow / Imagen)' : '🖼️ ఇమేజ్ ప్రాంప్ట్ (Flow / Imagen)'), promptBox(c.imagePrompt, 'ఇమేజ్ ప్రాంప్ట్ కాపీ'));
+        if (c.endImagePrompt) card.append(el('div', 'eyebrow', '🖼️ 2. చివరి ఇమేజ్ ప్రాంప్ట్ (రిఫరెన్స్‌లు + మొదటి ఇమేజ్ జత చేసి)'), promptBox(c.endImagePrompt, 'చివరి ఇమేజ్ కాపీ'));
+        if (c.videoPrompt) card.append(el('div', 'eyebrow', (c.endImagePrompt ? '🎥 3. వీడియో ప్రాంప్ట్ (Flow – Frames to Video: మొదటి ఇమేజ్ = మొదటి ఫ్రేమ్, చివరి ఇమేజ్ = చివరి ఫ్రేమ్)' : '🎥 వీడియో ప్రాంప్ట్ (Flow – Frames to Video: పై ఇమేజ్‌ను మొదటి ఫ్రేమ్‌గా పెట్టండి)')
           + (c.kind === 'video' ? ' · యాక్షన్' : ' · మెల్లని కదలిక')), promptBox(c.videoPrompt, 'వీడియో ప్రాంప్ట్ కాపీ'));
         else if (c.kind === 'video') card.append(el('div', 'eyebrow', '🎥 వీడియో ప్రాంప్ట్ (Flow – Frames to Video)'), promptBox(c.prompt, 'వీడియో ప్రాంప్ట్ కాపీ'));
       } else card.append(dl, promptBox(c.prompt));

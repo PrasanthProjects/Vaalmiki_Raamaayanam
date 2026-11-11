@@ -1,0 +1,30 @@
+{
+ "how": "Suno: Custom on, Instrumental on, paste into Style of Music; Exclude styles gets \"exclude\".",
+ "exclude": "vocals, singing, lyrics, choir words, rap, EDM, electronic beats, western pop, film song",
+ "moods": {
+  "calm": {
+   "label": "🙏 ప్రశాంతం, భక్తి",
+   "prompt": "Instrumental Indian devotional background score for narration. Soft bansuri flute melody over a warm tanpura drone, gentle veena plucks, light temple bells, very soft mridangam. Raga Mohanam feel, slow 60-65 bpm, peaceful, sacred and spacious. Steady and even from start to end with no sudden changes, low energy so a voice can speak over it. No vocals."
+  },
+  "sad": {
+   "label": "😢 దుఃఖం",
+   "prompt": "Instrumental Indian devotional background score, sorrowful and tender. Solo violin and shehnai over a soft tanpura drone, slow sparse tabla, gentle low strings. Raga Shivaranjani feel, slow 55-60 bpm, emotional but calm, even dynamics with no loud peaks, leaving room for a voice. No vocals."
+  },
+  "heroic": {
+   "label": "⚔️ వీరత్వం, యుద్ధం",
+   "prompt": "Instrumental Indian epic background score, brave and powerful. Thavil and big war drums in a steady rhythm, nadaswaram and brass horns, low strings, energy building but kept under a narrator, 110-120 bpm, no sudden loud hits. Raga Hamsadhwani feel. No vocals."
+  },
+  "mystery": {
+   "label": "🌑 రహస్యం, మాయ",
+   "prompt": "Instrumental Indian background score, mysterious and suspenseful. Low drones, deep tanpura, soft veena plucks, distant temple bells, light shimmering strings, slow 60 bpm, dark but never scary, steady, with room for a voice. No vocals."
+  },
+  "joyful": {
+   "label": "🎉 ఆనందం, పండుగ",
+   "prompt": "Instrumental Indian festive devotional background score, bright and happy. Nadaswaram melody, bansuri, dolu and mridangam rhythm, temple bells, a celebration and homecoming feel, 100 bpm, steady energy kept under a voice. Raga Kalyani feel. No vocals."
+  }
+ },
+ "default": {
+  "label": "🎵 డిఫాల్ట్ (ఏ భావానికైనా)",
+  "prompt": "Instrumental Indian devotional background score for narration, neutral and gentle so it suits any part of the Ramayana story. Warm tanpura drone, slow bansuri flute melody, soft veena, light mridangam and distant temple bells. Raga Mohanam feel, 65 bpm, steady and even from start to end, no build-ups, no sudden changes, low energy so a voice can speak over it. No vocals."
+ }
+}

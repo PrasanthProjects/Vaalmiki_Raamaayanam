@@ -1,0 +1,125 @@
+{
+ "how": "ElevenLabs → Sound Effects (model v3): paste the prompt, set the duration (ambiences: Loop on), Generate, download the MP3 and drop it into its box in the Video Maker (or save it in Video_Maker/SFX with this name). Or run python tools/make_sfx.py.",
+ "sounds": {
+  "whoosh": {
+   "label": "💨 వూష్ (జూమ్ మార్పు)",
+   "prompt": "Fast cinematic whoosh transition, a deep air swoosh passing quickly from left to right, clean and smooth, no music",
+   "seconds": 1,
+   "kind": "transition"
+  },
+  "swish": {
+   "label": "🍃 మెల్లని స్విష్ (స్లైడ్ మార్పు)",
+   "prompt": "Soft gentle swish, like silk cloth sweeping through the air, subtle cinematic transition, no music",
+   "seconds": 1,
+   "kind": "transition"
+  },
+  "shimmer": {
+   "label": "✨ దివ్య మెరుపు (శ్లోకం మొదలు)",
+   "prompt": "Divine magical shimmer, soft sparkling chimes rising into a warm bright glow, Indian temple feel, short, no music",
+   "seconds": 2,
+   "kind": "transition"
+  },
+  "bell": {
+   "label": "🔔 గుడి గంట",
+   "prompt": "One small Indian temple bell ring with a long, soft, peaceful decay",
+   "seconds": 3,
+   "kind": "transition"
+  },
+  "boom": {
+   "label": "💥 లోతైన బూమ్ (ముగింపు ముందు)",
+   "prompt": "Deep cinematic boom impact with a low rumble tail, dramatic but not too loud, no music",
+   "seconds": 2,
+   "kind": "transition"
+  },
+  "amb_forest": {
+   "label": "🌳 అడవి",
+   "prompt": "Peaceful South Indian forest in the morning: koels and small songbirds calling, bulbuls chirping, leaves rustling in a soft breeze, a gentle stream far away. Natural field recording, no music, no voices.",
+   "seconds": 20,
+   "kind": "ambience"
+  },
+  "amb_river": {
+   "label": "🏞️ నది",
+   "prompt": "Clear shallow river flowing gently over smooth stones, soft bubbling and trickling water, a few distant birds. Calm natural field recording, no music, no voices.",
+   "seconds": 20,
+   "kind": "ambience"
+  },
+  "amb_fire": {
+   "label": "🔥 అగ్ని",
+   "prompt": "Large wood fire burning steadily outdoors: warm crackling and popping logs, the soft roar of the flames. Close natural recording, no music, no voices.",
+   "seconds": 20,
+   "kind": "ambience"
+  },
+  "amb_ocean": {
+   "label": "🌊 సముద్రం",
+   "prompt": "Ocean waves rolling onto a sandy shore and pulling back over pebbles, steady surf and a light sea wind. Natural field recording, no music, no voices, no boats.",
+   "seconds": 20,
+   "kind": "ambience"
+  },
+  "amb_battle": {
+   "label": "⚔️ యుద్ధభూమి",
+   "prompt": "Ancient battlefield heard from far away: big war drums, conch blasts, clashing swords and spears, horses neighing, many soldiers shouting, all muffled by distance. No gunfire, no modern sounds, no music.",
+   "seconds": 20,
+   "kind": "ambience"
+  },
+  "amb_palace": {
+   "label": "🏛️ రాజభవనం",
+   "prompt": "Quiet ancient Indian palace hall: large stone room tone with soft reverb, occasional distant footsteps on stone, faint temple bells far away, a light breeze between the pillars. No music, no voices, no modern sounds.",
+   "seconds": 20,
+   "kind": "ambience"
+  },
+  "amb_night": {
+   "label": "🌙 రాత్రి",
+   "prompt": "Night in an Indian forest: steady crickets and frogs, soft wind in the leaves, an owl hooting far away now and then. Calm natural field recording, no music, no voices.",
+   "seconds": 20,
+   "kind": "ambience"
+  },
+  "amb_sky": {
+   "label": "☁️ ఆకాశం",
+   "prompt": "High wind in the open sky above the clouds: soft airy rushing wind with slow, wide gusts, majestic and calm. No aircraft, no music, no voices.",
+   "seconds": 20,
+   "kind": "ambience"
+  },
+  "arrow": {
+   "label": "🏹 బాణం",
+   "prompt": "A wooden bow string drawn with a creak and released with a sharp twang, the arrow whooshing fast through the air and striking a wooden target with a thud. No music.",
+   "seconds": 2,
+   "kind": "moment"
+  },
+  "roar": {
+   "label": "👹 రాక్షస గర్జన",
+   "prompt": "Deep guttural roar of a huge forest demon, a powerful growl echoing through the trees. Cinematic, not a lion, no screaming, no music.",
+   "seconds": 3,
+   "kind": "moment"
+  },
+  "conch": {
+   "label": "🐚 శంఖనాదం",
+   "prompt": "An Indian conch shell (shankha) blown once in a temple: one long, steady, sacred tone that swells and fades naturally with temple reverb. No other instruments.",
+   "seconds": 4,
+   "kind": "moment"
+  },
+  "veena": {
+   "label": "🪕 వీణ",
+   "prompt": "Solo Indian saraswati veena: a short graceful phrase of a few plucked notes rising, resonant strings, bright and divine. No other instruments, no drums.",
+   "seconds": 4,
+   "kind": "moment"
+  },
+  "crowd": {
+   "label": "🎉 జనం ఆనందం",
+   "prompt": "A joyful crowd in an ancient Indian city celebrating: many people cheering and clapping, festive dhol drums and temple bells in the background. No modern sounds, no clear words.",
+   "seconds": 4,
+   "kind": "moment"
+  },
+  "drums": {
+   "label": "🥁 యుద్ధ భేరి",
+   "prompt": "Ancient Indian war drums: large nagara kettle drums and dhol beating a powerful, steady martial rhythm. No other instruments.",
+   "seconds": 4,
+   "kind": "moment"
+  },
+  "thunder": {
+   "label": "⛈️ ఉరుము",
+   "prompt": "A loud thunder crack followed by a long, deep rolling rumble across the sky. No rain.",
+   "seconds": 3,
+   "kind": "moment"
+  }
+ }
+}

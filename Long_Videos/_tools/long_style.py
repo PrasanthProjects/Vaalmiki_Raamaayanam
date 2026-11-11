@@ -7,13 +7,24 @@ import re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-STYLE = ("photorealistic live-action historical film, as in a big-budget Indian epic: cinematic lighting, "
+PHOTO_STYLE = ("photorealistic live-action historical film, as in a big-budget Indian epic: cinematic lighting, "
          "natural skin texture and cloth movement, real woven fabric and real built sets, shot on a real camera "
          "lens (35mm/50mm equivalent) with naturalistic depth of field. Treta Yuga in a South Indian visual "
          "register: early Dravidian temple-era architecture and dress (veshti and angavastram for men, single-wrap "
          "drape for women, early Dravidian jewellery), never Mughal or North-Indian motifs. Forest and ashram "
          "settings are lush, green and serene with flowering trees, clear rivers, deer, peacocks and birds unless "
          "the scene says otherwise. Not flat illustration, anime, cartoon, painted storybook or glossy plastic 3D")
+
+# 2026-11-09: the long videos take the Shorts' style, characters and reference images (one set for both series)
+import ast as _ast
+_LIVE = _ast.parse(open(os.path.join(ROOT, 'Valmiki_Ramayanam', '_tools', 'live_style.py'), encoding='utf-8').read())
+_LIVE = {n.targets[0].id: _ast.literal_eval(n.value) for n in _LIVE.body if isinstance(n, _ast.Assign)
+         and isinstance(n.targets[0], _ast.Name) and n.targets[0].id in ('STYLE', 'FOLLOW_IMAGE', 'VIDEO_STYLE', 'TWO_FOLLOW')}
+STYLE = _LIVE['STYLE']
+FOLLOW_IMAGE = _LIVE['FOLLOW_IMAGE']
+VIDEO_STYLE = _LIVE['VIDEO_STYLE']
+TWO_FOLLOW = _LIVE['TWO_FOLLOW']
+SHORTS_LOOKS = False   # long_build / video_build turn this on; Valmiki Cinema keeps its own looks
 
 RESPECT = ("This is a sacred Hindu devotional scene from the Ramayana: depict every deity and character with deep "
            "reverence and faithful traditional Indian iconography. Everyone is fully and modestly dressed in "
@@ -38,7 +49,7 @@ VANARA = ("heroic, muscular, human-proportioned warrior with an expressive monke
 ALIASES = {
     'Jambavan': 'JAMBAVANTHA', 'Jambavantha': 'JAMBAVANTHA', 'Sugreeva': 'SUGRIVA', 'Vasishtha': 'VASHISHTHA',
     'Viswamitra': 'VISHWAMITRA', 'Seeta': 'SITA', 'Lakshman': 'LAKSHMANA', 'Meghanada': 'INDRAJIT',
-    'Shurpanakha': 'SHURPANAKHA', 'Dushana': 'KHARA', 'Trishira': 'KHARA', 'Nila': 'NALA', 'Anjana': None,
+    'Shurpanakha': 'SHURPANAKHA', 'Dushana': 'DUSHANA', 'Trishira': 'TRISHIRA', 'Nila': 'NALA', 'Anjana': None,
 }
 
 WOMEN = {'SITA', 'KAUSALYA', 'KAIKEYI', 'SUMITRA', 'MANTHARA', 'URMILA', 'SHABARI', 'TARA', 'MANDODARI',
@@ -617,7 +628,8 @@ SAGE_FACES = {
 # series and no two characters share one face or size (user, 2026-11-08: "make sure about other characters").
 # Ravana keeps the bible's look; gods, birds and the giant forms keep theirs.
 SHORTS_KEY = {'RAMA': 'RAMA_PRINCE', 'LAKSHMANA': 'LAKSHMANA_PRINCE', 'SITA': 'SITA_PRINCESS',
-              'JAMBAVANTHA': 'JAMBAVAN', 'AKSHAKUMARA': 'AKSHA'}
+              'JAMBAVANTHA': 'JAMBAVAN', 'AKSHAKUMARA': 'AKSHA', 'RAVANA_DISGUISED': 'RAVANA_SANYASI',
+              'HANUMAN_BHIKSHU': 'HANUMAN_BRAHMIN', 'RISHYASHRINGA': 'RISHYASRINGA'}
 NO_SHORTS_FACE = {'RAVANA', 'RAVANA_TEN', 'KHARA', 'DUSHANA', 'TRISHIRA', 'KABANDHA', 'DUNDUBHI', 'JATAYU', 'SAMPATI'}
 # Ages the Shorts keep in the look rather than the face
 AGE_EXTRA = {'DASHARATHA': 'in his sixties', 'KAUSALYA': 'in her fifties', 'SUMITRA': 'in her fifties',
@@ -641,6 +653,42 @@ STAGE_AGE = {
     'SITA': {'S1': 'about eighteen', 'S2': 'about twenty', 'S3': 'about twenty-two in appearance',
              'S4': 'about twenty-eight in appearance, worn and thin from grief', 'S5': 'about thirty in appearance'},
 }
+
+
+# which Shorts reference each main character uses, by episode (the Shorts' own age stages)
+SHORTS_STAGE = {
+    'RAMA': [('E0.00', 'RAMA_PRINCE'), ('E1.05', 'RAMA_BOY'), ('E1.06', 'RAMA_VISHWAMITRA'), ('E1.24', 'RAMA_WEDDING'),
+             ('E2.01', 'RAMA_PRINCE'), ('E2.18', 'RAMA_ARANYA'), ('E6.39', 'RAMA_KING')],
+    'LAKSHMANA': [('E0.00', 'LAKSHMANA_PRINCE'), ('E1.05', 'LAKSHMANA_BOY'), ('E1.06', 'LAKSHMANA_VISHWAMITRA'),
+                  ('E1.24', 'LAKSHMANA_WEDDING'), ('E2.01', 'LAKSHMANA_PRINCE'), ('E2.18', 'LAKSHMANA_ARANYA'),
+                  ('E6.39', 'LAKSHMANA_PRINCE')],
+    'SITA': [('E0.00', 'SITA_WEDDING'), ('E2.01', 'SITA_PRINCESS'), ('E2.18', 'SITA_ARANYA'), ('E3.25', 'SITA_LANKA'),
+             ('E6.35', 'SITA_PRINCESS')],
+    'BHARATA': [('E0.00', 'BHARATA_PRINCE'), ('E1.05', 'BHARATA_BOY'), ('E1.24', 'BHARATA_WEDDING'),
+                ('E2.01', 'BHARATA_PRINCE'), ('E2.49', 'BHARATA'), ('E6.39', 'BHARATA_PRINCE')],
+    'SHATRUGHNA': [('E0.00', 'SHATRUGHNA'), ('E1.05', 'SHATRUGHNA_BOY'), ('E1.24', 'SHATRUGHNA_WEDDING'),
+                   ('E2.01', 'SHATRUGHNA')],
+}
+
+
+def shorts_key(key, ep):
+    """The Shorts' reference for this character in this episode, or None when the Shorts have no such character."""
+    if key in SHORTS_STAGE:
+        k = next(s for e, s in reversed(SHORTS_STAGE[key]) if ep_key(ep) >= ep_key(e))
+    else:
+        k = SHORTS_KEY.get(key, key)
+    ref = _SHORTS.get(k) or {}
+    return k if ref.get('kind') == 'char' and ref.get('look') else None
+
+
+def ref_name(key, ep):
+    """The reference image a clip attaches for this character: the Shorts' one when the long videos share them."""
+    if SHORTS_LOOKS and key != 'RAVANA_TEN':
+        k = shorts_key(key, ep)
+        if k:
+            return k
+    stage = stage_of(key, ep) if key in STAGES else None
+    return f'{key}_{stage}' if stage else key
 
 
 def shorts_face(key):
@@ -676,6 +724,13 @@ def stage_of(key, ep):
 
 def character(key, ep):
     """Full look for one character in one episode, or None if the bible has no entry."""
+    if SHORTS_LOOKS:   # exactly the Shorts' character: same words, so the same reference image fits
+        k = 'RAVANA_TEN' if key == 'RAVANA_TEN' else shorts_key(key, ep)
+        if k:
+            name = 'Ravana (ten-headed form)' if key == 'RAVANA_TEN' else key.replace('_', ' ').title()
+            look = _SHORTS[k]['look'].rstrip(' .;')
+            first = name.split()[0].lower()[:5]   # the Shorts' look usually opens with the name ("King Dasharatha: …")
+            return look if first in look[:60].lower() else f"{name}: {look}"
     entry = BIBLE.get(key)
     if not entry:
         return None

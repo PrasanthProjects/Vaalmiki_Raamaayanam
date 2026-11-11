@@ -22,8 +22,11 @@ LONG = os.path.dirname(TOOLS)
 ROOT = os.path.dirname(LONG)
 sys.path.insert(0, TOOLS)
 sys.path.insert(1, os.path.join(ROOT, 'Valmiki_Ramayanam', '_tools'))
+from cast_guard import sita_guard, camera_move  # noqa: E402  (no Sita where she is not cast)
 from soften import soft  # noqa: E402  (no blood/wound/death words in prompts, shared with the Shorts)
-from long_style import STYLE, RESPECT, TAIL, VN, SN, KUM, character, names_in, stage_of, STAGES, ep_key, FROM_EP, OBJECTS, RATHA_EPS  # noqa: E402
+import long_style as _LSM  # noqa: E402
+_LSM.SHORTS_LOOKS = True   # long videos: the Shorts' characters and reference images
+from long_style import STYLE, FOLLOW_IMAGE, TWO_FOLLOW, VIDEO_STYLE, ref_name, shorts_key, _SHORTS, RESPECT, TAIL, VN, SN, KUM, character, names_in, stage_of, STAGES, ep_key, FROM_EP, OBJECTS, RATHA_EPS  # noqa: E402
 
 KAANDAS = {0: ('00_Parichayam', 'పరిచయం'), 1: ('1 - Baala Khaanda', 'బాలకాండ'), 2: ('2 - Ayodhya Khaanda', 'అయోధ్యకాండ'),
            3: ('3 - Aranya Khaanda', 'అరణ్యకాండ'), 4: ('4 - Kishkinda Khaanda', 'కిష్కింధకాండ'),
@@ -173,12 +176,9 @@ def scene_cast(scene, ep):
     looks =[x for x in (character(k, ep) for k in keys) if x]
     g_looks, g_refs = group_looks(scene['visual'], scene.get('loc', ''), ep)
     looks += g_looks
-    refs = []
-    for k in keys:
-        if character(k, ep):
-            stage = stage_of(k, ep) if k in STAGES else None
-            refs.append(f'{k}_{stage}' if stage else k)
-    return looks, refs + g_refs
+    refs = [ref_name(k, ep) for k in keys if character(k, ep)]
+    guard = sita_guard(refs, ' '.join(looks), scene['visual'])
+    return looks + ([guard.rstrip('.')] if guard else []), refs + g_refs
 
 
 def kinds_for(scenes):
@@ -193,22 +193,36 @@ STILL = ('speak', 'says', 'tells', 'listen', 'explain', 'answer', 'ask', 'bow', 
          'standing', 'portrait', 'close on', 'close-up', 'face', 'blessing', 'bless', 'meditat', 'pray', 'thinking')
 
 
+def wants_video(visual, kind, cid):
+    """The clip's verdict (user, 2026-11-11): True = make the video (start image, end image, video); False = the start
+    image alone with an editor move. The same verdict picks the start, end and video prompts, so they always agree."""
+    if cid == 'I' or kind == 'video':
+        return True
+    if cid in ('C', 'W', 'R', 'T') or cid.startswith('B'):
+        return False
+    return sum(w in visual.lower() for w in MOTION) >= 2
+
+
 def advice(visual, kind, cid):
-    """Which of the two prompts suits this clip best, and why (both stay on the page)."""
+    """A clear suggestion for this clip: video or image, and why (all three prompts stay on the page)."""
     v = visual.lower()
     moving = [w.strip() for w in MOTION if w in v]
     if cid in ('I',):
         return '🎥 వీడియో — ఛానల్ ఇంట్రో క్లిప్ (ఒక్కసారే చేసినది)'
-    if cid in ('C', 'W', 'R', 'T') or cid.startswith('B'):
-        return '🖼️ ఇమేజ్ చాలు — మాట/శీర్షిక సీన్; ఇమేజ్ + నెమ్మది జూమ్ సరిపోతుంది'
-    if kind == 'video' or len(moving) >= 2:
+    if wants_video(visual, kind, cid):
         why = ', '.join(dict.fromkeys(moving[:3])) or 'కథలో కదలిక'
-        return f'🎥 వీడియో మంచిది — ఈ సీన్‌లో కదలిక ఉంది ({why}); ఇమేజ్ చేసి దాన్ని మొదటి ఫ్రేమ్‌గా వీడియో చేయండి'
+        return (f'🎥 వీడియో చేయండి — ఈ సీన్‌లో కదలిక ఉంది ({why}). 1. మొదటి ఇమేజ్ → 2. చివరి ఇమేజ్ (కదలిక పూర్తయిన '
+                'తర్వాత) → 3. వీడియో. చివరి ఇమేజ్ లేకపోయినా మొదటి ఇమేజ్‌తోనే వీడియో చేయవచ్చు.')
+    if cid in ('C', 'W', 'R', 'T') or cid.startswith('B'):
+        return ('🖼️ ఇమేజ్ మాత్రమే — మాట/శీర్షిక సీన్; మొదటి ఇమేజ్ + ఎడిటర్‌లో నెమ్మది జూమ్ చాలు, '
+                'చివరి ఇమేజ్ & వీడియో అవసరం లేదు.')
     if moving:
-        return f'🖼️ ఇమేజ్ చాలు, కావాలంటే వీడియో — కొంచెం కదలిక ఉంది ({moving[0]}); ఇమేజ్ + ఎడిటర్ కదలికతో కూడా బాగుంటుంది'
+        return (f'🖼️ ఇమేజ్ చాలు — కొంచెం కదలిక మాత్రమే ({moving[0]}); మొదటి ఇమేజ్ + ఎడిటర్ కదలిక. సమయం ఉంటే '
+                'వీడియో కూడా చేయవచ్చు (చివరి ఇమేజ్‌లో చిన్న మార్పు ఉంటుంది).')
     if any(w in v for w in STILL):
-        return '🖼️ ఇమేజ్ మంచిది — మాట్లాడటం/నిలబడటం/ఆశీర్వాదం లాంటి నిశ్చల సీన్; వీడియోలో అనవసర కదలికలు వస్తాయి'
-    return '🖼️ ఇమేజ్ మంచిది — పెద్ద కదలిక లేదు; ఇమేజ్ + నెమ్మది జూమ్/ప్యాన్ చాలు'
+        return ('🖼️ ఇమేజ్ మాత్రమే — మాట్లాడటం/నిలబడటం/ఆశీర్వాదం లాంటి నిశ్చల సీన్; వీడియోలో అనవసర కదలికలు వస్తాయి. '
+                'మొదటి ఇమేజ్ + ఎడిటర్ కదలిక చాలు.')
+    return '🖼️ ఇమేజ్ మాత్రమే — పెద్ద కదలిక లేదు; మొదటి ఇమేజ్ + నెమ్మది జూమ్/ప్యాన్ చాలు.'
 
 
 def editor_move(visual, i):
@@ -221,12 +235,20 @@ def editor_move(visual, i):
 
 
 @soft
-def scene_prompt(scene, kind, looks):
+def scene_prompt(scene, kind, looks, opening=False):
+    """opening=True (a clip that becomes a video): the moment just BEFORE the scene's main action, so the end image
+    (the moment after it) is clearly different and the video has something to play."""
     who = ' '.join(f'{x}.' for x in looks)
     loc = f"Setting: {scene['loc']}. " if scene['loc'] else ''
+    moment = ("This is the FIRST frame of an 8-second shot: show the opening moment, just before the main action of "
+              "the scene begins (the action itself happens in the video); everyone already in the scene, in their "
+              "starting positions. " if opening else '')
+    mv = move_for(scene, looks)
+    if mv:
+        moment += f"Camera position for this first frame: {mv[0]}. "
     body = (f"Style: {STYLE}. {loc}" + (f"Characters (keep exactly this look): {who} " if who else '')
-            + f"Scene: {scene_text(scene)}. "
-            "Correct anatomy and natural hands; no extra characters, limbs or faces beyond those described. "
+            + f"Scene: {scene_text(scene)}. {moment}"
+            "Body check (very important): every person and vanara has exactly two arms, two hands with five separate, natural fingers each, two legs and two feet with five toes each; no extra, missing, merged or twisted fingers, toes, hands, arms or legs; each hand clearly belongs to one body and holds things naturally; gods have only the arms and heads their own description gives (such as four-armed Vishnu or Brahma), and birds have two wings and two taloned feet, never arms; faces natural and symmetrical, eyes aligned; correct anatomy and natural hands; no extra characters, limbs or faces beyond those described. "
             f"{RESPECT} {TAIL}")
     if kind == 'video':
         return ("Cinematic 16:9 shot, 8 seconds, slow and steady, main subject well framed. " + body
@@ -245,27 +267,75 @@ CAMS = ['a very slow, steady push-in', 'a very slow pan from left to right', 'a 
         'a very slow pan from right to left']
 
 
+END_FRAMING = {CAMS[0]: 'clearly closer than the first frame (about one third tighter on the main character)',
+               CAMS[1]: 'the view clearly moved to the right (about one fifth of the frame)',
+               CAMS[2]: 'clearly wider than the first frame (about one third more of the place in view)',
+               CAMS[3]: 'the view clearly moved to the left (about one fifth of the frame)'}
+LAST_FOLLOW = ("Keep the look of the start image exactly: the same art style, rendering, colours and light, and every "
+               "character, animal and place exactly as there (the same faces, bodies, clothes, crowns and ornaments); "
+               "do not restyle anything and do not add or remove anyone. ")
+
+
+def move_for(scene, looks):
+    """The cinematic camera move for this scene (drone, top view, follow the arrow, side to front …), or None."""
+    n = sum(1 for x in looks if not x.startswith('Sita is NOT'))
+    return camera_move(n, scene['visual'])
+
+
+def cam_for(scene, i):
+    v = scene['visual'].lower()
+    return (CAMS[0] if any(w in v for w in ('close on', 'close-up', 'closeup', 'close up', 'face'))
+            else CAMS[1] if any(w in v for w in ('wide', 'aerial', 'landscape', 'panorama', 'city', 'army'))
+            else CAMS[i % 4])
+
+
 @soft
 def video_prompt(scene, kind, looks, i=0):
-    """Flow Frames to Video with the still from scene_prompt(..., 'image', ...) as the first frame: action scenes play
-    their action (0–2 s settle, 2–6 s action, 6–8 s rest); the others only breathe."""
+    """Flow, 8 seconds (user, 2026-11-11): 0-6 s play the scene from the start image; 6-8 s move smoothly into the end
+    image. Works with only the start image too (Frames to Video with no last frame, or Image to Video)."""
     who = ' '.join(f'{x}.' for x in looks)
     loc = f"Setting: {scene['loc']}. " if scene['loc'] else ''
+    cam = cam_for(scene, i)
     if kind == 'video':
-        move = ("Action, slow and smooth: 0–2 s hold the start frame and settle; 2–6 s play the main action of the "
-                "scene; 6–8 s come to rest and hold the final pose.")
-        cam = 'slow and steady, gently following the action'
+        move = ("Timing over 8 seconds: 0–1 s hold the start frame; 1–6 s play the main action of the scene, slowly "
+                "and clearly; 6–8 s the action finishes and the shot settles smoothly into the end frame and holds it.")
+        cam_txt = f'slow and steady, gently following the action, ending {END_FRAMING[cam]}'
     else:
-        v = scene['visual'].lower()
-        move = GENTLE
-        cam = (CAMS[0] if any(w in v for w in ('close on', 'close-up', 'closeup', 'close up', 'face'))
-               else CAMS[1] if any(w in v for w in ('wide', 'aerial', 'landscape', 'panorama', 'city', 'army'))
-               else CAMS[i % 4])
-    return ("Animate the attached start frame as one continuous 8 second cinematic 16:9 shot. "
-            f"Style: {STYLE}. {loc}" + (f"Characters (keep exactly this look): {who} " if who else '')
-            + f"The scene: {scene_text(scene)}. {move} Camera: {cam}; no shake, no sudden zoom. {STABLE} "
-            "Smooth, physically consistent motion with no morphing or flicker. Correct anatomy and natural hands. "
+        move = (GENTLE + " Timing over 8 seconds: 0–6 s this gentle movement with the camera move; 6–8 s ease "
+                "smoothly into the end frame (the small change in pose or expression completes there) and hold it.")
+        cam_txt = f'{cam}, ending {END_FRAMING[cam]}'
+    mv = move_for(scene, looks)
+    if mv:
+        cam_txt = f"{mv[0]} at the start, then {mv[1]}, ending on {mv[2]}; slow, smooth and steady"
+    return ("One continuous 8 second cinematic 16:9 shot that begins exactly on the attached START image. If an END "
+            "image is also attached (Frames to Video: start = first frame, end = last frame), arrive exactly on it in "
+            "the last 2 seconds. If no end image is attached, finish on a calm, natural final pose of this same "
+            "action, keeping everything from the start image. "
+            f"{LAST_FOLLOW}Style: {VIDEO_STYLE}. {loc}" + (f"Characters (keep exactly this look): {who} " if who else '')
+            + f"The scene: {scene_text(scene)}. {move} Camera: {cam_txt}; no shake, no sudden zoom. {STABLE} "
+            "Smooth, physically consistent motion with no morphing or flicker. Body check (very important): every person and vanara has exactly two arms, two hands with five separate, natural fingers each, two legs and two feet with five toes each; no extra, missing, merged or twisted fingers, toes, hands, arms or legs; each hand clearly belongs to one body and holds things naturally; gods have only the arms and heads their own description gives (such as four-armed Vishnu or Brahma), and birds have two wings and two taloned feet, never arms; faces natural and symmetrical, eyes aligned; correct anatomy and natural hands. "
             f"{RESPECT} {TAIL}")
+
+
+@soft
+def end_prompt(scene, kind, looks, i=0):
+    """The END image (user, 2026-11-11): the same shot 8 seconds later with a change you can see: the action done
+    (video clips) or a small new pose and a clearly moved camera (gentle clips); never a copy of the start image."""
+    who = ' '.join(f'{x}.' for x in looks)
+    loc = f"Setting: {scene['loc']}. " if scene['loc'] else ''
+    cam = cam_for(scene, i)
+    later = ("this is the moment about 8 seconds later, right AFTER the main action has fully happened: show its "
+             "result clearly, with the characters in new positions and poses that are visibly different from the start "
+             "image (not the same pose), as the action naturally leaves them" if kind == 'video' else
+             "this is the moment about 8 seconds later, with a small change you can clearly see: the main character "
+             "has turned the head or eyes, finished a hand gesture and changed expression a little, as fits the scene; "
+             "everyone else in the same place, with a slight natural change of pose")
+    return ("Cinematic 16:9 still frame, 1920x1080, film still quality. This is the END (last) frame of an 8-second "
+            "shot whose first frame is the start image made for this clip: attach that start image too. "
+            f"{LAST_FOLLOW}Style: {STYLE}. {loc}" + (f"Characters (keep exactly this look): {who} " if who else '')
+            + f"Scene: {scene_text(scene)}; {later}. Camera framing: {move_for(scene, looks)[2] if move_for(scene, looks) else END_FRAMING[cam]}; the same place, light and time "
+            "of day. It must NOT be identical to the start image. "
+            f"Body check (very important): every person and vanara has exactly two arms, two hands with five separate, natural fingers each, two legs and two feet with five toes each; no extra, missing, merged or twisted fingers, toes, hands, arms or legs; each hand clearly belongs to one body and holds things naturally; gods have only the arms and heads their own description gives (such as four-armed Vishnu or Brahma), and birds have two wings and two taloned feet, never arms; faces natural and symmetrical, eyes aligned; correct anatomy and natural hands; no extra characters, limbs or faces beyond those described. {RESPECT} {TAIL}")
 
 
 @soft
@@ -364,11 +434,51 @@ def _words(text):
     return {w.strip('.,!?…"\'—–-') for w in text.split() if len(w) > 3}
 
 
+# User, 2026-11-11: bridge lines interrupt the story (off, as in the 8-10 min videos), and only the famous ślokas
+# people know are recited; the rest of the ślokas are left out (the scene after each gives its meaning anyway).
+BRIDGES_ON = False
+
+
+def famous_slokas():
+    """(episode, scene) of the ślokas worth reciting: the KEEP lines of data/*_videos.txt (commented ones excluded)."""
+    out = set()
+    for f in glob.glob(os.path.join(TOOLS, 'data', '*_videos.txt')):
+        for line in open(f, encoding='utf-8'):
+            if line.startswith('KEEP '):
+                _, ep, no = line.split()[:3]
+                out.add((ep, int(no)))
+    return out
+
+
+FAMOUS = None
+
+
 def sequence(scenes, d, extra, ep_index):
-    """Episode order: hook, scenes (a bridge line before each new chapter), lesson, teaser, subscribe line."""
+    """Episode order: hook, scenes (a chapter title on each new chapter), lesson, teaser, subscribe line."""
+    global FAMOUS
+    if FAMOUS is None:
+        FAMOUS = famous_slokas()
+    keep, prev_kept_verse = [], False
+    for s in scenes:   # a famous śloka running over two scenes stays whole
+        verse = is_verse(s['narration'])
+        if verse and not ((d['ep'], s['no']) in FAMOUS or prev_kept_verse):
+            prev_kept_verse = False
+            continue
+        prev_kept_verse = verse
+        keep.append(s)
+    every = scenes
+    if keep:
+        scenes = keep
+        kept = [x['no'] for x in keep]
+        moved = []   # a chapter that began on a dropped śloka begins on the next scene that stays
+        for n, t in d['chapters']:
+            m = next((k for k in kept if k >= n), None)
+            if m is not None and (not moved or moved[-1][0] != m):
+                moved.append((m, t))
+        d['chapters'] = moved
     seq = []
     bridges, titles = {}, dict(d['chapters'][1:])
-    if extra:
+    if extra and BRIDGES_ON:
         assert len(extra['bridges']) == len(d['chapters']) - 1, \
             f"{d['ep']}: {len(extra['bridges'])} bridge lines for {len(d['chapters']) - 1} chapter changes"
         bridges = dict(zip([n for n, _ in d['chapters'][1:]], extra['bridges']))
@@ -377,9 +487,11 @@ def sequence(scenes, d, extra, ep_index):
         by_no = {s['no']: s for s in scenes}
         for n, line in bridges.items():
             shared = _words(line) & _words(by_no[n]['narration'][:120])
-            assert len(shared) < 2, f"{d['ep']}: bridge before scene {n} repeats it ({', '.join(sorted(shared))}): {line}"
+            if len(shared) >= 2:   # a warning, as in video_build: the page still builds
+                print(f"WARN {d['ep']}: bridge before scene {n} repeats it ({', '.join(sorted(shared))}): {line}")
+    if extra:
         assert 'ఈ భాగంలో' not in extra['hook'], f"{d['ep']}: end the hook on its peak, not with 'ఈ భాగంలో…'"
-        src = next(s for s in scenes if s['no'] == extra['hook_from'])
+        src = next(s for s in every if s['no'] == extra['hook_from'])
         seq.append({'id': 'H', 'label': 'హుక్', 'kind': 'video', 'secs': speak_secs(extra['hook']),
                     'narration': extra['hook'], 'new': True, 'loc': src['loc'], 'onscreen': '',
                     'visual': f"Fast, dramatic flash-forward teaser of the episode's biggest moment: {src['visual']}"})
@@ -395,7 +507,7 @@ def sequence(scenes, d, extra, ep_index):
             seq.append(lesson_item(extra, scenes))
         seq.append({'id': str(s['no']), 'label': f"సీన్ {s['no']}", 'kind': None, 'secs': s['secs'],
                     'narration': s['narration'], 'new': False, 'visual': s['visual'], 'loc': s['loc'],
-                    'onscreen': '', 'scene': s})
+                    'onscreen': titles.get(s['no'], '') if not bridges else '', 'scene': s})
     if extra and not teaser_last:
         seq.append(lesson_item(extra, scenes))
     if extra:
@@ -512,10 +624,15 @@ def build_episode(ep, d, refs_used, extra, ep_index):
     for i, (n, title) in enumerate(d['chapters']):
         assert n in start_of, f'{ep}: chapter scene {n} not in the scene table'
         chap.append((0 if i == 0 else start_of[n], title))
-    assert len(chap) >= 3, f'{ep}: YouTube needs at least 3 chapters'
-    ends = [c[0] for c in chap[1:]] + [total]
-    for (a, title), b in zip(chap, ends):
-        assert b - a >= 10, f'{ep}: chapter "{title}" is {b - a}s (YouTube minimum is 10s)'
+    ci = 1   # a chapter shorter than YouTube's 10 s joins the one before it
+    while ci < len(chap):
+        nxt = chap[ci + 1][0] if ci + 1 < len(chap) else total
+        if nxt - chap[ci][0] < 10:
+            del chap[ci]
+        else:
+            ci += 1
+    if len(chap) < 3:
+        print(f'WARN {ep}: only {len(chap)} chapters (YouTube shows chapters from 3)')
 
     cards, md_items = [], []
     for i, item in enumerate(seq):
@@ -532,10 +649,14 @@ def build_episode(ep, d, refs_used, extra, ep_index):
         if item.get('tip'):
             note = (note + ' ' if note else '') + item['tip']
         move = '' if kind == 'video' else editor_move(item['visual'], i)
+        vk = 'video' if wants_video(item['visual'], kind, item['id']) else 'image'   # one verdict for all prompts
         a = item['start']
         card = {'no': item['id'], 'time': f"{mmss(a)} – {mmss(a + secs)}", 'label': f"{item['label']} · {secs} సె",
-                'kind': kind, 'narration': item['narration'], 'refs': refs, 'move': move, 'note': note,
-                'prompt': scene_prompt(s, kind, looks)}
+                'kind': vk, 'narration': item['narration'], 'refs': refs, 'move': move, 'note': note,
+                'prompt': scene_prompt(s, kind, looks),
+                # both, for every clip: the user picks a still (with an editor move) or a Flow video each time
+                'imagePrompt': scene_prompt(s, 'image', looks, opening=(vk == 'video')),
+                'endImagePrompt': end_prompt(s, vk, looks, i), 'videoPrompt': video_prompt(s, vk, looks, i)}
         cards.append(card)
         head = '🎥 వీడియో' if kind == 'video' else '🖼️ ఇమేజ్ + కదలిక'
         star = ' · ✨ కొత్తది' if item['new'] else (' · 🔁 అదే నెరేషన్, కొత్త చిత్రం' if item.get('cont') else '')
@@ -577,7 +698,7 @@ def build_episode(ep, d, refs_used, extra, ep_index):
             '### 1. 🎙️ కొత్త నెరేషన్ – Shorts శైలిలో (హుక్ · బ్రిడ్జ్‌లు · పాఠం · సబ్‌స్క్రైబ్)\n',
             'పుస్తకంలోని కథనం (సీన్ పట్టిక) ఏమాత్రం మారలేదు. దాని చుట్టూ వీక్షకులను ఆపి ఉంచే ఈ కొత్త భాగాలు జోడించాం:\n',
             f"- **హుక్ (0:{BUMPER:02d} నుండి, సుమారు {speak_secs(extra['hook'])} సె):** {extra['hook']}",
-            *[f"- **బ్రిడ్జ్ → {title}:** {line}" for (n, title), line in zip(d['chapters'][1:], extra['bridges'])],
+            *[f"- **బ్రిడ్జ్ → {title}:** {line}" for (n, title), line in zip(d['chapters'][1:], extra['bridges']) if BRIDGES_ON],
             f"- **జీవిత పాఠం:** {extra['lesson']}",
             f"- **ముగింపు:** {CTAS[ep_index % len(CTAS)]}\n",
             '**పూర్తి రికార్డింగ్ స్క్రిప్ట్** – ఈ వరుసలోనే చదవండి. [ ] లో ఎలా చెప్పాలో సూచన; '
@@ -632,7 +753,7 @@ def build_episode(ep, d, refs_used, extra, ep_index):
     plan = {'ep': ep, 'tel': tel, 'sum': d['sum'], 'head': d['head'], 'thumb': tprompt, 'src': src, 'k': k,
             'body': body_end - BUMPER, 'cta': total - OUTRO - body_end, 'chapters': [(a - BUMPER if a else 0, t) for a, t in chap]}
     return k, {'plan': plan, 'n': ep, 'headline': main, 'hl': hl, 'sub': sub, 'badge': f'{kaanda_te} · {ep} · {mmss(total)}',
-               'title': title, 'sloka': recording.split('\n') if extra else [], 'reading': None, 'clips': cards,
+               'title': title, 'sloka': recording.split('\n') if extra else [], 'reading': None, 'clips': [{k: v for k, v in c.items() if k != 'prompt'} for c in cards],
                'thumbPrompt': tprompt, 'thumbRefs': trefs, 'desc': desc, 'pinned': d['pin'], 'srt': srt_rel}
 
 
@@ -712,6 +833,11 @@ def reference_file(refs):
            'రూపాలు `00_CHARACTER_BIBLE.md` నుండి వస్తాయి; అక్కడ మార్చి మళ్ళీ బిల్డ్ చేస్తే ఇక్కడ కూడా మారతాయి.\n']
     items = []
     for r in sorted(refs):
+        ref = _SHORTS.get(r) or {}
+        if ref.get('kind') == 'char' and ref.get('refprompt'):   # the Shorts' own reference: one image for both
+            out.append(f'## `{r}.png` (Shorts లో చేసినదే)\n\n```text\n{ref["refprompt"]}\n```\n')
+            items.append({'key': r, 'prompt': ref['refprompt']})
+            continue
         key, _, stage = r.partition('_S')
         ep = 'E6.39'
         if stage:

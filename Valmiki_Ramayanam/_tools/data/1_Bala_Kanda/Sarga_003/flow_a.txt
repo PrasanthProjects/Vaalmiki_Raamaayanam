@@ -20,7 +20,7 @@
 1 | RAMA_PRINCE, LAKSHMANA_PRINCE, SITA_PRINCESS, AYODHYA_PALACE | Rama, Lakshmana and Sita standing together in the palace garden, seen as a glowing vision. | The figures emerge gently from golden light. | Slow push-in. | Luminous vision glow, soft golden haze.
 2 | DASHARATHA, KAUSALYA, SUMITRA, KAIKEYI, AYODHYA_COURT | King Dasharatha seated on his throne with his three queens beside him, seen as a glowing vision. | The vision shimmers into focus. | Slow side dolly. | Warm royal light, golden vision haze.
 3 | VALMIKI, TAMASA_ASHRAM | Valmiki in meditation, faint images of a royal palace glowing in the air above him. | The images brighten as he concentrates. | Slow tilt up from Valmiki to the vision. | Golden vision light against the morning sky.
-4 | AYODHYA_CITY | The city of Ayodhya with its palaces and gardens, seen as a vision through golden mist. | Mist parts slowly to reveal the city. | Slow aerial push forward. | Luminous golden haze.
+4 | DASHARATHA, KAUSALYA, RAMA_PRINCE, LAKSHMANA_PRINCE, SITA_PRINCESS, AYODHYA_PALACE | A glowing vision of King Dasharatha with his queens in the Ayodhya palace, Rama, Lakshmana and Sita beside them. | The vision glows softly; the family smiles. | Slow aerial push forward. | Luminous golden haze.
 5 | AYODHYA_PEOPLE, AYODHYA_CITY | Happy people of Ayodhya in the streets, seen as a glowing vision. | People walk and greet each other. | Slow tracking shot. | Warm sunlight, soft vision glow.
 6 | VALMIKI, TAMASA_ASHRAM | Close view of Valmiki's peaceful face as he sees the vision. | A gentle smile forms on his lips. | Slow push-in. | Soft rim light, golden glow.
 7 | RAMA_PRINCE, LAKSHMANA_PRINCE, AYODHYA_PALACE | Rama and Lakshmana talking and smiling together in the palace garden. | Lakshmana laughs at something Rama says, motion slows. | Slow push-in. | Warm golden light, soft flash.
@@ -120,7 +120,7 @@
 2 | AYODHYA_PEOPLE, AYODHYA_CITY | Tearful people of Ayodhya standing at the city gates. | They wipe their tears and reach out. | Slow side dolly. | Grey muted light.
 3 | RAMA_ARANYA, AYODHYA_PEOPLE | Rama gently asking the people to go back home. | He raises his hand kindly, the people hesitate. | Slow push-in. | Soft evening light.
 4 | GUHA, RAMA_ARANYA, SHRINGAVERAPURA | Guha welcoming Rama warmly on the bank of the Ganga. | Guha bows and offers food on a leaf plate. | Slow orbit. | Warm riverside light.
-5 | SUMANTRA, SHRINGAVERAPURA | Sumantra standing beside the empty chariot, looking sadly at the river. | He lowers his head and turns the chariot. | Slow tracking shot. | Grey evening light.
+5 | RAMA_ARANYA, SUMANTRA, SHRINGAVERAPURA | Rama gently asking Sumantra to go back to Ayodhya with the chariot for the good of the people, his hand on the old charioteer's shoulder. | Sumantra bows tearfully; Rama nods kindly. | Slow tracking shot. | Grey evening light.
 6 | - | Symbolic shot: an empty chariot on a long dusty road. | The chariot wheels roll slowly away. | Slow aerial pull back. | Dusky light.
 7 | RAMA_ARANYA, SITA_ARANYA, LAKSHMANA_ARANYA, GUHA, SHRINGAVERAPURA | Rama, Sita and Lakshmana in a boat on the Ganga, Guha rowing. | The boat glides across the water, motion slows. | Slow tracking shot. | Golden river light, soft flash.
 

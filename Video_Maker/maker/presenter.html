@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="te">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Video Maker · ప్రెజెంటర్</title>
+<style>
+:root{--bg:#1a0f08;--panel:#26160c;--panel2:#311d10;--line:#5a3a1e;--gold:#f6cf6a;--text:#fbeed2;--dim:#c9b18a;--ok:#5fcf80;--bad:#ff7b6b}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.5 'Nirmala UI','Segoe UI',sans-serif}
+header{position:sticky;top:0;z-index:5;display:flex;gap:14px;align-items:center;flex-wrap:wrap;padding:12px 20px;background:#120a05;border-bottom:1px solid var(--line)}
+header h1{font-size:20px;margin:0;color:var(--gold)}
+a{color:var(--gold)}
+select,button{font:inherit}
+select{background:var(--panel2);color:var(--text);border:1px solid var(--line);border-radius:8px;padding:6px 10px}
+.btn{background:var(--panel2);color:var(--text);border:1px solid var(--line);border-radius:10px;padding:7px 14px;cursor:pointer;text-decoration:none;display:inline-block}
+.btn:hover{border-color:var(--gold)}
+.btn.main{background:var(--gold);color:#2a1500;border-color:var(--gold);font-weight:700;font-size:17px;padding:11px 22px}
+.btn:disabled{opacity:.5;cursor:default}
+main{padding:16px 22px 80px;max-width:1250px;margin:0 auto}
+h2{color:var(--gold);margin:6px 0 4px;font-size:24px}
+.hint{color:var(--dim);font-size:14px;margin:4px 0 10px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px;margin:12px 0}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.cols{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.2fr);gap:14px}
+@media (max-width:1000px){.cols{grid-template-columns:1fr}}
+.role{font-size:13px;font-weight:700;padding:2px 10px;border-radius:999px;background:var(--panel2)}
+.role.film{background:#b3261e}.role.valmiki{background:#c2520f}.role.sloka{background:#7a4fb3}.role.hook{background:#2d3c92}
+.say{white-space:pre-wrap;background:#0d0704;border-radius:10px;padding:10px 12px;font-size:17px;line-height:1.7}
+.slots{display:grid;grid-template-columns:repeat(5,1fr);gap:8px}
+@media (max-width:700px){.slots{grid-template-columns:repeat(2,1fr)}}
+.slot{position:relative;border:2px dashed var(--line);border-radius:10px;aspect-ratio:16/9;display:flex;align-items:center;justify-content:center;text-align:center;font-size:13px;color:var(--dim);cursor:pointer;overflow:hidden;background:#0d0704;padding:4px}
+.slot.has{border-style:solid;border-color:#3d7a4f}
+.slot.drag{border-color:var(--gold)}
+.slot img,.slot video{width:100%;height:100%;object-fit:cover}
+.slot .bar{position:absolute;left:0;bottom:0;height:4px;background:var(--gold);width:0}
+.slot .tag{position:absolute;left:4px;top:4px;background:#000a;border-radius:6px;padding:0 6px;font-size:12px;color:#fff}
+.x{position:absolute;top:4px;right:4px;width:24px;height:24px;border-radius:50%;border:0;background:#000a;color:#fff;cursor:pointer;z-index:2}
+.lay{display:flex;gap:6px;flex-wrap:wrap}
+.lay button{width:66px;height:42px;border-radius:6px;border:1px solid var(--line);background:#0d0704;position:relative;cursor:pointer;padding:0}
+.lay button.on{outline:2px solid var(--gold)}
+.lay button i{position:absolute;background:var(--gold);opacity:.85}
+.lay small{display:block;font-size:11px;color:var(--dim);text-align:center}
+details summary{cursor:pointer;color:var(--gold)}
+pre.p{white-space:pre-wrap;font:12px/1.5 Consolas,monospace;background:#0d0704;padding:8px;border-radius:8px;max-height:9em;overflow:auto}
+.progress{height:8px;background:#0d0704;border-radius:4px;overflow:hidden}.progress div{height:100%;background:var(--gold)}
+.good{color:var(--ok)}.warn{color:var(--bad)}
+video.result{width:100%;border-radius:12px;margin-top:8px}
+.steps li{margin:4px 0}
+</style>
+</head>
+<body>
+<header>
+  <h1>🎙️ ప్రెజెంటర్ వీడియో</h1>
+  <select id="pick"></select>
+  <a class="btn" href="/">← Shorts</a>
+  <a class="btn" href="/movie">సినిమా / లాంగ్ వీడియోలు</a>
+  <button class="btn" onclick="fetch('/api/open?what=out',{method:'POST'})">📂 తయారైన వీడియోలు</button>
+</header>
+<main id="main"><p class="hint">లోడ్ అవుతోంది…</p></main>
+<input type="file" id="picker" hidden>
+<script>
+const $ = (s) => document.querySelector(s);
+const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]));
+let list = [], D = null, M = null, cur = null;
+const q = () => `pid=${encodeURIComponent(cur)}`;
+const ROLE = {hook: 'హుక్', intro: 'పరిచయం', title: 'శీర్షిక', film: '🎬 సినిమాల్లో', valmiki: '📜 వాల్మీకి', sloka: '🕉️ శ్లోకం', outro: 'ముగింపు'};
+// each layout drawn as a tiny screen: the gold shape is where you appear (x, y, w, h in %; round = circle)
+const LAY = {
+  'auto': ['ఆటో', null], 'full': ['పూర్తి', [0, 0, 100, 100]], 'pic': ['చిత్రమే', []],
+  'circle-br': ['వృత్తం ↘', [74, 58, 22, 36, 1]], 'circle-bl': ['వృత్తం ↙', [4, 58, 22, 36, 1]],
+  'circle-tr': ['వృత్తం ↗', [74, 6, 22, 36, 1]], 'circle-tl': ['వృత్తం ↖', [4, 6, 22, 36, 1]],
+  'side-left': ['ఎడమ 9:16', [0, 0, 32, 100]], 'side-right': ['కుడి 9:16', [68, 0, 32, 100]],
+  'split': ['సగం-సగం', [50, 0, 50, 100]], 'card-right': ['కార్డు →', [74, 8, 22, 84]], 'card-left': ['← కార్డు', [4, 8, 22, 84]]};
+
+function offline() { if (!$('#offline')) document.body.insertAdjacentHTML('afterbegin', '<p id="offline" class="warn" style="padding:10px 20px">వీడియో మేకర్ ఆగిపోయింది – START_VIDEO_MAKER.bat మళ్ళీ తెరవండి.</p>'); }
+async function init() {
+  try { list = await (await fetch('/api/presenters')).json(); } catch (e) { return offline(); }
+  $('#pick').innerHTML = list.map((p) => `<option value="${esc(p.id)}">${esc(p.badge)} · ${p.segments} భాగాలు</option>`).join('');
+  $('#pick').onchange = () => load($('#pick').value);
+  if (list.length) load(list[0].id);
+}
+async function load(id) {
+  cur = id;
+  D = await (await fetch(`/api/presenter?${q()}`)).json();
+  M = (await (await fetch(`/api/presenter-media?${q()}`)).json()).media;
+  draw(); refreshJob();
+}
+function layIcon(k, on, seg) {
+  const [label, r] = LAY[k];
+  const shape = r && r.length ? `<i style="left:${r[0]}%;top:${r[1]}%;width:${r[2]}%;height:${r[3]}%;border-radius:${r[4] ? '50%' : '3px'}"></i>` : '';
+  return `<div><button class="${on ? 'on' : ''}" title="${esc(label)}" onclick="setLayout(${seg},'${k}')">${k === 'auto' ? '<small style="padding-top:10px">ఆటో</small>' : shape}</button><small>${esc(label)}</small></div>`;
+}
+function slot(seg, name, label, accept) {
+  const m = (M.segs[seg] || {})[name];
+  const qs = `seg=${seg}&slot=${name}`;
+  const body = !m ? `${label}<br>వదలండి / క్లిక్` : m.video ? `<video src="${m.url}" muted></video>` : /\.(png|jpe?g|webp)$/i.test(m.name) ? `<img src="${m.url}">`
+    : `🔊 ${esc(m.name)}<br>${m.dur ? m.dur.toFixed(1) + ' సె' : ''}`;
+  return `<div class="slot ${m ? 'has' : ''}" data-q="${qs}" data-accept="${accept}" onclick="pick('${qs}','${accept}')">
+    ${m ? `<button class="x" onclick="event.stopPropagation();removeSlot('${qs}')">✕</button><span class="tag">${label}</span>` : ''}${body}<div class="bar"></div></div>`;
+}
+function draw() {
+  const segs = D.segments;
+  const withCam = segs.filter((s) => (M.segs[s.no] || {}).cam).length;
+  const withVoice = segs.filter((s) => (M.segs[s.no] || {}).voice).length;
+  const withPic = segs.filter((s) => (M.segs[s.no] || {}).pic).length;
+  $('#main').innerHTML = `
+  <h2>${esc(D.headline)}</h2>
+  <p class="hint">${esc(D.title)}</p>
+  <div class="card">
+    <b>ఎలా చేయాలి</b>
+    <ol class="steps">
+      <li><b>📹 మీ వీడియో</b>: ప్రతి భాగం పక్కన ఉన్న మాటలు చదువుతూ ఫోన్‌లో రికార్డ్ చేయండి (నిలువుగా 9:16 లేదా అడ్డంగా 16:9 – ఏదైనా సరే, ఫ్రేమ్‌కి తగ్గట్టు కత్తిరిస్తాం). ముఖం మధ్యలో, వెలుతురు ముందు నుండి. ప్రతి భాగం వేరే క్లిప్‌గా సేవ్ చేసి "📹 మీరు" బాక్స్‌లో వదలండి – మీ గొంతు కూడా అందులోనే వస్తుంది. <b>వీడియో లేకపోతే మీ ఫోటో</b> పెట్టినా చాలు: అది మెల్లగా కదులుతూ, వాయిస్‌కి తగ్గట్టు మెరుస్తుంది (ఆ భాగానికి 🔊 వాయిస్ తప్పనిసరి – మీ గొంతు రికార్డింగ్ అయినా సరే).</li>
+      <li><b>🔊 ElevenLabs</b> (ఐచ్ఛికం): ఏ భాగమైనా మీరు చెప్పకూడదనుకుంటే ఆ మాటలు ElevenLabs లో చేసి "🔊 వాయిస్" లో వదలండి. వాయిస్ ఉంటే మీ వీడియో మ్యూట్ అవుతుంది (మీరు వింటున్నట్లు కనిపిస్తారు).</li>
+      <li><b>🖼️ చిత్రాలు</b>: ఆ భాగం ప్రాంప్ట్‌లతో చేసిన ఇమేజ్ / వీడియో (మూడు వరకు) – ప్రాంప్ట్‌లు ప్రతి కార్డులో ఉన్నాయి.</li>
+      <li><b>📐 మీరు ఎక్కడ కనిపించాలి</b>: ఆటో వదిలేస్తే మంచి ఎడిటర్‌లా మారుతూ ఉంటుంది (సినిమా భాగం → కుడి 9:16, వాల్మీకి భాగాలు → వృత్తం / సగం / కార్డు వంతులవారీగా). కావాలంటే ఏ భాగానికైనా మార్చండి – మీరు ఒక చోట నుండి ఇంకో చోటికి నెమ్మదిగా జారుతూ వెళ్తారు.</li>
+      <li>సంగీతం (Shorts లో పెట్టిన 5 భావాలవే), ఛానల్ ఇంట్రో, చివరి బ్యానర్ ఆటోమేటిక్‌గా వస్తాయి.</li>
+    </ol>
+    <p class="hint">📹 ${withCam} / ${segs.length} · 🔊 ${withVoice} · 🖼️ ${withPic} · ${M.shared.intro ? 'ఇంట్రో ✓' : 'ఇంట్రో లేదు'} · ${M.shared.banner ? 'బ్యానర్ ✓' : 'బ్యానర్ లేదు'}</p>
+    <div class="row">
+      <a class="btn" href="http://localhost:3000/${encodeURIComponent(D.id)}" target="_blank">👁️ Studio లో ప్లే చేసి చూడండి</a>
+      <button class="btn" onclick="fetch('/api/open?${q()}',{method:'POST'})">📂 ఫోల్డర్</button>
+      <button class="btn" onclick="copy(this, D.segments.map((s) => s.no + '. ' + s.text).join('\\n\\n'))">📋 మొత్తం స్క్రిప్ట్ కాపీ (రికార్డింగ్ కోసం)</button>
+      <button class="btn main" id="go" onclick="make()">🎬 వీడియో తయారు చేయండి</button>
+    </div>
+    <div id="job"></div>
+  </div>
+  ${segs.map((s) => {
+    const chosen = M.layouts[s.no] || 'auto';
+    return `<div class="card">
+      <div class="row"><b>${s.no}.</b> <span class="role ${s.role}">${esc(ROLE[s.role] || s.role)}</span> <span>${esc(s.label)}</span>
+        <span class="hint" style="margin:0">ఆటో: ${esc(LAY[s.layout] ? LAY[s.layout][0] : s.layout)} · సంగీతం: ${esc(s.mood)} · ~${s.est} సె</span></div>
+      <div class="cols" style="margin-top:8px">
+        <div>
+          <div class="say">${esc(s.text)}</div>
+          <div class="row" style="margin-top:6px"><button class="btn" onclick="copy(this, D.segments[${s.no - 1}].text)">📋 మాటలు కాపీ</button></div>
+          ${s.onscreen ? `<p class="hint">తెరపై: ${esc(s.onscreen)}</p>` : ''}
+          ${s.imagePrompt ? `<details><summary>🖼️ ప్రాంప్ట్‌లు (మొదటి / చివరి ఇమేజ్ / వీడియో)</summary>
+            ${[['1. మొదటి ఇమేజ్', 'imagePrompt'], ['2. చివరి ఇమేజ్', 'endImagePrompt'], ['3. వీడియో', 'videoPrompt']].map(([l, k]) => s[k] ? `<p class="row"><b>${l}</b>
+              <button class="btn" onclick="copy(this, D.segments[${s.no - 1}]['${k}'])">📋 కాపీ</button></p><pre class="p">${esc(s[k])}</pre>` : '').join('')}
+            ${s.refs && s.refs.length ? `<p class="hint">రిఫరెన్స్: ${s.refs.map((r) => esc(r) + '.png').join(' · ')}</p>` : ''}</details>` : ''}
+        </div>
+        <div>
+          <div class="slots">${slot(s.no, 'cam', '📹 మీరు', 'video/*,image/*')}${slot(s.no, 'voice', '🔊 వాయిస్', 'audio/*')}${slot(s.no, 'pic', '🖼️ 1', 'image/*,video/*')}${slot(s.no, 'pic_2', '🖼️ 2', 'image/*,video/*')}${slot(s.no, 'pic_3', '🖼️ 3', 'image/*,video/*')}</div>
+          <p class="hint" style="margin-top:10px">📐 మీరు ఎక్కడ కనిపించాలి${(M.segs[s.no] || {}).cam ? '' : ' (మీ వీడియో పెట్టాక పనిచేస్తుంది)'}</p>
+          <div class="lay">${Object.keys(LAY).map((k) => layIcon(k, k === chosen, s.no)).join('')}</div>
+        </div>
+      </div>
+    </div>`;
+  }).join('')}`;
+  for (const el of document.querySelectorAll('[data-q]')) dropTarget(el);
+}
+async function setLayout(seg, k) {
+  M = (await (await fetch(`/api/layout?${q()}&seg=${seg}&layout=${k}`, {method: 'POST'})).json()).media; draw();
+}
+function dropTarget(el) {
+  el.addEventListener('dragover', (e) => { e.preventDefault(); el.classList.add('drag'); });
+  el.addEventListener('dragleave', () => el.classList.remove('drag'));
+  el.addEventListener('drop', (e) => { e.preventDefault(); el.classList.remove('drag'); const f = e.dataTransfer.files[0]; if (f) upload(el.dataset.q, f, el); });
+}
+function pick(qs, accept) {
+  const p = $('#picker'); p.accept = accept;
+  p.onchange = () => { if (p.files[0]) upload(qs, p.files[0], document.querySelector(`[data-q="${qs}"]`)); p.value = ''; };
+  p.click();
+}
+function upload(qs, file, el) {
+  const xhr = new XMLHttpRequest();
+  xhr.open('POST', `/api/upload?${q()}&${qs}&name=${encodeURIComponent(file.name)}`);
+  const bar = el && el.querySelector('.bar');
+  xhr.upload.onprogress = (e) => { if (bar && e.lengthComputable) bar.style.width = (100 * e.loaded / e.total) + '%'; };
+  xhr.onerror = offline;
+  xhr.onload = () => { const r = JSON.parse(xhr.responseText); if (xhr.status !== 200) return alert(r.error || 'అప్‌లోడ్ కాలేదు'); M = r.media; draw(); };
+  xhr.send(file);
+}
+async function removeSlot(qs) {
+  if (!confirm('ఈ ఫైల్ తీసివేయాలా?')) return;
+  M = (await (await fetch(`/api/remove?${q()}&${qs}`, {method: 'POST'})).json()).media; draw();
+}
+function copy(btn, text) {
+  navigator.clipboard.writeText(text).then(() => { const t = btn.textContent; btn.textContent = 'కాపీ అయింది ✓'; setTimeout(() => (btn.textContent = t), 1500); });
+}
+let poll = null;
+async function make() {
+  let r;
+  try { r = await fetch(`/api/render?${q()}`, {method: 'POST'}); } catch (e) { return offline(); }
+  const j = await r.json(); if (r.status !== 200) return alert(j.error);
+  refreshJob();
+}
+async function refreshJob() {
+  clearTimeout(poll);
+  let j; try { j = await (await fetch('/api/status')).json(); } catch (e) { return; }
+  const box = $('#job'); if (!box) return;
+  const mine = j.id && j.id === cur;
+  if ($('#go')) $('#go').disabled = j.state === 'running';
+  if (j.state === 'running') {
+    box.innerHTML = `<p>${mine ? 'తయారవుతోంది…' : 'ఇంకో వీడియో తయారవుతోంది…'} ${j.progress}%</p><div class="progress"><div style="width:${j.progress}%"></div></div>`;
+    poll = setTimeout(refreshJob, 2000);
+  } else if (mine && j.state === 'done') {
+    box.innerHTML = `<p class="good">✓ తయారైంది · out/${esc(j.file)}</p>${checkHtml(j)}<video class="result" controls src="/out/${encodeURIComponent(j.file)}?t=${Date.now()}"></video>`;
+  } else if (mine && j.state === 'error') {
+    box.innerHTML = `<p class="warn">తయారు కాలేదు. ఈ లోపం Claude కి చూపించండి:</p><pre class="p">${esc(j.log)}</pre>`;
+  } else if (D.outputs && D.outputs.length) {
+    box.innerHTML = `<p class="hint">ఇంతకు ముందు తయారైనవి: ${D.outputs.map((f) => `<a href="/out/${encodeURIComponent(f)}" target="_blank">${esc(f)}</a>`).join(' · ')}</p>`;
+  } else box.innerHTML = '';
+}
+setInterval(() => fetch('/api/status').then(() => { const b = $('#offline'); if (b) b.remove(); }).catch(offline), 4000);
+init();
+// the upload check after every render (tools/master_check.py): green when ready, otherwise what to look at
+function checkHtml(j) {
+  if (!j.check) return '';
+  return `<div style="margin:8px 0;padding:10px 14px;border-radius:10px;background:${j.check.ok ? 'rgba(95,207,128,.12)' : 'rgba(255,123,107,.12)'}">
+    <b>${j.check.ok ? '✓ అప్‌లోడ్‌కి సిద్ధం' : '⚠ అప్‌లోడ్ ముందు ఇవి చూడండి'}</b>
+    <ul style="margin:6px 0 0;padding-left:20px">${j.check.lines.map((l) => '<li>' + esc(l) + '</li>').join('')}</ul></div>`;
+}
+</script>
+</body>
+</html>

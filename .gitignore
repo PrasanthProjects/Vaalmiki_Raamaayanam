@@ -27,3 +27,6 @@ Valmiki_Ramayanam/*/Sarga_*/overlays/Sloka_*/
 
 # Valmiki Cinema phone pages (rebuilt by Valmiki_Cinema/_tools/cinema_build.py)
 Valmiki_Cinema/publish/
+
+# ElevenLabs API key (never commit)
+.env.local

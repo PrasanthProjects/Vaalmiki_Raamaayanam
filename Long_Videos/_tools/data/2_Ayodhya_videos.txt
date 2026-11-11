@@ -26,39 +26,39 @@ E2.47 16 | నాకు ఇవ్వాళ దశరథ మహారాజున
 E2.31 3 | ఈ మాటలు విన్న కైకేయ చాలా తేలికగా => భరతుడి ప్రశ్నకు కైకేయ చాలా తేలికగా
 
 # Famous slokas kept; the line after each tells its meaning, the card shows it on screen.
-KEEP E2.02 25
+# KEEP E2.02 25   (user 2026-11-11: only famous ślokas recited)
 CARD E2.02 25 | రాముడు లోకంలో సత్పురుషుడు, సత్యానికి ధర్మానికి అంకితమైనవాడు. ధర్మం, సంపద రెండూ రాముడిలోనే నిలిచి ఉన్నాయి.
 KEEP E2.10 3
 CARD E2.10 3 | అమ్మా, మహారాజు కోరిక ఏమిటో చెప్పు. చేస్తానని మాట ఇస్తున్నాను. రాముడు రెండు మాటలు మాట్లాడడు.
-KEEP E2.10 9
+# KEEP E2.10 9   (user 2026-11-11: only famous ślokas recited)
 CARD E2.10 9 | సీతను, రాజ్యాన్ని, నా ప్రాణాలను, ఇష్టమైన ధనాన్ని, ఎవరూ అడగకుండానే సంతోషంగా తమ్ముడు భరతుడికి ఇచ్చేస్తాను.
-KEEP E2.12 18
+# KEEP E2.12 18   (user 2026-11-11: only famous ślokas recited)
 CARD E2.12 18 | లోకంలో ధర్మమే గొప్పది. ధర్మంలోనే సత్యం నిలిచి ఉంది. తండ్రి మాట కూడా ఆ ధర్మం మీదే నిలబడింది.
-KEEP E2.14 21
+# KEEP E2.14 21   (user 2026-11-11: only famous ślokas recited)
 CARD E2.14 21 | తండ్రి, కొడుకు, తను, తల్లి, స్నేహితులు, ఎవరూ కాదు. ఈ లోకంలో, పరలోకంలో స్త్రీకి భర్తే ఎప్పుడూ గతి.
-KEEP E2.18 8
+# KEEP E2.18 8   (user 2026-11-11: only famous ślokas recited)
 CARD E2.18 8 | పెళ్ళైన ప్రతి వ్యక్తికి భార్య తన ఆత్మే. రాముడి ఆత్మ అయిన సీతమ్మే ఈ భూమిని పాలిస్తుంది.
-KEEP E2.22 11
+# KEEP E2.22 11   (user 2026-11-11: only famous ślokas recited)
 CARD E2.22 11 | అక్కడ గుహుడు అనే రాజు ఉన్నాడు. రాముడికి ప్రాణ స్నేహితుడు. నిషాద జాతివాడు, బలవంతుడు, ఆ ప్రాంతానికి అధిపతి.
-KEEP E2.24 4
+# KEEP E2.24 4   (user 2026-11-11: only famous ślokas recited)
 CARD E2.24 4 | రాఘవా, నువ్వు లేకుండా సీతమ్మ కానీ, నేను కానీ, నీటి నుండి బయటకు తీసిన చేపల్లా ఒక్క క్షణం కూడా బతకలేము.
-KEEP E2.28 11
+# KEEP E2.28 11   (user 2026-11-11: only famous ślokas recited)
 CARD E2.28 11 | రాజే సత్యం, రాజే ధర్మం, రాజే వంశాలకు ఆధారం. రాజే ప్రజలకు తల్లి, తండ్రి, మేలు చేసేవాడు.
-KEEP E2.31 2
+# KEEP E2.31 2   (user 2026-11-11: only famous ślokas recited)
 CARD E2.31 2 | సమస్త ప్రాణులు చివరికి ఏ గతికి చేరుకుంటాయో, మహాత్ముడు, తేజస్వి అయిన మీ నాన్న కూడా ఆ గతికే వెళ్ళాడు.
-KEEP E2.35 10
+# KEEP E2.35 10   (user 2026-11-11: only famous ślokas recited)
 CARD E2.35 10 | మాలో పెద్దవాడైన రాముడే రాజు అవుతాడు. నేను ఆయన బదులు పధ్నాలుగేళ్ళు అడవిలో ఉంటాను.
-KEEP E2.39 21
+# KEEP E2.39 21   (user 2026-11-11: only famous ślokas recited)
 CARD E2.39 21 | సీతమ్మ నగలతోనే ఈ పడక మీద పడుకుని ఉంటుంది. అందుకే అక్కడక్కడ బంగారు రవ్వలు అంటుకుని కనిపిస్తున్నాయి.
-KEEP E2.41 18
+# KEEP E2.41 18   (user 2026-11-11: only famous ślokas recited)
 CARD E2.41 18 | అక్కడ దివ్య సింహాసనం, వింజామర, గొడుగు ఉన్నాయి. భరతుడు మంత్రులతో కలిసి, రాముడే అక్కడ ఉన్నట్టు వాటికి నమస్కరించాడు.
-KEEP E2.43 20
+# KEEP E2.43 20   (user 2026-11-11: only famous ślokas recited)
 CARD E2.43 20 | జింక చర్మం, నారచీరలు ధరించి, అగ్నిలా వెలిగిపోతూ కూర్చున్న రాముడిని భరతుడు చూశాడు.
-KEEP E2.46 15
+# KEEP E2.46 15   (user 2026-11-11: only famous ślokas recited)
 CARD E2.46 15 | భరతా, నువ్వు నరులకు రాజువి అవ్వు. నేను అడవిలోని మృగాలకు రాజునవుతాను.
 KEEP E2.47 14
 CARD E2.47 14 | లోకంలో సత్యమే ఈశ్వరుడు. లక్ష్మి సత్యాన్నే ఆశ్రయించి ఉంటుంది. అన్నిటికీ సత్యమే మూలం. సత్యాన్ని మించిన పరమ పదం లేదు.
-KEEP E2.49 8
+# KEEP E2.49 8   (user 2026-11-11: only famous ślokas recited)
 CARD E2.49 8 | అప్పుడు భరతుడు ఆ పాదుకలను శిరస్సున పెట్టుకుని, సంతోషంగా శత్రుఘ్నుడితో కలిసి రథం ఎక్కాడు.
 
 # Videos that open mid-episode.
@@ -260,11 +260,11 @@ PLACE E2.49 10-11 | AYODHYA_COURT
 PLACE E2.50 2,4-12,18-20 | ATRI_ASHRAM
 
 # Three more slokas where the videos ran just under ten minutes.
-KEEP E2.07 5
+# KEEP E2.07 5   (user 2026-11-11: only famous ślokas recited)
 CARD E2.07 5 | రాఘవుడి కోసం సిద్ధం చేసిన ఈ పట్టాభిషేక సన్నాహాలతోనే, నా భరతుడికి పట్టాభిషేకం జరగాలి.
-KEEP E2.40 11
+# KEEP E2.40 11   (user 2026-11-11: only famous ślokas recited)
 CARD E2.40 11 | పూజ్యులైన మీరు కూడా నన్ను ఇలా అనుమానిస్తే, నేను చచ్చిపోయినట్టే. నా వల్ల ఏ దోషం జరగలేదు. నన్ను ఇలా అనకండి.
-KEEP E2.42 7
+# KEEP E2.42 7   (user 2026-11-11: only famous ślokas recited)
 CARD E2.42 7 | భరతా, కైకేయిని దోషిగా చూడకు. రాముడి ఈ వనవాసం చివరికి అందరికీ సుఖాన్నే ఇస్తుంది.
 
 # Rama's reply to Vasishtha (2.111): the point is the father's word; the body detail goes, as in Jabali's speech.
@@ -350,3 +350,7 @@ TONE E2.29 17 | tense
 
 # Where each video starts (pinned, so that a narration fix never re-cuts the kaanda; edit this line to re-cut).
 CUTS | E2.01, E2.02 21, E2.04, E2.05 23, E2.08, E2.09 14, E2.11 10, E2.13, E2.15, E2.17, E2.19, E2.21, E2.23 7, E2.25 16, E2.27 22, E2.29 17, E2.32 9, E2.34 17, E2.38, E2.40, E2.41 21, E2.43 14, E2.45, E2.47, E2.49
+
+
+# user 2026-11-11: bridge lines interrupt the story
+BRIDGES | off

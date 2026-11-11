@@ -3,21 +3,21 @@
 # Slokas kept on screen, each with its meaning card
 KEEP E5.01 2
 CARD E5.01 2 | సుందరకాండలో రాముడు సుందరుడు, కథ సుందరం, సీతమ్మ సుందరి, వనం సుందరం, కావ్యం సుందరం, హనుమ సుందరుడు, మంత్రం సుందరం. సుందరకాండలో సుందరం కానిది ఏముంది?
-KEEP E5.01 6
+# KEEP E5.01 6   (user 2026-11-11: only famous ślokas recited)
 CARD E5.01 6 | రావణుడు ఎత్తుకుపోయిన సీతమ్మ జాడ వెతకడానికి హనుమంతుడు చారణులు వెళ్ళే ఆకాశ మార్గంలో వెళ్ళాలని సంకల్పించాడు.
-KEEP E5.13 16
+# KEEP E5.13 16   (user 2026-11-11: only famous ślokas recited)
 CARD E5.13 16 | అమ్మా! నేను వానరుడిని, బుద్ధిమంతుడైన రాముడి దూతను. రాముడి పేరు చెక్కిన ఈ ఉంగరం చూడు.
-KEEP E5.13 17
+# KEEP E5.13 17   (user 2026-11-11: only famous ślokas recited)
 CARD E5.13 17 | నీకు నమ్మకం కలగడానికి ఆయనే ఇది ఇచ్చి పంపాడు. ధైర్యంగా ఉండు, నీ కష్టాలు తీరిపోయాయి.
 KEEP E5.17 3
 CARD E5.17 3 | అతి బలవంతుడైన రాముడికి జయం, మహాబలుడైన లక్ష్మణుడికి జయం. రాముడి రక్షణలో ఉన్న సుగ్రీవ మహారాజుకు జయం.
 KEEP E5.17 4
 CARD E5.17 4 | ఏ పనైనా అలుపు లేకుండా చేసే కోసల రాజు రాముడికి నేను దాసుడిని. శత్రు సైన్యాలను నాశనం చేసే వాయుపుత్రుడు హనుమను నేను.
-KEEP E5.17 5
+# KEEP E5.17 5   (user 2026-11-11: only famous ślokas recited)
 CARD E5.17 5 | వెయ్యి మంది రావణులు వచ్చినా యుద్ధంలో నాకు సాటి కారు. వేల కొద్దీ రాళ్ళతో, చెట్లతో కొడతాను.
-KEEP E5.17 6
+# KEEP E5.17 6   (user 2026-11-11: only famous ślokas recited)
 CARD E5.17 6 | లంకను నాశనం చేసి, సీతమ్మకు నమస్కరించి, రాక్షసులంతా చూస్తుండగానే పని పూర్తి చేసుకుని వెళతాను.
-KEEP E5.16 8
+# KEEP E5.16 8   (user 2026-11-11: only famous ślokas recited)
 CARD E5.16 8 | సుగ్రీవుడి దగ్గర నాతో సమానమైనవాళ్ళు, నాకన్నా గొప్పవాళ్ళు ఉన్నారు. నాకన్నా తక్కువవాడు ఒక్కడూ లేడు.
 KEEP E5.06 17
 CARD E5.06 17 | లక్ష్మణుడితో కూడిన రాముడికి, జనకుని కూతురు సీతమ్మకు నమస్కారం. రుద్రుడికి, ఇంద్రుడికి, యముడికి, వాయుదేవుడికి, చంద్రుడికి, సూర్యుడికి, దేవతలందరికీ నమస్కారం.
@@ -177,8 +177,8 @@ PLACE E5.22 16-25 | PRASRAVANA_CAVE
 # The four Jaya-mantra cards: the scene line was only a casting note
 VIS E5.17 3 | Hanuman (in his great battle form) seated on the great archway of the Ashoka grove, proclaiming to the city; the shloka in gold lettering over a darkened hold of the scene
 VIS E5.17 4 | Hanuman (in his great battle form) on the archway, one hand on his heart as he names himself Rama's servant; the shloka in gold lettering over a darkened hold of the scene
-VIS E5.17 5 | Hanuman (in his great battle form) on the archway, a great rock and an uprooted tree beside him; the shloka in gold lettering over a darkened hold of the scene
-VIS E5.17 6 | Hanuman (in his great battle form) on the archway looking out over golden Lanka; the shloka in gold lettering over a darkened hold of the scene
+# VIS E5.17 5 | Hanuman (in his great battle form) on the archway, a great rock and an uprooted tree beside him; the shloka in gold lettering over a darkened hold of the scene
+# VIS E5.17 6 | Hanuman (in his great battle form) on the archway looking out over golden Lanka; the shloka in gold lettering over a darkened hold of the scene
 
 # Who is really on screen (the scene lines name some people only in passing)
 CAST E5.01 11,14,17,20-22 | HANUMAN
@@ -543,3 +543,7 @@ E5.22 19 | కిష్కింధకి చేరిపోయారు. => ర
 # Kept slokas spelled as in Valmiki (5-36-2, 5-42-36)
 E5.13 16 | దేవ్యంహుళీయకం => దేవ్యంగుళీయకం
 E5.17 6 | అర్ధయిత్వా => అర్దయిత్వా
+
+
+# user 2026-11-11: bridge lines interrupt the story
+BRIDGES | off

@@ -62,13 +62,13 @@
 7 | SHABARI | Shabari seeing Rama and starting to cry with joy. | She falls to her knees, motion slows. | Slow push-in. | Golden flash.
 
 ### 58
-1 | HANUMAN | Hanuman disguised as a young brahmin by Pampa lake. | He walks gracefully toward the camera. | Slow push-in. | Golden lake light.
+1 | HANUMAN, RAMA_S3, LAKSHMANA | Hanuman disguised as a young brahmin approaching Rama and Lakshmana on the bank of Pampa lake, palms joined in greeting; the two brothers in bark cloth turn toward him. | He walks gently toward them and bows his head; Rama looks at him with a warm smile. | Slow push-in. | Golden lake light.
 2 | SHABARI, RAMA_S3 | Shabari offering fruits to Rama. | Rama accepts the fruit with a smile. | Slow push-in. | Warm golden light.
 3 | SHABARI | Shabari bowing at Rama's feet. | She touches his feet joyfully. | Slow crane down. | Soft divine glow.
-4 | HANUMAN | Hanuman revealing his true form. | His disguise dissolves into his vanara form. | Slow orbit. | Golden transformation light.
-5 | HANUMAN, RAMA_S3 | Hanuman bowing before Rama with folded hands. | He bows deeply. | Slow push-in. | Divine golden light.
+4 | HANUMAN, RAMA_S3, LAKSHMANA | On the bank of Pampa lake, Hanuman, having set aside his brahmin disguise, standing in his own vanara form before Rama and Lakshmana with palms joined, the lotus lake behind them. | Hanuman lowers his head in devotion; Rama looks at him kindly and Lakshmana watches. | Slow push-in. | Golden lake light.
+5 | HANUMAN, RAMA_S3, LAKSHMANA | Hanuman bowing before Rama with folded hands on the bank of Pampa lake, Lakshmana beside Rama. | He bows deeply; Rama raises a hand in blessing. | Slow push-in. | Divine golden light.
 6 | - | Symbolic shot: two lamps meeting and joining flames. | The flames merge. | Slow macro push-in. | Warm sparkle.
-7 | HANUMAN, RAMA_S3 | Hanuman lifting Rama and Lakshmana onto his shoulders. | He leaps upward, motion slows. | Slow tilt up. | Golden sky, soft flash.
+7 | HANUMAN, RAMA_S3, LAKSHMANA | Hanuman in his vanara form carrying Rama and Lakshmana on his broad shoulders, climbing the rocky slope of Rishyamuka mountain toward Sugriva. | He bounds up the rocks with them, motion slows. | Slow tilt up. | Golden evening light.
 
 ### 59
 1 | SUGRIVA | Sugriva hiding fearfully on Rishyamuka mountain. | He peeks out from behind a rock. | Slow push-in. | Moody mountain light.

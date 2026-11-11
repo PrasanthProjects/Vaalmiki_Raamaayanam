@@ -1,8 +1,9 @@
 import React from 'react';
 import {AbsoluteFill, Img, Sequence, interpolate, spring, useCurrentFrame, useVideoConfig, Easing} from 'remotion';
 import {Audio, Video} from '@remotion/media';
-import {END, FPS, HOOK, MEANING, MediaMap, SLOKA, Span, Timeline, VOICE_OF, WORDS, cues} from './timeline';
+import {CTA_GAP, END, FPS, HOOK, MEANING, Media, MediaMap, SLOKA, Span, Timeline, VOICE_OF, WORDS, cues} from './timeline';
 import {DEV, LAT, TE, TITLE} from './fonts';
+import {ambienceFor, momentIn} from './sound';
 
 export type Line = {orig: string; te: string; dev: string; iast: string};
 export type Word = {key: string; te: string; dev: string; iast: string; mte: string; mhi: string; men: string};
@@ -11,7 +12,7 @@ export type Sloka = {
   hook: {voice: string; screen: string};
   meaning: {voice: string; screen: string};
   end: {voice: string};
-  clips: {label: string; video: boolean; shows: string}[];
+  clips: {label: string; video: boolean; shows: string; says?: string; mood?: string}[];
   lines: Line[];
   words: Word[];
 };
@@ -34,34 +35,53 @@ const fade = (t: number, a: number, b: number, inS = 0.25, outS = 0.25) =>
 const inSpan = (t: number, s: Span) => t >= s.start && t < s.end;
 
 // ---------- pictures and videos ----------
-const Clip: React.FC<{i: number; span: Span; media: MediaMap; sloka: Sloka; first: boolean}> = ({i, span, media, sloka, first}) => {
+// How a picture comes in. Chosen by where it is in the story and the Short's mood, like a human editor would:
+// a warm flash into the śloka, a zoom-through into the story, slides (or soft fades for sorrow, fast whips for action)
+// between story pictures, a dip to dark before the ending, and quick fades between extra pictures in one box.
+export type Enter = 'none' | 'fade' | 'flash' | 'zoom' | 'slide' | 'whip' | 'dip';
+const ENTER_LEN: Record<Enter, number> = {none: 0, fade: 0.35, flash: 0.25, zoom: 0.45, slide: 0.4, whip: 0.3, dip: 0.5};
+
+// The camera move on a still picture, as an editor would pick it: push in on faces, rise toward the sky and gods,
+// drift across wide places, and otherwise alternate a slow push-in and a slow pull-back.
+export type Move = 'in' | 'out' | 'pan' | 'up';
+export function moveFor(shows: string, k: number): Move {
+  if (/close-up|close on|face|eyes|tears|smil|weep/i.test(shows)) return 'in';
+  if (/sky|celestial|divine|god|heaven|clouds|rising|ascend|glow/i.test(shows)) return 'up';
+  if (/wide|forest|landscape|city|army|ocean|river|path|valley|kingdom|crowd|land|hills/i.test(shows)) return k % 2 ? 'out' : 'pan';
+  return k % 2 ? 'out' : 'in';
+}
+function moveStyle(move: Move, z: number): string {
+  if (move === 'out') return `scale(${1.12 - 0.12 * z})`;
+  if (move === 'pan') return `scale(1.12) translateX(${40 - 80 * z}px)`;
+  if (move === 'up') return `scale(1.1) translateY(${40 - 80 * z}px)`;
+  return `scale(${1 + 0.12 * z})`;
+}
+
+export const Visual: React.FC<{m: Media | undefined; len: number; enter: Enter; fadeLen?: number; move: Move; placeholder: React.ReactNode}> = ({m, len, enter, fadeLen, move, placeholder}) => {
   const frame = useCurrentFrame();
-  const len = span.end - span.start;
   const t = frame / FPS;
-  const m = media[`clip${i + 1}`];
-  const opacity = first ? 1 : interpolate(t, [0, 0.35], [0, 1], {extrapolateRight: 'clamp'});
+  const d = (enter === 'fade' && fadeLen) || ENTER_LEN[enter] || 0.01;
+  const p = interpolate(t, [0, d], [0, 1], {extrapolateRight: 'clamp', easing: Easing.out(Easing.cubic)});
+  let style: React.CSSProperties = {};
+  if (enter === 'fade' || enter === 'flash' || enter === 'dip') style = {opacity: p};
+  if (enter === 'zoom') style = {opacity: Math.min(1, p * 2), transform: `scale(${1.3 - 0.3 * p})`, filter: `blur(${12 * (1 - p)}px)`};
+  if (enter === 'slide') style = {transform: `translateX(${(1 - p) * 100}%)`};
+  if (enter === 'whip') style = {transform: `translateX(${(1 - p) * 100}%)`, filter: `blur(${20 * (1 - p)}px)`};
+  let body = placeholder;
   if (m?.video) {
     const rate = m.dur ? Math.min(1, m.dur / len) : 1;
-    return (
-      <AbsoluteFill style={{opacity}}>
-        <Video src={m.url} muted playbackRate={rate} objectFit="cover" style={{width: '100%', height: '100%'}} />
-      </AbsoluteFill>
-    );
+    body = <Video src={m.url} muted playbackRate={rate} objectFit="cover" style={{width: '100%', height: '100%'}} />;
+  } else if (m) {
+    const z = interpolate(t, [0, len + 0.9], [0, 1], {extrapolateRight: 'clamp', easing: Easing.inOut(Easing.sin)});
+    body = <Img src={m.url} style={{width: '100%', height: '100%', objectFit: 'cover', transform: moveStyle(move, z)}} />;
   }
-  if (m) {
-    // The kit's "slow zoom-in (100% → 112%)"; every other picture also drifts up a little.
-    const p = interpolate(t, [0, len + 0.35], [0, 1], {extrapolateRight: 'clamp', easing: Easing.inOut(Easing.sin)});
-    const scale = 1 + 0.12 * p;
-    const y = i % 2 ? -30 * p : 0;
-    return (
-      <AbsoluteFill style={{opacity, overflow: 'hidden'}}>
-        <Img src={m.url} style={{width: '100%', height: '100%', objectFit: 'cover', transform: `translateY(${y}px) scale(${scale})`}} />
-      </AbsoluteFill>
-    );
-  }
+  return <AbsoluteFill style={{overflow: 'hidden', ...style}}>{body}</AbsoluteFill>;
+};
+
+const Placeholder: React.FC<{i: number; sloka: Sloka}> = ({i, sloka}) => {
   const c = sloka.clips[i];
   return (
-    <AbsoluteFill style={{opacity, background: 'radial-gradient(circle at 50% 35%, #5b2a10 0%, #24100a 55%, #0d0604 100%)',
+    <AbsoluteFill style={{background: 'radial-gradient(circle at 50% 35%, #5b2a10 0%, #24100a 55%, #0d0604 100%)',
       alignItems: 'center', justifyContent: 'center', padding: 90, textAlign: 'center'}}>
       <div style={{fontFamily: TE, color: 'rgba(246,207,106,.55)', fontSize: 64, fontWeight: 800}}>క్లిప్ {i + 1}</div>
       <div style={{fontFamily: TE, color: 'rgba(251,238,210,.5)', fontSize: 44, marginTop: 14}}>{c.label} · {c.video ? '🎥 వీడియో' : '🖼️ ఇమేజ్'}</div>
@@ -220,35 +240,169 @@ const EndCard: React.FC<{voice: string; part: Span; t: number}> = ({voice, part,
   );
 };
 
+// The channel banner (Branding/end_banner.png) over the closing request (like / share / subscribe / comment),
+// and always at least the last 2.5 s of the Short.
+const CTA_RE = /లైక్|షేర్|సబ్‌?స్క్రైబ్|సబ్స్క్రైబ్|కామెంట్|బెల్|జై శ్రీ ?రామ్/;
+function bannerFrom(voice: string, speech: Span, total: number): number {
+  const parts = voice.split(/(?<=[.!?…])\s+/);
+  const i = parts.findIndex((p) => CTA_RE.test(p));
+  let at = total - 2.5;
+  if (i >= 0) {
+    const before = parts.slice(0, i).join(' ').length;
+    at = Math.min(at, speech.start + (speech.end - speech.start) * (before / Math.max(1, voice.length)));
+  }
+  return Math.max(speech.start, at);
+}
+const Banner: React.FC<{url: string; from: number; t: number}> = ({url, from, t}) => {
+  if (t < from) return null;
+  const p = interpolate(t, [from, from + 0.45], [0, 1], {extrapolateRight: 'clamp', easing: Easing.out(Easing.cubic)});
+  return (
+    <AbsoluteFill style={{opacity: p, backgroundColor: '#000'}}>
+      <Img src={url} style={{width: '100%', height: '100%', objectFit: 'cover', transform: `scale(${1.06 - 0.06 * p})`}} />
+    </AbsoluteFill>
+  );
+};
+
 const Warning: React.FC<{text: string}> = ({text}) => (
   <div style={{position: 'absolute', top: 40, left: 40, right: 40, fontFamily: TE, fontSize: 28, color: '#fff', background: 'rgba(160,30,30,.85)',
     padding: '10px 18px', borderRadius: 14, textAlign: 'center'}}>{text}</div>
 );
 
+const STYLED = false; // styled transitions off: soft cross-fades only, and no transition sounds
+// The quieter "edited by a person" touches (tried 2026-11-08): cuts on sentence ends, camera moves chosen per picture,
+// slow dissolves into the śloka and the ending, sounds a moment before their picture, and one warm film look.
+const HUMAN = true;
+
+// a soft vignette and a fine moving grain over every picture, so pictures from different prompts feel like one film
+export const FilmLook: React.FC<{frame: number; w?: number; h?: number}> = ({frame, w = 1080, h = 1920}) => (
+  <>
+    <AbsoluteFill style={{background: 'radial-gradient(ellipse at 50% 45%, rgba(0,0,0,0) 55%, rgba(0,0,0,.32) 100%)'}} />
+    <AbsoluteFill style={{opacity: 0.07, mixBlendMode: 'overlay'}}>
+      <svg width={w} height={h}>
+        <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed={frame % 7} stitchTiles="stitch" /></filter>
+        <rect width="100%" height="100%" filter="url(#grain)" />
+      </svg>
+    </AbsoluteFill>
+  </>
+);
+
+// smooth a stepped level over ±0.4 s so the music rises and dips like a hand on the fader
+const smooth = (fn: (t: number) => number, t: number) => [-0.4, -0.2, 0, 0.2, 0.4].reduce((a, d) => a + fn(t + d), 0) / 5;
+
 export const Short: React.FC<ShortProps> = ({kandaTe, sarga, sloka, media, timeline, server}) => {
   const frame = useCurrentFrame();
   const t = frame / FPS;
   if (!timeline) return null;
-  const {parts, speech, clips, mode} = timeline;
+  const {parts, speech, clips, mode, lead} = timeline;
   const f = (s: number) => Math.round(s * FPS);
-  const fadeIn = f(0.35);
   const total = f(timeline.total);
-  const music = media.music ?? media.music_default;
+  const music = (media.bgm as unknown as Media | null) ?? media.music ?? media.music_default;
   const heading = `${kandaTe} · సర్గ ${sarga} · శ్లోకం ${sloka.n}`;
+  const mood = (media.mood as unknown as string) || 'calm';
+  const sfx = (name: string | null) => (name ? media['sfx_' + name] : undefined);
+
+  // every picture of every box (up to 3 per box), with how it comes in
+  const firstStory = clips[2] ? 2 : 3;
+  const between: Enter = mood === 'sad' ? 'fade' : mood === 'heroic' || mood === 'mystery' ? 'whip' : 'slide';
+  const shots: {box: number; m: Media | undefined; start: number; end: number; enter: Enter; fadeLen: number}[] = [];
+  // Change story pictures where a sentence of the meaning voice ends (as an editor cuts), not at even shares:
+  // each boundary moves to the nearest sentence end within 2.5 s, keeping every picture at least 2.5 s.
+  const box = clips.map((c) => (c ? {...c} : null));
+  if (HUMAN && mode === 'parts') {
+    const text = sloka.meaning.voice;
+    const sp = speech[MEANING];
+    const sents = text.split(/(?<=[.!?…])\s+/);
+    const ends: number[] = [];
+    let n = 0;
+    sents.forEach((x) => { n += x.length + 1; ends.push(sp.start + ((sp.end - sp.start) * Math.min(n, text.length)) / text.length + 0.15); });
+    const story = [2, 3, 4, 5].filter((i) => box[i]);
+    for (let j = 1; j < story.length; j++) {
+      const a = box[story[j - 1]]!, b = box[story[j]]!;
+      const next = box[story[j + 1]] || {end: box[6]!.start};
+      const ok = ends.filter((e) => Math.abs(e - b.start) <= 2.5 && e - a.start >= 2.5 && next.end - e >= 2.5);
+      if (ok.length) {
+        const e = ok.reduce((x, y) => (Math.abs(y - b.start) < Math.abs(x - b.start) ? y : x));
+        a.end = e;
+        b.start = e;
+      }
+    }
+  }
+  box.forEach((c, i) => {
+    if (!c) return;
+    const files = ['', '_2', '_3'].map((x) => media[`clip${i + 1}${x}`]).filter(Boolean) as Media[];
+    const list: (Media | undefined)[] = files.length ? files : [undefined];
+    // The user prefers the plain soft cross-fade everywhere (flash / zoom / whip / dip tried 2026-11-08, not liked).
+    // The other kinds stay in Enter for a later try; set STYLED = true to bring them back.
+    const boxEnter: Enter = i === 0 ? 'none' : !STYLED ? 'fade' : i === 1 ? 'flash' : i === firstStory ? 'zoom' : i === 6 ? 'dip' : between;
+    const step = (c.end - c.start) / list.length;
+    // a slow, soft dissolve into the śloka and into the ending; a quicker one between story pictures
+    const pace = !HUMAN ? 0.35 : i === 1 || i === 6 ? 0.8 : 0.3;
+    list.forEach((m, k) => shots.push({box: i, m, start: c.start + k * step, end: c.start + (k + 1) * step, enter: k ? 'fade' : boxEnter, fadeLen: k ? 0.35 : pace}));
+  });
+  const boundary = (e: Enter) => shots.filter((x) => x.enter === e).map((x) => x.start);
+  const flashO = Math.max(0, ...boundary('flash').map((b) => interpolate(t, [b - 0.12, b, b + 0.35], [0, 0.85, 0], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'})));
+  const dipO = Math.max(0, ...boundary('dip').map((b) => interpolate(t, [b - 0.4, b, b + 0.45], [0, 0.92, 0], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'})));
+
+  // sounds: one per transition, one per moment a picture shows, and a quiet background for the place
+  const transSfx: Record<Enter, string | null> = {none: null, fade: null, flash: 'shimmer', zoom: 'whoosh', slide: 'swish', whip: 'whoosh',
+    dip: mood === 'sad' ? null : mood === 'heroic' || mood === 'mystery' ? 'boom' : 'bell'};
+  const hits: {at: number; m: Media; vol: number}[] = [];
+  shots.forEach((x, k) => {
+    const tr = STYLED ? sfx(transSfx[x.enter]) : undefined;
+    if (tr && x.start > 0) hits.push({at: Math.max(0, x.start - 0.15), m: tr, vol: 0.35});
+    const mo = x.box === 1 ? undefined : sfx(momentIn(sloka.clips[x.box]?.shows || '', sloka.clips[x.box]?.mood || mood));
+    if (mo && (k === 0 || shots[k - 1].box !== x.box)) hits.push({at: Math.max(0, x.start + (HUMAN ? -0.3 : 0.25)), m: mo, vol: 0.4});
+  });
+  // music and background change with the story (user, 2026-11-11): each picture box has its own mood and place;
+  // neighbours with the same track join into one stretch, and stretches cross-fade over XF seconds.
+  const XF = 1.2;
+  const own = media.music as Media | undefined;   // the user's own track for this śloka: kept for the whole Short
+  type Stretch = {key: string; m: Media; start: number; end: number};
+  const stretches = (pick: (i: number) => Media | undefined) => {
+    const out: Stretch[] = [];
+    box.forEach((c, i) => {
+      if (!c) return;
+      const m = pick(i);
+      if (!m) return;
+      const last = out[out.length - 1];
+      if (last && last.key === m.url) last.end = Math.max(last.end, c.end);
+      else out.push({key: m.url, m, start: c.start, end: c.end});
+    });
+    if (out.length) { out[0].start = 0; out[out.length - 1].end = timeline.total; }
+    return out;
+  };
+  const moodAt = (i: number) => sloka.clips[i]?.mood || mood;
+  const musicParts = own ? [{key: own.url, m: own, start: 0, end: timeline.total}]
+    : stretches((i) => (media['music_' + moodAt(i)] as Media | undefined) ?? (media.music_default as Media | undefined) ?? music ?? undefined);
+  const ambParts = stretches((i) => sfx(ambienceFor([sloka.clips[i]?.shows || ''])));
+  const xfade = (g: Stretch, k: number, n: number, u: number) =>
+    (k ? interpolate(u, [g.start - XF / 2, g.start + XF / 2], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'}) : 1)
+    * (k < n - 1 ? interpolate(u, [g.end - XF / 2, g.end + XF / 2], [1, 0], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'}) : 1);
+  const noVoice = (u: number) => inSpan(u, parts[WORDS]) || (lead[MEANING] > 0 && u >= parts[MEANING].start && u < parts[MEANING].start + lead[MEANING]);
+  const ends = (fr: number) => interpolate(fr, [0, f(0.6), total - f(1.5), total], [0, 1, 1, 0], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'});
+  // music: low under the voice, lower under the chanting, up when only pictures and music play
+  const musicLevel = (u: number) => (inSpan(u, parts[SLOKA]) ? 0.07 : noVoice(u) ? 0.26 : 0.12);
+
   return (
     <AbsoluteFill style={{backgroundColor: '#000'}}>
-      {clips.map((c, i) => {
-        if (!c) return null;
-        const from = f(c.start);
-        const last = i === clips.length - 1;
-        return (
-          <Sequence key={i} from={from} durationInFrames={Math.max(1, (last ? total : f(c.end) + fadeIn) - from)} premountFor={30}>
-            <Clip i={i} span={c} media={media} sloka={sloka} first={i === 0} />
-          </Sequence>
-        );
-      })}
+      <AbsoluteFill style={{filter: HUMAN ? 'contrast(1.04) saturate(1.06) sepia(0.06)' : undefined}}>
+        {shots.map((x, k) => {
+          const from = f(x.start);
+          const last = k === shots.length - 1;
+          const nextFade = shots[k + 1]?.fadeLen ?? 0.35;
+          return (
+            <Sequence key={k} from={from} durationInFrames={Math.max(1, (last ? total : f(x.end) + f(nextFade + 0.15)) - from)} premountFor={30}>
+              <Visual m={x.m} len={x.end - x.start} enter={x.enter} fadeLen={x.fadeLen}
+                move={HUMAN ? moveFor(sloka.clips[x.box]?.shows || '', k) : 'in'} placeholder={<Placeholder i={x.box} sloka={sloka} />} />
+            </Sequence>
+          );
+        })}
+      </AbsoluteFill>
+      {HUMAN && <FilmLook frame={frame} />}
       {/* darker top and bottom so the words always read clearly */}
       <AbsoluteFill style={{background: 'linear-gradient(180deg, rgba(0,0,0,.45) 0%, rgba(0,0,0,0) 22%, rgba(0,0,0,0) 55%, rgba(0,0,0,.55) 100%)'}} />
+      {flashO > 0 && <AbsoluteFill style={{backgroundColor: '#fff3d6', opacity: flashO}} />}
+      {dipO > 0 && <AbsoluteFill style={{backgroundColor: '#000', opacity: dipO}} />}
 
       {/* On the pictures: only the śloka and the word meanings, with the heading (the user's choice).
           Captions go to YouTube as an SRT file (maker/server.mjs), so viewers can turn them on or off. */}
@@ -257,16 +411,38 @@ export const Short: React.FC<ShortProps> = ({kandaTe, sarga, sloka, media, timel
 
       {mode === 'parts' &&
         [HOOK, SLOKA, MEANING, END].map((i) => media[VOICE_OF[i]] && (
-          <Sequence key={i} from={f(parts[i].start)} durationInFrames={f(parts[i].end - parts[i].start) + 1}>
+          <Sequence key={i} from={f(parts[i].start + lead[i])} durationInFrames={f(parts[i].end - parts[i].start) + 1}>
             <Audio src={media[VOICE_OF[i]]!.url} />
           </Sequence>
         ))}
       {mode === 'full' && media.voice && <Audio src={media.voice.url} />}
-      {music && (
-        <Audio src={music.url} loop
-          volume={(fr) => (inSpan(fr / FPS, parts[SLOKA]) ? 0.07 : 0.12) *
-            interpolate(fr, [0, f(1), total - f(1.5), total], [0, 1, 1, 0], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'})} />
+      {mode === 'parts' && media.cta && media[VOICE_OF[END]]?.dur && (
+        <Sequence from={f(parts[END].start + lead[END] + media[VOICE_OF[END]]!.dur! + CTA_GAP)}>
+          <Audio src={media.cta.url} />
+        </Sequence>
       )}
+      {musicParts.map((g, k) => {
+        const from = f(Math.max(0, g.start - XF / 2));
+        return (
+          <Sequence key={'m' + k} from={from} durationInFrames={Math.max(1, Math.min(total, f(g.end + XF / 2)) - from)}>
+            <Audio src={g.m.url} loop volume={(fr) => { const u = (from + fr) / FPS; return smooth(musicLevel, u) * ends(from + fr) * xfade(g, k, musicParts.length, u); }} />
+          </Sequence>
+        );
+      })}
+      {ambParts.map((g, k) => {
+        const from = f(Math.max(0, g.start - XF / 2));
+        return (
+          <Sequence key={'a' + k} from={from} durationInFrames={Math.max(1, Math.min(total, f(g.end + XF / 2)) - from)}>
+            <Audio src={g.m.url} loop volume={(fr) => { const u = (from + fr) / FPS; return smooth((v) => (inSpan(v, parts[SLOKA]) ? 0.04 : 0.08), u) * ends(from + fr) * xfade(g, k, ambParts.length, u); }} />
+          </Sequence>
+        );
+      })}
+      {hits.map((h, k) => (
+        <Sequence key={'s' + k} from={f(h.at)} durationInFrames={Math.max(1, total - f(h.at))}>
+          <Audio src={h.m.url} volume={h.vol} />
+        </Sequence>
+      ))}
+      {media.banner && <Banner url={media.banner.url} from={bannerFrom(sloka.end.voice, speech[END], timeline.total)} t={t} />}
       {!server && <Warning text="వీడియో మేకర్ (START_VIDEO_MAKER.bat) తెరవలేదు – క్లిప్‌లు, వాయిస్ కనిపించవు" />}
     </AbsoluteFill>
   );

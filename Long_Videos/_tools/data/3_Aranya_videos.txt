@@ -6,9 +6,9 @@ KEEP E3.17 3
 CARD E3.17 3 | ఎప్పుడూ ఇష్టమైన మాటలే చెప్పేవాళ్ళు సులభంగా దొరుకుతారు. చేదుగా ఉన్నా మేలు చేసే మాట చెప్పేవాడు, దాన్ని వినేవాడు దొరకడం కష్టం.
 KEEP E3.17 12
 CARD E3.17 12 | రాముడు ధర్మానికి రూపం, సజ్జనుడు, సత్యమే పరాక్రమంగా కలవాడు. దేవతలకు ఇంద్రుడిలా, లోకమంతటికీ రాముడే రాజు.
-KEEP E3.22 19
+# KEEP E3.22 19   (user 2026-11-11: only famous ślokas recited)
 CARD E3.22 19 | నా భర్త మహాతేజస్వి, ఆయన వయసు ఇరవై ఐదు. నా వయసు పద్దెనిమిది సంవత్సరాలు.
-KEEP E3.29 22
+# KEEP E3.29 22   (user 2026-11-11: only famous ślokas recited)
 CARD E3.29 22 | అన్న అయినా, తమ్ముడు లక్ష్మణుడు చెప్పిన మంచి మాటలోని సారాన్ని రాముడు వెంటనే గ్రహించి స్వీకరించాడు.
 
 # Videos that open mid-episode: opening hook (FROM = scene whose picture it uses), what came before, and the
@@ -263,3 +263,7 @@ CAST E3.34 1 | -
 
 # Where each video starts (pinned, so that a narration fix never re-cuts the kaanda; edit this line to re-cut).
 CUTS | E3.01, E3.02 20, E3.04 10, E3.05 26, E3.07 20, E3.09 14, E3.11 22, E3.13 19, E3.16, E3.17 18, E3.19 20, E3.22, E3.23 19, E3.26 6, E3.28, E3.30, E3.32 9
+
+
+# user 2026-11-11: bridge lines interrupt the story
+BRIDGES | off

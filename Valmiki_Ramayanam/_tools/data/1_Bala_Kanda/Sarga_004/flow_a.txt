@@ -39,7 +39,7 @@
 2 | VALMIKI, LAVA, KUSHA, TAMASA_ASHRAM | Valmiki watching the two boys from his hut doorway with a fond smile. | Subtle movement; everyone keeps their place. | Slow side dolly. | Soft golden morning light.
 3 | VALMIKI, LAVA, KUSHA, TAMASA_ASHRAM | Closer view: Valmiki watching the two boys from his hut doorway with a fond smile. | A small gesture, calm and steady. | Slow push-in. | Soft golden morning light.
 4 | LAVA, KUSHA, TAMASA_ASHRAM | The two brothers sitting under a tree singing together. | Gentle, slow movement. | Slow pan left to right. | Soft golden morning light.
-5 | LAVA, KUSHA, TAMASA_ASHRAM | Close view of the brothers' bright, noble faces. | Soft natural movement. | Slow push-in. | Soft golden morning light.
+5 | VALMIKI, LAVA, KUSHA, TAMASA_ASHRAM | Valmiki looking with affection at Lava and Kusha, the two bright boys living in his ashram. | Valmiki smiles; the boys bow to him. | Slow push-in. | Soft golden morning light.
 6 | - | Symbolic shot: a small crown made of flowers resting on a simple wooden seat. | The light grows slowly brighter. | Slow push-in. | Soft golden morning light.
 7 | VALMIKI, LAVA, KUSHA, TAMASA_ASHRAM | The two boys seated before Valmiki, ready to learn. | A last small movement, motion slows. | Slow push-in. | Soft golden morning light. Soft flash.
 
@@ -48,7 +48,7 @@
 2 | VALMIKI, LAVA, KUSHA, TAMASA_ASHRAM | Valmiki holding up a palm leaf and explaining it to the boys. | Subtle movement; everyone keeps their place. | Slow side dolly. | Soft golden morning light.
 3 | VALMIKI, LAVA, KUSHA, TAMASA_ASHRAM | Closer view: Valmiki holding up a palm leaf and explaining it to the boys. | A small gesture, calm and steady. | Slow push-in. | Soft golden morning light.
 4 | LAVA, KUSHA, TAMASA_ASHRAM | Lava and Kusha listening with full attention, eyes bright. | Gentle, slow movement. | Slow pan left to right. | Soft golden morning light.
-5 | LAVA, KUSHA, TAMASA_ASHRAM | The two boys repeating verses together with joined palms. | Soft natural movement. | Slow push-in. | Soft golden morning light.
+5 | VALMIKI, LAVA, KUSHA, TAMASA_ASHRAM | Valmiki teaching the poem to Lava and Kusha, who sit before him repeating the verses with joined palms. | The boys repeat after him; Valmiki nods. | Slow push-in. | Soft golden morning light.
 6 | - | Symbolic shot: a small river flowing out of a great ocean, widening as it goes. | The light grows slowly brighter. | Slow push-in. | Soft golden morning light.
 7 | VALMIKI, LAVA, KUSHA, TAMASA_ASHRAM | Valmiki opening a bundle of palm leaves before the boys. | A last small movement, motion slows. | Slow push-in. | Soft golden morning light. Soft flash.
 
@@ -56,8 +56,8 @@
 1 | VALMIKI, TAMASA_ASHRAM | Valmiki holding up a bundle of palm leaves tied with a red thread. | Small natural movement, a gentle turn of the head. | Slow push-in. | Soft golden morning light.
 2 | VALMIKI, LAVA, KUSHA, TAMASA_ASHRAM | Valmiki explaining the poem to Lava and Kusha. | Subtle movement; everyone keeps their place. | Slow side dolly. | Soft golden morning light.
 3 | VALMIKI, LAVA, KUSHA, TAMASA_ASHRAM | Closer view: Valmiki explaining the poem to Lava and Kusha. | A small gesture, calm and steady. | Slow push-in. | Soft golden morning light.
-4 | SITA_LANKA | Sita seated serenely and with dignity in a garden under a tree, a memory from the story. | Gentle, slow movement. | Slow pan left to right. | Soft golden morning light.
-5 | VALMIKI, TAMASA_ASHRAM | Valmiki bowing his head over the poem with reverence. | Soft natural movement. | Slow push-in. | Soft golden morning light.
+4 | VALMIKI, LAVA, KUSHA, TAMASA_ASHRAM | Valmiki, disciplined and serene, naming the great poem Ramayana as the two boys listen. | He raises his hand as he speaks the name. | Slow pan left to right. | Soft golden morning light.
+5 | SITA_LANKA, RAMA_ARANYA | A memory from the story: Sita seated with dignity under the Ashoka tree, and Rama's victory in a soft golden glow beside it. | The memory glows and fades softly. | Slow push-in. | Soft golden morning light.
 6 | - | Symbolic shot: three lamps lit one after another on a wooden stand. | The light grows slowly brighter. | Slow push-in. | Soft golden morning light.
 7 | LAVA, KUSHA, TAMASA_ASHRAM | Lava and Kusha holding the palm-leaf poem, eager to sing. | A last small movement, motion slows. | Slow push-in. | Soft golden morning light. Soft flash.
 
@@ -75,7 +75,7 @@
 2 | LAVA, KUSHA, TAMASA_ASHRAM | The two boys singing with expressive hand gestures. | Subtle movement; everyone keeps their place. | Slow side dolly. | Soft golden morning light.
 3 | LAVA, KUSHA, TAMASA_ASHRAM | Closer view: The two boys singing with expressive hand gestures. | A small gesture, calm and steady. | Slow push-in. | Soft golden morning light.
 4 | - | A painted storybook panel showing the joyful wedding of Rama and Sita. | Gentle, slow movement. | Slow pan left to right. | Soft golden morning light.
-5 | - | A painted storybook panel showing brave Rama with his bow at dawn. | Soft natural movement. | Slow push-in. | Soft golden morning light.
+5 | LAVA, KUSHA, TAMASA_ASHRAM | Lava and Kusha singing the poem with full feeling, one playing a veena, at the ashram. | They sing; their faces show courage and devotion. | Slow push-in. | Soft golden morning light.
 6 | - | Symbolic shot: many colours of light blending into one white light. | The light grows slowly brighter. | Slow push-in. | Soft golden morning light.
 7 | LAVA, KUSHA, TAMASA_ASHRAM | The brothers smiling as they finish a verse. | A last small movement, motion slows. | Slow push-in. | Soft golden morning light. Soft flash.
 
@@ -128,7 +128,7 @@
 1 | LAVA, KUSHA, RISHIS_GROUP, TAMASA_ASHRAM | Lava and Kusha singing in the middle of the gathering of sages. | Small natural movement, a gentle turn of the head. | Slow push-in. | Soft golden morning light.
 2 | LAVA, KUSHA, TAMASA_ASHRAM | The two boys singing with deep feeling. | Subtle movement; everyone keeps their place. | Slow side dolly. | Soft golden morning light.
 3 | LAVA, KUSHA, TAMASA_ASHRAM | Closer view: The two boys singing with deep feeling. | A small gesture, calm and steady. | Slow push-in. | Soft golden morning light.
-4 | RISHIS_GROUP, TAMASA_ASHRAM | An old sage listening with tears of joy in his eyes. | Gentle, slow movement. | Slow pan left to right. | Soft golden morning light.
+4 | LAVA, KUSHA, RISHIS_GROUP, TAMASA_ASHRAM | Lava and Kusha singing, seated among the sages in the assembly. | The sages listen closely as the boys sing. | Slow pan left to right. | Soft golden morning light.
 5 | RISHIS_GROUP, TAMASA_ASHRAM | Several sages wiping tears, moved by the song. | Soft natural movement. | Slow push-in. | Soft golden morning light.
 6 | - | Symbolic shot: raindrops falling gently on lotus leaves. | The light grows slowly brighter. | Slow push-in. | Soft golden morning light.
 7 | RISHIS_GROUP, TAMASA_ASHRAM | The sages raising their hands, about to speak in praise. | A last small movement, motion slows. | Slow push-in. | Soft golden morning light. Soft flash.
@@ -146,7 +146,7 @@
 1 | LAVA, KUSHA, RISHIS_GROUP, TAMASA_ASHRAM | Sages praising Lava and Kusha, hands raised in blessing. | Small natural movement, a gentle turn of the head. | Slow push-in. | Soft golden morning light.
 2 | RISHIS_GROUP, TAMASA_ASHRAM | An elder sage speaking with joy, pointing to the boys. | Subtle movement; everyone keeps their place. | Slow side dolly. | Soft golden morning light.
 3 | RISHIS_GROUP, TAMASA_ASHRAM | Closer view: An elder sage speaking with joy, pointing to the boys. | A small gesture, calm and steady. | Slow push-in. | Soft golden morning light.
-4 | - | Golden honey dripping slowly from a honeycomb onto a flower. | Gentle, slow movement. | Slow pan left to right. | Soft golden morning light.
+4 | LAVA, KUSHA, RISHIS_GROUP, TAMASA_ASHRAM | The sages praising Lava and Kusha, blessing them with raised hands, delighted by the sweetness of the song. | The sages raise their hands; the boys bow. | Slow pan left to right. | Soft golden morning light.
 5 | LAVA, KUSHA, TAMASA_ASHRAM | The boys smiling shyly, heads slightly bowed. | Soft natural movement. | Slow push-in. | Soft golden morning light.
 6 | - | Symbolic shot: golden honey flowing gently. | The light grows slowly brighter. | Slow push-in. | Soft golden morning light.
 7 | RISHIS_GROUP, TAMASA_ASHRAM | The sages leaning forward, absorbed in the story. | A last small movement, motion slows. | Slow push-in. | Soft golden morning light. Soft flash.
