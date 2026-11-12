@@ -4038,7 +4038,7 @@
     {
      "label": "తాత్పర్యం – 3",
      "video": false,
-     "shows": "Kausalya welcoming Sita with an aarti plate",
+     "shows": "Sita in the Ayodhya palace, calm and graceful, a quiet strength and resolve in her eyes",
      "says": "సీతమ్మవారి గొప్పదనం రూపంలో కాదు, ఆమె తీసుకోబోయే నిర్ణయంలో ఉంది.",
      "mood": "calm"
     },
@@ -4730,14 +4730,14 @@
     {
      "label": "తాత్పర్యం – 1",
      "video": false,
-     "shows": "Dasharatha calling out in grief in an empty hall",
+     "shows": "Rama, Sita and Lakshmana seated peacefully outside their leaf hut at Chitrakuta, glowing like devas in the evening light",
      "says": "నారద మహర్షి చెబుతున్నారు: దేవతల్లా వెలిగిపోతూ ఆ ముగ్గురూ చిత్రకూటంలో సుఖంగా నివసించారు.",
      "mood": "calm"
     },
     {
      "label": "తాత్పర్యం – 2",
      "video": false,
-     "shows": "Rama, Sita and Lakshmana seated peacefully outside their leaf hut at Chitrakuta, glowing like devas in the evening light",
+     "shows": "Dasharatha calling out in grief in an empty hall",
      "says": "శ్రీరాములవారు వెళ్ళిపోయాక పుత్రశోకంతో దశరథ మహారాజుగారు కుమిలిపోయారు.",
      "mood": "sad"
     },
@@ -5159,7 +5159,7 @@
     {
      "label": "తాత్పర్యం – 1",
      "video": false,
-     "shows": "Rama lifting Bharata up with love",
+     "shows": "Bharata arriving barefoot at Chitrakuta and falling at Rama's feet outside the leaf hut",
      "says": "భరతులవారు చిత్రకూటానికి వెళ్ళి, మహాత్ముడు,",
      "mood": "calm"
     },
@@ -5472,14 +5472,14 @@
     {
      "label": "తాత్పర్యం – 1",
      "video": false,
-     "shows": "Bharata placing the padukas on his head",
+     "shows": "Rama explaining gently to Bharata",
      "says": "తండ్రి ఆజ్ఞ వల్ల శ్రీరాములవారు రాజ్యం తీసుకోలేదు.",
      "mood": "calm"
     },
     {
      "label": "తాత్పర్యం – 2",
      "video": false,
-     "shows": "Rama explaining gently to Bharata",
+     "shows": "Bharata placing the padukas on his head",
      "says": "రాజ్యానికి గుర్తుగా తన పాదుకలను భరతులవారికి ఇచ్చి, మళ్ళీ మళ్ళీ నచ్చచెప్పారు.",
      "mood": "calm"
     },
@@ -6786,7 +6786,7 @@
     {
      "label": "తాత్పర్యం – 1",
      "video": true,
-     "shows": "Shurpanakha lunging angrily toward the hut",
+     "shows": "Rama, Sita and Lakshmana living peacefully at their leaf hut in Panchavati",
      "says": "నారద మహర్షి మాటల్లో, శ్రీరాములవారు అక్కడ నివసిస్తున్నప్పుడు,",
      "mood": "calm"
     },
@@ -6800,7 +6800,7 @@
     {
      "label": "తాత్పర్యం – 3",
      "video": false,
-     "shows": "Shurpanakha covering her face with her hands, fleeing (no deep red marks visible)",
+     "shows": "Shurpanakha lunging angrily toward Sita outside the hut, Lakshmana stepping in to protect her",
      "says": "ఆమె సీతమ్మవారికి హాని చేయబోయింది, అందుకే ఈ శిక్ష.",
      "mood": "mystery"
     },
@@ -7501,14 +7501,14 @@
     {
      "label": "తాత్పర్యం – 1",
      "video": false,
-     "shows": "Ravana waving away the warning on the sea shore (outdoors, no throne, no palace)",
+     "shows": "Maricha pleading with Ravana outside his leaf hut on the sea shore, hands raised in warning (outdoors, no throne, no palace)",
      "says": "మారీచుడు హెచ్చరించాడు: 'రావణా, ఆ మహాబలుడైన శ్రీరాములవారితో శత్రుత్వం నీకు మంచిది కాదు'.",
      "mood": "calm"
     },
     {
      "label": "తాత్పర్యం – 2",
      "video": false,
-     "shows": "Maricha looking down, defeated and afraid, outside his leaf hut (outdoors, no throne, no palace)",
+     "shows": "Ravana waving away the warning on the sea shore (outdoors, no throne, no palace)",
      "says": "కానీ కాలం తీరిన రావణుడు ఆ మాటను లెక్కచేయలేదు.",
      "mood": "mystery"
     },
@@ -7652,22 +7652,22 @@
     },
     {
      "label": "తాత్పర్యం – 1",
-     "video": false,
-     "shows": "Sita staring at the deer in wonder",
+     "video": true,
+     "shows": "Ravana and Maricha hiding among the trees near Panchavati, watching Rama's leaf hut from a distance",
      "says": "నారద మహర్షి చెబుతున్నారు: రావణుడు మారీచుడిని తీసుకుని శ్రీరాములవారి ఆశ్రమానికి వెళ్ళాడు.",
      "mood": "calm"
     },
     {
      "label": "తాత్పర్యం – 2",
-     "video": true,
-     "shows": "Ravana and Maricha hiding among the trees near Panchavati, watching Rama's leaf hut from a distance",
+     "video": false,
+     "shows": "Lakshmana leaving the hut after hearing a cry",
      "says": "మాయావి మారీచుడి ద్వారా రామలక్ష్మణులను దూరంగా వెళ్ళేలా చేశాడు.",
      "mood": "mystery"
     },
     {
      "label": "తాత్పర్యం – 3",
      "video": false,
-     "shows": "Lakshmana leaving the hut after hearing a cry",
+     "shows": "Sita staring at the deer in wonder",
      "says": "మెరిసేదంతా బంగారం కాదు.",
      "mood": "mystery"
     },
@@ -7939,21 +7939,21 @@
     {
      "label": "తాత్పర్యం – 1",
      "video": false,
-     "shows": "Rama crying under a tree",
+     "shows": "Rama kneeling beside the giant Jatayu lying on the forest floor with a torn wing, Lakshmana beside him",
      "says": "ప్రాణంగా ప్రేమించిన సీతమ్మవారు దూరమయ్యారు. తనకోసం పోరాడిన జటాయువు కళ్ళముందే ప్రాణం విడిచాడు.",
      "mood": "calm"
     },
     {
      "label": "తాత్పర్యం – 2",
      "video": false,
-     "shows": "Rama performing Jatayu's funeral rites at a large funeral pyre of logs, big enough for the giant bird, near the Godavari",
+     "shows": "Rama crying under a tree",
      "says": "ఆ బాధతో శ్రీరాములవారు తపించిపోయారు, మనసు కలతచెంది ఎంతో విలపించారు.",
      "mood": "sad"
     },
     {
      "label": "తాత్పర్యం – 3",
-     "video": true,
-     "shows": "Jatayu's spirit rising from the fire as light",
+     "video": false,
+     "shows": "Rama performing Jatayu's funeral rites at a large funeral pyre of logs, big enough for the giant bird, near the Godavari",
      "says": "అదే దుఃఖంలో, తండ్రికి చేసినట్టే జటాయువుకు అంతిమ సంస్కారం చేశారు. బాధలో కన్నీళ్ళు పెట్టడం బలహీనత కాదు.",
      "mood": "sad"
     },
@@ -8225,23 +8225,23 @@
     {
      "label": "తాత్పర్యం – 1",
      "video": false,
-     "shows": "The celestial being pointing toward a distant hermitage",
+     "shows": "Rama and Lakshmana standing beside a great funeral pyre in the forest at dusk, the fire rising",
      "says": "నారద మహర్షి చెబుతున్నారు: శ్రీరాములవారు కబంధుడిని సంహరించి దహనం చేశారు.",
      "mood": "calm"
     },
     {
      "label": "తాత్పర్యం – 2",
      "video": false,
-     "shows": "The celestial being blessing Rama before departing",
+     "shows": "The celestial being pointing toward a distant hermitage",
      "says": "శాపం తీరి స్వర్గానికి వెళ్తూ కబంధుడు, ధర్మాన్ని ఆచరించే శబరి గురించి చెప్పాడు.",
      "mood": "calm"
     },
     {
      "label": "తాత్పర్యం – 3",
      "video": false,
-     "shows": "A distant ashram glowing in the forest",
+     "shows": "The celestial being blessing Rama before departing",
      "says": "చూడండి, శత్రువు కూడా శ్రీరాములవారి చేతిలో ముక్తి పొంది మిత్రుడయ్యాడు.",
-     "mood": "calm"
+     "mood": "joyful"
     },
     {
      "label": "జీవిత పాఠం",
@@ -8967,23 +8967,23 @@
     {
      "label": "తాత్పర్యం – 1",
      "video": false,
-     "shows": "Hanuman watching the ceremony with joy",
+     "shows": "Rama and Sugriva standing hand in hand before the sacred fire, their friendship just sworn, Hanuman watching with joy and folded hands",
      "says": "సుగ్రీవుడు ఎంతో సంతోషంగా, అగ్నిని సాక్షిగా పెట్టి శ్రీరాములవారితో స్నేహం చేసుకున్నాడు.",
      "mood": "calm"
     },
     {
      "label": "తాత్పర్యం – 2",
      "video": false,
-     "shows": "Sugriva beginning to tell his story of conflict",
+     "shows": "Sugriva sitting with Rama on a rock in the forest, sadly telling him about the quarrel with his elder brother Vali, Rama listening closely",
      "says": "ఆ తరువాత తన అన్న వాలితో ఉన్న విరోధం గురించి చెప్పడం మొదలుపెట్టాడు.",
      "mood": "calm"
     },
     {
      "label": "తాత్పర్యం – 3",
      "video": true,
-     "shows": "A dark vision of Vali appearing in the smoke",
+     "shows": "Rama and Sugriva embracing warmly as true friends in the forest",
      "says": "మంచి స్నేహితుడు దొరకడం అదృష్టం...",
-     "mood": "calm"
+     "mood": "joyful"
     },
     {
      "label": "జీవిత పాఠం",
@@ -8995,7 +8995,7 @@
     {
      "label": "ముగింపు & CTA",
      "video": false,
-     "shows": "Vali's shadow looming",
+     "shows": "Rama standing firm with his bow, calm and resolved after hearing about Vali",
      "says": "వాలి గురించి విన్న శ్రీరాములవారు ఏం ప్రతిజ్ఞ చేశారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
      "mood": "mystery"
     }
@@ -9440,24 +9440,24 @@
     },
     {
      "label": "తాత్పర్యం – 1",
-     "video": true,
-     "shows": "Vali defeating the demon Dundubhi in a flashback",
+     "video": false,
+     "shows": "Sugriva showing Rama and Lakshmana the huge, mountain-like dried skeleton of Dundubhi lying in the forest",
      "says": "నారద మహర్షి చెబుతున్నారు: శ్రీరాములవారి బలం మీద నమ్మకం కోసం, సుగ్రీవుడు దుందుభి అనే రాక్షసుడి పెద్ద కళేబరాన్ని చూపించాడు.",
      "mood": "calm"
     },
     {
      "label": "తాత్పర్యం – 2",
      "video": false,
-     "shows": "Sugriva showing Rama and Lakshmana the huge, mountain-like dried skeleton of Dundubhi lying in the forest",
+     "shows": "The huge, mountain-like dried skeleton of the demon Dundubhi lying in the forest, tiny trees around it for scale",
      "says": "అది పెద్ద పర్వతంలా ఉంది.",
-     "mood": "heroic"
+     "mood": "mystery"
     },
     {
      "label": "తాత్పర్యం – 3",
-     "video": false,
-     "shows": "Sugriva standing beside the mountain-like skeleton, telling how Vali defeated Dundubhi and hurled it here",
+     "video": true,
+     "shows": "Vali defeating the demon Dundubhi in a flashback",
      "says": "ఇది వాలి చంపి విసిరేసినది. జీవితంలో కూడా మనల్ని నమ్మడానికి ముందు పరీక్షిస్తారు.",
-     "mood": "heroic"
+     "mood": "mystery"
     },
     {
      "label": "జీవిత పాఠం",
@@ -9471,7 +9471,7 @@
      "video": true,
      "shows": "Rama lifting his foot",
      "says": "శ్రీరాములవారు ఆ కళేబరాన్ని ఏం చేశారో చూస్తే షాక్ అవుతారు! తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
-     "mood": "heroic"
+     "mood": "mystery"
     }
    ],
    "lines": [
@@ -9575,7 +9575,7 @@
     {
      "label": "తాత్పర్యం – 1",
      "video": false,
-     "shows": "Sugriva and the vanaras stunned in disbelief",
+     "shows": "Rama smiling calmly as he looks at the huge heap of Dundubhi's bones, Sugriva beside him",
      "says": "మహాబలుడైన శ్రీరాములవారు చిరునవ్వు నవ్వి, ఆ ఎముకల గుట్టను చూసి,",
      "mood": "calm"
     },
@@ -10182,15 +10182,15 @@
     },
     {
      "label": "తాత్పర్యం – 1",
-     "video": false,
-     "shows": "Rama aiming his bow from behind a tree",
+     "video": true,
+     "shows": "Vali gently moving past his wife Tara, who tries to stop him at the palace door, and striding out to fight",
      "says": "వద్దని అడ్డుపడిన భార్య తారను సమాధానపరిచి వాలి వచ్చి సుగ్రీవుడితో తలపడ్డాడు.",
      "mood": "calm"
     },
     {
      "label": "తాత్పర్యం – 2",
-     "video": true,
-     "shows": "Vali gently moving past his wife Tara, who tries to stop him at the palace door, and striding out to fight",
+     "video": false,
+     "shows": "Rama aiming his bow from behind a tree",
      "says": "అక్కడ శ్రీరాములవారు ఒకే బాణంతో వాలిని సంహరించారు.",
      "mood": "heroic"
     },
@@ -10934,23 +10934,23 @@
     {
      "label": "తాత్పర్యం – 1",
      "video": false,
-     "shows": "Hanuman speaking gently, hands folded",
+     "shows": "Hanuman with joined palms offering Rama's ring to Sita under the Ashoka tree; Sita receiving it and smiling for the first time",
      "says": "నారద మహర్షి మాటల్లో, హనుమంతులవారు శ్రీరాములవారి గుర్తు అయిన ఉంగరం ఇచ్చి, శ్రీరాములవారి సమాచారం చెప్పి, సీతమ్మవారిని ఓదార్చారు.",
      "mood": "calm"
     },
     {
      "label": "తాత్పర్యం – 2",
-     "video": false,
-     "shows": "Hanuman with joined palms offering Rama's ring to Sita under the Ashoka tree; Sita receiving it and smiling for the first time",
+     "video": true,
+     "shows": "Hanuman smashing the Ashoka garden gate",
      "says": "తరువాత అశోకవనం ముఖద్వారాన్ని ధ్వంసం చేశారు.",
      "mood": "heroic"
     },
     {
      "label": "తాత్పర్యం – 3",
-     "video": true,
-     "shows": "Hanuman smashing the Ashoka garden gate",
+     "video": false,
+     "shows": "Hanuman speaking gently, hands folded",
      "says": "ముందు ఓదార్పు, తరువాత ధైర్య ప్రదర్శన.",
-     "mood": "heroic"
+     "mood": "calm"
     },
     {
      "label": "జీవిత పాఠం",
@@ -13928,14 +13928,14 @@
     {
      "label": "తాత్పర్యం – 1",
      "video": false,
-     "shows": "Learned scholars receiving gifts with joy",
+     "shows": "King Rama giving many cows to learned brahmins with respect, following the scriptures",
      "says": "శ్రీరాములవారు లెక్కలేనన్ని ఆవులను విద్వాంసులకు శాస్త్రప్రకారం దానం చేస్తారు.",
      "mood": "calm"
     },
     {
      "label": "తాత్పర్యం – 2",
      "video": false,
-     "shows": "King Rama giving many cows to learned brahmins with respect, following the scriptures",
+     "shows": "Learned scholars receiving gifts with joy",
      "says": "బ్రాహ్మణులకు లెక్కపెట్టలేనంత ధనం దానం చేస్తారు.",
      "mood": "joyful"
     },
@@ -14071,14 +14071,14 @@
     {
      "label": "తాత్పర్యం – 1",
      "video": false,
-     "shows": "People of different professions working: a farmer, a teacher, a soldier, a trader",
+     "shows": "King Rama blessing many young kings kneeling before him, each sent to rule his own land by dharma",
      "says": "నారద మహర్షి చెబుతున్నారు: శ్రీరాములవారు వందలాది రాజవంశాలను స్థాపిస్తారు.",
      "mood": "calm"
     },
     {
      "label": "తాత్పర్యం – 2",
      "video": false,
-     "shows": "King Rama blessing many young kings kneeling before him, each sent to rule his own land by dharma",
+     "shows": "People of different professions working: a farmer, a teacher, a soldier, a trader",
      "says": "ఈ లోకంలో అందరినీ వారి వారి ధర్మాలను పాటించేలా చేస్తారు.",
      "mood": "joyful"
     },

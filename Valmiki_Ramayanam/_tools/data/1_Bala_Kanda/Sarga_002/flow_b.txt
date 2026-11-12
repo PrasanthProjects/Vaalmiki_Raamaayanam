@@ -37,9 +37,9 @@
 ### 27
 1 | VALMIKI, BRAHMA, TAMASA_ASHRAM | Brahma and Valmiki seated facing each other. | Valmiki's gaze drifts toward the river. | Slow push-in. | Soft divine light.
 2 | VALMIKI, BRAHMA, TAMASA_ASHRAM | Valmiki sitting down after Brahma's permission. | He lowers himself onto the seat. | Slow side dolly. | Golden glow.
-3 | BRAHMA, TAMASA_ASHRAM | Brahma seated serenely, watching Valmiki. | He tilts his head kindly. | Slow orbit. | Divine light.
-4 | VALMIKI, TAMASA_ASHRAM | Valmiki's distant gaze, a faint memory of the riverbank in his eyes. | The memory shimmers. | Slow push-in. | Dreamy haze.
-5 | VALMIKI, BRAHMA, TAMASA_ASHRAM | Wide view: Brahma and Valmiki in the courtyard, Valmiki lost in thought. | Leaves fall between them. | Slow crane up. | Golden light.
+3 | VALMIKI, BRAHMA | Valmiki respectfully sitting down on a seat opposite Lord Brahma in the ashram courtyard. | Valmiki sits with folded hands. | Slow push-in. | Soft divine light.
+4 | BRAHMA, TAMASA_ASHRAM | Brahma seated serenely, watching Valmiki. | He tilts his head kindly. | Slow orbit. | Divine light.
+5 | VALMIKI, TAMASA_ASHRAM | Valmiki's distant gaze, a faint memory of the riverbank in his eyes. | The memory shimmers. | Slow push-in. | Dreamy haze.
 6 | VALMIKI, TAMASA_ASHRAM | Symbolic shot: Valmiki's mind as a still river reflecting a single bird. | The reflection ripples softly. | Slow push-in. | Soft golden glow.
 7 | KRAUNCHA, TAMASA_ASHRAM | Memory: the lonely female crane sitting on a branch. | She lowers her head, motion slows. | Slow push-in. | Muted light, soft flash.
 

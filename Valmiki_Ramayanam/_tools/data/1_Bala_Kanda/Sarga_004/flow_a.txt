@@ -1,8 +1,8 @@
 ### 1
 1 | VALMIKI, TAMASA_ASHRAM | Valmiki seated in his ashram writing on palm leaves with a stylus. | His hand moves steadily across the leaf. | Slow push-in. | Warm morning light.
 2 | VALMIKI, TAMASA_ASHRAM | Close view of Valmiki's stylus carving letters into a palm leaf. | Letters appear one by one. | Slow macro push-in. | Soft golden light.
-3 | VALMIKI, TAMASA_ASHRAM | Valmiki pausing, looking up thoughtfully from his writing. | He smiles gently and continues. | Slow side dolly. | Gentle light through leaves.
-4 | RAMA_KING, AYODHYA_COURT | Rama seated as king on the throne of Ayodhya, calm and radiant. | Courtiers bow before him. | Slow crane down. | Bright golden court light.
+3 | RAMA_KING, AYODHYA_COURT | Rama seated as king on the throne of Ayodhya, calm and radiant. | Courtiers bow before him. | Slow crane down. | Bright golden court light.
+4 | VALMIKI, TAMASA_ASHRAM | Valmiki pausing, looking up thoughtfully from his writing. | He smiles gently and continues. | Slow side dolly. | Gentle light through leaves.
 5 | VALMIKI, TAMASA_ASHRAM | Bundles of finished palm-leaf manuscripts stacked beside Valmiki. | He places another leaf on the pile. | Slow push-in. | Warm lamp glow.
 6 | - | Symbolic shot: a palm-leaf manuscript glowing softly on a wooden stand. | The glow spreads gently outward. | Slow push-in. | Soft divine light.
 7 | VALMIKI, TAMASA_ASHRAM | Valmiki sitting deep in thought beside his manuscripts. | He looks into the distance, motion slows. | Slow push-in. | Warm golden light, soft flash.
@@ -55,9 +55,9 @@
 ### 7
 1 | VALMIKI, TAMASA_ASHRAM | Valmiki holding up a bundle of palm leaves tied with a red thread. | Small natural movement, a gentle turn of the head. | Slow push-in. | Soft golden morning light.
 2 | VALMIKI, LAVA, KUSHA, TAMASA_ASHRAM | Valmiki explaining the poem to Lava and Kusha. | Subtle movement; everyone keeps their place. | Slow side dolly. | Soft golden morning light.
-3 | VALMIKI, LAVA, KUSHA, TAMASA_ASHRAM | Closer view: Valmiki explaining the poem to Lava and Kusha. | A small gesture, calm and steady. | Slow push-in. | Soft golden morning light.
-4 | VALMIKI, LAVA, KUSHA, TAMASA_ASHRAM | Valmiki, disciplined and serene, naming the great poem Ramayana as the two boys listen. | He raises his hand as he speaks the name. | Slow pan left to right. | Soft golden morning light.
-5 | SITA_LANKA, RAMA_ARANYA | A memory from the story: Sita seated with dignity under the Ashoka tree, and Rama's victory in a soft golden glow beside it. | The memory glows and fades softly. | Slow push-in. | Soft golden morning light.
+3 | VALMIKI, LAVA, KUSHA, TAMASA_ASHRAM | Valmiki, disciplined and serene, naming the great poem Ramayana as the two boys listen. | He raises his hand as he speaks the name. | Slow pan left to right. | Soft golden morning light.
+4 | SITA_LANKA | Sita seated with quiet dignity under the Ashoka tree in Lanka, steadfast in her faith. | Her calm gaze lifts. | Slow push-in. | Soft moonlight.
+5 | RAMA_ARANYA | Rama victorious on the battlefield of Lanka, his bow lowered, the war ended, golden light around him. | Rama lowers his bow calmly. | Slow push-in. | Golden victory light.
 6 | - | Symbolic shot: three lamps lit one after another on a wooden stand. | The light grows slowly brighter. | Slow push-in. | Soft golden morning light.
 7 | LAVA, KUSHA, TAMASA_ASHRAM | Lava and Kusha holding the palm-leaf poem, eager to sing. | A last small movement, motion slows. | Slow push-in. | Soft golden morning light. Soft flash.
 

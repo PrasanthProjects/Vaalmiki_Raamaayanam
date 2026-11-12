@@ -36,14 +36,14 @@
     {
      "label": "తాత్పర్యం – 1",
      "video": false,
-     "shows": "Valmiki pausing, looking up thoughtfully from his writing",
+     "shows": "Rama seated as king on the throne of Ayodhya, calm and radiant",
      "says": "శ్రీరాములవారు రాజ్యం పొందిన తరువాత,",
      "mood": "calm"
     },
     {
      "label": "తాత్పర్యం – 2",
      "video": false,
-     "shows": "Rama seated as king on the throne of Ayodhya, calm and radiant",
+     "shows": "Valmiki pausing, looking up thoughtfully from his writing",
      "says": "పూజ్యుడైన వాల్మీకి మహర్షి ఆయన చరిత్ర మొత్తాన్ని అద్భుతమైన మాటలతో,",
      "mood": "calm"
     },
@@ -486,21 +486,21 @@
     {
      "label": "తాత్పర్యం – 1",
      "video": false,
-     "shows": "Closer view: Valmiki explaining the poem to Lava and Kusha",
+     "shows": "Valmiki, disciplined and serene, naming the great poem Ramayana as the two boys listen",
      "says": "నియమంగా జీవించే వాల్మీకి మహర్షి, ఆ కావ్యాన్ని రామాయణం అని,",
      "mood": "calm"
     },
     {
      "label": "తాత్పర్యం – 2",
      "video": false,
-     "shows": "Valmiki, disciplined and serene, naming the great poem Ramayana as the two boys listen",
+     "shows": "Sita seated with quiet dignity under the Ashoka tree in Lanka, steadfast in her faith",
      "says": "సీతమ్మవారి యొక్క గొప్ప చరిత్ర అని,",
      "mood": "mystery"
     },
     {
      "label": "తాత్పర్యం – 3",
-     "video": false,
-     "shows": "A memory from the story: Sita seated with dignity under the Ashoka tree, and Rama's victory in a soft golden glow beside it",
+     "video": true,
+     "shows": "Rama victorious on the battlefield of Lanka, his bow lowered, the war ended, golden light around him",
      "says": "పౌలస్త్యుడైన రావణుడి వధ అని చెప్పారు.",
      "mood": "heroic"
     },

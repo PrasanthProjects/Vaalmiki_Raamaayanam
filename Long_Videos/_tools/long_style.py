@@ -209,8 +209,9 @@ EXTRA.update({   # Aranya Kaanda
     'KUSHA_KING': ("King Kusha, Brahma's son and ancient forefather of Vishwamitra's line: a very old, majestic king of "
                    "about seventy-five with a long white beard, a tall gold crown, white and gold silk, pearl and "
                    "rudraksha ornaments; calm, wise and great-souled"),
-    'KUSHANABHA': ("King Kushanabha of Mahodaya, Kusha's son: a dignified, gentle king of about fifty-five with a trimmed "
-                   "grey-black beard, a gold crown, deep blue and gold silk, kind and thoughtful eyes"),
+    'KUSHANABHA': ("King Kushanabha of Mahodaya, Kusha's son: an elderly, dignified king of about sixty, clearly an old "
+                   "father, with greying hair at the temples, a full trimmed grey-black beard and moustache, lines of age "
+                   "on his face, a heavy gold crown, deep blue and gold silk, kind and thoughtful eyes; never a young prince"),
     'KUSHANABHA_DAUGHTERS': ("The hundred daughters of King Kushanabha, born of the apsara Ghritachi: radiant young women "
                              "of about seventeen, every face different, matching pale-gold silk sarees properly draped "
                              "over the shoulders, jasmine in braided hair, simple gold ornaments, a small red kumkum dot "
@@ -352,6 +353,93 @@ WOMEN |= {'DHANYAMALINI'}
 RAVANA_SIDE |= {'PRAHASTA'}
 WOMEN |= {'ANASUYA', 'SATYAVATI'}
 RAVANA_SIDE |= {'SUBAHU', 'AKAMPANA', 'DUSHANA', 'TRISHIRA'}
+
+# Bala 35-37 (Ganga and Uma, the daughters of Himavan; the devas, Agni and the Earth): gods with one look each, so
+# Flow does not invent a new face per picture (V06 had none, 2026-11-12). Goddess Ganga and Agni are the Shorts' own
+# (same reference images); Ganga and Agni come only from data CAST lines, never from a name in passing, so "the bank
+# of the Ganga" never puts the goddess in a river scene.
+BIBLE['PARVATI'] = {'lock': "Goddess Parvati (Uma), daughter of Himavan and consort of Lord Shiva: a radiant, graceful "
+                            "goddess of about twenty-five with a warm golden complexion, a red and gold silk saree fully "
+                            "and modestly draped, a gold crown, a lotus in one hand, a red kumkum dot between the "
+                            "eyebrows; gentle, dignified and strong", 'stages': {}}
+BIBLE['BHUDEVI'] = {'lock': "Bhudevi, the Earth goddess: a gracious, motherly goddess of about thirty-five with a dusky "
+                            "brown complexion, a deep green silk saree fully and modestly draped, sheaves of grain and "
+                            "flowers in her hair, gold ornaments; rising gently from the soil among green fields",
+                    'stages': {}}
+for _k in ('GANGA', 'AGNI'):
+    BIBLE[_k] = {'lock': _SHORTS[_k]['look'], 'stages': {}}
+ALIASES.update({'Parvati': 'PARVATI', 'Uma': 'PARVATI', 'Bhudevi': 'BHUDEVI', 'Himavantha': 'HIMAVAN'})
+NO_MARK |= {'PARVATI', 'BHUDEVI', 'GANGA', 'AGNI'}
+NO_MARK |= {'KUSHANABHA'}   # Rama's namam made Flow draw the old king as a young Rama (V06, 2026-11-12)
+
+# Bala 37-44 (Kartikeya's birth, Sagara's sons, Bhagiratha): one look each, given by data CAST lines only; the names
+# are known so a split picture can tell who it shows (V07-V08 audit, 2026-11-12). Kapila is Vishnu as a sage
+# (Bala 40.25), drawn as a sage, never as four-armed Vishnu.
+_BALA_INSETS = {
+    'KARTIKEYA': "Kartikeya (Skanda, Kumara), the divine child born of Shiva's tejas through Ganga: a radiant boy of about "
+                 "eight with six serene faces arranged in a ring, a glowing golden-red complexion like flaming fire, a small "
+                 "gold crown, red and gold silk, a gleaming spear (vel) in his hand; fearless and gentle",
+    'KRITTIKAS': "the six Krittikas, the star-goddesses who nursed Kartikeya: six radiant young women of about twenty-five, "
+                 "every face different, white and silver silk sarees fully and modestly draped, small star-like jewels in "
+                 "their hair, a soft starlight glow; motherly and gentle, always shown as a group of six",
+    'SAGARA_KING': "King Sagara of Ayodhya, of Rama's Ikshvaku line: a majestic, stern king of about fifty with a full black "
+                   "beard streaked with grey (older and white-bearded only where the scene says he is aged), a tall gold "
+                   "crown, dark red and gold silk",
+    'KESHINI': "Queen Keshini, Sagara's elder queen, princess of Vidarbha: a dignified woman of about thirty, a deep maroon "
+               "silk saree fully draped, gold ornaments, jasmine in her hair",
+    'SUMATI': "Queen Sumati, Sagara's younger queen and Garuda's sister: a graceful woman of about twenty-six, a sea-green "
+              "silk saree fully draped, gold ornaments, flowers in her hair",
+    'ASAMANJA': "Prince Asamanja, Sagara's son by Keshini: a young man of about twenty with a sullen, hard face, a thin gold "
+                "circlet, dark purple silks",
+    'AMSHUMAN': "Amshuman, Asamanja's son and Sagara's grandson: a brave, gentle young prince of about eighteen, clean-shaven, "
+                "a gold circlet, white and gold silk, a bow over his shoulder (a boy of about ten only where the scene says so)",
+    'DILIPA': "King Dilipa, Amshuman's son: a calm, thoughtful king of about forty with a short black beard, a gold crown, "
+              "royal blue and gold silk",
+    'BHAGIRATHA': "King Bhagiratha, Dilipa's son: a determined, noble king of about thirty-five with a short black beard, a "
+                  "gold crown (in tapas: matted hair and bark cloth, lean and radiant), white and gold silk",
+    'KAPILA': "Sage Kapila, Vishnu himself in the form of a sage: a serene, radiant sage of about fifty with a dark-blue "
+              "tinged complexion, long black matted hair in a top-knot, a short black beard, saffron bark garments, seated "
+              "in deep meditation with a soft golden aura; always two-armed, never drawn as four-armed Vishnu",
+    'BHRIGU': "Sage Bhrigu: a very old, majestic maharshi with a long flowing white beard, a high white matted top-knot, bark "
+              "cloth and a deer skin, rudraksha beads, piercing kind eyes",
+    'DITI': "Diti, mother of the daityas and wife of Kashyapa: a dignified, motherly woman of about forty-five, a dark "
+            "violet silk saree fully and modestly draped, simple gold ornaments, long black hair; strong-willed and grieving",
+    'SHATANANDA': "Sage Shatananda, King Janaka's family priest, son of Gautama and Ahalya: a dignified, warm scholar of about "
+                  "forty-five with a neat black beard, his hair in a top-knot, white silk dhoti and upper cloth, a sacred thread, "
+                  "rudraksha beads; gentle, eager eyes",
+    'VISHWAMITRA_KING': "King Vishwamitra (Kaushika) in his years as a king, before he became a sage: a tall, powerful, proud "
+                        "king of about thirty-five with a full black beard and moustache, a heavy gold crown, gold armour over "
+                        "red silk, a sword at his side; never the old white-bearded sage",
+    'SHABALA': "Shabala (Kamadhenu), Vashishtha's wish-giving divine cow: a radiant pure-white cow with calm, intelligent "
+               "eyes, a soft golden glow around her, small gold ornaments on her horns and a garland of flowers",
+    'TRISHANKU': "King Trishanku of Ayodhya, of the Ikshvaku line: a proud king of about fifty with a black beard, a gold "
+                 "crown, rich purple and gold silks (only where the scene says he is under the curse: the same face with a dark, "
+                 "ashen complexion, red hair and eyes, a rough dark-blue garment and iron ornaments)",
+    'AMBARISHA': "King Ambarisha of Ayodhya: a pious, gentle king of about forty-five with a short black beard, a gold crown, "
+                 "white and gold silk",
+    'SHUNAHSHEPA': "Shunahshepa, the sage Richika's middle son: a slender young brahmin boy of about fifteen, shaven head with a "
+                   "small tuft, a white dhoti and sacred thread, large frightened eyes",
+    'MAHODAYA': "the sage Mahodaya: a stern, elderly brahmin sage of about sixty with a grey beard, matted hair and bark cloth",
+    'MENAKA': "Menaka, the apsara: a graceful celestial woman of about twenty-two with a radiant face, a shimmering "
+              "rose-pink silk saree fully and modestly draped over the shoulders, gold and pearl ornaments, flowers in her hair; "
+              "gentle and dignified",
+    'RAMBHA': "Rambha, the apsara: a graceful celestial woman of about twenty-two, every feature different from Menaka, a "
+              "shimmering pale-blue and silver silk saree fully and modestly draped over the shoulders, gold ornaments, flowers "
+              "in her hair; dignified",
+    'JAHNU': "Sage Jahnu: a powerful old maharshi of about seventy with a long grey beard, matted grey hair, bark cloth, "
+             "seated at his yajna altar",
+}
+for _k, _v in _BALA_INSETS.items():
+    BIBLE[_k] = {'lock': _v, 'stages': {}}
+FROM_EP.update({_k: 'E9.99' for _k in _BALA_INSETS})   # given by data CAST lines only
+ALIASES.update({'Kartikeya': 'KARTIKEYA', 'Skanda': 'KARTIKEYA', 'Krittikas': 'KRITTIKAS', 'Keshini': 'KESHINI',
+                'Sumati': 'SUMATI', 'Asamanja': 'ASAMANJA', 'Asamanjasa': 'ASAMANJA', 'Amshuman': 'AMSHUMAN',
+                'Amshumantha': 'AMSHUMAN', 'Dilipa': 'DILIPA', 'Bhagiratha': 'BHAGIRATHA', 'Kapila': 'KAPILA',
+                'Bhrigu': 'BHRIGU', 'Jahnu': 'JAHNU', 'Diti': 'DITI', 'Shatananda': 'SHATANANDA', 'Shabala': 'SHABALA', 'Trishanku': 'TRISHANKU', 'Ambarisha': 'AMBARISHA', 'Shunahshepa': 'SHUNAHSHEPA', 'Mahodaya': 'MAHODAYA', 'Menaka': 'MENAKA', 'Rambha': 'RAMBHA'})
+NO_MARK |= {'KARTIKEYA', 'KRITTIKAS', 'KAPILA', 'SHABALA'}
+WOMEN |= {'KESHINI', 'SUMATI', 'DITI', 'MENAKA', 'RAMBHA'}
+FROM_EP['HIMAVAN'] = 'E1.11'   # Ganga's and Uma's father (Bala 35) before he is the mountain of Kishkindha 43
+FROM_EP.update({'GANGA': 'E9.99', 'AGNI': 'E9.99'})
 
 # Places, one reference image each, so a location looks the same in every clip.
 # key: (words in a scene's location register, episodes it applies to (None = every episode), description)

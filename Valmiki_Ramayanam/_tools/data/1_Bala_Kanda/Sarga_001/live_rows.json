@@ -1906,11 +1906,11 @@
     "Festive warm light."
    ],
    [
-    "SITA_PRINCESS, KAUSALYA",
-    "Kausalya welcoming Sita with an aarti plate.",
-    "Kausalya waves the lamp, Sita bows.",
-    "Slow side dolly.",
-    "Warm lamp glow."
+    "SITA_WEDDING",
+    "Sita in the Ayodhya palace, calm and graceful, a quiet strength and resolve in her eyes.",
+    "She lifts her gaze with gentle determination.",
+    "Slow push-in.",
+    "Soft warm light."
    ],
    [
     "SITA_PRINCESS, AYODHYA_PALACE",
@@ -2257,18 +2257,18 @@
     "Golden aura, sparkles."
    ],
    [
-    "DASHARATHA",
-    "Dasharatha calling out in grief in an empty hall.",
-    "He reaches out into emptiness.",
-    "Slow push-in.",
-    "Dark blue light."
-   ],
-   [
     "RAMA_ARANYA, SITA_ARANYA, LAKSHMANA_ARANYA, CHITRAKUTA",
     "Rama, Sita and Lakshmana seated peacefully outside their leaf hut at Chitrakuta, glowing like devas in the evening light.",
     "They talk softly and smile; the light glows around them.",
     "Slow push-in.",
     "Dim flickering light."
+   ],
+   [
+    "DASHARATHA",
+    "Dasharatha calling out in grief in an empty hall.",
+    "He reaches out into emptiness.",
+    "Slow push-in.",
+    "Dark blue light."
    ],
    [
     "KAUSALYA, DASHARATHA",
@@ -2474,11 +2474,11 @@
     "Warm golden light."
    ],
    [
-    "RAMA_ARANYA, BHARATA",
-    "Rama lifting Bharata up with love.",
-    "Rama raises Bharata into an embrace.",
-    "Slow orbit.",
-    "Soft glowing light."
+    "BHARATA, RAMA_ARANYA",
+    "Bharata arriving barefoot at Chitrakuta and falling at Rama's feet outside the leaf hut.",
+    "Bharata kneels, Rama reaches out to him.",
+    "Slow push-in.",
+    "Soft morning light."
    ],
    [
     "BHARATA",
@@ -2619,18 +2619,18 @@
     "Warm golden light."
    ],
    [
-    "BHARATA, PADUKA, CHITRAKUTA",
-    "Bharata placing the padukas on his head.",
-    "He lifts them reverently onto his head.",
-    "Slow low-angle push-in.",
-    "Golden rim light."
-   ],
-   [
     "RAMA_ARANYA, BHARATA",
     "Rama explaining gently to Bharata.",
     "Rama speaks, Bharata nods tearfully.",
     "Slow side dolly.",
     "Soft light."
+   ],
+   [
+    "BHARATA, PADUKA, CHITRAKUTA",
+    "Bharata placing the padukas on his head.",
+    "He lifts them reverently onto his head.",
+    "Slow low-angle push-in.",
+    "Golden rim light."
    ],
    [
     "BHARATA, PADUKA",
@@ -3269,11 +3269,11 @@
     "Golden light."
    ],
    [
-    "SHURPANAKHA, PANCHAVATI",
-    "Shurpanakha lunging angrily toward the hut.",
-    "She rushes forward, hair flying.",
-    "Slow tracking.",
-    "Dramatic shadows."
+    "RAMA_ARANYA, SITA_ARANYA, LAKSHMANA_ARANYA",
+    "Rama, Sita and Lakshmana living peacefully at their leaf hut in Panchavati.",
+    "Sita tends the tulasi, Rama and Lakshmana sit nearby.",
+    "Slow push-in.",
+    "Soft golden forest light."
    ],
    [
     "RAMA_ARANYA, LAKSHMANA_ARANYA, SHURPANAKHA, PANCHAVATI",
@@ -3283,11 +3283,11 @@
     "Golden rim light."
    ],
    [
-    "SHURPANAKHA",
-    "Shurpanakha covering her face with her hands, fleeing (no wounds visible).",
-    "She turns and flees into the forest.",
-    "Slow tracking.",
-    "Dark moody light."
+    "SHURPANAKHA, SITA_ARANYA, LAKSHMANA_ARANYA",
+    "Shurpanakha lunging angrily toward Sita outside the hut, Lakshmana stepping in to protect her.",
+    "Shurpanakha rushes forward, Lakshmana blocks her.",
+    "Slow push-in.",
+    "Harsh afternoon light."
    ],
    [
     "",
@@ -3628,18 +3628,18 @@
     "Soft evening light by the sea, dark clouds gathering."
    ],
    [
+    "MARICHA, RAVANA",
+    "Maricha pleading with Ravana outside his leaf hut on the sea shore, hands raised in warning (outdoors, no throne, no palace).",
+    "Maricha speaks urgently.",
+    "Slow push-in.",
+    "Evening light by the sea."
+   ],
+   [
     "RAVANA, MARICHA_ASHRAM",
     "Ravana waving away the warning on the sea shore (outdoors, no throne, no palace).",
     "He brushes the advice aside with a sweep of his arms.",
     "Slow push-in.",
     "Soft evening light by the sea, dark clouds gathering."
-   ],
-   [
-    "MARICHA, MARICHA_ASHRAM",
-    "Maricha looking down, defeated and afraid, outside his leaf hut (outdoors, no throne, no palace).",
-    "He lowers his head.",
-    "Slow push-in.",
-    "Cold blue light."
    ],
    [
     "RAVANA, MARICHA_ASHRAM",
@@ -3700,13 +3700,6 @@
     "Glowing golden fur."
    ],
    [
-    "SITA_ARANYA, PANCHAVATI",
-    "Sita staring at the deer in wonder.",
-    "Her eyes widen with delight.",
-    "Slow push-in.",
-    "Soft golden light."
-   ],
-   [
     "RAVANA, MARICHA, PANCHAVATI",
     "Ravana and Maricha hiding among the trees near Panchavati, watching Rama's leaf hut from a distance.",
     "Ravana points toward the hut; Maricha nods unwillingly.",
@@ -3719,6 +3712,13 @@
     "He looks back worriedly then runs.",
     "Slow tracking.",
     "Moody light."
+   ],
+   [
+    "SITA_ARANYA, PANCHAVATI",
+    "Sita staring at the deer in wonder.",
+    "Her eyes widen with delight.",
+    "Slow push-in.",
+    "Soft golden light."
    ],
    [
     "",
@@ -3738,8 +3738,8 @@
   "kinds": [
    "video",
    "image",
-   "image",
    "video",
+   "image",
    "image",
    "video",
    "image"
@@ -3845,6 +3845,13 @@
     "Soft sorrowful light."
    ],
    [
+    "RAMA_ARANYA, LAKSHMANA_ARANYA, JATAYU",
+    "Rama kneeling beside the giant Jatayu lying on the forest floor with a torn wing, Lakshmana beside him.",
+    "Rama gently strokes Jatayu's head.",
+    "Slow push-in.",
+    "Dim, sad light."
+   ],
+   [
     "RAMA_ARANYA",
     "Rama crying under a tree.",
     "He covers his face with his hands.",
@@ -3857,13 +3864,6 @@
     "He places offerings in the fire.",
     "Slow push-in.",
     "Warm fire glow."
-   ],
-   [
-    "JATAYU",
-    "Jatayu's spirit rising from the fire as light.",
-    "A glowing bird of light flies upward.",
-    "Slow upward tilt.",
-    "Golden spirit glow."
    ],
    [
     "",
@@ -3885,7 +3885,7 @@
    "image",
    "image",
    "image",
-   "video",
+   "image",
    "image",
    "image"
   ],
@@ -3989,6 +3989,13 @@
     "Warm fire glow."
    ],
    [
+    "RAMA_ARANYA, LAKSHMANA_ARANYA",
+    "Rama and Lakshmana standing beside a great funeral pyre in the forest at dusk, the fire rising.",
+    "Flames rise into the sky.",
+    "Slow push-in.",
+    "Fire glow at dusk."
+   ],
+   [
     "GANDHARVA",
     "The celestial being pointing toward a distant hermitage.",
     "He points with a radiant smile.",
@@ -4001,13 +4008,6 @@
     "He raises his hand in blessing.",
     "Slow orbit.",
     "Divine light."
-   ],
-   [
-    "FOREST_ASHRAM",
-    "A distant ashram glowing in the forest.",
-    "Light glows from the ashram.",
-    "Slow push-in.",
-    "Warm golden glow."
    ],
    [
     "",
@@ -4350,25 +4350,25 @@
     "Fire glow, sparks."
    ],
    [
-    "HANUMAN",
-    "Hanuman watching the ceremony with joy.",
-    "He smiles with folded hands.",
+    "RAMA_ARANYA, SUGRIVA, HANUMAN",
+    "Rama and Sugriva standing hand in hand before the sacred fire, their friendship just sworn, Hanuman watching with joy and folded hands.",
+    "Sugriva smiles warmly at Rama.",
     "Slow push-in.",
-    "Warm light."
+    "Warm fire glow."
    ],
    [
-    "SUGRIVA",
-    "Sugriva beginning to tell his story of conflict.",
-    "He speaks with anger and sadness.",
+    "SUGRIVA, RAMA_ARANYA",
+    "Sugriva sitting with Rama on a rock in the forest, sadly telling him about the quarrel with his elder brother Vali, Rama listening closely.",
+    "Sugriva speaks with sorrow, Rama listens.",
     "Slow push-in.",
-    "Moody light."
+    "Soft evening light."
    ],
    [
-    "VALI",
-    "A dark vision of Vali appearing in the smoke.",
-    "Vali's shadow rises from the fire smoke.",
-    "Slow push-in.",
-    "Dark red light."
+    "RAMA_ARANYA, SUGRIVA",
+    "Rama and Sugriva embracing warmly as true friends in the forest.",
+    "They hold each other as friends.",
+    "Slow orbit.",
+    "Golden warm light."
    ],
    [
     "",
@@ -4378,11 +4378,11 @@
     "Golden sparkle."
    ],
    [
-    "VALI",
-    "Vali's shadow looming.",
-    "The shadow grows larger, motion slows.",
+    "RAMA_ARANYA",
+    "Rama standing firm with his bow, calm and resolved after hearing about Vali.",
+    "He tightens his grip on the bow, motion slows.",
     "Slow push-in.",
-    "Dark red glow, soft flash."
+    "Golden evening light, soft flash."
    ]
   ],
   "kinds": [
@@ -4568,13 +4568,6 @@
     "Warm light."
    ],
    [
-    "VALI, DUNDUBHI",
-    "Vali defeating the demon Dundubhi in a flashback.",
-    "Vali throws the demon's body far away.",
-    "Slow tracking.",
-    "Golden flashback glow."
-   ],
-   [
     "RAMA_ARANYA, LAKSHMANA_ARANYA, SUGRIVA, DUNDUBHI",
     "Sugriva showing Rama and Lakshmana the huge, mountain-like dried skeleton of Dundubhi lying in the forest.",
     "Sugriva points up at the skeleton; Rama studies it calmly.",
@@ -4582,11 +4575,18 @@
     "Soft golden light."
    ],
    [
-    "SUGRIVA, DUNDUBHI",
-    "Sugriva standing beside the mountain-like skeleton, telling how Vali killed Dundubhi and hurled it here.",
-    "He gestures up at its great size, worried.",
+    "",
+    "The huge, mountain-like dried skeleton of the demon Dundubhi lying in the forest, tiny trees around it for scale.",
+    "Mist drifts around the skeleton.",
     "Slow push-in.",
-    "Moody light."
+    "Grey morning light."
+   ],
+   [
+    "VALI, DUNDUBHI",
+    "Vali defeating the demon Dundubhi in a flashback.",
+    "Vali throws the demon's body far away.",
+    "Slow tracking.",
+    "Golden flashback glow."
    ],
    [
     "",
@@ -4606,9 +4606,9 @@
   "kinds": [
    "video",
    "image",
+   "image",
+   "image",
    "video",
-   "image",
-   "image",
    "image",
    "video"
   ],
@@ -4640,11 +4640,11 @@
     "Soft golden light."
    ],
    [
-    "SUGRIVA, VANARA_ARMY",
-    "Sugriva and the vanaras stunned in disbelief.",
-    "Their jaws drop.",
+    "RAMA_ARANYA, SUGRIVA",
+    "Rama smiling calmly as he looks at the huge heap of Dundubhi's bones, Sugriva beside him.",
+    "Rama smiles gently.",
     "Slow push-in.",
-    "Warm light."
+    "Clear daylight."
    ],
    [
     "RAMA_ARANYA, SUGRIVA, DUNDUBHI",
@@ -4929,18 +4929,18 @@
     "Moody light."
    ],
    [
-    "RAMA_ARANYA",
-    "Rama aiming his bow from behind a tree.",
-    "He aims carefully.",
-    "Slow push-in.",
-    "Golden rim light."
-   ],
-   [
     "VALI, TARA, KISHKINDHA",
     "Vali gently moving past his wife Tara, who tries to stop him at the palace door, and striding out to fight.",
     "Tara reaches out; Vali turns away and marches out.",
     "Tracking shot.",
     "Golden trail."
+   ],
+   [
+    "RAMA_ARANYA",
+    "Rama aiming his bow from behind a tree.",
+    "He aims carefully.",
+    "Slow push-in.",
+    "Golden rim light."
    ],
    [
     "VALI",
@@ -4967,8 +4967,8 @@
   "kinds": [
    "video",
    "image",
-   "image",
    "video",
+   "image",
    "image",
    "video",
    "image"
@@ -5288,13 +5288,6 @@
     "Golden glow."
    ],
    [
-    "HANUMAN",
-    "Hanuman speaking gently, hands folded.",
-    "He speaks with reverence.",
-    "Slow push-in.",
-    "Soft light."
-   ],
-   [
     "HANUMAN, SITA_LANKA, RAMA_RING, ASHOKA_VANA",
     "Hanuman with joined palms offering Rama's ring to Sita under the Ashoka tree; Sita receiving it and smiling for the first time.",
     "Sita holds the ring to her heart and smiles.",
@@ -5307,6 +5300,13 @@
     "The gate crashes.",
     "Slow low-angle push-in.",
     "Dust, golden light."
+   ],
+   [
+    "HANUMAN",
+    "Hanuman speaking gently, hands folded.",
+    "He speaks with reverence.",
+    "Slow push-in.",
+    "Soft light."
    ],
    [
     "",
@@ -5327,8 +5327,8 @@
    "video",
    "image",
    "image",
-   "image",
    "video",
+   "image",
    "image",
    "image"
   ],
@@ -6793,18 +6793,18 @@
     "Warm golden light."
    ],
    [
-    "RISHIS",
-    "Learned scholars receiving gifts with joy.",
-    "They bless Rama.",
-    "Slow push-in.",
-    "Warm light."
-   ],
-   [
     "RAMA_KING, RISHIS_GROUP",
     "King Rama giving many cows to learned brahmins with respect, following the scriptures.",
     "He hands the rope of a cow to a sage with joined palms.",
     "Slow macro push-in.",
     "Golden sparkle."
+   ],
+   [
+    "RISHIS",
+    "Learned scholars receiving gifts with joy.",
+    "They bless Rama.",
+    "Slow push-in.",
+    "Warm light."
    ],
    [
     "RAMA_KING",
@@ -6865,18 +6865,18 @@
     "Golden light."
    ],
    [
-    "PEOPLE, AYODHYA_PEOPLE",
-    "People of different professions working: a farmer, a teacher, a soldier, a trader.",
-    "They work diligently.",
-    "Slow tracking.",
-    "Warm light."
-   ],
-   [
     "RAMA_KING, AYODHYA_COURT",
     "King Rama blessing many young kings kneeling before him, each sent to rule his own land by dharma.",
     "The kings rise and bow as Rama blesses them.",
     "Slow aerial glide.",
     "Golden light."
+   ],
+   [
+    "PEOPLE, AYODHYA_PEOPLE",
+    "People of different professions working: a farmer, a teacher, a soldier, a trader.",
+    "They work diligently.",
+    "Slow tracking.",
+    "Warm light."
    ],
    [
     "RAMA_KING, AYODHYA_PEOPLE",

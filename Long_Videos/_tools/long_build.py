@@ -133,7 +133,21 @@ def clean_visual(v):
     v = re.sub(r'\s*\((?:see|per|use)[^)]*\)', '', v, flags=re.I)
     v = re.sub(r'\s*\(generic rakshasi template[^)]*\)', '', v)   # the guards' look comes from their reference
     v = re.sub(r",?\s*per (?:the )?style guide'?s?[^,.;]*", '', v, flags=re.I)
+    # on-screen words belong to the editor, never inside the picture (Flow draws them as garbled letters)
+    v = re.sub(r'[;,]?\s*(?:with )?(?:an? )?(?:text )?overlays?\s*[“"«][^”"»]*[”"»](?:\s*(?:,|and)\s*[“"«][^”"»]*[”"»])*', '', v, flags=re.I)
+    v = re.sub(r'[;,]?\s*(?:on-screen|onscreen) (?:text|title|caption)\s*[:“"«][^.;]*', '', v, flags=re.I)
+    # editor's words for how a shot is cut ("Mythic inset:", "Montage:", "Cut back to present:") are not picture content
+    v = re.sub(r'(?i)(?:\b(?:a|an|the|new|second|third|fourth|brief|quiet)\s+)*(?:mythic\s+|illustrative\s+)?'
+               r'\b(?:inset|montage)(?:(?:\s+within [^:—]*)?\s*:|\s+(?:begins|continues|escalates)\s*[:—])\s*', '', v)
+    v = re.sub(r'(?i)\bcut (?:back )?to (?:the )?present(?:-tense)?\s*[:—]\s*', '', v)
     return re.sub(r'\s+', ' ', v).strip(' ,;')
+
+
+def clean_loc(loc):
+    """The place only: 'Mythic inset, desaturated' or 'Mithila, gathering montage' or '—' are notes for the editor."""
+    loc = re.sub(r'(?i)\b(?:mythic inset|inset|flashback|desaturated|[a-z ]*montage|title card|end card|present(?:-tense)?)\b[^,→]*', '', loc or '')
+    parts = [p.strip(' .,—-') for p in re.split(r'\s*(?:,|→)\s*', loc)]
+    return ', '.join(p for p in parts if p)
 
 
 def scene_text(scene):
@@ -371,10 +385,24 @@ def _split(refs, looks):
     return known, [x.rstrip(' .') for x in extra if x and not x.startswith('Sita is NOT')]
 
 
-def _frame(scene, extra=()):
-    loc = scene.get('loc', '')
-    also = (' Also in the scene: ' + '. '.join(extra) + '.') if extra else ''
-    return scene_text(scene) + '.' + also + (f' Setting: {loc}.' if loc else '')
+NO_RAMA = (' Rama is not in this picture: do not add any young prince or hero beyond the people described, and give '
+           'every king his own age and face as described.')
+
+
+def _frame(scene, extra=(), keys=()):
+    """The scene, then its people. With no reference images at all (a story inset: Kushanabha and his daughters),
+    the people are named as the only ones in the picture; and when Rama is not cast, Flow is told so, because it
+    otherwise turns any king into its usual young hero (V06's first picture, 2026-11-12)."""
+    loc = clean_loc(scene.get('loc', ''))
+    text = scene_text(scene)
+    if extra:
+        label = ' Also in the scene: ' if keys else ' The people in this picture, and nobody else: '
+        people = label + '. '.join(extra) + '.'
+    else:
+        people = ''
+    rama_here = any(k.split(':')[0].startswith('RAMA') for k in keys) or re.search(r'\bRama\b', text + ' '.join(extra))
+    guard = NO_RAMA if (keys or extra) and not rama_here else ''
+    return text + '.' + people + guard + (f' Setting: {loc}.' if loc else '')
 
 
 def _motion(kind):
@@ -385,7 +413,7 @@ def _motion(kind):
 @soft
 def scene_prompt(scene, kind, looks, opening=False, refs=()):
     keys, extra = _split(refs, looks)
-    frame = _frame(scene, extra) + (OPENING if opening else '')
+    frame = _frame(scene, extra, keys) + (OPENING if opening else '')
     cam = cam_for(scene, 0)
     if kind == 'video':
         return wide(SH.video(keys, frame, _motion('video'), cam, LIGHT))
@@ -395,13 +423,13 @@ def scene_prompt(scene, kind, looks, opening=False, refs=()):
 @soft
 def end_prompt(scene, kind, looks, i=0, refs=()):
     keys, extra = _split(refs, looks)
-    return wide(SH.end_still(keys, _frame(scene, extra), _motion(kind), cam_for(scene, i), LIGHT, kind == 'video'))
+    return wide(SH.end_still(keys, _frame(scene, extra, keys), _motion(kind), cam_for(scene, i), LIGHT, kind == 'video'))
 
 
 @soft
 def video_prompt(scene, kind, looks, i=0, refs=()):
     keys, extra = _split(refs, looks)
-    return wide(SH.two_frame_video(keys, _frame(scene, extra), _motion(kind), cam_for(scene, i), LIGHT, kind == 'video'))
+    return wide(SH.two_frame_video(keys, _frame(scene, extra, keys), _motion(kind), cam_for(scene, i), LIGHT, kind == 'video'))
 
 
 @soft

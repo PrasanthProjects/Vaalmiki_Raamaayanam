@@ -56,6 +56,16 @@ SHOTS_USED = set()
 SEEN_EPS = set()   # episodes built in this run (SHOTS lines of other kaandas are read too)
 LOCS = {}        # (episode, scene) -> a corrected location register (data LOC lines)
 LESSON_PIC = {}  # episode -> the scene whose picture goes with its life lesson (data LESSON lines)
+TEL = {}         # episode -> its Telugu name in titles, when the book's name no longer fits (data TEL lines)
+STORY = {}       # (episode, scene) -> teller and listeners of an old story told inside the scene (data STORY lines)
+# A story a character tells (Vishwamitra's Kushanabha, Sumantra's Rishyashringa, Janaka's bow) is shown the way the
+# listener imagines it: a vision of long ago, with only the story's own people, never the teller beside them (user 2026-11-12)
+STORY_LOOK = ("An old story as the listener imagines it, shown like a vision of long ago: a soft golden glow and a gentle "
+              "dreamy haze at the edges of the frame, warm, slightly faded colours. ")
+STORY_END = " This is the story itself, not the telling of it: nobody is shown telling it or listening to it."
+# The "నమస్కారం… ఈ రోజు…" welcome after the channel intro only listed the topics and repeated the next picture;
+# the user found it boring (2026-11-12), so videos go hook -> intro -> recap -> story. True brings it back.
+WELCOMES = False
 
 
 def cast(keys, visual, ep, loc=''):
@@ -145,6 +155,16 @@ def read_fixes(path):
             if head.startswith('LOC '):
                 _, ep, no = head.split()
                 LOCS[(ep, int(no))] = rest
+                continue
+            if head.startswith('STORY '):  # "STORY E1.10 2-4,6-27 | VISHWAMITRA, RAMA, LAKSHMANA": told stories
+                w = head.split()
+                for rng in w[2].split(','):
+                    lo, _, hi = rng.partition('-')
+                    for no in range(int(lo), int(hi or lo) + 1):
+                        STORY[(w[1], no)] = [k.strip() for k in rest.split(',') if k.strip()]
+                continue
+            if head.startswith('TEL '):    # 'TEL E1.01 | నారద మహర్షి ప్రశ్న': the episode's name in titles and the index
+                TEL[head.split()[1]] = rest
                 continue
             if head.startswith('LESSON '):
                 LESSON_PIC[head.split()[1]] = int(rest)
@@ -262,7 +282,7 @@ def story(ep, d, fixes):
     kinds = dict(zip([s['no'] for s in out], L.kinds_for(out)))
     for s in out:
         s['kind'] = kinds[s['no']]
-    return {'ep': ep, 'tel': tel, 'src': src, 'scenes': out, 'd': d, 'k': int(ep[1:].split('.')[0]),
+    return {'ep': ep, 'tel': TEL.get(ep, tel), 'src': src, 'scenes': out, 'd': d, 'k': int(ep[1:].split('.')[0]),
             'starts': chapter_starts(d, out)}
 
 
@@ -340,13 +360,13 @@ def assemble(parts, extras, splits, vid_index):
             seq.append({'id': 'I', 'ep': e['ep'], 'label': 'ఇంట్రో (ఛానల్ బంపర్)', 'kind': 'video', 'secs': BUMPER,
                         'narration': '', 'new': True, 'loc': '', 'onscreen': 'పురాణ కథా శ్రవణం', 'tone': 'calm',
                         'visual': INTRO_VISUAL})
-            welcome = splits.get((e['ep'], st[c0][2] if c0 else None, 'welcome'))
+            welcome = splits.get((e['ep'], st[c0][2] if c0 else None, 'welcome')) if WELCOMES else None
             if welcome:
                 seq.append({'id': 'W', 'ep': e['ep'], 'label': 'స్వాగతం', 'kind': 'image', 'secs': L.speak_secs(welcome),
                             'narration': welcome, 'new': True, 'loc': sc[0]['loc'], 'onscreen': '', 'tone': 'welcome',
                             'from_no': sc[0]['no'],
                             'visual': f"A calm, wide establishing view of the setting: {sc[0]['visual']}"})
-            elif e['ep'] != 'E0.01':
+            elif e['ep'] != 'E0.01' and WELCOMES:
                 warn.append(f"{e['ep']}: video opening has no 'WELCOME {e['ep']}{' ' + str(st[c0][2]) if c0 else ''} | …' line")
         if not ep_start and sp.get('RECAP'):
             seq.append({'id': 'R', 'ep': e['ep'], 'label': 'ఇంతవరకు', 'kind': 'image', 'secs': L.speak_secs(sp['RECAP']),
@@ -527,6 +547,39 @@ def shot_split(item, shots):
     return out
 
 
+def two_framings(visual):
+    """The two pictures of a long still scene: framings that agree with the scene's own words (V06 had
+    'Wide establishing view: Close on Kushanabha…', 2026-11-12)."""
+    v = visual.lower()
+    if re.search(r'\b(close on|close-up|closeup|face|eyes|tears)\b', v):
+        return ('Medium shot of the same moment, showing the people and their surroundings: ', 'Close, emotional framing: ')
+    if re.search(r'\b(wide|landscape|sweeping|establishing|panorama|vast)\b', v):
+        return ('', 'A closer view inside the same scene, on its main figures: ')
+    return ('Wide establishing view: ', 'Closer, emotional framing of the same moment: ')
+
+
+def shot_cast(item, no, keys):
+    """A data CAST line covers a whole scene; a split picture (SHOTS) keeps only the people it shows: anyone named
+    only in another picture of the scene is dropped (V06: Satyavati and Richika in the picture of Vishwamitra
+    talking to Rama, 2026-11-12), and everyone this picture's own words name, and the episode allows, is added.
+    A whole scene keeps its CAST line exactly (an inset names Rama in passing yet shows only the inset)."""
+    keys = list(keys)
+    if not item.get('shot'):
+        return keys
+    same = lambda a, b: a == b or a.startswith(b + '_') or b.startswith(a + '_')   # VISHWAMITRA_KING is Vishwamitra
+    here = set(S.names_in(item['visual']))
+    shots = SHOTS.get((item.get('cast_ep', item['ep']), no), [])
+    elsewhere = {k for v in shots for k in S.names_in(v.removeprefix('VIDEO: '))} - here
+    keys = [k for k in keys if not any(same(k.partition(':')[0], e) for e in elsewhere)
+            or any(same(k.partition(':')[0], h) for h in here)]
+    have = {k.partition(':')[0] for k in keys}
+    for k in S.names_in(item['visual']):
+        if not any(same(k, h) for h in have) and L.ep_key(item['ep']) >= L.ep_key(S.FROM_EP.get(k, 'E0.00')):
+            keys.append(k)
+            have.add(k)
+    return keys
+
+
 def expand(seq):
     """Retention pass: recap-length tip; a long line told in its own pictures (SHOTS), else two stills
     (wide, then closer) for long still scenes."""
@@ -543,10 +596,11 @@ def expand(seq):
             item['tip'] = 'రీక్యాప్‌ను ఎడిట్‌లో 8 సెకన్లలోపు కుదించండి – హుక్ తరువాత వీక్షకులు వెంటనే కొత్త కథ కోరుకుంటారు.'
         if item['kind'] == 'image' and item['secs'] >= 11 and not item['new']:
             a = math.ceil(item['secs'] / 2)
+            first, second = two_framings(item['visual'])
             out.append(dict(item, id=item['id'] + 'a', label=item['label'] + ' (1/2)', secs=a,
-                            visual='Wide establishing view: ' + item['visual']))
+                            visual=first + item['visual']))
             out.append(dict(item, id=item['id'] + 'b', label=item['label'] + ' (2/2)', secs=item['secs'] - a,
-                            visual='Closer, emotional framing of the same moment: ' + item['visual'],
+                            visual=second + item['visual'],
                             narration='(పై నెరేషన్ కొనసాగుతుంది – చిత్రం మాత్రమే మారుతుంది)', cont=True, tip=''))
         else:
             out.append(item)
@@ -712,12 +766,23 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
     for n, item in enumerate(seq, 1):
         s = {'visual': item['visual'], 'loc': item['loc']}
         no = item['scene']['no'] if 'scene' in item else item.get('from_no')
+        story = STORY.get((item.get('cast_ep', item['ep']), no)) if no is not None else None
+        def told(k):   # the teller or a listener of the story (VISHWAMITRA_KING is the story's own young king)
+            base = k.split(':')[0]
+            return base != 'VISHWAMITRA_KING' and any(base == d or base.startswith(d + '_') for d in story)
+        if story is not None:
+            s['visual'] = STORY_LOOK + item['visual'].rstrip(' .') + '.' + STORY_END
         if (item.get('cast_ep', item['ep']), no) in CAST:
-            looks, refs = cast(CAST[(item.get('cast_ep', item['ep']), no)], item['visual'], item['ep'], item['loc'])
+            keys = shot_cast(item, no, CAST[(item.get('cast_ep', item['ep']), no)])
+            if story is not None:
+                keys = [k for k in keys if not told(k)]
+            looks, refs = cast(keys, item['visual'], item['ep'], item['loc'])
         else:
             looks, refs = L.scene_cast(s, item['ep'])
+            if story is not None and any(told(r) for r in refs):
+                print(f"STORY {item['ep']} {no}: the teller or a listener is drawn in ({', '.join(r for r in refs if told(r))}); add a CAST line")
         refs_used.update(refs)
-        place = place_for(item['loc'], item['ep'])
+        place = None if story is not None else place_for(item['loc'], item['ep'])
         if place:   # the location gets its own reference image, like a character
             refs = refs + [place]
             PLACES_USED.add(place)
@@ -803,7 +868,7 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
         '*`Long_Videos/_tools/video_build.py` తయారుచేసిన ఫైల్. చేత్తో మార్చవద్దు – మార్పులు సీన్ పట్టికలో లేదా '
         '`_tools/data/` లో చేసి మళ్ళీ బిల్డ్ చేయండి.*\n',
         '| | |\n|---|---|',
-        f'| వీడియో నిడివి | **{mmss(total)}** (హుక్ → ఇంట్రో {BUMPER} సె → స్వాగతం → కథ … → ఔట్రో {OUTRO} సె; {len(seq)} క్లిప్‌లు) |',
+        f'| వీడియో నిడివి | **{mmss(total)}** (హుక్ → ఇంట్రో {BUMPER} సె → ఇంతవరకు → కథ … → ఔట్రో {OUTRO} సె; {len(seq)} క్లిప్‌లు) |',
         f"| ఎపిసోడ్‌లు | {eps_long} – శ్లోకాలు లేకుండా, ఒకే కథగా కలిపి |",
         f'| క్లిప్‌లు | 🎥 వీడియో {n_video} · 🖼️ ఇమేజ్ + కదలిక {len(seq) - n_video} |',
         f'| క్యాప్షన్లు | `{srt_rel}` |',

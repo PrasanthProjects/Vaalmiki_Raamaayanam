@@ -19,8 +19,8 @@
 ### 3
 1 | RAMA_PRINCE, LAKSHMANA_PRINCE, SITA_PRINCESS, AYODHYA_PALACE | Rama, Lakshmana and Sita standing together in the palace garden, seen as a glowing vision. | The figures emerge gently from golden light. | Slow push-in. | Luminous vision glow, soft golden haze.
 2 | DASHARATHA, KAUSALYA, SUMITRA, KAIKEYI, AYODHYA_COURT | King Dasharatha seated on his throne with his three queens beside him, seen as a glowing vision. | The vision shimmers into focus. | Slow side dolly. | Warm royal light, golden vision haze.
-3 | VALMIKI, TAMASA_ASHRAM | Valmiki in meditation, faint images of a royal palace glowing in the air above him. | The images brighten as he concentrates. | Slow tilt up from Valmiki to the vision. | Golden vision light against the morning sky.
-4 | DASHARATHA, KAUSALYA, RAMA_PRINCE, LAKSHMANA_PRINCE, SITA_PRINCESS, AYODHYA_PALACE | A glowing vision of King Dasharatha with his queens in the Ayodhya palace, Rama, Lakshmana and Sita beside them. | The vision glows softly; the family smiles. | Slow aerial push forward. | Luminous golden haze.
+3 | DASHARATHA, KAUSALYA, RAMA_PRINCE, LAKSHMANA_PRINCE, SITA_PRINCESS, AYODHYA_PALACE | A glowing vision of King Dasharatha with his queens in the Ayodhya palace, Rama, Lakshmana and Sita beside them. | The vision glows softly; the family smiles. | Slow aerial push forward. | Luminous golden haze.
+4 | VALMIKI, TAMASA_ASHRAM | Valmiki in meditation, faint images of a royal palace glowing in the air above him. | The images brighten as he concentrates. | Slow tilt up from Valmiki to the vision. | Golden vision light against the morning sky.
 5 | AYODHYA_PEOPLE, AYODHYA_CITY | Happy people of Ayodhya in the streets, seen as a glowing vision. | People walk and greet each other. | Slow tracking shot. | Warm sunlight, soft vision glow.
 6 | VALMIKI, TAMASA_ASHRAM | Close view of Valmiki's peaceful face as he sees the vision. | A gentle smile forms on his lips. | Slow push-in. | Soft rim light, golden glow.
 7 | RAMA_PRINCE, LAKSHMANA_PRINCE, AYODHYA_PALACE | Rama and Lakshmana talking and smiling together in the palace garden. | Lakshmana laughs at something Rama says, motion slows. | Slow push-in. | Warm golden light, soft flash.
@@ -55,9 +55,9 @@
 ### 7
 1 | VALMIKI, TAMASA_ASHRAM | Valmiki seated with a bundle of palm-leaf manuscripts and an iron writing stylus before him. | He picks up the stylus with reverence. | Slow push-in from medium to close-up. | Warm golden morning light.
 2 | VALMIKI, TAMASA_ASHRAM | Valmiki arranging fresh palm leaves neatly on a low wooden stand. | He smooths each leaf gently. | Slow side dolly. | Soft light through the hut.
-3 | VALMIKI, VALMIKI_SHISHYA, TAMASA_ASHRAM | The young disciple bringing a bundle of palm leaves to Valmiki. | Valmiki accepts the bundle with a nod. | Slow orbit. | Warm golden light.
+3 | RAMA_KING, AYODHYA_COURT | Rama seated on the throne, gentle and radiant, seen as a glowing vision. | He smiles kindly. | Slow tilt up. | Luminous vision glow.
 4 | VALMIKI, TAMASA_ASHRAM | Valmiki holding the stylus over a palm leaf, ready to write. | He pauses, takes a breath, then begins. | Slow push-in. | Soft lamp glow.
-5 | RAMA_KING, AYODHYA_COURT | Rama seated on the throne, gentle and radiant, seen as a glowing vision. | He smiles kindly. | Slow tilt up. | Luminous vision glow.
+5 | VALMIKI, VALMIKI_SHISHYA, TAMASA_ASHRAM | The young disciple bringing a bundle of palm leaves to Valmiki. | Valmiki accepts the bundle with a nod. | Slow orbit. | Warm golden light.
 6 | - | Symbolic shot: a seed in soil sprouting into a young plant. | The sprout rises and unfolds its first leaves. | Slow push-in. | Fresh morning light.
 7 | - | The ocean sparkling with countless jewel-like points of light on its waves. | Waves roll gently, the sparkles twinkle, motion slows. | Slow aerial push forward. | Golden light, soft flash.
 

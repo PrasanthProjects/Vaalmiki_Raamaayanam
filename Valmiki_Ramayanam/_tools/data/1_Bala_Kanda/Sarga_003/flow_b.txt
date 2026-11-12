@@ -137,8 +137,8 @@
 1 | RAMA_ARANYA, RAVANA_TEN, LANKA_BATTLEFIELD | Rama drawing his bow, facing ten-headed Ravana on the battlefield. | Rama releases a blazing arrow. | Slow low-angle push-in. | Dramatic golden light.
 2 | KUMBHAKARNA, LANKA_BATTLEFIELD | Kumbhakarna on the battlefield with a huge mace. | He raises the mace high. | Slow low-angle orbit. | Stormy light.
 3 | INDRAJIT, LAKSHMANA_ARANYA, LANKA_BATTLEFIELD | Lakshmana facing Indrajit in battle. | Lakshmana draws his bow. | Slow side dolly. | Dramatic dusky light.
-4 | RAVANA_TEN, LANKA_BATTLEFIELD | Ravana falling back in defeat on the battlefield. | His crowns tilt as he falls. | Slow push-in. | Fading red light, no blood.
-5 | SITA_LANKA, ASHOKA_VANA | Sita in the Ashoka grove with a gentle smile of relief. | She looks up toward the sky. | Slow push-in. | Soft golden light.
+4 | SITA_LANKA, ASHOKA_VANA | Sita in the Ashoka grove with a gentle smile of relief. | She looks up toward the sky. | Slow push-in. | Soft golden light.
+5 | RAVANA_TEN, LANKA_BATTLEFIELD | Ravana falling back in defeat on the battlefield. | His crowns tilt as he falls. | Slow push-in. | Fading red light, no blood.
 6 | DEVAS | Symbolic shot: devas showering flowers from the sky. | Flowers fall in slow motion. | Slow tilt down. | Bright divine light.
 7 | VIBHISHANA, LANKA_CITY | Vibhishana seated on the throne of Lanka. | He bows his head humbly, motion slows. | Slow push-in. | Golden royal light, soft flash.
 

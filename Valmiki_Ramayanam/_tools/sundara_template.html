@@ -1,0 +1,303 @@
+<title>సుందరకాండ పారాయణం</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ramabhadra&family=Noto+Sans+Telugu:wght@400;600;700&family=Noto+Serif+Telugu:wght@500;700&family=IBM+Plex+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: the long-video workbench — a song list rail on the left (desktop), one song's work on the right in tabs
+   (Suno · slokas · pictures); phones get a picker bar instead of the rail. Same palette as the long-video pages. */
+:root {
+  --bg: #F3F2F8; --surface: #FFFFFF; --sunk: #EAE8F3; --ink: #1D1A33; --muted: #5C5878; --line: #D9D6E7;
+  --saffron: #C2520F; --saffron-soft: #FBE7D8; --neela: #2D3C92; --neela-soft: #E3E7FA; --done: #2F7D4F; --done-soft: #DDF1E4;
+  --display: "Ramabhadra", "Noto Sans Telugu", "Nirmala UI", sans-serif;
+  --body: "Noto Sans Telugu", "Nirmala UI", "Gautami", system-ui, sans-serif;
+  --verse: "Noto Serif Telugu", "Noto Sans Telugu", "Nirmala UI", serif;
+  --mono: "IBM Plex Mono", ui-monospace, "Cascadia Mono", Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #121120; --surface: #1B1A2C; --sunk: #232238; --ink: #ECEAF7; --muted: #A6A2C4; --line: #2F2D48;
+  --saffron: #F28B44; --saffron-soft: #3A2416; --neela: #9AA9F5; --neela-soft: #222A52; --done: #6CC891; --done-soft: #17331F; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #121120; --surface: #1B1A2C; --sunk: #232238; --ink: #ECEAF7; --muted: #A6A2C4; --line: #2F2D48;
+  --saffron: #F28B44; --saffron-soft: #3A2416; --neela: #9AA9F5; --neela-soft: #222A52; --done: #6CC891; --done-soft: #17331F; color-scheme: dark }
+
+*, *::before, *::after { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.6 var(--body); }
+button, select, input { font: inherit; color: inherit; }
+button { cursor: pointer; }
+:focus-visible { outline: 2px solid var(--saffron); outline-offset: 2px; }
+.mono { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+
+.app { display: grid; grid-template-columns: 300px minmax(0, 1fr); min-height: 100vh; }
+.rail { border-right: 1px solid var(--line); background: var(--surface); position: sticky; top: env(safe-area-inset-top, 0px);
+  height: 100vh; overflow-y: auto; padding-block: 20px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: 16px; }
+.brand { font-family: var(--display); font-weight: 400; font-size: 22px; line-height: 1.25; margin: 0; text-wrap: balance; }
+.brand small { display: block; font-family: var(--body); font-size: 13px; color: var(--muted); margin-top: 4px; }
+.total { margin: 16px 0; display: grid; gap: 6px; font-size: 13px; color: var(--muted); }
+.bar { height: 6px; border-radius: 3px; background: var(--sunk); overflow: hidden; }
+.bar > i { display: block; height: 100%; background: var(--done); width: 0; transition: width .3s; }
+.list { list-style: none; margin: 12px 0 0; padding: 0; display: grid; gap: 2px; }
+.list button { width: 100%; text-align: left; display: grid; grid-template-columns: 36px minmax(0, 1fr) auto; gap: 8px; align-items: center;
+  padding: 8px; border: 0; border-radius: 8px; background: none; }
+.list button:hover { background: var(--sunk); }
+.list button[aria-current="true"] { background: var(--neela-soft); }
+.list .num { font-family: var(--mono); font-size: 12px; color: var(--muted); }
+.list .hl { font-size: 14px; line-height: 1.35; }
+.list .hl small { display: block; color: var(--muted); font-size: 12px; }
+.mini { width: 40px; height: 6px; border-radius: 3px; background: var(--line); overflow: hidden; }
+.mini i { display: block; height: 100%; background: var(--done); }
+.railnote { margin-top: 18px; font-size: 12.5px; color: var(--muted); line-height: 1.5; }
+
+main { min-width: 0; padding-block: 0 48px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.wrap { max-width: 860px; margin: 0 auto; }
+.top { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); padding-block: 14px 10px; border-bottom: 1px solid var(--line); }
+.picker { display: none; gap: 8px; align-items: center; margin-bottom: 10px; }
+.picker select { flex: 1; min-width: 0; padding: 8px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); }
+.navbtn { border: 1px solid var(--line); background: var(--surface); border-radius: 8px; padding: 7px 12px; min-height: 40px; }
+.eyebrow { font-size: 12px; letter-spacing: .06em; color: var(--muted); }
+h1 { font-family: var(--display); font-weight: 400; font-size: clamp(24px, 4vw, 32px); line-height: 1.25; margin: 2px 0 6px; text-wrap: balance; }
+h1 mark { background: none; color: var(--saffron); }
+.facts { display: flex; gap: 6px; flex-wrap: wrap; margin: 2px 0 10px; }
+.fact { font-size: 12.5px; padding: 1px 10px; border-radius: 999px; background: var(--neela-soft); color: var(--neela); }
+.tabs { display: flex; gap: 6px; flex-wrap: wrap; }
+.tab { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 5px 14px; font-size: 14px; min-height: 36px; }
+.tab[aria-selected="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+
+.gist { margin: 18px 0 6px; padding: 14px 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; }
+.gist p { margin: 0; }
+h2 { font-family: var(--display); font-weight: 400; font-size: 20px; margin: 22px 0 8px; }
+.steps { margin: 0; padding-left: 1.3em; display: grid; gap: 2px; font-size: 14px; color: var(--muted); }
+.filters { display: flex; gap: 6px; flex-wrap: wrap; margin: 16px 0 10px; align-items: center; }
+.filters span { font-size: 13px; color: var(--muted); margin-right: 4px; }
+.chip { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 3px 12px; font-size: 13px; }
+.chip[aria-pressed="true"] { border-color: var(--saffron); color: var(--saffron); background: var(--saffron-soft); }
+
+.cards { display: grid; gap: 12px; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; display: grid; gap: 10px; }
+.card.done { background: var(--done-soft); border-color: transparent; }
+.card.done .prompt { display: none; }
+.head { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; }
+.head .no { font-family: var(--mono); font-weight: 600; }
+.head .label { font-weight: 600; }
+.kind { font-size: 12px; font-weight: 700; padding: 2px 10px; border-radius: 999px; letter-spacing: .02em; }
+.kind.wide { background: var(--neela-soft); color: var(--neela); }
+.kind.tall { background: var(--saffron-soft); color: var(--saffron); }
+.check { margin-left: auto; display: inline-flex; gap: 6px; align-items: center; font-size: 14px; cursor: pointer; }
+.check input { width: 20px; height: 20px; accent-color: var(--done); }
+.shows { font-size: 14px; color: var(--muted); margin: 0; }
+.refs { display: flex; gap: 6px; flex-wrap: wrap; }
+.ref { font-family: var(--mono); font-size: 12px; padding: 1px 8px; border-radius: 6px; background: var(--sunk); }
+.prompt { position: relative; background: var(--sunk); border-radius: 10px; padding: 10px 12px; }
+.prompt .plabel { font-size: 12.5px; font-weight: 600; color: var(--muted); margin-bottom: 4px; }
+.prompt pre { margin: 0; white-space: pre-wrap; word-break: break-word; font: 12.5px/1.55 var(--mono); max-height: 5.2em; overflow: hidden; }
+.prompt.open pre { max-height: none; }
+.prompt.text pre { font: 14.5px/1.75 var(--body); max-height: 14em; }
+.prompt.text.open pre { max-height: none; }
+.prompt .actions { display: flex; gap: 8px; margin-top: 8px; flex-wrap: wrap; }
+.copy { border: 0; border-radius: 8px; padding: 8px 18px; font-weight: 700; background: var(--saffron); color: #fff; min-height: 40px; }
+.copy.ok { background: var(--done); }
+.more { border: 1px solid var(--line); background: var(--surface); border-radius: 8px; padding: 6px 12px; font-size: 13px; min-height: 40px; }
+.verse { border-left: 3px solid var(--saffron); background: var(--surface); border-radius: 0 12px 12px 0; padding: 12px 16px; display: grid; gap: 6px;
+  border-top: 1px solid var(--line); border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.verse .ref { justify-self: start; }
+.verse .sk { font-family: var(--verse); font-size: 18.5px; line-height: 1.8; }
+.verse .mean { color: var(--muted); font-size: 14.5px; margin: 0; }
+.src { margin: 0; padding-left: 1.2em; display: grid; gap: 6px; color: var(--muted); font-size: 14px; }
+.src b { color: var(--ink); font-weight: 600; }
+.tablewrap { overflow-x: auto; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; }
+table { width: 100%; border-collapse: collapse; font-size: 14.5px; }
+th, td { text-align: left; padding: 10px 14px; border-bottom: 1px solid var(--line); }
+th { font-weight: 600; color: var(--muted); font-size: 13px; }
+td.n { font-family: var(--mono); white-space: nowrap; }
+tr:last-child td { border-bottom: 0; }
+.note { color: var(--muted); font-size: 14px; max-width: 62ch; }
+
+@media (max-width: 900px) {
+  .app { grid-template-columns: 1fr; }
+  .rail { display: none; }
+  .picker { display: flex; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="app">
+  <aside class="rail" aria-label="పాటలు">
+    <h1 class="brand">🙏 సుందరకాండ పారాయణం<small>వాల్మీకి శ్లోకాలతో పాటలు · ఒక్కో సర్గకు ఒక పాట</small></h1>
+    <div class="total"><span id="totalTxt"></span><div class="bar"><i id="totalBar"></i></div></div>
+    <ul class="list" id="list"></ul>
+    <p class="railnote">68 సర్గలు, 2,772 శ్లోకాలు (IIT కాన్పూర్ వాల్మీకి పాఠం; గీతా ప్రెస్ సంఖ్యలు కొద్దిగా మారవచ్చు). ✓ గుర్తులు ఈ పరికరంలోనే ఉంటాయి.</p>
+  </aside>
+  <main>
+    <div class="wrap">
+      <div class="top">
+        <div class="picker"><button class="navbtn" id="prev" aria-label="ముందరి పాట">‹</button><select id="pick" aria-label="పాట ఎంచుకోండి"></select><button class="navbtn" id="next" aria-label="తరువాతి పాట">›</button></div>
+        <div class="eyebrow" id="eyebrow"></div>
+        <h1 id="title"></h1>
+        <div class="facts" id="facts"></div>
+        <div class="tabs" role="tablist" id="tabs"></div>
+      </div>
+      <div id="body"></div>
+    </div>
+  </main>
+</div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(function () {
+  const SONGS = JSON.parse(document.getElementById('data').textContent);
+  const PLAN = SONGS.length;   // the last list entry: the parayanam plan
+  const $ = (id) => document.getElementById(id);
+  const el = (t, c, x) => { const e = document.createElement(t); if (c) e.className = c; if (x != null) e.textContent = x; return e; };
+  const store = { get(k, d) { try { const v = localStorage.getItem(k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
+                  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} } };
+  let done = store.get('sundara-done', {});
+  let cur = Math.min(store.get('sundara-cur', 0), PLAN), tab = store.get('sundara-tab', 'suno'), filter = 'all';
+
+  const picsOf = (s) => [...(s.pics.thumb ? ['thumb'] : []), ...s.pics.scenes.map((_, i) => 'p' + i)];
+  const doneKey = (s, id) => `S${s.sarga}:${id}`;
+  const countDone = (s) => picsOf(s).filter((id) => done[doneKey(s, id)]).length;
+
+  function copyBtn(label, text, pre) {
+    const b = el('button', 'copy', label); b.type = 'button';
+    b.addEventListener('click', () => {
+      const ok = () => { b.textContent = 'కాపీ అయింది ✓'; b.classList.add('ok'); setTimeout(() => { b.textContent = label; b.classList.remove('ok'); }, 1500); };
+      const fall = () => { const r = document.createRange(); r.selectNodeContents(pre); const s = getSelection(); s.removeAllRanges(); s.addRange(r); b.textContent = 'ఎంచుకున్నాం – కాపీ చేయండి'; };
+      try { navigator.clipboard.writeText(text).then(ok, fall); } catch (e) { fall(); }
+    });
+    return b;
+  }
+  function prompt(label, text, cls, open) {
+    const box = el('div', 'prompt' + (cls ? ' ' + cls : '') + (open ? ' open' : ''));
+    box.append(el('div', 'plabel', label));
+    const pre = el('pre', '', text); box.append(pre);
+    const act = el('div', 'actions'); act.append(copyBtn('📋 కాపీ', text, pre));
+    if (!open) { const m = el('button', 'more', 'మొత్తం చూడండి'); m.type = 'button';
+      m.onclick = () => { box.classList.toggle('open'); m.textContent = box.classList.contains('open') ? 'తక్కువ చూపించు' : 'మొత్తం చూడండి'; }; act.append(m); }
+    box.append(act); return box;
+  }
+
+  function rail() {
+    const list = $('list'); list.innerHTML = '';
+    let all = 0, got = 0;
+    SONGS.forEach((s, i) => {
+      const n = picsOf(s).length, d = countDone(s); all += n; got += d;
+      const li = el('li'), b = el('button'); b.type = 'button'; if (i === cur) b.setAttribute('aria-current', 'true');
+      b.append(el('span', 'num', 'స' + s.sarga));
+      const hl = el('span', 'hl', s.title); hl.append(el('small', '', `పాట ${i + 1} · ${s.length} ని. · బొమ్మలు ${d}/${n}`)); b.append(hl);
+      const mini = el('span', 'mini'); const bar = el('i'); bar.style.width = (n ? 100 * d / n : 0) + '%'; mini.append(bar); b.append(mini);
+      b.onclick = () => go(i); li.append(b); list.append(li);
+    });
+    const li = el('li'), b = el('button'); b.type = 'button'; if (cur === PLAN) b.setAttribute('aria-current', 'true');
+    b.append(el('span', 'num', '🎙'), el('span', 'hl', 'పారాయణం ప్లాన్'), el('span')); b.onclick = () => go(PLAN); li.append(b); list.append(li);
+    $('totalTxt').textContent = `బొమ్మలు చేసినవి ${got} / ${all}`;
+    $('totalBar').style.width = (all ? 100 * got / all : 0) + '%';
+    const pick = $('pick'); pick.innerHTML = '';
+    SONGS.forEach((s, i) => { const o = el('option', '', `సర్గ ${s.sarga} · ${s.title}`); o.value = i; pick.append(o); });
+    const o = el('option', '', '🎙 పారాయణం ప్లాన్'); o.value = PLAN; pick.append(o); pick.value = cur;
+  }
+
+  function header() {
+    if (cur === PLAN) {
+      $('eyebrow').textContent = 'సుందరకాండ పారాయణం'; $('title').textContent = 'పారాయణం గొంతు – ఎంత అవుతుంది'; $('facts').innerHTML = ''; $('tabs').innerHTML = ''; return;
+    }
+    const s = SONGS[cur];
+    $('eyebrow').textContent = `సుందరకాండ · సర్గ ${s.sarga} · పాట ${cur + 1} / ${SONGS.length}`;
+    $('title').innerHTML = ''; const m = el('mark', '', s.title); $('title').append(m);
+    $('facts').innerHTML = '';
+    [s.length + ' నిమిషాలు', 'రాగం ' + s.raga.split('(')[0].trim(), s.tala, s.bpm + ' bpm', 'శ్లోకాలు ' + s.chants.map((c) => c.ref.split(' ').pop()).join(', ')]
+      .forEach((x) => $('facts').append(el('span', 'fact', x)));
+    const tabs = $('tabs'); tabs.innerHTML = '';
+    [['suno', '🎵 Suno సాహిత్యం'], ['slokas', '📜 శ్లోకాలు'], ['pics', `🖼️ బొమ్మలు ${countDone(s)}/${picsOf(s).length}`]].forEach(([k, t]) => {
+      const b = el('button', 'tab', t); b.type = 'button'; b.setAttribute('role', 'tab'); b.setAttribute('aria-selected', String(tab === k));
+      b.onclick = () => { tab = k; store.set('sundara-tab', k); draw(); }; tabs.append(b);
+    });
+  }
+
+  function suno(s, body) {
+    const g = el('div', 'gist'); g.append(el('p', '', s.gist)); body.append(g);
+    body.append(el('h2', '', 'Suno లో ఎలా చేయాలి'));
+    const ol = el('ol', 'steps');
+    ['Create → Custom మోడ్ (Instrumental ఆఫ్).', 'Lyrics లో కింది సాహిత్యం పేస్ట్ చేయండి.', 'Style of Music లో Suno స్టైల్ పేస్ట్ చేయండి.', 'More Options → Exclude Styles లో చివరి మాటలు.']
+      .forEach((x) => ol.append(el('li', '', x)));
+    body.append(ol);
+    const cards = el('div', 'cards'); cards.style.marginTop = '14px';
+    cards.append(prompt('పాట సాహిత్యం (Lyrics) · ' + s.lyrics.length + ' అక్షరాలు', s.lyrics, 'text', false));
+    cards.append(prompt('Suno స్టైల్ (Style of Music)', s.style, '', true));
+    cards.append(prompt('Exclude Styles', s.exclude, '', true));
+    body.append(cards);
+  }
+
+  function slokas(s, body) {
+    body.append(el('h2', '', 'పాటలో పారాయణంగా వచ్చే వాల్మీకి శ్లోకాలు'));
+    const cards = el('div', 'cards');
+    s.chants.forEach((c) => {
+      const v = el('div', 'verse'); const sk = el('div', 'sk'); sk.append(el('div', '', c.l1), el('div', '', c.l2));
+      v.append(el('span', 'ref', c.ref), sk); if (c.mean) v.append(el('p', 'mean', c.mean)); cards.append(v);
+    });
+    body.append(cards);
+    body.append(el('h2', '', 'ప్రతి చరణం ఏ శ్లోకాల నుండి'));
+    const ul = el('ul', 'src');
+    s.sources.forEach(([part, ref, text]) => { const li = el('li'); li.append(el('b', '', part + ' · ' + ref + ': '), document.createTextNode(text || '')); ul.append(li); });
+    body.append(ul);
+  }
+
+  function pics(s, body) {
+    const P = s.pics;
+    const f = el('div', 'filters'); f.append(el('span', '', 'చూపించు:'));
+    [['all', 'అన్నీ'], ['todo', 'ఇంకా చేయాల్సినవి'], ['done', 'చేసినవి']].forEach(([k, t]) => {
+      const c = el('button', 'chip', t); c.type = 'button'; c.setAttribute('aria-pressed', String(filter === k));
+      c.onclick = () => { filter = k; draw(); }; f.append(c);
+    });
+    body.append(f);
+    body.append(el('p', 'note', 'ముందు Reference బొమ్మలు చేసి Flow లో ingredients గా పెట్టండి. పూర్తి పాట వీడియోకు 16:9, పాట Shorts కు 9:16. వీడియో ప్రాంప్ట్ ఆ బొమ్మనే మెల్లగా కదిలిస్తుంది.'));
+    const cards = el('div', 'cards');
+    if (P.refs.length && filter !== 'done') {
+      const c = el('div', 'card'); const h = el('div', 'head'); h.append(el('span', 'label', '🧩 Reference బొమ్మలు'), el('span', 'kind wide', P.refs.length + ' బొమ్మలు')); c.append(h);
+      P.refs.forEach((r) => c.append(prompt(`${r.label} · ${r.key}.png`, r.prompt, '', false)));
+      cards.append(c);
+    }
+    const item = (id, no, label, shows, refs, list) => {
+      const isDone = !!done[doneKey(s, id)];
+      if ((filter === 'todo' && isDone) || (filter === 'done' && !isDone)) return;
+      const c = el('div', 'card' + (isDone ? ' done' : ''));
+      const h = el('div', 'head'); h.append(el('span', 'no', no), el('span', 'label', label));
+      const chk = el('label', 'check'); const cb = el('input'); cb.type = 'checkbox'; cb.checked = isDone;
+      cb.onchange = () => { done[doneKey(s, id)] = cb.checked; if (!cb.checked) delete done[doneKey(s, id)]; store.set('sundara-done', done); draw(); };
+      chk.append(cb, document.createTextNode('చేశాను')); h.append(chk); c.append(h);
+      if (shows) c.append(el('p', 'shows', shows));
+      if (refs && refs.length) { const r = el('div', 'refs'); refs.forEach((x) => r.append(el('span', 'ref', x + '.png'))); c.append(r); }
+      list.forEach(([l, t]) => c.append(prompt(l, t, '', false)));
+      cards.append(c);
+    };
+    if (P.thumb) item('thumb', '★', 'Thumbnail', '', P.thumb.refs, [['16:9 thumbnail (పూర్తి పాట)', P.thumb.wide], ['9:16 thumbnail (Shorts)', P.thumb.tall]]);
+    P.scenes.forEach((x, i) => item('p' + i, String(i + 1).padStart(2, '0'), x.sec, x.frame, x.refs,
+      [['🖼️ 16:9 బొమ్మ (పూర్తి పాట)', x.wide], ['🖼️ 9:16 బొమ్మ (Shorts)', x.tall], ['🎥 16:9 వీడియో (బొమ్మను కదిలించడానికి)', x.video], ['🎥 9:16 వీడియో', x.videoTall]]));
+    if (!cards.children.length) cards.append(el('p', 'note', filter === 'done' ? 'ఇంకా ఏదీ ✓ చేయలేదు.' : 'అన్నీ చేసేశారు ✓'));
+    body.append(cards);
+  }
+
+  function plan(body) {
+    const w = el('div', 'tablewrap'); w.style.marginTop = '18px';
+    w.innerHTML = '<table><thead><tr><th>ఎంత</th><th>క్రెడిట్‌లు</th><th>నిడివి (Vagmin)</th></tr></thead><tbody>' +
+      '<tr><td>1 శ్లోకం</td><td class="n">~100</td><td class="n">~9 సె.</td></tr>' +
+      '<tr><td>100 శ్లోకాలు</td><td class="n">~10,600</td><td class="n">~15 ని.</td></tr>' +
+      '<tr><td>సర్గ 1 మొత్తం (201 శ్లోకాలు)</td><td class="n">~21,300</td><td class="n">~30 ని.</td></tr>' +
+      '<tr><td>సుందరకాండ మొత్తం (2,772)</td><td class="n">~3,06,500</td><td class="n">~7 గం.</td></tr></tbody></table>';
+    body.append(w);
+    body.append(el('p', 'note', 'పారాయణం గొంతు ఇంకా తయారు చేయలేదు – మీరు చెప్పినట్లు క్రెడిట్‌లు వాడలేదు. ప్రయోగాలు (సర్గ 1 శ్లోకాలు 1–10 రెండు గొంతుల్లో; శ్లోకం 1.1 భజన సంగీతంతో) ఇంకా 10 నిమిషాల వీణ–తంబూర నేపథ్య సంగీతం మీ కంప్యూటర్‌లో Valmiki_Ramayanam\\Sundarakanda_Parayanam ఫోల్డర్‌లో ఉన్నాయి.'));
+  }
+
+  function draw() {
+    rail(); header();
+    const body = $('body'); body.innerHTML = '';
+    if (cur === PLAN) return plan(body);
+    const s = SONGS[cur];
+    if (tab === 'slokas') slokas(s, body); else if (tab === 'pics') pics(s, body); else suno(s, body);
+  }
+  function go(i) { cur = Math.max(0, Math.min(PLAN, i)); store.set('sundara-cur', cur); filter = 'all'; draw(); window.scrollTo(0, 0); }
+  $('pick').onchange = (e) => go(+e.target.value);
+  $('prev').onclick = () => go(cur - 1);
+  $('next').onclick = () => go(cur + 1);
+  draw();
+})();
+</script>

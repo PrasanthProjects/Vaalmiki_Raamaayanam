@@ -186,14 +186,14 @@
     {
      "label": "తాత్పర్యం – 1",
      "video": false,
-     "shows": "Valmiki in meditation, faint images of a royal palace glowing in the air above him",
+     "shows": "A glowing vision of King Dasharatha with his queens in the Ayodhya palace, Rama, Lakshmana and Sita beside them",
      "says": "శ్రీరాములవారు, లక్ష్మణులవారు, సీతమ్మవారు, భార్యలతో, రాజ్యంతో కూడిన దశరథ మహారాజుగారు...",
      "mood": "calm"
     },
     {
      "label": "తాత్పర్యం – 2",
      "video": false,
-     "shows": "A glowing vision of King Dasharatha with his queens in the Ayodhya palace, Rama, Lakshmana and Sita beside them",
+     "shows": "Valmiki in meditation, faint images of a royal palace glowing in the air above him",
      "says": "ఆ రోజుల్లో వీళ్ళందరికీ నిజంగా ఏమేమి జరిగిందో వాల్మీకి మహర్షి తన ధ్యానంలో చూడడం మొదలుపెట్టారు.",
      "mood": "mystery"
     },
@@ -486,7 +486,7 @@
     {
      "label": "తాత్పర్యం – 1",
      "video": false,
-     "shows": "The young disciple bringing a bundle of palm leaves to Valmiki",
+     "shows": "Rama seated on the throne, gentle and radiant, seen as a glowing vision",
      "says": "గొప్ప బుద్ధిమంతుడైన వాల్మీకి మహర్షి అదంతా ఉన్నది ఉన్నట్లు చూసి,",
      "mood": "calm"
     },
@@ -500,7 +500,7 @@
     {
      "label": "తాత్పర్యం – 3",
      "video": false,
-     "shows": "Rama seated on the throne, gentle and radiant, seen as a glowing vision",
+     "shows": "The young disciple bringing a bundle of palm leaves to Valmiki",
      "says": "ముందు పూర్తిగా తెలుసుకున్నారు, తరువాతే మొదలుపెట్టారు.",
      "mood": "joyful"
     },
@@ -2668,16 +2668,16 @@
     {
      "label": "తాత్పర్యం – 2",
      "video": false,
-     "shows": "Ravana falling back in defeat on the battlefield",
+     "shows": "Sita in the Ashoka grove with a gentle smile of relief",
      "says": "శత్రువు నగరమైన లంకలో సీతమ్మవారిని తిరిగి పొందడం...",
-     "mood": "heroic"
+     "mood": "joyful"
     },
     {
      "label": "తాత్పర్యం – 3",
      "video": false,
-     "shows": "Sita in the Ashoka grove with a gentle smile of relief",
+     "shows": "Ravana falling back in defeat on the battlefield",
      "says": "ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి.",
-     "mood": "joyful"
+     "mood": "heroic"
     },
     {
      "label": "జీవిత పాఠం",
