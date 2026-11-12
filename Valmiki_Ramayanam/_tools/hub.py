@@ -17,7 +17,7 @@ KANDAS = [('1_Bala_Kanda', 'బాలకాండ', 77), ('2_Ayodhya_Kanda', '�
 def main():
     pages = json.load(open(os.path.join(TOOLS, 'data', 'pages.json'), encoding='utf-8'))
     data = {'kandas': [{'dir': d, 'te': te, 'sargas': n, 'pages': pages['shorts'].get(d, {})} for d, te, n in KANDAS],
-            'long': pages['long'], 'quiz': pages.get('quiz', []), 'other': pages.get('other', [])}
+            'long': pages['long'], 'vaibhavam': pages.get('vaibhavam', []), 'sundara': pages.get('sundara', []), 'quiz': pages.get('quiz', []), 'other': pages.get('other', [])}
     for k in data['kandas']:
         for s in k['pages']:
             assert 1 <= int(s) <= k['sargas'], f"{k['dir']}: no sarga {s}"

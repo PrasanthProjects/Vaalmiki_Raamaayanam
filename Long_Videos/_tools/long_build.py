@@ -235,7 +235,7 @@ def editor_move(visual, i):
 
 
 @soft
-def scene_prompt(scene, kind, looks, opening=False):
+def old_scene_prompt(scene, kind, looks, opening=False):
     """opening=True (a clip that becomes a video): the moment just BEFORE the scene's main action, so the end image
     (the moment after it) is clearly different and the video has something to play."""
     who = ' '.join(f'{x}.' for x in looks)
@@ -290,7 +290,7 @@ def cam_for(scene, i):
 
 
 @soft
-def video_prompt(scene, kind, looks, i=0):
+def old_video_prompt(scene, kind, looks, i=0):
     """Flow, 8 seconds (user, 2026-11-11): 0-6 s play the scene from the start image; 6-8 s move smoothly into the end
     image. Works with only the start image too (Frames to Video with no last frame, or Image to Video)."""
     who = ' '.join(f'{x}.' for x in looks)
@@ -318,7 +318,7 @@ def video_prompt(scene, kind, looks, i=0):
 
 
 @soft
-def end_prompt(scene, kind, looks, i=0):
+def old_end_prompt(scene, kind, looks, i=0):
     """The END image (user, 2026-11-11): the same shot 8 seconds later with a change you can see: the action done
     (video clips) or a small new pose and a clearly moved camera (gentle clips); never a copy of the start image."""
     who = ' '.join(f'{x}.' for x in looks)
@@ -336,6 +336,72 @@ def end_prompt(scene, kind, looks, i=0):
             + f"Scene: {scene_text(scene)}; {later}. Camera framing: {move_for(scene, looks)[2] if move_for(scene, looks) else END_FRAMING[cam]}; the same place, light and time "
             "of day. It must NOT be identical to the start image. "
             f"Body check (very important): every person and vanara has exactly two arms, two hands with five separate, natural fingers each, two legs and two feet with five toes each; no extra, missing, merged or twisted fingers, toes, hands, arms or legs; each hand clearly belongs to one body and holds things naturally; gods have only the arms and heads their own description gives (such as four-armed Vishnu or Brahma), and birds have two wings and two taloned feet, never arms; faces natural and symmetrical, eyes aligned; correct anatomy and natural hands; no extra characters, limbs or faces beyond those described. {RESPECT} {TAIL}")
+
+
+# ---------- the same picture prompts as the Shorts (user, 2026-11-12: "make the script similar to the Shorts") ----------
+# The long videos call the Shorts' own builders (live_style.still / end_still / two_frame_video) with the scene's
+# Shorts reference keys, so the quality line, "use the attached reference images as the exact look", every
+# character's look and face, the body check, the staging and the rules are word for word the Shorts'; only the frame
+# is 16:9 instead of 9:16. The old long-video prompts stay above as old_* for reference.
+import live_style as SH  # noqa: E402
+
+WIDE = [('Vertical 9:16 cinematic still image, 1080x1920, main subject in the centre safe area.',
+         'Cinematic 16:9 still image, 1920x1080, main subject well framed.'),
+        ('Vertical 9:16 cinematic shot, 8 seconds, main subject in the centre safe area.',
+         'Cinematic 16:9 shot, 8 seconds, main subject well framed.'),
+        ('vertical 9:16', '16:9'), ('Vertical 9:16', '16:9'), ('9:16', '16:9'), ('1080x1920', '1920x1080'),
+        ('centre safe area', 'frame')]
+LIGHT = 'Cinematic light that fits the time and place of the scene.'
+OPENING = (' This is the FIRST frame of an 8-second shot: the opening moment just before the main action begins '
+           '(the action itself happens in the video); everyone already in the scene, in their starting positions.')
+
+
+def wide(text):
+    for a, b in WIDE:
+        text = text.replace(a, b)
+    return text
+
+
+def _split(refs, looks):
+    """(the Shorts reference keys, the looks of everyone without a Shorts picture): scene_cast lists a look per
+    character in the same order as its refs, then the crowds and notes that have no ref of their own."""
+    refs, looks = list(refs), list(looks)
+    known = [r for r in refs if r in SH.LIB]
+    extra = [l for r, l in zip(refs, looks) if r not in SH.LIB] + looks[len(refs):]
+    return known, [x.rstrip(' .') for x in extra if x and not x.startswith('Sita is NOT')]
+
+
+def _frame(scene, extra=()):
+    loc = scene.get('loc', '')
+    also = (' Also in the scene: ' + '. '.join(extra) + '.') if extra else ''
+    return scene_text(scene) + '.' + also + (f' Setting: {loc}.' if loc else '')
+
+
+def _motion(kind):
+    return ('the main action of the scene plays out, slowly and clearly' if kind == 'video'
+            else 'small, natural, gentle movement only')
+
+
+@soft
+def scene_prompt(scene, kind, looks, opening=False, refs=()):
+    keys, extra = _split(refs, looks)
+    frame = _frame(scene, extra) + (OPENING if opening else '')
+    cam = cam_for(scene, 0)
+    if kind == 'video':
+        return wide(SH.video(keys, frame, _motion('video'), cam, LIGHT))
+    return wide(SH.still(keys, frame, LIGHT, motion=_motion('video' if opening else 'image'), cam=cam))
+
+
+@soft
+def end_prompt(scene, kind, looks, i=0, refs=()):
+    keys, extra = _split(refs, looks)
+    return wide(SH.end_still(keys, _frame(scene, extra), _motion(kind), cam_for(scene, i), LIGHT, kind == 'video'))
+
+
+@soft
+def video_prompt(scene, kind, looks, i=0, refs=()):
+    keys, extra = _split(refs, looks)
+    return wide(SH.two_frame_video(keys, _frame(scene, extra), _motion(kind), cam_for(scene, i), LIGHT, kind == 'video'))
 
 
 @soft
@@ -653,10 +719,10 @@ def build_episode(ep, d, refs_used, extra, ep_index):
         a = item['start']
         card = {'no': item['id'], 'time': f"{mmss(a)} – {mmss(a + secs)}", 'label': f"{item['label']} · {secs} సె",
                 'kind': vk, 'narration': item['narration'], 'refs': refs, 'move': move, 'note': note,
-                'prompt': scene_prompt(s, kind, looks),
+                'prompt': scene_prompt(s, kind, looks, refs=refs),
                 # both, for every clip: the user picks a still (with an editor move) or a Flow video each time
-                'imagePrompt': scene_prompt(s, 'image', looks, opening=(vk == 'video')),
-                'endImagePrompt': end_prompt(s, vk, looks, i), 'videoPrompt': video_prompt(s, vk, looks, i)}
+                'imagePrompt': scene_prompt(s, 'image', looks, opening=(vk == 'video'), refs=refs),
+                'endImagePrompt': end_prompt(s, vk, looks, i, refs=refs), 'videoPrompt': video_prompt(s, vk, looks, i, refs=refs)}
         cards.append(card)
         head = '🎥 వీడియో' if kind == 'video' else '🖼️ ఇమేజ్ + కదలిక'
         star = ' · ✨ కొత్తది' if item['new'] else (' · 🔁 అదే నెరేషన్, కొత్త చిత్రం' if item.get('cont') else '')

@@ -1,0 +1,104 @@
+NO: 3
+TITLE: లంకిణిని గెలిచిన హనుమా
+KANDA: 5_Sundara_Kanda
+SARGA: 3
+SLOKAS: 1-51
+LENGTH: 5:00
+GIST: సుందరకాండ మూడవ సర్గ (51 శ్లోకాలు) ఒకే పాటగా: రాత్రి లంక కోటగోడపై నిలిచి పురాన్ని చూసిన హనుమంతులవారు, శ్రీరాముల, లక్ష్మణుల పరాక్రమం తలచుకొని సంతోషించడం; దారికి అడ్డుపడిన లంకా నగర దేవత (లంకిణి); ఒక్క పిడికిటి దెబ్బ, దయతో విడిచిపెట్టడం; "ఒక వానరుడు నిన్ను గెలిచిన నాడు రాక్షసులకు చేటు" అన్న బ్రహ్మ వరం నిజమై ఆమె దారి ఇవ్వడం. మూడు అసలైన వాల్మీకి శ్లోకాలు పారాయణ పద్ధతిలో (3.20, 3.17, 3.50); మిగతా కథ తెలుగులో, శ్లోకాల క్రమంలోనే. వాల్మీకి రామాయణం మాత్రమే.
+RAGA: ఆరభి (Arabhi) – వీర రసం, ఉత్సాహం; శ్లోక గానం తంబూర మీద పారాయణ పద్ధతిలో
+TALA: ఆది తాళం
+BPM: 96
+MOOD: వీరం, భక్తి – మొదట వైభవం, చరణం 2 లో ఉద్రిక్తత, చరణం 3 లో పోరాటం, దయ; చరణం 4 లో బ్రహ్మ వరం నిజమైన విజయం; ముగింపు గర్వంగా
+VOICES: గాయకుడు ముఖ్య గొంతు; "జయ జయ హనుమా" పల్లవి (మళ్ళీ వచ్చినప్పుడూ) దగ్గర బలమైన భక్తి కోరస్ తోడవుతుంది. శ్లోక గానం గాయకుడు ఒక్కరే, నెమ్మదిగా. చరణాలు గాయకుడు ఒక్కరే – ప్రతి మాట స్పష్టంగా వినిపించాలి.
+VOICE: నిండైన, బలమైన, వెచ్చని మగ గొంతు, కర్ణాటక సంగీతం నేర్చిన భక్తి గాయకుడిలా తేలికైన గమకాలతో; శ్లోకాలు పారాయణంలా స్పష్టమైన సంస్కృత ఉచ్చారణతో; ప్రతి తెలుగు పదం స్పష్టంగా
+INSTRUMENTS: మొదట శంఖం, గుడి గంట; శ్లోక గానం దగ్గర తంబూర మాత్రమే; పాటలో నాదస్వరం, తవిల్, మృదంగం, బాన్సురీ, వీణ, చిరతలు; చరణం 2 లో వేగంగా తవిల్; చరణం 4 చివర నాదస్వరం గర్వంగా
+STYLE: Sung Telugu devotional story song to Lord Hanuman with a male lead vocal singing from start to end, Carnatic keertana style in raga Arabhi (heroic, veera rasa), Adi tala, 96 bpm. A strong, warm, full-bodied male Carnatic vocalist with light gamakas. Three Sanskrit shlokas are recited slowly in traditional parayanam chanting over tanpura only, with clear Sanskrit pronunciation. Vocals loud and upfront, the singer sings every line of the lyrics clearly, every Telugu word easy to understand, a short pause at each line ending, a catchy pallavi "Jaya Jaya Hanuma" that a strong devotional chorus joins, charanams lead-only. Conch and temple bell at the start, then nadaswaram, thavil, mridangam, bansuri, veena and small cymbals, heroic and devotional, rising energy, about 5 minutes.
+EXCLUDE: rap, EDM, western pop, autotune, female lead, English words, mumbled lyrics
+SOURCE: శ్లోక గానం 1 | సుందరకాండ 3.20 | అప్పుడు లంకా నగర దేవత తన నిజరూపంతో, లోపలికి వస్తున్న మహాబలుడైన వాయుపుత్రుడిని చూసింది.
+SOURCE: చరణం 1 | సుందరకాండ 3.1–3.19 | లంబ పర్వత శిఖరం నుండి రాత్రి లంకలోకి (3.1–2); కోటగోడపై నిలిచి – మేఘాలు, మెరుపులు, సముద్రపు హోరు, ఏనుగులు కాచే తెల్లని ద్వారాలు, చిరుగంటలు (3.3–7); వైడూర్యపు అరుగులు, వెండి మెట్లు, స్ఫటిక ముంగిళ్ళు, నెమళ్ళు, హంసలు, వాద్యాలు (3.8–12); కుముదుడు, అంగదుడు, సుషేణుడు, మైందుడు, ద్వివిదుడు, సుగ్రీవుడు, జాంబవంతుడు రాగలరు (3.15–16); రాముల, లక్ష్మణుల పరాక్రమం తలచి సంతోషం (3.17).
+SOURCE: శ్లోక గానం 2 | సుందరకాండ 3.17 | మహాబాహువైన రాఘవుని పరాక్రమాన్ని, లక్ష్మణుని శౌర్యాన్ని తలచుకొని హనుమంతులవారు సంతోషించారు.
+SOURCE: చరణం 2 | సుందరకాండ 3.20–3.37 | నగర దేవత వికార రూపంతో అడ్డుపడడం (3.21–22); "ఎవరు నీవు? నిజం చెప్పు" (3.23); "రావణ సైన్యం కాచే పురి" (3.24); "నన్ను అడ్డగించే నీవెవరు?" (3.26); "రావణుని ఆజ్ఞతో నేనే కాపాడుతున్నాను" (3.28); మరో కొండలా నిలిచిన హనుమ (3.31); "లంకను చూసి వెళ్తాను" (3.33–37); "నన్ను గెలవకుండా పోలేవు" (3.36).
+SOURCE: చరణం 3 | సుందరకాండ 3.38–3.45 | భయంకరంగా అరిచి అరచేత కొట్టడం (3.38); హనుమ గర్జన (3.39); ఎడమచేతి పిడికిలి, "స్త్రీ కదా" అని కోపం తగ్గించుకోవడం (3.40); ఆమె నేలకూలడం (3.41); దయతో విడిచిపెట్టడం (3.42); "దయ చూపు, కాపాడు; నేనే లంకను, నన్ను గెలిచావు" (3.44–45).
+SOURCE: చరణం 4 | సుందరకాండ 3.46–3.51 | బ్రహ్మ వరం: "ఒక వానరుడు నిన్ను గెలిచిన నాడు రాక్షసులకు భయం వచ్చినట్లే" (3.46–47); ఆ సమయం వచ్చింది (3.48); సీత కారణంగా రావణుడు, రాక్షసుల నాశనం (3.49); "ప్రవేశించు, కోరిన పనులన్నీ చేసుకో" (3.50); "జనకుని కూతురిని అంతటా స్వేచ్ఛగా వెదకు" (3.51).
+SOURCE: శ్లోక గానం 3 | సుందరకాండ 3.50 | ఓ కపిశ్రేష్ఠా, రావణుడు పాలించే ఈ పురిలోకి ప్రవేశించి, ఇక్కడ నీవు కోరుకున్న పనులన్నీ చేసుకో.
+SOURCE: పల్లవి | సుందరకాండ 1.39 ఆధారంగా (పాట 1 పల్లవి) | "రాముని బాణంలా వెళ్తాను" – రామదూత హనుమ.
+THUMBPIC: HANUMAN | Hanuman standing firm like a mountain before the moonlit golden gate of Lanka, determined eyes, the tall guardian woman of the city stepping aside behind him | Moonlight with warm torch glow, rim light on Hanuman.
+SCENE: శ్లోక గానం 1 | HANUMAN, LANKA_CITY | The moonlit golden gate of Lanka at night; a tall, fierce guardian woman of the city in dark armour with wild hair appears in the gateway, watching a small Hanuman approach | Moonlight with flickering torch light on the gate.
+SCENE: పల్లవి | HANUMAN | Hanuman standing tall and fearless at the city gate at night, determined face, hands at his sides | Moonlight with warm torch glow.
+SCENE: చరణం 1 | HANUMAN, LANKA_CITY | Hanuman standing on the golden rampart of Lanka at night, looking over the glittering city of white mansions and silver stairways, clouds with distant lightning and the sea behind | Night sky, moonlight, faint lightning far away.
+SCENE: శ్లోక గానం 2 | HANUMAN | Hanuman on the rampart with eyes gently closed and a happy smile, joined palms at his chest, remembering the valour of Sri Rama and Lakshmana | Soft moonlight, a gentle warm glow on his face.
+SCENE: చరణం 2 | HANUMAN | The tall guardian woman of Lanka in dark armour blocking the gateway and pointing sternly at Hanuman, who stands calm and steady before her | Torch light and moonlight.
+SCENE: చరణం 3 | HANUMAN | Hanuman holding back his raised left fist, the guardian woman sitting on the gate steps after his single blow, surprised, Hanuman looking at her with compassion | Torch light and moonlight.
+SCENE: చరణం 4 | HANUMAN | The guardian woman bowing her head with joined palms and stepping aside, gesturing toward the open golden gate; Hanuman listening respectfully | Moonlight brightening, warm glow from the city.
+SCENE: శ్లోక గానం 3 | HANUMAN, LANKA_CITY | Hanuman walking through the open golden gate into the moonlit streets of Lanka | Silver moonlight and warm lamp light.
+SCENE: ముగింపు | HANUMAN, LANKA_CITY | Hanuman small on a moonlit street of Lanka, looking ahead with resolve | Silver moonlight.
+---
+[శ్లోక గానం | 0:00 | 20 | శంఖం, గుడి గంట ఒకసారి; తంబూర మాత్రమే, తాళం లేదు; పారాయణ పద్ధతిలో నెమ్మదిగా, కొంచెం రహస్యంగా]
+అథ సా హరిశార్దూలం ప్రవిశన్తం మహాబలమ్ ।
+నగరీ స్వేన రూపేణ దదర్శ పవనాత్మజమ్ ॥
+
+[సంగీతం | 0:22 | | నాదస్వరం ఆరభి స్వరాలు, తవిల్ వీరంగా మొదలు]
+
+[పల్లవి | 0:32 | 39 | రెండుసార్లు; బలమైన కోరస్ "జయ జయ హనుమా" దగ్గర]
+జయ జయ హనుమా… వీర హనుమా
+రామబాణమై లంకకు ఎగిరిన రామదూత హనుమా
+
+[చరణం 1 | 0:52 | 1-19 | వైభవంగా; వానర వీరుల పేర్లు ఉత్సాహంగా; చివరి పంక్తి భక్తిగా]
+లంబ పర్వత శిఖరం నుండి రాత్రివేళ లంకను చేరగా
+బంగరు కోటగోడ మీద నిలిచి పురమంతా చూడగా
+శరత్ మేఘాలు మెరుపులు, సముద్రపు హోరు వినబడగా
+ఏనుగులు కాచే తెల్లని ద్వారాలు, చిరుగంటలు మోగగా
+వైడూర్యపు అరుగులు, వెండి మెట్లు, స్ఫటిక ముంగిళ్ళు మెరవగా
+నెమళ్ళు హంసల కూతలు, వాద్యాల సందడి నిండుగా
+"అంగద సుషేణ మైంద ద్వివిద జాంబవంతులు రాగలరుగా"
+రాముని లక్ష్మణుని పరాక్రమం తలచి హనుమ పొంగెగా
+
+[శ్లోక గానం | 1:42 | 17 | తంబూర మాత్రమే; నెమ్మదిగా, భక్తిగా]
+సమీక్ష్య తు మహాబాహో రాఘవస్య పరాక్రమమ్ ।
+లక్ష్మణస్య చ విక్రాన్తమభవత్ ప్రీతిమాన్ కపిః ॥
+
+[పల్లవి | 2:02 | repeat | ఒకసారి, నిండుగా]
+
+[చరణం 2 | 2:14 | 20-37 | ఉద్రిక్తంగా, తవిల్ గట్టిగా; లంకిణి మాటలు కఠినంగా; హనుమ మాటలు శాంతంగా, ధీమాగా]
+లంకాపురి దేవత తన నిజరూపంలో హనుమను చూసెను
+వికారమైన రూపంతో దారికి అడ్డంగా నిలిచెను
+"ఓ వనచరా, ఎవరు నీవు? నిజం చెప్పు" అని గద్దించెను
+"రావణుడు కాచే ఈ లంకలో నీవు అడుగుపెట్టలేవు" అనెను
+"నన్ను అడ్డగించే నీవెవరు?" అని హనుమ అడిగెను
+"రావణుని ఆజ్ఞతో ఈ పురిని నేనే కాపాడుతాను" అనెను
+హనుమ మరో కొండలా నిలిచి "లంకను చూసి పోతాను" అనెను
+"నన్ను గెలవకుండా లోనికి పోలేవు" అని ఆమె గర్జించెను
+
+[పల్లవి | 3:00 | repeat | ఒకసారి]
+
+[సంగీతం 2 | 3:12 | | వీణ, బాన్సురీ చిన్న ముక్క, కొంచెం రహస్యంగా]
+
+[చరణం 3 | 3:20 | 38-45 | వేగంగా; "పిడికిటితో" దగ్గర గట్టి దెబ్బ; "దయతో" నుండి మృదువుగా]
+భయంకరంగా అరిచి లంకిణి అరచేత హనుమను కొట్టగా
+ఆ దెబ్బకు వాయుపుత్రుడు పెద్దగా గర్జించెను ఉగ్రంగా
+ఎడమచేతి వేళ్ళు ముడిచి పిడికిటితో ఒక్కటే గుద్దగా
+"ఆడది కదా" అని తలచి కోపాన్ని తానే తగ్గించగా
+ఆ దెబ్బకు లంకిణి నేలకు ఒరిగెను వెంటనే బలహీనంగా
+దయతో హనుమ ఆమెను ప్రాణంతో విడిచిపెట్టెను మెల్లగా
+"మహాబాహూ, దయ చూపు, నన్ను కాపాడు" అని వేడగా
+"నేనే లంకను, నీ బలంతో నన్ను గెలిచావు" అనెను దీనంగా
+
+[చరణం 4 | 4:02 | 46-51 | గంభీరంగా మొదలు; బ్రహ్మ వరం పంక్తులు ప్రవచనంలా; చివరి పంక్తి విజయంగా]
+"ఒకనాడు బ్రహ్మదేవుడు నాకు ఒక వరమిచ్చెను స్పష్టంగా
+'ఏ వానరుడు నిన్ను గెలుచునో ఆనాడే రాక్షసులకు చేటు కాలంగా'
+బ్రహ్మ చెప్పిన ఆ సమయం నీ రాకతో ఈనాడే వచ్చెనుగా
+సీతమ్మ కారణంగా రావణుడు రాక్షసులు నశింతురుగా
+ఓ కపివీరా, రావణుని పురిలోకి అడుగుపెట్టు నిర్భయంగా
+నీవు కోరిన పనులన్నీ ఇక్కడ చేసుకో నిశ్చింతగా
+జనకుని కూతురు సీతమ్మను అంతటా వెదకు స్వేచ్ఛగా"
+అని లంకిణి దారి ఇవ్వగ హనుమ లోనికి సాగెను ధీరంగా
+
+[శ్లోక గానం | 4:38 | 50 | తంబూర మాత్రమే; నెమ్మదిగా, ఆశీర్వాదంలా]
+తత్ప్రవిశ్య హరిశ్రేష్ఠ పురీం రావణపాలితామ్ ।
+విధత్స్వ సర్వకార్యాణి యాని యానీహ వాఞ్ఛసి ॥
+
+[పల్లవి | 4:50 | repeat | కోరస్‌తో నిండుగా]
+
+[ముగింపు | 5:00 | | నాదస్వరం, తవిల్‌తో గర్వంగా ముగింపు]
+రామదూత హనుమా…
+జయ జయ హనుమా…

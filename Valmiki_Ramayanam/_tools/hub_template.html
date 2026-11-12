@@ -82,6 +82,16 @@ span.tile { background: var(--sunk); color: var(--muted); border: 1px solid tran
     <div class="long" id="long"></div>
   </section>
 
+  <section>
+    <div class="khead part"><h2>🔥 వైభవం Shorts</h2><span class="count">రాముడు, హనుమ, కృష్ణుడు · 20–50 సెకన్లు · Video Maker → వైభవం</span></div>
+    <div class="long" id="vaibhavam"></div>
+  </section>
+
+  <section>
+    <div class="khead part"><h2>🙏 సుందరకాండ పారాయణం</h2><span class="count">వాల్మీకి శ్లోకాలు మాత్రమే · పారాయణం, శ్లోకాల పాటలు</span></div>
+    <div class="long" id="sundara"></div>
+  </section>
+
   <div class="khead part"><h2>Shorts – శ్లోకం శ్లోకంగా</h2><span class="count">ఒక్కో సర్గకు ఒక పేజీ</span></div>
   <div class="legend"><span><i class="r"></i>తయారైంది – నొక్కండి</span><span><i class="n"></i>ఇంకా తయారు కాలేదు</span></div>
   <div id="kandas" style="display:grid;gap:28px"></div>
@@ -130,7 +140,7 @@ span.tile { background: var(--sunk); color: var(--muted); border: 1px solid tran
       a.append(el('b', '', name), el('span', '', note)); $(box).append(a);
     });
   }
-  cards(D.long, 'long'); cards(D.quiz || [], 'quiz'); cards(D.other || [], 'other');
+  cards(D.long, 'long'); cards(D.vaibhavam || [], 'vaibhavam'); cards(D.sundara || [], 'sundara'); cards(D.quiz || [], 'quiz'); cards(D.other || [], 'other');
 
   function open() {
     const k = D.kandas.find((x) => x.dir === $('kanda').value); const n = parseInt($('sarga').value, 10);

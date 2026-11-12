@@ -103,8 +103,8 @@ def build(n, part, refs_used):
         card.update(refs=refs, note=' '.join(notes),
                     move='' if kind == 'video' else L.editor_move(it['visual'], k) + ' (వీడియో చేయకపోతే)',
                     advice=L.advice(it['visual'], kind, it['id'] if it['id'] in ('W', 'C') else 'x'),
-                    imagePrompt=L.scene_prompt(s, 'image', looks, opening=(kind == 'video')),
-                    endImagePrompt=L.end_prompt(s, kind, looks, k), videoPrompt=L.video_prompt(s, kind, looks, k))
+                    imagePrompt=L.scene_prompt(s, 'image', looks, opening=(kind == 'video'), refs=refs),
+                    endImagePrompt=L.end_prompt(s, kind, looks, k, refs=refs), videoPrompt=L.video_prompt(s, kind, looks, k, refs=refs))
         cards.append(card)
         head = '🎥 వీడియో' if kind == 'video' else '🖼️ ఇమేజ్ + కదలిక'
         md_items.append('\n'.join([

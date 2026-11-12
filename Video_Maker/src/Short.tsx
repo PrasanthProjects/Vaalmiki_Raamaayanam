@@ -3,7 +3,7 @@ import {AbsoluteFill, Img, Sequence, interpolate, spring, useCurrentFrame, useVi
 import {Audio, Video} from '@remotion/media';
 import {CTA_GAP, END, FPS, HOOK, MEANING, Media, MediaMap, SLOKA, Span, Timeline, VOICE_OF, WORDS, cues} from './timeline';
 import {DEV, LAT, TE, TITLE} from './fonts';
-import {ambienceFor, momentIn} from './sound';
+import {ambienceAt, momentIn} from './sound';
 
 export type Line = {orig: string; te: string; dev: string; iast: string};
 export type Word = {key: string; te: string; dev: string; iast: string; mte: string; mhi: string; men: string};
@@ -43,21 +43,33 @@ const ENTER_LEN: Record<Enter, number> = {none: 0, fade: 0.35, flash: 0.25, zoom
 
 // The camera move on a still picture, as an editor would pick it: push in on faces, rise toward the sky and gods,
 // drift across wide places, and otherwise alternate a slow push-in and a slow pull-back.
-export type Move = 'in' | 'out' | 'pan' | 'up';
+export type Move = 'in' | 'out' | 'pan' | 'up' | 'down' | 'panL' | 'panR' | 'punch' | 'still';
+// one clip's own edit (వైభవం page): speed ('auto' fits the video to its slot, never slower than 0.5×), seconds trimmed
+// from the start, the clip's own sound volume (0 = muted), and the picture's camera move ('auto' = from the scene)
+export type ClipEdit = {speed?: number | 'auto'; trim?: number; own?: number; move?: Move | 'auto'};
 export function moveFor(shows: string, k: number): Move {
   if (/close-up|close on|face|eyes|tears|smil|weep/i.test(shows)) return 'in';
   if (/sky|celestial|divine|god|heaven|clouds|rising|ascend|glow/i.test(shows)) return 'up';
   if (/wide|forest|landscape|city|army|ocean|river|path|valley|kingdom|crowd|land|hills/i.test(shows)) return k % 2 ? 'out' : 'pan';
   return k % 2 ? 'out' : 'in';
 }
-function moveStyle(move: Move, z: number): string {
-  if (move === 'out') return `scale(${1.12 - 0.12 * z})`;
-  if (move === 'pan') return `scale(1.12) translateX(${40 - 80 * z}px)`;
-  if (move === 'up') return `scale(1.1) translateY(${40 - 80 * z}px)`;
-  return `scale(${1 + 0.12 * z})`;
+// z: the eased progress through the picture's time (0 → 1); t: seconds since it appeared (for the quick punch-in)
+function moveStyle(move: Move, z: number, t = 0): string {
+  if (move === 'out') return `scale(${1.14 - 0.14 * z})`;
+  if (move === 'pan' || move === 'panL') return `scale(1.14) translateX(${50 - 100 * z}px)`;
+  if (move === 'panR') return `scale(1.14) translateX(${-50 + 100 * z}px)`;
+  if (move === 'up') return `scale(1.12) translateY(${50 - 100 * z}px)`;
+  if (move === 'down') return `scale(1.12) translateY(${-50 + 100 * z}px)`;
+  if (move === 'still') return 'scale(1.02)';
+  if (move === 'punch') {
+    // a quick, smooth punch-in over the first 0.45 s, then a slow drift closer (the climax moment)
+    const p = Easing.out(Easing.cubic)(Math.min(1, t / 0.45));
+    return `scale(${1 + 0.12 * p + 0.05 * z})`;
+  }
+  return `scale(${1 + 0.14 * z})`;
 }
 
-export const Visual: React.FC<{m: Media | undefined; len: number; enter: Enter; fadeLen?: number; move: Move; placeholder: React.ReactNode}> = ({m, len, enter, fadeLen, move, placeholder}) => {
+export const Visual: React.FC<{m: Media | undefined; len: number; enter: Enter; fadeLen?: number; move: Move; placeholder: React.ReactNode; edit?: ClipEdit}> = ({m, len, enter, fadeLen, move, placeholder, edit}) => {
   const frame = useCurrentFrame();
   const t = frame / FPS;
   const d = (enter === 'fade' && fadeLen) || ENTER_LEN[enter] || 0.01;
@@ -69,11 +81,20 @@ export const Visual: React.FC<{m: Media | undefined; len: number; enter: Enter; 
   if (enter === 'whip') style = {transform: `translateX(${(1 - p) * 100}%)`, filter: `blur(${20 * (1 - p)}px)`};
   let body = placeholder;
   if (m?.video) {
-    const rate = m.dur ? Math.min(1, m.dur / len) : 1;
-    body = <Video src={m.url} muted playbackRate={rate} objectFit="cover" style={{width: '100%', height: '100%'}} />;
+    // speed: a chosen speed, else fit the video to its slot (slowed, never below 0.5× so motion stays smooth);
+    // if it is still too short at that speed it loops; trim cuts seconds off the start; own = the clip's own sound
+    // (the śloka Shorts pass no edit and keep their approved behaviour: slowed to fit, no floor, no loop)
+    const trim = Math.max(0, edit?.trim || 0);
+    const left = m.dur ? Math.max(0.5, m.dur - trim) : null;
+    const floor = edit ? 0.5 : 0;
+    const rate = typeof edit?.speed === 'number' ? edit.speed : left ? Math.min(1, Math.max(floor, left / len)) : 1;
+    const loop = !!edit && !!left && left / rate < len - 0.05;
+    const own = Math.max(0, Math.min(1, edit?.own || 0));
+    body = <Video src={m.url} muted={!own} volume={own || undefined} playbackRate={rate} loop={loop}
+      trimBefore={trim ? Math.round(trim * FPS) : undefined} objectFit="cover" style={{width: '100%', height: '100%'}} />;
   } else if (m) {
     const z = interpolate(t, [0, len + 0.9], [0, 1], {extrapolateRight: 'clamp', easing: Easing.inOut(Easing.sin)});
-    body = <Img src={m.url} style={{width: '100%', height: '100%', objectFit: 'cover', transform: moveStyle(move, z)}} />;
+    body = <Img src={m.url} style={{width: '100%', height: '100%', objectFit: 'cover', transform: moveStyle(move, z, t)}} />;
   }
   return <AbsoluteFill style={{overflow: 'hidden', ...style}}>{body}</AbsoluteFill>;
 };
@@ -374,7 +395,7 @@ export const Short: React.FC<ShortProps> = ({kandaTe, sarga, sloka, media, timel
   const moodAt = (i: number) => sloka.clips[i]?.mood || mood;
   const musicParts = own ? [{key: own.url, m: own, start: 0, end: timeline.total}]
     : stretches((i) => (media['music_' + moodAt(i)] as Media | undefined) ?? (media.music_default as Media | undefined) ?? music ?? undefined);
-  const ambParts = stretches((i) => sfx(ambienceFor([sloka.clips[i]?.shows || ''])));
+  const ambParts = stretches((i) => sfx(ambienceAt(sloka.clips.map((c) => c?.shows || ''), i)));
   const xfade = (g: Stretch, k: number, n: number, u: number) =>
     (k ? interpolate(u, [g.start - XF / 2, g.start + XF / 2], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'}) : 1)
     * (k < n - 1 ? interpolate(u, [g.end - XF / 2, g.end + XF / 2], [1, 0], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'}) : 1);

@@ -10,6 +10,7 @@ import {spawn, execFile} from 'node:child_process';
 import {fileURLToPath} from 'node:url';
 import {makeTimeline, cues, HOOK, SLOKA, WORDS, MEANING, END} from '../src/timeline.ts';
 import {makeMovieTimeline, movieCues} from '../src/movieTimeline.ts';
+import {makeVaibhavamTimeline} from '../src/vaibhavamTimeline.ts';
 
 const ROOT = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
 const MEDIA = path.join(ROOT, 'media');
@@ -203,6 +204,131 @@ async function presenterMediaFor(id) {
   return media;
 }
 
+// ---- వైభవం mode (Rama and Krishna elevation Shorts): media/vaibhavam/<id>/{clip1…clip8, clipN_2, clipN_3, mix, voice, music} ----
+// the ready voice-and-music file is picked up from Valmiki_Ramayanam/<series>/voice/ (elevation_voice.py) when none is dropped
+const PROJECT = path.dirname(ROOT);
+const VROOT = path.join(PROJECT, 'Valmiki_Ramayanam');
+// sounds: the scene's own sounds (laughs, cows, birds… taken from the clips' audio), played under the music
+const V_SLOTS = [...[1, 2, 3, 4, 5, 6, 7, 8].flatMap((c) => [`clip${c}`, `clip${c}_2`, `clip${c}_3`]), 'mix', 'voice', 'music', 'sounds'];
+const vFiles = () => fs.readdirSync(DATA).filter((x) => /^vaibhavam_.*\.json$/.test(x));
+function vShort(id) {
+  for (const f of vFiles()) {
+    const d = JSON.parse(fs.readFileSync(path.join(DATA, f), 'utf8'));
+    const s = d.shorts.find((x) => x.id === id);
+    if (s) return {d, s};
+  }
+  return null;
+}
+const vDir = (id) => path.join(MEDIA, 'vaibhavam', id);
+const VSFX = path.join(SFX, 'elevation');
+async function vaibhavamMediaFor(id) {
+  const {s} = vShort(id);
+  const media = {};
+  for (const slot of V_SLOTS) {
+    const f = findSlot(vDir(id), slot);
+    if (f) media[slot] = await entry(f);
+  }
+  // the scene sounds this Short's clips use (SFX/elevation, tools/make_vsfx.py)
+  for (const name of new Set(s.clips.flatMap((c) => (c.sfx || []).map((x) => x[0])))) {
+    const f = findSlot(VSFX, name);
+    if (f) { const st = fs.statSync(f);
+      media['sfx_' + name] = {name: path.basename(f), url: `http://localhost:${PORT}/vsfx/${encodeURIComponent(path.basename(f))}?v=${Math.round(st.mtimeMs)}`,
+        video: false, dur: await duration(f), size: st.size}; }
+  }
+  // a loop's ready music (krishna_music.py) when none is dropped
+  const am = s.autoMusic && path.join(VROOT, ...s.autoMusic.split('/'));
+  if (am && fs.existsSync(am)) {
+    const st = fs.statSync(am);
+    media.automusic = {name: path.basename(am), url: `http://localhost:${PORT}/vvoice/${s.autoMusic.split('/').map(encodeURIComponent).join('/')}?v=${Math.round(st.mtimeMs)}`,
+      video: false, dur: await duration(am), size: st.size};
+  }
+  const auto = path.join(VROOT, ...s.auto.split('/'));
+  if (fs.existsSync(auto)) {
+    const st = fs.statSync(auto);
+    media.auto = {name: path.basename(auto), url: `http://localhost:${PORT}/vvoice/${s.auto.split('/').map(encodeURIComponent).join('/')}?v=${Math.round(st.mtimeMs)}`,
+      video: false, dur: await duration(auto), size: st.size};
+  }
+  return media;
+}
+async function vaibhavamSrt(id, base) {
+  const {s} = vShort(id);
+  const tl = makeVaibhavamTimeline(s, await vaibhavamMediaFor(id));
+  if (!tl.subs.length) return;
+  const text = tl.subs.map((c, i) => `${i + 1}\n${stamp(c.start)} --> ${stamp(c.end)}\n${c.text}\n`).join('\n');
+  fs.mkdirSync(OUT, {recursive: true});
+  fs.writeFileSync(path.join(OUT, `${base}.srt`), '﻿' + text, 'utf8');
+}
+
+// ---- వైభవం per-file edits: media/vaibhavam/<id>/edit.json {clip1: {speed, trim, own, move}, …} ----
+const MOVES = ['auto', 'in', 'out', 'panL', 'panR', 'up', 'down', 'punch', 'still'];
+function vEdit(id) {
+  const f = path.join(vDir(id), 'edit.json');
+  try { return JSON.parse(fs.readFileSync(f, 'utf8')); } catch (e) { return {}; }
+}
+function saveVEdit(id, slot, q) {
+  const all = vEdit(id);
+  const e = {...(all[slot] || {})};
+  if (q.speed !== undefined) e.speed = q.speed === 'auto' ? 'auto' : Math.min(2, Math.max(0.25, parseFloat(q.speed) || 1));
+  if (q.trim !== undefined) e.trim = Math.min(20, Math.max(0, parseFloat(q.trim) || 0));
+  if (q.own !== undefined) e.own = Math.min(1, Math.max(0, parseFloat(q.own) || 0));
+  if (q.move !== undefined && MOVES.includes(q.move)) e.move = q.move;
+  all[slot] = e;
+  fs.mkdirSync(vDir(id), {recursive: true});
+  fs.writeFileSync(path.join(vDir(id), 'edit.json'), JSON.stringify(all, null, 1));
+  return all;
+}
+
+// ---- music library: the sound of every uploaded clip, kept for reuse (Music/library/*.mp3 + library.json) ----
+// silent clips are not kept; 'quiet' = soft ambience (birds, wind, a room); 'sound' = full sound, often music —
+// listen, then mark the good ones ⭐ and use them as any Short's music
+const LIB = path.join(MUSIC, 'library');
+const LIB_JSON = path.join(LIB, 'library.json');
+const libRead = () => { try { return JSON.parse(fs.readFileSync(LIB_JSON, 'utf8')); } catch (e) { return []; } };
+const libWrite = (list) => { fs.mkdirSync(LIB, {recursive: true}); fs.writeFileSync(LIB_JSON, JSON.stringify(list, null, 1)); };
+function ff(args) {
+  return new Promise((res) => execFile('ffmpeg', ['-hide_banner', '-nostats', ...args], {maxBuffer: 1 << 24}, (err, out, errOut) => res({err, log: String(errOut || '')})));
+}
+async function libAdd(id, slot, file) {
+  if (!VIDEO.includes(path.extname(file).toLowerCase())) return;
+  const name = `${id}_${slot}.mp3`;
+  const out = path.join(LIB, name);
+  fs.mkdirSync(LIB, {recursive: true});
+  const x = await ff(['-y', '-i', file, '-vn', '-ac', '2', '-ar', '44100', '-b:a', '192k', out]);
+  let list = libRead().filter((e) => e.file !== name);
+  if (x.err || !fs.existsSync(out)) { libWrite(list); return; }          // no sound track in this clip
+  const m = await ff(['-i', out, '-af', 'ebur128', '-f', 'null', '-']);
+  const lufs = parseFloat((/I:\s+(-?[\d.]+) LUFS/.exec(m.log.split('Summary:').pop()) || [])[1]);
+  if (!(lufs > -45)) { fs.unlinkSync(out); libWrite(list); return; }     // silent: not worth keeping
+  const vs = vShort(id);
+  const clipNo = parseInt(slot.replace('clip', ''), 10);
+  const c = vs && vs.s.clips.find((k) => k.no === clipNo);
+  list.push({file: name, from: `${id} · ${slot}`, short: vs ? `${vs.s.label}. ${vs.s.headline}` : id, shows: c ? c.shows : '',
+    dur: await duration(out), lufs: Math.round(lufs * 10) / 10, kind: lufs > -28 ? 'sound' : 'quiet', keep: false, label: '',
+    added: new Date().toISOString().slice(0, 10)});
+  libWrite(list);
+}
+function libList() {
+  return libRead().filter((e) => fs.existsSync(path.join(LIB, e.file))).map((e) => {
+    const st = fs.statSync(path.join(LIB, e.file));
+    return {...e, url: `http://localhost:${PORT}/vlib/${encodeURIComponent(e.file)}?v=${Math.round(st.mtimeMs)}`};
+  });
+}
+async function libScan() {
+  // every clip already uploaded to any వైభవం Short and not yet in the library
+  const have = new Set(libRead().map((e) => e.file));
+  const root = path.join(MEDIA, 'vaibhavam');
+  if (!fs.existsSync(root)) return 0;
+  let n = 0;
+  for (const id of fs.readdirSync(root)) {
+    if (!vShort(id)) continue;
+    for (const f of fs.readdirSync(path.join(root, id))) {
+      const slot = path.parse(f).name;
+      if (/^clip\d(_\d)?$/.test(slot) && !have.has(`${id}_${slot}.mp3`)) { await libAdd(id, slot, path.join(root, id, f)); n++; }
+    }
+  }
+  return n;
+}
+
 async function movieSrt(id, base) {
   const d = movieData(id);
   const tl = makeMovieTimeline(d, await movieMediaFor(id));
@@ -235,8 +361,46 @@ async function mediaFor(k, s, n) {
   media.bgm = media.music || media['music_' + mood] || media.music_default || null;
   const c = ctaOf(k, s, n);
   media.ctaNo = c;
-  media.cta = c ? media['cta_' + c] || null : null;
+  const own = c ? media['cta_' + c] || null : null;
+  media.cta = null;
+  // ElevenLabs reads the whole ending (teaser + closing line). With the user's own recording, cut the ElevenLabs file
+  // at the pause after the teaser and play the user's voice; without it, the full ElevenLabs ending plays as it is.
+  if (own && media.voice4?.dur) {
+    const cut = await teaserCut(k, s, n, media);
+    if (cut) { media.voice4 = cut; media.cta = own; }
+    else if (!(await endsWithLine(k, s, n, media))) media.cta = own;   // a teaser-only file: just add the user's voice
+  }
   return media;
+}
+
+// ---- the closing line: the user's own voice when recorded, else ElevenLabs (2026-11-11) ----
+const slokaText = (k, s, n) => {
+  try { return JSON.parse(fs.readFileSync(path.join(DATA, `${k}_S${pad(s)}.json`), 'utf8')).slokas.find((x) => x.n === +n); }
+  catch (e) { return null; }
+};
+// seconds per character of this Short's own ElevenLabs voice (from the meaning part), to know where the teaser ends
+const rateOf = (sl, media) => (media.voice3?.dur && sl.meaning?.voice ? media.voice3.dur / sl.meaning.voice.length : 0.08);
+async function endsWithLine(k, s, n, media) {
+  const sl = slokaText(k, s, n);
+  if (!sl || !sl.end?.teaser) return false;
+  const rate = rateOf(sl, media), line = sl.end.voice.length - sl.end.teaser.length;
+  return media.voice4.dur > sl.end.teaser.length * rate + 0.5 * line * rate;   // clearly longer than the teaser alone
+}
+async function teaserCut(k, s, n, media) {
+  if (!(await endsWithLine(k, s, n, media))) return null;
+  const sl = slokaText(k, s, n);
+  const src = findSlot(slokaDir(k, s, n), 'voice4');
+  const out = path.join(slokaDir(k, s, n), 'voice4_teaser.mp3');
+  if (!fs.existsSync(out) || fs.statSync(out).mtimeMs < fs.statSync(src).mtimeMs) {
+    const want = sl.end.teaser.length * rateOf(sl, media);
+    const sil = await new Promise((ok) => execFile('ffmpeg', ['-hide_banner', '-nostats', '-i', src, '-af', 'silencedetect=n=-35dB:d=0.25', '-f', 'null', '-'],
+      (err, so, se) => ok([...String(se).matchAll(/silence_start: ([\d.]+)/g)].map((m) => +m[1]))));
+    const near = sil.filter((t) => Math.abs(t - want) <= 2.5).sort((a, b) => Math.abs(a - want) - Math.abs(b - want))[0];
+    if (near === undefined) return null;   // no clear pause: keep the full ElevenLabs ending
+    const ok = await new Promise((res) => execFile('ffmpeg', ['-v', 'error', '-y', '-i', src, '-t', String(near + 0.2), '-af', 'afade=t=out:st=' + Math.max(0, near - 0.05) + ':d=0.25', out], (err) => res(!err)));
+    if (!ok) return null;
+  }
+  return {...(await entry(out)), name: 'voice4 (మీ గొంతుకి ముందు వరకు)'};
 }
 
 function sendFile(req, res, file) {
@@ -417,6 +581,93 @@ const server = http.createServer(async (req, res) => {
         return {id: d.id, title: d.title, kandaEn: d.kandaEn, sarga: d.sarga, mode: d.mode || 'movie', file: d.file};
       });
       return send(res, 200, list);
+    }
+    if (u.pathname === '/vaibhavam') return sendFile(req, res, path.join(ROOT, 'maker', 'vaibhavam.html'));
+    if (u.pathname === '/api/vaibhavam-list') {
+      return send(res, 200, vFiles().map((f) => { const d = JSON.parse(fs.readFileSync(path.join(DATA, f), 'utf8'));
+        return {series: d.series, seriesTe: d.seriesTe, shorts: d.shorts.map((s) => ({id: s.id, label: s.label, headline: s.headline, sub: s.sub,
+          loop: s.loop, clips: s.clips.length, have: fs.existsSync(vDir(s.id)) ? fs.readdirSync(vDir(s.id)).map((x) => path.parse(x).name) : [],
+          auto: fs.existsSync(path.join(VROOT, ...s.auto.split('/'))), done: fs.existsSync(path.join(OUT, `Vaibhavam-${s.id}.mp4`))}))}; }));
+    }
+    if (u.pathname.startsWith('/vsfx/')) return sendFile(req, res, path.join(VSFX, path.basename(decodeURIComponent(u.pathname.slice(6)))));
+    if (u.pathname.startsWith('/vlib/')) return sendFile(req, res, path.join(LIB, path.basename(decodeURIComponent(u.pathname.slice(6)))));
+    if (u.pathname === '/api/music-library') {
+      if (req.method === 'POST' && q.file) {
+        const list = libRead();
+        const e = list.find((x) => x.file === path.basename(q.file));
+        if (e && q.del) { list.splice(list.indexOf(e), 1); try { fs.unlinkSync(path.join(LIB, e.file)); } catch (err) {} }
+        else if (e) { if (q.keep !== undefined) e.keep = q.keep === '1'; if (q.label !== undefined) e.label = String(q.label).slice(0, 80); }
+        libWrite(list);
+      }
+      return send(res, 200, {items: libList()});
+    }
+    if (u.pathname === '/api/music-library-scan' && req.method === 'POST') {
+      const n = await libScan();
+      return send(res, 200, {scanned: n, items: libList()});
+    }
+    if (u.pathname.startsWith('/vvoice/')) {
+      const f = path.join(VROOT, ...decodeURIComponent(u.pathname.slice(8)).split('/'));
+      if (!f.startsWith(VROOT) || !/_Vaibhavam[\\/](?:voice|music)[\\/]/.test(f)) return send(res, 403, 'no');
+      return sendFile(req, res, f);
+    }
+    if (q.vid !== undefined) {
+      const id = q.vid;
+      if (!movieSafe(id) || !vShort(id)) return send(res, 404, {error: 'not found'});
+      const comp = `Vaibhavam-${id}`;
+      if (u.pathname === '/api/vaibhavam') {
+        const {d, s} = vShort(id);
+        return send(res, 200, {...s, series: d.series, seriesTe: d.seriesTe,
+          outputs: fs.existsSync(OUT) ? fs.readdirSync(OUT).filter((x) => x.startsWith(comp) && x.endsWith('.mp4')) : []});
+      }
+      if (u.pathname === '/api/vaibhavam-media') return send(res, 200, {media: await vaibhavamMediaFor(id), edit: vEdit(id)});
+      if (u.pathname === '/api/vaibhavam-edit' && req.method === 'POST') {
+        if (!/^clip\d(_\d)?$/.test(q.slot || '')) return send(res, 400, {error: 'slot'});
+        return send(res, 200, {edit: saveVEdit(id, q.slot, q)});
+      }
+      if (u.pathname === '/api/vaibhavam-usemusic' && req.method === 'POST') {
+        // a library track becomes this Short's music (loops play it under the scene; a voice-only Short under the voice)
+        const src = path.join(LIB, path.basename(q.file || ''));
+        if (!fs.existsSync(src)) return send(res, 404, {error: 'ఆ ట్రాక్ లేదు'});
+        fs.mkdirSync(vDir(id), {recursive: true});
+        const old = findSlot(vDir(id), 'music');
+        if (old) fs.unlinkSync(old);
+        const dst = path.join(vDir(id), 'music.mp3');
+        fs.copyFileSync(src, dst);
+        await levelAudio(dst, 'music');
+        return send(res, 200, {media: await vaibhavamMediaFor(id), edit: vEdit(id)});
+      }
+      if (u.pathname === '/api/upload' && req.method === 'POST') {
+        const ext = path.extname(q.name || '').toLowerCase();
+        const ok = q.slot && q.slot.startsWith('clip') ? [...VIDEO, ...IMAGE] : AUDIO;
+        if (!V_SLOTS.includes(q.slot) || !ok.includes(ext)) return send(res, 400, {error: `${ext || 'ఈ ఫైల్'} ఇక్కడ పనికిరాదు`});
+        const dir = vDir(id);
+        fs.mkdirSync(dir, {recursive: true});
+        const old = findSlot(dir, q.slot);
+        const tmp = path.join(dir, `.${q.slot}.uploading`);
+        await new Promise((ok2, bad) => req.pipe(fs.createWriteStream(tmp)).on('finish', ok2).on('error', bad));
+        if (old) fs.unlinkSync(old);
+        fs.renameSync(tmp, path.join(dir, q.slot + ext));
+        // a ready mix is already mastered (-14 LUFS); a voice or music alone is levelled like everywhere else
+        if (q.slot === 'voice' || q.slot === 'music') await levelAudio(path.join(dir, q.slot + ext), q.slot);
+        // a video clip's own sound goes to the music library (kept unless silent)
+        if (q.slot.startsWith('clip')) await libAdd(id, q.slot, path.join(dir, q.slot + ext));
+        return send(res, 200, {media: await vaibhavamMediaFor(id), edit: vEdit(id)});
+      }
+      if (u.pathname === '/api/remove' && req.method === 'POST') {
+        const f = V_SLOTS.includes(q.slot) && findSlot(vDir(id), q.slot);
+        if (f) fs.unlinkSync(f);
+        return send(res, 200, {media: await vaibhavamMediaFor(id)});
+      }
+      if (u.pathname === '/api/render' && req.method === 'POST') {
+        if (job.state === 'running') return send(res, 409, {error: 'ఇంకో వీడియో తయారవుతోంది'});
+        run(comp, comp, null, (base) => vaibhavamSrt(id, base));
+        return send(res, 200, job);
+      }
+      if (u.pathname === '/api/open' && req.method === 'POST') {
+        fs.mkdirSync(vDir(id), {recursive: true});
+        spawn('explorer.exe', [vDir(id)], {detached: true});
+        return send(res, 200, {ok: true});
+      }
     }
     if (u.pathname === '/presenter') return sendFile(req, res, path.join(ROOT, 'maker', 'presenter.html'));
     if (u.pathname === '/api/presenters') {

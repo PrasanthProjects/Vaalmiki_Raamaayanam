@@ -65,11 +65,34 @@ HOOK_TAG = {'calm': '[intrigued, warm]', 'sad': '[softly, emotional]', 'heroic':
 # Each picture gets its own music mood (user, 2026-11-11): the hook, the chanting, the story, the lesson and the
 # ending feel different, so the music follows each part instead of one track for the whole Short.
 CLIP_MOODS = {
-    'sad': r'longing|alone|lonely|tear|weep|grie|sorrow|mourn|lament|crying|funeral|pyre|dying|parting|anguish|heartbroken|wail|దుఃఖ|ఏడ్|బాధ|కన్నీ|విలప|వేదన|శోక',
-    'heroic': r'heroes?|first time|battle|fight|arrow|bow drawn|draws? (his )?bow|army|charge|strike|duel|war|victor|leap|attack|roar|valou?r|వీరు|యుద్ధ|బాణ|సంహర|పరాక్రమ|వధ',
-    'mystery': r'shadow|eerie|curse|disguis|secret|maya|illusion|mysterious|abduct|carrying sita away|demon|శాప|మాయ|రహస్య|ఎత్తుకు',
-    'joyful': r'happ|laugh|glowing like devas|సుఖంగా|wedding|celebrat|festival|joy|smil|garland|coronation|birth|embrac|reunion|rejoic|blessing|సంతోష|ఆనంద|పెళ్ళి|కల్యాణ|ఉత్సవ',
+    # English words match whole words only (2026-11-12: "toward" had matched "war"); Telugu stems as before
+    'sad': r'\b(?:longing|alone|lonely|tears?|tearful|weep\w*|grie\w*|sorrow\w*|mourn\w*|lament\w*|crying|funeral|pyre|dying|parting|anguish|heartbroken|wail\w*)\b|దుఃఖ|ఏడ్|బాధ|కన్నీ|విలప|వేదన|శోక',
+    'heroic': r'\b(?:heroe?s?|first time|battle|fight\w*|arrows?|bow drawn|draws? (?:his )?bow|drawing his bow|army|charg\w+|strikes?|duel|war|victor\w*|leap\w*|attack\w*|roar\w*|valou?r|smashing)\b|వీరు|యుద్ధ|బాణ|సంహర|పరాక్రమ|వధ|ధ్వంసం',
+    'mystery': r'\b(?:shadows?|eerie|curse\w*|disguis\w*|secret|maya|illusion|mysterious|abduct\w*|carrying sita away|demons?|monstrous|red eyes|looming)\b|శాప|మాయ|రహస్య|ఎత్తుకు|వింత',
+    'joyful': r'\b(?:happ(?:y|ily|iness)|laugh\w*|glowing like devas|wedding|celebrat\w*|festival|joy\w*|smil\w*|garlands?|coronation|birth|embrac\w*|reunion|rejoic\w*|blessing)\b|సుఖంగా|సంతోష|ఆనంద|పెళ్ళి|కల్యాణ|ఉత్సవ',
 }
+# clips whose words say the opposite of what the word lists read ("no sorrow, no disease" is joy, not sadness)
+MOOD_FIXES = {('1_Bala_Kanda', 1): {
+    (74, 4): 'heroic', (90, 4): 'joyful', (96, 5): 'calm',        # the words say the opposite of the word lists
+    (3, 7): 'mystery', (4, 7): 'mystery',                           # teasers: gathering storm clouds, "one last question"
+    (49, 7): 'mystery', (52, 7): 'mystery',                         # Ravana at Maricha's hut, Ravana disguised before Sita
+    (56, 4): 'calm', (58, 6): 'joyful', (87, 1): 'joyful'},         # a blessing, a friendship joined, good news sent
+    # Sarga 2: the hunter's arrow is tension and grief, never heroic; "శోకం → శ్లోకం" and Brahma's visit are awe and joy
+    ('1_Bala_Kanda', 2): {
+    (9, 7): 'mystery', (10, 1): 'mystery', (10, 4): 'sad', (10, 5): 'sad', (10, 7): 'sad', (15, 1): 'mystery',
+    (18, 1): 'calm', (18, 4): 'joyful', (18, 5): 'joyful', (18, 6): 'calm', (18, 7): 'calm',
+    (23, 1): 'mystery', (23, 4): 'calm', (23, 5): 'joyful', (23, 7): 'mystery', (28, 4): 'sad', (28, 7): 'mystery',
+    (30, 4): 'calm', (30, 5): 'calm', (30, 6): 'joyful', (32, 1): 'mystery', (32, 4): 'joyful', (32, 5): 'calm',
+    (32, 7): 'mystery', (40, 1): 'mystery', (40, 4): 'calm', (40, 5): 'calm', (40, 6): 'joyful', (40, 7): 'mystery'},
+    # Sarga 3: Valmiki's vision of the whole story
+    ('1_Bala_Kanda', 3): {
+    (10, 6): 'calm', (12, 1): 'mystery', (12, 7): 'sad', (13, 1): 'sad', (14, 4): 'joyful', (17, 5): 'heroic',
+    (19, 4): 'mystery', (21, 1): 'sad', (22, 1): 'joyful', (22, 7): 'joyful', (23, 1): 'joyful', (24, 7): 'heroic',
+    (38, 5): 'joyful'},
+    # Sarga 4: the sages' tears are tears of joy; Rama honouring the boys is warmth, not battle
+    ('1_Bala_Kanda', 4): {
+    (15, 1): 'joyful', (15, 4): 'joyful', (15, 5): 'joyful', (15, 7): 'joyful',
+    (30, 1): 'joyful', (30, 4): 'joyful', (30, 5): 'calm', (30, 7): 'calm'}}
 
 
 def clip_mood(text, fallback):
@@ -80,7 +103,7 @@ def clip_mood(text, fallback):
 
 def set_moods(s, mood):
     """mood: the śloka's own mood (music_moods.json). Box 0 hook, 1–2 chanting (always calm, devotional), 3–4 story,
-    5 lesson, 6 ending."""
+    5 lesson, 6 ending (the teaser: it follows the story's mood, or curiosity when the story is calm)."""
     for i, c in enumerate(s['clips']):
         text = f"{c['shows']} {c.get('says', '')}"
         if i in (1, 2):
@@ -90,7 +113,8 @@ def set_moods(s, mood):
         elif i == 5:
             c['mood'] = clip_mood(text, 'calm')
         elif i == 6:
-            c['mood'] = clip_mood(text, 'joyful')
+            story = s['clips'][3].get('mood', 'calm') if len(s['clips']) > 3 else 'calm'
+            c['mood'] = clip_mood(text, story if story != 'calm' else 'mystery')
         else:
             c['mood'] = clip_mood(text, mood)
 
@@ -120,7 +144,9 @@ def eleven(s, mood):
         'voice1': f"{HOOK_TAG.get(mood, HOOK_TAG['calm'])} {s['hook']['voice']}",
         'voice2': f"[slowly, reverently, like a temple chant] {sloka} ..." if sloka else '',
         'voice3': f"[warm, storytelling] {s['meaning']['voice']}",
-        'voice4': f"[curious, upbeat] {s['end'].get('teaser') or s['end']['voice']}",
+        # the full ending, so a Short without the user's own recording still ends properly; when the recording is in
+        # the Video Maker, it cuts this file at the pause after the teaser and plays the user's voice instead
+        'voice4': f"[curious, upbeat] {s['end']['voice']}",
     }
 
 
@@ -148,6 +174,9 @@ def main(kanda_dir, sarga):
         split_cta(s['end'])
         s['eleven'] = eleven(s, moods.get(str(n), 'calm'))
         set_moods(s, moods.get(str(n), 'calm'))
+        for (sn, ci), m in MOOD_FIXES.get((kanda_dir, sarga), {}).items():
+            if sn == n and len(s['clips']) >= ci:
+                s['clips'][ci - 1]['mood'] = m
         slokas.append(s)
     out_dir = os.path.join(MAKER, 'src', 'data')
     os.makedirs(out_dir, exist_ok=True)

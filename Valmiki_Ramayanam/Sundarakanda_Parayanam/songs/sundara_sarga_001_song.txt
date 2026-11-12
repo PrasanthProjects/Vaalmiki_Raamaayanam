@@ -1,0 +1,104 @@
+NO: 1
+TITLE: రామబాణమై ఎగిరిన హనుమా
+KANDA: 5_Sundara_Kanda
+SARGA: 1
+SLOKAS: 1-201
+LENGTH: 5:00
+GIST: సుందరకాండ మొదటి సర్గ (201 శ్లోకాలు) ఒకే పాటగా: సీతమ్మ జాడ కోసం హనుమంతులవారు మహేంద్ర పర్వతం నుండి సముద్రం దాటడం – "రాముని బాణంలా లంకకు వెళ్తాను" అన్న ప్రతిజ్ఞ, మైనాకుడు, సురస, సింహిక, చివరికి సముద్రం అవతలి తీరం. మూడు అసలైన వాల్మీకి శ్లోకాలు పారాయణ పద్ధతిలో (1.1, 1.39, 1.198); మిగతా కథ తెలుగులో, శ్లోకాల క్రమంలోనే. వాల్మీకి రామాయణం మాత్రమే.
+RAGA: ఆరభి (Arabhi) – వీర రసం, ఉత్సాహం; శ్లోక గానం తంబూర మీద పారాయణ పద్ధతిలో
+TALA: ఆది తాళం
+BPM: 96
+MOOD: వీరం, భక్తి – మొదట నిశ్చయం, చరణం 2 లో వేగం, చరణం 3 లో తెలివి, చరణం 4 లో విజయం; ముగింపు గర్వంగా, భక్తిగా
+VOICES: గాయకుడు ముఖ్య గొంతు; "జయ జయ హనుమా" పల్లవి (మళ్ళీ వచ్చినప్పుడూ) దగ్గర బలమైన భక్తి కోరస్ తోడవుతుంది. శ్లోక గానం గాయకుడు ఒక్కరే, నెమ్మదిగా. చరణాలు గాయకుడు ఒక్కరే – ప్రతి మాట స్పష్టంగా వినిపించాలి.
+VOICE: నిండైన, బలమైన, వెచ్చని మగ గొంతు, కర్ణాటక సంగీతం నేర్చిన భక్తి గాయకుడిలా తేలికైన గమకాలతో; శ్లోకాలు పారాయణంలా స్పష్టమైన సంస్కృత ఉచ్చారణతో; ప్రతి తెలుగు పదం స్పష్టంగా
+INSTRUMENTS: మొదట శంఖం, గుడి గంట; శ్లోక గానం దగ్గర తంబూర మాత్రమే; పాటలో నాదస్వరం, తవిల్, మృదంగం, బాన్సురీ, వీణ, చిరతలు; చరణం 2 లో వేగంగా తవిల్; చరణం 4 చివర నాదస్వరం గర్వంగా
+STYLE: Sung Telugu devotional story song to Lord Hanuman with a male lead vocal singing from start to end, Carnatic keertana style in raga Arabhi (heroic, veera rasa), Adi tala, 96 bpm. A strong, warm, full-bodied male Carnatic vocalist with light gamakas. Three Sanskrit shlokas are recited slowly in traditional parayanam chanting over tanpura only, with clear Sanskrit pronunciation. Vocals loud and upfront, the singer sings every line of the lyrics clearly, every Telugu word easy to understand, a short pause at each line ending, a catchy pallavi "Jaya Jaya Hanuma" that a strong devotional chorus joins, charanams lead-only. Conch and temple bell at the start, then nadaswaram, thavil, mridangam, bansuri, veena and small cymbals, heroic and devotional, rising energy, about 5 minutes.
+EXCLUDE: rap, EDM, western pop, autotune, female lead, English words, mumbled lyrics
+SOURCE: శ్లోక గానం 1 | సుందరకాండ 1.1 | రావణుడు తీసుకుపోయిన సీతమ్మ జాడను వెదకడానికి, శత్రువులను అణచే హనుమంతులవారు చారణులు తిరిగే ఆకాశ మార్గాన వెళ్ళాలనుకున్నారు.
+SOURCE: చరణం 1 | సుందరకాండ 1.1–1.40 | సూర్యుడు, ఇంద్రుడు, వాయువు, బ్రహ్మ, భూతాలకు నమస్కరించడం (1.8); మహేంద్ర పర్వతాన్ని నొక్కగా బంగారు, వెండి ధారలు (1.15); రాముని బాణంలా లంకకు వెళ్తాను (1.39); లంకలో కనబడకుంటే దేవలోకానికైనా వెళ్తాను (1.40).
+SOURCE: శ్లోక గానం 2 | సుందరకాండ 1.39 | రాముడు విడిచిన బాణం వాయువేగంతో వెళ్ళినట్లు, రావణుడు పాలించే లంకకు నేను వెళ్తాను.
+SOURCE: చరణం 2 | సుందరకాండ 1.41–1.135 | వేగానికి చెట్లు వెంట ఎగరడం; రెక్కలున్న పర్వతంలా ఆకాశంలో (1.78); సముద్రుడి మాటపై మైనాకుడు పైకి లేవడం (1.91, 1.101); వాయుదేవుడి కొడుకుగా గౌరవం (1.126–128); "కార్యకాలం మించిపోతోంది, మాట ఇచ్చాను, ఆగను" (1.132); చేతితో తాకి, చిరునవ్వుతో సాగడం (1.133).
+SOURCE: చరణం 3 | సుందరకాండ 1.145–1.169 | దేవతలు, మునులు సురసను పంపడం (1.145); "బ్రహ్మ వరం – నా నోటిలోకి రావాలి" (1.159); పది యోజనాలు, ఇరవై… తొంభై యోజనాలు, సురస నోరు నూరు యోజనాలు (1.161–167); బొటనవేలంతగా మారి లోపలికి వెళ్ళి బయటికి రావడం (1.167–168); "దాక్షాయణీ, నమస్సులు; నీ వరం నిజమైంది" (1.169).
+SOURCE: చరణం 4 | సుందరకాండ 1.182–1.201 | నీడను పట్టిన సింహిక (1.182); వానకాలపు మేఘంలా పెరగడం (1.188); సింహికను జయించడం (1.196); భూతాల పొగడ్త – ధృతి, దృష్టి, మతి, దాక్ష్యం ఉన్నవాడు ఓడడు (1.197–198); గరుడుడిలా ఆకాశంలో (1.199); నూరు యోజనాల చివర అడవులు, ద్వీపం, మలయ ఉపవనాలు (1.200–201).
+SOURCE: శ్లోక గానం 3 | సుందరకాండ 1.198 | ఓ వానరేంద్రా, నీలో ఉన్నట్లు ధైర్యం, దూరదృష్టి, బుద్ధి, నేర్పు – ఈ నాలుగూ ఉన్నవాడు ఏ పనిలోనూ ఓడిపోడు.
+SOURCE: పల్లవి | సుందరకాండ 1.39 ఆధారంగా | "రాముని బాణంలా వెళ్తాను" – రామదూత హనుమ.
+THUMBPIC: HANUMAN | Hanuman in mid-leap high over the vast blue ocean, arms stretched forward like a flying arrow, Mount Mahendra far behind, golden sunrise light | Golden sunrise light, rim light on Hanuman.
+SCENE: శ్లోక గానం 1 | HANUMAN | Hanuman standing on the summit of Mount Mahendra at sunrise, joined palms, looking across the endless ocean | Golden sunrise light, sea breeze.
+SCENE: పల్లవి | HANUMAN | Hanuman launching into the sky like an arrow, flowering branches swirling after him | Bright morning sun, petals glowing.
+SCENE: చరణం 1 | HANUMAN | Hanuman bowing to the rising sun with joined palms, then pressing the mountain as streams of gold and silver burst from the rocks | Golden sunrise light, glittering streams.
+SCENE: శ్లోక గానం 2 | HANUMAN | Hanuman flying forward like a glowing arrow over the ocean | Bright daylight over the sea, a soft glow around Hanuman.
+SCENE: చరణం 2 | HANUMAN, MAINAKA | The golden-peaked Mainaka mountain rising from the sea, Hanuman touching it gently with his hand and flying on with a smile | Bright midday light over the ocean.
+SCENE: చరణం 3 | HANUMAN, SURASA | Surasa, the mother of serpents, rising from the sea with her mouth wide open; a tiny thumb-sized Hanuman flying out and bowing to her | Dramatic daylight with sea spray.
+SCENE: చరణం 4 | HANUMAN | Hanuman flying on like Garuda, the green forests and the Malaya gardens of the far shore appearing below | Warm afternoon light, green shore below.
+SCENE: శ్లోక గానం 3 | HANUMAN | Celestial beings in the clouds praising Hanuman with raised hands | Soft heavenly light through the clouds.
+SCENE: ముగింపు | HANUMAN | Hanuman flying toward the far shore at sunset, the sky glowing gold | Golden sunset light.
+---
+[శ్లోక గానం | 0:00 | 1 | శంఖం, గుడి గంట ఒకసారి; తంబూర మాత్రమే, తాళం లేదు; సుందరకాండ మొదటి శ్లోకం, పారాయణ పద్ధతిలో నెమ్మదిగా]
+తతో రావణనీతాయాః సీతాయాః శత్రుకర్శనః ।
+ఇయేష పదమన్వేష్టుం చారణాచరితే పథి ॥
+
+[సంగీతం | 0:22 | | నాదస్వరం ఆరభి స్వరాలు, తవిల్ వీరంగా మొదలు]
+
+[పల్లవి | 0:32 | 39 | రెండుసార్లు; బలమైన కోరస్ "జయ జయ హనుమా" దగ్గర]
+జయ జయ హనుమా… వీర హనుమా
+రామబాణమై లంకకు ఎగిరిన రామదూత హనుమా
+
+[చరణం 1 | 0:52 | 1-40 | నిశ్చయంగా మొదలు; "రాముడు విడిచిన బాణంలా" నుండి పైకి ఎక్కుతూ, వీరంగా]
+రావణుడెత్తుకుపోయిన సీతమ్మ జాడను వెదకగా
+చారణులు తిరిగే ఆకాశ దారిని పోవాలనుకొనెగా
+సూర్యునికి ఇంద్రునికి వాయువుకు బ్రహ్మకు మ్రొక్కెగా
+మహేంద్రగిరిని పాదాల నొక్కగ బంగరు వెండి ధారలు పొంగెగా
+"రాముడు విడిచిన బాణంలా వాయువేగంతో పోతానుగా
+రావణుడేలే లంకను చేరి సీతమ్మను నేను చూస్తానుగా
+లంకలో తల్లి కనబడకుంటే దేవలోకమైనా వెదకుతాగా"
+అని గర్జించి ఆకాశానికి ఎగిరెను హనుమా వేగంగా
+
+[శ్లోక గానం | 1:42 | 39 | తంబూర మాత్రమే; నెమ్మదిగా, వీరంగా]
+యథా రాఘవనిర్ముక్తః శరః శ్వసనవిక్రమః ।
+గచ్ఛేత్తద్వద్గమిష్యామి లఙ్కాం రావణపాలితామ్ ॥
+
+[పల్లవి | 2:02 | repeat | ఒకసారి, నిండుగా]
+
+[చరణం 2 | 2:14 | 41-135 | వేగంగా, తవిల్ గట్టిగా; మైనాకుడి మాటలు మృదువుగా; "ఆగను" దగ్గర గట్టిగా]
+వేగానికి పూల చెట్లు వెంట ఎగిరి సాగెను
+రెక్కలున్న పర్వతంలా ఆకాశంలో వెలిగెను
+రాముని పనికి సాయం చేయమని సముద్రుడు కోరెను
+బంగరు శిఖరాల మైనాకుడు నీటి నుండి లేచెను
+"వాయుదేవుని కొడుకువు, కాసేపు సేద తీరుము" అనెను
+"సమయం మించిపోతోంది, మాట ఇచ్చాను, ఆగను" అనెను
+చిరునవ్వుతో చేతితో తాకి మైనాకుని మన్నించెను
+ఆగకుండా ఆకాశమార్గాన హనుమా ముందుకు సాగెను
+
+[పల్లవి | 3:00 | repeat | ఒకసారి]
+
+[సంగీతం 2 | 3:12 | | వీణ, బాన్సురీ చిన్న ముక్క, కొంచెం రహస్యంగా]
+
+[చరణం 3 | 3:20 | 145-169 | ఆసక్తిగా; సంఖ్యలు ఒకదాని తరువాత ఒకటి పెరుగుతూ; "బొటనవేలంతగా" దగ్గర మెల్లగా, నవ్వుతూ]
+దేవతలు మునులు హనుమ బలమును పరీక్షించగా
+నాగమాత సురస సముద్రంలో దారికి అడ్డుగా
+"బ్రహ్మ వరమిది, నా నోటిలోకి రావలసిందే" అనగా
+హనుమ పది యోజనాలు పెరిగెను, సురస నోరు ఇరవైగా
+ఆమె పెంచిన కొద్దీ హనుమా తొంభై యోజనాల కొండగా
+నూరు యోజనాల నోరు తెరవగ తెలివిగ బొటనవేలంతగా
+చిన్నగ మారి నోటిలోకి వెళ్ళి క్షణంలో బయటికి రాగా
+"దాక్షాయణీ నమస్సులు, నీ వరం నిజమాయెగా" అనెను మెల్లగా
+
+[చరణం 4 | 4:02 | 182-201 | వీరంగా; "ఈ నాలుగూ" పంక్తి గర్వంగా; చివరి పంక్తి ఆనందంగా]
+నీడను పట్టి ఆపెను సింహిక అనే రాక్షసి ఘోరంగా
+మాయను గుర్తించి వాన మేఘంలా పెరిగెను హనుమ వీరంగా
+ఆ రాక్షసిని జయించగానే ఆకాశ జీవులు పొగడగా
+"ధైర్యం, దృష్టి, బుద్ధి, నేర్పు – ఈ నాలుగూ నీలో ఉన్నవిగా
+ఇవి ఉన్నవాడు ఏ పనిలోనూ ఓడిపోడు" అని దీవించగా
+గరుడుని వలె ఆకాశంలో హనుమా మళ్ళీ దూసుకుపోగా
+నూరు యోజనాల చివరన పచ్చని అడవులు కనిపించగా
+చెట్లతో నిండిన తీరం, మలయ ఉపవనాలు చూసెను హాయిగా
+
+[శ్లోక గానం | 4:38 | 198 | తంబూర మాత్రమే; నెమ్మదిగా, ఆశీర్వాదంలా]
+యస్య త్వేతాని చత్వారి వానరేన్ద్ర యథా తవ ।
+ధృతిర్దృష్టిర్మతిర్దాక్ష్యం స కర్మసు న సీదతి ॥
+
+[పల్లవి | 4:50 | repeat | కోరస్‌తో నిండుగా]
+
+[ముగింపు | 5:00 | | నాదస్వరం, తవిల్‌తో గర్వంగా ముగింపు]
+రామదూత హనుమా…
+జయ జయ హనుమా…

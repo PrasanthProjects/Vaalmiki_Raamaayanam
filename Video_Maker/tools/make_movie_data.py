@@ -107,6 +107,11 @@ def write_index(out_dir):
         for i, nm in enumerate(presenters):
             f.write(f"import p{i} from './{nm}.json';\n")
         f.write('export const PRESENTERS = [' + ', '.join(f'p{i}' for i in range(len(presenters))) + '];\n')
+        # the Rama and Krishna elevation Shorts (tools/make_vaibhavam_data.py)
+        vaib = sorted(os.path.splitext(os.path.basename(p))[0] for p in glob.glob(os.path.join(out_dir, 'vaibhavam_*.json')))
+        for i, nm in enumerate(vaib):
+            f.write(f"import v{i} from './{nm}.json';\n")
+        f.write('export const VAIBHAVAM = [' + ', '.join(f'v{i}' for i in range(len(vaib))) + '];\n')
 
 
 if __name__ == '__main__':

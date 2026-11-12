@@ -223,6 +223,7 @@ def motion_score(clip):
 
 
 KEPT = {}   # a Short's rows → what its published page already fixed (kinds, thumbnail, speaker)
+THUMB_PICS = {}   # a Short's rows → its hand-written thumbnail picture (thumb_pics.txt: N | keys | frame | light)
 
 
 def row_key(rows):
@@ -348,6 +349,9 @@ def thumb_md(t, clips, kanda_te, sarga, n):
 
 @soft
 def thumb_prompt(clips):
+    if row_key(clips) in THUMB_PICS:   # written by hand so the picture shows who the headline is about (2026-11-11)
+        keys, frame, light = THUMB_PICS[row_key(clips)]
+        return LS.thumb(keys_of(keys), frame.rstrip(' .') + '.', light)
     if row_key(clips) in KEPT:
         return KEPT[row_key(clips)]['thumb']
     pick = next((c for c in clips if keys_of(c[0])), clips[0])
@@ -677,6 +681,10 @@ def main(kanda_dir, sarga):
     global LIVE
     LIVE = all(LS.known(keys_of(row[0])) for rows in flow.values() for row in rows)
     thumbs = pipe_lines(os.path.join(data, 'thumbnails.txt'))
+    pics_path = os.path.join(data, 'thumb_pics.txt')
+    if os.path.exists(pics_path):
+        for n, v in pipe_lines(pics_path).items():
+            THUMB_PICS[row_key(flow[int(n)])] = (v[0], v[1], v[2])
     pinned = {n: v[0] for n, v in pipe_lines(os.path.join(data, 'pinned_comments.txt')).items()}
     # Respectful names in everything the viewer hears or reads (the śloka itself stays as Valmiki wrote it).
     honor.DISCIPLE_BHARADWAJA = kanda_dir.startswith('1_')

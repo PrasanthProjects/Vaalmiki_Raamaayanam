@@ -255,13 +255,22 @@ def video(keys, frame, motion, cam, light):
             "Audio: soft ambient atmosphere only, no speech, no singing, no music.")
 
 
+# Thumbnails that make people want to tap, and stay honest (user, 2026-11-11): a zoomed-in, emotional key-art frame of
+# exactly the moment the title talks about; nothing that is not in the story, nothing frightening or misleading.
+THUMB_CLICK = ("Make it scroll-stopping key art, like a big Indian mythological film poster: a tight, zoomed-in view of "
+               "the main character's face and upper body filling the lower-middle of the frame, eyes sharp and full of "
+               "clear emotion (wonder, devotion, resolve, sorrow or joy, as this moment really is), one strong focal "
+               "point, a shallow depth of field with the background softly blurred, glowing rim light separating the "
+               "subject, rich saturated colours with warm-and-cool contrast, a gentle dark vignette at the edges. "
+               "Show only what this moment of the story really has; nothing frightening, gory, mocking or misleading.")
+
+
 @soft
 def thumb(keys, frame, light):
     keys = [k for k in order(keys) if k in GROUP_TEXT or LIB[k]['kind'] != 'place']   # a close-up: no place image
     return ("Vertical 9:16 YouTube Shorts thumbnail key art, single still image, 1080x1920. "
             f"{QUALITY_STILL} {use_sentence(keys)}Style: {STYLE}. {cast(keys, False, frame)}"
-            f"Scene: {frame}{hands_note(keys, frame)} Make it a bold, emotional close-up of the main character or "
-            f"symbol in the lower-middle of the frame, strong expression, high contrast, glowing rim light. {light} "
+            f"Scene: {frame}{hands_note(keys, frame)}{acting(keys, frame)} {THUMB_CLICK} {light} "
             "Keep the top 35% of the frame a clean dark gradient or soft sky with no important detail (space for a "
             "headline) and the bottom 12% calm and plain (space for a small line). "
             f"{RESPECT} No text, letters, numbers, logos or watermarks in the image."), ref_keys(keys)

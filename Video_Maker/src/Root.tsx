@@ -1,6 +1,8 @@
 import React from 'react';
 import {CalculateMetadataFunction, Composition, Folder} from 'remotion';
-import {MOVIES, PRESENTERS, SARGAS} from './data';
+import {MOVIES, PRESENTERS, SARGAS, VAIBHAVAM} from './data';
+import {Vaibhavam, VaibhavamProps} from './Vaibhavam';
+import {VSeries, VShort, makeVaibhavamTimeline} from './vaibhavamTimeline';
 import {Short, ShortProps} from './Short';
 import {FPS, makeTimeline} from './timeline';
 import {Movie, MovieProps} from './Movie';
@@ -63,8 +65,44 @@ const presenterMetadata: CalculateMetadataFunction<PresenterProps> = async ({pro
   return {durationInFrames: Math.ceil(timeline.total * FPS), props: {...props, media, timeline, server}};
 };
 
+// వైభవం mode: the Rama and Krishna elevation Shorts (maker/vaibhavam.html)
+export const vaibhavamId = (id: string) => `Vaibhavam-${id}`;
+const vaibhavamMetadata: CalculateMetadataFunction<VaibhavamProps> = async ({props, abortSignal}) => {
+  let media = {};
+  let edit = {};
+  let server = false;
+  try {
+    const r = await fetch(`${MAKER}/api/vaibhavam-media?vid=${encodeURIComponent(props.short.id)}`, {signal: abortSignal});
+    const j = await r.json();
+    media = j.media;
+    edit = j.edit || {};
+    server = true;
+  } catch (e) {
+    // page not running: the layout with empty clips
+  }
+  const timeline = makeVaibhavamTimeline(props.short, media);
+  return {durationInFrames: Math.ceil(timeline.total * FPS), props: {...props, media, edit, timeline, server}};
+};
+
 export const Root: React.FC = () => (
   <>
+    {(VAIBHAVAM as unknown as VSeries[]).map((d) => (
+      <Folder key={d.series} name={`Vaibhavam-${d.series}`}>
+        {d.shorts.map((s: VShort) => (
+          <Composition
+            key={s.id}
+            id={vaibhavamId(s.id)}
+            component={Vaibhavam as unknown as React.FC<VaibhavamProps>}
+            width={1080}
+            height={1920}
+            fps={FPS}
+            durationInFrames={Math.ceil((s.planLength + 2) * FPS)}
+            defaultProps={{series: d.series, seriesTe: d.seriesTe, short: s, media: {}, timeline: null, server: false}}
+            calculateMetadata={vaibhavamMetadata}
+          />
+        ))}
+      </Folder>
+    ))}
     <Folder name="Presenter">
       {PRESENTERS.map((d) => (
         <Composition

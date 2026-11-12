@@ -30,3 +30,9 @@ Valmiki_Cinema/publish/
 
 # ElevenLabs API key (never commit)
 .env.local
+
+# Vaibhavam / Sundarakanda Parayanam audio (voices, music, trials) – kept outside git like the other media
+Valmiki_Ramayanam/*_Vaibhavam/**/*.mp3
+Valmiki_Ramayanam/*_Vaibhavam/**/*.wav
+Valmiki_Ramayanam/Sundarakanda_Parayanam/**/*.mp3
+Valmiki_Ramayanam/Sundarakanda_Parayanam/**/*.wav

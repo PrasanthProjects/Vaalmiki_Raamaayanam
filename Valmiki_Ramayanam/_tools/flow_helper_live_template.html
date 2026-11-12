@@ -244,11 +244,11 @@ h1 mark { background: none; color: var(--saffron); }
       const li = el('li'); const b = el('button'); b.setAttribute('aria-current', i === cur ? 'true' : 'false');
       b.append(el('span', 'num', String(s.n)), el('span', 'hl', s.headline));
       const dots = el('span', 'dots'); const e = done[sid(s.n)];
-      for (let k = 0; k < 8; k++) { const d = el('i'); if (e && (k < 7 ? e.c[k] : e.t)) d.className = 'on'; dots.append(d); }
+      const nc = s.clips.length; for (let k = 0; k <= nc; k++) { const d = el('i'); if (e && (k < nc ? e.c[k] : e.t)) d.className = 'on'; dots.append(d); }
       b.append(dots); b.addEventListener('click', () => go(i)); li.append(b); ul.append(li);
     });
-    const total = D.slokas.length * 8;
-    $('totalText').textContent = all + ' / ' + total + ' పూర్తి (' + D.slokas.length + ' శ్లోకాలు × 7 క్లిప్‌లు + థంబ్‌నెయిల్)';
+    const total = D.slokas.reduce((a, s) => a + s.clips.length + 1, 0);
+    $('totalText').textContent = all + ' / ' + total + ' పూర్తి (' + D.slokas.length + (D.slokas[0].sloka.length ? ' శ్లోకాలు' : ' Shorts') + ' – క్లిప్‌లు + థంబ్‌నెయిల్)';
     $('totalBar').style.width = (100 * all / total) + '%';
     let vl = 0, il = 0, tl = 0; D.slokas.forEach((s) => { const e = done[sid(s.n)]; s.clips.forEach((c, k) => { if (!(e && e.c[k])) { if (c.kind === 'video') vl++; else il++; } }); if (!(e && e.t)) tl++; });
     $('remainText').textContent = 'మిగిలినవి: ' + vl + ' వీడియో · ' + il + ' ఇమేజ్ · ' + tl + ' థంబ్‌నెయిల్ (Flow క్రెడిట్‌లు ప్లాన్ చేసుకోండి)';
@@ -302,10 +302,10 @@ h1 mark { background: none; color: var(--saffron); }
     const ev = D.eleven && D.eleven[String(s.n)];
     if (ev) {
       // the four voice parts, ready for ElevenLabs (one file each, dropped into the same-numbered voice box)
-      const dt = el('details', 'sheet'); dt.append(el('summary', '', '🎙 ElevenLabs డైలాగ్‌లు – 4 భాగాలు (కాపీ చేసి Generate చేయండి)'));
-      dt.append(el('p', 'note', 'Eleven v3, అన్ని Shorts కి ఒకే గొంతు. [ ] లోని ఇంగ్లీష్ సూచనలు ఎలా చెప్పాలో చెబుతాయి – అవి చదవబడవు. ' +
+      const dt = el('details', 'sheet'); dt.append(el('summary', '', D.elevenTitle || '🎙 ElevenLabs డైలాగ్‌లు – 4 భాగాలు (కాపీ చేసి Generate చేయండి)'));
+      dt.append(el('p', 'note', D.elevenNote || 'Eleven v3, అన్ని Shorts కి ఒకే గొంతు. [ ] లోని ఇంగ్లీష్ సూచనలు ఎలా చెప్పాలో చెబుతాయి – అవి చదవబడవు. ' +
         'ప్రతి భాగాన్ని వేరుగా Generate చేసి, MP3 ని Video Maker లో అదే నంబర్ వాయిస్ బాక్స్‌లో వదలండి. శ్లోకానికి Stability: Robust.'));
-      [['voice1', '1 · హుక్'], ['voice2', '2 · శ్లోకం'], ['voice3', '3 · తాత్పర్యం & జీవిత పాఠం'], ['voice4', '4 · ముగింపు']].forEach(([k, t]) => {
+      (D.elevenParts || [['voice1', '1 · హుక్'], ['voice2', '2 · శ్లోకం'], ['voice3', '3 · తాత్పర్యం & జీవిత పాఠం'], ['voice4', '4 · ముగింపు']]).forEach(([k, t]) => {
         if (ev[k]) { dt.append(el('div', 'label', t)); dt.append(promptBox(ev[k], 'ElevenLabs కాపీ')); } });
       b.append(dt);
     }
@@ -320,7 +320,7 @@ h1 mark { background: none; color: var(--saffron); }
     const p = $('panel');
     const sl = el('div', 'sloka'); s.sloka.forEach((l) => sl.append(el('p', '', l)));
     if (s.reading) { const r = el('div', 'read'); r.append(el('div', 'eyebrow', 'చదవడానికి సులువుగా')); s.reading.forEach((l) => r.append(el('div', '', l))); sl.append(r); }
-    p.append(sl);
+    if (s.sloka.length) p.append(sl);
     p.append(speakerBox(s));
     const dt = el('details', 'dlg'); const sm = el('summary', '', '🎙 ఈ షార్ట్ పూర్తి డైలాగ్ (నెరేషన్) – చూడండి / కాపీ చేయండి');
     dt.append(sm, dialogBox(s, false)); p.append(dt);

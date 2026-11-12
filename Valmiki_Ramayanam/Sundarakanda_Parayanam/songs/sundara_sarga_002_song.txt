@@ -1,0 +1,104 @@
+NO: 2
+TITLE: లంకను చూసిన హనుమా
+KANDA: 5_Sundara_Kanda
+SARGA: 2
+SLOKAS: 1-58
+LENGTH: 5:00
+GIST: సుందరకాండ రెండవ సర్గ (58 శ్లోకాలు) ఒకే పాటగా: సముద్రం దాటి త్రికూట శిఖరం మీద నిలిచిన హనుమంతులవారు బంగరు లంకను చూడడం, "ఈ రూపంతో లోపలికి పోలేను" అని ఆలోచించడం, రాత్రి పిల్లి అంతటి చిన్న రూపంలో లంక రాజవీధిలో అడుగుపెట్టడం, చంద్రుడు తోడుగా ఉదయించడం. మూడు అసలైన వాల్మీకి శ్లోకాలు పారాయణ పద్ధతిలో (2.1, 2.4, 2.57); మిగతా కథ తెలుగులో, శ్లోకాల క్రమంలోనే. వాల్మీకి రామాయణం మాత్రమే.
+RAGA: ఆరభి (Arabhi) – వీర రసం, ఉత్సాహం; శ్లోక గానం తంబూర మీద పారాయణ పద్ధతిలో
+TALA: ఆది తాళం
+BPM: 96
+MOOD: వీరం, ఆశ్చర్యం, భక్తి – మొదట ఉత్సాహం, చరణం 2 లో గంభీరం, చరణం 3 లో లోతైన ఆలోచన, చరణం 4 లో వెన్నెల ప్రశాంతత; ముగింపు భక్తిగా, నిశ్చయంగా
+VOICES: గాయకుడు ముఖ్య గొంతు; "జయ జయ హనుమా" పల్లవి (మళ్ళీ వచ్చినప్పుడూ) దగ్గర బలమైన భక్తి కోరస్ తోడవుతుంది. శ్లోక గానం గాయకుడు ఒక్కరే, నెమ్మదిగా. చరణాలు గాయకుడు ఒక్కరే – ప్రతి మాట స్పష్టంగా వినిపించాలి.
+VOICE: నిండైన, బలమైన, వెచ్చని మగ గొంతు, కర్ణాటక సంగీతం నేర్చిన భక్తి గాయకుడిలా తేలికైన గమకాలతో; శ్లోకాలు పారాయణంలా స్పష్టమైన సంస్కృత ఉచ్చారణతో; ప్రతి తెలుగు పదం స్పష్టంగా
+INSTRUMENTS: మొదట శంఖం, గుడి గంట; శ్లోక గానం దగ్గర తంబూర మాత్రమే; పాటలో నాదస్వరం, తవిల్, మృదంగం, బాన్సురీ, వీణ, చిరతలు; చరణం 2 లో వేగంగా తవిల్; చరణం 4 చివర నాదస్వరం గర్వంగా
+STYLE: Sung Telugu devotional story song to Lord Hanuman with a male lead vocal singing from start to end, Carnatic keertana style in raga Arabhi (heroic, veera rasa), Adi tala, 96 bpm. A strong, warm, full-bodied male Carnatic vocalist with light gamakas. Three Sanskrit shlokas are recited slowly in traditional parayanam chanting over tanpura only, with clear Sanskrit pronunciation. Vocals loud and upfront, the singer sings every line of the lyrics clearly, every Telugu word easy to understand, a short pause at each line ending, a catchy pallavi "Jaya Jaya Hanuma" that a strong devotional chorus joins, charanams lead-only. Conch and temple bell at the start, then nadaswaram, thavil, mridangam, bansuri, veena and small cymbals, heroic and devotional, rising energy, about 5 minutes.
+EXCLUDE: rap, EDM, western pop, autotune, female lead, English words, mumbled lyrics
+SOURCE: శ్లోక గానం 1 | సుందరకాండ 2.1 | మహాబలుడైన హనుమంతులవారు దాటరాని సముద్రాన్ని దాటి, హాయిగా నిలిచి, త్రికూట శిఖరం మీద ఉన్న లంకను చూశారు.
+SOURCE: చరణం 1 | సుందరకాండ 2.1–2.20 | పూలవానలో పూలరాశిలా (2.2); అలసట లేదు (2.3); "వందల యోజనాలైనా దాటగలను" (2.4); అడవులు, కొండలు (2.6–8); కలువల కందకాలు, బంగరు గోడలు, విల్లుల కాపలా, శరత్ మేఘాల్లా తెల్లని మేడలు (2.14–18); విశ్వకర్మ కట్టిన, ఆకాశంలో తేలే పురి (2.19–20).
+SOURCE: శ్లోక గానం 2 | సుందరకాండ 2.4 | వందలాది యోజనాలైనా నేను దాటగలను; లెక్కకు వచ్చే నూరు యోజనాల సముద్రం ఏపాటిది?
+SOURCE: చరణం 2 | సుందరకాండ 2.21–2.35 | ఉత్తర ద్వారం (2.21); శూలాలు, ఈటెల కాపలా (2.23–26); దేవతలకూ గెలవరాని పురి (2.27); సామ దాన భేద యుద్ధాలకు చోటు లేదు (2.29); అంగదుడు, నీలుడు, సుగ్రీవుడు, నేను మాత్రమే రాగలం (2.30); వైదేహి జాడ చూశాకే ఆలోచన (2.31); ఈ రూపంతో పోలేను, రాత్రి చిన్న రూపంతో (2.33–35).
+SOURCE: చరణం 3 | సుందరకాండ 2.36–2.47 | రావణుడికి తెలియకుండా మైథిలిని చూడడం ఎలా (2.37); రాముని పని చెడకుండా (2.38); తెలివి లేని దూత వల్ల సూర్యోదయంలో చీకటిలా పని పోతుంది (2.39–40); చూస్తే రాముని పని వృథా (2.42); రూపం లేని గాలి కూడా తెలియకుండా తిరగదు (2.44); చిన్న రూపంలో రాత్రి లంకలో దూకుతాను (2.46–47).
+SOURCE: చరణం 4 | సుందరకాండ 2.48–2.58 | సూర్యాస్తమయం కోసం ఆగడం (2.48); పిల్లి అంతటి రూపం (2.49); రాజవీధిలో ప్రవేశం (2.50); బంగరు వెండి స్తంభాలు, స్ఫటికాల కిటికీలు, ముత్యాలు మణులు, బంగరు తోరణాలు (2.51–54); దిగులూ ఆనందమూ (2.55); చంద్రుడు మంత్రిలా సాయంగా, తెల్లని శంఖంలా, ఆకాశ సరస్సులో హంసలా (2.57–58).
+SOURCE: శ్లోక గానం 3 | సుందరకాండ 2.57 | హనుమంతులవారికి మంత్రిలా సాయం చేస్తున్నట్లు, తారల నడుమ వెలుగుతూ, వెన్నెల పందిరితో లోకాన్ని కప్పుతూ వేల కిరణాల చంద్రుడు ఉదయించాడు.
+SOURCE: పల్లవి | సుందరకాండ 1.39 ఆధారంగా (పాట 1 పల్లవి) | "రాముని బాణంలా వెళ్తాను" – రామదూత హనుమ.
+THUMBPIC: HANUMAN, LANKA_CITY | Hanuman standing on the Trikuta mountain peak covered in fallen flower petals, gazing in wonder at the golden city of Lanka on the next peak, white mansions glowing | Warm golden evening light, rim light on Hanuman.
+SCENE: శ్లోక గానం 1 | HANUMAN, LANKA_CITY | Hanuman standing calmly on the summit of Trikuta mountain after crossing the ocean, looking across at the golden city of Lanka on the next peak | Bright late-afternoon light, sea breeze.
+SCENE: పల్లవి | HANUMAN | Hanuman standing tall on the mountain peak, flower petals from the trees drifting down around him, the ocean shining behind | Warm golden light, petals glowing in the sun.
+SCENE: చరణం 1 | HANUMAN, LANKA_CITY | A wide view of Lanka: moats full of blue lotuses, golden boundary walls, white mansions like autumn clouds, banners on the streets; Hanuman small on a green hill, watching | Clear golden evening light.
+SCENE: శ్లోక గానం 2 | HANUMAN | Hanuman fresh and unhurried on the mountain top, a calm confident smile, the vast ocean he crossed stretching behind him | Soft evening sun.
+SCENE: చరణం 2 | HANUMAN, LANKA_CITY | Hanuman crouching near the northern gate of Lanka at dusk, studying the high walls and the guards with spears on the ramparts, thinking hard | Fading dusk light, first lamps on the walls.
+SCENE: చరణం 3 | HANUMAN | Hanuman sitting on a rock at dusk with his hand on his chin, deep in thought, the lights of Lanka beginning to glow behind him | Blue dusk light with warm city lamps.
+SCENE: చరణం 4 | HANUMAN, LANKA_CITY | Hanuman, now tiny like a cat, stepping onto the royal road of Lanka between mansions with gold and silver pillars and crystal windows | Moonlight with warm lamp glow from the windows.
+SCENE: శ్లోక గానం 3 | LANKA_CITY | The full moon rising among the stars above Lanka like a white conch, spreading a silver canopy of light over the city | Silver moonlight, starry sky.
+SCENE: ముగింపు | HANUMAN, LANKA_CITY | Tiny Hanuman on a moonlit rooftop of Lanka, looking over the city with resolve | Silver moonlight, soft glow on Hanuman.
+---
+[శ్లోక గానం | 0:00 | 1 | శంఖం, గుడి గంట ఒకసారి; తంబూర మాత్రమే, తాళం లేదు; రెండవ సర్గ మొదటి శ్లోకం, పారాయణ పద్ధతిలో నెమ్మదిగా]
+స సాగరమనాధృష్యమతిక్రమ్య మహాబలః ।
+త్రికూటశిఖరే లఙ్కాం స్థితాం స్వస్థో దదర్శ హ ॥
+
+[సంగీతం | 0:22 | | నాదస్వరం ఆరభి స్వరాలు, తవిల్ వీరంగా మొదలు]
+
+[పల్లవి | 0:32 | 39 | రెండుసార్లు; బలమైన కోరస్ "జయ జయ హనుమా" దగ్గర]
+జయ జయ హనుమా… వీర హనుమా
+రామబాణమై లంకకు ఎగిరిన రామదూత హనుమా
+
+[చరణం 1 | 0:52 | 1-20 | ఉత్సాహంగా; "వందల యోజనాలైనా" దగ్గర గర్వంగా; చివరి రెండు పంక్తులు ఆశ్చర్యంగా]
+సాగరమంతా దాటి త్రికూట శిఖరం మీద నిలువగా
+చెట్లు కురిసిన పూలవానలో పూలరాశిలా వెలుగగా
+నూరు యోజనాలు దాటినా అలసట లేక హాయిగా
+"వందల యోజనాలైనా దాటుతాను, నూరు ఎంత చిన్నదిగా"
+పూల అడవులు పచ్చని బయళ్ళు కొండలు దాటి సాగగా
+కలువల కందకాలు, బంగరు గోడలు, విల్లుల కాపలాగా
+శరత్కాల మేఘాల్లా తెల్లని మేడలు నింగిని తాకగా
+విశ్వకర్మ కట్టిన లంక ఆకాశంలో తేలే పురిలా వెలుగగా
+
+[శ్లోక గానం | 1:42 | 4 | తంబూర మాత్రమే; నెమ్మదిగా, ధీమాగా]
+శతాన్యహం యోజనానాం క్రమేయం సుబహూన్యపి ।
+కిం పునః సాగరస్యాన్తం సంఖ్యాతం శతయోజనమ్ ॥
+
+[పల్లవి | 2:02 | repeat | ఒకసారి, నిండుగా]
+
+[చరణం 2 | 2:14 | 21-35 | గంభీరంగా, తవిల్ నెమ్మదిగా; ఆలోచనలు స్పష్టంగా; చివరి పంక్తి నిశ్చయంగా]
+ఉత్తర ద్వారం చేరి లంక కోటను బాగా చూసెను
+శూలాలు ఈటెలు పట్టిన రాక్షసుల కాపును గమనించెను
+"యుద్ధంలో దేవతలకైనా గెలవరాని పురి ఇది" అని తలచెను
+"సామ దాన భేదాలకు ఇక్కడ చోటే లేదు" అనుకొనెను
+"అంగద నీల సుగ్రీవులు నేను మాత్రమే రాగలము" అనెను
+"వైదేహి జాడ చూశాకే మిగతాది ఆలోచిస్తాను" అనెను
+"ఈ రూపంతో ఈ కాపుల మధ్య లోనికి పోలేను
+చిన్న రూపంలో రాత్రివేళ లంకలో అడుగుపెడతాను"
+
+[పల్లవి | 3:00 | repeat | ఒకసారి]
+
+[సంగీతం 2 | 3:12 | | వీణ, బాన్సురీ చిన్న ముక్క, కొంచెం రహస్యంగా]
+
+[చరణం 3 | 3:20 | 36-47 | లోతుగా ఆలోచిస్తూ, మెల్లగా; "రూపం లేని గాలైనా" దగ్గర గుసగుసగా; చివరి పంక్తి ధైర్యంగా]
+మళ్ళీ మళ్ళీ నిట్టూర్చి హనుమ ఆలోచించెను లోతుగా
+"రావణుడికి తెలియకుండా జానకిని చూసేదెలాగా
+రాముని పని చెడిపోకుండా సీతమ్మను కలిసేదెలాగా
+పొద్దు పొడవగ చీకటిలా తొందరపడే దూత వల్ల పని కరిగిపోవునుగా
+రాక్షసులు నన్ను చూస్తే రాముని పని వృథా అవునుగా
+రూపం లేని గాలైనా ఇక్కడ తెలియకుండా తిరగదుగా
+అందుకే రాత్రివేళ చిన్నగా మారి రాముని పని కోసంగా
+రావణుని ఇళ్ళన్నీ వెదకి సీతమ్మను కనుగొంటానుగా"
+
+[చరణం 4 | 4:02 | 48-58 | ఆశ్చర్యంగా మొదలు; "దిగులూ ఆనందమూ" దగ్గర మృదువుగా; చంద్రుడి పంక్తులు ప్రశాంతంగా, వెన్నెలలా]
+సీతమ్మను చూడాలనే తపనతో పొద్దు గూకే వరకు ఆగగా
+పిల్లి అంతటి చిన్ని రూపంలో మారెను అద్భుతంగా
+సాయంకాలం దూకి లంక రాజవీధిలో అడుగుపెట్టగా
+బంగరు వెండి స్తంభాలు, స్ఫటికాల కిటికీలు మెరవగా
+ముత్యాలు మణుల మేడలు, బంగరు తోరణాలు వెలుగగా
+ఆ వైభవం చూసి సీతమ్మ కోసం దిగులూ ఆనందమూ కలుగగా
+వేల కిరణాల చంద్రుడు తారల నడుమ మంత్రిలా తోడుగా
+తెల్లని శంఖంలా, నింగి సరస్సులో హంసలా వెలిగెను నిండుగా
+
+[శ్లోక గానం | 4:38 | 57 | తంబూర మాత్రమే; నెమ్మదిగా, వెన్నెలలా ప్రశాంతంగా]
+చన్ద్రోఽపి సాచివ్యమివాస్య కుర్వంస్తారాగణైర్మధ్యగతో విరాజన్ ।
+జ్యోత్స్నావితానేన వితత్య లోకముత్తిష్ఠతే నైకసహస్రరశ్మిః ॥
+
+[పల్లవి | 4:50 | repeat | కోరస్‌తో నిండుగా]
+
+[ముగింపు | 5:00 | | నాదస్వరం, తవిల్‌తో గర్వంగా ముగింపు]
+రామదూత హనుమా…
+జయ జయ హనుమా…

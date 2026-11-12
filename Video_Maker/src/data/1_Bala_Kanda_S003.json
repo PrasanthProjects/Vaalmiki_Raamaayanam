@@ -1,0 +1,2933 @@
+{
+ "kanda": "1_Bala_Kanda",
+ "kandaEn": "Bala",
+ "kandaTe": "బాలకాండ",
+ "sarga": 3,
+ "slokas": [
+  {
+   "hook": {
+    "voice": "రామకథ మొత్తం విన్న తరువాత కూడా వాల్మీకి మహర్షి అక్కడితో ఆగలేదు... ఎందుకు?",
+    "screen": "విన్నా... ఇంకా వెతికారు!"
+   },
+   "meaning": {
+    "voice": "ధర్మం, అర్థం నిండిన, అందరికీ మేలు చేసే రామకథను నారద మహర్షి నుండి పూర్తిగా విన్నారు వాల్మీకి మహర్షి. అయినా శ్రీరాములవారి జీవితంలో జరిగినదంతా ఇంకా స్పష్టంగా తెలుసుకోవాలని మళ్ళీ వెతకడం మొదలుపెట్టారు. విన్నది చాలు అనుకోకుండా లోతుగా తెలుసుకున్నప్పుడే మన పని గొప్పగా వస్తుంది.",
+    "screen": "సమగ్ర కథ | ధర్మార్థ సహితం | మళ్ళీ అన్వేషణ"
+   },
+   "end": {
+    "voice": "ఆ అన్వేషణ కోసం వాల్మీకి మహర్షి ఎక్కడ, ఎలా కూర్చున్నారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఆ అన్వేషణ కోసం వాల్మీకి మహర్షి ఎక్కడ, ఎలా కూర్చున్నారు? తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Valmiki seated alone under the kadamba tree, deep in thought, gazing into the distance",
+     "says": "రామకథ మొత్తం విన్న తరువాత కూడా వాల్మీకి మహర్షి అక్కడితో ఆగలేదు... ఎందుకు?",
+     "mood": "sad"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Valmiki sitting in the ashram courtyard while his young disciple waits quietly nearby",
+     "says": "శ్రుత్వా వస్తు సమగ్రం తద్ధర్మార్థసహితం హితమ్ । / వ్యక్తమన్వేషతే భూయో యద్ వృత్తం తస్య ధీమతః ॥ 1 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Valmiki walking slowly along the riverbank, hands clasped behind his back, lost in thought",
+     "says": "ధర్మం, అర్థం నిండిన,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": true,
+     "shows": "Close view of Valmiki's thoughtful face, eyes looking far away",
+     "says": "అందరికీ మేలు చేసే రామకథను నారద మహర్షి నుండి పూర్తిగా విన్నారు వాల్మీకి మహర్షి.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Symbolic shot: a single oil lamp glowing beside a closed palm-leaf bundle on a wooden stand",
+     "says": "అయినా శ్రీరాములవారి జీవితంలో జరిగినదంతా ఇంకా స్పష్టంగా తెలుసుకోవాలని మళ్ళీ వెతకడం మొదలుపెట్టారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Valmiki standing at the edge of the river, determined",
+     "says": "విన్నది చాలు అనుకోకుండా లోతుగా తెలుసుకున్నప్పుడే మన పని గొప్పగా వస్తుంది.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Valmiki kneeling at the river and cupping clear water in his hands",
+     "says": "ఆ అన్వేషణ కోసం వాల్మీకి మహర్షి ఎక్కడ, ఎలా కూర్చున్నారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 1,
+   "eleven": {
+    "voice1": "[intrigued, warm] రామకథ మొత్తం విన్న తరువాత కూడా వాల్మీకి మహర్షి అక్కడితో ఆగలేదు... ఎందుకు?",
+    "voice2": "",
+    "voice3": "[warm, storytelling] ధర్మం, అర్థం నిండిన, అందరికీ మేలు చేసే రామకథను నారద మహర్షి నుండి పూర్తిగా విన్నారు వాల్మీకి మహర్షి. అయినా శ్రీరాములవారి జీవితంలో జరిగినదంతా ఇంకా స్పష్టంగా తెలుసుకోవాలని మళ్ళీ వెతకడం మొదలుపెట్టారు. విన్నది చాలు అనుకోకుండా లోతుగా తెలుసుకున్నప్పుడే మన పని గొప్పగా వస్తుంది.",
+    "voice4": "[curious, upbeat] ఆ అన్వేషణ కోసం వాల్మీకి మహర్షి ఎక్కడ, ఎలా కూర్చున్నారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "రామకథను కళ్ళారా చూడడానికి వాల్మీకి మహర్షి ఏం చేశారో తెలుసా?",
+    "screen": "దర్భాసనం!"
+   },
+   "meaning": {
+    "voice": "వాల్మీకి మహర్షి ముని పద్ధతిగా ఆచమనం చేసి, కొనలు తూర్పు వైపు ఉండేలా దర్భలు పరిచి, చేతులు జోడించి కూర్చున్నారు. తన తపశ్శక్తితో రామకథ జరిగిన తీరును వెతికారు. గొప్ప పని మొదలుపెట్టే ముందు మనసును శుద్ధి చేసుకుని, ఏకాగ్రతతో కూర్చోవడమే మొదటి మెట్టు.",
+    "screen": "ఆచమనం | తూర్పు వైపు దర్భలు | కృతాంజలి"
+   },
+   "end": {
+    "voice": "కళ్ళు మూసుకున్న వాల్మీకికి ఎవరెవరు కనిపించారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+    "teaser": "కళ్ళు మూసుకున్న వాల్మీకికి ఎవరెవరు కనిపించారు? తరువాతి భాగంలో!",
+    "cta": 2
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Valmiki seated on a mat of darbha grass whose tips all point to the east, palms joined",
+     "says": "రామకథను కళ్ళారా చూడడానికి వాల్మీకి మహర్షి ఏం చేశారో తెలుసా?",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Valmiki sipping water from his right palm in the traditional achamana",
+     "says": "ఉపస్పృశ్యోదకం సమ్యఙ్మునిః స్థిత్వా కృతాఞ్జలిః । / ప్రాచీనాగ్రేషు దర్భేషు ధర్మేణాన్వేషతే గతిమ్ ॥ 2 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": true,
+     "shows": "Close-up of fresh darbha grass laid in neat rows, all tips pointing east toward the rising sun",
+     "says": "వాల్మీకి మహర్షి ముని పద్ధతిగా ఆచమనం చేసి,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Valmiki seated cross-legged on the darbha mat with joined palms, eyes closed",
+     "says": "కొనలు తూర్పు వైపు ఉండేలా దర్భలు పరిచి, చేతులు జోడించి కూర్చున్నారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Close view of Valmiki's joined palms at his chest",
+     "says": "తన తపశ్శక్తితో రామకథ జరిగిన తీరును వెతికారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Valmiki sitting in perfect stillness while the ashram is quiet around him",
+     "says": "గొప్ప పని మొదలుపెట్టే ముందు మనసును శుద్ధి చేసుకుని, ఏకాగ్రతతో కూర్చోవడమే మొదటి మెట్టు.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Valmiki in deep meditation, a golden aura spreading around him",
+     "says": "కళ్ళు మూసుకున్న వాల్మీకికి ఎవరెవరు కనిపించారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 2,
+   "eleven": {
+    "voice1": "[intrigued, warm] రామకథను కళ్ళారా చూడడానికి వాల్మీకి మహర్షి ఏం చేశారో తెలుసా?",
+    "voice2": "",
+    "voice3": "[warm, storytelling] వాల్మీకి మహర్షి ముని పద్ధతిగా ఆచమనం చేసి, కొనలు తూర్పు వైపు ఉండేలా దర్భలు పరిచి, చేతులు జోడించి కూర్చున్నారు. తన తపశ్శక్తితో రామకథ జరిగిన తీరును వెతికారు. గొప్ప పని మొదలుపెట్టే ముందు మనసును శుద్ధి చేసుకుని, ఏకాగ్రతతో కూర్చోవడమే మొదటి మెట్టు.",
+    "voice4": "[curious, upbeat] కళ్ళు మూసుకున్న వాల్మీకికి ఎవరెవరు కనిపించారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "ధ్యానంలో కూర్చున్న వాల్మీకి మహర్షి కళ్ళ ముందు ఎవరు కనిపించారో చూడండి!",
+    "screen": "ఎవరు కనిపించారు?"
+   },
+   "meaning": {
+    "voice": "శ్రీరాములవారు, లక్ష్మణులవారు, సీతమ్మవారు, భార్యలతో, రాజ్యంతో కూడిన దశరథ మహారాజుగారు... ఆ రోజుల్లో వీళ్ళందరికీ నిజంగా ఏమేమి జరిగిందో వాల్మీకి మహర్షి తన ధ్యానంలో చూడడం మొదలుపెట్టారు. రామాయణం ఒక్కరి కథ కాదు. ఒక కుటుంబం, ఒక రాజ్యం అందరూ కలిసిన కథ.",
+    "screen": "రామ లక్ష్మణ సీతమ్మవారి | దశరథ మహారాజుగారి | రాణులు, రాజ్యం"
+   },
+   "end": {
+    "voice": "వాల్మీకి మహర్షి ఇంకా ఏమేమి చూశారో తెలుసా? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "వాల్మీకి మహర్షి ఇంకా ఏమేమి చూశారో తెలుసా? తరువాతి భాగంలో!",
+    "cta": 3
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Rama, Lakshmana and Sita standing together in the palace garden, seen as a glowing vision",
+     "says": "ధ్యానంలో కూర్చున్న వాల్మీకి మహర్షి కళ్ళ ముందు ఎవరు కనిపించారో చూడండి!",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "King Dasharatha seated on his throne with his three queens beside him, seen as a glowing vision",
+     "says": "రామలక్ష్మణసీతాభీ రాజ్ఞా దశరథేన చ । / సభార్యేణ సరాష్ట్రేణ యత్ ప్రాప్తం తత్ర తత్త్వతః ॥ 3 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Valmiki in meditation, faint images of a royal palace glowing in the air above him",
+     "says": "శ్రీరాములవారు, లక్ష్మణులవారు, సీతమ్మవారు, భార్యలతో, రాజ్యంతో కూడిన దశరథ మహారాజుగారు...",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "A glowing vision of King Dasharatha with his queens in the Ayodhya palace, Rama, Lakshmana and Sita beside them",
+     "says": "ఆ రోజుల్లో వీళ్ళందరికీ నిజంగా ఏమేమి జరిగిందో వాల్మీకి మహర్షి తన ధ్యానంలో చూడడం మొదలుపెట్టారు.",
+     "mood": "mystery"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Happy people of Ayodhya in the streets, seen as a glowing vision",
+     "says": "రామాయణం ఒక్కరి కథ కాదు.",
+     "mood": "mystery"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Close view of Valmiki's peaceful face as he sees the vision",
+     "says": "ఒక కుటుంబం, ఒక రాజ్యం అందరూ కలిసిన కథ.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Rama and Lakshmana talking and smiling together in the palace garden",
+     "says": "వాల్మీకి మహర్షి ఇంకా ఏమేమి చూశారో తెలుసా? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 3,
+   "eleven": {
+    "voice1": "[mysterious, hushed] ధ్యానంలో కూర్చున్న వాల్మీకి మహర్షి కళ్ళ ముందు ఎవరు కనిపించారో చూడండి!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] శ్రీరాములవారు, లక్ష్మణులవారు, సీతమ్మవారు, భార్యలతో, రాజ్యంతో కూడిన దశరథ మహారాజుగారు... ఆ రోజుల్లో వీళ్ళందరికీ నిజంగా ఏమేమి జరిగిందో వాల్మీకి మహర్షి తన ధ్యానంలో చూడడం మొదలుపెట్టారు. రామాయణం ఒక్కరి కథ కాదు. ఒక కుటుంబం, ఒక రాజ్యం అందరూ కలిసిన కథ.",
+    "voice4": "[curious, upbeat] వాల్మీకి మహర్షి ఇంకా ఏమేమి చూశారో తెలుసా? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "శ్రీరాములవారి చిరునవ్వు కూడా వాల్మీకికి కనిపించింది!",
+    "screen": "నవ్వు కూడా!"
+   },
+   "meaning": {
+    "voice": "వారి నవ్వులు, మాటలు, నడకలు, వారు చేసిన ప్రతి పని... అదంతా వాల్మీకి మహర్షి తన తపశ్శక్తితో జరిగినది జరిగినట్లుగా చూశారు. అందుకే రామాయణంలో ప్రతి దృశ్యం మన కళ్ళ ముందు జరుగుతున్నట్టే ఉంటుంది. నిజాన్ని చూసి చెప్పిన కథకు ఉండే బలం అదే.",
+    "screen": "హసితం | భాషితం | గతి, చేష్టితం"
+   },
+   "end": {
+    "voice": "అడవిలో శ్రీరాములవారికి జరిగినది కూడా వాల్మీకి మహర్షి చూశారా? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+    "teaser": "అడవిలో శ్రీరాములవారికి జరిగినది కూడా వాల్మీకి మహర్షి చూశారా? తరువాతి భాగంలో!",
+    "cta": 2
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Close view of Rama smiling warmly, seen as a glowing vision",
+     "says": "శ్రీరాములవారి చిరునవ్వు కూడా వాల్మీకికి కనిపించింది!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Rama, Lakshmana and Sita conversing on a palace balcony",
+     "says": "హసితం భాషితం చైవ గతిర్యావచ్చ చేష్టితమ్ । / తత్ సర్వం ధర్మవీర్యేణ యథావత్ సంప్రపశ్యతి ॥ 4 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Rama walking gracefully along a palace corridor",
+     "says": "వారి నవ్వులు, మాటలు, నడకలు, వారు చేసిన ప్రతి పని...",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Valmiki in meditation, smiling as he watches the vision",
+     "says": "అదంతా వాల్మీకి మహర్షి తన తపశ్శక్తితో జరిగినది జరిగినట్లుగా చూశారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Rama greeting the people of Ayodhya with folded hands",
+     "says": "అందుకే రామాయణంలో ప్రతి దృశ్యం మన కళ్ళ ముందు జరుగుతున్నట్టే ఉంటుంది.",
+     "mood": "mystery"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: many small glowing scenes floating like lamps in the air",
+     "says": "నిజాన్ని చూసి చెప్పిన కథకు ఉండే బలం అదే.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Rama, Sita and Lakshmana walking along a forest path",
+     "says": "అడవిలో శ్రీరాములవారికి జరిగినది కూడా వాల్మీకి మహర్షి చూశారా? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 4,
+   "eleven": {
+    "voice1": "[mysterious, hushed] శ్రీరాములవారి చిరునవ్వు కూడా వాల్మీకికి కనిపించింది!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] వారి నవ్వులు, మాటలు, నడకలు, వారు చేసిన ప్రతి పని... అదంతా వాల్మీకి మహర్షి తన తపశ్శక్తితో జరిగినది జరిగినట్లుగా చూశారు. అందుకే రామాయణంలో ప్రతి దృశ్యం మన కళ్ళ ముందు జరుగుతున్నట్టే ఉంటుంది. నిజాన్ని చూసి చెప్పిన కథకు ఉండే బలం అదే.",
+    "voice4": "[curious, upbeat] అడవిలో శ్రీరాములవారికి జరిగినది కూడా వాల్మీకి మహర్షి చూశారా? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "ఇద్దరు అన్నదమ్ములు, మూడవదిగా సీతమ్మవారు... అడవిలో వారి ప్రయాణం!",
+    "screen": "ముగ్గురి ప్రయాణం"
+   },
+   "meaning": {
+    "voice": "ఇచ్చిన మాట తప్పని శ్రీరాములవారు లక్ష్మణులవారితో, మూడవదిగా సీతమ్మవారితో కలిసి అడవిలో తిరిగినప్పుడు జరిగినదంతా కూడా వాల్మీకి మహర్షి వరుసగా చూశారు. రాజభవనం వదిలినా ఆ ముగ్గురూ ఒకరిని ఒకరు వదలలేదు. కష్టంలో కలిసి నడిచేవారే నిజమైన మనవాళ్ళు.",
+    "screen": "స్త్రీతృతీయ | సత్యసంధుడు | వనవాసం"
+   },
+   "end": {
+    "voice": "వాల్మీకి మహర్షి ఇదంతా ఎంత స్పష్టంగా చూశారు? ఒక చిన్న పండుతో పోల్చారు! తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "వాల్మీకి మహర్షి ఇదంతా ఎంత స్పష్టంగా చూశారు? ఒక చిన్న పండుతో పోల్చారు! తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Rama, Sita and Lakshmana walking together through a lush forest, seen as a glowing vision",
+     "says": "ఇద్దరు అన్నదమ్ములు, మూడవదిగా సీతమ్మవారు... అడవిలో వారి ప్రయాణం!",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "The three resting beneath a large tree in the forest",
+     "says": "స్త్రీతృతీయేన చ తథా యత్ ప్రాప్తం చరతా వనే । / సత్యసన్ధేన రామేణ తత్ సర్వం చాన్వవైక్షత ॥ 5 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "The three walking along a riverbank in the forest",
+     "says": "ఇచ్చిన మాట తప్పని శ్రీరాములవారు లక్ష్మణులవారితో,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Rama helping Sita across a stream while Lakshmana watches protectively",
+     "says": "మూడవదిగా సీతమ్మవారితో కలిసి అడవిలో తిరిగినప్పుడు జరిగినదంతా కూడా వాల్మీకి మహర్షి వరుసగా చూశారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Valmiki in meditation with a faint forest vision glowing around him",
+     "says": "రాజభవనం వదిలినా ఆ ముగ్గురూ ఒకరిని ఒకరు వదలలేదు.",
+     "mood": "calm"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "The three standing close together on a hilltop, looking at the forest below",
+     "says": "కష్టంలో కలిసి నడిచేవారే నిజమైన మనవాళ్ళు.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "A small round amla (Indian gooseberry) resting in an open palm, glowing softly",
+     "says": "వాల్మీకి మహర్షి ఇదంతా ఎంత స్పష్టంగా చూశారు? ఒక చిన్న పండుతో పోల్చారు! తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 5,
+   "eleven": {
+    "voice1": "[intrigued, warm] ఇద్దరు అన్నదమ్ములు, మూడవదిగా సీతమ్మవారు... అడవిలో వారి ప్రయాణం!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] ఇచ్చిన మాట తప్పని శ్రీరాములవారు లక్ష్మణులవారితో, మూడవదిగా సీతమ్మవారితో కలిసి అడవిలో తిరిగినప్పుడు జరిగినదంతా కూడా వాల్మీకి మహర్షి వరుసగా చూశారు. రాజభవనం వదిలినా ఆ ముగ్గురూ ఒకరిని ఒకరు వదలలేదు. కష్టంలో కలిసి నడిచేవారే నిజమైన మనవాళ్ళు.",
+    "voice4": "[curious, upbeat] వాల్మీకి మహర్షి ఇదంతా ఎంత స్పష్టంగా చూశారు? ఒక చిన్న పండుతో పోల్చారు! తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "మొత్తం రామకథ... అరచేతిలో ఉసిరికాయలా కనిపించింది!",
+    "screen": "ఉసిరికాయలా!"
+   },
+   "meaning": {
+    "voice": "ధర్మాత్ముడైన వాల్మీకి మహర్షి యోగంలో నిలిచి, ఎప్పుడో జరిగిన సంఘటనలన్నింటినీ అరచేతిలో ఉసిరికాయను చూసినంత స్పష్టంగా చూశారు. అరచేతిలో ఉన్నదాన్ని ఎవరూ అనుమానించరు. మనసు నిశ్చలంగా ఉంటే నిజం కూడా అంతే స్పష్టంగా కనిపిస్తుంది.",
+    "screen": "యోగం | పాణావామలకం | స్పష్ట దర్శనం"
+   },
+   "end": {
+    "voice": "అంతా చూసిన తరువాత వాల్మీకి మహర్షి ఏ నిర్ణయం తీసుకున్నారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "అంతా చూసిన తరువాత వాల్మీకి మహర్షి ఏ నిర్ణయం తీసుకున్నారు? తరువాతి భాగంలో!",
+    "cta": 4
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Close-up of an open palm holding a single round amla fruit, perfectly clear and glowing",
+     "says": "మొత్తం రామకథ... అరచేతిలో ఉసిరికాయలా కనిపించింది!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Valmiki seated in deep yoga, a radiant aura around him",
+     "says": "తతః పశ్యతి ధర్మాత్మా తత్ సర్వం యోగమాస్థితః । / పురా యత్ తత్ర నిర్వృత్తం పాణావామలకం యథా ॥ 6 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Valmiki with eyes closed while many small glowing scenes from the Ramayana circle around him",
+     "says": "ధర్మాత్ముడైన వాల్మీకి మహర్షి యోగంలో నిలిచి,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Valmiki in meditation, scenes of Ayodhya, the forest and Lanka glowing around him like windows of light",
+     "says": "ఎప్పుడో జరిగిన సంఘటనలన్నింటినీ అరచేతిలో ఉసిరికాయను చూసినంత స్పష్టంగా చూశారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Close view of Valmiki's serene face, eyes closed, a gentle smile",
+     "says": "అరచేతిలో ఉన్నదాన్ని ఎవరూ అనుమానించరు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a still lake reflecting the sky perfectly",
+     "says": "మనసు నిశ్చలంగా ఉంటే నిజం కూడా అంతే స్పష్టంగా కనిపిస్తుంది.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Valmiki slowly opening his eyes, light fading around him",
+     "says": "అంతా చూసిన తరువాత వాల్మీకి మహర్షి ఏ నిర్ణయం తీసుకున్నారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 6,
+   "eleven": {
+    "voice1": "[excited, bright] మొత్తం రామకథ... అరచేతిలో ఉసిరికాయలా కనిపించింది!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] ధర్మాత్ముడైన వాల్మీకి మహర్షి యోగంలో నిలిచి, ఎప్పుడో జరిగిన సంఘటనలన్నింటినీ అరచేతిలో ఉసిరికాయను చూసినంత స్పష్టంగా చూశారు. అరచేతిలో ఉన్నదాన్ని ఎవరూ అనుమానించరు. మనసు నిశ్చలంగా ఉంటే నిజం కూడా అంతే స్పష్టంగా కనిపిస్తుంది.",
+    "voice4": "[curious, upbeat] అంతా చూసిన తరువాత వాల్మీకి మహర్షి ఏ నిర్ణయం తీసుకున్నారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "అంతా కళ్ళారా చూసిన వాల్మీకి మహర్షి... ఇక ఆగలేదు!",
+    "screen": "ఇక రాయడమే!"
+   },
+   "meaning": {
+    "voice": "గొప్ప బుద్ధిమంతుడైన వాల్మీకి మహర్షి అదంతా ఉన్నది ఉన్నట్లు చూసి, అందరి మనసులకు ఆనందం కలిగించే శ్రీరాములవారి చరిత్రనంతా కావ్యంగా రాయడానికి సిద్ధమయ్యారు. ముందు పూర్తిగా తెలుసుకున్నారు, తరువాతే మొదలుపెట్టారు. ఏ పనికైనా ఇదే సరైన వరుస.",
+    "screen": "తత్త్వతః దృష్ట్వా | అభిరాముడు | కావ్య సంకల్పం"
+   },
+   "end": {
+    "voice": "ఆ కావ్యం ఎలా ఉంటుందో వాల్మీకి మహర్షి సముద్రంతో పోల్చారు! తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఆ కావ్యం ఎలా ఉంటుందో వాల్మీకి మహర్షి సముద్రంతో పోల్చారు! తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Valmiki seated with a bundle of palm-leaf manuscripts and an iron writing stylus before him",
+     "says": "అంతా కళ్ళారా చూసిన వాల్మీకి మహర్షి... ఇక ఆగలేదు!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Valmiki arranging fresh palm leaves neatly on a low wooden stand",
+     "says": "తత్ సర్వం తత్త్వతో దృష్ట్వా ధర్మేణ స మహామతిః । / అభిరామస్య రామస్య తత్ సర్వం కర్తుముద్యతః ॥ 7 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "The young disciple bringing a bundle of palm leaves to Valmiki",
+     "says": "గొప్ప బుద్ధిమంతుడైన వాల్మీకి మహర్షి అదంతా ఉన్నది ఉన్నట్లు చూసి,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Valmiki holding the stylus over a palm leaf, ready to write",
+     "says": "అందరి మనసులకు ఆనందం కలిగించే శ్రీరాములవారి చరిత్రనంతా కావ్యంగా రాయడానికి సిద్ధమయ్యారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Rama seated on the throne, gentle and radiant, seen as a glowing vision",
+     "says": "ముందు పూర్తిగా తెలుసుకున్నారు, తరువాతే మొదలుపెట్టారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": true,
+     "shows": "Symbolic shot: a seed in soil sprouting into a young plant",
+     "says": "ఏ పనికైనా ఇదే సరైన వరుస.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "The ocean sparkling with countless jewel-like points of light on its waves",
+     "says": "ఆ కావ్యం ఎలా ఉంటుందో వాల్మీకి మహర్షి సముద్రంతో పోల్చారు! తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 7,
+   "eleven": {
+    "voice1": "[excited, bright] అంతా కళ్ళారా చూసిన వాల్మీకి మహర్షి... ఇక ఆగలేదు!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] గొప్ప బుద్ధిమంతుడైన వాల్మీకి మహర్షి అదంతా ఉన్నది ఉన్నట్లు చూసి, అందరి మనసులకు ఆనందం కలిగించే శ్రీరాములవారి చరిత్రనంతా కావ్యంగా రాయడానికి సిద్ధమయ్యారు. ముందు పూర్తిగా తెలుసుకున్నారు, తరువాతే మొదలుపెట్టారు. ఏ పనికైనా ఇదే సరైన వరుస.",
+    "voice4": "[curious, upbeat] ఆ కావ్యం ఎలా ఉంటుందో వాల్మీకి మహర్షి సముద్రంతో పోల్చారు! తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "రామాయణం ఒక సముద్రం... అందులో ఉన్నవన్నీ రత్నాలే!",
+    "screen": "రత్నాల సముద్రం"
+   },
+   "meaning": {
+    "voice": "ఆ కావ్యంలో కామం, అర్థం గురించిన విషయాలతో పాటు ధర్మం విస్తారంగా ఉంది. సముద్రంలో రత్నాలు ఉన్నట్లు గొప్ప విషయాలతో నిండి ఉంది, విన్న ప్రతి ఒక్కరి మనసునూ ఆకట్టుకుంటుంది. ఎన్నిసార్లు చూసినా సముద్రం కొత్తగా ఉన్నట్టే, ఎన్నిసార్లు విన్నా రామాయణం కొత్తగానే ఉంటుంది.",
+    "screen": "ధర్మార్థ కామాలు | రత్నాఢ్యం | సర్వశ్రుతి మనోహరం"
+   },
+   "end": {
+    "voice": "ఈ కావ్యాన్ని వాల్మీకి మహర్షి ఎవరు చెప్పినట్లు రాశారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఈ కావ్యాన్ని వాల్మీకి మహర్షి ఎవరు చెప్పినట్లు రాశారు? తరువాతి భాగంలో!",
+    "cta": 3
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "The ocean at sunrise, its waves glittering with jewels of many colours",
+     "says": "రామాయణం ఒక సముద్రం... అందులో ఉన్నవన్నీ రత్నాలే!",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Close-up of a wave revealing pearls and gems on the sandy sea floor",
+     "says": "కామార్థగుణసంయుక్తం ధర్మార్థగుణవిస్తరమ్ । / సముద్రమివ రత్నాఢ్యం సర్వశ్రుతిమనోహరమ్ ॥ 8 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": true,
+     "shows": "Valmiki writing on a palm leaf, light rising softly from the written lines",
+     "says": "ఆ కావ్యంలో కామం, అర్థం గురించిన విషయాలతో పాటు ధర్మం విస్తారంగా ఉంది.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Stacked palm-leaf manuscripts glowing gently from within",
+     "says": "సముద్రంలో రత్నాలు ఉన్నట్లు గొప్ప విషయాలతో నిండి ఉంది,",
+     "mood": "mystery"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "People of all ages sitting together and listening with joy",
+     "says": "విన్న ప్రతి ఒక్కరి మనసునూ ఆకట్టుకుంటుంది.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: the ocean stretching endlessly to the horizon",
+     "says": "ఎన్నిసార్లు చూసినా సముద్రం కొత్తగా ఉన్నట్టే, ఎన్నిసార్లు విన్నా రామాయణం కొత్తగానే ఉంటుంది.",
+     "mood": "mystery"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Valmiki remembering Narada, a glowing image of Narada with his veena above him",
+     "says": "ఈ కావ్యాన్ని వాల్మీకి మహర్షి ఎవరు చెప్పినట్లు రాశారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 8,
+   "eleven": {
+    "voice1": "[mysterious, hushed] రామాయణం ఒక సముద్రం... అందులో ఉన్నవన్నీ రత్నాలే!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] ఆ కావ్యంలో కామం, అర్థం గురించిన విషయాలతో పాటు ధర్మం విస్తారంగా ఉంది. సముద్రంలో రత్నాలు ఉన్నట్లు గొప్ప విషయాలతో నిండి ఉంది, విన్న ప్రతి ఒక్కరి మనసునూ ఆకట్టుకుంటుంది. ఎన్నిసార్లు చూసినా సముద్రం కొత్తగా ఉన్నట్టే, ఎన్నిసార్లు విన్నా రామాయణం కొత్తగానే ఉంటుంది.",
+    "voice4": "[curious, upbeat] ఈ కావ్యాన్ని వాల్మీకి మహర్షి ఎవరు చెప్పినట్లు రాశారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "రామాయణం ఎవరి మాటల ఆధారంగా రాయబడిందో తెలుసా?",
+    "screen": "ఎవరి మాట?"
+   },
+   "meaning": {
+    "voice": "మహాత్ముడైన నారద మహర్షి ముందు ఎలా చెప్పారో అదే విధంగా, పూజ్యుడైన వాల్మీకి మహర్షి రఘువంశపు చరిత్రను రచించారు. ఇక్కడి నుండి రామాయణంలో ఏమేమి ఉన్నాయో వాల్మీకి మహర్షి స్వయంగా వరుసగా చెబుతున్నారు. గురువు చూపిన దారిని గౌరవించడమే శిష్యుడి గొప్పతనం.",
+    "screen": "నారద మహర్షి చెప్పినట్లు | రఘువంశ చరితం | రచన"
+   },
+   "end": {
+    "voice": "ఆ కావ్యంలో మొదట ఏముందో తెలుసా? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+    "teaser": "ఆ కావ్యంలో మొదట ఏముందో తెలుసా? తరువాతి భాగంలో!",
+    "cta": 2
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Valmiki writing on a palm leaf while a glowing image of Narada with his veena appears above him",
+     "says": "రామాయణం ఎవరి మాటల ఆధారంగా రాయబడిందో తెలుసా?",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Valmiki writing carefully on a palm leaf with an iron stylus",
+     "says": "స యథా కథితం పూర్వం నారదేన మహాత్మనా । / రఘువంశస్య చరితం చకార భగవాన్ మునిః ॥ 9 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Narada floating among golden clouds, playing his veena",
+     "says": "మహాత్ముడైన నారద మహర్షి ముందు ఎలా చెప్పారో అదే విధంగా,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": true,
+     "shows": "Rows of palm-leaf manuscripts stacked neatly on a wooden stand",
+     "says": "పూజ్యుడైన వాల్మీకి మహర్షి రఘువంశపు చరిత్రను రచించారు.",
+     "mood": "mystery"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": true,
+     "shows": "Valmiki pausing in his writing, looking up with gratitude",
+     "says": "ఇక్కడి నుండి రామాయణంలో ఏమేమి ఉన్నాయో వాల్మీకి మహర్షి స్వయంగా వరుసగా చెబుతున్నారు.",
+     "mood": "mystery"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "The young disciple bowing before Valmiki as he writes",
+     "says": "గురువు చూపిన దారిని గౌరవించడమే శిష్యుడి గొప్పతనం.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Baby Rama sleeping peacefully in a decorated golden cradle",
+     "says": "ఆ కావ్యంలో మొదట ఏముందో తెలుసా? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 9,
+   "eleven": {
+    "voice1": "[mysterious, hushed] రామాయణం ఎవరి మాటల ఆధారంగా రాయబడిందో తెలుసా?",
+    "voice2": "",
+    "voice3": "[warm, storytelling] మహాత్ముడైన నారద మహర్షి ముందు ఎలా చెప్పారో అదే విధంగా, పూజ్యుడైన వాల్మీకి మహర్షి రఘువంశపు చరిత్రను రచించారు. ఇక్కడి నుండి రామాయణంలో ఏమేమి ఉన్నాయో వాల్మీకి మహర్షి స్వయంగా వరుసగా చెబుతున్నారు. గురువు చూపిన దారిని గౌరవించడమే శిష్యుడి గొప్పతనం.",
+    "voice4": "[curious, upbeat] ఆ కావ్యంలో మొదట ఏముందో తెలుసా? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "రామాయణం మొదలయ్యేది ఒక పుట్టుకతో!",
+    "screen": "శ్రీరామ జననం"
+   },
+   "meaning": {
+    "voice": "ఆ కావ్యంలో శ్రీరాములవారి జననం, ఆయన గొప్ప పరాక్రమం, అందరితో కలిసిపోయే స్వభావం ఉన్నాయి. లోకమంతా ఆయనను ప్రేమించడం, ఆయన ఓర్పు, మృదుస్వభావం, సత్యమే జీవితంగా ఉండడం ఉన్నాయి. పరాక్రమంతో పాటు మృదుత్వం ఉన్నప్పుడే మనిషిని లోకం ప్రేమిస్తుంది.",
+    "screen": "జన్మ | పరాక్రమం | ఓర్పు, సత్యం"
+   },
+   "end": {
+    "voice": "పెరిగిన శ్రీరాములవారిని అడవికి తీసుకెళ్ళింది ఎవరు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "పెరిగిన శ్రీరాములవారిని అడవికి తీసుకెళ్ళింది ఎవరు? తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Queen Kausalya holding baby Rama lovingly in her lap",
+     "says": "రామాయణం మొదలయ్యేది ఒక పుట్టుకతో!",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Baby Rama in a decorated golden cradle, smiling",
+     "says": "జన్మ రామస్య సుమహద్వీర్యం సర్వానుకూలతామ్ । / లోకస్య ప్రియతాం క్షాన్తిం సౌమ్యతాం సత్యశీలతామ్ ॥ 10 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "King Dasharatha joyfully giving gifts to the people as the city celebrates",
+     "says": "ఆ కావ్యంలో శ్రీరాములవారి జననం, ఆయన గొప్ప పరాక్రమం,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Young Prince Rama smiling among the people of Ayodhya",
+     "says": "అందరితో కలిసిపోయే స్వభావం ఉన్నాయి.",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Rama standing calmly, gentle and patient, listening to an elder",
+     "says": "లోకమంతా ఆయనను ప్రేమించడం, ఆయన ఓర్పు, మృదుస్వభావం, సత్యమే జీవితంగా ఉండడం ఉన్నాయి.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": true,
+     "shows": "Symbolic shot: a strong tree bending gently with soft flowers on its branches",
+     "says": "పరాక్రమంతో పాటు మృదుత్వం ఉన్నప్పుడే మనిషిని లోకం ప్రేమిస్తుంది.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Two young princes walking behind Sage Vishwamitra on a forest path",
+     "says": "పెరిగిన శ్రీరాములవారిని అడవికి తీసుకెళ్ళింది ఎవరు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 10,
+   "eleven": {
+    "voice1": "[excited, bright] రామాయణం మొదలయ్యేది ఒక పుట్టుకతో!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] ఆ కావ్యంలో శ్రీరాములవారి జననం, ఆయన గొప్ప పరాక్రమం, అందరితో కలిసిపోయే స్వభావం ఉన్నాయి. లోకమంతా ఆయనను ప్రేమించడం, ఆయన ఓర్పు, మృదుస్వభావం, సత్యమే జీవితంగా ఉండడం ఉన్నాయి. పరాక్రమంతో పాటు మృదుత్వం ఉన్నప్పుడే మనిషిని లోకం ప్రేమిస్తుంది.",
+    "voice4": "[curious, upbeat] పెరిగిన శ్రీరాములవారిని అడవికి తీసుకెళ్ళింది ఎవరు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "ఒక విల్లు విరిగింది... ఒక కల్యాణం జరిగింది!",
+    "screen": "ధనుర్భంగం!"
+   },
+   "meaning": {
+    "voice": "విశ్వామిత్ర మహర్షితో కలిసి వెళ్ళిన ప్రయాణంలో విన్న ఎన్నో అద్భుతమైన కథలు, శివధనుస్సు విరగడం, జానకి వివాహం... ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి. గురువు వెంట నడిచిన ప్రయాణమే శ్రీరాములవారిని మిథిల దాకా తీసుకెళ్ళింది. మంచి గురువు దొరికితే జీవితమే మారిపోతుంది.",
+    "screen": "విశ్వామిత్ర సహాయనం | ధనుర్భంగం | జానకీ కల్యాణం"
+   },
+   "end": {
+    "voice": "కల్యాణం తరువాత దారిలో ఎవరు ఎదురయ్యారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "కల్యాణం తరువాత దారిలో ఎవరు ఎదురయ్యారు? తరువాతి భాగంలో!",
+    "cta": 4
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Rama lifting and stringing the giant bow of Shiva in Janaka's hall",
+     "says": "ఒక విల్లు విరిగింది... ఒక కల్యాణం జరిగింది!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Rama and Lakshmana walking behind Vishwamitra toward his ashram",
+     "says": "నానా చిత్రాః కథాశ్చాన్యా విశ్వామిత్రసహాయనే । / జానక్యాశ్చ వివాహం చ ధనుషశ్చ విభేదనమ్ ॥ 11 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Vishwamitra telling stories to the two boys by a fire at night",
+     "says": "విశ్వామిత్ర మహర్షితో కలిసి వెళ్ళిన ప్రయాణంలో విన్న ఎన్నో అద్భుతమైన కథలు, శివధనుస్సు విరగడం, జానకి వివాహం...",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": true,
+     "shows": "Sita holding a flower garland in Janaka's palace",
+     "says": "ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి.",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Sita placing the garland around Rama's neck as Janaka blesses them",
+     "says": "గురువు వెంట నడిచిన ప్రయాణమే శ్రీరాములవారిని మిథిల దాకా తీసుకెళ్ళింది.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a path from a forest ashram leading to a decorated palace gate",
+     "says": "మంచి గురువు దొరికితే జీవితమే మారిపోతుంది.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Parashurama striding forward with his axe and bow, fierce and radiant",
+     "says": "కల్యాణం తరువాత దారిలో ఎవరు ఎదురయ్యారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 11,
+   "eleven": {
+    "voice1": "[excited, bright] ఒక విల్లు విరిగింది... ఒక కల్యాణం జరిగింది!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] విశ్వామిత్ర మహర్షితో కలిసి వెళ్ళిన ప్రయాణంలో విన్న ఎన్నో అద్భుతమైన కథలు, శివధనుస్సు విరగడం, జానకి వివాహం... ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి. గురువు వెంట నడిచిన ప్రయాణమే శ్రీరాములవారిని మిథిల దాకా తీసుకెళ్ళింది. మంచి గురువు దొరికితే జీవితమే మారిపోతుంది.",
+    "voice4": "[curious, upbeat] కల్యాణం తరువాత దారిలో ఎవరు ఎదురయ్యారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "ఇద్దరు రాముల వాదం... ఆ తరువాత ఒక రాణి మనసులో చెడు ఆలోచన!",
+    "screen": "ఇద్దరు రాములు!"
+   },
+   "meaning": {
+    "voice": "శ్రీరాములవారికి, పరశురాముడికి జరిగిన వాదం, దశరథ కుమారుడి గొప్ప గుణాలు, ఆయన పట్టాభిషేక ఏర్పాట్లు, కైకేయి మనసులో పుట్టిన చెడు ఆలోచన... ఇవన్నీ ఉన్నాయి. పెద్ద వేడుకకు ముందు పుట్టిన ఒక చిన్న చెడు ఆలోచన ఎంత పెద్ద కష్టం తెచ్చిందో రామాయణం చెబుతుంది.",
+    "screen": "రామ పరశురామ వివాదం | పట్టాభిషేకం | కైకేయి దుష్టభావం"
+   },
+   "end": {
+    "voice": "ఆ ఆలోచన వల్ల పట్టాభిషేకానికి ఏమైంది? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఆ ఆలోచన వల్ల పట్టాభిషేకానికి ఏమైంది? తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Parashurama facing Rama on a road, holding out a great bow",
+     "says": "ఇద్దరు రాముల వాదం... ఆ తరువాత ఒక రాణి మనసులో చెడు ఆలోచన!",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Rama taking the bow from Parashurama's hands",
+     "says": "రామరామవివాదం చ గుణాన్ దాశరథేస్తథా । / తథాభిషేకం రామస్య కైకేయ్యా దుష్టభావతామ్ ॥ 12 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Parashurama bowing his head, his fierce look softening",
+     "says": "శ్రీరాములవారికి, పరశురాముడికి జరిగిన వాదం, దశరథ కుమారుడి గొప్ప గుణాలు,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Dasharatha embracing Rama joyfully in the court as preparations for the coronation begin",
+     "says": "ఆయన పట్టాభిషేక ఏర్పాట్లు, కైకేయి మనసులో పుట్టిన చెడు ఆలోచన...",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Kaikeyi sitting alone in the dim anger chamber, her jewels removed",
+     "says": "ఇవన్నీ ఉన్నాయి.",
+     "mood": "sad"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a single dark cloud drifting toward a bright festive palace",
+     "says": "పెద్ద వేడుకకు ముందు పుట్టిన ఒక చిన్న చెడు ఆలోచన ఎంత పెద్ద కష్టం తెచ్చిందో రామాయణం చెబుతుంది.",
+     "mood": "mystery"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Dasharatha sitting with his head in his hands",
+     "says": "ఆ ఆలోచన వల్ల పట్టాభిషేకానికి ఏమైంది? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "sad"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 12,
+   "eleven": {
+    "voice1": "[excited, bright] ఇద్దరు రాముల వాదం... ఆ తరువాత ఒక రాణి మనసులో చెడు ఆలోచన!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] శ్రీరాములవారికి, పరశురాముడికి జరిగిన వాదం, దశరథ కుమారుడి గొప్ప గుణాలు, ఆయన పట్టాభిషేక ఏర్పాట్లు, కైకేయి మనసులో పుట్టిన చెడు ఆలోచన... ఇవన్నీ ఉన్నాయి. పెద్ద వేడుకకు ముందు పుట్టిన ఒక చిన్న చెడు ఆలోచన ఎంత పెద్ద కష్టం తెచ్చిందో రామాయణం చెబుతుంది.",
+    "voice4": "[curious, upbeat] ఆ ఆలోచన వల్ల పట్టాభిషేకానికి ఏమైంది? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "పట్టాభిషేకం జరగాల్సిన రోజే... అడవికి ప్రయాణం!",
+    "screen": "సింహాసనం ఖాళీ"
+   },
+   "meaning": {
+    "voice": "పట్టాభిషేకం ఆగిపోవడం, శ్రీరాములవారు అడవికి వెళ్ళవలసి రావడం, దశరథ మహారాజుగారి దుఃఖం, విలాపం, చివరకు ఆయన పరలోకానికి వెళ్ళడం... ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి. ఒకే రోజులో పట్టాభిషేకం నుండి వనవాసం. జీవితం ఎప్పుడు ఎలా మారుతుందో ఎవరికీ తెలియదు; ధర్మం మాత్రమే మనతో ఉంటుంది.",
+    "screen": "అభిషేక విఘాతం | వివాసనం | రాజు శోకం"
+   },
+   "end": {
+    "voice": "అడవికి వెళ్తున్న శ్రీరాములవారి వెంట ఎవరు వచ్చారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "అడవికి వెళ్తున్న శ్రీరాములవారి వెంట ఎవరు వచ్చారు? తరువాతి భాగంలో!",
+    "cta": 3
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "The decorated coronation throne standing empty in the royal court",
+     "says": "పట్టాభిషేకం జరగాల్సిన రోజే... అడవికి ప్రయాణం!",
+     "mood": "sad"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Rama in bark clothes walking out of the palace gates",
+     "says": "విఘాతం చాభిషేకస్య రామస్య చ వివాసనమ్ । / రాజ్ఞః శోకం విలాపం చ పరలోకస్య చాశ్రయమ్ ॥ 13 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Rama, Sita and Lakshmana leaving the palace in simple forest clothes",
+     "says": "పట్టాభిషేకం ఆగిపోవడం, శ్రీరాములవారు అడవికి వెళ్ళవలసి రావడం, దశరథ మహారాజుగారి దుఃఖం, విలాపం, చివరకు ఆయన పరలోకానికి వెళ్ళడం...",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Dasharatha lying on his bed in grief while Kausalya sits beside him",
+     "says": "ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి.",
+     "mood": "sad"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Close view of Dasharatha's tearful face",
+     "says": "ఒకే రోజులో పట్టాభిషేకం నుండి వనవాసం.",
+     "mood": "sad"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": true,
+     "shows": "Symbolic shot: a lamp flame slowly going out in a dark room",
+     "says": "జీవితం ఎప్పుడు ఎలా మారుతుందో ఎవరికీ తెలియదు; ధర్మం మాత్రమే మనతో ఉంటుంది.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "The people of Ayodhya walking behind Rama's chariot",
+     "says": "అడవికి వెళ్తున్న శ్రీరాములవారి వెంట ఎవరు వచ్చారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "sad"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 13,
+   "eleven": {
+    "voice1": "[softly, emotional] పట్టాభిషేకం జరగాల్సిన రోజే... అడవికి ప్రయాణం!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] పట్టాభిషేకం ఆగిపోవడం, శ్రీరాములవారు అడవికి వెళ్ళవలసి రావడం, దశరథ మహారాజుగారి దుఃఖం, విలాపం, చివరకు ఆయన పరలోకానికి వెళ్ళడం... ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి. ఒకే రోజులో పట్టాభిషేకం నుండి వనవాసం. జీవితం ఎప్పుడు ఎలా మారుతుందో ఎవరికీ తెలియదు; ధర్మం మాత్రమే మనతో ఉంటుంది.",
+    "voice4": "[curious, upbeat] అడవికి వెళ్తున్న శ్రీరాములవారి వెంట ఎవరు వచ్చారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "శ్రీరాములవారు అడవికి వెళ్తుంటే... అయోధ్య ప్రజలంతా వెంట నడిచారు!",
+    "screen": "ఊరంతా వెంట!"
+   },
+   "meaning": {
+    "voice": "అయోధ్య ప్రజల దుఃఖం, వెంట వచ్చిన ప్రజలను శ్రీరాములవారు వెనక్కి పంపడం, నిషాదుల రాజు గుహుడితో మాటలు, సారథి సుమంత్రుడు అయోధ్యకు తిరిగి వెళ్ళడం... ఇవన్నీ ఉన్నాయి. ఇంత ప్రేమ ఉన్నా ప్రజల మేలు కోసం శ్రీరాములవారు వారిని వెనక్కి పంపారు. నాయకుడు తనకోసం కాదు, తనవారి కోసం ఆలోచిస్తాడు.",
+    "screen": "ప్రజల విషాదం | గుహుడు | సుమంత్రుడు"
+   },
+   "end": {
+    "voice": "గంగ దాటిన తరువాత వారు ఎవరిని కలిశారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+    "teaser": "గంగ దాటిన తరువాత వారు ఎవరిని కలిశారు? తరువాతి భాగంలో!",
+    "cta": 2
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Thousands of people following Rama's chariot out of the city",
+     "says": "శ్రీరాములవారు అడవికి వెళ్తుంటే... అయోధ్య ప్రజలంతా వెంట నడిచారు!",
+     "mood": "sad"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Tearful people of Ayodhya standing at the city gates",
+     "says": "ప్రకృతీనాం విషాదం చ ప్రకృతీనాం విసర్జనమ్ । / నిషాదాధిపసంవాదం సూతోపావర్తనం తథా ॥ 14 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Rama gently asking the people to go back home",
+     "says": "అయోధ్య ప్రజల దుఃఖం, వెంట వచ్చిన ప్రజలను శ్రీరాములవారు వెనక్కి పంపడం, నిషాదుల రాజు గుహుడితో మాటలు, సారథి సుమంత్రుడు అయోధ్యకు తిరిగి వెళ్ళడం...",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Guha welcoming Rama warmly on the bank of the Ganga",
+     "says": "ఇవన్నీ ఉన్నాయి.",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Rama gently asking Sumantra to go back to Ayodhya with the chariot for the good of the people, his hand on the old charioteer's shoulder",
+     "says": "ఇంత ప్రేమ ఉన్నా ప్రజల మేలు కోసం శ్రీరాములవారు వారిని వెనక్కి పంపారు.",
+     "mood": "sad"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: an empty chariot on a long dusty road",
+     "says": "నాయకుడు తనకోసం కాదు, తనవారి కోసం ఆలోచిస్తాడు.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": true,
+     "shows": "Rama, Sita and Lakshmana in a boat on the Ganga, Guha rowing",
+     "says": "గంగ దాటిన తరువాత వారు ఎవరిని కలిశారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+     "mood": "sad"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 14,
+   "eleven": {
+    "voice1": "[softly, emotional] శ్రీరాములవారు అడవికి వెళ్తుంటే... అయోధ్య ప్రజలంతా వెంట నడిచారు!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] అయోధ్య ప్రజల దుఃఖం, వెంట వచ్చిన ప్రజలను శ్రీరాములవారు వెనక్కి పంపడం, నిషాదుల రాజు గుహుడితో మాటలు, సారథి సుమంత్రుడు అయోధ్యకు తిరిగి వెళ్ళడం... ఇవన్నీ ఉన్నాయి. ఇంత ప్రేమ ఉన్నా ప్రజల మేలు కోసం శ్రీరాములవారు వారిని వెనక్కి పంపారు. నాయకుడు తనకోసం కాదు, తనవారి కోసం ఆలోచిస్తాడు.",
+    "voice4": "[curious, upbeat] గంగ దాటిన తరువాత వారు ఎవరిని కలిశారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "గంగ దాటిన ముగ్గురికి ఒక మహర్షి దారి చూపించారు!",
+    "screen": "మహర్షి చూపిన దారి"
+   },
+   "meaning": {
+    "voice": "గంగానదిని దాటడం, ప్రయాగలో భరద్వాజ మహర్షిని దర్శించడం, ఆయన అనుమతితో చిత్రకూట పర్వతానికి చేరడం... ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి. అడవిలో కూడా శ్రీరాములవారు పెద్దల అనుమతి తీసుకునే అడుగు వేశారు. పెద్దల మాట తీసుకుని నడిస్తే దారి తప్పదు.",
+    "screen": "గంగా సంతారం | భరద్వాజ దర్శనం | చిత్రకూటం"
+   },
+   "end": {
+    "voice": "చిత్రకూటానికి ఎవరు వెతుక్కుంటూ వచ్చారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "చిత్రకూటానికి ఎవరు వెతుక్కుంటూ వచ్చారు? తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "The boat crossing the wide Ganga with Rama, Sita and Lakshmana",
+     "says": "గంగ దాటిన ముగ్గురికి ఒక మహర్షి దారి చూపించారు!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "The three bowing before Sage Bharadwaja at his ashram",
+     "says": "గఙ్గాయాశ్చాపి సంతారం భరద్వాజస్య దర్శనమ్ । / భరద్వాజాభ్యనుజ్ఞానాచ్చిత్రకూటస్య దర్శనమ్ ॥ 15 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Sage Bharadwaja pointing toward a distant hill",
+     "says": "గంగానదిని దాటడం, ప్రయాగలో భరద్వాజ మహర్షిని దర్శించడం, ఆయన అనుమతితో చిత్రకూట పర్వతానికి చేరడం...",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": true,
+     "shows": "The green hill of Chitrakuta with streams and flowering trees",
+     "says": "ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి.",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "The three arriving at Chitrakuta and looking around happily",
+     "says": "అడవిలో కూడా శ్రీరాములవారు పెద్దల అనుమతి తీసుకునే అడుగు వేశారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a forest path with a guiding light at each turn",
+     "says": "పెద్దల మాట తీసుకుని నడిస్తే దారి తప్పదు.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Lakshmana building a leaf hut with branches and leaves",
+     "says": "చిత్రకూటానికి ఎవరు వెతుక్కుంటూ వచ్చారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 15,
+   "eleven": {
+    "voice1": "[excited, bright] గంగ దాటిన ముగ్గురికి ఒక మహర్షి దారి చూపించారు!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] గంగానదిని దాటడం, ప్రయాగలో భరద్వాజ మహర్షిని దర్శించడం, ఆయన అనుమతితో చిత్రకూట పర్వతానికి చేరడం... ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి. అడవిలో కూడా శ్రీరాములవారు పెద్దల అనుమతి తీసుకునే అడుగు వేశారు. పెద్దల మాట తీసుకుని నడిస్తే దారి తప్పదు.",
+    "voice4": "[curious, upbeat] చిత్రకూటానికి ఎవరు వెతుక్కుంటూ వచ్చారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "రాజ్యం చేతికి వచ్చినా వద్దన్నాడు ఒక తమ్ముడు!",
+    "screen": "తిరిగి రా అన్నా!"
+   },
+   "meaning": {
+    "voice": "చిత్రకూటంలో పర్ణశాల కట్టి నివసించడం, భరతులవారు రావడం, శ్రీరాములవారిని తిరిగి రమ్మని వేడుకోవడం, తండ్రికి జలతర్పణం ఇవ్వడం... ఇవన్నీ ఉన్నాయి. రాజ్యం చేతికి వచ్చినా అది అన్నదే అని భరతులవారు వెతుక్కుంటూ వచ్చారు. ఇచ్చింది తీసుకోవడం కాదు, ఏది ధర్మమో అది చూడడమే గొప్పతనం.",
+    "screen": "పర్ణశాల | భరతాగమనం | జలతర్పణం"
+   },
+   "end": {
+    "voice": "శ్రీరాములవారు రాకపోతే భరతులవారు ఏం తీసుకెళ్ళారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "శ్రీరాములవారు రాకపోతే భరతులవారు ఏం తీసుకెళ్ళారు? తరువాతి భాగంలో!",
+    "cta": 4
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Bharata kneeling at Rama's feet, pleading with folded hands",
+     "says": "రాజ్యం చేతికి వచ్చినా వద్దన్నాడు ఒక తమ్ముడు!",
+     "mood": "sad"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": true,
+     "shows": "The finished leaf hut at Chitrakuta with a small courtyard",
+     "says": "వాస్తుకర్మ నివేశం చ భరతాగమనం తథా । / ప్రసాదనం చ రామస్య పితుశ్చ సలిలక్రియామ్ ॥ 16 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": true,
+     "shows": "Rama and Sita sitting peacefully outside the leaf hut",
+     "says": "చిత్రకూటంలో పర్ణశాల కట్టి నివసించడం, భరతులవారు రావడం, శ్రీరాములవారిని తిరిగి రమ్మని వేడుకోవడం, తండ్రికి జలతర్పణం ఇవ్వడం...",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Rama standing waist-deep in the Mandakini river, offering water to his departed father",
+     "says": "ఇవన్నీ ఉన్నాయి.",
+     "mood": "sad"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Bharata embracing Rama with tears in his eyes",
+     "says": "రాజ్యం చేతికి వచ్చినా అది అన్నదే అని భరతులవారు వెతుక్కుంటూ వచ్చారు.",
+     "mood": "sad"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a golden crown placed on a simple wooden seat, untouched",
+     "says": "ఇచ్చింది తీసుకోవడం కాదు, ఏది ధర్మమో అది చూడడమే గొప్పతనం.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Bharata walking with Rama's padukas held on his head",
+     "says": "శ్రీరాములవారు రాకపోతే భరతులవారు ఏం తీసుకెళ్ళారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "sad"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 16,
+   "eleven": {
+    "voice1": "[softly, emotional] రాజ్యం చేతికి వచ్చినా వద్దన్నాడు ఒక తమ్ముడు!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] చిత్రకూటంలో పర్ణశాల కట్టి నివసించడం, భరతులవారు రావడం, శ్రీరాములవారిని తిరిగి రమ్మని వేడుకోవడం, తండ్రికి జలతర్పణం ఇవ్వడం... ఇవన్నీ ఉన్నాయి. రాజ్యం చేతికి వచ్చినా అది అన్నదే అని భరతులవారు వెతుక్కుంటూ వచ్చారు. ఇచ్చింది తీసుకోవడం కాదు, ఏది ధర్మమో అది చూడడమే గొప్పతనం.",
+    "voice4": "[curious, upbeat] శ్రీరాములవారు రాకపోతే భరతులవారు ఏం తీసుకెళ్ళారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "సింహాసనం మీద రాజు లేడు... ఆయన పాదుకలు ఉన్నాయి!",
+    "screen": "పాదుకా పాలన"
+   },
+   "meaning": {
+    "voice": "శ్రీరాములవారి పాదుకలకు పట్టాభిషేకం, భరతులవారు నందిగ్రామంలో ఉండి పాలించడం, శ్రీరాములవారు దండకారణ్యానికి వెళ్ళడం, విరాధుడనే రాక్షసుడి వధ... ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి. పాదుకలను ముందు పెట్టి పాలించారు భరతులవారు. పదవి కాదు, బాధ్యత ముఖ్యం.",
+    "screen": "పాదుకాభిషేకం | నందిగ్రామం | విరాధ వధ"
+   },
+   "end": {
+    "voice": "దండకారణ్యంలో శ్రీరాములవారి కోసం ఎదురుచూసిన మహర్షులు ఎవరు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "దండకారణ్యంలో శ్రీరాములవారి కోసం ఎదురుచూసిన మహర్షులు ఎవరు? తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Rama's padukas placed on the throne under a royal umbrella",
+     "says": "సింహాసనం మీద రాజు లేడు... ఆయన పాదుకలు ఉన్నాయి!",
+     "mood": "sad"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Bharata bowing before the padukas in Nandigrama",
+     "says": "పాదుకాగ్ర్యాభిషేకం చ నన్దిగ్రామనివాసనమ్ । / దణ్డకారణ్యగమనం విరాధస్య వధం తథా ॥ 17 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Bharata in bark clothes conducting royal duties beside the padukas",
+     "says": "శ్రీరాములవారి పాదుకలకు పట్టాభిషేకం, భరతులవారు నందిగ్రామంలో ఉండి పాలించడం, శ్రీరాములవారు దండకారణ్యానికి వెళ్ళడం, విరాధుడనే రాక్షసుడి వధ...",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "The three walking into the dense Dandaka forest",
+     "says": "ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి.",
+     "mood": "sad"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Rama facing the giant rakshasa Viradha in the forest",
+     "says": "పాదుకలను ముందు పెట్టి పాలించారు భరతులవారు.",
+     "mood": "heroic"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a pair of padukas on a throne glowing brighter than a crown beside them",
+     "says": "పదవి కాదు, బాధ్యత ముఖ్యం.",
+     "mood": "sad"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "An old sage waiting at his hermitage door, looking down the path",
+     "says": "దండకారణ్యంలో శ్రీరాములవారి కోసం ఎదురుచూసిన మహర్షులు ఎవరు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "sad"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 17,
+   "eleven": {
+    "voice1": "[softly, emotional] సింహాసనం మీద రాజు లేడు... ఆయన పాదుకలు ఉన్నాయి!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] శ్రీరాములవారి పాదుకలకు పట్టాభిషేకం, భరతులవారు నందిగ్రామంలో ఉండి పాలించడం, శ్రీరాములవారు దండకారణ్యానికి వెళ్ళడం, విరాధుడనే రాక్షసుడి వధ... ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి. పాదుకలను ముందు పెట్టి పాలించారు భరతులవారు. పదవి కాదు, బాధ్యత ముఖ్యం.",
+    "voice4": "[curious, upbeat] దండకారణ్యంలో శ్రీరాములవారి కోసం ఎదురుచూసిన మహర్షులు ఎవరు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "అడవిలో సీతమ్మవారికి ఒక తల్లి లాంటి ఆశీర్వాదం దొరికింది!",
+    "screen": "అనసూయ ఆశీస్సు"
+   },
+   "meaning": {
+    "voice": "శరభంగ మహర్షి దర్శనం, సుతీక్ష్ణ మహర్షిని కలవడం, అనసూయ దేవి సీతమ్మవారితో మాట్లాడి ఆమెకు దివ్యమైన అంగరాగం ఇవ్వడం... ఇవన్నీ ఉన్నాయి. అంగరాగం అంటే శరీరానికి పూసుకునే సుగంధ లేపనం. పెద్దల ఆశీర్వాదమే కష్ట కాలంలో మనకు నిజమైన కానుక.",
+    "screen": "శరభంగ మహర్షి | సుతీక్ష్ణ మహర్షి | అనసూయ అంగరాగం"
+   },
+   "end": {
+    "voice": "అగస్త్య మహర్షి శ్రీరాములవారికి ఏం ఇచ్చారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "అగస్త్య మహర్షి శ్రీరాములవారికి ఏం ఇచ్చారు? తరువాతి భాగంలో!",
+    "cta": 3
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Anasuya lovingly blessing Sita with a hand on her head",
+     "says": "అడవిలో సీతమ్మవారికి ఒక తల్లి లాంటి ఆశీర్వాదం దొరికింది!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Rama bowing before Sage Sharabhanga",
+     "says": "దర్శనం శరభఙ్గస్య సుతీక్ష్ణేన సమాగమమ్ । / అనసూయాసమాఖ్యాం చ అఙ్గరాగస్య చార్పణమ్ ॥ 18 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Sage Sutikshna welcoming the three to his ashram",
+     "says": "శరభంగ మహర్షి దర్శనం, సుతీక్ష్ణ మహర్షిని కలవడం, అనసూయ దేవి సీతమ్మవారితో మాట్లాడి ఆమెకు దివ్యమైన అంగరాగం ఇవ్వడం...",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "The peaceful hermitage of Sutikshna among tall trees",
+     "says": "ఇవన్నీ ఉన్నాయి.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Anasuya giving Sita a small bowl of fragrant divine unguent",
+     "says": "అంగరాగం అంటే శరీరానికి పూసుకునే సుగంధ లేపనం.",
+     "mood": "calm"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: an elder's hand resting gently on a younger hand",
+     "says": "పెద్దల ఆశీర్వాదమే కష్ట కాలంలో మనకు నిజమైన కానుక.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Sage Agastya holding out a divine bow to Rama",
+     "says": "అగస్త్య మహర్షి శ్రీరాములవారికి ఏం ఇచ్చారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 18,
+   "eleven": {
+    "voice1": "[intrigued, warm] అడవిలో సీతమ్మవారికి ఒక తల్లి లాంటి ఆశీర్వాదం దొరికింది!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] శరభంగ మహర్షి దర్శనం, సుతీక్ష్ణ మహర్షిని కలవడం, అనసూయ దేవి సీతమ్మవారితో మాట్లాడి ఆమెకు దివ్యమైన అంగరాగం ఇవ్వడం... ఇవన్నీ ఉన్నాయి. అంగరాగం అంటే శరీరానికి పూసుకునే సుగంధ లేపనం. పెద్దల ఆశీర్వాదమే కష్ట కాలంలో మనకు నిజమైన కానుక.",
+    "voice4": "[curious, upbeat] అగస్త్య మహర్షి శ్రీరాములవారికి ఏం ఇచ్చారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "పంచవటిలో అడుగుపెట్టిన ఒక రాక్షసి... కథనే మలుపు తిప్పింది!",
+    "screen": "శూర్పణఖ!"
+   },
+   "meaning": {
+    "voice": "అగస్త్య మహర్షి దర్శనం, ఆయన ఇచ్చిన దివ్య ధనుస్సును అందుకోవడం, శూర్పణఖతో సంభాషణ, లక్ష్మణులవారు ఆమెను విరూపం చేయడం... ఇవన్నీ ఉన్నాయి. ధర్మం దారి తప్పిన కోరికను ఒప్పుకోదు. ఆ ఒక్క సంఘటనే తరువాతి యుద్ధానికి మొదలు.",
+    "screen": "అగస్త్య దర్శనం | ధనుర్గ్రహణం | శూర్పణఖ"
+   },
+   "end": {
+    "voice": "శూర్పణఖ ఎవరిని వెంటబెట్టుకుని వచ్చింది? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+    "teaser": "శూర్పణఖ ఎవరిని వెంటబెట్టుకుని వచ్చింది? తరువాతి భాగంలో!",
+    "cta": 2
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Shurpanakha appearing near the leaf hut at Panchavati",
+     "says": "పంచవటిలో అడుగుపెట్టిన ఒక రాక్షసి... కథనే మలుపు తిప్పింది!",
+     "mood": "heroic"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Sage Agastya giving Rama a divine bow and quivers",
+     "says": "దర్శనం చాప్యగస్త్యస్య ధనుషో గ్రహణం తథా । / శూర్పణఖ్యాశ్చ సంవాదం విరూపకరణం తథా ॥ 19 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Rama holding the divine bow outside the leaf hut at Panchavati",
+     "says": "అగస్త్య మహర్షి దర్శనం, ఆయన ఇచ్చిన దివ్య ధనుస్సును అందుకోవడం, శూర్పణఖతో సంభాషణ, లక్ష్మణులవారు ఆమెను విరూపం చేయడం...",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Shurpanakha speaking boldly to Rama, who answers calmly",
+     "says": "ఇవన్నీ ఉన్నాయి.",
+     "mood": "mystery"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": true,
+     "shows": "Shurpanakha fleeing into the forest with her face covered by her hands",
+     "says": "ధర్మం దారి తప్పిన కోరికను ఒప్పుకోదు.",
+     "mood": "heroic"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a small spark falling onto dry grass",
+     "says": "ఆ ఒక్క సంఘటనే తరువాతి యుద్ధానికి మొదలు.",
+     "mood": "heroic"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Khara leading a rakshasa army toward the camera",
+     "says": "శూర్పణఖ ఎవరిని వెంటబెట్టుకుని వచ్చింది? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+     "mood": "heroic"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 19,
+   "eleven": {
+    "voice1": "[dramatic, powerful] పంచవటిలో అడుగుపెట్టిన ఒక రాక్షసి... కథనే మలుపు తిప్పింది!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] అగస్త్య మహర్షి దర్శనం, ఆయన ఇచ్చిన దివ్య ధనుస్సును అందుకోవడం, శూర్పణఖతో సంభాషణ, లక్ష్మణులవారు ఆమెను విరూపం చేయడం... ఇవన్నీ ఉన్నాయి. ధర్మం దారి తప్పిన కోరికను ఒప్పుకోదు. ఆ ఒక్క సంఘటనే తరువాతి యుద్ధానికి మొదలు.",
+    "voice4": "[curious, upbeat] శూర్పణఖ ఎవరిని వెంటబెట్టుకుని వచ్చింది? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "ఒక బంగారు లేడి... దాని వెనుక ఒక పెద్ద కుట్ర!",
+    "screen": "బంగారు లేడి"
+   },
+   "meaning": {
+    "voice": "ఖరుడు, త్రిశిరుడి వధ, ప్రతీకారం కోసం రావణుడు లేవడం, మాయలేడిగా వచ్చిన మారీచుడి వధ, సీతమ్మవారి అపహరణ... ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి. అందంగా కనిపించేదంతా నిజం కాదు. మెరిసే మాయ వెనుక ఉన్న మోసాన్ని గుర్తించడం నేర్చుకోవాలి.",
+    "screen": "ఖర త్రిశిర వధ | మారీచ వధ | సీతాపహరణం"
+   },
+   "end": {
+    "voice": "సీతమ్మవారు లేని పర్ణశాలను చూసిన శ్రీరాములవారు ఏం చేశారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "సీతమ్మవారు లేని పర్ణశాలను చూసిన శ్రీరాములవారు ఏం చేశారు? తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "A shimmering golden deer with silver spots near the leaf hut",
+     "says": "ఒక బంగారు లేడి... దాని వెనుక ఒక పెద్ద కుట్ర!",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Rama battling Khara and Trishira on the Janasthana field",
+     "says": "వధం ఖరత్రిశిరసోరుత్థానం రావణస్య చ । / మారీచస్య వధం చైవ వైదేహ్యా హరణం తథా ॥ 20 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Ten-headed Ravana rising from his throne in anger",
+     "says": "ఖరుడు, త్రిశిరుడి వధ, ప్రతీకారం కోసం రావణుడు లేవడం, మాయలేడిగా వచ్చిన మారీచుడి వధ, సీతమ్మవారి అపహరణ...",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Ravana and Maricha speaking outside Maricha's simple leaf hut on the sea shore (outdoors, no throne, no palace)",
+     "says": "ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి.",
+     "mood": "mystery"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Ravana disguised as a sanyasi approaching Sita at the hut",
+     "says": "అందంగా కనిపించేదంతా నిజం కాదు.",
+     "mood": "mystery"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a beautiful golden mask cracking to reveal darkness behind it",
+     "says": "మెరిసే మాయ వెనుక ఉన్న మోసాన్ని గుర్తించడం నేర్చుకోవాలి.",
+     "mood": "mystery"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Rama standing before the empty leaf hut, stunned with grief",
+     "says": "సీతమ్మవారు లేని పర్ణశాలను చూసిన శ్రీరాములవారు ఏం చేశారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "sad"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 20,
+   "eleven": {
+    "voice1": "[mysterious, hushed] ఒక బంగారు లేడి... దాని వెనుక ఒక పెద్ద కుట్ర!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] ఖరుడు, త్రిశిరుడి వధ, ప్రతీకారం కోసం రావణుడు లేవడం, మాయలేడిగా వచ్చిన మారీచుడి వధ, సీతమ్మవారి అపహరణ... ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి. అందంగా కనిపించేదంతా నిజం కాదు. మెరిసే మాయ వెనుక ఉన్న మోసాన్ని గుర్తించడం నేర్చుకోవాలి.",
+    "voice4": "[curious, upbeat] సీతమ్మవారు లేని పర్ణశాలను చూసిన శ్రీరాములవారు ఏం చేశారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "సీతమ్మవారి కోసం ప్రాణం ఇచ్చిన ఒక పక్షి!",
+    "screen": "జటాయువు"
+   },
+   "meaning": {
+    "voice": "సీతమ్మవారి కోసం శ్రీరాములవారి విలాపం, రావణుడితో పోరాడిన గద్దల రాజు జటాయువు మరణం, కబంధుడి దర్శనం, పంపా సరస్సును చేరడం... ఇవన్నీ ఉన్నాయి. ఒక పక్షి కూడా ధర్మం కోసం ప్రాణం ఇచ్చింది. మంచి కోసం నిలబడడానికి బలం కాదు, మనసు కావాలి.",
+    "screen": "రాఘవ విలాపం | జటాయువు | కబంధుడు, పంప"
+   },
+   "end": {
+    "voice": "ఎన్నో ఏళ్ళుగా శ్రీరాములవారి కోసం ఎదురుచూసింది ఎవరు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఎన్నో ఏళ్ళుగా శ్రీరాములవారి కోసం ఎదురుచూసింది ఎవరు? తరువాతి భాగంలో!",
+    "cta": 4
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Rama kneeling beside the great head of the exhausted vulture king Jatayu, one hand resting on the giant bird's neck after his fight with Ravana: his left wing almost cut away by Ravana's sword, hanging torn with many long feathers missing, thin streaks of deep red colour on his feathers in a few places like the marks of Ravana's sword strokes (light, never heavy), ruffled scattered feathers, tired eyes",
+     "says": "సీతమ్మవారి కోసం ప్రాణం ఇచ్చిన ఒక పక్షి!",
+     "mood": "sad"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Rama calling out for Sita in the forest while Lakshmana stands beside him",
+     "says": "రాఘవస్య విలాపం చ గృధ్రరాజనిబర్హణమ్ । / కబన్ధదర్శనం చైవ పమ్పాయాశ్చాపి దర్శనమ్ ॥ 21 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Rama sitting on a rock, grieving with his head bowed",
+     "says": "సీతమ్మవారి కోసం శ్రీరాములవారి విలాపం, రావణుడితో పోరాడిన గద్దల రాజు జటాయువు మరణం, కబంధుడి దర్శనం, పంపా సరస్సును చేరడం...",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "The cursed giant Kabandha in the dark forest",
+     "says": "ఇవన్నీ ఉన్నాయి.",
+     "mood": "mystery"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Rama and Lakshmana arriving at the beautiful Pampa lake with lotuses",
+     "says": "ఒక పక్షి కూడా ధర్మం కోసం ప్రాణం ఇచ్చింది.",
+     "mood": "sad"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": true,
+     "shows": "Symbolic shot: Jatayu flying bravely into the sky",
+     "says": "మంచి కోసం నిలబడడానికి బలం కాదు, మనసు కావాలి.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Old Shabari sitting at her ashram door with a basket of fruits, waiting",
+     "says": "ఎన్నో ఏళ్ళుగా శ్రీరాములవారి కోసం ఎదురుచూసింది ఎవరు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 21,
+   "eleven": {
+    "voice1": "[softly, emotional] సీతమ్మవారి కోసం ప్రాణం ఇచ్చిన ఒక పక్షి!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] సీతమ్మవారి కోసం శ్రీరాములవారి విలాపం, రావణుడితో పోరాడిన గద్దల రాజు జటాయువు మరణం, కబంధుడి దర్శనం, పంపా సరస్సును చేరడం... ఇవన్నీ ఉన్నాయి. ఒక పక్షి కూడా ధర్మం కోసం ప్రాణం ఇచ్చింది. మంచి కోసం నిలబడడానికి బలం కాదు, మనసు కావాలి.",
+    "voice4": "[curious, upbeat] ఎన్నో ఏళ్ళుగా శ్రీరాములవారి కోసం ఎదురుచూసింది ఎవరు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "ఒక వృద్ధ భక్తురాలు... ఒక వానర వీరుడు... ఒకే శ్లోకంలో!",
+    "screen": "శబరి – హనుమంతులవారు"
+   },
+   "meaning": {
+    "voice": "శబరిని దర్శించడం, ఆమె భక్తితో ఇచ్చిన పండ్లు, దుంపలు స్వీకరించడం, పంపా తీరంలో సీతమ్మవారి కోసం విలపించడం, హనుమంతులవారిని కలవడం... ఇవన్నీ ఉన్నాయి. శ్రీరాములవారికి కావలసింది భక్తి మాత్రమే; ఇచ్చేది ఎంత చిన్నదైనా ప్రేమతో ఇస్తే చాలు.",
+    "screen": "శబరీ దర్శనం | ఫలమూలాలు | హనుమద్దర్శనం"
+   },
+   "end": {
+    "voice": "హనుమంతులవారు శ్రీరాములవారిని ఎవరి దగ్గరకు తీసుకెళ్ళారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "హనుమంతులవారు శ్రీరాములవారిని ఎవరి దగ్గరకు తీసుకెళ్ళారు? తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Shabari offering fruits to Rama with deep devotion",
+     "says": "ఒక వృద్ధ భక్తురాలు... ఒక వానర వీరుడు... ఒకే శ్లోకంలో!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Shabari washing Rama's feet with water",
+     "says": "శబరీదర్శనం చైవ ఫలమూలాశనం తథా । / ప్రలాపం చైవ పమ్పాయాం హనూమద్దర్శనం తథా ॥ 22 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Shabari with folded hands, glowing with devotion",
+     "says": "శబరిని దర్శించడం, ఆమె భక్తితో ఇచ్చిన పండ్లు, దుంపలు స్వీకరించడం,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Rama sitting sadly on the shore of Pampa lake, Lakshmana consoling him",
+     "says": "పంపా తీరంలో సీతమ్మవారి కోసం విలపించడం, హనుమంతులవారిని కలవడం...",
+     "mood": "sad"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Hanuman disguised as a young brahmin bowing before Rama and Lakshmana",
+     "says": "ఇవన్నీ ఉన్నాయి.",
+     "mood": "mystery"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a simple leaf plate of fruits glowing with light",
+     "says": "శ్రీరాములవారికి కావలసింది భక్తి మాత్రమే; ఇచ్చేది ఎంత చిన్నదైనా ప్రేమతో ఇస్తే చాలు.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Rama and Sugriva joining hands before a sacred fire",
+     "says": "హనుమంతులవారు శ్రీరాములవారిని ఎవరి దగ్గరకు తీసుకెళ్ళారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 22,
+   "eleven": {
+    "voice1": "[softly, emotional] ఒక వృద్ధ భక్తురాలు... ఒక వానర వీరుడు... ఒకే శ్లోకంలో!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] శబరిని దర్శించడం, ఆమె భక్తితో ఇచ్చిన పండ్లు, దుంపలు స్వీకరించడం, పంపా తీరంలో సీతమ్మవారి కోసం విలపించడం, హనుమంతులవారిని కలవడం... ఇవన్నీ ఉన్నాయి. శ్రీరాములవారికి కావలసింది భక్తి మాత్రమే; ఇచ్చేది ఎంత చిన్నదైనా ప్రేమతో ఇస్తే చాలు.",
+    "voice4": "[curious, upbeat] హనుమంతులవారు శ్రీరాములవారిని ఎవరి దగ్గరకు తీసుకెళ్ళారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "ఒక రాజకుమారుడు, ఒక వానర రాజు... అగ్ని సాక్షిగా స్నేహితులయ్యారు!",
+    "screen": "అగ్ని సాక్షిగా"
+   },
+   "meaning": {
+    "voice": "ఋష్యమూక పర్వతానికి వెళ్ళడం, సుగ్రీవుడిని కలవడం, తన బలం మీద సుగ్రీవుడికి నమ్మకం కలిగించడం, ఇద్దరి స్నేహం, వాలి సుగ్రీవుల యుద్ధం... ఇవన్నీ ఉన్నాయి. నమ్మకం మాటలతో కాదు, చేతలతో వస్తుంది. అందుకే శ్రీరాములవారు ముందు తన బలం చూపించారు.",
+    "screen": "ఋష్యమూకం | సఖ్యం | వాలి సుగ్రీవ విగ్రహం"
+   },
+   "end": {
+    "voice": "ఆ యుద్ధం ఎలా ముగిసింది? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఆ యుద్ధం ఎలా ముగిసింది? తరువాతి భాగంలో!",
+    "cta": 3
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Rama and Sugriva clasping hands before a sacred fire as Hanuman watches",
+     "says": "ఒక రాజకుమారుడు, ఒక వానర రాజు... అగ్ని సాక్షిగా స్నేహితులయ్యారు!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Sugriva standing on Rishyamuka hill looking down cautiously",
+     "says": "ఋష్యమూకస్య గమనం సుగ్రీవేణ సమాగమమ్ । / ప్రత్యయోత్పాదనం సఖ్యం వాలిసుగ్రీవవిగ్రహమ్ ॥ 23 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": true,
+     "shows": "Rama releasing an arrow that passes through a row of seven sala trees",
+     "says": "ఋష్యమూక పర్వతానికి వెళ్ళడం, సుగ్రీవుడిని కలవడం, తన బలం మీద సుగ్రీవుడికి నమ్మకం కలిగించడం, ఇద్దరి స్నేహం, వాలి సుగ్రీవుల యుద్ధం...",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Sugriva bowing in wonder after seeing Rama's strength",
+     "says": "ఇవన్నీ ఉన్నాయి.",
+     "mood": "heroic"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Vali and Sugriva wrestling fiercely outside Kishkindha",
+     "says": "నమ్మకం మాటలతో కాదు, చేతలతో వస్తుంది.",
+     "mood": "heroic"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": true,
+     "shows": "Rama's single arrow sharp seven great sala trees in a row while Sugriva watches in amazement",
+     "says": "అందుకే శ్రీరాములవారు ముందు తన బలం చూపించారు.",
+     "mood": "heroic"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Sugriva seated on the throne of Kishkindha",
+     "says": "ఆ యుద్ధం ఎలా ముగిసింది? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "heroic"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 23,
+   "eleven": {
+    "voice1": "[dramatic, powerful] ఒక రాజకుమారుడు, ఒక వానర రాజు... అగ్ని సాక్షిగా స్నేహితులయ్యారు!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] ఋష్యమూక పర్వతానికి వెళ్ళడం, సుగ్రీవుడిని కలవడం, తన బలం మీద సుగ్రీవుడికి నమ్మకం కలిగించడం, ఇద్దరి స్నేహం, వాలి సుగ్రీవుల యుద్ధం... ఇవన్నీ ఉన్నాయి. నమ్మకం మాటలతో కాదు, చేతలతో వస్తుంది. అందుకే శ్రీరాములవారు ముందు తన బలం చూపించారు.",
+    "voice4": "[curious, upbeat] ఆ యుద్ధం ఎలా ముగిసింది? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "ఒక యుద్ధం ముగిసింది... ఒక రాణి కన్నీరు పెట్టింది... ఆపై ఒక వర్షాకాలం!",
+    "screen": "సుగ్రీవ పట్టాభిషేకం"
+   },
+   "meaning": {
+    "voice": "వాలి సంహారం, సుగ్రీవుడికి రాజ్యం ఇవ్వడం, తార విలాపం, వర్షాకాలం తరువాత సీతమ్మవారి కోసం వెతకాలన్న ఒప్పందం, వర్షాకాలమంతా శ్రీరాములవారు పర్వతం మీద ఎదురుచూడడం... ఇవన్నీ ఉన్నాయి. సరైన సమయం కోసం ఓపికగా ఎదురుచూడడం కూడా ధైర్యమే.",
+    "screen": "వాలి ప్రమథనం | తారా విలాపం | వర్షాకాలం"
+   },
+   "end": {
+    "voice": "వర్షాకాలం అయిపోయినా సుగ్రీవుడు రాకపోతే ఏమైంది? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+    "teaser": "వర్షాకాలం అయిపోయినా సుగ్రీవుడు రాకపోతే ఏమైంది? తరువాతి భాగంలో!",
+    "cta": 2
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Sugriva being crowned king of Kishkindha as Rama blesses him",
+     "says": "ఒక యుద్ధం ముగిసింది... ఒక రాణి కన్నీరు పెట్టింది... ఆపై ఒక వర్షాకాలం!",
+     "mood": "sad"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Vali lying peacefully on the ground with eyes half closed, Rama standing near with his bow lowered",
+     "says": "వాలిప్రమథనం చైవ సుగ్రీవప్రతిపాదనమ్ । / తారావిలాపం సమయం వర్షరాత్రనివాసనమ్ ॥ 24 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Queen Tara weeping, kneeling on the ground",
+     "says": "వాలి సంహారం, సుగ్రీవుడికి రాజ్యం ఇవ్వడం, తార విలాపం,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Rama and Lakshmana at a mountain cave during heavy monsoon rain",
+     "says": "వర్షాకాలం తరువాత సీతమ్మవారి కోసం వెతకాలన్న ఒప్పందం, వర్షాకాలమంతా శ్రీరాములవారు పర్వతం మీద ఎదురుచూడడం...",
+     "mood": "sad"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Rama looking out at the rain from the cave, waiting patiently",
+     "says": "ఇవన్నీ ఉన్నాయి.",
+     "mood": "sad"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: rain clouds slowly clearing to reveal blue sky",
+     "says": "సరైన సమయం కోసం ఓపికగా ఎదురుచూడడం కూడా ధైర్యమే.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Rama holding his bow with an angry, determined look",
+     "says": "వర్షాకాలం అయిపోయినా సుగ్రీవుడు రాకపోతే ఏమైంది? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+     "mood": "heroic"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 24,
+   "eleven": {
+    "voice1": "[softly, emotional] ఒక యుద్ధం ముగిసింది... ఒక రాణి కన్నీరు పెట్టింది... ఆపై ఒక వర్షాకాలం!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] వాలి సంహారం, సుగ్రీవుడికి రాజ్యం ఇవ్వడం, తార విలాపం, వర్షాకాలం తరువాత సీతమ్మవారి కోసం వెతకాలన్న ఒప్పందం, వర్షాకాలమంతా శ్రీరాములవారు పర్వతం మీద ఎదురుచూడడం... ఇవన్నీ ఉన్నాయి. సరైన సమయం కోసం ఓపికగా ఎదురుచూడడం కూడా ధైర్యమే.",
+    "voice4": "[curious, upbeat] వర్షాకాలం అయిపోయినా సుగ్రీవుడు రాకపోతే ఏమైంది? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "ఇచ్చిన మాట మరచిపోతే... శ్రీరాములవారికి కూడా కోపం వస్తుంది!",
+    "screen": "సింహం కోపం"
+   },
+   "meaning": {
+    "voice": "మాట మరచిన సుగ్రీవుడిపై రఘువంశ సింహమైన శ్రీరాములవారి కోపం, వానర సేనలను కూడగట్టడం, వారిని నాలుగు దిక్కులకూ పంపడం, సుగ్రీవుడు భూమి మీది ప్రదేశాలన్నింటినీ వర్ణించి చెప్పడం... ఇవన్నీ ఉన్నాయి. ఇచ్చిన మాటను సమయానికి నిలబెట్టుకోవడమే స్నేహానికి గౌరవం.",
+    "screen": "రాఘవ కోపం | బల సంగ్రహం | దిశా ప్రస్థానం"
+   },
+   "end": {
+    "voice": "అందరిలో హనుమంతులవారికే శ్రీరాములవారు ఏం ఇచ్చారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "అందరిలో హనుమంతులవారికే శ్రీరాములవారు ఏం ఇచ్చారు? తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Close view of Rama's face, eyes blazing with righteous anger, bow in hand",
+     "says": "ఇచ్చిన మాట మరచిపోతే... శ్రీరాములవారికి కూడా కోపం వస్తుంది!",
+     "mood": "heroic"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "A huge vanara army gathering in the valleys of Kishkindha",
+     "says": "కోపం రాఘవసింహస్య బలానాముపసంగ్రహమ్ । / దిశః ప్రస్థాపనం చైవ పృథివ్యాశ్చ నివేదనమ్ ॥ 25 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Sugriva addressing the vanara army from a high rock",
+     "says": "మాట మరచిన సుగ్రీవుడిపై రఘువంశ సింహమైన శ్రీరాములవారి కోపం, వానర సేనలను కూడగట్టడం,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Groups of vanaras leaping away in four directions",
+     "says": "వారిని నాలుగు దిక్కులకూ పంపడం, సుగ్రీవుడు భూమి మీది ప్రదేశాలన్నింటినీ వర్ణించి చెప్పడం...",
+     "mood": "heroic"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Sugriva describing distant lands, a glowing map of mountains and rivers appearing before him",
+     "says": "ఇవన్నీ ఉన్నాయి.",
+     "mood": "heroic"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a promise written in light slowly fading, then glowing bright again",
+     "says": "ఇచ్చిన మాటను సమయానికి నిలబెట్టుకోవడమే స్నేహానికి గౌరవం.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Rama placing his ring in Hanuman's palm",
+     "says": "అందరిలో హనుమంతులవారికే శ్రీరాములవారు ఏం ఇచ్చారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "heroic"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 25,
+   "eleven": {
+    "voice1": "[dramatic, powerful] ఇచ్చిన మాట మరచిపోతే... శ్రీరాములవారికి కూడా కోపం వస్తుంది!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] మాట మరచిన సుగ్రీవుడిపై రఘువంశ సింహమైన శ్రీరాములవారి కోపం, వానర సేనలను కూడగట్టడం, వారిని నాలుగు దిక్కులకూ పంపడం, సుగ్రీవుడు భూమి మీది ప్రదేశాలన్నింటినీ వర్ణించి చెప్పడం... ఇవన్నీ ఉన్నాయి. ఇచ్చిన మాటను సమయానికి నిలబెట్టుకోవడమే స్నేహానికి గౌరవం.",
+    "voice4": "[curious, upbeat] అందరిలో హనుమంతులవారికే శ్రీరాములవారు ఏం ఇచ్చారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "లక్షల వానరుల్లో... ఉంగరం ఒక్కరికే దొరికింది!",
+    "screen": "ఒక్కరికే ఉంగరం"
+   },
+   "meaning": {
+    "voice": "శ్రీరాములవారు హనుమంతులవారికి ఉంగరం ఇవ్వడం, వానరులు ఋక్షబిలం అనే గుహను చూడడం, సీతమ్మవారి జాడ దొరకక ప్రాయోపవేశానికి కూర్చోవడం, జటాయువు అన్న సంపాతిని చూడడం... ఇవన్నీ ఉన్నాయి. అంతా అయిపోయింది అనుకున్న క్షణంలోనే సంపాతి రూపంలో దారి దొరికింది. ఆశ ఎప్పుడూ వదలకూడదు.",
+    "screen": "అంగుళీయక దానం | ఋక్షబిలం | సంపాతి"
+   },
+   "end": {
+    "voice": "సముద్రం ముందు నిలిచిన హనుమంతులవారు ఏం చేశారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "సముద్రం ముందు నిలిచిన హనుమంతులవారు ఏం చేశారు? తరువాతి భాగంలో!",
+    "cta": 4
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Close view of Rama's ring shining in Hanuman's palm",
+     "says": "లక్షల వానరుల్లో... ఉంగరం ఒక్కరికే దొరికింది!",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Hanuman bowing to Rama and receiving the ring",
+     "says": "అఙ్గులీయకదానం చ ఋక్షస్య బిలదర్శనమ్ । / ప్రాయోపవేశనం చైవ సంపాతేశ్చాపి దర్శనమ్ ॥ 26 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "The magical golden cave with jewelled trees and a radiant woman ascetic",
+     "says": "శ్రీరాములవారు హనుమంతులవారికి ఉంగరం ఇవ్వడం, వానరులు ఋక్షబిలం అనే గుహను చూడడం, సీతమ్మవారి జాడ దొరకక ప్రాయోపవేశానికి కూర్చోవడం, జటాయువు అన్న సంపాతిని చూడడం...",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Vanaras sitting sadly on the southern seashore",
+     "says": "ఇవన్నీ ఉన్నాయి.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "The giant old vulture Sampati looking down from a cliff",
+     "says": "అంతా అయిపోయింది అనుకున్న క్షణంలోనే సంపాతి రూపంలో దారి దొరికింది.",
+     "mood": "calm"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a small light appearing at the end of a dark tunnel",
+     "says": "ఆశ ఎప్పుడూ వదలకూడదు.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Hanuman growing to a giant size on a mountain by the sea",
+     "says": "సముద్రం ముందు నిలిచిన హనుమంతులవారు ఏం చేశారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 26,
+   "eleven": {
+    "voice1": "[intrigued, warm] లక్షల వానరుల్లో... ఉంగరం ఒక్కరికే దొరికింది!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] శ్రీరాములవారు హనుమంతులవారికి ఉంగరం ఇవ్వడం, వానరులు ఋక్షబిలం అనే గుహను చూడడం, సీతమ్మవారి జాడ దొరకక ప్రాయోపవేశానికి కూర్చోవడం, జటాయువు అన్న సంపాతిని చూడడం... ఇవన్నీ ఉన్నాయి. అంతా అయిపోయింది అనుకున్న క్షణంలోనే సంపాతి రూపంలో దారి దొరికింది. ఆశ ఎప్పుడూ వదలకూడదు.",
+    "voice4": "[curious, upbeat] సముద్రం ముందు నిలిచిన హనుమంతులవారు ఏం చేశారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "వంద యోజనాల సముద్రం... ఒక్క దూకు!",
+    "screen": "సాగర లంఘనం"
+   },
+   "meaning": {
+    "voice": "హనుమంతులవారు మహేంద్ర పర్వతం ఎక్కడం, సముద్రాన్ని దాటడం, సముద్రుడి మాట మేరకు పైకి లేచిన మైనాక పర్వతాన్ని చూడడం... ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి. మంచి పని కోసం బయలుదేరితే, దారిలో సహాయం చేసేవారు కూడా వస్తారు.",
+    "screen": "పర్వతారోహణం | సాగర లంఘనం | మైనాకుడు"
+   },
+   "end": {
+    "voice": "దారిలో హనుమంతులవారిని ఆపడానికి ఎవరు వచ్చారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "దారిలో హనుమంతులవారిని ఆపడానికి ఎవరు వచ్చారు? తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Hanuman flying high over the vast ocean, arms stretched forward",
+     "says": "వంద యోజనాల సముద్రం... ఒక్క దూకు!",
+     "mood": "heroic"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": true,
+     "shows": "Hanuman standing tall on Mahendra mountain, preparing to leap",
+     "says": "పర్వతారోహణం చైవ సాగరస్యాపి లఙ్ఘనమ్ । / సముద్రవచనాచ్చైవ మైనాకస్య చ దర్శనమ్ ॥ 27 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": true,
+     "shows": "Hanuman leaping into the sky from the mountain top",
+     "says": "హనుమంతులవారు మహేంద్ర పర్వతం ఎక్కడం, సముద్రాన్ని దాటడం,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "The golden Mainaka mountain rising out of the ocean",
+     "says": "సముద్రుడి మాట మేరకు పైకి లేచిన మైనాక పర్వతాన్ని చూడడం...",
+     "mood": "heroic"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Samudra Raja rising from the waves with folded hands",
+     "says": "ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి.",
+     "mood": "heroic"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a traveller on a path with helping hands appearing along the way",
+     "says": "మంచి పని కోసం బయలుదేరితే, దారిలో సహాయం చేసేవారు కూడా వస్తారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Hanuman's large shadow moving across the ocean waves",
+     "says": "దారిలో హనుమంతులవారిని ఆపడానికి ఎవరు వచ్చారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 27,
+   "eleven": {
+    "voice1": "[dramatic, powerful] వంద యోజనాల సముద్రం... ఒక్క దూకు!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] హనుమంతులవారు మహేంద్ర పర్వతం ఎక్కడం, సముద్రాన్ని దాటడం, సముద్రుడి మాట మేరకు పైకి లేచిన మైనాక పర్వతాన్ని చూడడం... ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి. మంచి పని కోసం బయలుదేరితే, దారిలో సహాయం చేసేవారు కూడా వస్తారు.",
+    "voice4": "[curious, upbeat] దారిలో హనుమంతులవారిని ఆపడానికి ఎవరు వచ్చారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "నీడను పట్టుకుని లాగే రాక్షసి... హనుమంతులవారి ముందు నిలవగలిగిందా?",
+    "screen": "సింహిక!"
+   },
+   "meaning": {
+    "voice": "దారిలో రాక్షసి రూపంలో వచ్చిన సురస హనుమంతులవారిని బెదిరించడం, నీడను పట్టి లాగే సింహికను చూడడం, ఆమెను సంహరించడం, లంకను, దాని పక్కనున్న పర్వతాన్ని చూడడం... ఇవన్నీ ఉన్నాయి. ఒకచోట తెలివితో, ఒకచోట బలంతో గెలిచారు హనుమంతులవారు. సమస్యను బట్టి దారి మార్చుకోవడమే బుద్ధి.",
+    "screen": "సురస | సింహికా నిధనం | లంకా దర్శనం"
+   },
+   "end": {
+    "voice": "రాత్రి లంకలో అడుగుపెట్టిన హనుమంతులవారు ఏం చేశారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "రాత్రి లంకలో అడుగుపెట్టిన హనుమంతులవారు ఏం చేశారు? తరువాతి భాగంలో!",
+    "cta": 3
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "The sea demoness Simhika rising from the waves, reaching up toward a shadow",
+     "says": "నీడను పట్టుకుని లాగే రాక్షసి... హనుమంతులవారి ముందు నిలవగలిగిందా?",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Surasa in a huge form blocking Hanuman's way over the sea",
+     "says": "రాక్షసీతర్జనం చైవ చ్ఛాయాగ్రాహస్య దర్శనమ్ । / సింహికాయాశ్చ నిధనం లఙ్కామలయదర్శనమ్ ॥ 28 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Hanuman becoming tiny and bowing to Surasa",
+     "says": "దారిలో రాక్షసి రూపంలో వచ్చిన సురస హనుమంతులవారిని బెదిరించడం, నీడను పట్టి లాగే సింహికను చూడడం, ఆమెను సంహరించడం, లంకను, దాని పక్కనున్న పర్వతాన్ని చూడడం...",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Hanuman defeating Simhika over the ocean",
+     "says": "ఇవన్నీ ఉన్నాయి.",
+     "mood": "heroic"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Hanuman standing confidently on the walls of the golden city of Lanka at night, calm and alert",
+     "says": "ఒకచోట తెలివితో, ఒకచోట బలంతో గెలిచారు హనుమంతులవారు.",
+     "mood": "heroic"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a key changing shape to fit two different locks",
+     "says": "సమస్యను బట్టి దారి మార్చుకోవడమే బుద్ధి.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "A tiny Hanuman on Lanka's wall at night",
+     "says": "రాత్రి లంకలో అడుగుపెట్టిన హనుమంతులవారు ఏం చేశారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "heroic"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 28,
+   "eleven": {
+    "voice1": "[dramatic, powerful] నీడను పట్టుకుని లాగే రాక్షసి... హనుమంతులవారి ముందు నిలవగలిగిందా?",
+    "voice2": "",
+    "voice3": "[warm, storytelling] దారిలో రాక్షసి రూపంలో వచ్చిన సురస హనుమంతులవారిని బెదిరించడం, నీడను పట్టి లాగే సింహికను చూడడం, ఆమెను సంహరించడం, లంకను, దాని పక్కనున్న పర్వతాన్ని చూడడం... ఇవన్నీ ఉన్నాయి. ఒకచోట తెలివితో, ఒకచోట బలంతో గెలిచారు హనుమంతులవారు. సమస్యను బట్టి దారి మార్చుకోవడమే బుద్ధి.",
+    "voice4": "[curious, upbeat] రాత్రి లంకలో అడుగుపెట్టిన హనుమంతులవారు ఏం చేశారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "శత్రువు నగరం... రాత్రి వేళ... ఒంటరిగా హనుమంతులవారు!",
+    "screen": "ఒంటరిగా లంకలో"
+   },
+   "meaning": {
+    "voice": "హనుమంతులవారు రాత్రి వేళ లంకలో ప్రవేశించడం, ఒంటరిగా ఏం చేయాలో ఆలోచించడం, సీతమ్మవారి కోసం వెతుకుతూ పానశాలలకు, అంతఃపురానికి వెళ్ళడం... ఇవన్నీ ఉన్నాయి. ఎంత వెతికినా కనపడకపోయినా హనుమంతులవారు నిరాశ పడలేదు; ఆలోచించి మళ్ళీ వెతికారు.",
+    "screen": "లంకా ప్రవేశం | విచింతనం | అంతఃపుర దర్శనం"
+   },
+   "end": {
+    "voice": "చివరికి హనుమంతులవారికి సీతమ్మవారు ఎక్కడ కనిపించారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+    "teaser": "చివరికి హనుమంతులవారికి సీతమ్మవారు ఎక్కడ కనిపించారు? తరువాతి భాగంలో!",
+    "cta": 2
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Hanuman leaping across moonlit rooftops of Lanka's palaces",
+     "says": "శత్రువు నగరం... రాత్రి వేళ... ఒంటరిగా హనుమంతులవారు!",
+     "mood": "heroic"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": true,
+     "shows": "The city of Lanka at night glittering with lamps",
+     "says": "రాత్రౌ లఙ్కాప్రవేశం చ ఏకస్యాపి విచిన్తనమ్ । / ఆపానభూమిగమనమవరోధస్య దర్శనమ్ ॥ 29 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Hanuman sitting on a rooftop, thinking deeply alone",
+     "says": "హనుమంతులవారు రాత్రి వేళ లంకలో ప్రవేశించడం, ఒంటరిగా ఏం చేయాలో ఆలోచించడం,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Hanuman searching through grand palace halls at night",
+     "says": "సీతమ్మవారి కోసం వెతుకుతూ పానశాలలకు, అంతఃపురానికి వెళ్ళడం...",
+     "mood": "sad"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Hanuman peering through a palace window into a quiet hall",
+     "says": "ఇవన్నీ ఉన్నాయి.",
+     "mood": "sad"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Hanuman searching the long palace corridors of Lanka at night with steady determination",
+     "says": "ఎంత వెతికినా కనపడకపోయినా హనుమంతులవారు నిరాశ పడలేదు; ఆలోచించి మళ్ళీ వెతికారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Sita seated under a tree in the Ashoka grove",
+     "says": "చివరికి హనుమంతులవారికి సీతమ్మవారు ఎక్కడ కనిపించారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+     "mood": "sad"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 29,
+   "eleven": {
+    "voice1": "[softly, emotional] శత్రువు నగరం... రాత్రి వేళ... ఒంటరిగా హనుమంతులవారు!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] హనుమంతులవారు రాత్రి వేళ లంకలో ప్రవేశించడం, ఒంటరిగా ఏం చేయాలో ఆలోచించడం, సీతమ్మవారి కోసం వెతుకుతూ పానశాలలకు, అంతఃపురానికి వెళ్ళడం... ఇవన్నీ ఉన్నాయి. ఎంత వెతికినా కనపడకపోయినా హనుమంతులవారు నిరాశ పడలేదు; ఆలోచించి మళ్ళీ వెతికారు.",
+    "voice4": "[curious, upbeat] చివరికి హనుమంతులవారికి సీతమ్మవారు ఎక్కడ కనిపించారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "ఇంత పెద్ద లంకలో... సీతమ్మవారు దొరికారు ఒక చెట్టు కింద!",
+    "screen": "సీతమ్మవారి దర్శనం"
+   },
+   "meaning": {
+    "voice": "రావణుడిని చూడడం, పుష్పక విమానాన్ని చూడడం, అశోకవనానికి వెళ్ళడం, చివరకు సీతమ్మవారిని దర్శించడం... ఇవన్నీ ఉన్నాయి. బంగారు భవనాలు, విమానాలు చూసినా హనుమంతులవారి మనసు సీతమ్మవారిని వెతకడం మీదే ఉంది. లక్ష్యం మీద దృష్టి ఉన్నవారే గెలుస్తారు.",
+    "screen": "రావణ దర్శనం | పుష్పకం | సీతా దర్శనం"
+   },
+   "end": {
+    "voice": "సీతమ్మవారికి హనుమంతులవారు తనను ఎలా పరిచయం చేసుకున్నారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "సీతమ్మవారికి హనుమంతులవారు తనను ఎలా పరిచయం చేసుకున్నారు? తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Sita sitting under an Ashoka tree, sad but dignified",
+     "says": "ఇంత పెద్ద లంకలో... సీతమ్మవారు దొరికారు ఒక చెట్టు కింద!",
+     "mood": "sad"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "The shining Pushpaka vimana in Ravana's palace",
+     "says": "దర్శనం రావణస్యాపి పుష్పకస్య చ దర్శనమ్ । / అశోకవనికాయానం సీతాయాశ్చాపి దర్శనమ్ ॥ 30 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Ten-headed Ravana asleep on a golden couch",
+     "says": "రావణుడిని చూడడం, పుష్పక విమానాన్ని చూడడం, అశోకవనానికి వెళ్ళడం, చివరకు సీతమ్మవారిని దర్శించడం...",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Hanuman hiding in the branches of a tree in the Ashoka grove",
+     "says": "ఇవన్నీ ఉన్నాయి.",
+     "mood": "sad"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Hanuman watching Sita from among the branches",
+     "says": "బంగారు భవనాలు, విమానాలు చూసినా హనుమంతులవారి మనసు సీతమ్మవారిని వెతకడం మీదే ఉంది.",
+     "mood": "sad"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": true,
+     "shows": "Symbolic shot: an arrow flying straight past glittering distractions",
+     "says": "లక్ష్యం మీద దృష్టి ఉన్నవారే గెలుస్తారు.",
+     "mood": "heroic"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Hanuman on a branch holding up Rama's ring",
+     "says": "సీతమ్మవారికి హనుమంతులవారు తనను ఎలా పరిచయం చేసుకున్నారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "sad"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 30,
+   "eleven": {
+    "voice1": "[softly, emotional] ఇంత పెద్ద లంకలో... సీతమ్మవారు దొరికారు ఒక చెట్టు కింద!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] రావణుడిని చూడడం, పుష్పక విమానాన్ని చూడడం, అశోకవనానికి వెళ్ళడం, చివరకు సీతమ్మవారిని దర్శించడం... ఇవన్నీ ఉన్నాయి. బంగారు భవనాలు, విమానాలు చూసినా హనుమంతులవారి మనసు సీతమ్మవారిని వెతకడం మీదే ఉంది. లక్ష్యం మీద దృష్టి ఉన్నవారే గెలుస్తారు.",
+    "voice4": "[curious, upbeat] సీతమ్మవారికి హనుమంతులవారు తనను ఎలా పరిచయం చేసుకున్నారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "నెలల తరువాత సీతమ్మవారి చేతిలో... శ్రీరాములవారి ఉంగరం!",
+    "screen": "శ్రీరాములవారి గుర్తు"
+   },
+   "meaning": {
+    "voice": "హనుమంతులవారు శ్రీరాములవారి గుర్తు అయిన ఉంగరం ఇవ్వడం, సీతమ్మవారితో మాట్లాడడం, రాక్షస స్త్రీలు సీతమ్మవారిని బెదిరించడం, త్రిజటకు వచ్చిన కల... ఇవన్నీ ఉన్నాయి. బెదిరింపుల మధ్యలో కూడా ఒక మంచి మాట, ఒక ఆశ వచ్చింది. చీకటిలో కూడా ఒక దీపం ఉంటుంది.",
+    "screen": "అభిజ్ఞానం | సీతా భాషణం | త్రిజటా స్వప్నం"
+   },
+   "end": {
+    "voice": "సీతమ్మవారు హనుమంతులవారికి తిరిగి ఏ గుర్తు ఇచ్చారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "సీతమ్మవారు హనుమంతులవారికి తిరిగి ఏ గుర్తు ఇచ్చారు? తరువాతి భాగంలో!",
+    "cta": 4
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Sita holding Rama's ring close to her heart",
+     "says": "నెలల తరువాత సీతమ్మవారి చేతిలో... శ్రీరాములవారి ఉంగరం!",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Rakshasi guards surrounding Sita and threatening her",
+     "says": "అభిజ్ఞానప్రదానం చ సీతాయాశ్చాపి భాషణమ్ । / రాక్షసీతర్జనం చైవ త్రిజటాస్వప్నదర్శనమ్ ॥ 31 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Sita sitting firm and dignified despite the threats",
+     "says": "హనుమంతులవారు శ్రీరాములవారి గుర్తు అయిన ఉంగరం ఇవ్వడం, సీతమ్మవారితో మాట్లాడడం, రాక్షస స్త్రీలు సీతమ్మవారిని బెదిరించడం, త్రిజటకు వచ్చిన కల...",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "The kind old rakshasi Trijata telling the others about her dream",
+     "says": "ఇవన్నీ ఉన్నాయి.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Hanuman speaking gently to Sita with folded hands",
+     "says": "బెదిరింపుల మధ్యలో కూడా ఒక మంచి మాట, ఒక ఆశ వచ్చింది.",
+     "mood": "calm"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a single lamp glowing in a dark grove",
+     "says": "చీకటిలో కూడా ఒక దీపం ఉంటుంది.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Sita taking out her chudamani jewel",
+     "says": "సీతమ్మవారు హనుమంతులవారికి తిరిగి ఏ గుర్తు ఇచ్చారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 31,
+   "eleven": {
+    "voice1": "[intrigued, warm] నెలల తరువాత సీతమ్మవారి చేతిలో... శ్రీరాములవారి ఉంగరం!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] హనుమంతులవారు శ్రీరాములవారి గుర్తు అయిన ఉంగరం ఇవ్వడం, సీతమ్మవారితో మాట్లాడడం, రాక్షస స్త్రీలు సీతమ్మవారిని బెదిరించడం, త్రిజటకు వచ్చిన కల... ఇవన్నీ ఉన్నాయి. బెదిరింపుల మధ్యలో కూడా ఒక మంచి మాట, ఒక ఆశ వచ్చింది. చీకటిలో కూడా ఒక దీపం ఉంటుంది.",
+    "voice4": "[curious, upbeat] సీతమ్మవారు హనుమంతులవారికి తిరిగి ఏ గుర్తు ఇచ్చారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "గుర్తు దొరికింది... ఇక హనుమంతులవారి బలం చూపించే సమయం!",
+    "screen": "చూడామణి!"
+   },
+   "meaning": {
+    "voice": "సీతమ్మవారు గుర్తుగా చూడామణి ఇవ్వడం, హనుమంతులవారు అశోకవనంలో చెట్లు విరగ్గొట్టడం, రాక్షస స్త్రీలు భయంతో పారిపోవడం, కింకరులనే రాక్షస సేవకులను సంహరించడం... ఇవన్నీ ఉన్నాయి. పని పూర్తయ్యాక, శత్రువు బలం ఎంతో తెలుసుకోవడానికి హనుమంతులవారు తన బలం చూపించారు.",
+    "screen": "మణి ప్రదానం | వృక్ష భంగం | కింకర వధ"
+   },
+   "end": {
+    "voice": "హనుమంతులవారిని బంధించిన తరువాత లంకకు ఏమైంది? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "హనుమంతులవారిని బంధించిన తరువాత లంకకు ఏమైంది? తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Close view of the chudamani shining in Hanuman's palm",
+     "says": "గుర్తు దొరికింది... ఇక హనుమంతులవారి బలం చూపించే సమయం!",
+     "mood": "heroic"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Sita giving her chudamani to Hanuman",
+     "says": "మణిప్రదానం సీతాయా వృక్షభఙ్గం తథైవ చ । / రాక్షసీవిద్రవం చైవ కింకరాణాం నిబర్హణమ్ ॥ 32 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Hanuman bowing to Sita before leaving",
+     "says": "సీతమ్మవారు గుర్తుగా చూడామణి ఇవ్వడం, హనుమంతులవారు అశోకవనంలో చెట్లు విరగ్గొట్టడం,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": true,
+     "shows": "Hanuman uprooting trees in the Ashoka grove",
+     "says": "రాక్షస స్త్రీలు భయంతో పారిపోవడం, కింకరులనే రాక్షస సేవకులను సంహరించడం...",
+     "mood": "heroic"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Rakshasa servants charging at Hanuman with weapons",
+     "says": "ఇవన్నీ ఉన్నాయి.",
+     "mood": "heroic"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": true,
+     "shows": "Hanuman rising calmly to his full height in the Ashoka grove, strong and fearless, ready to test the enemy's strength",
+     "says": "పని పూర్తయ్యాక, శత్రువు బలం ఎంతో తెలుసుకోవడానికి హనుమంతులవారు తన బలం చూపించారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Hanuman bound with ropes, standing calmly in a hall",
+     "says": "హనుమంతులవారిని బంధించిన తరువాత లంకకు ఏమైంది? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "heroic"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 32,
+   "eleven": {
+    "voice1": "[dramatic, powerful] గుర్తు దొరికింది... ఇక హనుమంతులవారి బలం చూపించే సమయం!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] సీతమ్మవారు గుర్తుగా చూడామణి ఇవ్వడం, హనుమంతులవారు అశోకవనంలో చెట్లు విరగ్గొట్టడం, రాక్షస స్త్రీలు భయంతో పారిపోవడం, కింకరులనే రాక్షస సేవకులను సంహరించడం... ఇవన్నీ ఉన్నాయి. పని పూర్తయ్యాక, శత్రువు బలం ఎంతో తెలుసుకోవడానికి హనుమంతులవారు తన బలం చూపించారు.",
+    "voice4": "[curious, upbeat] హనుమంతులవారిని బంధించిన తరువాత లంకకు ఏమైంది? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "తోకకు పెట్టిన నిప్పు... లంకనే కాల్చేసింది!",
+    "screen": "లంకా దహనం"
+   },
+   "meaning": {
+    "voice": "వాయుపుత్రుడైన హనుమంతులవారిని బంధించడం, ఆయన లంకను కాల్చి గర్జించడం, తిరిగి సముద్రం దాటి రావడం, వానరులు ఆనందంగా మధువనంలో తేనె తాగడం... ఇవన్నీ ఉన్నాయి. శుభవార్త తెచ్చినవారి సంతోషం అందరికీ పాకుతుంది.",
+    "screen": "వాయుసూను గ్రహణం | లంకా దహనం | మధువనం"
+   },
+   "end": {
+    "voice": "చూడామణి చూసిన శ్రీరాములవారు ఏం చేశారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "చూడామణి చూసిన శ్రీరాములవారు ఏం చేశారు? తరువాతి భాగంలో!",
+    "cta": 3
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Hanuman leaping across Lanka's rooftops with his tail aflame as the city burns",
+     "says": "తోకకు పెట్టిన నిప్పు... లంకనే కాల్చేసింది!",
+     "mood": "heroic"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Hanuman bound and standing fearlessly before ten-headed Ravana in his court",
+     "says": "గ్రహణం వాయుసూనోశ్చ లఙ్కాదాహాభిగర్జనమ్ । / ప్రతిప్లవనమేవాథ మధూనాం హరణం తథా ॥ 33 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": true,
+     "shows": "Hanuman standing on a tower, roaring as Lanka burns",
+     "says": "వాయుపుత్రుడైన హనుమంతులవారిని బంధించడం, ఆయన లంకను కాల్చి గర్జించడం,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": true,
+     "shows": "Hanuman flying back over the ocean",
+     "says": "తిరిగి సముద్రం దాటి రావడం, వానరులు ఆనందంగా మధువనంలో తేనె తాగడం...",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Vanaras happily drinking honey in the Madhuvana garden",
+     "says": "ఇవన్నీ ఉన్నాయి.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a ripple spreading across a pond",
+     "says": "శుభవార్త తెచ్చినవారి సంతోషం అందరికీ పాకుతుంది.",
+     "mood": "joyful"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Hanuman giving the chudamani to Rama",
+     "says": "చూడామణి చూసిన శ్రీరాములవారు ఏం చేశారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 33,
+   "eleven": {
+    "voice1": "[excited, bright] తోకకు పెట్టిన నిప్పు... లంకనే కాల్చేసింది!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] వాయుపుత్రుడైన హనుమంతులవారిని బంధించడం, ఆయన లంకను కాల్చి గర్జించడం, తిరిగి సముద్రం దాటి రావడం, వానరులు ఆనందంగా మధువనంలో తేనె తాగడం... ఇవన్నీ ఉన్నాయి. శుభవార్త తెచ్చినవారి సంతోషం అందరికీ పాకుతుంది.",
+    "voice4": "[curious, upbeat] చూడామణి చూసిన శ్రీరాములవారు ఏం చేశారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "సముద్రం మీద రాళ్ళతో దారి... ఇది ఎలా సాధ్యమైంది?",
+    "screen": "నల సేతువు"
+   },
+   "meaning": {
+    "voice": "హనుమంతులవారు శ్రీరాములవారిని ఓదార్చడం, సీతమ్మవారు ఇచ్చిన చూడామణిని అందించడం, సముద్రుడిని కలవడం, నలుడు సముద్రం మీద సేతువు కట్టడం... ఇవన్నీ ఉన్నాయి. అందరూ కలిసి రాయి రాయి పేర్చితే సముద్రం మీద కూడా దారి వస్తుంది. కలిసి పనిచేస్తే అసాధ్యం ఉండదు.",
+    "screen": "రాఘవ ఆశ్వాసనం | సముద్రుడు | సేతు బంధనం"
+   },
+   "end": {
+    "voice": "సముద్రం దాటిన శ్రీరాములవారి దగ్గరకు ఎవరు వచ్చారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+    "teaser": "సముద్రం దాటిన శ్రీరాములవారి దగ్గరకు ఎవరు వచ్చారు? తరువాతి భాగంలో!",
+    "cta": 2
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "A bridge of stones stretching across the ocean toward Lanka",
+     "says": "సముద్రం మీద రాళ్ళతో దారి... ఇది ఎలా సాధ్యమైంది?",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Rama embracing Hanuman warmly",
+     "says": "రాఘవాశ్వాసనం చైవ మణినిర్యాతనం తథా । / సంగమం చ సముద్రేణ నలసేతోశ్చ బన్ధనమ్ ॥ 34 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Rama holding Sita's chudamani to his heart",
+     "says": "హనుమంతులవారు శ్రీరాములవారిని ఓదార్చడం, సీతమ్మవారు ఇచ్చిన చూడామణిని అందించడం, సముద్రుడిని కలవడం, నలుడు సముద్రం మీద సేతువు కట్టడం...",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": true,
+     "shows": "Samudra Raja rising from the sea before Rama with folded hands",
+     "says": "ఇవన్నీ ఉన్నాయి.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Nala directing vanaras placing huge stones in the sea",
+     "says": "అందరూ కలిసి రాయి రాయి పేర్చితే సముద్రం మీద కూడా దారి వస్తుంది.",
+     "mood": "calm"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: many hands placing small stones one by one to form a path",
+     "says": "కలిసి పనిచేస్తే అసాధ్యం ఉండదు.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "The vanara army marching across the bridge toward Lanka",
+     "says": "సముద్రం దాటిన శ్రీరాములవారి దగ్గరకు ఎవరు వచ్చారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+     "mood": "heroic"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 34,
+   "eleven": {
+    "voice1": "[intrigued, warm] సముద్రం మీద రాళ్ళతో దారి... ఇది ఎలా సాధ్యమైంది?",
+    "voice2": "",
+    "voice3": "[warm, storytelling] హనుమంతులవారు శ్రీరాములవారిని ఓదార్చడం, సీతమ్మవారు ఇచ్చిన చూడామణిని అందించడం, సముద్రుడిని కలవడం, నలుడు సముద్రం మీద సేతువు కట్టడం... ఇవన్నీ ఉన్నాయి. అందరూ కలిసి రాయి రాయి పేర్చితే సముద్రం మీద కూడా దారి వస్తుంది. కలిసి పనిచేస్తే అసాధ్యం ఉండదు.",
+    "voice4": "[curious, upbeat] సముద్రం దాటిన శ్రీరాములవారి దగ్గరకు ఎవరు వచ్చారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "శత్రువు తమ్ముడే... శ్రీరాములవారికి మిత్రుడయ్యాడు!",
+    "screen": "విభీషణుడు"
+   },
+   "meaning": {
+    "voice": "వానర సేనతో సముద్రం దాటడం, రాత్రి వేళ లంకను ముట్టడించడం, విభీషణుడితో స్నేహం, రావణుడిని సంహరించే ఉపాయాన్ని విభీషణుడు చెప్పడం... ఇవన్నీ ఉన్నాయి. ధర్మం వైపు నిలిచినవాడు శత్రువు ఇంటివాడైనా శ్రీరాములవారికి మిత్రుడే.",
+    "screen": "సముద్ర ప్రతారం | లంకా ముట్టడి | విభీషణ సఖ్యం"
+   },
+   "end": {
+    "voice": "యుద్ధంలో శ్రీరాములవారి ముందు ఎవరెవరు నిలిచారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "యుద్ధంలో శ్రీరాములవారి ముందు ఎవరెవరు నిలిచారు? తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Vibhishana standing before Rama with folded hands",
+     "says": "శత్రువు తమ్ముడే... శ్రీరాములవారికి మిత్రుడయ్యాడు!",
+     "mood": "heroic"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "The vanara army crossing the bridge over the ocean",
+     "says": "ప్రతారం చ సముద్రస్య రాత్రౌ లఙ్కావరోధనమ్ । / విభీషణేన సంసర్గం వధోపాయనివేదనమ్ ॥ 35 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Rama, Lakshmana and Sugriva standing on the shore of Lanka",
+     "says": "వానర సేనతో సముద్రం దాటడం, రాత్రి వేళ లంకను ముట్టడించడం,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "The vanara army surrounding Lanka at night with torches",
+     "says": "విభీషణుడితో స్నేహం, రావణుడిని సంహరించే ఉపాయాన్ని విభీషణుడు చెప్పడం...",
+     "mood": "heroic"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Vibhishana explaining something to Rama by a fire",
+     "says": "ఇవన్నీ ఉన్నాయి.",
+     "mood": "heroic"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: two hands joining across a dividing line",
+     "says": "ధర్మం వైపు నిలిచినవాడు శత్రువు ఇంటివాడైనా శ్రీరాములవారికి మిత్రుడే.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": true,
+     "shows": "The giant Kumbhakarna striding onto the battlefield",
+     "says": "యుద్ధంలో శ్రీరాములవారి ముందు ఎవరెవరు నిలిచారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "heroic"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 35,
+   "eleven": {
+    "voice1": "[dramatic, powerful] శత్రువు తమ్ముడే... శ్రీరాములవారికి మిత్రుడయ్యాడు!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] వానర సేనతో సముద్రం దాటడం, రాత్రి వేళ లంకను ముట్టడించడం, విభీషణుడితో స్నేహం, రావణుడిని సంహరించే ఉపాయాన్ని విభీషణుడు చెప్పడం... ఇవన్నీ ఉన్నాయి. ధర్మం వైపు నిలిచినవాడు శత్రువు ఇంటివాడైనా శ్రీరాములవారికి మిత్రుడే.",
+    "voice4": "[curious, upbeat] యుద్ధంలో శ్రీరాములవారి ముందు ఎవరెవరు నిలిచారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "పది తలల రావణుడు... చివరికి ధర్మం ముందు ఓడిపోయాడు!",
+    "screen": "రావణ వధ"
+   },
+   "meaning": {
+    "voice": "కుంభకర్ణుడి వధ, మేఘనాదుడు అనే ఇంద్రజిత్తు వధ, రావణుడి నాశనం, శత్రువు నగరమైన లంకలో సీతమ్మవారిని తిరిగి పొందడం... ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి. అధర్మం ఎంత బలంగా కనిపించినా చివరికి ధర్మమే గెలుస్తుంది.",
+    "screen": "కుంభకర్ణ నిధనం | మేఘనాద వధ | రావణ వినాశం"
+   },
+   "end": {
+    "voice": "యుద్ధం తరువాత లంకకు రాజు ఎవరయ్యారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "యుద్ధం తరువాత లంకకు రాజు ఎవరయ్యారు? తరువాతి భాగంలో!",
+    "cta": 4
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Rama drawing his bow, facing ten-headed Ravana on the battlefield",
+     "says": "పది తలల రావణుడు... చివరికి ధర్మం ముందు ఓడిపోయాడు!",
+     "mood": "heroic"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": true,
+     "shows": "Kumbhakarna on the battlefield with a huge mace",
+     "says": "కుమ్భకర్ణస్య నిధనం మేఘనాదనిబర్హణమ్ । / రావణస్య వినాశం చ సీతావాప్తిమరేః పురే ॥ 36 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": true,
+     "shows": "Lakshmana facing Indrajit in battle",
+     "says": "కుంభకర్ణుడి వధ, మేఘనాదుడు అనే ఇంద్రజిత్తు వధ, రావణుడి నాశనం,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Ravana falling back in defeat on the battlefield",
+     "says": "శత్రువు నగరమైన లంకలో సీతమ్మవారిని తిరిగి పొందడం...",
+     "mood": "heroic"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Sita in the Ashoka grove with a gentle smile of relief",
+     "says": "ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: devas showering flowers from the sky",
+     "says": "అధర్మం ఎంత బలంగా కనిపించినా చివరికి ధర్మమే గెలుస్తుంది.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Vibhishana seated on the throne of Lanka",
+     "says": "యుద్ధం తరువాత లంకకు రాజు ఎవరయ్యారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "heroic"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 36,
+   "eleven": {
+    "voice1": "[dramatic, powerful] పది తలల రావణుడు... చివరికి ధర్మం ముందు ఓడిపోయాడు!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] కుంభకర్ణుడి వధ, మేఘనాదుడు అనే ఇంద్రజిత్తు వధ, రావణుడి నాశనం, శత్రువు నగరమైన లంకలో సీతమ్మవారిని తిరిగి పొందడం... ఇవన్నీ ఆ కావ్యంలో ఉన్నాయి. అధర్మం ఎంత బలంగా కనిపించినా చివరికి ధర్మమే గెలుస్తుంది.",
+    "voice4": "[curious, upbeat] యుద్ధం తరువాత లంకకు రాజు ఎవరయ్యారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "పద్నాలుగు ఏళ్ళ తరువాత... ఇంటి వైపు ప్రయాణం!",
+    "screen": "ఇంటి వైపు!"
+   },
+   "meaning": {
+    "voice": "విభీషణుడికి పట్టాభిషేకం, పుష్పక విమానం, అయోధ్యకు ప్రయాణం, దారిలో భరద్వాజ మహర్షిని కలవడం... ఇవన్నీ ఉన్నాయి. అడవికి వెళ్ళేటప్పుడు దారి చూపిన మహర్షినే తిరిగి వచ్చేటప్పుడూ దర్శించారు శ్రీరాములవారు. చేసిన మేలు మరువకూడదు.",
+    "screen": "విభీషణాభిషేకం | పుష్పకం | భరద్వాజ సమాగమం"
+   },
+   "end": {
+    "voice": "ముందుగా భరతులవారి దగ్గరకు ఎవరు వెళ్ళారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ముందుగా భరతులవారి దగ్గరకు ఎవరు వెళ్ళారు? తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "The Pushpaka vimana flying through the sky toward the north",
+     "says": "పద్నాలుగు ఏళ్ళ తరువాత... ఇంటి వైపు ప్రయాణం!",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Vibhishana being crowned king of Lanka as Rama blesses him",
+     "says": "బిభీషణాభిషేకం చ పుష్పకస్య చ దర్శనమ్ । / అయోధ్యాయాశ్చ గమనం భరద్వాజసమాగమమ్ ॥ 37 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Rama, Sita and Lakshmana inside the Pushpaka, looking down",
+     "says": "విభీషణుడికి పట్టాభిషేకం, పుష్పక విమానం, అయోధ్యకు ప్రయాణం, దారిలో భరద్వాజ మహర్షిని కలవడం...",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Rama and Sita bowing before Sage Bharadwaja at his ashram",
+     "says": "ఇవన్నీ ఉన్నాయి.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Rama bowing to Sage Bharadwaja at his ashram on the way back, the same sage who once showed him the way to the forest",
+     "says": "అడవికి వెళ్ళేటప్పుడు దారి చూపిన మహర్షినే తిరిగి వచ్చేటప్పుడూ దర్శించారు శ్రీరాములవారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a small lamp lit at a doorway, waiting",
+     "says": "చేసిన మేలు మరువకూడదు.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": true,
+     "shows": "Hanuman flying toward Nandigrama",
+     "says": "ముందుగా భరతులవారి దగ్గరకు ఎవరు వెళ్ళారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 37,
+   "eleven": {
+    "voice1": "[intrigued, warm] పద్నాలుగు ఏళ్ళ తరువాత... ఇంటి వైపు ప్రయాణం!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] విభీషణుడికి పట్టాభిషేకం, పుష్పక విమానం, అయోధ్యకు ప్రయాణం, దారిలో భరద్వాజ మహర్షిని కలవడం... ఇవన్నీ ఉన్నాయి. అడవికి వెళ్ళేటప్పుడు దారి చూపిన మహర్షినే తిరిగి వచ్చేటప్పుడూ దర్శించారు శ్రీరాములవారు. చేసిన మేలు మరువకూడదు.",
+    "voice4": "[curious, upbeat] ముందుగా భరతులవారి దగ్గరకు ఎవరు వెళ్ళారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "పద్నాలుగు ఏళ్ళ ఎదురుచూపు... ఈ ఒక్క క్షణం కోసం!",
+    "screen": "పట్టాభిషేకం"
+   },
+   "meaning": {
+    "voice": "హనుమంతులవారిని భరతులవారి దగ్గరకు పంపడం, భరతులవారిని కలవడం, శ్రీరామ పట్టాభిషేకం, సేనలను గౌరవంగా సాగనంపడం, ప్రజలను ఆనందంగా పాలించడం, సీతమ్మవారిని అడవికి పంపవలసి రావడం... ఇవన్నీ ఉన్నాయి. రాజుగా శ్రీరాములవారు ఎంత భారమైన నిర్ణయాలు మోశారో రామాయణం చెబుతుంది.",
+    "screen": "భరత సమాగమం | రామ పట్టాభిషేకం | వైదేహీ విసర్జనం"
+   },
+   "end": {
+    "voice": "ఇంకా జరగబోయేదాన్ని వాల్మీకి మహర్షి ఎక్కడ రాశారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఇంకా జరగబోయేదాన్ని వాల్మీకి మహర్షి ఎక్కడ రాశారు? తరువాతి భాగంలో!",
+    "cta": 3
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Rama crowned on the throne of Ayodhya with Sita beside him",
+     "says": "పద్నాలుగు ఏళ్ళ ఎదురుచూపు... ఈ ఒక్క క్షణం కోసం!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Rama embracing Bharata with tears of joy",
+     "says": "ప్రేషణం వాయుపుత్రస్య భరతేన సమాగమమ్ । / రామాభిషేకాభ్యుదయం సర్వసైన్యవిసర్జనమ్ । / స్వరాష్ట్రరఞ్జనం చైవ వైదేహ్యాశ్చ విసర్జనమ్ ॥ 38 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Hanuman bowing before Bharata with the good news",
+     "says": "హనుమంతులవారిని భరతులవారి దగ్గరకు పంపడం, భరతులవారిని కలవడం, శ్రీరామ పట్టాభిషేకం,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "The people of Ayodhya celebrating with lamps and flowers",
+     "says": "సేనలను గౌరవంగా సాగనంపడం, ప్రజలను ఆనందంగా పాలించడం, సీతమ్మవారిని అడవికి పంపవలసి రావడం...",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Rama honouring the vanara army with gifts as they take leave",
+     "says": "ఇవన్నీ ఉన్నాయి.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "King Rama sitting alone on his throne late at night, a lamp beside him, carrying the weight of a king's hard decisions",
+     "says": "రాజుగా శ్రీరాములవారు ఎంత భారమైన నిర్ణయాలు మోశారో రామాయణం చెబుతుంది.",
+     "mood": "sad"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Valmiki writing on palm-leaf manuscripts by lamplight",
+     "says": "ఇంకా జరగబోయేదాన్ని వాల్మీకి మహర్షి ఎక్కడ రాశారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 38,
+   "eleven": {
+    "voice1": "[excited, bright] పద్నాలుగు ఏళ్ళ ఎదురుచూపు... ఈ ఒక్క క్షణం కోసం!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] హనుమంతులవారిని భరతులవారి దగ్గరకు పంపడం, భరతులవారిని కలవడం, శ్రీరామ పట్టాభిషేకం, సేనలను గౌరవంగా సాగనంపడం, ప్రజలను ఆనందంగా పాలించడం, సీతమ్మవారిని అడవికి పంపవలసి రావడం... ఇవన్నీ ఉన్నాయి. రాజుగా శ్రీరాములవారు ఎంత భారమైన నిర్ణయాలు మోశారో రామాయణం చెబుతుంది.",
+    "voice4": "[curious, upbeat] ఇంకా జరగబోయేదాన్ని వాల్మీకి మహర్షి ఎక్కడ రాశారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "జరిగినదే కాదు... జరగబోయేది కూడా వాల్మీకి మహర్షి రాశారు!",
+    "screen": "జరగబోయేది కూడా!"
+   },
+   "meaning": {
+    "voice": "భూమి మీద శ్రీరాములవారి జీవితంలో ఇంకా జరగబోయేదంతా పూజ్యుడైన వాల్మీకి మహర్షి కావ్యపు చివరి భాగమైన ఉత్తరకాండలో రచించారు. అలా రామాయణంలో ఏమేమి ఉన్నాయో ఈ సర్గ మొత్తం మనకు చూపించింది. మొత్తం దారి తెలిసినవారే ప్రయాణాన్ని చక్కగా పూర్తి చేస్తారు.",
+    "screen": "అనాగతం | ఉత్తర కావ్యం | భగవాన్ ఋషి"
+   },
+   "end": {
+    "voice": "ఈ కావ్యాన్ని వాల్మీకి మహర్షి ఏ ఇద్దరు పిల్లలకు నేర్పారు? నాలుగవ సర్గలో చూద్దాం! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఈ కావ్యాన్ని వాల్మీకి మహర్షి ఏ ఇద్దరు పిల్లలకు నేర్పారు? నాలుగవ సర్గలో చూద్దాం!",
+    "cta": 4
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Valmiki surrounded by bundles of written palm-leaf manuscripts",
+     "says": "జరిగినదే కాదు... జరగబోయేది కూడా వాల్మీకి మహర్షి రాశారు!",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Valmiki tying a bundle of palm-leaf manuscripts with a cord",
+     "says": "అనాగతం చ యత్ కించిద్ రామస్య వసుధాతలే । / తచ్చకారోత్తరే కావ్యే వాల్మీకిర్భగవానృషిః ॥ 39 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Valmiki writing late at night, a lamp beside him",
+     "says": "భూమి మీద శ్రీరాములవారి జీవితంలో ఇంకా జరగబోయేదంతా పూజ్యుడైన వాల్మీకి మహర్షి కావ్యపు చివరి భాగమైన ఉత్తరకాండలో రచించారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Rama as king blessing the people of Ayodhya",
+     "says": "అలా రామాయణంలో ఏమేమి ఉన్నాయో ఈ సర్గ మొత్తం మనకు చూపించింది.",
+     "mood": "mystery"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Rama seated on the throne, listening to his people with care",
+     "says": "మొత్తం దారి తెలిసినవారే ప్రయాణాన్ని చక్కగా పూర్తి చేస్తారు.",
+     "mood": "mystery"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a long road stretching to the horizon, fully lit",
+     "says": "- **రిఫరెన్స్:** అవసరం లేదు",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Two young boys seated before Valmiki, listening eagerly",
+     "says": "ఈ కావ్యాన్ని వాల్మీకి మహర్షి ఏ ఇద్దరు పిల్లలకు నేర్పారు? నాలుగవ సర్గలో చూద్దాం! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 39,
+   "eleven": {
+    "voice1": "[mysterious, hushed] జరిగినదే కాదు... జరగబోయేది కూడా వాల్మీకి మహర్షి రాశారు!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] భూమి మీద శ్రీరాములవారి జీవితంలో ఇంకా జరగబోయేదంతా పూజ్యుడైన వాల్మీకి మహర్షి కావ్యపు చివరి భాగమైన ఉత్తరకాండలో రచించారు. అలా రామాయణంలో ఏమేమి ఉన్నాయో ఈ సర్గ మొత్తం మనకు చూపించింది. మొత్తం దారి తెలిసినవారే ప్రయాణాన్ని చక్కగా పూర్తి చేస్తారు.",
+    "voice4": "[curious, upbeat] ఈ కావ్యాన్ని వాల్మీకి మహర్షి ఏ ఇద్దరు పిల్లలకు నేర్పారు? నాలుగవ సర్గలో చూద్దాం! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  }
+ ]
+}

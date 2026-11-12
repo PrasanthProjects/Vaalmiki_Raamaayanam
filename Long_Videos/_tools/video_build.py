@@ -738,10 +738,10 @@ def build_video(i, parts, extras, splits, refs_used, kaanda_te, folder_name):
         card = {'no': str(n), 'time': f"{mmss(a)} – {mmss(a + secs)}", 'label': f"{item['label']} · {secs} సె",
                 'kind': vk,   # the clip's verdict: action (make the video) or image (user, 2026-11-11)
                 'narration': item['narration'], 'refs': refs, 'move': move, 'note': note,
-                'prompt': L.scene_prompt(s, kind, looks),
-                'imagePrompt': L.scene_prompt(s, 'image', looks, opening=(vk == 'video')),
-                'endImagePrompt': L.end_prompt(s, vk, looks, n),
-                'videoPrompt': L.video_prompt(s, vk, looks, n), 'advice': advice}
+                'prompt': L.scene_prompt(s, kind, looks, refs=refs),
+                'imagePrompt': L.scene_prompt(s, 'image', looks, opening=(vk == 'video'), refs=refs),
+                'endImagePrompt': L.end_prompt(s, vk, looks, n, refs=refs),
+                'videoPrompt': L.video_prompt(s, vk, looks, n, refs=refs), 'advice': advice}
         cards.append(card)
         head = '🎥 వీడియో' if kind == 'video' else '🖼️ ఇమేజ్ + కదలిక'
         star = ' · ✨ కొత్తది' if item['new'] else (' · 🔁 అదే నెరేషన్, కొత్త చిత్రం' if item.get('cont') else '')

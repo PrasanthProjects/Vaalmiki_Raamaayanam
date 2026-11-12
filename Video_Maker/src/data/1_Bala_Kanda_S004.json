@@ -1,0 +1,2708 @@
+{
+ "kanda": "1_Bala_Kanda",
+ "kandaEn": "Bala",
+ "kandaTe": "బాలకాండ",
+ "sarga": 4,
+ "slokas": [
+  {
+   "hook": {
+    "voice": "శ్రీరాములవారి కథ మొత్తం ఎప్పుడు రాశారో తెలుసా?",
+    "screen": "ఎప్పుడు రాశారు?"
+   },
+   "meaning": {
+    "voice": "శ్రీరాములవారు రాజ్యం పొందిన తరువాత, పూజ్యుడైన వాల్మీకి మహర్షి ఆయన చరిత్ర మొత్తాన్ని అద్భుతమైన మాటలతో, లోతైన అర్థంతో కావ్యంగా రాశారు. మంచి పనికి మంచి మాటలు తోడైతే అది తరతరాలు నిలుస్తుంది.",
+    "screen": "రాజ్యం పొందిన శ్రీరాములవారు | కృత్స్నం చరితం | విచిత్ర పదం"
+   },
+   "end": {
+    "voice": "ఆ కావ్యంలో ఎన్ని శ్లోకాలు ఉన్నాయో తెలుసా? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఆ కావ్యంలో ఎన్ని శ్లోకాలు ఉన్నాయో తెలుసా? తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Valmiki seated in his ashram writing on palm leaves with a stylus",
+     "says": "శ్రీరాములవారి కథ మొత్తం ఎప్పుడు రాశారో తెలుసా?",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Close view of Valmiki's stylus carving letters into a palm leaf",
+     "says": "ప్రాప్తరాజ్యస్య రామస్య వాల్మీకిర్భగవానృషిః । / చకార చరితం కృత్స్నం విచిత్రపదమర్థవత్ ॥ 1 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Valmiki pausing, looking up thoughtfully from his writing",
+     "says": "శ్రీరాములవారు రాజ్యం పొందిన తరువాత,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Rama seated as king on the throne of Ayodhya, calm and radiant",
+     "says": "పూజ్యుడైన వాల్మీకి మహర్షి ఆయన చరిత్ర మొత్తాన్ని అద్భుతమైన మాటలతో,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Bundles of finished palm-leaf manuscripts stacked beside Valmiki",
+     "says": "లోతైన అర్థంతో కావ్యంగా రాశారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a palm-leaf manuscript glowing softly on a wooden stand",
+     "says": "మంచి పనికి మంచి మాటలు తోడైతే అది తరతరాలు నిలుస్తుంది.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Valmiki sitting deep in thought beside his manuscripts",
+     "says": "ఆ కావ్యంలో ఎన్ని శ్లోకాలు ఉన్నాయో తెలుసా? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 1,
+   "eleven": {
+    "voice1": "[intrigued, warm] శ్రీరాములవారి కథ మొత్తం ఎప్పుడు రాశారో తెలుసా?",
+    "voice2": "",
+    "voice3": "[warm, storytelling] శ్రీరాములవారు రాజ్యం పొందిన తరువాత, పూజ్యుడైన వాల్మీకి మహర్షి ఆయన చరిత్ర మొత్తాన్ని అద్భుతమైన మాటలతో, లోతైన అర్థంతో కావ్యంగా రాశారు. మంచి పనికి మంచి మాటలు తోడైతే అది తరతరాలు నిలుస్తుంది.",
+    "voice4": "[curious, upbeat] ఆ కావ్యంలో ఎన్ని శ్లోకాలు ఉన్నాయో తెలుసా? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "రామాయణంలో ఎన్ని శ్లోకాలు ఉన్నాయో ఊహించగలరా?",
+    "screen": "ఎన్ని శ్లోకాలు?"
+   },
+   "meaning": {
+    "voice": "వాల్మీకి మహర్షి రామాయణంలో ఇరవై నాలుగు వేల శ్లోకాలు చెప్పారు. ఐదు వందల సర్గలు, ఆరు కాండలు, ఆ తరువాత ఉత్తరకాండ. ఇంత పెద్ద పనిని కూడా ఒక్కో శ్లోకంగా పూర్తి చేశారు.",
+    "screen": "24,000 శ్లోకాలు | 500 సర్గలు | 6 కాండలు + ఉత్తరకాండ"
+   },
+   "end": {
+    "voice": "ఇంత పెద్ద కావ్యం పూర్తయ్యాక వాల్మీకికి ఏ ఆలోచన వచ్చింది? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+    "teaser": "ఇంత పెద్ద కావ్యం పూర్తయ్యాక వాల్మీకికి ఏ ఆలోచన వచ్చింది? తరువాతి భాగంలో!",
+    "cta": 2
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "A tall stack of palm-leaf manuscript bundles in an ashram hut",
+     "says": "రామాయణంలో ఎన్ని శ్లోకాలు ఉన్నాయో ఊహించగలరా?",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Valmiki counting bundles of palm leaves, touching each one",
+     "says": "చతుర్వింశత్సహస్రాణి శ్లోకానాముక్తవానృషిః । / తథా సర్గశతాన్ పఞ్చ షట్కాణ్డాని తథోత్తరమ్ ॥ 2 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Valmiki tying a red thread around a bundle of leaves",
+     "says": "వాల్మీకి మహర్షి రామాయణంలో ఇరవై నాలుగు వేల శ్లోకాలు చెప్పారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Seven palm-leaf bundles placed in a neat row on a wooden stand",
+     "says": "ఐదు వందల సర్గలు, ఆరు కాండలు, ఆ తరువాత ఉత్తరకాండ.",
+     "mood": "mystery"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Valmiki looking proudly at the finished bundles",
+     "says": "ఇంత పెద్ద పనిని కూడా ఒక్కో శ్లోకంగా పూర్తి చేశారు.",
+     "mood": "mystery"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a single drop of water falling into a full river",
+     "says": "- **రిఫరెన్స్:** అవసరం లేదు",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": true,
+     "shows": "Valmiki gazing at the finished poem, thinking",
+     "says": "ఇంత పెద్ద కావ్యం పూర్తయ్యాక వాల్మీకికి ఏ ఆలోచన వచ్చింది? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 2,
+   "eleven": {
+    "voice1": "[mysterious, hushed] రామాయణంలో ఎన్ని శ్లోకాలు ఉన్నాయో ఊహించగలరా?",
+    "voice2": "",
+    "voice3": "[warm, storytelling] వాల్మీకి మహర్షి రామాయణంలో ఇరవై నాలుగు వేల శ్లోకాలు చెప్పారు. ఐదు వందల సర్గలు, ఆరు కాండలు, ఆ తరువాత ఉత్తరకాండ. ఇంత పెద్ద పనిని కూడా ఒక్కో శ్లోకంగా పూర్తి చేశారు.",
+    "voice4": "[curious, upbeat] ఇంత పెద్ద కావ్యం పూర్తయ్యాక వాల్మీకికి ఏ ఆలోచన వచ్చింది? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "కావ్యం రాసేశారు... కానీ వాల్మీకికి ఒక పెద్ద ప్రశ్న వచ్చింది!",
+    "screen": "ఎవరు పాడతారు?"
+   },
+   "meaning": {
+    "voice": "జరగబోయేదీ, ఉత్తరకాండతో సహా కావ్యం మొత్తం పూర్తి చేసిన మహాజ్ఞాని వాల్మీకి మహర్షి, \"దీన్ని లోకానికి ఎవరు వినిపిస్తారు?\" అని ఆలోచించారు. మంచి విషయం చేయడమే కాదు, అది అందరికీ చేరే దారి కూడా ఆలోచించాలి.",
+    "screen": "సభవిష్యం సహోత్తరం | కో ను ప్రయుఞ్జీయాత్ | ప్రభుః"
+   },
+   "end": {
+    "voice": "ఆ సమయంలో వాల్మీకి మహర్షి పాదాల దగ్గరికి ఎవరు వచ్చారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఆ సమయంలో వాల్మీకి మహర్షి పాదాల దగ్గరికి ఎవరు వచ్చారు? తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Valmiki sitting before his finished palm-leaf manuscripts, deep in thought",
+     "says": "కావ్యం రాసేశారు... కానీ వాల్మీకికి ఒక పెద్ద ప్రశ్న వచ్చింది!",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Valmiki holding one palm leaf, reading it quietly",
+     "says": "కృత్వా తు తన్మహాప్రాజ్ఞః సభవిష్యం సహోత్తరమ్ । / చిన్తయామాస కో న్వేతత్ ప్రయుఞ్జీయాదితి ప్రభుః ॥ 3 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Valmiki looking out of his hut towards the forest path",
+     "says": "జరగబోయేదీ, ఉత్తరకాండతో సహా కావ్యం మొత్తం పూర్తి చేసిన మహాజ్ఞాని వాల్మీకి మహర్షి,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Valmiki walking slowly in the ashram courtyard, hands behind his back",
+     "says": "\"దీన్ని లోకానికి ఎవరు వినిపిస్తారు?",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Close view of Valmiki's thoughtful face",
+     "says": "\" అని ఆలోచించారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a lamp lit in a dark room, its light reaching the door",
+     "says": "మంచి విషయం చేయడమే కాదు, అది అందరికీ చేరే దారి కూడా ఆలోచించాలి.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Two young boys in simple sage clothing walking up the ashram path towards the hut",
+     "says": "ఆ సమయంలో వాల్మీకి మహర్షి పాదాల దగ్గరికి ఎవరు వచ్చారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 3,
+   "eleven": {
+    "voice1": "[intrigued, warm] కావ్యం రాసేశారు... కానీ వాల్మీకికి ఒక పెద్ద ప్రశ్న వచ్చింది!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] జరగబోయేదీ, ఉత్తరకాండతో సహా కావ్యం మొత్తం పూర్తి చేసిన మహాజ్ఞాని వాల్మీకి మహర్షి, \"దీన్ని లోకానికి ఎవరు వినిపిస్తారు?\" అని ఆలోచించారు. మంచి విషయం చేయడమే కాదు, అది అందరికీ చేరే దారి కూడా ఆలోచించాలి.",
+    "voice4": "[curious, upbeat] ఆ సమయంలో వాల్మీకి మహర్షి పాదాల దగ్గరికి ఎవరు వచ్చారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "వాల్మీకి మహర్షి ఆలోచిస్తుంటే... సమాధానం నేరుగా ఆయన పాదాల దగ్గరికే వచ్చింది!",
+    "screen": "సమాధానం వచ్చింది!"
+   },
+   "meaning": {
+    "voice": "మనసు నిర్మలమైన వాల్మీకి మహర్షి అలా ఆలోచిస్తుండగానే, మునుల వేషంలో ఉన్న కుశుడు, లవుడు వచ్చి ఆయన పాదాలు పట్టుకున్నారు. మనం మంచి కోసం వెతుకుతుంటే, దారి తనంతట తానే దగ్గరికి వస్తుంది.",
+    "screen": "చిన్తయమానస్య | మునివేషౌ | కుశీలవౌ"
+   },
+   "end": {
+    "voice": "కుశలవుల గురించి వాల్మీకి మహర్షి ఏం గమనించారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+    "teaser": "కుశలవుల గురించి వాల్మీకి మహర్షి ఏం గమనించారు? తరువాతి భాగంలో!",
+    "cta": 2
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Two young boys in sage clothing kneeling at Valmiki's feet",
+     "says": "వాల్మీకి మహర్షి ఆలోచిస్తుంటే... సమాధానం నేరుగా ఆయన పాదాల దగ్గరికే వచ్చింది!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Valmiki looking down in surprise at the two boys bowing",
+     "says": "తస్య చిన్తయమానస్య మహర్షేర్భావితాత్మనః । / అగృహ్ణీతాం తతః పాదౌ మునివేషౌ కుశీలవౌ ॥ 4 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Close view of the two boys' joined palms at Valmiki's feet",
+     "says": "మనసు నిర్మలమైన వాల్మీకి మహర్షి అలా ఆలోచిస్తుండగానే,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Valmiki placing his hands on the heads of the two boys in blessing",
+     "says": "మునుల వేషంలో ఉన్న కుశుడు,",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "The two boys standing up before Valmiki, bright-eyed and humble",
+     "says": "లవుడు వచ్చి ఆయన పాదాలు పట్టుకున్నారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: two lotus buds opening at the feet of a stone step by a river",
+     "says": "మనం మంచి కోసం వెతుకుతుంటే, దారి తనంతట తానే దగ్గరికి వస్తుంది.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Valmiki smiling at the two boys, an idea dawning on his face",
+     "says": "కుశలవుల గురించి వాల్మీకి మహర్షి ఏం గమనించారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 4,
+   "eleven": {
+    "voice1": "[excited, bright] వాల్మీకి మహర్షి ఆలోచిస్తుంటే... సమాధానం నేరుగా ఆయన పాదాల దగ్గరికే వచ్చింది!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] మనసు నిర్మలమైన వాల్మీకి మహర్షి అలా ఆలోచిస్తుండగానే, మునుల వేషంలో ఉన్న కుశుడు, లవుడు వచ్చి ఆయన పాదాలు పట్టుకున్నారు. మనం మంచి కోసం వెతుకుతుంటే, దారి తనంతట తానే దగ్గరికి వస్తుంది.",
+    "voice4": "[curious, upbeat] కుశలవుల గురించి వాల్మీకి మహర్షి ఏం గమనించారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "ఆశ్రమంలో పెరిగిన ఈ ఇద్దరు పిల్లలు... నిజానికి రాకుమారులు!",
+    "screen": "రాకుమారులు!"
+   },
+   "meaning": {
+    "voice": "ధర్మం తెలిసినవారు, కీర్తి కలవారు, రాకుమారులు, తియ్యని స్వరం ఉన్న అన్నదమ్ములు కుశలవులు. ఆశ్రమంలో ఉంటున్న వారిని వాల్మీకి మహర్షి చూశారు. ఎక్కడ పెరిగినా మంచి గుణాలే మనిషికి అసలైన కిరీటం.",
+    "screen": "ధర్మజ్ఞౌ | రాజపుత్రౌ | స్వరసంపన్నౌ"
+   },
+   "end": {
+    "voice": "ఈ పిల్లలకు వాల్మీకి మహర్షి ఏం నేర్పారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఈ పిల్లలకు వాల్మీకి మహర్షి ఏం నేర్పారు? తరువాతి భాగంలో!",
+    "cta": 3
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Lava and Kusha walking through the ashram carrying water pots, princely yet humble",
+     "says": "ఆశ్రమంలో పెరిగిన ఈ ఇద్దరు పిల్లలు... నిజానికి రాకుమారులు!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Valmiki watching the two boys from his hut doorway with a fond smile",
+     "says": "కుశీలవౌ తు ధర్మజ్ఞౌ రాజపుత్రౌ యశస్వినౌ । / భ్రాతరౌ స్వరసంపన్నౌ దదర్శాశ్రమవాసినౌ ॥ 5 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: Valmiki watching the two boys from his hut doorway with a fond smile",
+     "says": "ధర్మం తెలిసినవారు, కీర్తి కలవారు, రాకుమారులు,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "The two brothers sitting under a tree singing together",
+     "says": "తియ్యని స్వరం ఉన్న అన్నదమ్ములు కుశలవులు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Valmiki looking with affection at Lava and Kusha, the two bright boys living in his ashram",
+     "says": "ఆశ్రమంలో ఉంటున్న వారిని వాల్మీకి మహర్షి చూశారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": true,
+     "shows": "Symbolic shot: a small crown made of flowers resting on a simple wooden seat",
+     "says": "ఎక్కడ పెరిగినా మంచి గుణాలే మనిషికి అసలైన కిరీటం.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "The two boys seated before Valmiki, ready to learn",
+     "says": "ఈ పిల్లలకు వాల్మీకి మహర్షి ఏం నేర్పారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 5,
+   "eleven": {
+    "voice1": "[excited, bright] ఆశ్రమంలో పెరిగిన ఈ ఇద్దరు పిల్లలు... నిజానికి రాకుమారులు!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] ధర్మం తెలిసినవారు, కీర్తి కలవారు, రాకుమారులు, తియ్యని స్వరం ఉన్న అన్నదమ్ములు కుశలవులు. ఆశ్రమంలో ఉంటున్న వారిని వాల్మీకి మహర్షి చూశారు. ఎక్కడ పెరిగినా మంచి గుణాలే మనిషికి అసలైన కిరీటం.",
+    "voice4": "[curious, upbeat] ఈ పిల్లలకు వాల్మీకి మహర్షి ఏం నేర్పారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "వేదాలు నేర్చుకున్న పిల్లలకు వాల్మీకి మహర్షి ఇంకా ఏం నేర్పారు?",
+    "screen": "ఏం నేర్పారు?"
+   },
+   "meaning": {
+    "voice": "తెలివైనవారు, వేదాలలో బాగా నేర్చుకున్నవారు అయిన ఆ ఇద్దరినీ చూసి, వేదాల అర్థాన్ని ఇంకా విస్తరించి చెప్పడం కోసం వాల్మీకి మహర్షి ఈ కావ్యాన్ని వారికి నేర్పించారు. మంచి విద్యార్థికి గురువు తన దగ్గర ఉన్న ఉత్తమమైనదే ఇస్తారు.",
+    "screen": "మేధావినౌ | వేదేషు పరినిష్ఠితౌ | వేదోపబృంహణం"
+   },
+   "end": {
+    "voice": "ఆ కావ్యం పేరు ఏమిటి? అందులో ఏముంది? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఆ కావ్యం పేరు ఏమిటి? అందులో ఏముంది? తరువాతి భాగంలో!",
+    "cta": 4
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Valmiki teaching Lava and Kusha seated on deer-skin mats under a tree",
+     "says": "వేదాలు నేర్చుకున్న పిల్లలకు వాల్మీకి మహర్షి ఇంకా ఏం నేర్పారు?",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Valmiki holding up a palm leaf and explaining it to the boys",
+     "says": "స తు మేధావినౌ దృష్ట్వా వేదేషు పరినిష్ఠితౌ । / వేదోపబృంహణార్థాయ తావగ్రాహయత ప్రభుః ॥ 6 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: Valmiki holding up a palm leaf and explaining it to the boys",
+     "says": "తెలివైనవారు, వేదాలలో బాగా నేర్చుకున్నవారు అయిన ఆ ఇద్దరినీ చూసి,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Lava and Kusha listening with full attention, eyes bright",
+     "says": "వేదాల అర్థాన్ని ఇంకా విస్తరించి చెప్పడం కోసం వాల్మీకి మహర్షి ఈ కావ్యాన్ని వారికి నేర్పించారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Valmiki teaching the poem to Lava and Kusha, who sit before him repeating the verses with joined palms",
+     "says": "మంచి విద్యార్థికి గురువు తన దగ్గర ఉన్న ఉత్తమమైనదే ఇస్తారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": true,
+     "shows": "Symbolic shot: a small river flowing out of a great ocean, widening as it goes",
+     "says": "- **రిఫరెన్స్:** అవసరం లేదు",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Valmiki opening a bundle of palm leaves before the boys",
+     "says": "ఆ కావ్యం పేరు ఏమిటి? అందులో ఏముంది? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 6,
+   "eleven": {
+    "voice1": "[intrigued, warm] వేదాలు నేర్చుకున్న పిల్లలకు వాల్మీకి మహర్షి ఇంకా ఏం నేర్పారు?",
+    "voice2": "",
+    "voice3": "[warm, storytelling] తెలివైనవారు, వేదాలలో బాగా నేర్చుకున్నవారు అయిన ఆ ఇద్దరినీ చూసి, వేదాల అర్థాన్ని ఇంకా విస్తరించి చెప్పడం కోసం వాల్మీకి మహర్షి ఈ కావ్యాన్ని వారికి నేర్పించారు. మంచి విద్యార్థికి గురువు తన దగ్గర ఉన్న ఉత్తమమైనదే ఇస్తారు.",
+    "voice4": "[curious, upbeat] ఆ కావ్యం పేరు ఏమిటి? అందులో ఏముంది? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "రామాయణానికి వాల్మీకి మహర్షి ఇంకా రెండు పేర్లు చెప్పారు... తెలుసా?",
+    "screen": "మూడు పేర్లు!"
+   },
+   "meaning": {
+    "voice": "నియమంగా జీవించే వాల్మీకి మహర్షి, ఆ కావ్యాన్ని రామాయణం అని, సీతమ్మవారి యొక్క గొప్ప చరిత్ర అని, పౌలస్త్యుడైన రావణుడి వధ అని చెప్పారు. రామాయణం శ్రీరాములవారి కథ మాత్రమే కాదు, సీతమ్మవారి త్యాగపు కథ కూడా.",
+    "screen": "రామాయణం | సీతాయాశ్చరితం మహత్ | పౌలస్త్యవధ"
+   },
+   "end": {
+    "voice": "ఈ కావ్యం పాడటానికి ఎలా ఉంది? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+    "teaser": "ఈ కావ్యం పాడటానికి ఎలా ఉంది? తరువాతి భాగంలో!",
+    "cta": 2
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Valmiki holding up a bundle of palm leaves tied with a red thread",
+     "says": "రామాయణానికి వాల్మీకి మహర్షి ఇంకా రెండు పేర్లు చెప్పారు... తెలుసా?",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Valmiki explaining the poem to Lava and Kusha",
+     "says": "కావ్యం రామాయణం కృత్స్నం సీతాయాశ్చరితం మహత్ । / పౌలస్త్యవధమిత్యేవం చకార చరితవ్రతః ॥ 7 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: Valmiki explaining the poem to Lava and Kusha",
+     "says": "నియమంగా జీవించే వాల్మీకి మహర్షి, ఆ కావ్యాన్ని రామాయణం అని,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Valmiki, disciplined and serene, naming the great poem Ramayana as the two boys listen",
+     "says": "సీతమ్మవారి యొక్క గొప్ప చరిత్ర అని,",
+     "mood": "mystery"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "A memory from the story: Sita seated with dignity under the Ashoka tree, and Rama's victory in a soft golden glow beside it",
+     "says": "పౌలస్త్యుడైన రావణుడి వధ అని చెప్పారు.",
+     "mood": "heroic"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: three lamps lit one after another on a wooden stand",
+     "says": "రామాయణం శ్రీరాములవారి కథ మాత్రమే కాదు, సీతమ్మవారి త్యాగపు కథ కూడా.",
+     "mood": "mystery"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Lava and Kusha holding the palm-leaf poem, eager to sing",
+     "says": "ఈ కావ్యం పాడటానికి ఎలా ఉంది? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 7,
+   "eleven": {
+    "voice1": "[mysterious, hushed] రామాయణానికి వాల్మీకి మహర్షి ఇంకా రెండు పేర్లు చెప్పారు... తెలుసా?",
+    "voice2": "",
+    "voice3": "[warm, storytelling] నియమంగా జీవించే వాల్మీకి మహర్షి, ఆ కావ్యాన్ని రామాయణం అని, సీతమ్మవారి యొక్క గొప్ప చరిత్ర అని, పౌలస్త్యుడైన రావణుడి వధ అని చెప్పారు. రామాయణం శ్రీరాములవారి కథ మాత్రమే కాదు, సీతమ్మవారి త్యాగపు కథ కూడా.",
+    "voice4": "[curious, upbeat] ఈ కావ్యం పాడటానికి ఎలా ఉంది? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "రామాయణం చదవడానికే కాదు... పాడడానికి కూడా రాసిన కావ్యం!",
+    "screen": "పాట కావ్యం!"
+   },
+   "meaning": {
+    "voice": "ఈ కావ్యం చదవడానికీ, పాడడానికీ తియ్యగా ఉంటుంది. మూడు వేగాలలో, ఏడు స్వర జాతులతో, వీణ తంత్రి, తాళానికి సరిపోయేలా ఉంటుంది. మంచి విషయం అందంగా చెబితే అది మనసులో ఎక్కువ కాలం నిలుస్తుంది.",
+    "screen": "పాఠ్యే గేయే చ మధురం | సప్త జాతులు | తంత్రీలయ"
+   },
+   "end": {
+    "voice": "ఈ కావ్యంలో ఏ ఏ రసాలు ఉన్నాయి? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఈ కావ్యంలో ఏ ఏ రసాలు ఉన్నాయి? తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Lava and Kusha seated beside a veena in the ashram, ready to sing",
+     "says": "రామాయణం చదవడానికే కాదు... పాడడానికి కూడా రాసిన కావ్యం!",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "The two boys singing together, one keeping rhythm with his hand",
+     "says": "పాఠ్యే గేయే చ మధురం ప్రమాణైస్త్రిభిరన్వితమ్ । / జాతిభిః సప్తభిర్యుక్తం తన్త్రీలయసమన్వితమ్ ॥ 8 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: The two boys singing together, one keeping rhythm with his hand",
+     "says": "ఈ కావ్యం చదవడానికీ, పాడడానికీ తియ్యగా ఉంటుంది.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Close view of fingers gently plucking the strings of a veena",
+     "says": "మూడు వేగాలలో, ఏడు స్వర జాతులతో,",
+     "mood": "mystery"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "The brothers singing with closed eyes, absorbed in the music",
+     "says": "వీణ తంత్రి, తాళానికి సరిపోయేలా ఉంటుంది.",
+     "mood": "mystery"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": true,
+     "shows": "Symbolic shot: musical notes made of golden light rising from veena strings",
+     "says": "మంచి విషయం అందంగా చెబితే అది మనసులో ఎక్కువ కాలం నిలుస్తుంది.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Lava and Kusha singing while birds gather on nearby branches",
+     "says": "ఈ కావ్యంలో ఏ ఏ రసాలు ఉన్నాయి? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 8,
+   "eleven": {
+    "voice1": "[mysterious, hushed] రామాయణం చదవడానికే కాదు... పాడడానికి కూడా రాసిన కావ్యం!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] ఈ కావ్యం చదవడానికీ, పాడడానికీ తియ్యగా ఉంటుంది. మూడు వేగాలలో, ఏడు స్వర జాతులతో, వీణ తంత్రి, తాళానికి సరిపోయేలా ఉంటుంది. మంచి విషయం అందంగా చెబితే అది మనసులో ఎక్కువ కాలం నిలుస్తుంది.",
+    "voice4": "[curious, upbeat] ఈ కావ్యంలో ఏ ఏ రసాలు ఉన్నాయి? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "ఒక్క కావ్యంలో ప్రేమ, కరుణ, నవ్వు, వీరం... అన్నీ ఉన్నాయి!",
+    "screen": "అన్ని రసాలు!"
+   },
+   "meaning": {
+    "voice": "శృంగారం, కరుణ, హాస్యం, రౌద్రం, భయానకం, వీరం మొదలైన రసాలతో నిండిన ఈ కావ్యాన్ని కుశలవులు పాడారు. జీవితంలో అన్ని భావాలూ ఉంటాయి, వాటన్నింటినీ ధర్మంతో నడిపించడమే రామాయణం నేర్పేది.",
+    "screen": "కరుణ | వీరం | హాస్యం | రౌద్రం"
+   },
+   "end": {
+    "voice": "ఈ ఇద్దరు గాయకులు ఎలా ఉన్నారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+    "teaser": "ఈ ఇద్దరు గాయకులు ఎలా ఉన్నారు? తరువాతి భాగంలో!",
+    "cta": 2
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Lava and Kusha singing, their faces showing deep feeling",
+     "says": "ఒక్క కావ్యంలో ప్రేమ, కరుణ, నవ్వు, వీరం... అన్నీ ఉన్నాయి!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "The two boys singing with expressive hand gestures",
+     "says": "రసైః శృఙ్గారకరుణహాస్యరౌద్రభయానకైః । / వీరాదిభీ రసైర్యుక్తం కావ్యమేతదగాయతామ్ ॥ 9 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: The two boys singing with expressive hand gestures",
+     "says": "శృంగారం, కరుణ, హాస్యం, రౌద్రం, భయానకం,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "A painted storybook panel showing the joyful wedding of Rama and Sita",
+     "says": "వీరం మొదలైన రసాలతో నిండిన ఈ కావ్యాన్ని కుశలవులు పాడారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Lava and Kusha singing the poem with full feeling, one playing a veena, at the ashram",
+     "says": "జీవితంలో అన్ని భావాలూ ఉంటాయి,",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: many colours of light blending into one white light",
+     "says": "వాటన్నింటినీ ధర్మంతో నడిపించడమే రామాయణం నేర్పేది.",
+     "mood": "mystery"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "The brothers smiling as they finish a verse",
+     "says": "ఈ ఇద్దరు గాయకులు ఎలా ఉన్నారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 9,
+   "eleven": {
+    "voice1": "[excited, bright] ఒక్క కావ్యంలో ప్రేమ, కరుణ, నవ్వు, వీరం... అన్నీ ఉన్నాయి!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] శృంగారం, కరుణ, హాస్యం, రౌద్రం, భయానకం, వీరం మొదలైన రసాలతో నిండిన ఈ కావ్యాన్ని కుశలవులు పాడారు. జీవితంలో అన్ని భావాలూ ఉంటాయి, వాటన్నింటినీ ధర్మంతో నడిపించడమే రామాయణం నేర్పేది.",
+    "voice4": "[curious, upbeat] ఈ ఇద్దరు గాయకులు ఎలా ఉన్నారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "ఈ ఇద్దరు పాడుతుంటే... గంధర్వులే దిగి వచ్చినట్టు ఉండేది!",
+    "screen": "గంధర్వుల్లా!"
+   },
+   "meaning": {
+    "voice": "సంగీత శాస్త్రం తెలిసినవారు, స్వరం ఎక్కడ పలకాలో, రాగం ఎలా సాగాలో బాగా తెలిసినవారు, మధుర స్వరం ఉన్న ఆ అన్నదమ్ములు రూపంలో గంధర్వుల్లా ఉన్నారు. కళను శ్రద్ధగా నేర్చుకుంటే అది మనల్ని వెలిగిస్తుంది.",
+    "screen": "గాంధర్వతత్త్వజ్ఞౌ | స్థానమూర్ఛనకోవిదౌ | గంధర్వావివ"
+   },
+   "end": {
+    "voice": "వాళ్ళు ఎవరి లాగా కనిపించారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "వాళ్ళు ఎవరి లాగా కనిపించారు? తరువాతి భాగంలో!",
+    "cta": 3
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Lava and Kusha singing in the ashram, a soft radiance around them",
+     "says": "ఈ ఇద్దరు పాడుతుంటే... గంధర్వులే దిగి వచ్చినట్టు ఉండేది!",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Lava tuning the strings of a veena while Kusha hums the note",
+     "says": "తౌ తు గాన్ధర్వతత్త్వజ్ఞౌ స్థానమూర్చ్ఛనకోవిదౌ । / భ్రాతరౌ స్వరసమ్పన్నౌ గన్ధర్వావివ రూపిణౌ ॥ 10 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: Lava tuning the strings of a veena while Kusha hums the note",
+     "says": "సంగీత శాస్త్రం తెలిసినవారు, స్వరం ఎక్కడ పలకాలో,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Close view of the brothers singing in perfect harmony",
+     "says": "రాగం ఎలా సాగాలో బాగా తెలిసినవారు,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "The two boys glowing gently like celestial singers in golden light",
+     "says": "మధుర స్వరం ఉన్న ఆ అన్నదమ్ములు రూపంలో గంధర్వుల్లా ఉన్నారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a celestial gandharva's veena shining among clouds",
+     "says": "కళను శ్రద్ధగా నేర్చుకుంటే అది మనల్ని వెలిగిస్తుంది.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "The brothers bowing after finishing a song",
+     "says": "వాళ్ళు ఎవరి లాగా కనిపించారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 10,
+   "eleven": {
+    "voice1": "[intrigued, warm] ఈ ఇద్దరు పాడుతుంటే... గంధర్వులే దిగి వచ్చినట్టు ఉండేది!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] సంగీత శాస్త్రం తెలిసినవారు, స్వరం ఎక్కడ పలకాలో, రాగం ఎలా సాగాలో బాగా తెలిసినవారు, మధుర స్వరం ఉన్న ఆ అన్నదమ్ములు రూపంలో గంధర్వుల్లా ఉన్నారు. కళను శ్రద్ధగా నేర్చుకుంటే అది మనల్ని వెలిగిస్తుంది.",
+    "voice4": "[curious, upbeat] వాళ్ళు ఎవరి లాగా కనిపించారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "ఈ ఇద్దరు పిల్లలను చూస్తే... అచ్చం ఎవరిలా ఉన్నారు?",
+    "screen": "ఎవరిలా?"
+   },
+   "meaning": {
+    "voice": "అందమైన రూపం, శుభ లక్షణాలు, తియ్యని మాటలు ఉన్న ఆ ఇద్దరు, ఒక బింబం నుండి వచ్చిన రెండు ప్రతిబింబాల్లా, శ్రీరాములవారి దేహం నుండే వచ్చిన మరో ఇద్దరిలా ఉన్నారు. పిల్లల్లో తల్లిదండ్రుల పోలిక కనిపించడం ఎంత ముచ్చటో!",
+    "screen": "రూపలక్షణసంపన్నౌ | బింబాదివోత్థితౌ బింబౌ | రామదేహాత్"
+   },
+   "end": {
+    "voice": "ఈ గాయకులు కావ్యాన్ని ఎంత బాగా నేర్చుకున్నారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఈ గాయకులు కావ్యాన్ని ఎంత బాగా నేర్చుకున్నారు? తరువాతి భాగంలో!",
+    "cta": 4
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Close view of the faces of Lava and Kusha, noble and radiant",
+     "says": "ఈ ఇద్దరు పిల్లలను చూస్తే... అచ్చం ఎవరిలా ఉన్నారు?",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "The two boys singing side by side",
+     "says": "రూపలక్షణసమ్పన్నౌ మధురస్వరభాషిణౌ । / బిమ్బాదివోత్థితౌ బిమ్బౌ రామదేహాత్ తథాపరౌ ॥ 11 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: The two boys singing side by side",
+     "says": "అందమైన రూపం, శుభ లక్షణాలు, తియ్యని మాటలు ఉన్న ఆ ఇద్దరు,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "A calm lake reflecting a radiant blue sky, two reflections side by side",
+     "says": "ఒక బింబం నుండి వచ్చిన రెండు ప్రతిబింబాల్లా,",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Rama as king standing in his palace, looking into the distance with a calm smile",
+     "says": "శ్రీరాములవారి దేహం నుండే వచ్చిన మరో ఇద్దరిలా ఉన్నారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a lamp lighting two more lamps from its own flame",
+     "says": "పిల్లల్లో తల్లిదండ్రుల పోలిక కనిపించడం ఎంత ముచ్చటో!",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Lava and Kusha practising the poem together",
+     "says": "ఈ గాయకులు కావ్యాన్ని ఎంత బాగా నేర్చుకున్నారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 11,
+   "eleven": {
+    "voice1": "[excited, bright] ఈ ఇద్దరు పిల్లలను చూస్తే... అచ్చం ఎవరిలా ఉన్నారు?",
+    "voice2": "",
+    "voice3": "[warm, storytelling] అందమైన రూపం, శుభ లక్షణాలు, తియ్యని మాటలు ఉన్న ఆ ఇద్దరు, ఒక బింబం నుండి వచ్చిన రెండు ప్రతిబింబాల్లా, శ్రీరాములవారి దేహం నుండే వచ్చిన మరో ఇద్దరిలా ఉన్నారు. పిల్లల్లో తల్లిదండ్రుల పోలిక కనిపించడం ఎంత ముచ్చటో!",
+    "voice4": "[curious, upbeat] ఈ గాయకులు కావ్యాన్ని ఎంత బాగా నేర్చుకున్నారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "24,000 శ్లోకాలు... పుస్తకం చూడకుండా!",
+    "screen": "నోటికి!"
+   },
+   "meaning": {
+    "voice": "ఆ రాకుమారులు ధర్మంతో నిండిన, ఉత్తమమైన, ఏ దోషమూ లేని ఆ కావ్యాన్ని మొత్తం నోటికి వచ్చేలా నేర్చుకున్నారు. శ్రద్ధగా సాధన చేస్తే ఎంత పెద్ద విషయమైనా మనదవుతుంది.",
+    "screen": "కార్త్స్న్యేన | ధర్మ్యమాఖ్యానం | వాచోవిధేయం"
+   },
+   "end": {
+    "voice": "ఇలా నేర్చుకున్న కావ్యాన్ని వారు ఎక్కడ పాడారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+    "teaser": "ఇలా నేర్చుకున్న కావ్యాన్ని వారు ఎక్కడ పాడారు? తరువాతి భాగంలో!",
+    "cta": 2
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Lava and Kusha reciting with closed eyes, no palm leaves in hand",
+     "says": "24,000 శ్లోకాలు... పుస్తకం చూడకుండా!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "The brothers reciting verses one after the other, taking turns",
+     "says": "తౌ రాజపుత్రౌ కార్త్స్న్యేన ధర్మ్యమాఖ్యానముత్తమమ్ । / వాచోవిధేయం తత్సర్వం కృత్వా కావ్యమనిన్దితౌ ॥ 12 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: The brothers reciting verses one after the other, taking turns",
+     "says": "ఆ రాకుమారులు ధర్మంతో నిండిన, ఉత్తమమైన,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Valmiki listening to the boys with a proud smile",
+     "says": "ఏ దోషమూ లేని ఆ కావ్యాన్ని మొత్తం నోటికి వచ్చేలా నేర్చుకున్నారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "The boys counting verses on their fingers as they recite",
+     "says": "శ్రద్ధగా సాధన చేస్తే ఎంత పెద్ద విషయమైనా మనదవుతుంది.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a seed growing into a strong tree",
+     "says": "- **రిఫరెన్స్:** అవసరం లేదు",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Lava and Kusha walking out of the ashram gate together",
+     "says": "ఇలా నేర్చుకున్న కావ్యాన్ని వారు ఎక్కడ పాడారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 12,
+   "eleven": {
+    "voice1": "[excited, bright] 24,000 శ్లోకాలు... పుస్తకం చూడకుండా!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] ఆ రాకుమారులు ధర్మంతో నిండిన, ఉత్తమమైన, ఏ దోషమూ లేని ఆ కావ్యాన్ని మొత్తం నోటికి వచ్చేలా నేర్చుకున్నారు. శ్రద్ధగా సాధన చేస్తే ఎంత పెద్ద విషయమైనా మనదవుతుంది.",
+    "voice4": "[curious, upbeat] ఇలా నేర్చుకున్న కావ్యాన్ని వారు ఎక్కడ పాడారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "ఈ ఇద్దరు పిల్లలు ఎక్కడ పాడారో తెలుసా?",
+    "screen": "ఎక్కడ పాడారు?"
+   },
+   "meaning": {
+    "voice": "ఋషులు, బ్రాహ్మణులు, సజ్జనులు కలిసే సభల్లో, గురువు నేర్పినట్టే, సారం తెలిసిన ఆ ఇద్దరు ఏకాగ్రతతో కావ్యాన్ని పాడారు. నేర్చుకున్నది నేర్చుకున్నట్టే చెప్పడం గురువుకు ఇచ్చే గౌరవం.",
+    "screen": "ఋషీణాం సమాగమే | యథోపదేశం | సుసమాహితౌ"
+   },
+   "end": {
+    "voice": "ఒకరోజు మునుల సభలో ఏం జరిగింది? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఒకరోజు మునుల సభలో ఏం జరిగింది? తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "A gathering of sages seated in a circle in a forest clearing",
+     "says": "ఈ ఇద్దరు పిల్లలు ఎక్కడ పాడారో తెలుసా?",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Lava and Kusha standing in the middle of the gathering, singing",
+     "says": "ఋషీణాం చ ద్విజాతీనాం సాధూనాం చ సమాగమే । / యథోపదేశం తత్త్వజ్ఞౌ జగతుః సుసమాహితౌ ॥ 13 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: Lava and Kusha standing in the middle of the gathering, singing",
+     "says": "ఋషులు, బ్రాహ్మణులు,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Sages and brahmins listening with closed eyes",
+     "says": "సజ్జనులు కలిసే సభల్లో, గురువు నేర్పినట్టే,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Close view of the boys singing with full concentration",
+     "says": "సారం తెలిసిన ఆ ఇద్దరు ఏకాగ్రతతో కావ్యాన్ని పాడారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a single flame passed from one lamp to many lamps in a circle",
+     "says": "నేర్చుకున్నది నేర్చుకున్నట్టే చెప్పడం గురువుకు ఇచ్చే గౌరవం.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "The boys bowing to the gathering after singing",
+     "says": "ఒకరోజు మునుల సభలో ఏం జరిగింది? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 13,
+   "eleven": {
+    "voice1": "[intrigued, warm] ఈ ఇద్దరు పిల్లలు ఎక్కడ పాడారో తెలుసా?",
+    "voice2": "",
+    "voice3": "[warm, storytelling] ఋషులు, బ్రాహ్మణులు, సజ్జనులు కలిసే సభల్లో, గురువు నేర్పినట్టే, సారం తెలిసిన ఆ ఇద్దరు ఏకాగ్రతతో కావ్యాన్ని పాడారు. నేర్చుకున్నది నేర్చుకున్నట్టే చెప్పడం గురువుకు ఇచ్చే గౌరవం.",
+    "voice4": "[curious, upbeat] ఒకరోజు మునుల సభలో ఏం జరిగింది? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "ఒకరోజు గొప్ప మునులంతా ఒకచోట చేరారు... అక్కడ ఏం జరిగిందో చూడండి!",
+    "screen": "ఒకరోజు..."
+   },
+   "meaning": {
+    "voice": "గొప్ప మనసు కలవారు, అదృష్టవంతులు, అన్ని శుభ లక్షణాలూ ఉన్న ఆ ఇద్దరు, ఒకరోజు ఆత్మజ్ఞానులైన మునులంతా కలిసిన సభకు వెళ్ళారు. మంచివారి మధ్యకు వెళ్ళడమే మనకు మొదటి అదృష్టం.",
+    "screen": "మహాత్మానౌ | సర్వలక్షణలక్షితౌ | భావితాత్మనాం"
+   },
+   "end": {
+    "voice": "ఆ సభలో వారు ఏం చేశారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+    "teaser": "ఆ సభలో వారు ఏం చేశారు? తరువాతి భాగంలో!",
+    "cta": 2
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "A large gathering of sages under a giant banyan tree",
+     "says": "ఒకరోజు గొప్ప మునులంతా ఒకచోట చేరారు... అక్కడ ఏం జరిగిందో చూడండి!",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Lava and Kusha walking into the gathering with joined palms",
+     "says": "మహాత్మానౌ మహాభాగౌ సర్వలక్షణలక్షితౌ । / తౌ కదాచిత్ సమేతానామృషీణాం భావితాత్మనామ్ ॥ 14 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: Lava and Kusha walking into the gathering with joined palms",
+     "says": "గొప్ప మనసు కలవారు, అదృష్టవంతులు,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "The two boys glowing softly, their faces calm and noble",
+     "says": "అన్ని శుభ లక్షణాలూ ఉన్న ఆ ఇద్దరు,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "The boys seated humbly near the senior sages",
+     "says": "ఒకరోజు ఆత్మజ్ఞానులైన మునులంతా కలిసిన సభకు వెళ్ళారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: two bright stars appearing among many stars",
+     "says": "మంచివారి మధ్యకు వెళ్ళడమే మనకు మొదటి అదృష్టం.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "The sages turning to look at the two boys with interest",
+     "says": "ఆ సభలో వారు ఏం చేశారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 14,
+   "eleven": {
+    "voice1": "[intrigued, warm] ఒకరోజు గొప్ప మునులంతా ఒకచోట చేరారు... అక్కడ ఏం జరిగిందో చూడండి!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] గొప్ప మనసు కలవారు, అదృష్టవంతులు, అన్ని శుభ లక్షణాలూ ఉన్న ఆ ఇద్దరు, ఒకరోజు ఆత్మజ్ఞానులైన మునులంతా కలిసిన సభకు వెళ్ళారు. మంచివారి మధ్యకు వెళ్ళడమే మనకు మొదటి అదృష్టం.",
+    "voice4": "[curious, upbeat] ఆ సభలో వారు ఏం చేశారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "ఈ పాట విని గొప్ప మునుల కళ్ళలో కూడా నీళ్ళు తిరిగాయి!",
+    "screen": "కన్నీళ్ళు!"
+   },
+   "meaning": {
+    "voice": "ఆ సభ మధ్యలో, మునుల దగ్గరే కూర్చుని కుశలవులు ఈ కావ్యాన్ని పాడారు. అది విన్న మునులందరి కళ్ళూ ఆనంద బాష్పాలతో నిండిపోయాయి. మనసు నుండి వచ్చిన మాట మనసును తాకుతుంది.",
+    "screen": "మధ్యే సభం | బాష్పపర్యాకులేక్షణాః | మునయః సర్వే"
+   },
+   "end": {
+    "voice": "కన్నీళ్ళతో మునులు ఏం అన్నారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "కన్నీళ్ళతో మునులు ఏం అన్నారు? తరువాతి భాగంలో!",
+    "cta": 3
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Lava and Kusha singing in the middle of the gathering of sages",
+     "says": "ఈ పాట విని గొప్ప మునుల కళ్ళలో కూడా నీళ్ళు తిరిగాయి!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "The two boys singing with deep feeling",
+     "says": "మధ్యే సభం సమీపస్థావిదం కావ్యమగాయతామ్ । / తచ్ఛ్రుత్వా మునయః సర్వే బాష్పపర్యాకులేక్షణాః ॥ 15 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: The two boys singing with deep feeling",
+     "says": "ఆ సభ మధ్యలో,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Lava and Kusha singing, seated among the sages in the assembly",
+     "says": "మునుల దగ్గరే కూర్చుని కుశలవులు ఈ కావ్యాన్ని పాడారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Several sages wiping tears, moved by the song",
+     "says": "అది విన్న మునులందరి కళ్ళూ ఆనంద బాష్పాలతో నిండిపోయాయి.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: raindrops falling gently on lotus leaves",
+     "says": "మనసు నుండి వచ్చిన మాట మనసును తాకుతుంది.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "The sages raising their hands, about to speak in praise",
+     "says": "కన్నీళ్ళతో మునులు ఏం అన్నారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 15,
+   "eleven": {
+    "voice1": "[softly, emotional] ఈ పాట విని గొప్ప మునుల కళ్ళలో కూడా నీళ్ళు తిరిగాయి!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] ఆ సభ మధ్యలో, మునుల దగ్గరే కూర్చుని కుశలవులు ఈ కావ్యాన్ని పాడారు. అది విన్న మునులందరి కళ్ళూ ఆనంద బాష్పాలతో నిండిపోయాయి. మనసు నుండి వచ్చిన మాట మనసును తాకుతుంది.",
+    "voice4": "[curious, upbeat] కన్నీళ్ళతో మునులు ఏం అన్నారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "గొప్ప మునులంతా ఒకేసారి ఏం అన్నారో తెలుసా?",
+    "screen": "సాధు సాధు!"
+   },
+   "meaning": {
+    "voice": "చాలా ఆశ్చర్యపోయిన మునులు ఆ ఇద్దరితో సాధు, సాధు అన్నారు. ధర్మం అంటే ఇష్టపడే ఆ మునులందరి మనసులు ఆనందంతో నిండిపోయాయి. మంచిని మెచ్చుకోవడానికి పెద్దలు ఎప్పుడూ ముందుంటారు.",
+    "screen": "సాధు సాధ్వితి | పరం విస్మయం | ధర్మవత్సలాః"
+   },
+   "end": {
+    "voice": "మునులు ఇంకా ఏమని పొగిడారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "మునులు ఇంకా ఏమని పొగిడారు? తరువాతి భాగంలో!",
+    "cta": 4
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "The sages raising their hands joyfully in praise",
+     "says": "గొప్ప మునులంతా ఒకేసారి ఏం అన్నారో తెలుసా?",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "The whole gathering smiling at the two boys",
+     "says": "సాధు సాధ్వితి తావూచుః పరం విస్మయమాగతాః । / తే ప్రీతమనసః సర్వే మునయో ధర్మవత్సలాః ॥ 16 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: The whole gathering smiling at the two boys",
+     "says": "చాలా ఆశ్చర్యపోయిన మునులు ఆ ఇద్దరితో సాధు, సాధు అన్నారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "An old sage with wide eyes of wonder",
+     "says": "ధర్మం అంటే ఇష్టపడే ఆ మునులందరి మనసులు ఆనందంతో నిండిపోయాయి.",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Lava and Kusha smiling shyly with joined palms",
+     "says": "మంచిని మెచ్చుకోవడానికి పెద్దలు ఎప్పుడూ ముందుంటారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": true,
+     "shows": "Symbolic shot: flowers opening all at once in a sunlit garden",
+     "says": "- **రిఫరెన్స్:** అవసరం లేదు",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "A sage stepping forward to speak",
+     "says": "మునులు ఇంకా ఏమని పొగిడారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 16,
+   "eleven": {
+    "voice1": "[excited, bright] గొప్ప మునులంతా ఒకేసారి ఏం అన్నారో తెలుసా?",
+    "voice2": "",
+    "voice3": "[warm, storytelling] చాలా ఆశ్చర్యపోయిన మునులు ఆ ఇద్దరితో సాధు, సాధు అన్నారు. ధర్మం అంటే ఇష్టపడే ఆ మునులందరి మనసులు ఆనందంతో నిండిపోయాయి. మంచిని మెచ్చుకోవడానికి పెద్దలు ఎప్పుడూ ముందుంటారు.",
+    "voice4": "[curious, upbeat] మునులు ఇంకా ఏమని పొగిడారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "మునులు కుశలవుల పాటను ఏమని పొగిడారో వినండి!",
+    "screen": "అహో!"
+   },
+   "meaning": {
+    "voice": "పొగడ్తకు తగిన కుశలవులను మునులు, అహో, ఈ పాట ఎంత తియ్యగా ఉంది, ముఖ్యంగా ఈ శ్లోకాలు ఎంత గొప్పవి అని పొగిడారు. మంచి పాటకు మంచి మాటలు తోడైతే అది అమృతమే.",
+    "screen": "ప్రశశంసుః | గీతస్య మాధుర్యం | శ్లోకానాం చ విశేషతః"
+   },
+   "end": {
+    "voice": "ఆ పాట విన్న మునులకు ఏమనిపించింది? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+    "teaser": "ఆ పాట విన్న మునులకు ఏమనిపించింది? తరువాతి భాగంలో!",
+    "cta": 2
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Sages praising Lava and Kusha, hands raised in blessing",
+     "says": "మునులు కుశలవుల పాటను ఏమని పొగిడారో వినండి!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "An elder sage speaking with joy, pointing to the boys",
+     "says": "ప్రశశంసుః ప్రశస్తవ్యౌ గాయమానౌ కుశీలవౌ । / అహో గీతస్య మాధుర్యం శ్లోకానాం చ విశేషతః ॥ 17 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: An elder sage speaking with joy, pointing to the boys",
+     "says": "పొగడ్తకు తగిన కుశలవులను మునులు,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "The sages praising Lava and Kusha, blessing them with raised hands, delighted by the sweetness of the song",
+     "says": "అహో, ఈ పాట ఎంత తియ్యగా ఉంది,",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "The boys smiling shyly, heads slightly bowed",
+     "says": "ముఖ్యంగా ఈ శ్లోకాలు ఎంత గొప్పవి అని పొగిడారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": true,
+     "shows": "Symbolic shot: golden honey flowing gently",
+     "says": "మంచి పాటకు మంచి మాటలు తోడైతే అది అమృతమే.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "The sages leaning forward, absorbed in the story",
+     "says": "ఆ పాట విన్న మునులకు ఏమనిపించింది? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 17,
+   "eleven": {
+    "voice1": "[excited, bright] మునులు కుశలవుల పాటను ఏమని పొగిడారో వినండి!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] పొగడ్తకు తగిన కుశలవులను మునులు, అహో, ఈ పాట ఎంత తియ్యగా ఉంది, ముఖ్యంగా ఈ శ్లోకాలు ఎంత గొప్పవి అని పొగిడారు. మంచి పాటకు మంచి మాటలు తోడైతే అది అమృతమే.",
+    "voice4": "[curious, upbeat] ఆ పాట విన్న మునులకు ఏమనిపించింది? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "ఎప్పుడో జరిగిన కథ... ఇప్పుడే కళ్ళ ముందు జరుగుతున్నట్టు!",
+    "screen": "కళ్ళ ముందు!"
+   },
+   "meaning": {
+    "voice": "ఎప్పుడో జరిగిపోయిన ఈ కథను మన కళ్ళ ముందే జరుగుతున్నట్టు చూపించారు అని మునులు అన్నారు. కుశలవులు ఇద్దరూ ఆ భావంలో పూర్తిగా లీనమై చక్కగా పాడారు. మనసు పెట్టి చెబితే వినేవారికి అది కనిపిస్తుంది.",
+    "screen": "చిరనిర్వృత్తం | ప్రత్యక్షమివ | తథాభావం"
+   },
+   "end": {
+    "voice": "వాళ్ళు ఎలా పాడారో ఇంకా చూద్దాం! తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "వాళ్ళు ఎలా పాడారో ఇంకా చూద్దాం! తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Sages listening with closed eyes, peaceful smiles on their faces",
+     "says": "ఎప్పుడో జరిగిన కథ... ఇప్పుడే కళ్ళ ముందు జరుగుతున్నట్టు!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Lava and Kusha singing with deep emotion",
+     "says": "చిరనిర్వృత్తమప్యేతత్ ప్రత్యక్షమివ దర్శితమ్ । / ప్రవిశ్య తావుభౌ సుష్ఠు తథాభావమగాయతామ్ ॥ 18 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: Lava and Kusha singing with deep emotion",
+     "says": "ఎప్పుడో జరిగిపోయిన ఈ కథను మన కళ్ళ ముందే జరుగుతున్నట్టు చూపించారు అని మునులు అన్నారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "A dreamlike vision: young Rama, Sita and Lakshmana walking into a green forest, soft and hazy like a memory",
+     "says": "కుశలవులు ఇద్దరూ ఆ భావంలో పూర్తిగా లీనమై చక్కగా పాడారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "The two boys singing with eyes half-closed, lost in the story",
+     "says": "మనసు పెట్టి చెబితే వినేవారికి అది కనిపిస్తుంది.",
+     "mood": "calm"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a painting coming slowly to life with colour",
+     "says": "- **రిఫరెన్స్:** అవసరం లేదు",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "The gathering silent and absorbed as the boys sing on",
+     "says": "వాళ్ళు ఎలా పాడారో ఇంకా చూద్దాం! తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 18,
+   "eleven": {
+    "voice1": "[intrigued, warm] ఎప్పుడో జరిగిన కథ... ఇప్పుడే కళ్ళ ముందు జరుగుతున్నట్టు!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] ఎప్పుడో జరిగిపోయిన ఈ కథను మన కళ్ళ ముందే జరుగుతున్నట్టు చూపించారు అని మునులు అన్నారు. కుశలవులు ఇద్దరూ ఆ భావంలో పూర్తిగా లీనమై చక్కగా పాడారు. మనసు పెట్టి చెబితే వినేవారికి అది కనిపిస్తుంది.",
+    "voice4": "[curious, upbeat] వాళ్ళు ఎలా పాడారో ఇంకా చూద్దాం! తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "మునుల మెప్పు విన్న తరువాత... ఆ పాట ఇంకా ఎంత మధురమైందో!",
+    "screen": "ఇంకా మధురం!"
+   },
+   "meaning": {
+    "voice": "ఇద్దరూ కలిసి, తియ్యగా, భావంతో, మంచి స్వర సంపదతో పాడారు. తపస్సుతో గౌరవం పొందిన మహర్షులు అలా వారిని పొగుడుతూనే ఉన్నారు. సరైన మెప్పు పిల్లలకు కొత్త ఉత్సాహం ఇస్తుంది.",
+    "screen": "సహితౌ | మధురం రక్తం | స్వరసంపదా"
+   },
+   "end": {
+    "voice": "ఆ ఆనందంలో ఒక ముని వారికి ఏం ఇచ్చారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+    "teaser": "ఆ ఆనందంలో ఒక ముని వారికి ఏం ఇచ్చారు? తరువాతి భాగంలో!",
+    "cta": 2
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Lava and Kusha singing together, voices in harmony",
+     "says": "మునుల మెప్పు విన్న తరువాత... ఆ పాట ఇంకా ఎంత మధురమైందో!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "The boys singing as the sages nod along",
+     "says": "సహితౌ మధురం రక్తం సమ్పన్నం స్వరసంపదా । / ఏవం ప్రశస్యమానౌ తౌ తపః శ్లాఘ్యైర్మహర్షిభిః ॥ 19 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: The boys singing as the sages nod along",
+     "says": "ఇద్దరూ కలిసి, తియ్యగా, భావంతో, మంచి స్వర సంపదతో పాడారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Elder ascetics smiling and blessing the boys",
+     "says": "తపస్సుతో గౌరవం పొందిన మహర్షులు అలా వారిని పొగుడుతూనే ఉన్నారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "The two boys glowing with joy as they sing",
+     "says": "సరైన మెప్పు పిల్లలకు కొత్త ఉత్సాహం ఇస్తుంది.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: two streams joining into one bright river",
+     "says": "- **రిఫరెన్స్:** అవసరం లేదు",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "One sage rising from his seat, holding something in his hands",
+     "says": "ఆ ఆనందంలో ఒక ముని వారికి ఏం ఇచ్చారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 19,
+   "eleven": {
+    "voice1": "[excited, bright] మునుల మెప్పు విన్న తరువాత... ఆ పాట ఇంకా ఎంత మధురమైందో!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] ఇద్దరూ కలిసి, తియ్యగా, భావంతో, మంచి స్వర సంపదతో పాడారు. తపస్సుతో గౌరవం పొందిన మహర్షులు అలా వారిని పొగుడుతూనే ఉన్నారు. సరైన మెప్పు పిల్లలకు కొత్త ఉత్సాహం ఇస్తుంది.",
+    "voice4": "[curious, upbeat] ఆ ఆనందంలో ఒక ముని వారికి ఏం ఇచ్చారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "పాట విన్న ముని ఆనందంతో పిల్లలకు ఏం ఇచ్చారో తెలుసా?",
+    "screen": "కానుక!"
+   },
+   "meaning": {
+    "voice": "ఆ ఇద్దరు ఇంకా ఎక్కువ భావంతో, తియ్యగా పాడారు. సంతోషించిన ఒక ముని లేచి నిలబడి వారికి ఒక కలశం కానుకగా ఇచ్చారు. మనసుకు నచ్చినప్పుడు ఇచ్చే చిన్న కానుకే గొప్ప ఆశీర్వాదం.",
+    "screen": "సంరక్తతరం | ప్రీతః కశ్చిన్మునిః | కలశం దదౌ"
+   },
+   "end": {
+    "voice": "ఇంకా ఎవరు ఏమేమి ఇచ్చారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఇంకా ఎవరు ఏమేమి ఇచ్చారు? తరువాతి భాగంలో!",
+    "cta": 3
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "An old sage standing up holding a brass water pot (kalasha)",
+     "says": "పాట విన్న ముని ఆనందంతో పిల్లలకు ఏం ఇచ్చారో తెలుసా?",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "The two boys singing with closed eyes, full of feeling",
+     "says": "సంరక్తతరమత్యర్థం మధురం తావగాయతామ్ । / ప్రీతః కశ్చిన్మునిస్తాభ్యాం సంస్థితః కలశం దదౌ ॥ 20 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: The two boys singing with closed eyes, full of feeling",
+     "says": "ఆ ఇద్దరు ఇంకా ఎక్కువ భావంతో, తియ్యగా పాడారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "The sage handing the kalasha to Lava and Kusha with a warm smile",
+     "says": "సంతోషించిన ఒక ముని లేచి నిలబడి వారికి ఒక కలశం కానుకగా ఇచ్చారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "The boys receiving the kalasha with joined palms",
+     "says": "మనసుకు నచ్చినప్పుడు ఇచ్చే చిన్న కానుకే గొప్ప ఆశీర్వాదం.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a brass kalasha filled to the brim with clear water",
+     "says": "- **రిఫరెన్స్:** అవసరం లేదు",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Other sages reaching for gifts to give",
+     "says": "ఇంకా ఎవరు ఏమేమి ఇచ్చారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 20,
+   "eleven": {
+    "voice1": "[excited, bright] పాట విన్న ముని ఆనందంతో పిల్లలకు ఏం ఇచ్చారో తెలుసా?",
+    "voice2": "",
+    "voice3": "[warm, storytelling] ఆ ఇద్దరు ఇంకా ఎక్కువ భావంతో, తియ్యగా పాడారు. సంతోషించిన ఒక ముని లేచి నిలబడి వారికి ఒక కలశం కానుకగా ఇచ్చారు. మనసుకు నచ్చినప్పుడు ఇచ్చే చిన్న కానుకే గొప్ప ఆశీర్వాదం.",
+    "voice4": "[curious, upbeat] ఇంకా ఎవరు ఏమేమి ఇచ్చారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "ఒక్కో ముని ఒక్కో కానుక... ఏమేమి ఇచ్చారో చూడండి!",
+    "screen": "కానుకల వరుస!"
+   },
+   "meaning": {
+    "voice": "సంతోషించిన కీర్తిమంతుడైన ఒక ముని వారికి నార చీర ఇచ్చారు. ఇంకొకరు జింక చర్మం ఇచ్చారు, మరొకరు యజ్ఞోపవీతం ఇచ్చారు. ఉన్నదాంట్లోనే ప్రేమతో ఇచ్చే కానుక విలువే వేరు.",
+    "screen": "వల్కలం | కృష్ణాజినం | యజ్ఞసూత్రం"
+   },
+   "end": {
+    "voice": "ఇంకా ఏ కానుకలు వచ్చాయి? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఇంకా ఏ కానుకలు వచ్చాయి? తరువాతి భాగంలో!",
+    "cta": 4
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Several sages coming forward with simple gifts in their hands",
+     "says": "ఒక్కో ముని ఒక్కో కానుక... ఏమేమి ఇచ్చారో చూడండి!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Lava and Kusha receiving gifts with joined palms",
+     "says": "ప్రసన్నో వల్కలం కశ్చిద్ దదౌ తాభ్యాం మహాయశాః । / అన్యః కృష్ణాజినమదాద్ యజ్ఞసూత్రం తథాపరః ॥ 21 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: Lava and Kusha receiving gifts with joined palms",
+     "says": "సంతోషించిన కీర్తిమంతుడైన ఒక ముని వారికి నార చీర ఇచ్చారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "A sage placing a black deer-skin mat in the boys' hands",
+     "says": "ఇంకొకరు జింక చర్మం ఇచ్చారు, మరొకరు యజ్ఞోపవీతం ఇచ్చారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "A sage offering a sacred thread to the boys",
+     "says": "ఉన్నదాంట్లోనే ప్రేమతో ఇచ్చే కానుక విలువే వేరు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: simple gifts arranged on a banana leaf: bark cloth, deer skin, sacred thread",
+     "says": "- **రిఫరెన్స్:** అవసరం లేదు",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "The boys looking at their gifts with joy",
+     "says": "ఇంకా ఏ కానుకలు వచ్చాయి? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 21,
+   "eleven": {
+    "voice1": "[excited, bright] ఒక్కో ముని ఒక్కో కానుక... ఏమేమి ఇచ్చారో చూడండి!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] సంతోషించిన కీర్తిమంతుడైన ఒక ముని వారికి నార చీర ఇచ్చారు. ఇంకొకరు జింక చర్మం ఇచ్చారు, మరొకరు యజ్ఞోపవీతం ఇచ్చారు. ఉన్నదాంట్లోనే ప్రేమతో ఇచ్చే కానుక విలువే వేరు.",
+    "voice4": "[curious, upbeat] ఇంకా ఏ కానుకలు వచ్చాయి? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "ఒక ముని కమండలం, ఇంకొకరు ఏమిచ్చారో చూడండి!",
+    "screen": "ఇంకా కానుకలు!"
+   },
+   "meaning": {
+    "voice": "ఒక ముని కమండలం ఇచ్చారు, ఇంకొక మహాముని మౌంజి (నడుము తాడు) ఇచ్చారు. మరొకరు కూర్చునే ఆసనం, ఇంకొక ముని కౌపీనం ఇచ్చారు. మునులు తమ దగ్గర ఉన్నదే మనసారా ఇచ్చారు.",
+    "screen": "కమండలుం | మౌంజీం | బృసీం | కౌపీనం"
+   },
+   "end": {
+    "voice": "ఇంకా ఏ కానుకలు వచ్చాయి? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+    "teaser": "ఇంకా ఏ కానుకలు వచ్చాయి? తరువాతి భాగంలో!",
+    "cta": 2
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "A sage holding out a wooden water vessel (kamandalu)",
+     "says": "ఒక ముని కమండలం, ఇంకొకరు ఏమిచ్చారో చూడండి!",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Lava and Kusha receiving the kamandalu with joined palms",
+     "says": "కశ్చిత్ కమణ్డలుం ప్రాదాన్మౌఞ్జీమన్యో మహామునిః । / బృసీమన్యస్తదా ప్రాదాత్ కౌపీనమపరో మునిః ॥ 22 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: Lava and Kusha receiving the kamandalu with joined palms",
+     "says": "ఒక ముని కమండలం ఇచ్చారు,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "A sage tying a munja grass girdle around a boy's waist with care",
+     "says": "ఇంకొక మహాముని మౌంజి (నడుము తాడు) ఇచ్చారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "A sage placing a small woven darbha-grass seat before the boys",
+     "says": "మరొకరు కూర్చునే ఆసనం, ఇంకొక ముని కౌపీనం ఇచ్చారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a kamandalu and a woven grass seat resting together in soft light",
+     "says": "మునులు తమ దగ్గర ఉన్నదే మనసారా ఇచ్చారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "The boys holding their gifts, smiling at each other",
+     "says": "ఇంకా ఏ కానుకలు వచ్చాయి? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 22,
+   "eleven": {
+    "voice1": "[intrigued, warm] ఒక ముని కమండలం, ఇంకొకరు ఏమిచ్చారో చూడండి!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] ఒక ముని కమండలం ఇచ్చారు, ఇంకొక మహాముని మౌంజి (నడుము తాడు) ఇచ్చారు. మరొకరు కూర్చునే ఆసనం, ఇంకొక ముని కౌపీనం ఇచ్చారు. మునులు తమ దగ్గర ఉన్నదే మనసారా ఇచ్చారు.",
+    "voice4": "[curious, upbeat] ఇంకా ఏ కానుకలు వచ్చాయి? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "మునులు ఇచ్చిన కానుకల్లో ఒక గొడ్డలి కూడా ఉంది... ఎందుకో తెలుసా?",
+    "screen": "గొడ్డలి?"
+   },
+   "meaning": {
+    "voice": "సంతోషించిన ఒక ముని వారికి గొడ్డలి ఇచ్చారు, ఇంకొకరు కాషాయ వస్త్రం, మరొకరు నార బట్ట ఇచ్చారు. ఆశ్రమ జీవితంలో అవసరమైనవే ఇవ్వడం – అదే నిజమైన కానుక.",
+    "screen": "కుఠారం | కాషాయం | చీరం"
+   },
+   "end": {
+    "voice": "ఇంకా ఏమేమి ఇచ్చారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఇంకా ఏమేమి ఇచ్చారు? తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "A sage holding a small wood-cutting axe used in the ashram",
+     "says": "మునులు ఇచ్చిన కానుకల్లో ఒక గొడ్డలి కూడా ఉంది... ఎందుకో తెలుసా?",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Lava and Kusha receiving the axe respectfully",
+     "says": "తాభ్యాం దదౌ తదా హృష్టః కుఠారమపరో మునిః । / కాషాయమపరో వస్త్రం చీరమన్యో దదౌ మునిః ॥ 23 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: Lava and Kusha receiving the axe respectfully",
+     "says": "సంతోషించిన ఒక ముని వారికి గొడ్డలి ఇచ్చారు,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "A sage offering a folded saffron cloth",
+     "says": "ఇంకొకరు కాషాయ వస్త్రం, మరొకరు నార బట్ట ఇచ్చారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "A sage handing over a bark-cloth garment",
+     "says": "ఆశ్రమ జీవితంలో అవసరమైనవే ఇవ్వడం – అదే నిజమైన కానుక.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: an axe resting against a pile of firewood beside an ashram hut",
+     "says": "- **రిఫరెన్స్:** అవసరం లేదు",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "The boys arranging their gifts neatly on a mat",
+     "says": "ఇంకా ఏమేమి ఇచ్చారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 23,
+   "eleven": {
+    "voice1": "[excited, bright] మునులు ఇచ్చిన కానుకల్లో ఒక గొడ్డలి కూడా ఉంది... ఎందుకో తెలుసా?",
+    "voice2": "",
+    "voice3": "[warm, storytelling] సంతోషించిన ఒక ముని వారికి గొడ్డలి ఇచ్చారు, ఇంకొకరు కాషాయ వస్త్రం, మరొకరు నార బట్ట ఇచ్చారు. ఆశ్రమ జీవితంలో అవసరమైనవే ఇవ్వడం – అదే నిజమైన కానుక.",
+    "voice4": "[curious, upbeat] ఇంకా ఏమేమి ఇచ్చారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "యజ్ఞ పాత్ర, కట్టెల మోపు... ఈ కానుకలు ఎందుకు?",
+    "screen": "ఇంకా కానుకలు!"
+   },
+   "meaning": {
+    "voice": "ఒకరు జడ కట్టుకునే బట్ట, ఇంకొకరు సంతోషంగా కట్టెలు కట్టే తాడు ఇచ్చారు. ఒక ఋషి యజ్ఞ పాత్ర, మరొకరు కట్టెల మోపు ఇచ్చారు. యజ్ఞానికి పనికొచ్చే కానుకలంటే జీవితాంతం ధర్మం చేయమనే ఆశీర్వాదం.",
+    "screen": "జటాబంధనం | కాష్ఠరజ్జు | యజ్ఞభాండం"
+   },
+   "end": {
+    "voice": "మిగిలిన మునులు ఏమిచ్చారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+    "teaser": "మిగిలిన మునులు ఏమిచ్చారు? తరువాతి భాగంలో!",
+    "cta": 2
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "A sage carrying a neat bundle of sacred firewood",
+     "says": "యజ్ఞ పాత్ర, కట్టెల మోపు... ఈ కానుకలు ఎందుకు?",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Lava and Kusha receiving gifts with joined palms",
+     "says": "జటాబన్ధనమన్యస్తు కాష్ఠరజ్జుం ముదాన్వితః । / యజ్ఞభాణ్డమృషిః కశ్చిత్ కాష్ఠభారం తథా పరః ॥ 24 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: Lava and Kusha receiving gifts with joined palms",
+     "says": "ఒకరు జడ కట్టుకునే బట్ట,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "A sage handing a wooden yajna ladle and vessel to the boys",
+     "says": "ఇంకొకరు సంతోషంగా కట్టెలు కట్టే తాడు ఇచ్చారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "A sage placing a bundle of firewood tied with rope before the boys",
+     "says": "ఒక ఋషి యజ్ఞ పాత్ర, మరొకరు కట్టెల మోపు ఇచ్చారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": true,
+     "shows": "Symbolic shot: a sacred fire burning steadily in a yajna altar",
+     "says": "యజ్ఞానికి పనికొచ్చే కానుకలంటే జీవితాంతం ధర్మం చేయమనే ఆశీర్వాదం.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "The sages raising their hands to bless the boys",
+     "says": "మిగిలిన మునులు ఏమిచ్చారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 24,
+   "eleven": {
+    "voice1": "[excited, bright] యజ్ఞ పాత్ర, కట్టెల మోపు... ఈ కానుకలు ఎందుకు?",
+    "voice2": "",
+    "voice3": "[warm, storytelling] ఒకరు జడ కట్టుకునే బట్ట, ఇంకొకరు సంతోషంగా కట్టెలు కట్టే తాడు ఇచ్చారు. ఒక ఋషి యజ్ఞ పాత్ర, మరొకరు కట్టెల మోపు ఇచ్చారు. యజ్ఞానికి పనికొచ్చే కానుకలంటే జీవితాంతం ధర్మం చేయమనే ఆశీర్వాదం.",
+    "voice4": "[curious, upbeat] మిగిలిన మునులు ఏమిచ్చారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "కానుకల కన్నా గొప్పది... మునుల ఆశీర్వాదం!",
+    "screen": "ఆశీర్వాదం!"
+   },
+   "meaning": {
+    "voice": "ఒకరు అత్తి చెక్కతో చేసిన ఆసనం ఇచ్చారు. కొందరు \"స్వస్తి\" (మీకు శుభం) అన్నారు, మరికొందరు మహర్షులు సంతోషంగా \"దీర్ఘాయుష్మాన్ భవ\" అని దీవించారు. పెద్దల ఆశీర్వాదమే పిల్లలకు అసలైన సంపద.",
+    "screen": "ఔదుంబరీం బృసీం | స్వస్తి | ఆయుష్యం"
+   },
+   "end": {
+    "voice": "మునులు ఈ కావ్యం గురించి ఏమన్నారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "మునులు ఈ కావ్యం గురించి ఏమన్నారు? తరువాతి భాగంలో!",
+    "cta": 3
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "The sages raising their right hands together in blessing",
+     "says": "కానుకల కన్నా గొప్పది... మునుల ఆశీర్వాదం!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Lava and Kusha bowing low as the sages bless them",
+     "says": "ఔదుమ్బరీం బ్రుసీమన్యః స్వస్తి కేచిత్ తదావదన్ । / ఆయుష్యమపరే ప్రాహుర్ముదా తత్ర మహర్షయః ॥ 25 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: Lava and Kusha bowing low as the sages bless them",
+     "says": "ఒకరు అత్తి చెక్కతో చేసిన ఆసనం ఇచ్చారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "A sage placing a small seat made of fig wood before the boys",
+     "says": "కొందరు \"స్వస్తి\" (మీకు శుభం) అన్నారు,",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "An elder sage placing his hand on the heads of the boys in blessing",
+     "says": "మరికొందరు మహర్షులు సంతోషంగా \"దీర్ఘాయుష్మాన్ భవ\" అని దీవించారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: golden light falling gently from the sky like a blessing",
+     "says": "పెద్దల ఆశీర్వాదమే పిల్లలకు అసలైన సంపద.",
+     "mood": "joyful"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "The sages speaking to one another with joy about the poem",
+     "says": "మునులు ఈ కావ్యం గురించి ఏమన్నారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 25,
+   "eleven": {
+    "voice1": "[excited, bright] కానుకల కన్నా గొప్పది... మునుల ఆశీర్వాదం!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] ఒకరు అత్తి చెక్కతో చేసిన ఆసనం ఇచ్చారు. కొందరు \"స్వస్తి\" (మీకు శుభం) అన్నారు, మరికొందరు మహర్షులు సంతోషంగా \"దీర్ఘాయుష్మాన్ భవ\" అని దీవించారు. పెద్దల ఆశీర్వాదమే పిల్లలకు అసలైన సంపద.",
+    "voice4": "[curious, upbeat] మునులు ఈ కావ్యం గురించి ఏమన్నారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "మునులు ఈ కావ్యాన్ని ఒక్క మాటలో ఏమన్నారు?",
+    "screen": "ఆశ్చర్యం!"
+   },
+   "meaning": {
+    "voice": "సత్యమే మాట్లాడే మునులందరూ ఇలా వరాలు ఇచ్చారు. వాల్మీకి మహర్షి రచించిన ఈ కథ ఎంతో ఆశ్చర్యకరమైనది అని పొగిడారు. సత్యవంతుల మాటకు ఉన్న విలువే వేరు.",
+    "screen": "సత్యవాదినః | ఆశ్చర్యం | ఆఖ్యానం"
+   },
+   "end": {
+    "voice": "ఆ కావ్యం ఇంకా ఎలాంటిదని మునులు అన్నారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఆ కావ్యం ఇంకా ఎలాంటిదని మునులు అన్నారు? తరువాతి భాగంలో!",
+    "cta": 4
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "The sages with raised hands granting blessings to the boys",
+     "says": "మునులు ఈ కావ్యాన్ని ఒక్క మాటలో ఏమన్నారు?",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "An elder sage speaking with wonder to the gathering",
+     "says": "దదుశ్చైవం వరాన్ సర్వే మునయః సత్యవాదినః । / ఆశ్చర్యమిదమాఖ్యానం మునినా సమ్ప్రకీర్తితమ్ ॥ 26 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: An elder sage speaking with wonder to the gathering",
+     "says": "సత్యమే మాట్లాడే మునులందరూ ఇలా వరాలు ఇచ్చారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Valmiki in his hut, a glowing palm-leaf poem before him",
+     "says": "వాల్మీకి మహర్షి రచించిన ఈ కథ ఎంతో ఆశ్చర్యకరమైనది అని పొగిడారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Lava and Kusha listening happily to the sages' words",
+     "says": "సత్యవంతుల మాటకు ఉన్న విలువే వేరు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a lotus blooming in the middle of a calm lake",
+     "says": "- **రిఫరెన్స్:** అవసరం లేదు",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "The sages nodding in agreement",
+     "says": "ఆ కావ్యం ఇంకా ఎలాంటిదని మునులు అన్నారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 26,
+   "eleven": {
+    "voice1": "[excited, bright] మునులు ఈ కావ్యాన్ని ఒక్క మాటలో ఏమన్నారు?",
+    "voice2": "",
+    "voice3": "[warm, storytelling] సత్యమే మాట్లాడే మునులందరూ ఇలా వరాలు ఇచ్చారు. వాల్మీకి మహర్షి రచించిన ఈ కథ ఎంతో ఆశ్చర్యకరమైనది అని పొగిడారు. సత్యవంతుల మాటకు ఉన్న విలువే వేరు.",
+    "voice4": "[curious, upbeat] ఆ కావ్యం ఇంకా ఎలాంటిదని మునులు అన్నారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "తరువాత వచ్చిన కవులందరూ ఈ కావ్యం నుండే నేర్చుకున్నారు!",
+    "screen": "కవులకు ఆధారం!"
+   },
+   "meaning": {
+    "voice": "ఈ కావ్యం కవులందరికీ గొప్ప ఆధారం, క్రమంగా పూర్తిగా చెప్పబడింది, అన్ని పాటల్లో నిపుణులైన మీరు దీన్ని చక్కగా పాడారు అని మునులు అన్నారు. మంచి పునాది మీదే గొప్ప భవనాలు నిలుస్తాయి.",
+    "screen": "కవీనాం ఆధారం | యథాక్రమం | సర్వగీతేషు కోవిదౌ"
+   },
+   "end": {
+    "voice": "ఈ కావ్యం వింటే ఇంకా ఏం వస్తుంది? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+    "teaser": "ఈ కావ్యం వింటే ఇంకా ఏం వస్తుంది? తరువాతి భాగంలో!",
+    "cta": 2
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "A tall stack of palm-leaf manuscripts glowing on a wooden shelf",
+     "says": "తరువాత వచ్చిన కవులందరూ ఈ కావ్యం నుండే నేర్చుకున్నారు!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "The sages speaking with admiration",
+     "says": "పరం కవీనామాధారం సమాప్తం చ యథాక్రమమ్ । / అభిగీతమిదం గీతం సర్వగీతేషు కోవిదౌ ॥ 27 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: The sages speaking with admiration",
+     "says": "ఈ కావ్యం కవులందరికీ గొప్ప ఆధారం, క్రమంగా పూర్తిగా చెప్పబడింది,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Many lamps lit one from another along a long hall of palm-leaf books",
+     "says": "అన్ని పాటల్లో నిపుణులైన మీరు దీన్ని చక్కగా పాడారు అని మునులు అన్నారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Lava and Kusha singing with confident, joyful faces",
+     "says": "మంచి పునాది మీదే గొప్ప భవనాలు నిలుస్తాయి.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": true,
+     "shows": "Symbolic shot: a strong foundation stone with a great temple rising above it",
+     "says": "- **రిఫరెన్స్:** అవసరం లేదు",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "A sage raising his hand in final blessing",
+     "says": "ఈ కావ్యం వింటే ఇంకా ఏం వస్తుంది? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 27,
+   "eleven": {
+    "voice1": "[excited, bright] తరువాత వచ్చిన కవులందరూ ఈ కావ్యం నుండే నేర్చుకున్నారు!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] ఈ కావ్యం కవులందరికీ గొప్ప ఆధారం, క్రమంగా పూర్తిగా చెప్పబడింది, అన్ని పాటల్లో నిపుణులైన మీరు దీన్ని చక్కగా పాడారు అని మునులు అన్నారు. మంచి పునాది మీదే గొప్ప భవనాలు నిలుస్తాయి.",
+    "voice4": "[curious, upbeat] ఈ కావ్యం వింటే ఇంకా ఏం వస్తుంది? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "రామాయణం వింటే ఆయుష్షు పెరుగుతుందని మునులు ఎందుకు అన్నారు?",
+    "screen": "ఆయుష్యం!"
+   },
+   "meaning": {
+    "voice": "ఈ కావ్యం ఆయుష్షు ఇస్తుంది, పుష్టినిస్తుంది, వినే అందరి మనసులనూ ఆకట్టుకుంటుంది అని మునులు అన్నారు. అలా అన్ని చోట్లా పొగడబడుతూ కుశలవులు ఊరూరా పాడుతూ వెళ్ళారు. మంచి మాటలు వింటే మనసు ఆరోగ్యంగా ఉంటుంది.",
+    "screen": "ఆయుష్యం | పుష్టిజననం | సర్వశ్రుతిమనోహరం"
+   },
+   "end": {
+    "voice": "ఒకరోజు వీధిలో పాడుతున్న ఆ పిల్లలను ఎవరు చూశారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఒకరోజు వీధిలో పాడుతున్న ఆ పిల్లలను ఎవరు చూశారు? తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "The sages blessing the boys one final time",
+     "says": "రామాయణం వింటే ఆయుష్షు పెరుగుతుందని మునులు ఎందుకు అన్నారు?",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Lava and Kusha singing, their faces bright",
+     "says": "ఆయుష్యం పుష్టిజననం సర్వశ్రుతిమనోహరమ్ । / ప్రశస్యమానౌ సర్వత్ర కదాచిత్ తత్ర గాయకౌ ॥ 28 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: Lava and Kusha singing, their faces bright",
+     "says": "ఈ కావ్యం ఆయుష్షు ఇస్తుంది, పుష్టినిస్తుంది,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Lava and Kusha singing in a street of Ayodhya, simply dressed as young ascetics",
+     "says": "వినే అందరి మనసులనూ ఆకట్టుకుంటుంది అని మునులు అన్నారు.",
+     "mood": "mystery"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Townspeople gathering around the two boys, listening with delight",
+     "says": "అలా అన్ని చోట్లా పొగడబడుతూ కుశలవులు ఊరూరా పాడుతూ వెళ్ళారు.",
+     "mood": "mystery"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a healing green leaf glowing in sunlight",
+     "says": "మంచి మాటలు వింటే మనసు ఆరోగ్యంగా ఉంటుంది.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "A royal procession approaching down the street as the boys sing",
+     "says": "ఒకరోజు వీధిలో పాడుతున్న ఆ పిల్లలను ఎవరు చూశారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 28,
+   "eleven": {
+    "voice1": "[mysterious, hushed] రామాయణం వింటే ఆయుష్షు పెరుగుతుందని మునులు ఎందుకు అన్నారు?",
+    "voice2": "",
+    "voice3": "[warm, storytelling] ఈ కావ్యం ఆయుష్షు ఇస్తుంది, పుష్టినిస్తుంది, వినే అందరి మనసులనూ ఆకట్టుకుంటుంది అని మునులు అన్నారు. అలా అన్ని చోట్లా పొగడబడుతూ కుశలవులు ఊరూరా పాడుతూ వెళ్ళారు. మంచి మాటలు వింటే మనసు ఆరోగ్యంగా ఉంటుంది.",
+    "voice4": "[curious, upbeat] ఒకరోజు వీధిలో పాడుతున్న ఆ పిల్లలను ఎవరు చూశారు? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "అయోధ్య వీధుల్లో పాడుతున్న ఈ ఇద్దరిని... స్వయంగా శ్రీరాములవారే చూశారు!",
+    "screen": "శ్రీరాములవారు చూశారు!"
+   },
+   "meaning": {
+    "voice": "వీధుల్లో, రాజవీధుల్లో పాడుతున్న ఆ ఇద్దరిని భరతులవారి అన్నగారైన శ్రీరాములవారు చూశారు. అన్నదమ్ములైన కుశలవులను ఆయన తన భవనానికి తీసుకువచ్చారు. మంచి కళను రాజులు కూడా గౌరవిస్తారు.",
+    "screen": "రథ్యాసు రాజమార్గేషు | భరతాగ్రజః | స్వవేశ్మ"
+   },
+   "end": {
+    "voice": "భవనానికి వచ్చిన బాలలను శ్రీరాములవారు ఎలా గౌరవించారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+    "teaser": "భవనానికి వచ్చిన బాలలను శ్రీరాములవారు ఎలా గౌరవించారు? తరువాతి భాగంలో!",
+    "cta": 2
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "A wide royal road of Ayodhya lined with decorated houses and banners",
+     "says": "అయోధ్య వీధుల్లో పాడుతున్న ఈ ఇద్దరిని... స్వయంగా శ్రీరాములవారే చూశారు!",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Lava and Kusha singing in the street, people gathered around",
+     "says": "రథ్యాసు రాజమార్గేషు దదర్శ భరతాగ్రజః । / స్వవేశ్మ చానీయ తతో భ్రాతరౌ స కుశీలవౌ ॥ 29 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: Lava and Kusha singing in the street, people gathered around",
+     "says": "వీధుల్లో,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Rama as king pausing in the royal street, looking towards the singing boys with interest",
+     "says": "రాజవీధుల్లో పాడుతున్న ఆ ఇద్దరిని భరతులవారి అన్నగారైన శ్రీరాములవారు చూశారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Lava and Kusha walking into the grand palace with wide eyes",
+     "says": "అన్నదమ్ములైన కుశలవులను ఆయన తన భవనానికి తీసుకువచ్చారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a royal door opening wide to let light in",
+     "says": "మంచి కళను రాజులు కూడా గౌరవిస్తారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Rama welcoming the two boys into his palace hall",
+     "says": "భవనానికి వచ్చిన బాలలను శ్రీరాములవారు ఎలా గౌరవించారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 29,
+   "eleven": {
+    "voice1": "[intrigued, warm] అయోధ్య వీధుల్లో పాడుతున్న ఈ ఇద్దరిని... స్వయంగా శ్రీరాములవారే చూశారు!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] వీధుల్లో, రాజవీధుల్లో పాడుతున్న ఆ ఇద్దరిని భరతులవారి అన్నగారైన శ్రీరాములవారు చూశారు. అన్నదమ్ములైన కుశలవులను ఆయన తన భవనానికి తీసుకువచ్చారు. మంచి కళను రాజులు కూడా గౌరవిస్తారు.",
+    "voice4": "[curious, upbeat] భవనానికి వచ్చిన బాలలను శ్రీరాములవారు ఎలా గౌరవించారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "అయోధ్య రాజు ఈ ఇద్దరు బాలలను ఎలా గౌరవించారో చూడండి!",
+    "screen": "రాజ గౌరవం!"
+   },
+   "meaning": {
+    "voice": "శత్రువులను సంహరించిన శ్రీరాములవారు, పూజకు తగిన ఆ ఇద్దరినీ గౌరవంగా పూజించారు. తరువాత ఆయన దివ్యమైన బంగారు సింహాసనం మీద కూర్చున్నారు. గొప్పవారు చిన్నవారిని కూడా గౌరవిస్తారు.",
+    "screen": "పూజయామాస | పూజార్హౌ | కాంచనే సింహాసనే"
+   },
+   "end": {
+    "voice": "సభలో ఇంకా ఎవరెవరు ఉన్నారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "సభలో ఇంకా ఎవరెవరు ఉన్నారు? తరువాతి భాగంలో!",
+    "cta": 3
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "A divine golden throne in the royal court of Ayodhya",
+     "says": "అయోధ్య రాజు ఈ ఇద్దరు బాలలను ఎలా గౌరవించారో చూడండి!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Rama honouring Lava and Kusha with gifts and kind words",
+     "says": "పూజయామాస పూజార్హౌ రామః శత్రునిబర్హణః । / ఆసీనః కాఞ్చనే దివ్యే స చ సింహాసనే ప్రభుః ॥ 30 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: Rama honouring Lava and Kusha with gifts and kind words",
+     "says": "శత్రువులను సంహరించిన శ్రీరాములవారు,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Rama gesturing for the boys to sit on honoured seats",
+     "says": "పూజకు తగిన ఆ ఇద్దరినీ గౌరవంగా పూజించారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Rama seated on the golden throne, calm and radiant",
+     "says": "తరువాత ఆయన దివ్యమైన బంగారు సింహాసనం మీద కూర్చున్నారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": true,
+     "shows": "Symbolic shot: a golden throne with a single lamp burning before it",
+     "says": "గొప్పవారు చిన్నవారిని కూడా గౌరవిస్తారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Rama on the throne with his brothers seated close by",
+     "says": "సభలో ఇంకా ఎవరెవరు ఉన్నారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "calm"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 30,
+   "eleven": {
+    "voice1": "[dramatic, powerful] అయోధ్య రాజు ఈ ఇద్దరు బాలలను ఎలా గౌరవించారో చూడండి!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] శత్రువులను సంహరించిన శ్రీరాములవారు, పూజకు తగిన ఆ ఇద్దరినీ గౌరవంగా పూజించారు. తరువాత ఆయన దివ్యమైన బంగారు సింహాసనం మీద కూర్చున్నారు. గొప్పవారు చిన్నవారిని కూడా గౌరవిస్తారు.",
+    "voice4": "[curious, upbeat] సభలో ఇంకా ఎవరెవరు ఉన్నారు? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "అయోధ్య రాజసభ నిండుగా ఉంది... అందరి కళ్ళూ ఈ ఇద్దరి మీదే!",
+    "screen": "రాజసభ!"
+   },
+   "meaning": {
+    "voice": "దగ్గరగా కూర్చున్న మంత్రులు, సోదరులతో కలిసి ఉన్న శ్రీరాములవారు, అందమైన రూపం ఉన్న, వినయంగా నిలబడిన ఆ అన్నదమ్ములిద్దరినీ చూశారు. రూపం కన్నా వినయమే మనిషికి అందం.",
+    "screen": "సచివైః భ్రాతృభిః | రూపసంపన్నౌ | వినీతౌ"
+   },
+   "end": {
+    "voice": "శ్రీరాములవారు తన సోదరులతో ఏం అన్నారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "శ్రీరాములవారు తన సోదరులతో ఏం అన్నారు? తరువాతి భాగంలో!",
+    "cta": 4
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "The royal court of Ayodhya full of ministers, Rama on the throne",
+     "says": "అయోధ్య రాజసభ నిండుగా ఉంది... అందరి కళ్ళూ ఈ ఇద్దరి మీదే!",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Rama looking towards the two boys with gentle interest",
+     "says": "ఉపోపవిష్టైః సచివైర్భ్రాతృభిశ్చ సమన్వితః । / దృష్ట్వా తు రూపసమ్పన్నౌ వినీతౌ భ్రాతరావుభౌ ॥ 31 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: Rama looking towards the two boys with gentle interest",
+     "says": "దగ్గరగా కూర్చున్న మంత్రులు,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "King Rama seated on his throne with his brothers and ministers sitting close around him",
+     "says": "సోదరులతో కలిసి ఉన్న శ్రీరాములవారు,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Lava and Kusha standing humbly with joined palms in the court",
+     "says": "అందమైన రూపం ఉన్న, వినయంగా నిలబడిన ఆ అన్నదమ్ములిద్దరినీ చూశారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a circle of lamps around one bright central lamp",
+     "says": "రూపం కన్నా వినయమే మనిషికి అందం.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Rama turning to speak to his brothers",
+     "says": "శ్రీరాములవారు తన సోదరులతో ఏం అన్నారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 31,
+   "eleven": {
+    "voice1": "[intrigued, warm] అయోధ్య రాజసభ నిండుగా ఉంది... అందరి కళ్ళూ ఈ ఇద్దరి మీదే!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] దగ్గరగా కూర్చున్న మంత్రులు, సోదరులతో కలిసి ఉన్న శ్రీరాములవారు, అందమైన రూపం ఉన్న, వినయంగా నిలబడిన ఆ అన్నదమ్ములిద్దరినీ చూశారు. రూపం కన్నా వినయమే మనిషికి అందం.",
+    "voice4": "[curious, upbeat] శ్రీరాములవారు తన సోదరులతో ఏం అన్నారు? తరువాతి భాగంలో! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "అయోధ్య రాజు తన తమ్ముళ్ళకు ఏం చెప్పారో వినండి!",
+    "screen": "వినండి!"
+   },
+   "meaning": {
+    "voice": "దేవతల తేజస్సు ఉన్న ఈ ఇద్దరి కథను వినండి అని శ్రీరాములవారు లక్ష్మణులవారు, శత్రుఘ్నులవారు, భరతులవారితో అన్నారు. మంచి విషయాన్ని కుటుంబంతో పంచుకోవడమే గొప్ప ఆనందం.",
+    "screen": "ఉవాచ లక్ష్మణం | శ్రూయతాం | దేవవర్చసోః"
+   },
+   "end": {
+    "voice": "శ్రీరాములవారు ఆ బాలలను ఏం అడిగారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+    "teaser": "శ్రీరాములవారు ఆ బాలలను ఏం అడిగారు? తరువాతి భాగంలో!",
+    "cta": 2
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Rama turning to his three brothers and speaking warmly",
+     "says": "అయోధ్య రాజు తన తమ్ముళ్ళకు ఏం చెప్పారో వినండి!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Rama on the throne, raising his hand gently",
+     "says": "ఉవాచ లక్ష్మణం రామః శత్రుఘ్నం భరతం తథా । / శ్రూయతామేతదాఖ్యానమనయోర్దేవవర్చసోః ॥ 32 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: Rama on the throne, raising his hand gently",
+     "says": "దేవతల తేజస్సు ఉన్న ఈ ఇద్దరి కథను వినండి అని శ్రీరాములవారు లక్ష్మణులవారు,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Bharata, Lakshmana and Shatrughna listening attentively",
+     "says": "శత్రుఘ్నులవారు, భరతులవారితో అన్నారు.",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Lava and Kusha glowing softly with a divine radiance",
+     "says": "మంచి విషయాన్ని కుటుంబంతో పంచుకోవడమే గొప్ప ఆనందం.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a family seated together around a single lamp",
+     "says": "- **రిఫరెన్స్:** అవసరం లేదు",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Rama looking kindly at the boys, about to ask them to sing",
+     "says": "శ్రీరాములవారు ఆ బాలలను ఏం అడిగారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 32,
+   "eleven": {
+    "voice1": "[excited, bright] అయోధ్య రాజు తన తమ్ముళ్ళకు ఏం చెప్పారో వినండి!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] దేవతల తేజస్సు ఉన్న ఈ ఇద్దరి కథను వినండి అని శ్రీరాములవారు లక్ష్మణులవారు, శత్రుఘ్నులవారు, భరతులవారితో అన్నారు. మంచి విషయాన్ని కుటుంబంతో పంచుకోవడమే గొప్ప ఆనందం.",
+    "voice4": "[curious, upbeat] శ్రీరాములవారు ఆ బాలలను ఏం అడిగారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "శ్రీరాములవారి ముందు... శ్రీరాములవారి కథే పాడటం మొదలుపెట్టారు!",
+    "screen": "పాట మొదలైంది!"
+   },
+   "meaning": {
+    "voice": "అద్భుతమైన అర్థం, మాటలు ఉన్న ఆ కావ్యాన్ని చక్కగా పాడమని శ్రీరాములవారు ఆ గాయకులను అడిగారు. వారిద్దరూ తియ్యగా, భావంతో, మనసులోనుండి వచ్చిన స్వరంతో పాడటం మొదలుపెట్టారు. మనసు నుండి వచ్చే పాటే నిజమైన పాట.",
+    "screen": "సమచోదయత్ | మధురం రక్తం | స్వచిత్తాయతనిఃస్వనం"
+   },
+   "end": {
+    "voice": "ఆ పాట సభను ఎలా మార్చింది? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఆ పాట సభను ఎలా మార్చింది? తరువాతి భాగంలో!",
+    "cta": 1
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Rama on the throne gesturing kindly for the boys to begin",
+     "says": "శ్రీరాములవారి ముందు... శ్రీరాములవారి కథే పాడటం మొదలుపెట్టారు!",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Lava and Kusha beginning to sing in the royal court",
+     "says": "విచిత్రార్థపదం సమ్యగ్గాయకౌ సమచోదయత్ । / తౌ చాపి మధురం రక్తం స్వచిత్తాయతనిఃస్వనమ్ ॥ 33 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: Lava and Kusha beginning to sing in the royal court",
+     "says": "అద్భుతమైన అర్థం,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "King Rama gesturing kindly to the two young singers to begin their song",
+     "says": "మాటలు ఉన్న ఆ కావ్యాన్ని చక్కగా పాడమని శ్రీరాములవారు ఆ గాయకులను అడిగారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "The whole court falling silent to listen",
+     "says": "వారిద్దరూ తియ్యగా, భావంతో, మనసులోనుండి వచ్చిన స్వరంతో పాడటం మొదలుపెట్టారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a voice turning into rays of light that fill a hall",
+     "says": "మనసు నుండి వచ్చే పాటే నిజమైన పాట.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "The boys singing on, the court lamps glowing softly",
+     "says": "ఆ పాట సభను ఎలా మార్చింది? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 33,
+   "eleven": {
+    "voice1": "[intrigued, warm] శ్రీరాములవారి ముందు... శ్రీరాములవారి కథే పాడటం మొదలుపెట్టారు!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] అద్భుతమైన అర్థం, మాటలు ఉన్న ఆ కావ్యాన్ని చక్కగా పాడమని శ్రీరాములవారు ఆ గాయకులను అడిగారు. వారిద్దరూ తియ్యగా, భావంతో, మనసులోనుండి వచ్చిన స్వరంతో పాడటం మొదలుపెట్టారు. మనసు నుండి వచ్చే పాటే నిజమైన పాట.",
+    "voice4": "[curious, upbeat] ఆ పాట సభను ఎలా మార్చింది? తరువాతి భాగంలో! మీ కుటుంబంతో షేర్ చేసి, ఛానల్‌ని సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "ఈ పాట విన్న రాజసభలో ఎవరూ కదలలేదు!",
+    "screen": "మైమరపు!"
+   },
+   "meaning": {
+    "voice": "వీణ తంత్రి, తాళంతో, అర్థం స్పష్టంగా తెలిసేలా వారు పాడారు. ఆ పాట అందరి శరీరాలకూ, మనసులకూ, హృదయాలకూ ఆనందం ఇచ్చింది. చెవులకు హాయినిచ్చే ఆ గానం ఆ సభలో వెలిగిపోయింది. మంచి సంగీతం మనసును శుద్ధి చేస్తుంది.",
+    "screen": "హ్లాదయత్ | మనాంసి హృదయాని | జనసంసది"
+   },
+   "end": {
+    "voice": "సభలో శ్రీరాములవారు ఏమన్నారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+    "teaser": "సభలో శ్రీరాములవారు ఏమన్నారు? తరువాతి భాగంలో!",
+    "cta": 2
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "The royal court completely still, everyone listening in rapture",
+     "says": "ఈ పాట విన్న రాజసభలో ఎవరూ కదలలేదు!",
+     "mood": "joyful"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Lava and Kusha singing, a veena keeping rhythm beside them",
+     "says": "తన్త్రీలయవదత్యర్థం విశ్రుతార్థమగాయతామ్ । / హ్లాదయత్ సర్వగాత్రాణి మనాంసి హృదయాని చ । / శ్రోత్రాశ్రయసుఖం గేయం తద్ బభౌ జనసంసది ॥ 34 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: Lava and Kusha singing, a veena keeping rhythm beside them",
+     "says": "వీణ తంత్రి, తాళంతో, అర్థం స్పష్టంగా తెలిసేలా వారు పాడారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Ministers and courtiers listening with closed eyes and gentle smiles",
+     "says": "ఆ పాట అందరి శరీరాలకూ, మనసులకూ, హృదయాలకూ ఆనందం ఇచ్చింది.",
+     "mood": "joyful"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "Soft golden light filling the court as the boys sing",
+     "says": "చెవులకు హాయినిచ్చే ఆ గానం ఆ సభలో వెలిగిపోయింది.",
+     "mood": "joyful"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: golden light spreading through a hall from a single source",
+     "says": "మంచి సంగీతం మనసును శుద్ధి చేస్తుంది.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "Rama on the throne, moved, about to speak",
+     "says": "సభలో శ్రీరాములవారు ఏమన్నారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!",
+     "mood": "joyful"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 34,
+   "eleven": {
+    "voice1": "[excited, bright] ఈ పాట విన్న రాజసభలో ఎవరూ కదలలేదు!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] వీణ తంత్రి, తాళంతో, అర్థం స్పష్టంగా తెలిసేలా వారు పాడారు. ఆ పాట అందరి శరీరాలకూ, మనసులకూ, హృదయాలకూ ఆనందం ఇచ్చింది. చెవులకు హాయినిచ్చే ఆ గానం ఆ సభలో వెలిగిపోయింది. మంచి సంగీతం మనసును శుద్ధి చేస్తుంది.",
+    "voice4": "[curious, upbeat] సభలో శ్రీరాములవారు ఏమన్నారు? తరువాతి భాగంలో! కామెంట్‌లో \"జై శ్రీరామ్\" అని రాసి, లైక్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "శ్రీరాములవారు ఈ పిల్లల గురించి సభకు ఏం చెప్పారో వినండి!",
+    "screen": "శ్రీరాములవారి మాట!"
+   },
+   "meaning": {
+    "voice": "రాజ లక్షణాలు ఉన్న ఈ ఇద్దరు మునులు కుశలవులు గొప్ప తపస్వులు, ఈ చరిత్ర నాకు కూడా మేలు చేస్తుందని చెబుతారు, ఈ గొప్ప కథను అందరూ వినండి అని శ్రీరాములవారు సభతో అన్నారు. గొప్పవారు కూడా మంచి కథ వినడానికి వినయంగా సిద్ధంగా ఉంటారు.",
+    "screen": "పార్థివలక్షణాన్వితౌ | మహాతపస్వినౌ | భూతికరం"
+   },
+   "end": {
+    "voice": "ఆ తరువాత సభలో ఏం జరిగింది? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఆ తరువాత సభలో ఏం జరిగింది? తరువాతి భాగంలో!",
+    "cta": 3
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "Rama speaking to the assembled court from the throne",
+     "says": "శ్రీరాములవారు ఈ పిల్లల గురించి సభకు ఏం చెప్పారో వినండి!",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "Close view of Rama, calm and gracious",
+     "says": "ఇమౌ మునీ పార్థివలక్షణాన్వితౌ కుశీలవౌ చైవ మహాతపస్వినౌ । / మమాపి తద్ భూతికరం ప్రచక్షతే మహానుభావం చరితం నిబోధత ॥ 35 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: Close view of Rama, calm and gracious",
+     "says": "రాజ లక్షణాలు ఉన్న ఈ ఇద్దరు మునులు కుశలవులు గొప్ప తపస్వులు,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Lava and Kusha standing with a noble, royal bearing",
+     "says": "ఈ చరిత్ర నాకు కూడా మేలు చేస్తుందని చెబుతారు,",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "The court listening to Rama with respect",
+     "says": "ఈ గొప్ప కథను అందరూ వినండి అని శ్రీరాములవారు సభతో అన్నారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": false,
+     "shows": "Symbolic shot: a king bowing his head before a glowing book",
+     "says": "గొప్పవారు కూడా మంచి కథ వినడానికి వినయంగా సిద్ధంగా ఉంటారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "The boys preparing to sing again",
+     "says": "ఆ తరువాత సభలో ఏం జరిగింది? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 35,
+   "eleven": {
+    "voice1": "[intrigued, warm] శ్రీరాములవారు ఈ పిల్లల గురించి సభకు ఏం చెప్పారో వినండి!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] రాజ లక్షణాలు ఉన్న ఈ ఇద్దరు మునులు కుశలవులు గొప్ప తపస్వులు, ఈ చరిత్ర నాకు కూడా మేలు చేస్తుందని చెబుతారు, ఈ గొప్ప కథను అందరూ వినండి అని శ్రీరాములవారు సభతో అన్నారు. గొప్పవారు కూడా మంచి కథ వినడానికి వినయంగా సిద్ధంగా ఉంటారు.",
+    "voice4": "[curious, upbeat] ఆ తరువాత సభలో ఏం జరిగింది? తరువాతి భాగంలో! లైక్ చేసి, ఇలాంటి శ్లోకాల కోసం సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  },
+  {
+   "hook": {
+    "voice": "తన కథనే వింటూ... శ్రీరాములవారు కూడా అందులో లీనమైపోయారు!",
+    "screen": "లీనమయ్యారు!"
+   },
+   "meaning": {
+    "voice": "శ్రీరాములవారి మాటతో ప్రోత్సాహం పొందిన కుశలవులు మార్గ సంగీత పద్ధతిలో అద్భుతంగా పాడారు. సభలో ఉన్న శ్రీరాములవారు కూడా మెల్లగా ఆ కథలో మనసు పూర్తిగా లీనం చేశారు. మంచి కథ రాజునైనా, సామాన్యుడినైనా ఒకేలా కదిలిస్తుంది.",
+    "screen": "రామవచః ప్రచోదితౌ | మార్గవిధానసంపదా | శనైః"
+   },
+   "end": {
+    "voice": "ఆ కావ్యం ఏ దేశం, ఏ నగరంతో మొదలవుతుందో తెలుసా? ఐదవ సర్గలో చూద్దాం! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+    "teaser": "ఆ కావ్యం ఏ దేశం, ఏ నగరంతో మొదలవుతుందో తెలుసా? ఐదవ సర్గలో చూద్దాం!",
+    "cta": 4
+   },
+   "clips": [
+    {
+     "label": "హుక్",
+     "video": true,
+     "shows": "King Rama on his throne with his eyes closed, deeply moved, lost in his own story as the two boys sing before him",
+     "says": "తన కథనే వింటూ... శ్రీరాములవారు కూడా అందులో లీనమైపోయారు!",
+     "mood": "mystery"
+    },
+    {
+     "label": "శ్లోకం & పదార్థం",
+     "video": false,
+     "shows": "The boys singing in the classical style, hands keeping time",
+     "says": "తతస్తు తౌ రామవచః ప్రచోదితావగాయతాం మార్గవిధానసమ్పదా । / స చాపి రామః పరిషద్గతః శనైర్బుభూషయాసక్తమనా బభూవ హ ॥ 36 ॥",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 1",
+     "video": false,
+     "shows": "Closer view: The boys singing in the classical style, hands keeping time",
+     "says": "శ్రీరాములవారి మాటతో ప్రోత్సాహం పొందిన కుశలవులు మార్గ సంగీత పద్ధతిలో అద్భుతంగా పాడారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 2",
+     "video": false,
+     "shows": "Lava and Kusha singing in the royal court with full voices, encouraged by the king",
+     "says": "సభలో ఉన్న శ్రీరాములవారు కూడా మెల్లగా ఆ కథలో మనసు పూర్తిగా లీనం చేశారు.",
+     "mood": "calm"
+    },
+    {
+     "label": "తాత్పర్యం – 3",
+     "video": false,
+     "shows": "The whole court absorbed in the song",
+     "says": "మంచి కథ రాజునైనా, సామాన్యుడినైనా ఒకేలా కదిలిస్తుంది.",
+     "mood": "calm"
+    },
+    {
+     "label": "జీవిత పాఠం",
+     "video": true,
+     "shows": "Symbolic shot: a river of golden light flowing through a royal hall",
+     "says": "- **రిఫరెన్స్:** అవసరం లేదు",
+     "mood": "calm"
+    },
+    {
+     "label": "ముగింపు & CTA",
+     "video": false,
+     "shows": "A wide golden view of the city of Ayodhya on the Sarayu river",
+     "says": "ఆ కావ్యం ఏ దేశం, ఏ నగరంతో మొదలవుతుందో తెలుసా? ఐదవ సర్గలో చూద్దాం! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!",
+     "mood": "mystery"
+    }
+   ],
+   "lines": [],
+   "words": [],
+   "n": 36,
+   "eleven": {
+    "voice1": "[intrigued, warm] తన కథనే వింటూ... శ్రీరాములవారు కూడా అందులో లీనమైపోయారు!",
+    "voice2": "",
+    "voice3": "[warm, storytelling] శ్రీరాములవారి మాటతో ప్రోత్సాహం పొందిన కుశలవులు మార్గ సంగీత పద్ధతిలో అద్భుతంగా పాడారు. సభలో ఉన్న శ్రీరాములవారు కూడా మెల్లగా ఆ కథలో మనసు పూర్తిగా లీనం చేశారు. మంచి కథ రాజునైనా, సామాన్యుడినైనా ఒకేలా కదిలిస్తుంది.",
+    "voice4": "[curious, upbeat] ఆ కావ్యం ఏ దేశం, ఏ నగరంతో మొదలవుతుందో తెలుసా? ఐదవ సర్గలో చూద్దాం! \"జై శ్రీరామ్\" అని కామెంట్ చేసి, సబ్‌స్క్రైబ్ చేయండి!"
+   }
+  }
+ ]
+}

@@ -1,61 +1,105 @@
 {
-  "shorts": {
-    "1_Bala_Kanda": {
-      "1": "https://claude.ai/artifact/8oC1VrGMnbHfa4MdckxJKy",
-      "2": "https://claude.ai/artifact/TJ1s5GXtKxVAg5vJjLjydY",
-      "3": "https://claude.ai/artifact/CoLxSXfhsHhNK2kPinrEmU",
-      "4": "https://claude.ai/artifact/PUdhWZA5zMDS7SNyR5KQgQ"
-    }
-  },
-  "long": [
-    [
-      "పరిచయం + బాలకాండ",
-      "16 వీడియోలు",
-      "https://claude.ai/artifact/J3PwBdS9cGRz95zjMC6Nud"
-    ],
-    [
-      "అయోధ్యకాండ",
-      "25 వీడియోలు",
-      "https://claude.ai/artifact/97J99gZsiqKiiitF1vpU28"
-    ],
-    [
-      "అరణ్యకాండ",
-      "17 వీడియోలు",
-      "https://claude.ai/artifact/DTAVexqkQ6yhWzXza6GcwU"
-    ],
-    [
-      "కిష్కింధకాండ",
-      "13 వీడియోలు",
-      "https://claude.ai/artifact/B5pwT1kM3Aw9deiTe2B5e6"
-    ],
-    [
-      "సుందరకాండ",
-      "10 వీడియోలు",
-      "https://claude.ai/artifact/75UpZo8N6V1ExpjiPsEVYa"
-    ],
-    [
-      "యుద్ధకాండ",
-      "తరువాత",
-      null
-    ]
+ "shorts": {
+  "1_Bala_Kanda": {
+   "1": "https://claude.ai/artifact/8oC1VrGMnbHfa4MdckxJKy",
+   "2": "https://claude.ai/artifact/TJ1s5GXtKxVAg5vJjLjydY",
+   "3": "https://claude.ai/artifact/CoLxSXfhsHhNK2kPinrEmU",
+   "4": "https://claude.ai/artifact/PUdhWZA5zMDS7SNyR5KQgQ"
+  }
+ },
+ "long": [
+  [
+   "పరిచయం + బాలకాండ",
+   "16 వీడియోలు",
+   "https://claude.ai/artifact/J3PwBdS9cGRz95zjMC6Nud"
   ],
-  "quiz": [
-    [
-      "పురాణ ప్రశ్నలు",
-      "రామాయణం · మహాభారతం · భాగవతం — 12 Shorts, 48 ప్రశ్నలు",
-      "https://claude.ai/artifact/Xinu3pPQmSBQ9hiEoEJ8DT"
-    ]
+  [
+   "అయోధ్యకాండ",
+   "25 వీడియోలు",
+   "https://claude.ai/artifact/97J99gZsiqKiiitF1vpU28"
   ],
-  "other": [
-    [
-      "బాలకాండ – ఎపిసోడ్ వారీ కిట్ (పాతది)",
-      "ఒక్కో ఎపిసోడ్ సీన్ ప్రాంప్ట్‌లు",
-      "https://claude.ai/artifact/8ijSCsoonXmUDBiW5YaPZK"
-    ],
-    [
-      "Production Bible",
-      "పాత్రలు, శైలి, నియమాలు",
-      "https://claude.ai/artifact/Ma4HieJYj9dfYTMtwS9KQ5"
-    ]
+  [
+   "అరణ్యకాండ",
+   "17 వీడియోలు",
+   "https://claude.ai/artifact/DTAVexqkQ6yhWzXza6GcwU"
+  ],
+  [
+   "కిష్కింధకాండ",
+   "13 వీడియోలు",
+   "https://claude.ai/artifact/B5pwT1kM3Aw9deiTe2B5e6"
+  ],
+  [
+   "సుందరకాండ",
+   "10 వీడియోలు",
+   "https://claude.ai/artifact/75UpZo8N6V1ExpjiPsEVYa"
+  ],
+  [
+   "యుద్ధకాండ",
+   "తరువాత",
+   null
   ]
+ ],
+ "quiz": [
+  [
+   "పురాణ ప్రశ్నలు",
+   "రామాయణం · మహాభారతం · భాగవతం — 12 Shorts, 48 ప్రశ్నలు",
+   "https://claude.ai/artifact/Xinu3pPQmSBQ9hiEoEJ8DT"
+  ]
+ ],
+ "other": [
+  [
+   "సంక్షిప్త రామాయణం – పార్ట్ 1",
+   "",
+   "https://claude.ai/artifact/JaxECngHZLuuERv5qqDqua"
+  ],
+  [
+   "వాల్మీకి సినిమా – బాలకాండ సర్గ 1",
+   "",
+   "https://claude.ai/artifact/8BPjqeaoewbjV6oruBeQoW"
+  ],
+  [
+   "వాల్మీకి సినిమా – ప్రారంభం",
+   "సర్గలు 1–4 సినిమా కథ",
+   "https://claude.ai/artifact/WY9cKukr28QqaFZV9gN72z"
+  ],
+  [
+   "శ్రీ రామాయణ గీతాలు",
+   "శ్లోకాల పాటలు · సర్గ పాటలు · దేవుళ్ళ పాటలు (Suno)",
+   "https://claude.ai/artifact/BsSovnyNGMgtoUDu1YZdTh"
+  ],
+  [
+   "సినిమాలు vs వాల్మీకి రామాయణం",
+   "2 భాగాల ప్రత్యేక వీడియో",
+   "https://claude.ai/artifact/8d7GePLs2HPiNX1he8Trjs"
+  ],
+  [
+   "బాలకాండ – ఎపిసోడ్ వారీ కిట్ (పాతది)",
+   "ఒక్కో ఎపిసోడ్ సీన్ ప్రాంప్ట్‌లు",
+   "https://claude.ai/artifact/8ijSCsoonXmUDBiW5YaPZK"
+  ],
+  [
+   "Production Bible",
+   "పాత్రలు, శైలి, నియమాలు",
+   "https://claude.ai/artifact/Ma4HieJYj9dfYTMtwS9KQ5"
+  ]
+ ],
+ "vaibhavam": [
+  [
+   "🔥 రామాయణ వైభవం",
+   "20 యాక్షన్ Shorts · రాముడు, హనుమ, విశ్వామిత్రుడు, జటాయువు… · హీరో సంగీతం, Vagmin వాయిస్",
+   "https://claude.ai/artifact/8WMbeN4q9cTNjJGzhJYkik"
+  ],
+  [
+   "💙 కృష్ణ లీలా వైభవం",
+   "చిన్ని కృష్ణుడు · దామోదర లూప్ Short · కథ Shorts (శ్రీమద్భాగవతం)",
+   "https://claude.ai/artifact/4j7ysHn85wq6ffA8AmLunA"
+  ]
+ ],
+ "sundara": [
+  [
+   "🙏 సుందరకాండ పారాయణం – పాటలు, బొమ్మలు",
+   "వాల్మీకి శ్లోకాలతో పాటలు, సర్గ 1–5 · Suno సాహిత్యం, స్టైల్ కాపీ · ప్రతి భాగానికి Flow బొమ్మలు (16:9, 9:16), వీడియో prompts, thumbnails",
+   "https://claude.ai/artifact/4qgKXLpd73bEufRwYpK3vG"
+  ]
+ ]
 }
